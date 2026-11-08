@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T16:27:52+00:00",
+ "updated": "2026-11-08T17:09:47+00:00",
  "feeds_ok": 20,
  "feeds_failed": 3,
  "news": [
@@ -27,6 +27,15 @@
    "source": "Boxing News (UK)",
    "lang": "en",
    "date": "2026-11-08T15:20:29+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Russo shines at Anfield, Spurs fight back, United leave it late - WSL round-up",
+   "link": "https://www.skysports.com/football/news/12040/13608979/wsl-liverpool-1-2-arsenal-aston-villa-0-1-man-utd-8211-alessia-russo-double-inspires-gunners-as-julia-zigiotti-olme-earns-late-united-win",
+   "source": "Sky Sports Boxing",
+   "lang": "en",
+   "date": "2026-11-08T15:07:00+00:00",
    "status": "unverified",
    "boxers": []
   },
@@ -118,15 +127,6 @@
    "boxers": []
   },
   {
-   "title": "English hopes fade as Pelaez hits hole-in-one en route to title in China",
-   "link": "https://www.skysports.com/golf/news/12040/13609617/aramco-china-championship-mimi-rhodes-and-fellow-english-players-miss-out-on-title-as-spains-ana-pelaez-storms-to-victory",
-   "source": "Sky Sports Boxing",
-   "lang": "en",
-   "date": "2026-11-08T09:30:00+00:00",
-   "status": "unverified",
-   "boxers": []
-  },
-  {
    "title": "Abraham Perez vs Yankiel Rivera: Fight video highlights",
    "link": "https://www.fightmag.com/abraham-perez-vs-yankiel-rivera-fight-video-highlights/",
    "source": "Fightmag",
@@ -201,31 +201,11 @@
    "boxers": []
   },
   {
-   "title": "Deontay Wilder-Jai Opetaia: Tyson Fury Has Things To Say",
-   "link": "https://www.boxinginsider.com/headlines/deontay-wilder-jai-opetaia-tyson-fury-has-things-to-say/",
-   "source": "Boxing Insider",
-   "lang": "en",
-   "date": "2026-11-08T04:07:27+00:00",
-   "status": "unverified",
-   "boxers": [
-    "Tyson Fury"
-   ]
-  },
-  {
    "title": "Dana White’s Shakur Split Weakens His American Boxing Plan",
    "link": "https://www.boxingnews24.com/2026/11/dana-whites-shakur-split-weakens-his-american-boxing-plan/",
    "source": "Boxing News 24",
    "lang": "en",
    "date": "2026-11-08T03:23:58+00:00",
-   "status": "unverified",
-   "boxers": []
-  },
-  {
-   "title": "The Return Of Vasyl Lomachenko",
-   "link": "https://www.boxinginsider.com/headlines/the-return-of-vasyl-lomachenko/",
-   "source": "Boxing Insider",
-   "lang": "en",
-   "date": "2026-11-08T02:26:26+00:00",
    "status": "unverified",
    "boxers": []
   },
@@ -333,15 +313,6 @@
     "Joshua Buatsi",
     "Anthony Joshua"
    ]
-  },
-  {
-   "title": "Lozano-Rivera en ¨Night of Champions¨  en Bayamón, Puerto Rico el 5 de diciembre",
-   "link": "https://fightnews.com/lozano-rivera-en-%c2%a8night-of-champions%c2%a8-en-bayamon-puerto-rico-el-5-de-diciembre/199890",
-   "source": "Fightnews",
-   "lang": "en",
-   "date": "2026-11-07T21:36:36+00:00",
-   "status": "unverified",
-   "boxers": []
   },
   {
    "title": "Joshua Buatsi vs Willy Hutchinson 2 Live Results: Round-by-Round Updates",
@@ -721,15 +692,6 @@
    "boxers": []
   },
   {
-   "title": "Devin Haney and Liam Paro Set for Welterweight Unification December 19 in San Francisco",
-   "link": "https://www.boxinginsider.com/headlines/devin-haney-and-liam-paro-set-for-welterweight-unification-december-19-in-san-francisco/",
-   "source": "Boxing Insider",
-   "lang": "en",
-   "date": "2026-11-05T20:20:01+00:00",
-   "status": "unverified",
-   "boxers": []
-  },
-  {
    "title": "Vasiliy Lomachenko returns to Top Rank – fight date and opponent teased",
    "link": "https://bigfightweekend.com/2026/11/05/vasiliy-lomachenko-fight-date-tease/",
    "source": "Big Fight Weekend",
@@ -819,15 +781,6 @@
    "boxers": []
   },
   {
-   "title": "Zuffa Boxing 12 Preview: Billam-Smith and Clarke Settle a Ten-Year Score in London",
-   "link": "https://www.boxinginsider.com/headlines/zuffa-boxing-12-preview-billam-smith-and-clarke-settle-a-ten-year-score-in-london/",
-   "source": "Boxing Insider",
-   "lang": "en",
-   "date": "2026-11-05T14:21:50+00:00",
-   "status": "unverified",
-   "boxers": []
-  },
-  {
    "title": "Derek Chisora reveals Anthony Joshua is 'killing it' in training for Tyson Fury",
    "link": "https://www.boxingscene.com/articles/derek-chisora-reveals-anthony-joshua-is-killing-it-in-training-for-tyson-fury",
    "source": "Boxing Scene",
@@ -863,15 +816,6 @@
    "source": "World Boxing News",
    "lang": "en",
    "date": "2026-11-05T10:28:58+00:00",
-   "status": "unverified",
-   "boxers": []
-  },
-  {
-   "title": "Deontay Wilder Deserves This Big Fight.",
-   "link": "https://www.boxinginsider.com/headlines/deontay-wilder-deserves-this-big-fight/",
-   "source": "Boxing Insider",
-   "lang": "en",
-   "date": "2026-11-04T21:22:31+00:00",
    "status": "unverified",
    "boxers": []
   },
@@ -940,18 +884,6 @@
    "date": "2026-11-04T16:09:57+00:00",
    "status": "unverified",
    "boxers": []
-  },
-  {
-   "title": "Deontay Wilder vs Jai Opetaia Added to Fury vs Joshua Card in Cardiff",
-   "link": "https://www.boxinginsider.com/headlines/deontay-wilder-vs-jai-opetaia-added-to-fury-vs-joshua-card-in-cardiff/",
-   "source": "Boxing Insider",
-   "lang": "en",
-   "date": "2026-11-04T15:14:45+00:00",
-   "status": "unverified",
-   "boxers": [
-    "Tyson Fury",
-    "Anthony Joshua"
-   ]
   },
   {
    "title": "Terence Crawford teases one more fight as boxing struggles to embrace a new generation",
@@ -1206,15 +1138,6 @@
    "boxers": []
   },
   {
-   "title": "The Morning After in Riyadh: Mbilli Camp Says It Was Closer, the Punch Stats Disagree, Canelo Wants Crawford, and Nobody Has an Attendance Figure",
-   "link": "https://www.boxinginsider.com/headlines/the-morning-after-in-riyadh-mbilli-camp-says-it-was-closer-the-punch-stats-disagree-canelo-wants-crawford-and-nobody-has-an-attendance-figure/",
-   "source": "Boxing Insider",
-   "lang": "en",
-   "date": "2026-11-01T19:50:07+00:00",
-   "status": "rumor",
-   "boxers": []
-  },
-  {
    "title": "Joshua Buatsi and the decade-long marathon to a world title",
    "link": "https://www.boxingscene.com/articles/joshua-buatsi-and-the-decade-long-marathon-to-a-world-title",
    "source": "Boxing Scene",
@@ -1274,15 +1197,6 @@
    "boxers": [
     "Oleksandr Usyk"
    ]
-  },
-  {
-   "title": "Canelo Shows He’s Not Done Yet",
-   "link": "https://www.boxinginsider.com/headlines/canelo-shows-hes-not-done-yet/",
-   "source": "Boxing Insider",
-   "lang": "en",
-   "date": "2026-11-01T01:42:30+00:00",
-   "status": "unverified",
-   "boxers": []
   },
   {
    "title": "The Accuracy and Defense of Canelo Prove Too Much for Mbilli",
@@ -1812,6 +1726,15 @@
    "boxers": []
   },
   {
+   "title": "Kid Austin And The WBA Title.",
+   "link": "https://www.boxinginsider.com/headlines/kid-austin-and-the-wba-title/",
+   "source": "Boxing Insider",
+   "lang": "en",
+   "date": "2026-10-10T02:16:21+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
    "title": "Avila Perspective, Chap 397: Chicago Title Fight Headlines Weekend Boxing, With More Action in Long Beach",
    "link": "https://tss.ib.tv/boxing/avila-perspective-chap-397-chicago-title-fight-headlines-weekend-boxing-with-more-action-in-long-beach/",
    "source": "The Sweet Science",
@@ -1830,11 +1753,53 @@
    "boxers": []
   },
   {
+   "title": "Fury vs. Joshua Sells Out Cardiff in Under an Hour With No Undercard and a 1am Ring Walk",
+   "link": "https://www.boxinginsider.com/headlines/fury-vs-joshua-sells-out-cardiff-in-under-an-hour-with-no-undercard-and-a-1am-ring-walk/",
+   "source": "Boxing Insider",
+   "lang": "en",
+   "date": "2026-10-09T14:30:02+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Tyson Fury",
+    "Anthony Joshua"
+   ]
+  },
+  {
    "title": "Las 80.000 entradas para el Fury-Joshua se agotan en una hora",
    "link": "https://www.marca.com/boxeo/2026/10/09/80-000-entradas-fury-joshua-agotan-hora.html",
    "source": "Marca Boxeo",
    "lang": "es",
    "date": "2026-10-09T13:27:29+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Tyson Fury",
+    "Anthony Joshua"
+   ]
+  },
+  {
+   "title": "Two Deals, One Week: Where Boxing Sits as Skydance and DAZN Redraw Sports Media",
+   "link": "https://www.boxinginsider.com/headlines/two-deals-one-week-where-boxing-sits-as-skydance-and-dazn-redraw-sports-media/",
+   "source": "Boxing Insider",
+   "lang": "en",
+   "date": "2026-10-08T18:40:41+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Canelo vs. Mbilli Undercard Set: Munguia, Espinoza and a Vacant IBF Title Fight Join “Mexico vs. Rest of the World” in Riyadh",
+   "link": "https://www.boxinginsider.com/uncategorized/canelo-vs-mbilli-undercard-set-munguia-espinoza-and-a-vacant-ibf-title-fight-join-mexico-vs-rest-of-the-world-in-riyadh/",
+   "source": "Boxing Insider",
+   "lang": "en",
+   "date": "2026-10-08T18:02:21+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Joshua-Fury Is About Joshua-Fury, Not Promoters",
+   "link": "https://www.boxinginsider.com/headlines/joshua-fury-is-about-joshua-fury-not-promoters/",
+   "source": "Boxing Insider",
+   "lang": "en",
+   "date": "2026-10-08T17:23:58+00:00",
    "status": "unverified",
    "boxers": [
     "Tyson Fury",
@@ -1852,6 +1817,35 @@
     "Tyson Fury",
     "Anthony Joshua"
    ]
+  },
+  {
+   "title": "Dana White Posted a Ticket Promo for the Fight He’s Been Told He Can’t Promote",
+   "link": "https://www.boxinginsider.com/headlines/dana-white-posted-a-ticket-promo-for-the-fight-hes-been-told-he-cant-promote/",
+   "source": "Boxing Insider",
+   "lang": "en",
+   "date": "2026-10-07T16:07:19+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Hearn Says TKO Went Around Him and Offered Joshua Money to Let Zuffa Promote the Fight",
+   "link": "https://www.boxinginsider.com/headlines/hearn-explains-why-the-two-contracts-dont-match-theyll-agree-to-things-without-actually-thinking-about-both-sides/",
+   "source": "Boxing Insider",
+   "lang": "en",
+   "date": "2026-10-06T18:43:05+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Anthony Joshua"
+   ]
+  },
+  {
+   "title": "Tomorrow Zuffa Boxing’s Broadcaster Becomes the Biggest Sports Company in America",
+   "link": "https://www.boxinginsider.com/headlines/tomorrow-zuffa-boxings-broadcaster-becomes-the-biggest-sports-company-in-america/",
+   "source": "Boxing Insider",
+   "lang": "en",
+   "date": "2026-10-05T19:33:57+00:00",
+   "status": "unverified",
+   "boxers": []
   },
   {
    "title": "La Asociación Internacional de boxeo dará a conocer sus proyectos en Estambul",
