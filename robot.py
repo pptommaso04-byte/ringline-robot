@@ -29,7 +29,7 @@ def log(msg):
     with open(DATA / "log.txt", "a", encoding="utf-8") as f: f.write(line + "\n")
 
 def fetch(url, timeout=20):
-        req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "application/rss+xml, application/xml, text/xml, */*", "Accept-Language": "en-US,en;q=0.9", "Referer": "https://www.google.com/"})
+    req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "application/rss+xml, application/xml, text/xml, */*", "Accept-Language": "en-US,en;q=0.9", "Referer": "https://www.google.com/"})
     with urllib.request.urlopen(req, timeout=timeout) as r:
         return r.read()
 
