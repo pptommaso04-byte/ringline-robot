@@ -1,8 +1,26 @@
 {
- "updated": "2026-11-08T01:55:48+00:00",
- "feeds_ok": 7,
- "feeds_failed": 4,
+ "updated": "2026-11-08T02:16:22+00:00",
+ "feeds_ok": 20,
+ "feeds_failed": 3,
  "news": [
+  {
+   "title": "Elif Nur Turhan Defends Her IBF Title Against Alycia Baumgardner",
+   "link": "https://www.boxingnews24.com/2026/11/elif-nur-turhan-defends-her-ibf-title-against-alycia-baumgardner/",
+   "source": "Boxing News 24",
+   "lang": "en",
+   "date": "2026-11-08T01:24:51+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Hutchinson Wins WBC Title, Rea Stops Taylor",
+   "link": "https://www.boxingnews24.com/2026/11/hutchinson-wins-wbc-title-rea-stops-taylor/",
+   "source": "Boxing News 24",
+   "lang": "en",
+   "date": "2026-11-08T01:11:51+00:00",
+   "status": "confirmed",
+   "boxers": []
+  },
   {
    "title": "Joshua Buatsi vs Willy Hutchinson 2: Fight video highlights",
    "link": "https://www.fightmag.com/joshua-buatsi-vs-willy-hutchinson-2-fight-video-highlights/",
@@ -16,6 +34,49 @@
    ]
   },
   {
+   "title": "Hutchinson Wins Buatsi Rematch Along With WBC Title",
+   "link": "https://fightnews.com/hutchinson-wins-buatsi-rematch-along-with-wbc-title/199905",
+   "source": "Fightnews",
+   "lang": "en",
+   "date": "2026-11-08T00:19:54+00:00",
+   "status": "confirmed",
+   "boxers": [
+    "Joshua Buatsi"
+   ]
+  },
+  {
+   "title": "Willy Hutchinson earns revenge, a world title in rematch win over Joshua Buatsi",
+   "link": "https://www.boxingscene.com/articles/willy-hutchinson-earns-revenge-a-world-title-in-rematch-win-over-joshua-buatsi",
+   "source": "Boxing Scene",
+   "lang": "en",
+   "date": "2026-11-07T23:49:55+00:00",
+   "status": "confirmed",
+   "boxers": [
+    "Joshua Buatsi",
+    "Anthony Joshua"
+   ]
+  },
+  {
+   "title": "Willy Hutchinson Beats Buatsi To Claim WBC Title",
+   "link": "https://www.boxingnews24.com/2026/11/willy-hutchinson-beats-buatsi-to-claim-wbc-title/",
+   "source": "Boxing News 24",
+   "lang": "en",
+   "date": "2026-11-07T23:30:22+00:00",
+   "status": "confirmed",
+   "boxers": [
+    "Joshua Buatsi"
+   ]
+  },
+  {
+   "title": "Zuffa Boxing 12 results, highlights: Cheavon Clarke stops Chris Billam-Smith, Da'Mazion Vanhouter shines again",
+   "link": "https://www.cbssports.com/boxing/news/zuffa-boxing-12-results-highlights-cheavon-clarke-chris-billam-smith-knockout-winner/",
+   "source": "CBS Sports Boxing",
+   "lang": "en",
+   "date": "2026-11-07T23:29:57+00:00",
+   "status": "confirmed",
+   "boxers": []
+  },
+  {
    "title": "Hutchinson beats Buatsi to win WBC light-heavyweight title",
    "link": "https://www.bbc.co.uk/sport/boxing/articles/cqx2vw8demexo?at_medium=RSS&at_campaign=rss",
    "source": "BBC Sport Boxing",
@@ -25,6 +86,15 @@
    "boxers": [
     "Joshua Buatsi"
    ]
+  },
+  {
+   "title": "Chris Billam-Smith vs Chev Clarke Live: Round-by-Round Updates From Zuffa Boxing 12",
+   "link": "https://www.boxingnews24.com/2026/11/chris-billam-smith-vs-chev-clarke-live-round-by-round-updates-from-zuffa-boxing-12/",
+   "source": "Boxing News 24",
+   "lang": "en",
+   "date": "2026-11-07T22:24:34+00:00",
+   "status": "unverified",
+   "boxers": []
   },
   {
    "title": "Joshua Buatsi vs Willy Hutchinson 2 live scorecard and fight result",
@@ -39,6 +109,72 @@
    ]
   },
   {
+   "title": "Lozano-Rivera en ¨Night of Champions¨  en Bayamón, Puerto Rico el 5 de diciembre",
+   "link": "https://fightnews.com/lozano-rivera-en-%c2%a8night-of-champions%c2%a8-en-bayamon-puerto-rico-el-5-de-diciembre/199890",
+   "source": "Fightnews",
+   "lang": "en",
+   "date": "2026-11-07T21:36:36+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Joshua Buatsi vs Willy Hutchinson 2 Live Results: Round-by-Round Updates",
+   "link": "https://www.boxingnews24.com/2026/11/joshua-buatsi-vs-willy-hutchinson-2-live-results-round-by-round-updates/",
+   "source": "Boxing News 24",
+   "lang": "en",
+   "date": "2026-11-07T21:30:30+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Joshua Buatsi",
+    "Anthony Joshua"
+   ]
+  },
+  {
+   "title": "Da’Mazion Vanhouter Floors Ivan Balaz Three Times In TKO Win",
+   "link": "https://www.boxingnews24.com/2026/11/damazion-vanhouter-floors-ivan-balaz-three-times-in-tko-win/",
+   "source": "Boxing News 24",
+   "lang": "en",
+   "date": "2026-11-07T21:23:37+00:00",
+   "status": "confirmed",
+   "boxers": []
+  },
+  {
+   "title": "Zuffa Boxing 12 start time, fight card, predictions and where to watch Chris Billam Smith vs. Cheavon Clarke",
+   "link": "https://www.cbssports.com/boxing/news/zuffa-boxing-12-start-time-chris-billam-smith-cheavon-clarke-fight-card-date-predictions/",
+   "source": "CBS Sports Boxing",
+   "lang": "en",
+   "date": "2026-11-07T20:14:26+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "El Comité de clasificaciones del WBC está listo para la 64.ª convención anual en Acapulco",
+   "link": "https://fightnews.com/el-comite-de-clasificaciones-del-wbc-esta-listo-para-la-64-a-convencion-anual-en-acapulco/199884",
+   "source": "Fightnews",
+   "lang": "en",
+   "date": "2026-11-07T18:57:03+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Keith Thurman: “Este combate se ajusta más a mi estilo”.",
+   "link": "https://fightnews.com/keith-thurman-este-combate-se-ajusta-mas-a-mi-estilo/199882",
+   "source": "Fightnews",
+   "lang": "en",
+   "date": "2026-11-07T18:46:37+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Dubois-Han por los campeonatos mundiales unificados WBC, AMB y OMB el 20 de febrero en El Paso, Tx",
+   "link": "https://fightnews.com/dubois-han-por-los-campeonatos-mundiales-unificados-wbc-amb-y-omb-el-20-de-febrero-en-el-paso-tx/199880",
+   "source": "Fightnews",
+   "lang": "en",
+   "date": "2026-11-07T18:44:14+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
    "title": "Top trainer Derrick James sums up Canelo’s chances of beating Terence Crawford after Mbilli win",
    "link": "https://boxingnewsonline.net/news/derrick-james-on-crawford-canelo-rematch/",
    "source": "Boxing News (UK)",
@@ -48,11 +184,41 @@
    "boxers": []
   },
   {
+   "title": "Elif Nur Turhan vs. Alycia Baumgardner press conference quotes and fight prediction",
+   "link": "https://bigfightweekend.com/2026/11/07/elif-nur-turhan-baumgardner-quotes/",
+   "source": "Big Fight Weekend",
+   "lang": "en",
+   "date": "2026-11-07T16:32:08+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Joshua Buatsi vs. Willy Hutchinson 2 live results update",
+   "link": "https://bigfightweekend.com/2026/11/07/joshua-buatsi-hutchinson-2-results/",
+   "source": "Big Fight Weekend",
+   "lang": "en",
+   "date": "2026-11-07T16:28:15+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Joshua Buatsi",
+    "Anthony Joshua"
+   ]
+  },
+  {
    "title": "Billam-Smith calls for fourth Clarke fight after shock loss",
    "link": "https://www.skysports.com/boxing/live-blog/12040/13609321/chris-billam-smith-vs-cheavon-clarke-boxing-fight-night-updates-results-stream-and-highlights-from-london",
    "source": "Sky Sports Boxing",
    "lang": "en",
    "date": "2026-11-07T16:11:00+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Zuffa Boxing 12 Results from London",
+   "link": "https://www.worldboxingnews.com/zuffa-boxing-12-results/",
+   "source": "World Boxing News",
+   "lang": "en",
+   "date": "2026-11-07T15:54:12+00:00",
    "status": "unverified",
    "boxers": []
   },
@@ -75,11 +241,38 @@
    "boxers": []
   },
   {
+   "title": "Heavyweight Hits Downed Opponent, Jumps Into Crowd Swinging",
+   "link": "https://www.worldboxingnews.com/heavyweight-hits-downed-opponent/",
+   "source": "World Boxing News",
+   "lang": "en",
+   "date": "2026-11-07T13:03:32+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Chris Billam-Smith vs Chev Clarke: George Groves breaks down cruiserweight clash",
+   "link": "https://bigfightweekend.com/2026/11/07/chris-billam-smith-vs-chev-clarke-break-down/",
+   "source": "Big Fight Weekend",
+   "lang": "en",
+   "date": "2026-11-07T11:53:34+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
    "title": "Tim Bradley tells Floyd Mayweather who to face on comeback between Terence Crawford or Ryan Garcia",
    "link": "https://boxingnewsonline.net/news/bradley-on-who-mayweather-should-face/",
    "source": "Boxing News (UK)",
    "lang": "en",
    "date": "2026-11-07T11:13:25+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Dana White’s Heavyweight Goes From 151lb Kid to 231lb KO Monster",
+   "link": "https://www.worldboxingnews.com/dana-white-vanhouter-151lb-231lb/",
+   "source": "World Boxing News",
+   "lang": "en",
+   "date": "2026-11-07T11:07:15+00:00",
    "status": "unverified",
    "boxers": []
   },
@@ -154,6 +347,15 @@
    ]
   },
   {
+   "title": "Canelo Fought Kovalev, So Why Rule Out Beterbiev?",
+   "link": "https://www.boxingnews24.com/2026/11/canelo-fought-kovalev-so-why-rule-out-beterbiev/",
+   "source": "Boxing News 24",
+   "lang": "en",
+   "date": "2026-11-07T06:00:03+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
    "title": "Live results: Abraham Perez defends title against Yankiel Rivera",
    "link": "https://www.fightmag.com/boxing-abraham-perez-vs-yankiel-rivera-live-results/",
    "source": "Fightmag",
@@ -192,6 +394,24 @@
    "boxers": []
   },
   {
+   "title": "Liam Paro Calls Haney’s Knockout Talk A Bluff",
+   "link": "https://www.boxingnews24.com/2026/11/liam-paro-calls-haneys-knockout-talk-a-bluff/",
+   "source": "Boxing News 24",
+   "lang": "en",
+   "date": "2026-11-07T04:25:02+00:00",
+   "status": "rumor",
+   "boxers": []
+  },
+  {
+   "title": "Melikuziev Crushes Sharipov To Keep Munguia Fight On Track",
+   "link": "https://www.boxingnews24.com/2026/11/melikuziev-crushes-sharipov-to-keep-munguia-fight-on-track/",
+   "source": "Boxing News 24",
+   "lang": "en",
+   "date": "2026-11-07T01:56:27+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
    "title": "Canelo Alvarez says two men stand out as the hardest punchers he’s ever faced",
    "link": "https://boxingnewsonline.net/news/canelo-on-two-hardest-punchers-faced/",
    "source": "Boxing News (UK)",
@@ -224,12 +444,42 @@
    ]
   },
   {
+   "title": "Avila Perspective, Chap 401: Zuffa Boxing, Queensberry Promotions, Salita and MVP",
+   "link": "https://tss.ib.tv/boxing/avila-perspective-chap-401-zuffa-boxing-queensberry-promotions-salita-and-mvp/",
+   "source": "The Sweet Science",
+   "lang": "en",
+   "date": "2026-11-06T19:49:27+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
    "title": "Tim Tszyu targets ‘bucket list’ fight if he beats Erislandy Lara for world title",
    "link": "https://boxingnewsonline.net/news/tszyu-targets-one-fight-if-he-beats-lara/",
    "source": "Boxing News (UK)",
    "lang": "en",
    "date": "2026-11-06T19:34:04+00:00",
    "status": "confirmed",
+   "boxers": []
+  },
+  {
+   "title": "Joshua Buatsi, Willy Hutchinson make weight for WBC title rematch",
+   "link": "https://www.boxingscene.com/articles/joshua-buatsi-willy-hutchinson-make-weight-for-wbc-title-rematch",
+   "source": "Boxing Scene",
+   "lang": "en",
+   "date": "2026-11-06T19:33:35+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Joshua Buatsi",
+    "Anthony Joshua"
+   ]
+  },
+  {
+   "title": "Chris Billam-Smith, Chev Clarke make weight; Shane Mosley Jnr needs second attempt",
+   "link": "https://www.boxingscene.com/articles/chris-billam-smith-chev-clarke-make-weight-shane-mosley-jnr-needs-second-attempt",
+   "source": "Boxing Scene",
+   "lang": "en",
+   "date": "2026-11-06T19:27:17+00:00",
+   "status": "unverified",
    "boxers": []
   },
   {
@@ -262,11 +512,32 @@
    "boxers": []
   },
   {
+   "title": "Mora Warns Joshua Buatsi: Stop Brawling with Hutchinson",
+   "link": "https://www.boxingnews24.com/2026/11/mora-warns-joshua-buatsi-stop-brawling-with-hutchinson/",
+   "source": "Boxing News 24",
+   "lang": "en",
+   "date": "2026-11-06T17:01:38+00:00",
+   "status": "confirmed",
+   "boxers": [
+    "Joshua Buatsi",
+    "Anthony Joshua"
+   ]
+  },
+  {
    "title": "Briton Dubois to face Han in lightweight unification",
    "link": "https://www.bbc.co.uk/sport/boxing/articles/c679pp7g1lexo?at_medium=RSS&at_campaign=rss",
    "source": "BBC Sport Boxing",
    "lang": "en",
    "date": "2026-11-06T15:12:09+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Heavyweight Champ, 61, Takes Huge Shots 29 Years After Breakdown",
+   "link": "https://www.worldboxingnews.com/oliver-mccall-huge-shots-at-61/",
+   "source": "World Boxing News",
+   "lang": "en",
+   "date": "2026-11-06T15:08:16+00:00",
    "status": "unverified",
    "boxers": []
   },
@@ -310,6 +581,44 @@
    ]
   },
   {
+   "title": "Tyson Fury fears for Deontay Wilder, says he is 'shot to bits' ahead of Jai Opetaia fight",
+   "link": "https://www.boxingscene.com/articles/tyson-fury-fears-for-deontay-wilder-says-he-is-shot-to-bits-ahead-of-jai-opetaia-fight",
+   "source": "Boxing Scene",
+   "lang": "en",
+   "date": "2026-11-06T12:17:30+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Tyson Fury"
+   ]
+  },
+  {
+   "title": "Chris Billam-Smith vs. Cheavon Clarke quotes and fight prediction",
+   "link": "https://bigfightweekend.com/2026/11/06/chris-billam-smith-clarke-quotes/",
+   "source": "Big Fight Weekend",
+   "lang": "en",
+   "date": "2026-11-06T12:00:08+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Boxing Champion Dies at 36 Despite Parachute Opening",
+   "link": "https://www.worldboxingnews.com/boxing-champion-dies-parachute-opening/",
+   "source": "World Boxing News",
+   "lang": "en",
+   "date": "2026-11-06T11:52:58+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Conor Benn reveals Manny Pacquiao offer, fight targeted for 2027",
+   "link": "https://www.boxingscene.com/articles/conor-benn-reveals-manny-pacquiao-offer-fight-targeted-for-2027",
+   "source": "Boxing Scene",
+   "lang": "en",
+   "date": "2026-11-06T11:48:01+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
    "title": "Boxing in Japan: why the lighter divisions are a national passion",
    "link": "https://britishboxingnews.co.uk/blogs/boxing-in-japan-why-the-lighter-divisions-are-a-national-passion/",
    "source": "British Boxing News",
@@ -326,6 +635,18 @@
    "date": "2026-11-06T11:00:52+00:00",
    "status": "unverified",
    "boxers": []
+  },
+  {
+   "title": "Joshua Buatsi vs. Willy Hutchinson 2 press conference quotes and fight prediction",
+   "link": "https://bigfightweekend.com/2026/11/06/joshua-buatsi-hutchinson-2-quotes/",
+   "source": "Big Fight Weekend",
+   "lang": "en",
+   "date": "2026-11-06T10:00:54+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Joshua Buatsi",
+    "Anthony Joshua"
+   ]
   },
   {
    "title": "Katie Hearn wins huge award for Matchroom Boxing",
@@ -348,6 +669,54 @@
    ]
   },
   {
+   "title": "Mizuki Hiruta, reigning WBO super flyweight world champ, signs new promotional deal",
+   "link": "https://bigfightweekend.com/2026/11/05/mizuki-hiruta-signs-new-deal/",
+   "source": "Big Fight Weekend",
+   "lang": "en",
+   "date": "2026-11-05T23:03:23+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Lenar Perez injured, out of Nov. 12 bout vs. Artur Ziyatdinov",
+   "link": "https://www.boxingscene.com/articles/lenar-perez-injured-out-of-nov-12-bout-vs-artur-ziyatdinov",
+   "source": "Boxing Scene",
+   "lang": "en",
+   "date": "2026-11-05T21:22:04+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Vasiliy Lomachenko returns to Top Rank – fight date and opponent teased",
+   "link": "https://bigfightweekend.com/2026/11/05/vasiliy-lomachenko-fight-date-tease/",
+   "source": "Big Fight Weekend",
+   "lang": "en",
+   "date": "2026-11-05T19:10:14+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Lomachenko Commits Multiple Years to Undisputed Comeback",
+   "link": "https://www.worldboxingnews.com/lomachenko-multi-year-undisputed-comeback/",
+   "source": "World Boxing News",
+   "lang": "en",
+   "date": "2026-11-05T18:44:29+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "The Notebook: Willy Hutchinson closes in on childhood dream as Joshua Buatsi awaits",
+   "link": "https://www.boxingscene.com/articles/the-notebook-willy-hutchinson-closes-in-on-childhood-dream-as-joshua-buatsi-awaits",
+   "source": "Boxing Scene",
+   "lang": "en",
+   "date": "2026-11-05T17:30:46+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Joshua Buatsi",
+    "Anthony Joshua"
+   ]
+  },
+  {
    "title": "At 13, I wrote that I'll become WBC champion of the world - Hutchinson",
    "link": "https://www.bbc.co.uk/sport/boxing/videos/cmn9rrldz4vno?at_medium=RSS&at_campaign=rss",
    "source": "BBC Sport Boxing",
@@ -355,6 +724,35 @@
    "date": "2026-11-05T17:29:53+00:00",
    "status": "unverified",
    "boxers": []
+  },
+  {
+   "title": "Deontay Wilder ‘Saving’ Heavyweight Boxing Against Cruiserweight",
+   "link": "https://www.worldboxingnews.com/deontay-wilder-saving-heavyweight/",
+   "source": "World Boxing News",
+   "lang": "en",
+   "date": "2026-11-05T17:14:43+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Chris Billam-Smith credits Cheavon Clarke defeat for his world title success",
+   "link": "https://www.boxingscene.com/articles/chris-billam-smith-credits-cheavon-clarke-defeat-for-his-world-title-success",
+   "source": "Boxing Scene",
+   "lang": "en",
+   "date": "2026-11-05T16:46:35+00:00",
+   "status": "confirmed",
+   "boxers": []
+  },
+  {
+   "title": "David Benavidez backs Canelo Alvarez to improve in Terence Crawford rematch",
+   "link": "https://www.boxingscene.com/articles/david-benavidez-backs-canelo-alvarez-to-improve-in-terence-crawford-rematch",
+   "source": "Boxing Scene",
+   "lang": "en",
+   "date": "2026-11-05T16:21:54+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Canelo Alvarez"
+   ]
   },
   {
    "title": "Deontay Wilder y Jai Opetaia se unen a la cartelera de Fury vs Joshua en diciembre",
@@ -369,11 +767,59 @@
    ]
   },
   {
+   "title": "60 Boxing Tragedies That Can Never Be Forgotten – Part 3",
+   "link": "https://www.worldboxingnews.com/60-boxing-tragedies-part-3/",
+   "source": "World Boxing News",
+   "lang": "en",
+   "date": "2026-11-05T14:28:48+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Derek Chisora reveals Anthony Joshua is 'killing it' in training for Tyson Fury",
+   "link": "https://www.boxingscene.com/articles/derek-chisora-reveals-anthony-joshua-is-killing-it-in-training-for-tyson-fury",
+   "source": "Boxing Scene",
+   "lang": "en",
+   "date": "2026-11-05T12:44:00+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Tyson Fury",
+    "Anthony Joshua"
+   ]
+  },
+  {
+   "title": "Regis Prograis admits life is 'boring' without boxing just seven months into retirement",
+   "link": "https://www.boxingscene.com/articles/regis-prograis-admits-life-is-boring-without-boxing-just-seven-months-into-retirement",
+   "source": "Boxing Scene",
+   "lang": "en",
+   "date": "2026-11-05T12:23:06+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
    "title": "I Play Rocky review – Anthony Ippolito adds knockout sweetness to the story of Stallone’s Hollywood triumph",
    "link": "https://www.theguardian.com/film/2026/nov/05/i-play-rocky-review-anthony-ippolito-adds-knockout-sweetness-to-the-story-of-stallones-hollywood-triumph",
    "source": "The Guardian Boxing",
    "lang": "en",
    "date": "2026-11-05T11:00:22+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "23-0 Knockout Artist Pulled From Oliver McCall Card After Weigh-In",
+   "link": "https://www.worldboxingnews.com/craig-parker-oliver-mccall-withdrawal/",
+   "source": "World Boxing News",
+   "lang": "en",
+   "date": "2026-11-05T10:28:58+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Frank Bruno names the biggest puncher he ever faced",
+   "link": "https://bigfightweekend.com/2026/11/05/frank-bruno-names-biggest-puncher/",
+   "source": "Big Fight Weekend",
+   "lang": "en",
+   "date": "2026-11-05T10:00:10+00:00",
    "status": "unverified",
    "boxers": []
   },
@@ -384,6 +830,36 @@
    "lang": "en",
    "date": "2026-11-04T18:53:42+00:00",
    "status": "unverified",
+   "boxers": [
+    "Tyson Fury",
+    "Anthony Joshua"
+   ]
+  },
+  {
+   "title": "‘This is the one that matters’: Tim Tszyu looks ahead to world title challenge",
+   "link": "https://bigfightweekend.com/2026/11/04/erislandy-lara-vs-tim-tszyu-matters/",
+   "source": "Big Fight Weekend",
+   "lang": "en",
+   "date": "2026-11-04T18:43:00+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Zak Chelli signs multi-fight contract with Zuffa Boxing",
+   "link": "https://www.boxingscene.com/articles/zak-chelli-signs-multi-fight-contract-with-zuffa-boxing",
+   "source": "Boxing Scene",
+   "lang": "en",
+   "date": "2026-11-04T17:09:00+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Deontay Wilder-Jai Opetaia confirmed for Tyson Fury-Anthony Joshua undercard",
+   "link": "https://www.boxingscene.com/articles/deontay-wilder-jai-opetaia-confirmed-for-tyson-fury-anthony-joshua-undercard",
+   "source": "Boxing Scene",
+   "lang": "en",
+   "date": "2026-11-04T16:57:04+00:00",
+   "status": "confirmed",
    "boxers": [
     "Tyson Fury",
     "Anthony Joshua"
@@ -402,6 +878,137 @@
    ]
   },
   {
+   "title": "Jai Opetaia vs. Deontay Wilder added to Tyson Fury vs. Anthony Joshua undercard in December",
+   "link": "https://www.cbssports.com/boxing/news/jai-opetaia-vs-deontay-wilder-undercard-for-tyson-fury-vs-anthony-joshua/",
+   "source": "CBS Sports Boxing",
+   "lang": "en",
+   "date": "2026-11-04T16:19:50+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Tyson Fury",
+    "Anthony Joshua"
+   ]
+  },
+  {
+   "title": "Oliver McCall Finally Dropped at 61 After 77 Bouts, Ref Says No",
+   "link": "https://www.worldboxingnews.com/oliver-mccall-knockdown-referee-slip/",
+   "source": "World Boxing News",
+   "lang": "en",
+   "date": "2026-11-04T16:09:57+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Terence Crawford teases one more fight as boxing struggles to embrace a new generation",
+   "link": "https://www.boxingscene.com/articles/terence-crawford-teases-one-more-fight-as-boxing-struggles-to-embrace-a-new-generation",
+   "source": "Boxing Scene",
+   "lang": "en",
+   "date": "2026-11-04T14:14:50+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "In Canelo Alvarez's win over Christian Mbilli, old is new again",
+   "link": "https://www.boxingscene.com/articles/in-canelo-alvarezs-win-over-christian-mbilli-old-is-new-again",
+   "source": "Boxing Scene",
+   "lang": "en",
+   "date": "2026-11-04T13:30:00+00:00",
+   "status": "confirmed",
+   "boxers": [
+    "Canelo Alvarez"
+   ]
+  },
+  {
+   "title": "Oliver McCall, 61, wins again as questions linger over sanctioning of heavyweight bout",
+   "link": "https://www.boxingscene.com/articles/oliver-mccall-61-wins-again-as-questions-linger-over-sanctioning-of-heavyweight-bout",
+   "source": "Boxing Scene",
+   "lang": "en",
+   "date": "2026-11-04T11:51:38+00:00",
+   "status": "confirmed",
+   "boxers": []
+  },
+  {
+   "title": "Terence Crawford Trolls Canelo in Plain Sight Over Rematch",
+   "link": "https://www.worldboxingnews.com/terence-crawford-trolls-canelo-rematch/",
+   "source": "World Boxing News",
+   "lang": "en",
+   "date": "2026-11-04T11:25:41+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Amanda Serrano still has more than enough fight left",
+   "link": "https://www.boxingscene.com/articles/amanda-serrano-still-has-more-than-enough-fight-left",
+   "source": "Boxing Scene",
+   "lang": "en",
+   "date": "2026-11-04T09:01:56+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Boxing schedule for 2026: Anthony Joshua vs. Tyson Fury, David Benavidez, Dmitry Bivol returns on tap",
+   "link": "https://www.cbssports.com/boxing/news/boxing-schedule-for-2026-dates-tyson-fury-vs-anthony-joshua-david-benavidez-dmitry-bivol/",
+   "source": "CBS Sports Boxing",
+   "lang": "en",
+   "date": "2026-11-03T20:55:50+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Tyson Fury",
+    "Anthony Joshua"
+   ]
+  },
+  {
+   "title": "Vasiliy Lomachenko-Charly Suarez nearly set for Feb. 13",
+   "link": "https://www.boxingscene.com/articles/vasiliy-lomachenko-charly-suarez-nearly-set-for-feb-13",
+   "source": "Boxing Scene",
+   "lang": "en",
+   "date": "2026-11-03T20:26:42+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Boxing Pound-for-Pound Rankings: Canelo Alvarez returns to top 10 after regaining super middleweight title",
+   "link": "https://www.cbssports.com/boxing/news/boxing-pound-for-pound-rankings-canelo-alvarez-top-10/",
+   "source": "CBS Sports Boxing",
+   "lang": "en",
+   "date": "2026-11-03T17:17:38+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Canelo Alvarez"
+   ]
+  },
+  {
+   "title": "Andy Cruz to renew rivalry with Artur Subkhankulov in IBF title fight",
+   "link": "https://www.boxingscene.com/articles/andy-cruz-to-renew-rivalry-with-artur-subkhankulov-in-ibf-title-fight",
+   "source": "Boxing Scene",
+   "lang": "en",
+   "date": "2026-11-03T16:52:07+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Christian Mbilli promoter questions referee's point deduction in Canelo Alvarez defeat",
+   "link": "https://www.boxingscene.com/articles/christian-mbilli-promoter-questions-referees-point-deduction-in-canelo-alvarez-defeat",
+   "source": "Boxing Scene",
+   "lang": "en",
+   "date": "2026-11-03T15:11:08+00:00",
+   "status": "confirmed",
+   "boxers": [
+    "Canelo Alvarez"
+   ]
+  },
+  {
+   "title": "Opetaia Risks Benavidez Fight as Wilder Confirms Fury-AJ Clash",
+   "link": "https://www.worldboxingnews.com/opetaia-benavidez-wilder-fury-aj/",
+   "source": "World Boxing News",
+   "lang": "en",
+   "date": "2026-11-03T13:12:30+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Tyson Fury"
+   ]
+  },
+  {
    "title": "‘I’ve been chased and shot at’: Denzel Bentley on trauma, street violence and brutal boxing politics",
    "link": "https://www.theguardian.com/sport/2026/nov/03/denzel-bentley-trauma-street-violence-boxing-politics",
    "source": "The Guardian Boxing",
@@ -413,12 +1020,116 @@
    ]
   },
   {
+   "title": "Yoenli Hernandez assigned Michael Zerafa as mandatory by WBO",
+   "link": "https://www.boxingscene.com/articles/yoenli-hernandez-assigned-michael-zerafa-as-mandatory-by-wbo",
+   "source": "Boxing Scene",
+   "lang": "en",
+   "date": "2026-11-03T04:18:16+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
    "title": "5 Live Boxing with Steve Bunce",
    "link": "https://www.bbc.co.uk/sounds/play/p0pkyw4q?at_medium=RSS&at_campaign=rss",
    "source": "BBC Sport Boxing",
    "lang": "en",
    "date": "2026-11-02T23:45:00+00:00",
    "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "VOTE- THE BUI IRISH-BOXING.COM PROSPECT OF THE YEAR AWARDS",
+   "link": "https://www.irish-boxing.com/vote-the-bui-irish-boxing-com-prospect-of-the-year-awards/",
+   "source": "Irish Boxing",
+   "lang": "en",
+   "date": "2026-11-02T20:49:08+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Oliver McCall, 61, Faces Heavyweight Who Lost First 8 Fights",
+   "link": "https://www.worldboxingnews.com/oliver-mccall-61-heavyweight-eight-fights/",
+   "source": "World Boxing News",
+   "lang": "en",
+   "date": "2026-11-02T18:22:03+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Tyson Fury turns to proven knockout formula for Anthony Joshua showdown",
+   "link": "https://www.boxingscene.com/articles/tyson-fury-turns-to-proven-knockout-formula-for-anthony-joshua-showdown",
+   "source": "Boxing Scene",
+   "lang": "en",
+   "date": "2026-11-02T16:29:55+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Tyson Fury",
+    "Anthony Joshua"
+   ]
+  },
+  {
+   "title": "Oscar Collazo vacates WBO title, Ryusei Matsumoto elevated to full champion",
+   "link": "https://www.boxingscene.com/articles/oscar-collazo-vacates-wbo-title-ryusei-matsumoto-elevated-to-full-champion",
+   "source": "Boxing Scene",
+   "lang": "en",
+   "date": "2026-11-02T16:29:28+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Deontay Wilder in talks to face Murat Gassiev after Oleksandr Usyk plans collapse",
+   "link": "https://www.boxingscene.com/articles/deontay-wilder-in-talks-to-face-murat-gassiev-after-oleksandr-usyk-plans-collapse",
+   "source": "Boxing Scene",
+   "lang": "en",
+   "date": "2026-11-02T16:21:48+00:00",
+   "status": "rumor",
+   "boxers": [
+    "Oleksandr Usyk"
+   ]
+  },
+  {
+   "title": "Pumpkins and PPVs, vampires and vamping: The Canelo-Mbilli running diary",
+   "link": "https://www.boxingscene.com/articles/pumpkins-and-ppvs-vampires-and-vamping-the-canelo-mbilli-running-diary",
+   "source": "Boxing Scene",
+   "lang": "en",
+   "date": "2026-11-02T13:04:21+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Jake Paul to return against kickboxing champion Cedric Doumbe on Christmas Eve",
+   "link": "https://www.boxingscene.com/articles/jake-paul-to-return-against-kickboxing-champion-cedric-doumbe-on-christmas-eve",
+   "source": "Boxing Scene",
+   "lang": "en",
+   "date": "2026-11-02T12:51:07+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Canelo Fight No-Show Sparks IBF Title Demand",
+   "link": "https://www.worldboxingnews.com/canelo-fight-no-show-ibf-title-demand/",
+   "source": "World Boxing News",
+   "lang": "en",
+   "date": "2026-11-02T11:17:05+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "‘I WANT THEM ALL’: Shauna Browne Heads to Texas for World Title Card with MVP Message",
+   "link": "https://www.irish-boxing.com/i-want-the-all-shauna-browne-heads-to-texas-for-world-title-card-with-mvp-message/",
+   "source": "Irish Boxing",
+   "lang": "en",
+   "date": "2026-11-02T09:01:50+00:00",
+   "status": "rumor",
+   "boxers": []
+  },
+  {
+   "title": "What a Katie Taylor Casino Sponsorship Could Do for Irish Women’s Boxing",
+   "link": "https://www.irish-boxing.com/what-a-katie-taylor-casino-sponsorship-could-do-for-irish-womens-boxing/",
+   "source": "Irish Boxing",
+   "lang": "en",
+   "date": "2026-11-02T08:37:31+00:00",
+   "status": "rumor",
    "boxers": []
   },
   {
@@ -431,6 +1142,56 @@
    "boxers": []
   },
   {
+   "title": "Zuffa Boxing 12 Betting Guide: Main Event, Undercard and Key Matchups",
+   "link": "https://www.irish-boxing.com/zuffa-boxing-12-betting-guide-main-event-undercard-and-key-matchups/",
+   "source": "Irish Boxing",
+   "lang": "en",
+   "date": "2026-11-02T06:45:00+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Joshua Buatsi and the decade-long marathon to a world title",
+   "link": "https://www.boxingscene.com/articles/joshua-buatsi-and-the-decade-long-marathon-to-a-world-title",
+   "source": "Boxing Scene",
+   "lang": "en",
+   "date": "2026-11-01T17:00:07+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Joshua Buatsi",
+    "Anthony Joshua"
+   ]
+  },
+  {
+   "title": "DAZN Turns Canelo Fight Into a Podcast as Fans Demand Overhaul",
+   "link": "https://www.worldboxingnews.com/dazn-canelo-fight-podcast-backlash/",
+   "source": "World Boxing News",
+   "lang": "en",
+   "date": "2026-11-01T16:36:22+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Canelo Alvarez next fight: five potential opponents after Christian Mbilli win",
+   "link": "https://www.boxingscene.com/articles/five-potential-opponents-for-canelo-alvarez-after-christian-mbilli-victory",
+   "source": "Boxing Scene",
+   "lang": "en",
+   "date": "2026-11-01T12:18:21+00:00",
+   "status": "confirmed",
+   "boxers": [
+    "Canelo Alvarez"
+   ]
+  },
+  {
+   "title": "Turki Snubs Canelo, Barely Watches $47m World Title Win",
+   "link": "https://www.worldboxingnews.com/turki-snubs-canelo-47m-title-win/",
+   "source": "World Boxing News",
+   "lang": "en",
+   "date": "2026-11-01T12:07:43+00:00",
+   "status": "confirmed",
+   "boxers": []
+  },
+  {
    "title": "Canelo va a por el billón de dólares",
    "link": "https://www.marca.com/boxeo/2026/11/01/canelo-billon-dolares.html",
    "source": "Marca Boxeo",
@@ -440,6 +1201,37 @@
    "boxers": []
   },
   {
+   "title": "Oleksandr Usyk confirms David Benavidez fight is on the table",
+   "link": "https://www.boxingscene.com/articles/oleksandr-usyk-confirms-david-benavidez-fight-is-on-the-table",
+   "source": "Boxing Scene",
+   "lang": "en",
+   "date": "2026-11-01T01:55:08+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Oleksandr Usyk"
+   ]
+  },
+  {
+   "title": "The Accuracy and Defense of Canelo Prove Too Much for Mbilli",
+   "link": "https://tss.ib.tv/boxing/the-accuracy-and-defense-of-canelo-prove-too-much-for-mbilli/",
+   "source": "The Sweet Science",
+   "lang": "en",
+   "date": "2026-11-01T00:43:58+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Canelo Alvarez vs. Christian Mbilli fight stream: Where to watch live online, start time, card and PPV price",
+   "link": "https://www.cbssports.com/boxing/news/canelo-alvarez-vs-christian-mbilli-start-time-where-to-watch-fight-stream-live-start-time-card/",
+   "source": "CBS Sports Boxing",
+   "lang": "en",
+   "date": "2026-10-31T23:48:02+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Canelo Alvarez"
+   ]
+  },
+  {
    "title": "Canelo Álvarez defeats Christian Mbilli for WBC super-middleweight championship – as it happened",
    "link": "https://www.theguardian.com/sport/live/2026/oct/31/canelo-alvarez-v-christian-mbilli-wbc-super-middleweight-championship-live-buildup",
    "source": "The Guardian Boxing",
@@ -447,6 +1239,17 @@
    "date": "2026-10-31T23:41:41+00:00",
    "status": "confirmed",
    "boxers": []
+  },
+  {
+   "title": "Canelo Alvarez rolls back the years to claim WBC title from Christian Mbilli",
+   "link": "https://www.boxingscene.com/articles/canelo-alvarez-rolls-back-the-years-to-claim-wbc-title-from-christian-mbilli",
+   "source": "Boxing Scene",
+   "lang": "en",
+   "date": "2026-10-31T23:38:34+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Canelo Alvarez"
+   ]
   },
   {
    "title": "Canelo Álvarez wins back world title as Houthi attacks cast shadow over Riyadh",
@@ -467,6 +1270,55 @@
    "boxers": []
   },
   {
+   "title": "Fright Night: Jaime Munguia survives scare to retain WBA title against Nikita Zon",
+   "link": "https://www.boxingscene.com/articles/fright-night-jaime-munguia-survives-scare-to-retain-wba-title-against-nikita-zon",
+   "source": "Boxing Scene",
+   "lang": "en",
+   "date": "2026-10-31T21:55:46+00:00",
+   "status": "confirmed",
+   "boxers": []
+  },
+  {
+   "title": "Canelo Alvarez vs. Christian Mbilli fight predictions and expert picks for epic event in Saudi Arabia",
+   "link": "https://www.cbssports.com/boxing/news/canelo-alvarez-vs-christian-mbilli-fight-predictions-expert-picks-odds-undercard/",
+   "source": "CBS Sports Boxing",
+   "lang": "en",
+   "date": "2026-10-31T20:33:28+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Canelo Alvarez"
+   ]
+  },
+  {
+   "title": "Rafael Espinoza retains WBO featherweight title with third-round stoppage of Ricardo Blandon",
+   "link": "https://www.boxingscene.com/articles/rafael-espinoza-retains-wbo-featherweight-title-with-third-round-stoppage-of-ricardo-blandon",
+   "source": "Boxing Scene",
+   "lang": "en",
+   "date": "2026-10-31T19:42:14+00:00",
+   "status": "confirmed",
+   "boxers": []
+  },
+  {
+   "title": "Canelo vs Mbilli Scorecard and Round-by-Round Updates",
+   "link": "https://www.worldboxingnews.com/canelo-mbilli-live-scorecard/",
+   "source": "World Boxing News",
+   "lang": "en",
+   "date": "2026-10-31T17:59:30+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Denzel Bentley stripped of WBO middleweight title after appeal rejected",
+   "link": "https://www.boxingscene.com/articles/denzel-bentley-stripped-of-wbo-middleweight-title-after-appeal-rejected",
+   "source": "Boxing Scene",
+   "lang": "en",
+   "date": "2026-10-31T16:22:23+00:00",
+   "status": "confirmed",
+   "boxers": [
+    "Denzel Bentley"
+   ]
+  },
+  {
    "title": "Usyk ya escribe su \"capítulo final\": regresará al peso crucero para enfrentarse al boxeador más temido",
    "link": "https://www.marca.com/boxeo/2026/10/31/usyk-escribe-capitulo-final-regresara-peso-crucero-enfrentarse-boxeador-temido.html",
    "source": "Marca Boxeo",
@@ -478,6 +1330,38 @@
    ]
   },
   {
+   "title": "Report: Deontay Wilder and Jai Opetaia agree to fight on Fury-Joshua undercard",
+   "link": "https://www.boxingscene.com/articles/report-deontay-wilder-and-jai-opetaia-agree-to-fight-on-fury-joshua-undercard",
+   "source": "Boxing Scene",
+   "lang": "en",
+   "date": "2026-10-31T12:12:06+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Tyson Fury",
+    "Anthony Joshua"
+   ]
+  },
+  {
+   "title": "Canelo Alvarez vs Christian Mbilli Results",
+   "link": "https://www.worldboxingnews.com/canelo-mbilli-live-results/",
+   "source": "World Boxing News",
+   "lang": "en",
+   "date": "2026-10-31T12:11:43+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Canelo Alvarez"
+   ]
+  },
+  {
+   "title": "Ryan Garcia gives Floyd Mayweather ultimatum over February 6 title fight",
+   "link": "https://www.boxingscene.com/articles/ryan-garcia-gives-floyd-mayweather-ultimatum-over-february-6-title-fight",
+   "source": "Boxing Scene",
+   "lang": "en",
+   "date": "2026-10-31T11:12:43+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
    "title": "El nieto de Berlusconi que va para figura de boxeo: 10 combates, 10 victorias",
    "link": "https://www.marca.com/boxeo/2026/10/31/nieto-berlusconi-figura-boxeo-10-combates-10-victorias.html",
    "source": "Marca Boxeo",
@@ -487,11 +1371,102 @@
    "boxers": []
   },
   {
+   "title": "Deontay Wilder Now Underdog to a Cruiserweight on Fury-AJ Card",
+   "link": "https://www.worldboxingnews.com/deontay-wilder-underdog-opetaia/",
+   "source": "World Boxing News",
+   "lang": "en",
+   "date": "2026-10-31T10:42:29+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Tyson Fury"
+   ]
+  },
+  {
    "title": "Why a boxer barred from becoming champion is being honoured",
    "link": "https://www.bbc.co.uk/news/articles/c6jdmjd8432yo?at_medium=RSS&at_campaign=rss",
    "source": "BBC Sport Boxing",
    "lang": "en",
    "date": "2026-10-31T07:15:35+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Who is Christian Mbilli? Get to know the WBC super middleweight champ ahead of Canelo Alvarez showdown",
+   "link": "https://www.cbssports.com/boxing/news/who-is-christian-mbilli-canelo-alvarez-fight/",
+   "source": "CBS Sports Boxing",
+   "lang": "en",
+   "date": "2026-10-30T23:10:50+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Canelo Alvarez"
+   ]
+  },
+  {
+   "title": "Oleksandr Usyk's plan: 'Coming home' to cruiserweight, then David Benavidez",
+   "link": "https://www.boxingscene.com/articles/oleksandr-usyks-plan-coming-home-to-cruiserweight-then-david-benavidez",
+   "source": "Boxing Scene",
+   "lang": "en",
+   "date": "2026-10-30T22:31:24+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Oleksandr Usyk"
+   ]
+  },
+  {
+   "title": "Canelo Alvarez, Christian Mbilli make weight for Saturday title fight",
+   "link": "https://www.boxingscene.com/articles/canelo-alvarez-christian-mbilli-make-weight-for-saturday-title-fight",
+   "source": "Boxing Scene",
+   "lang": "en",
+   "date": "2026-10-30T21:32:05+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Canelo Alvarez"
+   ]
+  },
+  {
+   "title": "Why the time is now for Canelo Alvarez to prove that he still has it on the elite, championship level",
+   "link": "https://www.cbssports.com/boxing/news/canelo-alvarez-elite-fighter-christian-mbilli/",
+   "source": "CBS Sports Boxing",
+   "lang": "en",
+   "date": "2026-10-30T20:04:54+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Canelo Alvarez"
+   ]
+  },
+  {
+   "title": "Avila Perspective, Chap 400: Canelo, Benavidez and More",
+   "link": "https://tss.ib.tv/boxing/avila-perspective-chap-400-canelo-benavidez-and-more/",
+   "source": "The Sweet Science",
+   "lang": "en",
+   "date": "2026-10-30T19:20:27+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Salita Promotions Closes 2026 With Two Championship Shows",
+   "link": "https://www.worldboxingnews.com/salita-promotions-2026-championship-shows/",
+   "source": "World Boxing News",
+   "lang": "en",
+   "date": "2026-10-30T17:14:23+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Fight Canceled as Ballistic Missile Debris Falls on Riyadh",
+   "link": "https://www.worldboxingnews.com/fight-canceled-missile-debris-riyadh/",
+   "source": "World Boxing News",
+   "lang": "en",
+   "date": "2026-10-30T14:45:46+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Fighting at Home: Boxing’s Problem With Domestic Violence",
+   "link": "https://www.worldboxingnews.com/boxing-domestic-violence-problem/",
+   "source": "World Boxing News",
+   "lang": "en",
+   "date": "2026-10-30T12:23:04+00:00",
    "status": "unverified",
    "boxers": []
   },
@@ -505,12 +1480,32 @@
    "boxers": []
   },
   {
+   "title": "Benavidez Maps Road to Usyk’s Undisputed Cruiserweight Shot",
+   "link": "https://www.worldboxingnews.com/benavidez-usyk-undisputed-cruiserweight/",
+   "source": "World Boxing News",
+   "lang": "en",
+   "date": "2026-10-29T14:35:01+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Oleksandr Usyk"
+   ]
+  },
+  {
    "title": "Jake Paul anuncia su regreso al boxeo... ¡un día antes de Navidad!",
    "link": "https://www.marca.com/boxeo/2026/10/29/jake-paul-anuncia-regreso-boxeo-dia-navidad.html",
    "source": "Marca Boxeo",
    "lang": "es",
    "date": "2026-10-29T13:48:59+00:00",
    "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Boxing Pound-for-Pound Rankings: O'Shaquie Foster finally breaks through to top 10 after masterful win",
+   "link": "https://www.cbssports.com/boxing/news/boxing-pound-for-pound-rankings-oshaquie-foster-top-10/",
+   "source": "CBS Sports Boxing",
+   "lang": "en",
+   "date": "2026-10-28T17:49:20+00:00",
+   "status": "confirmed",
    "boxers": []
   },
   {
@@ -546,6 +1541,42 @@
    "source": "Marca Boxeo",
    "lang": "es",
    "date": "2026-10-27T17:19:35+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "O'Shaquie Foster dominates Emanuel Navarrete to become unified junior lightweight champion",
+   "link": "https://www.cbssports.com/boxing/news/oshaquie-foster-vs-emanuel-navarrete-results-highlights-winner/",
+   "source": "CBS Sports Boxing",
+   "lang": "en",
+   "date": "2026-10-25T04:24:16+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Emanuel Navarrete vs. O'Shaquie Foster odds, prediction: Boxing picks for Oct. 24 fight card by top expert",
+   "link": "https://www.cbssports.com/boxing/news/emanuel-navarrete-oshaquie-foster-odds-prediction-time-boxing-picks-for-october-24-fight/",
+   "source": "CBS Sports Boxing",
+   "lang": "en",
+   "date": "2026-10-24T23:45:38+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Emanuel Navarrete vs. O'Shaquie Foster fight predictions, odds, start time, where to watch title showdown",
+   "link": "https://www.cbssports.com/boxing/news/emanuel-navarrete-vs-oshaquie-foster-fight-predictions-odds-start-time-where-to-watch/",
+   "source": "CBS Sports Boxing",
+   "lang": "en",
+   "date": "2026-10-24T18:19:09+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Avila Perspective, Chap 399: Smith Faces Puello in England as Navarrete and Foster Clash in Texas",
+   "link": "https://tss.ib.tv/boxing/avila-perspective-chap-399-dalton-faces-puello-in-england-as-navarrete-and-foster-clash-in-texas/",
+   "source": "The Sweet Science",
+   "lang": "en",
+   "date": "2026-10-24T02:49:53+00:00",
    "status": "unverified",
    "boxers": []
   },
@@ -613,6 +1644,15 @@
    "boxers": []
   },
   {
+   "title": "Shakur Stevenson says he has been granted release from Zuffa Boxing after three months",
+   "link": "https://www.cbssports.com/boxing/news/shakur-stevenson-zuffa-boxing-release/",
+   "source": "CBS Sports Boxing",
+   "lang": "en",
+   "date": "2026-10-19T18:27:34+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
    "title": "El morbo del Policía vs. Exconvicto de bare-knuckle termina en un KO brutal",
    "link": "https://www.marca.com/boxeo/2026/10/19/morbo-policia-vs-exconvicto-bare-knuckle-termina-ko-brutal.html",
    "source": "Marca Boxeo",
@@ -658,11 +1698,47 @@
    "boxers": []
   },
   {
+   "title": "Daniel Dubois runs through Fabio Wardley with second-round TKO to retain heavyweight title",
+   "link": "https://www.cbssports.com/boxing/news/daniel-dubois-vs-fabio-wardley-results-highlights-winner-heavyweight-title/",
+   "source": "CBS Sports Boxing",
+   "lang": "en",
+   "date": "2026-10-17T22:15:24+00:00",
+   "status": "confirmed",
+   "boxers": []
+  },
+  {
+   "title": "Boxing predictions, start times: Daniel Dubois vs. Fabio Wardley 2, Sebastian Fundora return set this weekend",
+   "link": "https://www.cbssports.com/boxing/news/boxing-predictions-start-times-daniel-dubois-fabio-wardley-sebastian-fundora/",
+   "source": "CBS Sports Boxing",
+   "lang": "en",
+   "date": "2026-10-17T16:00:34+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Avila Perspective, Chap 398: Dubois-Wardley Rematch in London and Two World Title Fights in Las Vegas",
+   "link": "https://tss.ib.tv/boxing/avila-perspective-chap-398-dubois-wardley-rematch-in-london-and-two-world-title-fights-in-las-vegas/",
+   "source": "The Sweet Science",
+   "lang": "en",
+   "date": "2026-10-16T22:15:40+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
    "title": "Wardley predicts ‘crazy night’ in fight for redemption against Dubois",
    "link": "https://www.theguardian.com/sport/2026/oct/16/fabio-wardley-daniel-dubois-wbo-heavyweight-title-fight-boxing",
    "source": "The Guardian Boxing",
    "lang": "en",
    "date": "2026-10-16T15:28:01+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Zuffa Boxing signs middleweight titleholder Carlos Adames to add to growing 160-pound division",
+   "link": "https://www.cbssports.com/boxing/news/zuffa-boxing-signs-carlos-adames/",
+   "source": "CBS Sports Boxing",
+   "lang": "en",
+   "date": "2026-10-13T18:48:03+00:00",
    "status": "unverified",
    "boxers": []
   },
@@ -685,6 +1761,24 @@
    "boxers": []
   },
   {
+   "title": "Kid Austin And The WBA Title.",
+   "link": "https://www.boxinginsider.com/headlines/kid-austin-and-the-wba-title/",
+   "source": "Boxing Insider",
+   "lang": "en",
+   "date": "2026-10-10T02:16:21+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Avila Perspective, Chap 397: Chicago Title Fight Headlines Weekend Boxing, With More Action in Long Beach",
+   "link": "https://tss.ib.tv/boxing/avila-perspective-chap-397-chicago-title-fight-headlines-weekend-boxing-with-more-action-in-long-beach/",
+   "source": "The Sweet Science",
+   "lang": "en",
+   "date": "2026-10-09T23:01:49+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
    "title": "In the Shadows review – true tale of Ramla Ali’s remarkable rise through the boxing ranks is a knockout",
    "link": "https://www.theguardian.com/film/2026/oct/09/in-the-shadows-film-review-ramla-ali-boxer-somalia",
    "source": "The Guardian Boxing",
@@ -694,11 +1788,53 @@
    "boxers": []
   },
   {
+   "title": "Fury vs. Joshua Sells Out Cardiff in Under an Hour With No Undercard and a 1am Ring Walk",
+   "link": "https://www.boxinginsider.com/headlines/fury-vs-joshua-sells-out-cardiff-in-under-an-hour-with-no-undercard-and-a-1am-ring-walk/",
+   "source": "Boxing Insider",
+   "lang": "en",
+   "date": "2026-10-09T14:30:02+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Tyson Fury",
+    "Anthony Joshua"
+   ]
+  },
+  {
    "title": "Las 80.000 entradas para el Fury-Joshua se agotan en una hora",
    "link": "https://www.marca.com/boxeo/2026/10/09/80-000-entradas-fury-joshua-agotan-hora.html",
    "source": "Marca Boxeo",
    "lang": "es",
    "date": "2026-10-09T13:27:29+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Tyson Fury",
+    "Anthony Joshua"
+   ]
+  },
+  {
+   "title": "Two Deals, One Week: Where Boxing Sits as Skydance and DAZN Redraw Sports Media",
+   "link": "https://www.boxinginsider.com/headlines/two-deals-one-week-where-boxing-sits-as-skydance-and-dazn-redraw-sports-media/",
+   "source": "Boxing Insider",
+   "lang": "en",
+   "date": "2026-10-08T18:40:41+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Canelo vs. Mbilli Undercard Set: Munguia, Espinoza and a Vacant IBF Title Fight Join “Mexico vs. Rest of the World” in Riyadh",
+   "link": "https://www.boxinginsider.com/uncategorized/canelo-vs-mbilli-undercard-set-munguia-espinoza-and-a-vacant-ibf-title-fight-join-mexico-vs-rest-of-the-world-in-riyadh/",
+   "source": "Boxing Insider",
+   "lang": "en",
+   "date": "2026-10-08T18:02:21+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Joshua-Fury Is About Joshua-Fury, Not Promoters",
+   "link": "https://www.boxinginsider.com/headlines/joshua-fury-is-about-joshua-fury-not-promoters/",
+   "source": "Boxing Insider",
+   "lang": "en",
+   "date": "2026-10-08T17:23:58+00:00",
    "status": "unverified",
    "boxers": [
     "Tyson Fury",
@@ -716,6 +1852,35 @@
     "Tyson Fury",
     "Anthony Joshua"
    ]
+  },
+  {
+   "title": "Dana White Posted a Ticket Promo for the Fight He’s Been Told He Can’t Promote",
+   "link": "https://www.boxinginsider.com/headlines/dana-white-posted-a-ticket-promo-for-the-fight-hes-been-told-he-cant-promote/",
+   "source": "Boxing Insider",
+   "lang": "en",
+   "date": "2026-10-07T16:07:19+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Hearn Says TKO Went Around Him and Offered Joshua Money to Let Zuffa Promote the Fight",
+   "link": "https://www.boxinginsider.com/headlines/hearn-explains-why-the-two-contracts-dont-match-theyll-agree-to-things-without-actually-thinking-about-both-sides/",
+   "source": "Boxing Insider",
+   "lang": "en",
+   "date": "2026-10-06T18:43:05+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Anthony Joshua"
+   ]
+  },
+  {
+   "title": "Tomorrow Zuffa Boxing’s Broadcaster Becomes the Biggest Sports Company in America",
+   "link": "https://www.boxinginsider.com/headlines/tomorrow-zuffa-boxings-broadcaster-becomes-the-biggest-sports-company-in-america/",
+   "source": "Boxing Insider",
+   "lang": "en",
+   "date": "2026-10-05T19:33:57+00:00",
+   "status": "unverified",
+   "boxers": []
   },
   {
    "title": "La Asociación Internacional de boxeo dará a conocer sus proyectos en Estambul",
@@ -778,6 +1943,15 @@
    "boxers": []
   },
   {
+   "title": "Zuffa Boxing 11 start time, fight card, predictions and where to watch Johnny Fisher vs. Michael Pirotton",
+   "link": "https://www.cbssports.com/boxing/news/zuffa-boxing-11-johnny-fisher-vs-michael-pirotton-start-time-fight-card-date-predictions/",
+   "source": "CBS Sports Boxing",
+   "lang": "en",
+   "date": "2026-09-26T13:21:16+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
    "title": "Fury pone en duda su combate con Joshua: \"Nos ha costado la pelea más importante de la historia del boxeo\"",
    "link": "https://www.marca.com/boxeo/2026/09/26/fury-pone-duda-combate-joshua-costado-pelea-importante-historia-boxeo.html",
    "source": "Marca Boxeo",
@@ -811,11 +1985,32 @@
    "boxers": []
   },
   {
+   "title": "Zuffa Boxing: Ranking the 10 best fights of the first 10 numbered events in 2026",
+   "link": "https://www.cbssports.com/boxing/news/zuffa-boxing-best-fights-highlights-knockouts/",
+   "source": "CBS Sports Boxing",
+   "lang": "en",
+   "date": "2026-09-24T15:15:55+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
    "title": "El combate entre Tyson Fury y Anthony Joshua al fin es oficial",
    "link": "https://www.marca.com/boxeo/2026/09/24/combate-tyson-fury-anthony-joshua-oficial.html",
    "source": "Marca Boxeo",
    "lang": "es",
    "date": "2026-09-24T14:48:20+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Tyson Fury",
+    "Anthony Joshua"
+   ]
+  },
+  {
+   "title": "Tyson Fury vs. Anthony Joshua: English heavyweight super fight set for December in Cardiff, Wales",
+   "link": "https://www.cbssports.com/boxing/news/tyson-fury-vs-anthony-joshua-fight-date-location-news/",
+   "source": "CBS Sports Boxing",
+   "lang": "en",
+   "date": "2026-09-24T12:54:58+00:00",
    "status": "unverified",
    "boxers": [
     "Tyson Fury",
@@ -832,11 +2027,137 @@
    "boxers": []
   },
   {
+   "title": "What's next for Ryan Garcia, Conor Benn and Jai Opetaia after wild night of fights in Las Vegas",
+   "link": "https://www.cbssports.com/boxing/news/ryan-garcia-conor-benn-jai-opetaia-next-fights/",
+   "source": "CBS Sports Boxing",
+   "lang": "en",
+   "date": "2026-09-13T13:30:44+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Ryan Garcia appears ready to take over as the next face of boxing after big win and bigger callouts",
+   "link": "https://www.cbssports.com/boxing/news/ryan-garcia-conor-benn-face-of-boxing-star/",
+   "source": "CBS Sports Boxing",
+   "lang": "en",
+   "date": "2026-09-13T05:29:40+00:00",
+   "status": "confirmed",
+   "boxers": []
+  },
+  {
+   "title": "Jai Opetaia scores brutal knockout of Noel Mikaelian to cruiserweight titles, calls out David Benavidez",
+   "link": "https://www.cbssports.com/boxing/news/jai-opetaia-noel-mikaelian-results-winner-knockout-cruiserweight-title-david-benavidez/",
+   "source": "CBS Sports Boxing",
+   "lang": "en",
+   "date": "2026-09-13T05:00:29+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Ryan Garcia vs. Conor Benn fight stream: Where to watch live online, start time, full card",
+   "link": "https://www.cbssports.com/boxing/news/ryan-garcia-conor-benn-start-time-where-to-watch-fight-stream-live-start-time-card/",
+   "source": "CBS Sports Boxing",
+   "lang": "en",
+   "date": "2026-09-13T02:01:09+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Ryan Garcia vs. Conor Benn: Fight card, date, complete guide for welterweight title showdown in Las Vegas",
+   "link": "https://www.cbssports.com/boxing/news/ryan-garcia-vs-conor-benn-fight-odds-start-time-date-undercard-complete-guide/",
+   "source": "CBS Sports Boxing",
+   "lang": "en",
+   "date": "2026-09-13T01:30:51+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Ryan Garcia vs. Conor Benn fight predictions, odds, preview and expert picks for title showdown",
+   "link": "https://www.cbssports.com/boxing/news/ryan-garcia-vs-conor-benn-fight-predictions-odds-preview-undercard-expert-picks-date/",
+   "source": "CBS Sports Boxing",
+   "lang": "en",
+   "date": "2026-09-13T01:00:57+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Ryan Garcia vs. Conor Benn fight preview: Tale of the tape, fighter records, stats, what's at stake",
+   "link": "https://www.cbssports.com/boxing/news/ryan-garcia-conor-benn-fight-preview-tale-of-the-tape-records/",
+   "source": "CBS Sports Boxing",
+   "lang": "en",
+   "date": "2026-09-13T00:30:47+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Ryan Garcia believes he's matured as a person and fighter: 'I feel like this is the start of my era'",
+   "link": "https://www.cbssports.com/boxing/news/ryan-garcia-fight-maturity-conor-benn/",
+   "source": "CBS Sports Boxing",
+   "lang": "en",
+   "date": "2026-09-10T13:43:21+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Ryan Garcia vs. Conor Benn fight: Five storylines to follow for welterweight title showdown in Zuffa Boxing",
+   "link": "https://www.cbssports.com/boxing/news/ryan-garcia-vs-conor-benn-fight-storylines-welterweight-title-zuffa-boxing/",
+   "source": "CBS Sports Boxing",
+   "lang": "en",
+   "date": "2026-09-07T18:19:50+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Katie Taylor vs. Flora Pili fight predictions, odds, start time, where to watch Irish star's retirement bout",
+   "link": "https://www.cbssports.com/boxing/news/katie-taylor-vs-flora-pili-fight-predictions-odds-start-time-where-to-watch/",
+   "source": "CBS Sports Boxing",
+   "lang": "en",
+   "date": "2026-09-05T14:01:51+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Filip Hrgovic scores stunning late TKO of Moses Itauma to claim vacant IBF heavyweight title",
+   "link": "https://www.cbssports.com/boxing/news/moses-itauma-vs-filip-hrgovic-fight-results-highlights-winner-knockout/",
+   "source": "CBS Sports Boxing",
+   "lang": "en",
+   "date": "2026-08-29T23:07:37+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Moses Itauma vs. Filip Hrgovic fight predictions, start time, odds, undercard and picks for showdown in London",
+   "link": "https://www.cbssports.com/boxing/news/moses-itauma-vs-filip-hrgovic-fight-predictions-start-time-odds-undercard-picks/",
+   "source": "CBS Sports Boxing",
+   "lang": "en",
+   "date": "2026-08-29T19:01:31+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
    "title": "From influencers to queens of women's boxing - five years of MVP",
    "link": "https://www.bbc.co.uk/sport/boxing/articles/c9w0z9ydre2o?at_medium=RSS&at_campaign=rss",
    "source": "BBC Sport Boxing",
    "lang": "en",
    "date": "2026-08-26T06:28:28+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Zolani Tete dies at 38: Former world champion found dead after shooting at his home in South Africa",
+   "link": "https://www.cbssports.com/boxing/news/zolani-tete-death-age-shooting-south-africa/",
+   "source": "CBS Sports Boxing",
+   "lang": "en",
+   "date": "2026-08-23T13:01:49+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Rolly Romero vs. Teofimo Lopez odds, prediction, time: Boxing picks for Aug. 22 fight card by top expert",
+   "link": "https://www.cbssports.com/boxing/news/rolly-romero-teofimo-lopez-odds-line-prediction-start-time-boxing-picks-for-aug-22-fight-card/",
+   "source": "CBS Sports Boxing",
+   "lang": "en",
+   "date": "2026-08-22T23:53:24+00:00",
    "status": "unverified",
    "boxers": []
   },
@@ -848,6 +2169,119 @@
    "date": "2026-07-27T10:00:00+00:00",
    "status": "unverified",
    "boxers": []
+  },
+  {
+   "title": "Manny Pacquiao Next Fight: 3 Options After Mayweather Postponement",
+   "link": "https://boxing-social.com/news/manny-pacquiao-next-fight-options-after-mayweather-postponement/",
+   "source": "Boxing Social",
+   "lang": "en",
+   "date": "2026-07-07T11:04:51+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Oleksandr Usyk Next Fight: Deontay Wilder Rumours Grow After Titles Vacated",
+   "link": "https://boxing-social.com/news/oleksandr-usyk-next-fight-deontay-wilder-rumours-grow-after-titles-vacated/",
+   "source": "Boxing Social",
+   "lang": "en",
+   "date": "2026-07-07T11:03:06+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Oleksandr Usyk"
+   ]
+  },
+  {
+   "title": "Joshua vs Fury: What to Expect From Boxing’s Biggest Fight",
+   "link": "https://boxing-social.com/news/joshua-vs-fury-what-to-expect/",
+   "source": "Boxing Social",
+   "lang": "en",
+   "date": "2026-06-13T10:32:41+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Tyson Fury",
+    "Anthony Joshua"
+   ]
+  },
+  {
+   "title": "The best boxing games are coming out this year",
+   "link": "https://boxing-social.com/news/best-boxing-games-2026/",
+   "source": "Boxing Social",
+   "lang": "en",
+   "date": "2026-06-13T10:20:42+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Anthony Joshua vs Tyson Fury: Why Odds Could Shift",
+   "link": "https://boxing-social.com/news/anthony-joshua-vs-tyson-fury-odds-shift-before-fight-night-2/",
+   "source": "Boxing Social",
+   "lang": "en",
+   "date": "2026-06-12T14:25:38+00:00",
+   "status": "rumor",
+   "boxers": [
+    "Tyson Fury",
+    "Anthony Joshua"
+   ]
+  },
+  {
+   "title": "A Boxing Fan’s Checklist Before Betting on a Big Fight",
+   "link": "https://boxing-social.com/news/boxing-fan-checklist/",
+   "source": "Boxing Social",
+   "lang": "en",
+   "date": "2026-06-10T18:47:23+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Anthony Joshua vs Tyson Fury: Why the Odds Could Shift Before Fight Night",
+   "link": "https://boxing-social.com/news/anthony-joshua-vs-tyson-fury-odds-shift-before-fight-night/",
+   "source": "Boxing Social",
+   "lang": "en",
+   "date": "2026-06-10T18:43:37+00:00",
+   "status": "rumor",
+   "boxers": [
+    "Tyson Fury",
+    "Anthony Joshua"
+   ]
+  },
+  {
+   "title": "The Upcoming UK Boxing Cards Set to Draw Huge Crowds in 2026",
+   "link": "https://boxing-social.com/news/uk-boxing-2026-biggest-fight-cards-events/",
+   "source": "Boxing Social",
+   "lang": "en",
+   "date": "2026-06-05T15:31:42+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Katie Taylor Croke Park Fight All but Confirmed",
+   "link": "https://boxing-social.com/news/katie-taylor-croke-park-fight-all-but-confirmed/",
+   "source": "Boxing Social",
+   "lang": "en",
+   "date": "2026-06-03T14:06:10+00:00",
+   "status": "confirmed",
+   "boxers": []
+  },
+  {
+   "title": "Devin Haney vs Keyshawn Davis Moves Closer After WBO Rankings Update",
+   "link": "https://boxing-social.com/news/devin-haney-vs-keyshawn-davis-moves-closer-after-wbo-rankings-update/",
+   "source": "Boxing Social",
+   "lang": "en",
+   "date": "2026-06-03T10:40:44+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Anthony Joshua vs Kristian Prenga: A Crucial Step Towards Tyson Fury",
+   "link": "https://boxing-social.com/features/anthony-joshua-vs-kristian-prenga-a-crucial-step-towards-tyson-fury/",
+   "source": "Boxing Social",
+   "lang": "en",
+   "date": "2026-06-02T16:15:06+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Tyson Fury",
+    "Anthony Joshua"
+   ]
   },
   {
    "title": "Phantom v Price - can a Gladiator keep up with a world champion?",
@@ -886,11 +2320,114 @@
    "boxers": []
   },
   {
+   "title": "Saul Alvarez vs. Terence Crawford: A New Kind of Superfight",
+   "link": "https://theboxingtribune.com/saul-alvarez-canelo-terence-crawford-turki/",
+   "source": "The Boxing Tribune",
+   "lang": "en",
+   "date": "2025-09-10T00:10:21+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Canelo Alvarez"
+   ]
+  },
+  {
+   "title": "Notes from the Boxing Underground: Talkin’ Turki",
+   "link": "https://theboxingtribune.com/notes-from-the-boxing-underground-turki-alalshikh/",
+   "source": "The Boxing Tribune",
+   "lang": "en",
+   "date": "2025-07-21T19:53:50+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Notes from the Boxing Underground: Freak Shows, Freaks, Geeks, and a Bronze Bomber",
+   "link": "https://theboxingtribune.com/notes-from-the-boxing-underground-freak-shows-freaks-geeks-and-a-bronze-bomber/",
+   "source": "The Boxing Tribune",
+   "lang": "en",
+   "date": "2025-06-30T19:38:43+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Magno’s Bulging Mail Sack: Canelo-Crawford, Deontay Wilder, Jake Paul-JCC Jr., The Death of Vegas Boxing",
+   "link": "https://theboxingtribune.com/magnos-bulging-mail-sack-canelo-crawford-deontay-wilder-jake-paul-jcc-jr-the-death-of-vegas-boxing/",
+   "source": "The Boxing Tribune",
+   "lang": "en",
+   "date": "2025-06-26T08:56:46+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Notes from the Boxing Underground: Boxing as a Conquered Land",
+   "link": "https://theboxingtribune.com/notes-from-the-boxing-underground-boxing-as-a-conquered-land/",
+   "source": "The Boxing Tribune",
+   "lang": "en",
+   "date": "2025-06-24T19:15:58+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Notes from the Boxing Underground: Selling Out Ruins A Vibe",
+   "link": "https://theboxingtribune.com/benn-eubank-turki-ring-magazine/",
+   "source": "The Boxing Tribune",
+   "lang": "en",
+   "date": "2025-05-02T00:09:56+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Inoue Wins Via Knockout, Looks Toward 2025 U.S. Debut",
+   "link": "https://theboxingtribune.com/inoue-wins-via-knockout-looks-toward-u-s-debut/",
+   "source": "The Boxing Tribune",
+   "lang": "en",
+   "date": "2025-01-24T20:06:16+00:00",
+   "status": "confirmed",
+   "boxers": [
+    "Naoya Inoue"
+   ]
+  },
+  {
    "title": "'I gave everything to boxing and still have nothing'",
    "link": "https://www.bbc.co.uk/sport/boxing/articles/cwyl3y7yyx1o?at_medium=RSS&at_campaign=rss",
    "source": "BBC Sport Boxing",
    "lang": "en",
    "date": "2024-10-01T08:00:06+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Massimo Pericolo: \"Così il pugilato mi ha aiutato a stare bene. Io sul ring? Sfiderei Emis Killa\"",
+   "link": "https://video.gazzetta.it/video-massimo-pericolo-cosi-il-pugilato-mi-ha-aiutato-io-sul-ring-sfiderei-emis-killa/1cc56a92-684e-45d2-a6e1-daec75ba4xlk",
+   "source": "Gazzetta dello Sport",
+   "lang": "it",
+   "date": "2023-12-07T14:30:58+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Juve riposata e favorita? Gli impegni di Champions per ora non incidono sulla A",
+   "link": "https://www.gazzetta.it/Calcio/Champions-League/07-12-2023/coppe-europee-gli-impegni-non-incidono-sulla-serie-a.shtml",
+   "source": "Gazzetta dello Sport",
+   "lang": "it",
+   "date": "2023-12-07T10:33:01+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Sirene inglesi per Sesko: è nel mirino dell'Arsenal",
+   "link": "https://www.gazzetta.it/Calciomercato/30-11-2023/sirene-inglesi-per-sesko-lo-vuole-l-arsenal.shtml",
+   "source": "Gazzetta dello Sport",
+   "lang": "it",
+   "date": "2023-11-30T07:11:53+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Atalanta, Gasperini: \"Con lo Sporting basta il pari ma niente calcoli\". De Ketelaere ko",
+   "link": "https://www.gazzetta.it/Calcio/Europa-League/29-11-2023/atalanta-verso-lo-sporting-gasperini-non-facciamo-calcoli-scalvini-evitiamo-gli-erro.shtml",
+   "source": "Gazzetta dello Sport",
+   "lang": "it",
+   "date": "2023-11-29T13:57:17+00:00",
    "status": "unverified",
    "boxers": []
   },
