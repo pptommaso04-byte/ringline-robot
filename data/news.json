@@ -1,8 +1,29 @@
 {
- "updated": "2026-11-08T12:16:34+00:00",
+ "updated": "2026-11-08T13:14:40+00:00",
  "feeds_ok": 20,
  "feeds_failed": 3,
  "news": [
+  {
+   "title": "Henderson returns for Chelsea to face former side Sunderland LIVE!",
+   "link": "https://www.skysports.com/football/sunderland-vs-chelsea/live/559543",
+   "source": "Sky Sports Boxing",
+   "lang": "en",
+   "date": "2026-11-08T12:33:00+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Daniel Dubois trainer Don Charles sees only one winner in Tyson Fury vs Anthony Joshua: “It’s clear to me”",
+   "link": "https://boxingnewsonline.net/news/don-charles-on-fury-joshua-winner/",
+   "source": "Boxing News (UK)",
+   "lang": "en",
+   "date": "2026-11-08T12:25:54+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Tyson Fury",
+    "Anthony Joshua"
+   ]
+  },
   {
    "title": "Viddal Riley vs Seydi Coupe: Prediction and fight card for November 14",
    "link": "https://bigfightweekend.com/2026/11/08/viddal-riley-vs-seydi-coupe-prediction/",
@@ -485,15 +506,6 @@
    "boxers": [
     "Canelo Alvarez"
    ]
-  },
-  {
-   "title": "Gervonta Davis linked with former unified champion for comeback fight after over 18 months out",
-   "link": "https://boxingnewsonline.net/news/gervonta-davis-linked-with-former-champ/",
-   "source": "Boxing News (UK)",
-   "lang": "en",
-   "date": "2026-11-06T20:54:23+00:00",
-   "status": "rumor",
-   "boxers": []
   },
   {
    "title": "Avila Perspective, Chap 401: Zuffa Boxing, Queensberry Promotions, Salita and MVP",
@@ -1698,51 +1710,6 @@
    "boxers": []
   },
   {
-   "title": "Netflix Fires Its Content Chief While Skydance and DAZN Dig In on Boxing",
-   "link": "https://www.boxinginsider.com/headlines/netflix-fires-its-content-chief-while-skydance-and-dazn-dig-in-on-boxing/",
-   "source": "Boxing Insider",
-   "lang": "en",
-   "date": "2026-10-15T23:46:48+00:00",
-   "status": "unverified",
-   "boxers": []
-  },
-  {
-   "title": "Canelo vs Mbilli at 16 Days: The Comeback, the Champion and the Styles",
-   "link": "https://www.boxinginsider.com/headlines/canelo-vs-mbilli-at-16-days-the-comeback-the-champion-and-the-styles/",
-   "source": "Boxing Insider",
-   "lang": "en",
-   "date": "2026-10-15T23:03:50+00:00",
-   "status": "unverified",
-   "boxers": []
-  },
-  {
-   "title": "Five Saudi Events Postponed in Three Days as Canelo vs Mbilli and Crown Jewel Hold Their Dates",
-   "link": "https://www.boxinginsider.com/headlines/five-saudi-events-postponed-in-three-days-as-canelo-vs-mbilli-and-crown-jewel-hold-their-dates/",
-   "source": "Boxing Insider",
-   "lang": "en",
-   "date": "2026-10-15T22:58:05+00:00",
-   "status": "unverified",
-   "boxers": []
-  },
-  {
-   "title": "Tyson, Paul and Now Mayweather: Trump Is Running a Boxing Card on the Campaign Trail",
-   "link": "https://www.boxinginsider.com/headlines/tyson-paul-and-now-mayweather-trump-is-running-a-boxing-card-on-the-campaign-trail/",
-   "source": "Boxing Insider",
-   "lang": "en",
-   "date": "2026-10-14T22:42:41+00:00",
-   "status": "unverified",
-   "boxers": []
-  },
-  {
-   "title": "Boxing Hall of Fame Issues Fall Appeal for Donations as Off Season Bites",
-   "link": "https://www.boxinginsider.com/uncategorized/boxing-hall-of-fame-issues-fall-appeal-for-donations-as-off-season-bites/",
-   "source": "Boxing Insider",
-   "lang": "en",
-   "date": "2026-10-14T20:47:50+00:00",
-   "status": "unverified",
-   "boxers": []
-  },
-  {
    "title": "Zuffa Boxing signs middleweight titleholder Carlos Adames to add to growing 160-pound division",
    "link": "https://www.cbssports.com/boxing/news/zuffa-boxing-signs-carlos-adames/",
    "source": "CBS Sports Boxing",
@@ -1761,11 +1728,29 @@
    "boxers": []
   },
   {
+   "title": "Schofield Defeats Bahdi, Wins WBA Lightweight Title",
+   "link": "https://www.boxinginsider.com/headlines/schofield-defeats-bahdi-wins-wba-lightweight-title/",
+   "source": "Boxing Insider",
+   "lang": "en",
+   "date": "2026-10-11T03:41:41+00:00",
+   "status": "confirmed",
+   "boxers": []
+  },
+  {
    "title": "Carlos Monzón. Una vida de violencia de género detrás del ídolo del boxeo",
    "link": "https://www.marca.com/radio/2026/10/10/carlos-monzon-vida-violencia-genero-detras-idolo-boxeo.html",
    "source": "Marca Boxeo",
    "lang": "es",
    "date": "2026-10-10T20:16:44+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Kid Austin And The WBA Title.",
+   "link": "https://www.boxinginsider.com/headlines/kid-austin-and-the-wba-title/",
+   "source": "Boxing Insider",
+   "lang": "en",
+   "date": "2026-10-10T02:16:21+00:00",
    "status": "unverified",
    "boxers": []
   },
@@ -1788,11 +1773,53 @@
    "boxers": []
   },
   {
+   "title": "Fury vs. Joshua Sells Out Cardiff in Under an Hour With No Undercard and a 1am Ring Walk",
+   "link": "https://www.boxinginsider.com/headlines/fury-vs-joshua-sells-out-cardiff-in-under-an-hour-with-no-undercard-and-a-1am-ring-walk/",
+   "source": "Boxing Insider",
+   "lang": "en",
+   "date": "2026-10-09T14:30:02+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Tyson Fury",
+    "Anthony Joshua"
+   ]
+  },
+  {
    "title": "Las 80.000 entradas para el Fury-Joshua se agotan en una hora",
    "link": "https://www.marca.com/boxeo/2026/10/09/80-000-entradas-fury-joshua-agotan-hora.html",
    "source": "Marca Boxeo",
    "lang": "es",
    "date": "2026-10-09T13:27:29+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Tyson Fury",
+    "Anthony Joshua"
+   ]
+  },
+  {
+   "title": "Two Deals, One Week: Where Boxing Sits as Skydance and DAZN Redraw Sports Media",
+   "link": "https://www.boxinginsider.com/headlines/two-deals-one-week-where-boxing-sits-as-skydance-and-dazn-redraw-sports-media/",
+   "source": "Boxing Insider",
+   "lang": "en",
+   "date": "2026-10-08T18:40:41+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Canelo vs. Mbilli Undercard Set: Munguia, Espinoza and a Vacant IBF Title Fight Join “Mexico vs. Rest of the World” in Riyadh",
+   "link": "https://www.boxinginsider.com/uncategorized/canelo-vs-mbilli-undercard-set-munguia-espinoza-and-a-vacant-ibf-title-fight-join-mexico-vs-rest-of-the-world-in-riyadh/",
+   "source": "Boxing Insider",
+   "lang": "en",
+   "date": "2026-10-08T18:02:21+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Joshua-Fury Is About Joshua-Fury, Not Promoters",
+   "link": "https://www.boxinginsider.com/headlines/joshua-fury-is-about-joshua-fury-not-promoters/",
+   "source": "Boxing Insider",
+   "lang": "en",
+   "date": "2026-10-08T17:23:58+00:00",
    "status": "unverified",
    "boxers": [
     "Tyson Fury",
@@ -1810,6 +1837,15 @@
     "Tyson Fury",
     "Anthony Joshua"
    ]
+  },
+  {
+   "title": "Dana White Posted a Ticket Promo for the Fight He’s Been Told He Can’t Promote",
+   "link": "https://www.boxinginsider.com/headlines/dana-white-posted-a-ticket-promo-for-the-fight-hes-been-told-he-cant-promote/",
+   "source": "Boxing Insider",
+   "lang": "en",
+   "date": "2026-10-07T16:07:19+00:00",
+   "status": "unverified",
+   "boxers": []
   },
   {
    "title": "La Asociación Internacional de boxeo dará a conocer sus proyectos en Estambul",
