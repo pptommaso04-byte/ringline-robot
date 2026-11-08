@@ -1,8 +1,17 @@
 {
- "updated": "2026-11-08T14:00:51+00:00",
+ "updated": "2026-11-08T14:39:06+00:00",
  "feeds_ok": 20,
  "feeds_failed": 3,
  "news": [
+  {
+   "title": "NFL Madrid LIVE! Bengals face Falcons at Bernabeu",
+   "link": "https://www.skysports.com/nfl/live-blog/12040/13609650/nfl-madrid-2026-live-atlanta-falcons-vs-cincinnati-bengals-updates-result-highlights-at-santiago-bernabeu-in-madrid",
+   "source": "Sky Sports Boxing",
+   "lang": "en",
+   "date": "2026-11-08T14:00:00+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
   {
    "title": "Daniel Dubois trainer Don Charles sees only one winner in Tyson Fury vs Anthony Joshua: “It’s clear to me”",
    "link": "https://boxingnewsonline.net/news/don-charles-on-fury-joshua-winner/",
@@ -165,31 +174,11 @@
    "boxers": []
   },
   {
-   "title": "Deontay Wilder-Jai Opetaia: Tyson Fury Has Things To Say",
-   "link": "https://www.boxinginsider.com/headlines/deontay-wilder-jai-opetaia-tyson-fury-has-things-to-say/",
-   "source": "Boxing Insider",
-   "lang": "en",
-   "date": "2026-11-08T04:07:27+00:00",
-   "status": "unverified",
-   "boxers": [
-    "Tyson Fury"
-   ]
-  },
-  {
    "title": "Dana White’s Shakur Split Weakens His American Boxing Plan",
    "link": "https://www.boxingnews24.com/2026/11/dana-whites-shakur-split-weakens-his-american-boxing-plan/",
    "source": "Boxing News 24",
    "lang": "en",
    "date": "2026-11-08T03:23:58+00:00",
-   "status": "unverified",
-   "boxers": []
-  },
-  {
-   "title": "The Return Of Vasyl Lomachenko",
-   "link": "https://www.boxinginsider.com/headlines/the-return-of-vasyl-lomachenko/",
-   "source": "Boxing Insider",
-   "lang": "en",
-   "date": "2026-11-08T02:26:26+00:00",
    "status": "unverified",
    "boxers": []
   },
@@ -1327,11 +1316,29 @@
    "boxers": []
   },
   {
+   "title": "Canelo Beats Mbilli by Unanimous Decision to Win Back the WBC Super Middleweight Title in Riyadh",
+   "link": "https://www.boxinginsider.com/headlines/canelo-beats-mbilli-by-unanimous-decision-to-win-back-the-wbc-super-middleweight-title-in-riyadh/",
+   "source": "Boxing Insider",
+   "lang": "en",
+   "date": "2026-10-31T22:57:34+00:00",
+   "status": "confirmed",
+   "boxers": []
+  },
+  {
    "title": "Fright Night: Jaime Munguia survives scare to retain WBA title against Nikita Zon",
    "link": "https://www.boxingscene.com/articles/fright-night-jaime-munguia-survives-scare-to-retain-wba-title-against-nikita-zon",
    "source": "Boxing Scene",
    "lang": "en",
    "date": "2026-10-31T21:55:46+00:00",
+   "status": "confirmed",
+   "boxers": []
+  },
+  {
+   "title": "Canelo Undercard Results: Munguia Climbs Off the Floor in a Wild Sixth to Beat Zon, Espinoza Stops Blandon, Martin Upsets Picasso in Riyadh",
+   "link": "https://www.boxinginsider.com/headlines/mexico-vs-the-world-results-espinoza-stops-blandon-on-a-cut-martin-upsets-picasso-by-split-decision-in-riyadh/",
+   "source": "Boxing Insider",
+   "lang": "en",
+   "date": "2026-10-31T20:50:13+00:00",
    "status": "confirmed",
    "boxers": []
   },
