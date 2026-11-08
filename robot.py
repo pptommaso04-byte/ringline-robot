@@ -11,7 +11,7 @@ Cosa fa, ogni volta che parte:
 Uso:  python3 robot.py            (una volta)
       python3 robot.py --loop 60  (ogni 60 minuti, senza fine)
 """
-import json, re, sys, time, hashlib, html, urllib.request, xml.etree.ElementTree as ET
+import json, re, sys, time, hashlib, html, urllib.request, urllib.parse, xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
 from pathlib import Path
@@ -65,6 +65,47 @@ def classify(n, boxers):
     n["boxers"] = [b for b in boxers if b.lower() in low or (len(b.split()[-1]) >= 4 and re.search(r"\b" + re.escape(b.split()[-1].lower()) + r"\b", low))]
     return n
 
+def _google(text, tl):
+    u = "https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=%s&dt=t&q=%s" % (tl, urllib.parse.quote(text))
+    j = json.loads(fetch(u, timeout=15).decode("utf-8"))
+    return "".join(p[0] for p in j[0] if p and p[0]).strip()
+
+def _mymemory(text, tl):
+    u = "https://api.mymemory.translated.net/get?langpair=en|%s&q=%s" % (tl, urllib.parse.quote(text))
+    j = json.loads(fetch(u, timeout=15).decode("utf-8"))
+    r = j["responseData"]["translatedText"].strip()
+    if not r or "MYMEMORY WARNING" in r.upper(): raise ValueError("limite")
+    return html.unescape(r)
+
+def translate(text, tl):
+    """Traduce un titolo (automatico). Prova due servizi gratuiti; se falliscono torna None."""
+    for fn in (_google, _mymemory):
+        try:
+            r = fn(text, tl)
+            if r and r.lower() != text.lower(): return r
+            if r: return r
+        except Exception: pass
+    return None
+
+def add_translations(news, limit=40):
+    """Riusa le traduzioni gia' fatte (lette dal news.json precedente) e traduce solo le nuove."""
+    old = {}
+    try:
+        for o in json.loads((DATA / "news.json").read_text(encoding="utf-8")).get("news", []):
+            old[o["link"]] = o
+    except Exception: pass
+    done = fail = 0
+    for n in news:
+        o = old.get(n["link"], {})
+        for tl in ("it", "es"):
+            if n.get("lang") == tl: n["title_" + tl] = n["title"]; continue
+            if o.get("title_" + tl): n["title_" + tl] = o["title_" + tl]; continue
+            if done >= limit: continue
+            r = translate(n["title"], tl)
+            if r: n["title_" + tl] = r; done += 1
+            else: fail += 1
+    log(f"Traduzioni nuove {done}, non riuscite {fail}")
+
 def run(feeds_file="feeds.json", feeds_override=None):
     cfg = json.loads((HERE / feeds_file).read_text(encoding="utf-8"))
     boxers = json.loads((HERE / "boxers.json").read_text(encoding="utf-8")) if (HERE / "boxers.json").exists() else []
@@ -84,6 +125,7 @@ def run(feeds_file="feeds.json", feeds_override=None):
         if k in seen: continue
         seen.add(k); news.append(classify(n, boxers))
     news = news[:300]
+    add_translations(news)
     out = {"updated": datetime.now(timezone.utc).isoformat(timespec="seconds"), "feeds_ok": ok, "feeds_failed": bad, "news": news}
     (DATA / "news.json").write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")
     log(f"Scritte {len(news)} notizie (feed ok {ok}, falliti {bad})")
