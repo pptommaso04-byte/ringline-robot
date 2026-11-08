@@ -106,6 +106,35 @@ def add_translations(news, limit=40):
             else: fail += 1
     log(f"Traduzioni nuove {done}, non riuscite {fail}")
 
+STARS = ["Oleksandr Usyk","Tyson Fury","Anthony Joshua","Naoya Inoue","Canelo","Terence Crawford","Gervonta Davis","Devin Haney","Ryan Garcia","Jaron Ennis","Dmitry Bivol","Artur Beterbiev","David Benavidez","Deontay Wilder","Daniel Dubois","Joseph Parker","Vasiliy Lomachenko","Jesse Rodriguez","Junto Nakatani","Katie Taylor","Amanda Serrano","Claressa Shields","Bakhram Murtazaliev","Jermall Charlo","Errol Spence","Keith Thurman","Shakur Stevenson","Teofimo Lopez","Jake Paul","Moses Itauma","Zurdo Ramirez","Christian Mbilli","Diego Pacheco","Callum Smith","Conor Benn","Chris Eubank","Hamzah Sheeraz","Janibek Alimkhanuly","Denzel Bentley","Joshua Buatsi","Willy Hutchinson","Fundora","Navarrete","Tszyu","Whyte","Chisora","Usyk","Inoue","Beterbiev","Bivol","Benavidez","Itauma","Dubois","Crawford","Haney","Stevenson","Pacheco","Zhilei Zhang","Hrgovic","Jarrell Miller"]
+KEYS = [(re.compile(r"undisputed|unif(y|ied|ication)|mega.?fight|super.?fight|pound.for.pound"), 18),
+        (re.compile(r"world title|world champion|heavyweight|stripped|vacant|ordered|mandatory|purse|signed|confirmed|official|announced"), 10),
+        (re.compile(r"\b(wbc|wba|ibf|wbo|ring magazine)\b"), 10),
+        (re.compile(r"beats?|defeats?|stops?|knocks? out|retains?|wins?|loses?|upset|ko\b|tko\b"), 8),
+        (re.compile(r"weigh.?in|workout|training camp|sparring|instagram|tiktok|reaction|\bwatch\b|\bphotos?\b|\bvideo\b"), -10)]
+
+def score_news(news):
+    toks = []
+    for n in news:
+        toks.append(set(w for w in re.findall(r"[A-Z][a-zA-Z\-']{3,}", n["title"])))
+    now = datetime.now(timezone.utc)
+    for i, n in enumerate(news):
+        low = n["title"].lower(); sc = 0
+        stars = [a for a in STARS if re.search(r"\b" + re.escape(a.lower()) + r"\b", low)]
+        sc += min(45, 25 * len(stars)) if stars else 0
+        sc += 10 * bool(n.get("boxers"))
+        for rx, pts in KEYS:
+            if rx.search(low): sc += pts
+        same = {n["source"]}
+        for j, m in enumerate(news):
+            if j != i and len(toks[i] & toks[j]) >= 2: same.add(m["source"])
+        sc += min(30, 10 * (len(same) - 1))
+        try: hrs = (now - datetime.fromisoformat(n["date"])).total_seconds() / 3600
+        except Exception: hrs = 99
+        sc += max(0, 30 - hrs / 2)
+        n["score"] = int(max(0, sc)); n["sources_n"] = len(same)
+    return news
+
 def run(feeds_file="feeds.json", feeds_override=None):
     cfg = json.loads((HERE / feeds_file).read_text(encoding="utf-8"))
     boxers = json.loads((HERE / "boxers.json").read_text(encoding="utf-8")) if (HERE / "boxers.json").exists() else []
@@ -125,6 +154,7 @@ def run(feeds_file="feeds.json", feeds_override=None):
         if k in seen: continue
         seen.add(k); news.append(classify(n, boxers))
     news = news[:300]
+    score_news(news)
     add_translations(news)
     out = {"updated": datetime.now(timezone.utc).isoformat(timespec="seconds"), "feeds_ok": ok, "feeds_failed": bad, "news": news}
     (DATA / "news.json").write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")
