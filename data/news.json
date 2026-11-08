@@ -1,8 +1,17 @@
 {
- "updated": "2026-11-08T04:18:39+00:00",
+ "updated": "2026-11-08T05:13:45+00:00",
  "feeds_ok": 20,
  "feeds_failed": 3,
  "news": [
+  {
+   "title": "Live results: Elif Nur Turhan defends title against Alycia Baumgardner",
+   "link": "https://www.fightmag.com/boxing-elif-nur-turhan-vs-alycia-baumgardner-live-results/",
+   "source": "Fightmag",
+   "lang": "en",
+   "date": "2026-11-08T05:00:00+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
   {
    "title": "Dana White’s Shakur Split Weakens His American Boxing Plan",
    "link": "https://www.boxingnews24.com/2026/11/dana-whites-shakur-split-weakens-his-american-boxing-plan/",
@@ -365,12 +374,12 @@
    "boxers": []
   },
   {
-   "title": "Live results: Abraham Perez defends title against Yankiel Rivera",
+   "title": "Live results: Abraham Perez beats Yankiel Rivera to retain title",
    "link": "https://www.fightmag.com/boxing-abraham-perez-vs-yankiel-rivera-live-results/",
    "source": "Fightmag",
    "lang": "en",
    "date": "2026-11-07T05:04:00+00:00",
-   "status": "unverified",
+   "status": "confirmed",
    "boxers": []
   },
   {
@@ -385,7 +394,7 @@
    ]
   },
   {
-   "title": "Zuffa Boxing 12 live results: Clarke TKOs Billam-Smith in seventh round",
+   "title": "Zuffa Boxing 12 live results: Clarke TKOs Billam-Smith – Video",
    "link": "https://www.fightmag.com/zuffa-boxing-12-billam-smith-vs-clarke-live-results/",
    "source": "Fightmag",
    "lang": "en",
@@ -479,15 +488,6 @@
    "source": "Boxing Scene",
    "lang": "en",
    "date": "2026-11-06T19:27:17+00:00",
-   "status": "unverified",
-   "boxers": []
-  },
-  {
-   "title": "Dubois faces Han in unification bout in El Paso in February",
-   "link": "https://www.fightmag.com/dubois-faces-han-in-unification-bout-in-el-paso-in-february/",
-   "source": "Fightmag",
-   "lang": "en",
-   "date": "2026-11-06T19:27:08+00:00",
    "status": "unverified",
    "boxers": []
   },
@@ -675,6 +675,15 @@
    "boxers": []
   },
   {
+   "title": "Devin Haney and Liam Paro Set for Welterweight Unification December 19 in San Francisco",
+   "link": "https://www.boxinginsider.com/headlines/devin-haney-and-liam-paro-set-for-welterweight-unification-december-19-in-san-francisco/",
+   "source": "Boxing Insider",
+   "lang": "en",
+   "date": "2026-11-05T20:20:01+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
    "title": "Vasiliy Lomachenko returns to Top Rank – fight date and opponent teased",
    "link": "https://bigfightweekend.com/2026/11/05/vasiliy-lomachenko-fight-date-tease/",
    "source": "Big Fight Weekend",
@@ -764,6 +773,15 @@
    "boxers": []
   },
   {
+   "title": "Zuffa Boxing 12 Preview: Billam-Smith and Clarke Settle a Ten-Year Score in London",
+   "link": "https://www.boxinginsider.com/headlines/zuffa-boxing-12-preview-billam-smith-and-clarke-settle-a-ten-year-score-in-london/",
+   "source": "Boxing Insider",
+   "lang": "en",
+   "date": "2026-11-05T14:21:50+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
    "title": "Derek Chisora reveals Anthony Joshua is 'killing it' in training for Tyson Fury",
    "link": "https://www.boxingscene.com/articles/derek-chisora-reveals-anthony-joshua-is-killing-it-in-training-for-tyson-fury",
    "source": "Boxing Scene",
@@ -808,6 +826,15 @@
    "source": "Big Fight Weekend",
    "lang": "en",
    "date": "2026-11-05T10:00:10+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Deontay Wilder Deserves This Big Fight.",
+   "link": "https://www.boxinginsider.com/headlines/deontay-wilder-deserves-this-big-fight/",
+   "source": "Boxing Insider",
+   "lang": "en",
+   "date": "2026-11-04T21:22:31+00:00",
    "status": "unverified",
    "boxers": []
   },
@@ -885,6 +912,18 @@
    "date": "2026-11-04T16:09:57+00:00",
    "status": "unverified",
    "boxers": []
+  },
+  {
+   "title": "Deontay Wilder vs Jai Opetaia Added to Fury vs Joshua Card in Cardiff",
+   "link": "https://www.boxinginsider.com/headlines/deontay-wilder-vs-jai-opetaia-added-to-fury-vs-joshua-card-in-cardiff/",
+   "source": "Boxing Insider",
+   "lang": "en",
+   "date": "2026-11-04T15:14:45+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Tyson Fury",
+    "Anthony Joshua"
+   ]
   },
   {
    "title": "Terence Crawford teases one more fight as boxing struggles to embrace a new generation",
@@ -1139,6 +1178,15 @@
    "boxers": []
   },
   {
+   "title": "The Morning After in Riyadh: Mbilli Camp Says It Was Closer, the Punch Stats Disagree, Canelo Wants Crawford, and Nobody Has an Attendance Figure",
+   "link": "https://www.boxinginsider.com/headlines/the-morning-after-in-riyadh-mbilli-camp-says-it-was-closer-the-punch-stats-disagree-canelo-wants-crawford-and-nobody-has-an-attendance-figure/",
+   "source": "Boxing Insider",
+   "lang": "en",
+   "date": "2026-11-01T19:50:07+00:00",
+   "status": "rumor",
+   "boxers": []
+  },
+  {
    "title": "Joshua Buatsi and the decade-long marathon to a world title",
    "link": "https://www.boxingscene.com/articles/joshua-buatsi-and-the-decade-long-marathon-to-a-world-title",
    "source": "Boxing Scene",
@@ -1200,6 +1248,15 @@
    ]
   },
   {
+   "title": "Canelo Shows He’s Not Done Yet",
+   "link": "https://www.boxinginsider.com/headlines/canelo-shows-hes-not-done-yet/",
+   "source": "Boxing Insider",
+   "lang": "en",
+   "date": "2026-11-01T01:42:30+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
    "title": "The Accuracy and Defense of Canelo Prove Too Much for Mbilli",
    "link": "https://tss.ib.tv/boxing/the-accuracy-and-defense-of-canelo-prove-too-much-for-mbilli/",
    "source": "The Sweet Science",
@@ -1258,11 +1315,29 @@
    "boxers": []
   },
   {
+   "title": "Canelo Beats Mbilli by Unanimous Decision to Win Back the WBC Super Middleweight Title in Riyadh",
+   "link": "https://www.boxinginsider.com/headlines/canelo-beats-mbilli-by-unanimous-decision-to-win-back-the-wbc-super-middleweight-title-in-riyadh/",
+   "source": "Boxing Insider",
+   "lang": "en",
+   "date": "2026-10-31T22:57:34+00:00",
+   "status": "confirmed",
+   "boxers": []
+  },
+  {
    "title": "Fright Night: Jaime Munguia survives scare to retain WBA title against Nikita Zon",
    "link": "https://www.boxingscene.com/articles/fright-night-jaime-munguia-survives-scare-to-retain-wba-title-against-nikita-zon",
    "source": "Boxing Scene",
    "lang": "en",
    "date": "2026-10-31T21:55:46+00:00",
+   "status": "confirmed",
+   "boxers": []
+  },
+  {
+   "title": "Canelo Undercard Results: Munguia Climbs Off the Floor in a Wild Sixth to Beat Zon, Espinoza Stops Blandon, Martin Upsets Picasso in Riyadh",
+   "link": "https://www.boxinginsider.com/headlines/mexico-vs-the-world-results-espinoza-stops-blandon-on-a-cut-martin-upsets-picasso-by-split-decision-in-riyadh/",
+   "source": "Boxing Insider",
+   "lang": "en",
+   "date": "2026-10-31T20:50:13+00:00",
    "status": "confirmed",
    "boxers": []
   },
@@ -1533,26 +1608,6 @@
    "boxers": []
   },
   {
-   "title": "Forty Minutes Between the Lobby and the Sirens: A Fight Week Like No Other in Riyadh",
-   "link": "https://www.boxinginsider.com/headlines/forty-minutes-between-the-lobby-and-the-sirens-a-fight-week-like-no-other-in-riyadh/",
-   "source": "Boxing Insider",
-   "lang": "en",
-   "date": "2026-10-26T14:13:12+00:00",
-   "status": "unverified",
-   "boxers": []
-  },
-  {
-   "title": "Canelo Arrives in Riyadh With Usyk Days Before the Grand Arrivals",
-   "link": "https://www.boxinginsider.com/headlines/canelo-arrives-riyadh-usyk-before-grand-arrivals/",
-   "source": "Boxing Insider",
-   "lang": "en",
-   "date": "2026-10-26T01:04:16+00:00",
-   "status": "unverified",
-   "boxers": [
-    "Oleksandr Usyk"
-   ]
-  },
-  {
    "title": "O'Shaquie Foster dominates Emanuel Navarrete to become unified junior lightweight champion",
    "link": "https://www.cbssports.com/boxing/news/oshaquie-foster-vs-emanuel-navarrete-results-highlights-winner/",
    "source": "CBS Sports Boxing",
@@ -1589,56 +1644,11 @@
    "boxers": []
   },
   {
-   "title": "DAZN Signs Devin Haney to Exclusive Multi-Fight Deal",
-   "link": "https://www.boxinginsider.com/headlines/dazn-signs-devin-haney-to-exclusive-multi-fight-deal/",
-   "source": "Boxing Insider",
-   "lang": "en",
-   "date": "2026-10-23T20:08:59+00:00",
-   "status": "unverified",
-   "boxers": []
-  },
-  {
-   "title": "Canelo Closes Camp in Spain as DAZN Prepares to Call His Riyadh Fight From London",
-   "link": "https://www.boxinginsider.com/headlines/canelo-closes-camp-in-spain-as-dazn-prepares-to-call-his-riyadh-fight-from-london/",
-   "source": "Boxing Insider",
-   "lang": "en",
-   "date": "2026-10-23T17:43:50+00:00",
-   "status": "unverified",
-   "boxers": []
-  },
-  {
    "title": "How world champion Smith can become a mainstream star",
    "link": "https://www.bbc.co.uk/sport/boxing/articles/c8y56qlzqq96o?at_medium=RSS&at_campaign=rss",
    "source": "BBC Sport Boxing",
    "lang": "en",
    "date": "2026-10-23T09:20:03+00:00",
-   "status": "unverified",
-   "boxers": []
-  },
-  {
-   "title": "Zuffa vs. The World: The World Fights Back",
-   "link": "https://www.boxinginsider.com/headlines/zuffa-vs-the-world-the-world-fights-back/",
-   "source": "Boxing Insider",
-   "lang": "en",
-   "date": "2026-10-23T01:34:37+00:00",
-   "status": "unverified",
-   "boxers": []
-  },
-  {
-   "title": "Navarette And Foster Aim To Bring Some Clarity To The Junior Lightweight Division",
-   "link": "https://www.boxinginsider.com/headlines/navarette-and-foster-aim-to-bring-some-clarity-to-the-junior-lightweight-division/",
-   "source": "Boxing Insider",
-   "lang": "en",
-   "date": "2026-10-23T00:47:04+00:00",
-   "status": "unverified",
-   "boxers": []
-  },
-  {
-   "title": "Evander Holyfield Takes the Stage With Trump in South Carolina as the Rally Boxing Card Reaches Four",
-   "link": "https://www.boxinginsider.com/headlines/evander-holyfield-takes-the-stage-with-trump-in-south-carolina-as-the-rally-boxing-card-reaches-four/",
-   "source": "Boxing Insider",
-   "lang": "en",
-   "date": "2026-10-22T21:24:02+00:00",
    "status": "unverified",
    "boxers": []
   },
@@ -1666,15 +1676,6 @@
    "source": "Marca Boxeo",
    "lang": "es",
    "date": "2026-10-22T11:39:31+00:00",
-   "status": "unverified",
-   "boxers": []
-  },
-  {
-   "title": "USA Boxing Opens LA28 Olympic Pathway to Professional Boxers With December Tournament in Louisiana",
-   "link": "https://www.boxinginsider.com/headlines/usa-boxing-opens-la28-olympic-pathway-to-professional-boxers-with-december-tournament-in-louisiana/",
-   "source": "Boxing Insider",
-   "lang": "en",
-   "date": "2026-10-22T00:32:58+00:00",
    "status": "unverified",
    "boxers": []
   },
