@@ -1,8 +1,17 @@
 {
- "updated": "2026-11-08T15:54:44+00:00",
+ "updated": "2026-11-08T16:27:52+00:00",
  "feeds_ok": 20,
  "feeds_failed": 3,
  "news": [
+  {
+   "title": "WBC#5 Hata Halts Sagawa, Keeps OPBF 130lb Belt",
+   "link": "https://fightnews.com/wbc5-hata-halts-sagawa-keeps-opbf-130lb-belt/199924",
+   "source": "Fightnews",
+   "lang": "en",
+   "date": "2026-11-08T15:30:40+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
   {
    "title": "Heavyweight Attacked After WBC Win, Mass Brawl Erupts",
    "link": "https://www.worldboxingnews.com/heavyweight-attacked-wbc-win-mass-brawl/",
@@ -18,6 +27,15 @@
    "source": "Boxing News (UK)",
    "lang": "en",
    "date": "2026-11-08T15:20:29+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Weights From Arlington, TX: Turhan Vs Baumgardner",
+   "link": "https://fightnews.com/weights-from-arlington-tx-turhan-vs-baumgardner/199921",
+   "source": "Fightnews",
+   "lang": "en",
+   "date": "2026-11-08T15:02:27+00:00",
    "status": "unverified",
    "boxers": []
   },
@@ -352,15 +370,6 @@
    "source": "CBS Sports Boxing",
    "lang": "en",
    "date": "2026-11-07T20:14:26+00:00",
-   "status": "unverified",
-   "boxers": []
-  },
-  {
-   "title": "El Comité de clasificaciones del WBC está listo para la 64.ª convención anual en Acapulco",
-   "link": "https://fightnews.com/el-comite-de-clasificaciones-del-wbc-esta-listo-para-la-64-a-convencion-anual-en-acapulco/199884",
-   "source": "Fightnews",
-   "lang": "en",
-   "date": "2026-11-07T18:57:03+00:00",
    "status": "unverified",
    "boxers": []
   },
