@@ -1,0 +1,916 @@
+{
+ "updated": "2026-11-08T01:55:48+00:00",
+ "feeds_ok": 7,
+ "feeds_failed": 4,
+ "news": [
+  {
+   "title": "Joshua Buatsi vs Willy Hutchinson 2: Fight video highlights",
+   "link": "https://www.fightmag.com/joshua-buatsi-vs-willy-hutchinson-2-fight-video-highlights/",
+   "source": "Fightmag",
+   "lang": "en",
+   "date": "2026-11-08T01:05:11+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Joshua Buatsi",
+    "Anthony Joshua"
+   ]
+  },
+  {
+   "title": "Hutchinson beats Buatsi to win WBC light-heavyweight title",
+   "link": "https://www.bbc.co.uk/sport/boxing/articles/cqx2vw8demexo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport Boxing",
+   "lang": "en",
+   "date": "2026-11-07T23:26:08+00:00",
+   "status": "confirmed",
+   "boxers": [
+    "Joshua Buatsi"
+   ]
+  },
+  {
+   "title": "Joshua Buatsi vs Willy Hutchinson 2 live scorecard and fight result",
+   "link": "https://boxingnewsonline.net/news/buatsi-vs-hutchinson-live-scorecard/",
+   "source": "Boxing News (UK)",
+   "lang": "en",
+   "date": "2026-11-07T21:41:22+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Joshua Buatsi",
+    "Anthony Joshua"
+   ]
+  },
+  {
+   "title": "Top trainer Derrick James sums up Canelo’s chances of beating Terence Crawford after Mbilli win",
+   "link": "https://boxingnewsonline.net/news/derrick-james-on-crawford-canelo-rematch/",
+   "source": "Boxing News (UK)",
+   "lang": "en",
+   "date": "2026-11-07T17:33:33+00:00",
+   "status": "confirmed",
+   "boxers": []
+  },
+  {
+   "title": "Billam-Smith calls for fourth Clarke fight after shock loss",
+   "link": "https://www.skysports.com/boxing/live-blog/12040/13609321/chris-billam-smith-vs-cheavon-clarke-boxing-fight-night-updates-results-stream-and-highlights-from-london",
+   "source": "Sky Sports Boxing",
+   "lang": "en",
+   "date": "2026-11-07T16:11:00+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Deontay Wilder’s ex trainer Malik Scott delivers KO verdict for Jai Opetaia fight",
+   "link": "https://boxingnewsonline.net/news/wilder-ex-trainer-scott-on-opetaia-fight/",
+   "source": "Boxing News (UK)",
+   "lang": "en",
+   "date": "2026-11-07T15:32:40+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Tragic news rocks the boxing world as Australian champion dies in skydiving fall",
+   "link": "https://britishboxingnews.co.uk/news/australian-boxing-champion-skydiving/",
+   "source": "British Boxing News",
+   "lang": "en",
+   "date": "2026-11-07T15:17:14+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Tim Bradley tells Floyd Mayweather who to face on comeback between Terence Crawford or Ryan Garcia",
+   "link": "https://boxingnewsonline.net/news/bradley-on-who-mayweather-should-face/",
+   "source": "Boxing News (UK)",
+   "lang": "en",
+   "date": "2026-11-07T11:13:25+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "UK’s youngest pro boxer heads to Bali to face Indonesian lightweight champion",
+   "link": "https://britishboxingnews.co.uk/news/callum-dan-vs-robert-kopa-bali/",
+   "source": "British Boxing News",
+   "lang": "en",
+   "date": "2026-11-07T10:52:12+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Matchroom and Empire Fighting Chance reveal £7.2 million investment into local communities",
+   "link": "https://britishboxingnews.co.uk/news/matchroom-and-empire-fighting-chance/",
+   "source": "British Boxing News",
+   "lang": "en",
+   "date": "2026-11-07T10:34:20+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Tyson Fury says former heavyweight champion is ‘shot to bits’ and should retire: “It’s a real shame”",
+   "link": "https://boxingnewsonline.net/news/fury-says-former-champion-should-retire/",
+   "source": "Boxing News (UK)",
+   "lang": "en",
+   "date": "2026-11-07T10:28:46+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Tyson Fury"
+   ]
+  },
+  {
+   "title": "George Groves makes KO prediction for Deontay Wilder vs Jai Opetaia as fight official",
+   "link": "https://boxingnewsonline.net/news/groves-prediction-for-wilder-vs-opetaia/",
+   "source": "Boxing News (UK)",
+   "lang": "en",
+   "date": "2026-11-07T10:09:47+00:00",
+   "status": "confirmed",
+   "boxers": []
+  },
+  {
+   "title": "Frank Bruno names the best heavyweight he faced",
+   "link": "https://boxingnewsonline.net/news/bruno-on-best-heavyweight-he-faced/",
+   "source": "Boxing News (UK)",
+   "lang": "en",
+   "date": "2026-11-07T08:57:51+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Buatsi v Hutchinson 2 - world light-heavyweight title fight predictions",
+   "link": "https://www.bbc.co.uk/sport/boxing/articles/c674pek0yd2jo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport Boxing",
+   "lang": "en",
+   "date": "2026-11-07T08:00:59+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Joshua Buatsi"
+   ]
+  },
+  {
+   "title": "Tyson Fury reacts to Usyk’s goal of returning to cruiserweight to beat David Benavidez",
+   "link": "https://boxingnewsonline.net/news/tyson-fury-on-usyk-vs-benavidez-reports/",
+   "source": "Boxing News (UK)",
+   "lang": "en",
+   "date": "2026-11-07T07:50:05+00:00",
+   "status": "confirmed",
+   "boxers": [
+    "Tyson Fury",
+    "Oleksandr Usyk"
+   ]
+  },
+  {
+   "title": "Live results: Abraham Perez defends title against Yankiel Rivera",
+   "link": "https://www.fightmag.com/boxing-abraham-perez-vs-yankiel-rivera-live-results/",
+   "source": "Fightmag",
+   "lang": "en",
+   "date": "2026-11-07T05:04:00+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Live results: Hutchinson beats Buatsi in rematch to win WBC title – Video",
+   "link": "https://www.fightmag.com/boxing-joshua-buatsi-vs-willy-hutchinson-2-live-results/",
+   "source": "Fightmag",
+   "lang": "en",
+   "date": "2026-11-07T05:02:00+00:00",
+   "status": "confirmed",
+   "boxers": [
+    "Joshua Buatsi"
+   ]
+  },
+  {
+   "title": "Zuffa Boxing 12 live results: Clarke TKOs Billam-Smith in seventh round",
+   "link": "https://www.fightmag.com/zuffa-boxing-12-billam-smith-vs-clarke-live-results/",
+   "source": "Fightmag",
+   "lang": "en",
+   "date": "2026-11-07T05:01:00+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "UFC Vegas 124 live results: Cortes-Acosta faces Walker",
+   "link": "https://www.fightmag.com/ufc-vegas-124-cortes-acosta-vs-walker-live-results/",
+   "source": "Fightmag",
+   "lang": "en",
+   "date": "2026-11-07T05:00:00+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Canelo Alvarez says two men stand out as the hardest punchers he’s ever faced",
+   "link": "https://boxingnewsonline.net/news/canelo-on-two-hardest-punchers-faced/",
+   "source": "Boxing News (UK)",
+   "lang": "en",
+   "date": "2026-11-06T22:44:09+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Canelo Alvarez"
+   ]
+  },
+  {
+   "title": "Gervonta Davis linked with former unified champion for comeback fight after over 18 months out",
+   "link": "https://boxingnewsonline.net/news/gervonta-davis-linked-with-former-champ/",
+   "source": "Boxing News (UK)",
+   "lang": "en",
+   "date": "2026-11-06T20:54:23+00:00",
+   "status": "rumor",
+   "boxers": []
+  },
+  {
+   "title": "Joshua Buatsi sums up Callum Smith’s chances against Bivol after fight of the year with Smith",
+   "link": "https://boxingnewsonline.net/news/buatsi-on-dmitry-bivol-vs-callum-smith/",
+   "source": "Boxing News (UK)",
+   "lang": "en",
+   "date": "2026-11-06T20:16:19+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Joshua Buatsi",
+    "Anthony Joshua"
+   ]
+  },
+  {
+   "title": "Tim Tszyu targets ‘bucket list’ fight if he beats Erislandy Lara for world title",
+   "link": "https://boxingnewsonline.net/news/tszyu-targets-one-fight-if-he-beats-lara/",
+   "source": "Boxing News (UK)",
+   "lang": "en",
+   "date": "2026-11-06T19:34:04+00:00",
+   "status": "confirmed",
+   "boxers": []
+  },
+  {
+   "title": "Dubois faces Han in unification bout in El Paso in February",
+   "link": "https://www.fightmag.com/dubois-faces-han-in-unification-bout-in-el-paso-in-february/",
+   "source": "Fightmag",
+   "lang": "en",
+   "date": "2026-11-06T19:27:08+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Buatsi booed at weigh-in before world title bout",
+   "link": "https://www.bbc.co.uk/sport/boxing/articles/c6lylr5lnggvo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport Boxing",
+   "lang": "en",
+   "date": "2026-11-06T19:01:33+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Joshua Buatsi"
+   ]
+  },
+  {
+   "title": "Joseph Parker will fight this month, Frank Warren confirms",
+   "link": "https://britishboxingnews.co.uk/news/joseph-parker-will-fight-this-month/",
+   "source": "British Boxing News",
+   "lang": "en",
+   "date": "2026-11-06T17:05:25+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Briton Dubois to face Han in lightweight unification",
+   "link": "https://www.bbc.co.uk/sport/boxing/articles/c679pp7g1lexo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport Boxing",
+   "lang": "en",
+   "date": "2026-11-06T15:12:09+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Oscar De La Hoya sums up Canelo’s performance in decision win against Christian Mbilli for WBC title",
+   "link": "https://boxingnewsonline.net/news/de-la-hoya-on-canelo-mbilli-performance/",
+   "source": "Boxing News (UK)",
+   "lang": "en",
+   "date": "2026-11-06T14:25:32+00:00",
+   "status": "confirmed",
+   "boxers": []
+  },
+  {
+   "title": "Your first night at the boxing: a fan’s guide to arrivals, timing, and what to expect",
+   "link": "https://britishboxingnews.co.uk/blogs/your-first-night-at-the-boxing-a-fans-guide-to-arrivals-timing-and-what-to-expect/",
+   "source": "British Boxing News",
+   "lang": "en",
+   "date": "2026-11-06T13:07:38+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Tim Bradley sees one winner in Crawford vs Canelo rematch after Mbilli win: “He’ll spank him”",
+   "link": "https://boxingnewsonline.net/news/tim-bradley-on-crawford-canelo-rematch/",
+   "source": "Boxing News (UK)",
+   "lang": "en",
+   "date": "2026-11-06T13:05:45+00:00",
+   "status": "confirmed",
+   "boxers": []
+  },
+  {
+   "title": "Everything you need to know about Joshua Buatsi vs Willy Hutchinson 2",
+   "link": "https://britishboxingnews.co.uk/news/need-to-know-buatsi-hutchinson-2/",
+   "source": "British Boxing News",
+   "lang": "en",
+   "date": "2026-11-06T12:55:48+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Joshua Buatsi",
+    "Anthony Joshua"
+   ]
+  },
+  {
+   "title": "Boxing in Japan: why the lighter divisions are a national passion",
+   "link": "https://britishboxingnews.co.uk/blogs/boxing-in-japan-why-the-lighter-divisions-are-a-national-passion/",
+   "source": "British Boxing News",
+   "lang": "en",
+   "date": "2026-11-06T11:05:22+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Rocky review – 50 years on, Stallone’s boxer remains an exhilaratingly gritty contender",
+   "link": "https://www.theguardian.com/film/2026/nov/06/rocky-review-50-sylvester-stallone-boxer",
+   "source": "The Guardian Boxing",
+   "lang": "en",
+   "date": "2026-11-06T11:00:52+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Katie Hearn wins huge award for Matchroom Boxing",
+   "link": "https://britishboxingnews.co.uk/news/katie-hearn-wins-matchroom-award/",
+   "source": "British Boxing News",
+   "lang": "en",
+   "date": "2026-11-06T09:29:30+00:00",
+   "status": "confirmed",
+   "boxers": []
+  },
+  {
+   "title": "From street fighter to world champion - Bentley's rise to top",
+   "link": "https://www.bbc.co.uk/sport/boxing/articles/cr4g1lp8947eo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport Boxing",
+   "lang": "en",
+   "date": "2026-11-06T07:16:34+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Denzel Bentley"
+   ]
+  },
+  {
+   "title": "At 13, I wrote that I'll become WBC champion of the world - Hutchinson",
+   "link": "https://www.bbc.co.uk/sport/boxing/videos/cmn9rrldz4vno?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport Boxing",
+   "lang": "en",
+   "date": "2026-11-05T17:29:53+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Deontay Wilder y Jai Opetaia se unen a la cartelera de Fury vs Joshua en diciembre",
+   "link": "https://www.marca.com/boxeo/2026/11/05/deontay-wilder-jai-opetaia-unen-cartelera-fury-vs-joshua-diciembre.html",
+   "source": "Marca Boxeo",
+   "lang": "es",
+   "date": "2026-11-05T14:33:08+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Tyson Fury",
+    "Anthony Joshua"
+   ]
+  },
+  {
+   "title": "I Play Rocky review – Anthony Ippolito adds knockout sweetness to the story of Stallone’s Hollywood triumph",
+   "link": "https://www.theguardian.com/film/2026/nov/05/i-play-rocky-review-anthony-ippolito-adds-knockout-sweetness-to-the-story-of-stallones-hollywood-triumph",
+   "source": "The Guardian Boxing",
+   "lang": "en",
+   "date": "2026-11-05T11:00:22+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Deontay Wilder to face unbeaten Opetaia on Fury v Joshua undercard in Cardiff",
+   "link": "https://www.theguardian.com/sport/2026/nov/04/deontay-wilder-jai-opetaia-fury-joshua-undercard-cardiff-boxing",
+   "source": "The Guardian Boxing",
+   "lang": "en",
+   "date": "2026-11-04T18:53:42+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Tyson Fury",
+    "Anthony Joshua"
+   ]
+  },
+  {
+   "title": "Wilder v Opetaia to serve as co-main for Fury v Joshua",
+   "link": "https://www.bbc.co.uk/sport/boxing/articles/cj62ye5e37p1o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport Boxing",
+   "lang": "en",
+   "date": "2026-11-04T16:54:28+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Tyson Fury",
+    "Anthony Joshua"
+   ]
+  },
+  {
+   "title": "‘I’ve been chased and shot at’: Denzel Bentley on trauma, street violence and brutal boxing politics",
+   "link": "https://www.theguardian.com/sport/2026/nov/03/denzel-bentley-trauma-street-violence-boxing-politics",
+   "source": "The Guardian Boxing",
+   "lang": "en",
+   "date": "2026-11-03T07:30:41+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Denzel Bentley"
+   ]
+  },
+  {
+   "title": "5 Live Boxing with Steve Bunce",
+   "link": "https://www.bbc.co.uk/sounds/play/p0pkyw4q?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport Boxing",
+   "lang": "en",
+   "date": "2026-11-02T23:45:00+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Canelo Álvarez, boxeador, regala un consejo sobre el dinero: \"Tenía 10 millones y en seis meses, 100.000, cuando menos piensas, se acaba\"",
+   "link": "https://www.marca.com/tiramillas/economia/2026/11/02/canelo-alvarez-boxeador-regala-consejo-sobre-dinero-tenia-10-millones-seis-meses-100-000-piensas-acaba.html",
+   "source": "Marca Boxeo",
+   "lang": "es",
+   "date": "2026-11-02T06:50:36+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Canelo va a por el billón de dólares",
+   "link": "https://www.marca.com/boxeo/2026/11/01/canelo-billon-dolares.html",
+   "source": "Marca Boxeo",
+   "lang": "es",
+   "date": "2026-11-01T11:49:33+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Canelo Álvarez defeats Christian Mbilli for WBC super-middleweight championship – as it happened",
+   "link": "https://www.theguardian.com/sport/live/2026/oct/31/canelo-alvarez-v-christian-mbilli-wbc-super-middleweight-championship-live-buildup",
+   "source": "The Guardian Boxing",
+   "lang": "en",
+   "date": "2026-10-31T23:41:41+00:00",
+   "status": "confirmed",
+   "boxers": []
+  },
+  {
+   "title": "Canelo Álvarez wins back world title as Houthi attacks cast shadow over Riyadh",
+   "link": "https://www.theguardian.com/sport/2026/oct/31/canelo-alvarez-christian-mbilli-wbc-world-title-riyadh-boxing",
+   "source": "The Guardian Boxing",
+   "lang": "en",
+   "date": "2026-10-31T23:26:06+00:00",
+   "status": "confirmed",
+   "boxers": []
+  },
+  {
+   "title": "Canelo vuelve a ser el rey tras llevar a la escuela a Mbilli",
+   "link": "https://www.marca.com/boxeo/2026/11/01/canelo-vuelve-rey-llevar-escuela-mbilli.html",
+   "source": "Marca Boxeo",
+   "lang": "es",
+   "date": "2026-10-31T23:11:40+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Usyk ya escribe su \"capítulo final\": regresará al peso crucero para enfrentarse al boxeador más temido",
+   "link": "https://www.marca.com/boxeo/2026/10/31/usyk-escribe-capitulo-final-regresara-peso-crucero-enfrentarse-boxeador-temido.html",
+   "source": "Marca Boxeo",
+   "lang": "es",
+   "date": "2026-10-31T16:12:22+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Oleksandr Usyk"
+   ]
+  },
+  {
+   "title": "El nieto de Berlusconi que va para figura de boxeo: 10 combates, 10 victorias",
+   "link": "https://www.marca.com/boxeo/2026/10/31/nieto-berlusconi-figura-boxeo-10-combates-10-victorias.html",
+   "source": "Marca Boxeo",
+   "lang": "es",
+   "date": "2026-10-31T11:03:26+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Why a boxer barred from becoming champion is being honoured",
+   "link": "https://www.bbc.co.uk/news/articles/c6jdmjd8432yo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport Boxing",
+   "lang": "en",
+   "date": "2026-10-31T07:15:35+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "El campeón Mbilli ve a Canelo en declive y lo da por sentenciado",
+   "link": "https://www.marca.com/boxeo/2026/10/29/campeon-mbilli-ve-canelo-declive-da-sentenciado.html",
+   "source": "Marca Boxeo",
+   "lang": "es",
+   "date": "2026-10-29T20:35:38+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Jake Paul anuncia su regreso al boxeo... ¡un día antes de Navidad!",
+   "link": "https://www.marca.com/boxeo/2026/10/29/jake-paul-anuncia-regreso-boxeo-dia-navidad.html",
+   "source": "Marca Boxeo",
+   "lang": "es",
+   "date": "2026-10-29T13:48:59+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Amanda Serrano, la 'Million Dollar Baby' del boxeo, colgará los guantes en enero",
+   "link": "https://www.marca.com/boxeo/2026/10/28/amanda-serrano-million-dollar-baby-boxeo-colgara-guantes-enero.html",
+   "source": "Marca Boxeo",
+   "lang": "es",
+   "date": "2026-10-28T15:24:52+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Canelo vs. Mbilli: dónde ver en directo en TV y online, cartelera y a qué hora es el combate en España",
+   "link": "https://www.marca.com/boxeo/2026/10/27/canelo-vs-mbilli-ver-directo-tv-online-cartelera-hora-combate-espana.html",
+   "source": "Marca Boxeo",
+   "lang": "es",
+   "date": "2026-10-27T18:58:27+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Nace Pro Boxing España, la gran ventana para el boxeo profesional español",
+   "link": "https://www.marca.com/boxeo/2026/10/27/nace-pro-boxing-espana-gran-ventana-boxeo-profesional-espanol.html",
+   "source": "Marca Boxeo",
+   "lang": "es",
+   "date": "2026-10-27T17:21:10+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Doble atropello mortal del exboxeador puertorriqueño Carlos 'El Topo' Gerena",
+   "link": "https://www.marca.com/boxeo/2026/10/27/doble-atropello-mortal-exboxeador-puertorriqueno-carlos-topo-gerena.html",
+   "source": "Marca Boxeo",
+   "lang": "es",
+   "date": "2026-10-27T17:19:35+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "How world champion Smith can become a mainstream star",
+   "link": "https://www.bbc.co.uk/sport/boxing/articles/c8y56qlzqq96o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport Boxing",
+   "lang": "en",
+   "date": "2026-10-23T09:20:03+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Mayweather quiere encontrar al único boxeador que le venció para ayudarlo: “Está sin hogar”",
+   "link": "https://www.marca.com/boxeo/2026/10/22/mayweather-quiere-encontrar-unico-boxeador-le-vencio-ayudarlo-hogar.html",
+   "source": "Marca Boxeo",
+   "lang": "es",
+   "date": "2026-10-22T14:34:40+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "‘If my brother hadn’t died, my life would be so different’: Olympic boxer Ramla Ali’s incredible journey",
+   "link": "https://www.theguardian.com/film/2026/oct/22/ramla-ali-olympic-boxer-interview-in-the-shadows-film",
+   "source": "The Guardian Boxing",
+   "lang": "en",
+   "date": "2026-10-22T13:28:59+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "“No quiero que dentro de 25 años se hable de esos boxeadores que nunca regresaron de Arabia Saudí”",
+   "link": "https://www.marca.com/boxeo/2026/10/22/quiero-25-anos-hable-boxeadores-nunca-regresaron-arabia-saudi.html",
+   "source": "Marca Boxeo",
+   "lang": "es",
+   "date": "2026-10-22T11:39:31+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "¿Le queda cuerda a Canelo? Su último rival Terence Crawford le da crédito",
+   "link": "https://www.marca.com/boxeo/2026/10/20/le-queda-cuerda-canelo-ultimo-rival-terence-crawford-le-da-credito.html",
+   "source": "Marca Boxeo",
+   "lang": "es",
+   "date": "2026-10-20T20:49:14+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Ibai, ¿por qué no devuelves al boxeo lo que te ha dado?",
+   "link": "https://www.marca.com/boxeo/opinion/2026/10/20/ibai-devuelves-boxeo-te-dado.html",
+   "source": "Marca Boxeo",
+   "lang": "es",
+   "date": "2026-10-20T12:04:02+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Gatillazo de Dana White en el boxeo: libera a su máxima estrella",
+   "link": "https://www.marca.com/boxeo/2026/10/19/gatillazo-dana-white-boxeo-libera-maxima-estrella.html",
+   "source": "Marca Boxeo",
+   "lang": "es",
+   "date": "2026-10-19T18:28:32+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "El morbo del Policía vs. Exconvicto de bare-knuckle termina en un KO brutal",
+   "link": "https://www.marca.com/boxeo/2026/10/19/morbo-policia-vs-exconvicto-bare-knuckle-termina-ko-brutal.html",
+   "source": "Marca Boxeo",
+   "lang": "es",
+   "date": "2026-10-19T15:43:06+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "'Devastating & dramatic' - Dubois stops Wardley to retain title",
+   "link": "https://www.bbc.co.uk/sport/boxing/videos/cr1exjnlgv29o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport Boxing",
+   "lang": "en",
+   "date": "2026-10-18T07:11:58+00:00",
+   "status": "confirmed",
+   "boxers": []
+  },
+  {
+   "title": "Fundora brutally knocks out Hadribeaj with one second left to retain 154lb title",
+   "link": "https://www.theguardian.com/sport/2026/oct/18/sebastian-fundora-ermal-hadribeaj-knockout-wbc-title-las-vegas",
+   "source": "The Guardian Boxing",
+   "lang": "en",
+   "date": "2026-10-18T05:06:35+00:00",
+   "status": "confirmed",
+   "boxers": []
+  },
+  {
+   "title": "Daniel Dubois knocks out Fabio Wardley to retain WBO heavyweight title – as it happened",
+   "link": "https://www.theguardian.com/sport/live/2026/oct/17/daniel-dubois-fabio-wardley-ii-boxing-wbo-heavyweight-title-fight-live",
+   "source": "The Guardian Boxing",
+   "lang": "en",
+   "date": "2026-10-17T22:39:05+00:00",
+   "status": "confirmed",
+   "boxers": []
+  },
+  {
+   "title": "Daniel Dubois delivers devastating second-round stoppage of Fabio Wardley to retain WBO title",
+   "link": "https://www.theguardian.com/sport/2026/oct/17/daniel-dubois-devastating-second-round-stoppage-of-fabio-wardley-retain-wbo-title-boxing",
+   "source": "The Guardian Boxing",
+   "lang": "en",
+   "date": "2026-10-17T22:30:18+00:00",
+   "status": "confirmed",
+   "boxers": []
+  },
+  {
+   "title": "Wardley predicts ‘crazy night’ in fight for redemption against Dubois",
+   "link": "https://www.theguardian.com/sport/2026/oct/16/fabio-wardley-daniel-dubois-wbo-heavyweight-title-fight-boxing",
+   "source": "The Guardian Boxing",
+   "lang": "en",
+   "date": "2026-10-16T15:28:01+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Canelo Álvarez ‘fears nothing’ and will fight in Riyadh despite deadly attacks, Al-Sheikh says",
+   "link": "https://www.theguardian.com/sport/2026/oct/11/canelo-alvarez-saudi-arabia-riyadh-fight-houthi-attacks-christian-mbilli",
+   "source": "The Guardian Boxing",
+   "lang": "en",
+   "date": "2026-10-11T20:42:20+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Carlos Monzón. Una vida de violencia de género detrás del ídolo del boxeo",
+   "link": "https://www.marca.com/radio/2026/10/10/carlos-monzon-vida-violencia-genero-detras-idolo-boxeo.html",
+   "source": "Marca Boxeo",
+   "lang": "es",
+   "date": "2026-10-10T20:16:44+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "In the Shadows review – true tale of Ramla Ali’s remarkable rise through the boxing ranks is a knockout",
+   "link": "https://www.theguardian.com/film/2026/oct/09/in-the-shadows-film-review-ramla-ali-boxer-somalia",
+   "source": "The Guardian Boxing",
+   "lang": "en",
+   "date": "2026-10-09T17:45:34+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Las 80.000 entradas para el Fury-Joshua se agotan en una hora",
+   "link": "https://www.marca.com/boxeo/2026/10/09/80-000-entradas-fury-joshua-agotan-hora.html",
+   "source": "Marca Boxeo",
+   "lang": "es",
+   "date": "2026-10-09T13:27:29+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Tyson Fury",
+    "Anthony Joshua"
+   ]
+  },
+  {
+   "title": "Is Fury v Joshua about meritocratic sporting excellence or just algorithmic celebrity power? | Jonathan Liew",
+   "link": "https://www.theguardian.com/sport/2026/oct/08/boxing-tyson-fury-anthony-joshua-celebrity-power",
+   "source": "The Guardian Boxing",
+   "lang": "en",
+   "date": "2026-10-08T07:00:13+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Tyson Fury",
+    "Anthony Joshua"
+   ]
+  },
+  {
+   "title": "La Asociación Internacional de boxeo dará a conocer sus proyectos en Estambul",
+   "link": "https://www.marca.com/boxeo/2026/10/05/asociacion-internacional-boxeo-dara-conocer-proyectos-estambul.html",
+   "source": "Marca Boxeo",
+   "lang": "es",
+   "date": "2026-10-05T08:44:16+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Jennifer Miranda encabeza la gran velada del boxeo femenino español",
+   "link": "https://www.marca.com/boxeo/2026/10/02/jennifer-miranda-encabeza-gran-velada-boxeo-femenino-espanol.html",
+   "source": "Marca Boxeo",
+   "lang": "es",
+   "date": "2026-10-02T20:53:19+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Why boxing is still a box-office smash hit even as the sport’s popularity wanes | Emma John",
+   "link": "https://www.theguardian.com/sport/2026/oct/02/why-boxing-is-still-a-box-office-smash-hit-even-as-the-sports-popularity-wanes",
+   "source": "The Guardian Boxing",
+   "lang": "en",
+   "date": "2026-10-02T07:00:13+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Fury y Joshua, de buen rollo: \"Espero que después de la pelea podamos tomarnos juntos una pinta\"",
+   "link": "https://www.marca.com/boxeo/2026/10/01/fury-joshua-buen-rollo-espero-despues-pelea-podamos-tomarnos-pinta.html",
+   "source": "Marca Boxeo",
+   "lang": "es",
+   "date": "2026-10-01T12:52:12+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Tyson Fury",
+    "Anthony Joshua"
+   ]
+  },
+  {
+   "title": "Quips, slights and a surprise twist: Anthony Joshua and Tyson Fury come face to face",
+   "link": "https://www.theguardian.com/sport/2026/sep/30/anthony-joshua-tyson-fury-boxing-peter-fury",
+   "source": "The Guardian Boxing",
+   "lang": "en",
+   "date": "2026-09-30T19:15:37+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Tyson Fury",
+    "Anthony Joshua"
+   ]
+  },
+  {
+   "title": "Antonio Collado y la recompensa del boxeador: \"Esta es la pelea que le había pedido a Dios\"",
+   "link": "https://www.marca.com/boxeo/2026/09/30/antonio-collado-recompensa-boxeador-pelea-le-habia-pedido-dios.html",
+   "source": "Marca Boxeo",
+   "lang": "es",
+   "date": "2026-09-30T17:10:28+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Fury pone en duda su combate con Joshua: \"Nos ha costado la pelea más importante de la historia del boxeo\"",
+   "link": "https://www.marca.com/boxeo/2026/09/26/fury-pone-duda-combate-joshua-costado-pelea-importante-historia-boxeo.html",
+   "source": "Marca Boxeo",
+   "lang": "es",
+   "date": "2026-09-26T10:53:25+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Tyson Fury",
+    "Anthony Joshua"
+   ]
+  },
+  {
+   "title": "The compromises and power struggles that shaped Fury-Joshua",
+   "link": "https://www.bbc.co.uk/sport/boxing/articles/c65y74pjl0w4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport Boxing",
+   "lang": "en",
+   "date": "2026-09-24T18:41:35+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Tyson Fury",
+    "Anthony Joshua"
+   ]
+  },
+  {
+   "title": "Euphoria actor Javon Walton on his upcoming professional boxing debut",
+   "link": "https://www.bbc.co.uk/programmes/p0pcb9yx?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport Boxing",
+   "lang": "en",
+   "date": "2026-09-24T16:11:40+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "El combate entre Tyson Fury y Anthony Joshua al fin es oficial",
+   "link": "https://www.marca.com/boxeo/2026/09/24/combate-tyson-fury-anthony-joshua-oficial.html",
+   "source": "Marca Boxeo",
+   "lang": "es",
+   "date": "2026-09-24T14:48:20+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Tyson Fury",
+    "Anthony Joshua"
+   ]
+  },
+  {
+   "title": "Las Copas de España de Muay Thai y K1 y la Kickboxing Stars League se citan en Malgrat de Mar",
+   "link": "https://www.marca.com/boxeo/2026/09/16/copas-espana-muay-thai-k1-kickboxing-stars-league-citan-malgrat-mar.html",
+   "source": "Marca Boxeo",
+   "lang": "es",
+   "date": "2026-09-16T15:20:53+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "From influencers to queens of women's boxing - five years of MVP",
+   "link": "https://www.bbc.co.uk/sport/boxing/articles/c9w0z9ydre2o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport Boxing",
+   "lang": "en",
+   "date": "2026-08-26T06:28:28+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Fighting for freedom: Bilal Fawaz",
+   "link": "https://www.bbc.co.uk/iplayer/episode/m002zv7x?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport Boxing",
+   "lang": "en",
+   "date": "2026-07-27T10:00:00+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Phantom v Price - can a Gladiator keep up with a world champion?",
+   "link": "https://www.bbc.co.uk/sport/boxing/videos/c86e1ed24pyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport Boxing",
+   "lang": "en",
+   "date": "2026-04-03T05:35:59+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "The fight beyond the ring",
+   "link": "https://www.bbc.co.uk/iplayer/episode/m002rknj?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport Boxing",
+   "lang": "en",
+   "date": "2026-03-25T06:00:00+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Gloves are off: The rise of bare-knuckle boxing",
+   "link": "https://www.bbc.co.uk/iplayer/episode/m002rkms?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport Boxing",
+   "lang": "en",
+   "date": "2026-02-25T19:37:06+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "The Benn story - faith, fighting and finding peace",
+   "link": "https://www.bbc.co.uk/iplayer/episode/m002mt0h?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport Boxing",
+   "lang": "en",
+   "date": "2025-11-17T10:22:20+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "'I gave everything to boxing and still have nothing'",
+   "link": "https://www.bbc.co.uk/sport/boxing/articles/cwyl3y7yyx1o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport Boxing",
+   "lang": "en",
+   "date": "2024-10-01T08:00:06+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "From rock bottom to three world titles at 37",
+   "link": "https://www.bbc.co.uk/sport/av/boxing/65253804?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport Boxing",
+   "lang": "en",
+   "date": "2023-05-02T12:19:57+00:00",
+   "status": "unverified",
+   "boxers": []
+  },
+  {
+   "title": "Tyson rates him: Is traveller Dennis McCann boxing's next superstar?",
+   "link": "https://www.bbc.co.uk/sport/av/boxing/59500162?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport Boxing",
+   "lang": "en",
+   "date": "2021-12-02T06:38:22+00:00",
+   "status": "unverified",
+   "boxers": []
+  }
+ ]
+}

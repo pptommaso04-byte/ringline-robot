@@ -1,0 +1,12 @@
+2026-11-08T01:55:42+00:00 OK   BBC Sport Boxing: 39 articoli
+2026-11-08T01:55:42+00:00 OK   Sky Sports Boxing: 20 articoli
+2026-11-08T01:55:42+00:00 FAIL ESPN Boxing: ParseError no element found: line 1, column 0
+2026-11-08T01:55:43+00:00 OK   The Guardian Boxing: 20 articoli
+2026-11-08T01:55:43+00:00 OK   Fightmag: 10 articoli
+2026-11-08T01:55:44+00:00 OK   Boxing News (UK): 15 articoli
+2026-11-08T01:55:45+00:00 OK   British Boxing News: 10 articoli
+2026-11-08T01:55:46+00:00 FAIL Boxing Scene: HTTPError HTTP Error 404: Not Found
+2026-11-08T01:55:46+00:00 FAIL Bad Left Hook: HTTPError HTTP Error 404: Not Found
+2026-11-08T01:55:48+00:00 FAIL Gazzetta dello Sport Boxe: HTTPError HTTP Error 404: Not Found
+2026-11-08T01:55:48+00:00 OK   Marca Boxeo: 49 articoli
+2026-11-08T01:55:48+00:00 Scritte 94 notizie (feed ok 7, falliti 4)
