@@ -18,7 +18,7 @@ from pathlib import Path
 
 HERE = Path(__file__).parent
 DATA = HERE / "data"; DATA.mkdir(exist_ok=True)
-UA = "RinglineBot/0.1 (news aggregator; titoli e link soltanto; contatto: SCRIVI-QUI-IL-TUO-CONTATTO)"
+UA = "Mozilla/5.0 (compatible; RinglineBot/0.1; news aggregator, titles and links only)"
 BOXING = re.compile(r"box|fury|joshua|usyk|inoue|canelo|face[sd]?\b|fight|bout|ko\b|knockout|champion|title|wbc|wba|ibf|wbo|heavyweight|weight|pugil|boxe|boxeo|combat", re.I)
 RUMOR = re.compile(r"\b(rumou?r|reportedly|talks?|could|may|set to face|eyeing|targets?|wants?|linked|in negotiation|trattativ|podr[ií]a|según)\b", re.I)
 CONFIRMED = re.compile(r"\b(confirmed|official|announced|signed|beats?|defeats?|stops?|wins?|retains?|stripped|ufficial|vince|batte|confirmad)\b", re.I)
