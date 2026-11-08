@@ -1,0 +1,23 @@
+name: Robot Ringline
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Esegui il robot
+        run: python3 robot.py
+      - name: Salva i risultati
+        run: |
+          git config user.name "ringline-robot"
+          git config user.email "robot@users.noreply.github.com"
+          git add data/news.json data/log.txt
+          git diff --staged --quiet || git commit -m "aggiornamento notizie" && git push
