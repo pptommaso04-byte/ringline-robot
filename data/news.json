@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-09T20:15:42+00:00",
- "feeds_ok": 36,
- "feeds_failed": 5,
+ "updated": "2026-11-09T20:20:52+00:00",
+ "feeds_ok": 35,
+ "feeds_failed": 6,
  "news": [
   {
    "title": "Heavyweight Loses Tooth, Promoter Injured as Fans Storm Ring",
@@ -215,19 +215,6 @@
    "title_es": "Cinturón de boxeo todos contra todos mientras el octavo título mundial alimenta el caos"
   },
   {
-   "title": "Abraham Pérez dominates Yankiel Rivera to retain WBA Interim Flyweight Title – World Boxing Association",
-   "link": "https://www.saddoboxing.com/111896-abraham-perez-dominates-yankiel-rivera-to-retain-wba-interim-flyweight-title-world-boxing-association.html",
-   "source": "Saddo Boxing",
-   "lang": "en",
-   "date": "2026-11-09T17:15:07+00:00",
-   "status": "confirmed",
-   "boxers": [],
-   "score": 76,
-   "sources_n": 5,
-   "title_it": "Abraham Pérez domina Yankiel Rivera e mantiene il titolo provvisorio dei pesi mosca WBA – World Boxing Association",
-   "title_es": "Abraham Pérez domina a Yankiel Rivera para retener el título interino mosca de la AMB – Asociación Mundial de Boxeo"
-  },
-  {
    "title": "Former WWE champion Bobby Lashley, 50, discussing bare-knuckle debut at BKFC",
    "link": "https://talksport.com/boxing/4695209/wwe-bobby-lashley-bare-knuckle-debut-bkfc/",
    "source": "Talksport Boxing",
@@ -248,7 +235,7 @@
    "date": "2026-11-09T16:18:07+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 58,
+   "score": 57,
    "sources_n": 4,
    "title_it": "Floyd Mayweather aggiunge il leggendario ex avversario alla lista dei risultati per il grande incontro nel 2027",
    "title_es": "Floyd Mayweather agrega al legendario ex oponente a la lista de blancos para la gran pelea en 2027"
@@ -610,7 +597,7 @@
    "date": "2026-11-09T06:20:34+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 41,
+   "score": 40,
    "sources_n": 1,
    "title_it": "Ramla Ali vince i primi titoli mondiali a 36 anni con una decisione molto controversa",
    "title_es": "Ramla Ali gana el primer título mundial a los 36 años con una decisión dividida muy controvertida"
@@ -675,7 +662,7 @@
    "date": "2026-11-09T02:16:55+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 96,
+   "score": 95,
    "sources_n": 5,
    "title_it": "Le braccia T-Rex di Canelo favoriscono ancora Crawford in una rivincita",
    "title_es": "Los brazos de T-Rex de Canelo siguen favoreciendo a Crawford en una revancha"
@@ -805,7 +792,7 @@
    "date": "2026-11-08T18:19:04+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 42,
+   "score": 41,
    "sources_n": 1,
    "title_it": "Il migliore amico pugile di Crawford \"quasi muore\" al concerto di Kanye",
    "title_es": "El mejor amigo del boxeador de Crawford 'casi muere' en el concierto de Kanye"
@@ -996,8 +983,8 @@
    "date": "2026-11-08T09:26:27+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 22,
-   "sources_n": 3,
+   "score": 12,
+   "sources_n": 2,
    "title_it": "Abraham Perez vs Yankiel Rivera: video di lotta in evidenza",
    "title_es": "Abraham Pérez vs Yankiel Rivera: Lo más destacado del video de la pelea"
   },
@@ -1129,8 +1116,8 @@
    "date": "2026-11-08T06:36:15+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 31,
-   "sources_n": 3,
+   "score": 21,
+   "sources_n": 2,
    "title_it": "Abraham Perez difende il titolo dei pesi mosca contro Yankiel Rivera",
    "title_es": "Abraham Pérez defiende título mosca ante Yankiel Rivera"
   },
@@ -1186,7 +1173,7 @@
    "date": "2026-11-08T00:16:13+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 46,
+   "score": 45,
    "sources_n": 6,
    "title_it": "Chev Clarke realizza una tripletta di vittorie contro Chris Billam-Smith e rivaleggia per la prima volta in assoluto vincendo per KO violento",
    "title_es": "Chev Clarke logra un hat-trick de victorias contra Chris Billam-Smith y su rival de piso por primera vez en una victoria por KO"
@@ -1476,7 +1463,7 @@
    "date": "2026-11-07T18:18:32+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 58,
+   "score": 57,
    "sources_n": 1,
    "title_it": "Tony Yoka vince la battaglia di rimonta con breve preavviso contro l'ex nemico di Moses Itauma dopo un anno difficile",
    "title_es": "Tony Yoka gana la pelea de regreso con poca antelación contra el ex enemigo de Moses Itauma después de un año difícil"
@@ -4201,6 +4188,19 @@
    "sources_n": 11,
    "title_it": "Joe Cordina è rimasto nel limbo per la lotta tra Manny Pacquiao su Tyson Fury e Anthony Joshua Bill",
    "title_es": "Joe Cordina quedó en el limbo por la pelea de Manny Pacquiao en el proyecto de ley Tyson Fury vs Anthony Joshua"
+  },
+  {
+   "title": "James DeGale fights back tears as he makes emotional admission about retirement",
+   "link": "https://talksport.com/boxing/4677749/james-degale-tears-retirement/",
+   "source": "Talksport Boxing",
+   "lang": "en",
+   "date": "2026-10-30T12:33:01+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 0,
+   "sources_n": 1,
+   "title_it": "James DeGale trattiene le lacrime mentre ammette con emozione la pensione",
+   "title_es": "James DeGale lucha contra las lágrimas mientras admite con emoción su jubilación"
   }
  ]
 }
