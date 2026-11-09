@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-09T22:35:44+00:00",
- "feeds_ok": 35,
- "feeds_failed": 6,
+ "updated": "2026-11-09T22:40:46+00:00",
+ "feeds_ok": 36,
+ "feeds_failed": 5,
  "news": [
   {
    "title": "Christopher Diaz faces Alan Chaves in Orlando in December",
@@ -28,6 +28,19 @@
    "sources_n": 3,
    "title_it": "Shera Mae Patricio e Brittany Sims combattono per vincere il titolo mondiale dei pesi gallo WBA – World Boxing Association",
    "title_es": "Shera Mae Patricio y Brittany Sims luchan por empatar en pelea por el título mundial de peso gallo de la AMB – Asociación Mundial de Boxeo"
+  },
+  {
+   "title": "Sabalenka starts pursuit of WTA Finals title with opening win",
+   "link": "https://www.skysports.com/tennis/news/12040/13610366/wta-finals-aryna-sabalenka-battles-past-karolina-muchova-in-her-opening-match-at-indian-wells",
+   "source": "Sky Sports Boxing",
+   "lang": "en",
+   "date": "2026-11-09T20:19:00+00:00",
+   "status": "confirmed",
+   "boxers": [],
+   "score": 36,
+   "sources_n": 1,
+   "title_it": "Sabalenka inizia la caccia al titolo delle WTA Finals con la prima vittoria",
+   "title_es": "Sabalenka comienza la búsqueda del título de las Finales WTA con su primera victoria"
   },
   {
    "title": "Heavyweight Loses Tooth, Promoter Injured as Fans Storm Ring",
@@ -387,7 +400,7 @@
    "boxers": [
     "Oleksandr Usyk"
    ],
-   "score": 110,
+   "score": 109,
    "sources_n": 6,
    "title_it": "Carl Froch pronuncia un verdetto onesto su Oleksandr Usyk contro David Benavidez: \"È pazzo?\"",
    "title_es": "Carl Froch pronuncia un veredicto honesto sobre Oleksandr Usyk contra David Benavidez: \"¿Está loco?\""
@@ -491,7 +504,7 @@
    "date": "2026-11-09T10:38:21+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 34,
+   "score": 33,
    "sources_n": 1,
    "title_it": "Ali piange mentre il sogno del titolo mondiale si realizza in Texas",
    "title_es": "Ali llora mientras su sueño de ganar un título mundial se hace realidad en Texas"
@@ -581,7 +594,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 108,
+   "score": 107,
    "sources_n": 11,
    "title_it": "Biglietti Tyson Fury vs Anthony Joshua per £ 249 a persona con birre gratuite incluse nel pacchetto di ospitalità VIP Fight Night",
    "title_es": "Boletos para Tyson Fury vs Anthony Joshua por £ 249 por persona con cervezas gratis incluidas en el paquete de hospitalidad VIP para la noche de pelea"
@@ -1035,7 +1048,7 @@
    "date": "2026-11-08T08:35:57+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 11,
+   "score": 10,
    "sources_n": 1,
    "title_it": "Una rissa di massa scoppia sul ring dopo la campana finale con persone che si rincorrono in scene caotiche",
    "title_es": "Estalla una pelea masiva en el ring de boxeo después de la campana final con personas persiguiéndose en escenas caóticas"
@@ -1116,7 +1129,7 @@
    "date": "2026-11-08T06:37:26+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 18,
+   "score": 17,
    "sources_n": 1,
    "title_it": "Atterramenti, knockout e decisioni ravvicinate evidenziano l'intenso sabato di boxe",
    "title_es": "Derribos, nocauts y decisiones cerradas resaltan el ajetreado sábado del boxeo"
@@ -1129,7 +1142,7 @@
    "date": "2026-11-08T06:36:15+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 20,
+   "score": 19,
    "sources_n": 2,
    "title_it": "Abraham Perez difende il titolo dei pesi mosca contro Yankiel Rivera",
    "title_es": "Abraham Pérez defiende título mosca ante Yankiel Rivera"
@@ -2389,8 +2402,8 @@
    "date": "2026-11-05T20:08:45+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 73,
-   "sources_n": 1,
+   "score": 83,
+   "sources_n": 2,
    "title_it": "Devin Haney ha annunciato la lotta per l'unificazione del titolo dopo il crollo dell'incontro di Shakur Stevenson",
    "title_es": "Se anuncia la pelea de unificación del título de Devin Haney después del colapso de la pelea de Shakur Stevenson"
   },
@@ -2461,6 +2474,19 @@
    "sources_n": 10,
    "title_it": "Deontay Wilder “salva” la boxe dei pesi massimi contro i pesi da crociera",
    "title_es": "Deontay Wilder 'salva' el boxeo de peso pesado contra el peso crucero"
+  },
+  {
+   "title": "‘My resume speaks for itself’: Devin Haney talks Dec. 19 title unification with Liam Paro",
+   "link": "https://www.badlefthook.com/boxing-news/120191/my-resume-speaks-for-itself-devin-haney-talks-dec-19-title-unification-with-liam-paro",
+   "source": "Bad Left Hook",
+   "lang": "en",
+   "date": "2026-11-05T16:56:38-05:00",
+   "status": "rumor",
+   "boxers": [],
+   "score": 73,
+   "sources_n": 2,
+   "title_it": "\"Il mio curriculum parla da solo\": Devin Haney parla dell'unificazione del titolo del 19 dicembre con Liam Paro",
+   "title_es": "‘Mi currículum habla por sí solo’: Devin Haney habla sobre la unificación del título el 19 de diciembre con Liam Paro"
   },
   {
    "title": "Chris Billam-Smith credits Cheavon Clarke defeat for his world title success",
@@ -4172,35 +4198,6 @@
    "sources_n": 3,
    "title_it": "Il ritiro di Terence Crawford ha lasciato un vuoto nella boxe ma c’è una superstar pronta a riempirlo",
    "title_es": "El retiro de Terence Crawford ha dejado un vacío en el boxeo pero hay una superestrella lista para llenarlo"
-  },
-  {
-   "title": "Joe Cordina left in limbo over Manny Pacquiao fight on Tyson Fury vs Anthony Joshua bill",
-   "link": "https://talksport.com/boxing/4677744/joe-cordina-manny-pacquiao-tyson-fury-anthony-joshua/",
-   "source": "Talksport Boxing",
-   "lang": "en",
-   "date": "2026-10-30T14:20:48+00:00",
-   "status": "unverified",
-   "boxers": [
-    "Tyson Fury",
-    "Anthony Joshua"
-   ],
-   "score": 85,
-   "sources_n": 11,
-   "title_it": "Joe Cordina è rimasto nel limbo per la lotta tra Manny Pacquiao su Tyson Fury e Anthony Joshua Bill",
-   "title_es": "Joe Cordina quedó en el limbo por la pelea de Manny Pacquiao en el proyecto de ley Tyson Fury vs Anthony Joshua"
-  },
-  {
-   "title": "James DeGale fights back tears as he makes emotional admission about retirement",
-   "link": "https://talksport.com/boxing/4677749/james-degale-tears-retirement/",
-   "source": "Talksport Boxing",
-   "lang": "en",
-   "date": "2026-10-30T12:33:01+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 0,
-   "sources_n": 1,
-   "title_it": "James DeGale trattiene le lacrime mentre ammette con emozione la pensione",
-   "title_es": "James DeGale lucha contra las lágrimas mientras admite con emoción su jubilación"
   }
  ]
 }
