@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T22:44:31+00:00",
+ "updated": "2026-11-09T22:45:43+00:00",
  "feeds_ok": 36,
  "feeds_failed": 5,
  "news": [
@@ -385,7 +385,7 @@
    "date": "2026-11-09T12:44:32+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 25,
+   "score": 24,
    "sources_n": 1,
    "title_it": "Il pugile a mani nude di Conor McGregor lascia immobile il rivale in uno dei KO più agghiaccianti dell'anno",
    "title_es": "El boxeador a puño limpio de Conor McGregor deja inmóvil a su rival en uno de los KO más escalofriantes del año"
@@ -2414,8 +2414,8 @@
    "date": "2026-11-05T20:20:01+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 83,
-   "sources_n": 3,
+   "score": 73,
+   "sources_n": 2,
    "title_it": "Devin Haney e Liam Paro pronti per l'unificazione dei pesi welter il 19 dicembre a San Francisco",
    "title_es": "Devin Haney y Liam Paro están listos para la unificación del peso welter el 19 de diciembre en San Francisco"
   },
@@ -2443,8 +2443,8 @@
    "date": "2026-11-05T20:08:45+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 93,
-   "sources_n": 3,
+   "score": 83,
+   "sources_n": 2,
    "title_it": "Devin Haney ha annunciato la lotta per l'unificazione del titolo dopo il crollo dell'incontro di Shakur Stevenson",
    "title_es": "Se anuncia la pelea de unificación del título de Devin Haney después del colapso de la pelea de Shakur Stevenson"
   },
@@ -2515,19 +2515,6 @@
    "sources_n": 11,
    "title_it": "Deontay Wilder “salva” la boxe dei pesi massimi contro i pesi da crociera",
    "title_es": "Deontay Wilder 'salva' el boxeo de peso pesado contra el peso crucero"
-  },
-  {
-   "title": "‘My resume speaks for itself’: Devin Haney talks Dec. 19 title unification with Liam Paro",
-   "link": "https://www.badlefthook.com/boxing-news/120191/my-resume-speaks-for-itself-devin-haney-talks-dec-19-title-unification-with-liam-paro",
-   "source": "Bad Left Hook",
-   "lang": "en",
-   "date": "2026-11-05T16:56:38-05:00",
-   "status": "rumor",
-   "boxers": [],
-   "score": 83,
-   "sources_n": 3,
-   "title_it": "\"Il mio curriculum parla da solo\": Devin Haney parla dell'unificazione del titolo del 19 dicembre con Liam Paro",
-   "title_es": "‘Mi currículum habla por sí solo’: Devin Haney habla sobre la unificación del título el 19 de diciembre con Liam Paro"
   },
   {
    "title": "Chris Billam-Smith credits Cheavon Clarke defeat for his world title success",
@@ -4195,6 +4182,19 @@
    "sources_n": 1,
    "title_it": "Il nipote di Berlusconi che diventerà un personaggio della boxe: 10 incontri, 10 vittorie",
    "title_es": "El nieto de Berlusconi que va para figura de boxeo: 10 combates, 10 victorias"
+  },
+  {
+   "title": "Why a boxer barred from becoming champion is being honoured",
+   "link": "https://www.bbc.co.uk/news/articles/c6jdmjd8432yo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport Boxing",
+   "lang": "en",
+   "date": "2026-10-31T07:15:35+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 0,
+   "sources_n": 1,
+   "title_it": "Perché un pugile a cui è stato impedito di diventare campione viene onorato",
+   "title_es": "Por qué se honra a un boxeador al que se le prohibió convertirse en campeón"
   }
  ]
 }
