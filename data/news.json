@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-09T01:02:31+00:00",
- "feeds_ok": 35,
- "feeds_failed": 25,
+ "updated": "2026-11-09T01:06:59+00:00",
+ "feeds_ok": 34,
+ "feeds_failed": 26,
  "news": [
   {
    "title": "Floyd Mayweather names his four potential opponents for ‘big fight’ in 2027",
@@ -198,7 +198,7 @@
    "date": "2026-11-08T15:02:27+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 55,
+   "score": 54,
    "sources_n": 5,
    "title_it": "Pesi da Arlington, TX: Turhan Vs Baumgardner",
    "title_es": "Pesas de Arlington, TX: Turhan Vs Baumgardner"
@@ -411,7 +411,7 @@
    "date": "2026-11-08T08:02:15-05:00",
    "status": "unverified",
    "boxers": [],
-   "score": 99,
+   "score": 98,
    "sources_n": 4,
    "title_it": "Diego Pacheco, Carlos Adames, Anthony Olascuaga e altri: programma di boxe e anteprime per il 12-14 novembre 2026",
    "title_es": "Diego Pacheco, Carlos Adames, Anthony Olascuaga y más: Calendario de boxeo y avances del 12 al 14 de noviembre de 2026"
@@ -570,7 +570,7 @@
     "Joshua Buatsi",
     "Anthony Joshua"
    ],
-   "score": 93,
+   "score": 92,
    "sources_n": 13,
    "title_it": "Joshua Buatsi vs Willy Hutchinson 2: video highlights del combattimento",
    "title_es": "Joshua Buatsi vs Willy Hutchinson 2: video destacado de la pelea"
@@ -659,7 +659,9 @@
     "Joshua Buatsi"
    ],
    "score": 67,
-   "sources_n": 12
+   "sources_n": 12,
+   "title_it": "Hutchinson conquista la cintura WBC nonostante l'ultimo rally di Buatsi",
+   "title_es": "Hutchinson se lleva el cinturón del CMB a pesar del rally tardío de Buatsi"
   },
   {
    "title": "Willy Hutchinson Beats Buatsi To Claim WBC Title",
@@ -857,7 +859,9 @@
     "Anthony Joshua"
    ],
    "score": 80,
-   "sources_n": 11
+   "sources_n": 11,
+   "title_it": "Mondo della boxe sbalordito dal \"peggior infortunio\" dopo lo scontro con la testa dell'orrore sulla carta di Joshua Buatsi",
+   "title_es": "El mundo del boxeo aturdido por la \"peor lesión\" después del choque de cabezas de horror en la tarjeta de Joshua Buatsi"
   },
   {
    "title": "Almost punched a hole through him’ – Fans stunned by brutal KO on Zuffa Boxing card that leaves star crumpled on canvas",
@@ -930,7 +934,9 @@
    "status": "confirmed",
    "boxers": [],
    "score": 67,
-   "sources_n": 1
+   "sources_n": 1,
+   "title_it": "Tony Yoka vince il combattimento di rimonta a breve termine contro l'ex nemico di Moses Itauma dopo un anno difficile",
+   "title_es": "Tony Yoka gana la pelea de regreso con poca antelación contra el ex enemigo de Moses Itauma después de un año difícil"
   },
   {
    "title": "Top trainer Derrick James sums up Canelo’s chances of beating Terence Crawford after Mbilli win",
@@ -1056,7 +1062,7 @@
    "date": "2026-11-07T13:03:32+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 30,
+   "score": 29,
    "sources_n": 1,
    "title_it": "Il peso massimo colpisce l'avversario a terra e salta nella folla dondolandosi",
    "title_es": "El peso pesado golpea al oponente derribado y salta hacia la multitud que se balancea"
@@ -1073,7 +1079,9 @@
     "Shane Mosley Jr"
    ],
    "score": 76,
-   "sources_n": 13
+   "sources_n": 13,
+   "title_it": "Cheavon Clarke distrugge Chris Billam-Smith a Zuffa Boxing 12; Denzel Bentley batte Shane Mosley Jr.",
+   "title_es": "Cheavon Clarke destruye a Chris Billam-Smith en Zuffa Boxing 12; Denzel Bentley supera a Shane Mosley Jr."
   },
   {
    "title": "Chris Billam-Smith vs Chev Clarke: George Groves breaks down cruiserweight clash",
@@ -1384,7 +1392,7 @@
    "boxers": [
     "Joshua Buatsi"
    ],
-   "score": 13,
+   "score": 12,
    "sources_n": 1
   },
   {
@@ -1421,7 +1429,7 @@
    "date": "2026-11-06T17:05:25+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 37,
+   "score": 36,
    "sources_n": 2
   },
   {
@@ -1537,7 +1545,9 @@
     "Tyson Fury"
    ],
    "score": 65,
-   "sources_n": 9
+   "sources_n": 9,
+   "title_it": "Tyson Fury mostra un occhio nero tra le preoccupazioni per le lesioni",
+   "title_es": "Tyson Fury muestra un ojo morado en medio de preocupaciones por lesiones"
   },
   {
    "title": "Imane Khelif to box for first time since 2024 Olympics gender row",
@@ -1901,7 +1911,9 @@
     "Anthony Joshua"
    ],
    "score": 65,
-   "sources_n": 10
+   "sources_n": 10,
+   "title_it": "Dopo un lungo e inaspettato viaggio, Joshua Buatsi è sul punto di diventare un campione",
+   "title_es": "Después de un largo e inesperado viaje, Joshua Buatsi está a punto de ser un campeón"
   },
   {
    "title": "Devin Haney title unification fight announced after Shakur Stevenson bout collapse",
@@ -1912,7 +1924,9 @@
    "status": "confirmed",
    "boxers": [],
    "score": 83,
-   "sources_n": 2
+   "sources_n": 2,
+   "title_it": "Lotta per l'unificazione del titolo di Devin Haney annunciata dopo il crollo di Shakur Stevenson",
+   "title_es": "Pelea de unificación por el título de Devin Haney anunciada después del colapso de la pelea de Shakur Stevenson"
   },
   {
    "title": "Lomachenko Commits Multiple Years to Undisputed Comeback",
@@ -1965,7 +1979,9 @@
    "status": "unverified",
    "boxers": [],
    "score": 75,
-   "sources_n": 5
+   "sources_n": 5,
+   "title_it": "Terence Crawford fa un appello di lotta \"CAPRA CONTRO CAPRA\" a Floyd Mayweather dopo la decisione di rimpatrio",
+   "title_es": "Terence Crawford hace una súplica de lucha ‘CABRA CONTRA CABRA’ a Floyd Mayweather después de la decisión de regreso"
   },
   {
    "title": "Deontay Wilder ‘Saving’ Heavyweight Boxing Against Cruiserweight",
@@ -1989,7 +2005,9 @@
    "status": "rumor",
    "boxers": [],
    "score": 73,
-   "sources_n": 2
+   "sources_n": 2,
+   "title_it": "\"Il mio curriculum parla da solo\": Devin Haney parla dell'unificazione del titolo del 19 dicembre con Liam Paro",
+   "title_es": "‘Mi currículum habla por sí solo’: Devin Haney habla sobre la unificación del título del 19 de diciembre con Liam Paro"
   },
   {
    "title": "Chris Billam-Smith credits Cheavon Clarke defeat for his world title success",
@@ -2213,7 +2231,9 @@
     "Denzel Bentley"
    ],
    "score": 75,
-   "sources_n": 6
+   "sources_n": 6,
+   "title_it": "\"Politica della boxe\": Denzel Bentley parla di perdere il suo titolo WBO dopo la firma di Zuffa",
+   "title_es": "‘Política del boxeo’: Denzel Bentley habla de perder su título de la OMB después del fichaje de Zuffa"
   },
   {
    "title": "Denzel Bentley believes signing with Zuffa Boxing cost him WBO world title: 'There was no other reason'",
@@ -2296,7 +2316,9 @@
     "Anthony Joshua"
    ],
    "score": 65,
-   "sources_n": 11
+   "sources_n": 11,
+   "title_it": "Deontay Wilder vs. Jai Opetaia per la co-presentazione Netflix di Fury-Joshua",
+   "title_es": "Conjunto de Deontay Wilder vs. Jai Opetaia para coprotagonista de Fury-Joshua en Netflix"
   },
   {
    "title": "Deontay Wilder-Jai Opetaia confirmed for Tyson Fury-Anthony Joshua undercard",
@@ -2554,7 +2576,9 @@
     "Anthony Joshua"
    ],
    "score": 75,
-   "sources_n": 13
+   "sources_n": 13,
+   "title_it": "Joshua Buatsi vs. Willy Hutchinson 2 scheda combattimento completo, ora di inizio, quote, come guardare la rivincita di sabato",
+   "title_es": "Joshua Buatsi vs. Willy Hutchinson 2 tarjeta de pelea completa, hora de inicio, probabilidades, cómo ver la revancha del sábado"
   },
   {
    "title": "Jake Paul to 'hang up the gloves,' retire from boxing if he loses Dec. 24 comeback against Cedric Doumbe",
@@ -2754,7 +2778,9 @@
     "Canelo Alvarez"
    ],
    "score": 73,
-   "sources_n": 5
+   "sources_n": 5,
+   "title_it": "Jermell Charlo terminerà la pausa di tre anni per il primo combattimento dalla sconfitta di Canelo Alvarez",
+   "title_es": "Jermell Charlo pondrá fin a una pausa de tres años por primera pelea desde la derrota de Canelo Álvarez"
   },
   {
    "title": "Deontay Wilder explains why Oleksandr Usyk fight collapsed for second time",
@@ -2810,7 +2836,9 @@
     "Canelo Alvarez"
    ],
    "score": 83,
-   "sources_n": 5
+   "sources_n": 5,
+   "title_it": "Pugilato sterlina per sterlina (novembre 2026): Canelo Alvarez non ha ancora finito",
+   "title_es": "Clasificaciones de boxeo libra por libra (noviembre de 2026): Canelo Álvarez aún no ha terminado"
   },
   {
    "title": "Canelo vs. Mbilli: 5 things we learned from Canelo Alvarez's big return — and the problem it creates",
@@ -2823,7 +2851,9 @@
     "Canelo Alvarez"
    ],
    "score": 65,
-   "sources_n": 10
+   "sources_n": 10,
+   "title_it": "Canelo vs. Mbilli: 5 cose che abbiamo imparato dal grande ritorno di Canelo Alvarez — e il problema che crea",
+   "title_es": "Canelo vs. Mbilli: 5 cosas que aprendimos del gran regreso de Canelo Álvarez y el problema que crea"
   },
   {
    "title": "5 Live Boxing with Steve Bunce",
@@ -2934,7 +2964,9 @@
     "Canelo Alvarez"
    ],
    "score": 65,
-   "sources_n": 5
+   "sources_n": 5,
+   "title_it": "Canelo Alvarez ha due opzioni perfette per il prossimo combattimento che potrebbe affrontare il tiro alla fune",
+   "title_es": "Canelo Álvarez tiene dos opciones perfectas para la próxima pelea que podría enfrentar un tira y afloja"
   },
   {
    "title": "Eddie Hearn claims Manny Pacquiao is OFF Tyson Fury vs Anthony Joshua undercard",
@@ -3016,7 +3048,9 @@
    "status": "unverified",
    "boxers": [],
    "score": 65,
-   "sources_n": 4
+   "sources_n": 4,
+   "title_it": "Ryan Garcia presenta l'offerta finale a Floyd Mayweather per l'incontro per il titolo mondiale dopo aver fissato la data",
+   "title_es": "Ryan García presenta la oferta final a Floyd Mayweather por la pelea por el título mundial después de fijar la fecha"
   },
   {
    "title": "Tyson Fury makes worrying decision for huge Anthony Joshua fight",
@@ -3080,7 +3114,9 @@
    "status": "confirmed",
    "boxers": [],
    "score": 65,
-   "sources_n": 6
+   "sources_n": 6,
+   "title_it": "Annunciato che Jake Paul affronterà il campione di kickboxing come avversario per lo scontro della vigilia di Natale",
+   "title_es": "Jake Paul se enfrentará al campeón de kickboxing como oponente para el choque de Nochebuena anunciado"
   },
   {
    "title": "Oleksandr Usyk’s comeback plan to face hurdle as battle to unfold over vacant world title",
@@ -3134,7 +3170,9 @@
     "Oleksandr Usyk"
    ],
    "score": 75,
-   "sources_n": 3
+   "sources_n": 3,
+   "title_it": "Oleksandr Usyk spiega perché ha preso una decisione importante per la sua carriera",
+   "title_es": "Oleksandr Usyk explica por qué ha tomado una decisión importante en su carrera"
   },
   {
    "title": "What a Katie Taylor Casino Sponsorship Could Do for Irish Women’s Boxing",
@@ -3196,6 +3234,7 @@
    "boxers": [],
    "score": 75,
    "sources_n": 10,
+   "title_it": "Canelo Álvarez es una máquina de hacer dinero: gana 100 millones de dólares tras vencer a Christian Mbilli en Arabia Saudí",
    "title_es": "Canelo Álvarez es una máquina de hacer dinero: gana 100 millones de dólares tras vencer a Christian Mbilli en Arabia Saudí"
   },
   {
@@ -3502,7 +3541,9 @@
     "Denzel Bentley"
    ],
    "score": 75,
-   "sources_n": 6
+   "sources_n": 6,
+   "title_it": "Il campione del mondo britannico Denzel Bentley si è spogliato del titolo dopo tre mesi poiché la richiesta è stata respinta",
+   "title_es": "El campeón mundial británico Denzel Bentley fue despojado del título después de tres meses tras denegarse la solicitud"
   },
   {
    "title": "Canelo vs Mbilli Scorecard and Round-by-Round Updates",
@@ -3543,7 +3584,9 @@
     "Canelo Alvarez"
    ],
    "score": 73,
-   "sources_n": 5
+   "sources_n": 5,
+   "title_it": "Il compagno di squadra di Canelo Alvarez, Bek Nurmaganbet, lascia il nemico immobile sotto le corde con un KO infernale al primo round",
+   "title_es": "El compañero de equipo de Canelo Álvarez, Bek Nurmaganbet, deja al enemigo inmóvil bajo las cuerdas con un infernal nocaut en el primer asalto"
   },
   {
    "title": "Usyk ya escribe su \"capítulo final\": regresará al peso crucero para enfrentarse al boxeador más temido",
@@ -3699,7 +3742,9 @@
     "Oleksandr Usyk"
    ],
    "score": 75,
-   "sources_n": 3
+   "sources_n": 3,
+   "title_it": "Il direttore del team di Oleksandr Usyk fa cadere la scadenza del pensionamento shock tra il piano di ritorno dei pesi cruiser",
+   "title_es": "El director del equipo de Oleksandr Usyk abandona la impactante fecha límite de jubilación en medio del plan de regreso de peso crucero"
   },
   {
    "title": "Why the time is now for Canelo Alvarez to prove that he still has it on the elite, championship level",
@@ -3753,7 +3798,9 @@
    "status": "unverified",
    "boxers": [],
    "score": 75,
-   "sources_n": 4
+   "sources_n": 4,
+   "title_it": "Il ritiro di Terence Crawford ha lasciato un vuoto nel pugilato ma c'è una superstar pronta a riempirlo",
+   "title_es": "El retiro de Terence Crawford ha dejado un vacío en el boxeo, pero hay una superestrella lista para llenarlo"
   },
   {
    "title": "Salita Promotions Closes 2026 With Two Championship Shows",
@@ -3806,7 +3853,9 @@
     "Tyson Fury"
    ],
    "score": 65,
-   "sources_n": 7
+   "sources_n": 7,
+   "title_it": "Tommy Fury rilascia una dichiarazione che spiega perché Jake Paul non sta combattendo",
+   "title_es": "Tommy Fury publica una declaración explicando por qué la pelea de Jake Paul no está sucediendo"
   },
   {
    "title": "Canelo Alvarez vs Christian Mbilli confirmed time, full undercard and where to watch world title fight",
@@ -3878,7 +3927,9 @@
     "Anthony Joshua"
    ],
    "score": 85,
-   "sources_n": 11
+   "sources_n": 11,
+   "title_it": "John Fury suggerisce che il fratello meno noto di Tyson Fury combatterà contro Anthony Joshua sottobanco",
+   "title_es": "John Fury sugiere que el hermano menos conocido de Tyson Fury peleará en la cartelera de Anthony Joshua"
   },
   {
    "title": "Jake Paul anuncia su regreso al boxeo... ¡un día antes de Navidad!",
@@ -3914,6 +3965,7 @@
    "boxers": [],
    "score": 75,
    "sources_n": 10,
+   "title_it": "Christian Mbilli, de encontrar en el boxeo la mejor arma para defense del acoso escolar a medirse en el ring a toda una leyenda como Canelo Álvarez",
    "title_es": "Christian Mbilli, de encontrar en el boxeo la mejor arma para defenderse del acoso escolar a medirse en el ring a toda una leyenda como Canelo Álvarez"
   },
   {
@@ -3927,7 +3979,9 @@
     "Canelo Alvarez"
    ],
    "score": 65,
-   "sources_n": 5
+   "sources_n": 5,
+   "title_it": "Canelo Alvarez ha avvertito che potrebbe affrontare il destino di Julio Cesar Chavez in una \"pericolosa\" battaglia di rimonta",
+   "title_es": "Canelo Álvarez advirtió que podría enfrentar el destino de Julio César Chávez en una pelea de regreso ‘peligrosa’"
   },
   {
    "title": "Ryan Garcia reveals date for upcoming fight with either Floyd Mayweather or Teofimo Lopez",
@@ -3938,7 +3992,9 @@
    "status": "unverified",
    "boxers": [],
    "score": 75,
-   "sources_n": 4
+   "sources_n": 4,
+   "title_it": "Ryan Garcia rivela la data del prossimo incontro con Floyd Mayweather o Teofimo Lopez",
+   "title_es": "Ryan García revela la fecha de su próxima pelea con Floyd Mayweather o Teófimo López"
   },
   {
    "title": "Jake Paul will make his boxing comeback on Christmas Eve in Dubai - just a year after suffering a double broken jaw in brutal defeat by Anthony Joshua",
@@ -3966,7 +4022,9 @@
     "Anthony Joshua"
    ],
    "score": 85,
-   "sources_n": 9
+   "sources_n": 9,
+   "title_it": "Jake Paul tornerà alla vigilia di Natale per il primo combattimento da quando Anthony Joshua gli ha rotto la mascella",
+   "title_es": "Jake Paul regresará en Nochebuena para la primera pelea desde que Anthony Joshua le rompió la mandíbula"
   },
   {
    "title": "Tyson Fury and wife Paris both break down in tears as they recount how he 'didn't want to live' in deep depression amid his alcohol and drug addiction in new Netflix documentary trailer",
@@ -4016,7 +4074,9 @@
     "Canelo Alvarez"
    ],
    "score": 85,
-   "sources_n": 10
+   "sources_n": 10,
+   "title_it": "Christian Mbilli identifica due segni rivelatori che Canelo Alvarez ha rifiutato",
+   "title_es": "Christian Mbilli identifica dos señales reveladoras de que Canelo Álvarez se ha negado"
   }
  ]
 }
