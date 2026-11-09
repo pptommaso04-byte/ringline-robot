@@ -24,6 +24,13 @@ BOXING = re.compile(r"box|fury|joshua|usyk|inoue|canelo|face[sd]?\b|fight|bout|k
 RUMOR = re.compile(r"\b(rumou?r|reportedly|talks?|could|may|set to face|eyeing|targets?|wants?|linked|in negotiation|trattativ|podr[ií]a|según)\b", re.I)
 CONFIRMED = re.compile(r"\b(confirmed|official|announced|signed|beats?|defeats?|stops?|wins?|retains?|stripped|ufficial|vince|batte|confirmad)\b", re.I)
 
+def trim_log(keep=250):
+    p = DATA / "log.txt"
+    try:
+        lines = p.read_text(encoding="utf-8").splitlines()
+        if len(lines) > keep * 2: p.write_text("\n".join(lines[-keep:]) + "\n", encoding="utf-8")
+    except Exception: pass
+
 def log(msg):
     line = f"{datetime.now(timezone.utc).isoformat(timespec='seconds')} {msg}"
     print(line)
@@ -41,7 +48,35 @@ def text(el, *names):
                 return (child.text or child.attrib.get("href")).strip()
     return ""
 
+def parse_loose(raw, name, lang):
+    """Lettura di riserva per feed 'sporchi' (testo con errori): cerca titolo, link e data con regole semplici."""
+    txt = raw.decode("utf-8", "replace"); out = []
+    for blk in re.findall(r"<(?:item|entry)[ >].*?</(?:item|entry)>", txt, re.S | re.I):
+        def g(tag):
+            m = re.search(r"<%s[^>]*>(.*?)</%s>" % (tag, tag), blk, re.S | re.I)
+            if not m: return ""
+            v = re.sub(r"^<!\[CDATA\[|\]\]>$", "", m.group(1).strip())
+            return html.unescape(re.sub(r"<[^>]+>", "", v)).strip()
+        title = g("title"); link = g("link")
+        if not link:
+            m = re.search(r"<link[^>]+href=[\"']([^\"']+)", blk, re.I); link = m.group(1) if m else ""
+        date = g("pubDate") or g("published") or g("updated") or g("dc:date")
+        try: d = parsedate_to_datetime(date).astimezone(timezone.utc)
+        except Exception:
+            try: d = datetime.fromisoformat(date.replace("Z", "+00:00"))
+            except Exception: d = datetime.now(timezone.utc)
+        if title and link:
+            out.append({"title": title[:300], "link": link, "source": name, "lang": lang, "date": d.isoformat(timespec="seconds")})
+    if not out: raise ValueError("nessun articolo leggibile")
+    return out
+
 def parse(raw, name, lang):
+    try:
+        return parse_strict(raw, name, lang)
+    except Exception:
+        return parse_loose(raw, name, lang)
+
+def parse_strict(raw, name, lang):
     root = ET.fromstring(raw); out = []
     for it in root.iter():
         if it.tag.split("}")[-1] not in ("item", "entry"): continue
@@ -137,6 +172,7 @@ def score_news(news):
     return news
 
 def run(feeds_file="feeds.json", feeds_override=None):
+    trim_log()
     cfg = json.loads((HERE / feeds_file).read_text(encoding="utf-8"))
     boxers = json.loads((HERE / "boxers.json").read_text(encoding="utf-8")) if (HERE / "boxers.json").exists() else []
     allnews, ok, bad = [], 0, 0
@@ -146,8 +182,9 @@ def run(feeds_file="feeds.json", feeds_override=None):
             return f, parse(raw, f["name"], f.get("lang", "en")), None
         except Exception as e:
             return f, None, e
+    active = [f for f in (feeds_override or cfg["feeds"]) if not f.get("off")]
     with ThreadPoolExecutor(max_workers=8) as ex:
-        results = list(ex.map(one, feeds_override or cfg["feeds"]))
+        results = list(ex.map(one, active))
     for f, items, err in results:
         if err is None:
             ok += 1; log(f"OK   {f['name']}: {len(items)} articoli"); allnews += items
