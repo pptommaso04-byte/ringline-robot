@@ -1,8 +1,21 @@
 {
- "updated": "2026-11-09T09:25:31+00:00",
+ "updated": "2026-11-09T09:30:58+00:00",
  "feeds_ok": 36,
  "feeds_failed": 5,
  "news": [
+  {
+   "title": "Ali lands big knockdown on route to WBO, IBF world title win!",
+   "link": "https://www.skysports.com/watch/video/13610085/ramla-ali-vs-mikiah-kreps-fight-highlights",
+   "source": "Sky Sports Boxing",
+   "lang": "en",
+   "date": "2026-11-09T09:23:00+00:00",
+   "status": "confirmed",
+   "boxers": [],
+   "score": 57,
+   "sources_n": 1,
+   "title_it": "Ali mette a segno un grande knockdown sulla strada per la WBO, vittoria del titolo mondiale IBF!",
+   "title_es": "¡Ali consigue una gran caída en el camino hacia la victoria del título mundial de la OMB y la FIB!"
+  },
   {
    "title": "Tyson Fury addresses former trainer Ben Davison being in Anthony Joshua’s corner",
    "link": "https://boxingnewsonline.net/news/fury-on-davison-training-joshua/",
@@ -18,6 +31,19 @@
    "sources_n": 11,
    "title_it": "Tyson Fury si rivolge all'ex allenatore Ben Davison che si trova nell'angolo di Anthony Joshua",
    "title_es": "Tyson Fury se dirige al ex entrenador Ben Davison que está en la esquina de Anthony Joshua"
+  },
+  {
+   "title": "Nicolson defends super-bantamweight title in MVPW debut!",
+   "link": "https://www.skysports.com/watch/video/13610077/skye-nicolson-vs-miyo-yoshida-fight-highlights",
+   "source": "Sky Sports Boxing",
+   "lang": "en",
+   "date": "2026-11-09T08:45:00+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 29,
+   "sources_n": 1,
+   "title_it": "Nicolson difende il titolo dei pesi supergallo al debutto nell'MVPW!",
+   "title_es": "¡Nicolson defiende el título de peso súper gallo en su debut en MVPW!"
   },
   {
    "title": "Tyson Fury vs Anthony Joshua tickets for £249pp with free beers included in VIP fight night hospitality package",
@@ -465,7 +491,7 @@
    "date": "2026-11-08T15:30:40+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 31,
+   "score": 30,
    "sources_n": 1,
    "title_it": "WBC#5 Hata ferma Sagawa, mantiene la cintura OPBF da 130 libbre",
    "title_es": "WBC#5 Hata detiene a Sagawa, mantiene el cinturón OPBF de 130 lb"
@@ -478,7 +504,7 @@
    "date": "2026-11-08T15:28:15+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 49,
+   "score": 48,
    "sources_n": 1,
    "title_it": "Attacco dei pesi massimi dopo la vittoria del WBC, scoppia una rissa di massa",
    "title_es": "Atacado el peso pesado después de la victoria del CMB, estalla la pelea masiva"
@@ -656,7 +682,7 @@
    "date": "2026-11-08T09:26:27+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 18,
+   "score": 17,
    "sources_n": 2,
    "title_it": "Abraham Perez vs Yankiel Rivera: video di lotta in evidenza",
    "title_es": "Abraham Pérez vs Yankiel Rivera: Lo más destacado del video de la pelea"
@@ -963,7 +989,7 @@
    "date": "2026-11-07T23:29:57+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 51,
+   "score": 50,
    "sources_n": 12,
    "title_it": "Risultati Zuffa Boxing 12, highlights: Cheavon Clarke ferma Chris Billam-Smith, Da'Mazion Vanhouter torna a brillare",
    "title_es": "Resultados de Zuffa Boxing 12, destacados: Cheavon Clarke detiene a Chris Billam-Smith, Da'Mazion Vanhouter brilla de nuevo"
@@ -1543,7 +1569,7 @@
    "date": "2026-11-07T07:30:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 5,
+   "score": 4,
    "sources_n": 1,
    "title_it": "Boxe stasera: orari di inizio, streaming del canale TV e carte combattimento",
    "title_es": "Boxeo esta noche: horarios de inicio, transmisión de canales de televisión y tarjetas de pelea"
@@ -4182,34 +4208,6 @@
    "sources_n": 12,
    "title_it": "Chi è Christian Mbilli? Conosci il campione dei pesi medi super WBC prima dello scontro di Canelo Alvarez",
    "title_es": "¿Quién es Christian Mbilli? Conozca al campeón de peso súper mediano del CMB antes del enfrentamiento de Canelo Álvarez"
-  },
-  {
-   "title": "El brutal entrenamiento de cuello de Canelo: 532 rounds, 0 knockdown",
-   "link": "https://www.marca.com/boxeo/2026/10/30/brutal-entrenamiento-cuello-canelo-532-rounds-0-knockdown-video.html",
-   "source": "Marca Boxeo 2",
-   "lang": "es",
-   "date": "2026-10-30T20:35:03+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 25,
-   "sources_n": 1,
-   "title_it": "El brutal entrenamiento de cuello de Canelo: 532 colpi, 0 knockdown",
-   "title_es": "El brutal entrenamiento de cuello de Canelo: 532 rounds, 0 knockdown"
-  },
-  {
-   "title": "Oleksandr Usyk’s team director drops shock retirement deadline amid cruiserweight return plan",
-   "link": "https://talksport.com/boxing/4679205/oleksandr-usyk-retirement-deadline-cruiserweight-return-david-benavidez/",
-   "source": "Talksport Boxing",
-   "lang": "en",
-   "date": "2026-10-30T20:12:56+00:00",
-   "status": "unverified",
-   "boxers": [
-    "Oleksandr Usyk"
-   ],
-   "score": 75,
-   "sources_n": 3,
-   "title_it": "Il direttore del team di Oleksandr Usyk fa cadere la scadenza del pensionamento shock tra il piano di ritorno dei pesi cruiser",
-   "title_es": "El director del equipo de Oleksandr Usyk abandona la impactante fecha límite de jubilación en medio del plan de regreso de peso crucero"
   }
  ]
 }
