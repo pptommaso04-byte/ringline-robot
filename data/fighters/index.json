@@ -87,5 +87,92 @@
    "es",
    "fr"
   ]
+ },
+ "Terence Crawford": {
+  "slug": "terence-crawford",
+  "updated": "2026-11-09T01:02:41+00:00",
+  "total": 42,
+  "verified": 42,
+  "record": {
+   "w": 42,
+   "l": 0,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "it"
+  ]
+ },
+ "Gervonta Davis": {
+  "slug": "gervonta-davis",
+  "updated": "2026-11-09T01:02:52+00:00",
+  "total": 31,
+  "verified": 31,
+  "record": {
+   "w": 30,
+   "l": 0,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "it",
+   "fr",
+   "pt"
+  ]
+ },
+ "Devin Haney": {
+  "slug": "devin-haney",
+  "updated": "2026-11-09T01:02:58+00:00",
+  "total": 34,
+  "verified": 34,
+  "record": {
+   "w": 33,
+   "l": 0,
+   "d": 0,
+   "nc": 1
+  },
+  "langs": [
+   "en",
+   "it",
+   "fr",
+   "pt"
+  ]
+ },
+ "Ryan Garcia": {
+  "slug": "ryan-garcia",
+  "updated": "2026-11-09T01:03:03+00:00",
+  "total": 29,
+  "verified": 28,
+  "record": {
+   "w": 26,
+   "l": 2,
+   "d": 0,
+   "nc": 1
+  },
+  "langs": [
+   "en",
+   "it",
+   "es",
+   "fr",
+   "pt"
+  ]
+ },
+ "Jaron Ennis": {
+  "slug": "jaron-ennis",
+  "updated": "2026-11-09T01:03:09+00:00",
+  "total": 37,
+  "verified": 35,
+  "record": {
+   "w": 36,
+   "l": 0,
+   "d": 0,
+   "nc": 1
+  },
+  "langs": [
+   "en",
+   "it"
+  ]
  }
 }

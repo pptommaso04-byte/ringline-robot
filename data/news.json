@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-09T00:57:05+00:00",
- "feeds_ok": 34,
- "feeds_failed": 26,
+ "updated": "2026-11-09T01:02:31+00:00",
+ "feeds_ok": 35,
+ "feeds_failed": 25,
  "news": [
   {
    "title": "Floyd Mayweather names his four potential opponents for ‘big fight’ in 2027",
@@ -60,7 +60,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 93,
-   "sources_n": 10,
+   "sources_n": 11,
    "title_it": "Il pugile scozzese Willy Hutchinson soddisfa l'impegno dell'infanzia diventando campione del mondo dopo la famosa vittoria",
    "title_es": "El boxeador escocés Willy Hutchinson cumple su promesa de infancia al convertirse en campeón del mundo tras su famosa victoria"
   },
@@ -215,7 +215,7 @@
     "Anthony Joshua"
    ],
    "score": 89,
-   "sources_n": 11,
+   "sources_n": 12,
    "title_it": "Hutchinson dice che Joshua Buatsi è troppo grande per 175",
    "title_es": "Hutchinson dice que Joshua Buatsi es demasiado grande para 175"
   },
@@ -228,7 +228,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 97,
-   "sources_n": 10,
+   "sources_n": 11,
    "title_it": "Willy Hutchinson compie il destino del titolo mondiale di 15 anni dopo aver vinto la sua più grande lotta... contro se stesso",
    "title_es": "Willy Hutchinson cumple 15 años en el destino del título mundial después de ganar su mayor pelea... contra sí mismo"
   },
@@ -273,6 +273,22 @@
    "sources_n": 4,
    "title_it": "Conor Benn riassume l'abilità pugilistica di Ryan Garcia dopo aver subito una sconfitta per knockout in due round",
    "title_es": "Conor Benn resume la habilidad boxística de Ryan García después de sufrir una derrota por nocaut en dos asaltos"
+  },
+  {
+   "title": "Willy Hutchinson gets revenge over Joshua Buatsi to win WBC light-heavyweight title",
+   "link": "https://britishboxingnews.co.uk/news/willy-hutchinson-revenge-josh-buatsi/",
+   "source": "British Boxing News",
+   "lang": "en",
+   "date": "2026-11-08T11:08:06+00:00",
+   "status": "confirmed",
+   "boxers": [
+    "Joshua Buatsi",
+    "Anthony Joshua"
+   ],
+   "score": 136,
+   "sources_n": 13,
+   "title_it": "Willy Hutchinson si vendica di Joshua Buatsi per vincere il titolo dei pesi massimi leggeri WBC",
+   "title_es": "Willy Hutchinson se venga de Joshua Buatsi para ganar el título semipesado del CMB"
   },
   {
    "title": "Derek Chisora makes KO prediction for Deontay Wilder vs Jai Opetaia: “He’ll knock that weasel out”",
@@ -485,7 +501,7 @@
    "date": "2026-11-08T05:00:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 50,
+   "score": 49,
    "sources_n": 6,
    "title_it": "Risultati in diretta: Elif Nur Turhan difende il titolo contro Alycia Baumgardner",
    "title_es": "Resultados en vivo: Elif Nur Turhan defiende el título ante Alycia Baumgardner"
@@ -555,7 +571,7 @@
     "Anthony Joshua"
    ],
    "score": 93,
-   "sources_n": 12,
+   "sources_n": 13,
    "title_it": "Joshua Buatsi vs Willy Hutchinson 2: video highlights del combattimento",
    "title_es": "Joshua Buatsi vs Willy Hutchinson 2: video destacado de la pelea"
   },
@@ -570,7 +586,9 @@
     "Joshua Buatsi"
    ],
    "score": 85,
-   "sources_n": 11
+   "sources_n": 12,
+   "title_it": "Hutchinson batte Buatsi per vincere il titolo dei pesi massimi leggeri WBC",
+   "title_es": "Hutchinson vence a Buatsi para ganar el título semipesado del CMB"
   },
   {
    "title": "Hutchinson Wins Buatsi Rematch Along With WBC Title",
@@ -583,7 +601,7 @@
     "Joshua Buatsi"
    ],
    "score": 75,
-   "sources_n": 11,
+   "sources_n": 12,
    "title_it": "Hutchinson vince la rivincita di Buatsi insieme al titolo WBC",
    "title_es": "Hutchinson gana la revancha contra Buatsi junto con el título del CMB"
   },
@@ -626,7 +644,7 @@
     "Anthony Joshua"
    ],
    "score": 120,
-   "sources_n": 12,
+   "sources_n": 13,
    "title_it": "Willy Hutchinson si vendica, vincendo nella rivincita un titolo mondiale su Joshua Buatsi",
    "title_es": "Willy Hutchinson se venga, un título mundial en la revancha ante Joshua Buatsi"
   },
@@ -641,7 +659,7 @@
     "Joshua Buatsi"
    ],
    "score": 67,
-   "sources_n": 11
+   "sources_n": 12
   },
   {
    "title": "Willy Hutchinson Beats Buatsi To Claim WBC Title",
@@ -654,7 +672,7 @@
     "Joshua Buatsi"
    ],
    "score": 100,
-   "sources_n": 12,
+   "sources_n": 13,
    "title_it": "Willy Hutchinson batte Buatsi per rivendicare il titolo WBC",
    "title_es": "Willy Hutchinson vence a Buatsi y reclama el título del CMB"
   },
@@ -683,7 +701,7 @@
     "Anthony Joshua"
    ],
    "score": 120,
-   "sources_n": 12,
+   "sources_n": 13,
    "title_it": "Willy Hutchinson si rompe sul ring mentre batte Joshua Buatsi per decisione unanime di vincere il titolo WBC e vendicarsi",
    "title_es": "Willy Hutchinson se derrumba en el ring mientras vence a Joshua Buatsi por decisión unánime de ganar el título del CMB y vengarse"
   },
@@ -710,7 +728,7 @@
     "Anthony Joshua"
    ],
    "score": 112,
-   "sources_n": 12,
+   "sources_n": 13,
    "title_it": "Willy Hutchinson ottiene la rivincita finale di Joshua Buatsi mentre supera la rivincita per conquistare il titolo mondiale",
    "title_es": "Willy Hutchinson obtiene la venganza definitiva de Joshua Buatsi al borde de la revancha para hacerse con el título mundial"
   },
@@ -725,7 +743,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 102,
+   "score": 101,
    "sources_n": 11,
    "title_it": "Tyson Fury diventa pubblico e chiede che la rissa su Anthony Joshua sia annullata",
    "title_es": "Tyson Fury se hace público y exige que se cancele la pelea en la cartelera de Anthony Joshua"
@@ -742,7 +760,7 @@
     "Anthony Joshua"
    ],
    "score": 101,
-   "sources_n": 12,
+   "sources_n": 13,
    "title_it": "La folla esplode in violenza allo scontro di boxe Joshua Buatsi vs Willy Hutchinson",
    "title_es": "La multitud estalla en violencia en el choque de boxeo Joshua Buatsi vs Willy Hutchinson"
   },
@@ -785,7 +803,7 @@
     "Anthony Joshua"
    ],
    "score": 101,
-   "sources_n": 12,
+   "sources_n": 13,
    "title_it": "Joshua Buatsi vs Willy Hutchinson 2 scorecard in tempo reale e risultato del combattimento",
    "title_es": "Cuadro de mando en vivo de Joshua Buatsi vs Willy Hutchinson 2 y resultado de la pelea"
   },
@@ -812,7 +830,7 @@
     "Anthony Joshua"
    ],
    "score": 101,
-   "sources_n": 12,
+   "sources_n": 13,
    "title_it": "Scoppia un'enorme rissa tra la folla a Joshua Buatsi vs Willy Hutchinson con la sicurezza costretta a intervenire e l'area evacuata",
    "title_es": "Enorme pelea estalla en la multitud en Joshua Buatsi vs Willy Hutchinson con la seguridad obligada a intervenir y el área evacuada"
   },
@@ -839,7 +857,7 @@
     "Anthony Joshua"
    ],
    "score": 80,
-   "sources_n": 10
+   "sources_n": 11
   },
   {
    "title": "Almost punched a hole through him’ – Fans stunned by brutal KO on Zuffa Boxing card that leaves star crumpled on canvas",
@@ -877,7 +895,7 @@
     "Anthony Joshua"
    ],
    "score": 88,
-   "sources_n": 9,
+   "sources_n": 10,
    "title_it": "La lotta del pugile britannico Zak Miller contro Joshua Buatsi si è interrotta dopo \"il peggior gonfiore di sempre\" e l'intervento medico",
    "title_es": "La pelea del boxeador británico Zak Miller en la cartelera de Joshua Buatsi se detuvo después de la \"peor hinchazón de la historia\" e intervención médica"
   },
@@ -938,7 +956,7 @@
     "Joshua Buatsi"
    ],
    "score": 63,
-   "sources_n": 11
+   "sources_n": 12
   },
   {
    "title": "Elif Nur Turhan vs. Alycia Baumgardner press conference quotes and fight prediction",
@@ -965,7 +983,7 @@
     "Anthony Joshua"
    ],
    "score": 98,
-   "sources_n": 12,
+   "sources_n": 13,
    "title_it": "Joshua Buatsi vs. Willy Hutchinson 2 aggiornamento dei risultati in tempo reale",
    "title_es": "Actualización de resultados en vivo de Joshua Buatsi vs.Willy Hutchinson 2"
   },
@@ -996,6 +1014,17 @@
    "title_es": "El ex entrenador de Deontay Wilder, Malik Scott, da veredicto de KO para la pelea con Jai Opetaia"
   },
   {
+   "title": "Tragic news rocks the boxing world as Australian champion dies in skydiving fall",
+   "link": "https://britishboxingnews.co.uk/news/australian-boxing-champion-skydiving/",
+   "source": "British Boxing News",
+   "lang": "en",
+   "date": "2026-11-07T15:17:14+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 13,
+   "sources_n": 1
+  },
+  {
    "title": "Caroline Dubois and Alycia Baumgardner on course for huge undisputed clash… but fight is on to seal home advantage",
    "link": "https://www.thesun.co.uk/sport/40898841/caroline-dubois-alycia-baumgardner-undisputed-clash-home-advantage/",
    "source": "The Sun Boxing",
@@ -1004,7 +1033,9 @@
    "status": "unverified",
    "boxers": [],
    "score": 85,
-   "sources_n": 5
+   "sources_n": 5,
+   "title_it": "Caroline Dubois e Alycia Baumgardner in rotta per un enorme scontro indiscusso... ma la lotta è in corso per sigillare il vantaggio della casa",
+   "title_es": "Caroline Dubois y Alycia Baumgardner en camino a un gran enfrentamiento indiscutible... pero la lucha está en marcha para sellar la ventaja de local"
   },
   {
    "title": "‘Levelled up’ – Billam-Smith reveals reason why he’s not out for revenge against Clarke in Zuffa Boxing 12 bout",
@@ -1016,28 +1047,6 @@
    "boxers": [],
    "score": 42,
    "sources_n": 11
-  },
-  {
-   "title": "Caroline Dubois and Alycia Baumgardner on course for huge undisputed clash… but fight is on to seal home advantage",
-   "link": "https://www.thesun.co.uk/sport/40898841/caroline-dubois-alycia-baumgardner-undisputed-clash-home-advantage/",
-   "source": "The Sun Boxing",
-   "lang": "en",
-   "date": "2026-11-07T13:40:52+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 85,
-   "sources_n": 5
-  },
-  {
-   "title": "‘Levelled up’ – Billam-Smith reveals reason why he’s not out for revenge against Clarke in Zuffa Boxing 12 bout",
-   "link": "https://www.thesun.co.uk/sport/40941800/billam-smith-reveals-clarke-revenge-truth/",
-   "source": "The Sun Boxing",
-   "lang": "en",
-   "date": "2026-11-07T13:32:39+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 42,
-   "sources_n": 12
   },
   {
    "title": "Heavyweight Hits Downed Opponent, Jumps Into Crowd Swinging",
@@ -1063,7 +1072,7 @@
     "Denzel Bentley",
     "Shane Mosley Jr"
    ],
-   "score": 77,
+   "score": 76,
    "sources_n": 13
   },
   {
@@ -1115,7 +1124,7 @@
     "Anthony Joshua"
    ],
    "score": 106,
-   "sources_n": 12,
+   "sources_n": 13,
    "title_it": "Joshua Buatsi vs Willy Hutchinson 2: data, ora di inizio, canale TV, streaming live e scheda COMPLETA per un enorme scontro sul titolo WBC",
    "title_es": "Joshua Buatsi vs Willy Hutchinson 2: Fecha, hora de inicio, canal de televisión, transmisión en vivo y tarjeta COMPLETA para el gran enfrentamiento por el título del CMB"
   },
@@ -1131,6 +1140,28 @@
    "sources_n": 4,
    "title_it": "Il peso massimo di Dana White passa da 151 libbre Kid a 231 libbre KO Monster",
    "title_es": "El peso pesado de Dana White pasa de 151 libras de niño a 231 libras de KO Monster"
+  },
+  {
+   "title": "UK’s youngest pro boxer heads to Bali to face Indonesian lightweight champion",
+   "link": "https://britishboxingnews.co.uk/news/callum-dan-vs-robert-kopa-bali/",
+   "source": "British Boxing News",
+   "lang": "en",
+   "date": "2026-11-07T10:52:12+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 10,
+   "sources_n": 1
+  },
+  {
+   "title": "Matchroom and Empire Fighting Chance reveal £7.2 million investment into local communities",
+   "link": "https://britishboxingnews.co.uk/news/matchroom-and-empire-fighting-chance/",
+   "source": "British Boxing News",
+   "lang": "en",
+   "date": "2026-11-07T10:34:20+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 10,
+   "sources_n": 1
   },
   {
    "title": "Tyson Fury says former heavyweight champion is ‘shot to bits’ and should retire: “It’s a real shame”",
@@ -1159,7 +1190,7 @@
     "Anthony Joshua"
    ],
    "score": 95,
-   "sources_n": 12,
+   "sources_n": 13,
    "title_it": "Joshua Buatsi vs Willy Hutchinson 2 ora esatta: A che ora sono le camminate sul ring per LA grande rivincita DI STASERA?",
    "title_es": "Joshua Buatsi vs Willy Hutchinson 2 hora exacta: ¿A qué hora son los paseos para LA gran revancha DE ESTA NOCHE?"
   },
@@ -1213,7 +1244,7 @@
     "Anthony Joshua"
    ],
    "score": 94,
-   "sources_n": 12,
+   "sources_n": 13,
    "title_it": "talkSPORT consigli sulle scommesse – Le migliori scommesse sulla boxe e consigli di esperti per Joshua Buatsi vs Willy Hutchinson",
    "title_es": "talkSPORT consejos para apostar – Las mejores apuestas de boxeo y consejos de expertos para Joshua Buatsi vs Willy Hutchinson"
   },
@@ -1228,7 +1259,7 @@
     "Joshua Buatsi"
    ],
    "score": 59,
-   "sources_n": 11
+   "sources_n": 12
   },
   {
    "title": "Tyson Fury issues response to Oleksandr Usyk trilogy snub",
@@ -1315,7 +1346,7 @@
     "Anthony Joshua"
    ],
    "score": 98,
-   "sources_n": 12,
+   "sources_n": 13,
    "title_it": "Joshua Buatsi e Willy Hutchinson danno peso alla rivincita del titolo WBC",
    "title_es": "Joshua Buatsi y Willy Hutchinson dan peso para la revancha por el título del CMB"
   },
@@ -1367,7 +1398,7 @@
     "Joshua Buatsi"
    ],
    "score": 42,
-   "sources_n": 11
+   "sources_n": 12
   },
   {
    "title": "How to get DAZN at huge discount THIS WEEKEND as home of boxing offers 50% off for Buatsi vs Hutchinson rematch",
@@ -1380,7 +1411,18 @@
     "Joshua Buatsi"
    ],
    "score": 42,
-   "sources_n": 11
+   "sources_n": 12
+  },
+  {
+   "title": "Joseph Parker will fight this month, Frank Warren confirms",
+   "link": "https://britishboxingnews.co.uk/news/joseph-parker-will-fight-this-month/",
+   "source": "British Boxing News",
+   "lang": "en",
+   "date": "2026-11-06T17:05:25+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 37,
+   "sources_n": 2
   },
   {
    "title": "‘He shouldn’t be in the ring’: Tyson Fury doesn’t want to see Deontay Wilder fight Jai Opetaia",
@@ -1443,7 +1485,9 @@
     "Oleksandr Usyk"
    ],
    "score": 86,
-   "sources_n": 5
+   "sources_n": 5,
+   "title_it": "La decisione \"folle\" di Oleksandr Usyk David Benavidez potrebbe ritorcersi contro come la mossa di Roy Jones Jr",
+   "title_es": "La decisión ‘loca‘ de David Benavidez de Oleksandr Usyk podría ser contraproducente como el movimiento de Roy Jones Jr"
   },
   {
    "title": "Briton Dubois to face Han in lightweight unification",
@@ -1507,46 +1551,31 @@
    "sources_n": 3
   },
   {
-   "title": "Deontay Wilder returning on Anthony Joshua’s undercard still with hope of fighting Brit rival ahead of Tyson Fury bout",
-   "link": "https://www.thesun.co.uk/sport/40936888/deontay-wilder-anthony-joshua-undercard-return/",
-   "source": "The Sun Boxing",
+   "title": "Your first night at the boxing: a fan’s guide to arrivals, timing, and what to expect",
+   "link": "https://britishboxingnews.co.uk/blogs/your-first-night-at-the-boxing-a-fans-guide-to-arrivals-timing-and-what-to-expect/",
+   "source": "British Boxing News",
    "lang": "en",
-   "date": "2026-11-06T12:39:52+00:00",
+   "date": "2026-11-06T13:07:38+00:00",
    "status": "unverified",
-   "boxers": [
-    "Tyson Fury",
-    "Anthony Joshua"
-   ],
-   "score": 85,
-   "sources_n": 12
+   "boxers": [],
+   "score": 0,
+   "sources_n": 1
   },
   {
-   "title": "Tyson Fury issues damning verdict on Deontay Wilder fight on Anthony Joshua undercard",
-   "link": "https://sports.yahoo.com/articles/tyson-fury-issues-damning-verdict-123351630.html",
-   "source": "Yahoo Sports Boxing",
+   "title": "Everything you need to know about Joshua Buatsi vs Willy Hutchinson 2",
+   "link": "https://britishboxingnews.co.uk/news/need-to-know-buatsi-hutchinson-2/",
+   "source": "British Boxing News",
    "lang": "en",
-   "date": "2026-11-06T12:33:51+00:00",
+   "date": "2026-11-06T12:55:48+00:00",
    "status": "unverified",
    "boxers": [
-    "Tyson Fury",
+    "Joshua Buatsi",
     "Anthony Joshua"
    ],
    "score": 85,
-   "sources_n": 12
-  },
-  {
-   "title": "Boxing calendar 2026: FULL schedule and results including Tyson Fury vs Anthony Joshua with Floyd Mayweather to return",
-   "link": "https://www.thesun.co.uk/sport/38200445/boxing-calendar-schedule-2026-fury-vs-joshua/",
-   "source": "The Sun Boxing",
-   "lang": "en",
-   "date": "2026-11-06T12:28:47+00:00",
-   "status": "unverified",
-   "boxers": [
-    "Tyson Fury",
-    "Anthony Joshua"
-   ],
-   "score": 85,
-   "sources_n": 11
+   "sources_n": 13,
+   "title_it": "Tutto quello che devi sapere su Joshua Buatsi vs Willy Hutchinson 2",
+   "title_es": "Todo lo que necesitas saber sobre Joshua Buatsi vs Willy Hutchinson 2"
   },
   {
    "title": "Deontay Wilder returning on Anthony Joshua’s undercard still with hope of fighting Brit rival ahead of Tyson Fury bout",
@@ -1560,7 +1589,9 @@
     "Anthony Joshua"
    ],
    "score": 85,
-   "sources_n": 12
+   "sources_n": 12,
+   "title_it": "Deontay Wilder torna sul sottocarico di Anthony Joshua ancora con la speranza di combattere il rivale britannico prima dell'incontro di Tyson Fury",
+   "title_es": "Deontay Wilder regresa a la cartelera de Anthony Joshua con la esperanza de luchar contra su rival británico antes de la pelea de Tyson Fury"
   },
   {
    "title": "Tyson Fury issues damning verdict on Deontay Wilder fight on Anthony Joshua undercard",
@@ -1574,7 +1605,9 @@
     "Anthony Joshua"
    ],
    "score": 85,
-   "sources_n": 12
+   "sources_n": 12,
+   "title_it": "Tyson Fury emette un verdetto schiacciante sull'incontro di Deontay Wilder contro Anthony Joshua",
+   "title_es": "Tyson Fury emite un veredicto condenatorio sobre la pelea de Deontay Wilder en la cartelera de Anthony Joshua"
   },
   {
    "title": "Boxing calendar 2026: FULL schedule and results including Tyson Fury vs Anthony Joshua with Floyd Mayweather to return",
@@ -1588,7 +1621,9 @@
     "Anthony Joshua"
    ],
    "score": 85,
-   "sources_n": 11
+   "sources_n": 11,
+   "title_it": "Calendario di boxe 2026: programma COMPLETO e risultati tra cui Tyson Fury vs Anthony Joshua con Floyd Mayweather per tornare",
+   "title_es": "Calendario de boxeo 2026: calendario COMPLETO y resultados, incluido Tyson Fury vs Anthony Joshua con Floyd Mayweather de regreso"
   },
   {
    "title": "Tyson Fury fears for Deontay Wilder, says he is 'shot to bits' ahead of Jai Opetaia fight",
@@ -1656,7 +1691,20 @@
     "Anthony Joshua"
    ],
    "score": 85,
-   "sources_n": 12
+   "sources_n": 12,
+   "title_it": "Tyson Fury sbatte \"shot to bits\" Deontay Wilder sulla decisione di combattere sulla carta Anthony Joshua",
+   "title_es": "Tyson Fury criticaa Deontay Wilder por su decisión de pelear en la cartelera de Anthony Joshua"
+  },
+  {
+   "title": "Boxing in Japan: why the lighter divisions are a national passion",
+   "link": "https://britishboxingnews.co.uk/blogs/boxing-in-japan-why-the-lighter-divisions-are-a-national-passion/",
+   "source": "British Boxing News",
+   "lang": "en",
+   "date": "2026-11-06T11:05:22+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 0,
+   "sources_n": 1
   },
   {
    "title": "Rocky review – 50 years on, Stallone’s boxer remains an exhilaratingly gritty contender",
@@ -1693,7 +1741,9 @@
     "Tyson Fury"
    ],
    "score": 85,
-   "sources_n": 12
+   "sources_n": 12,
+   "title_it": "Tyson Fury dice a Deontay Wilder di annullare il combattimento e ritirarsi immediatamente",
+   "title_es": "Tyson Fury le dice a Deontay Wilder que cancele la pelea y se retire de inmediato"
   },
   {
    "title": "Joshua Buatsi vs. Willy Hutchinson 2 press conference quotes and fight prediction",
@@ -1707,7 +1757,7 @@
     "Anthony Joshua"
    ],
    "score": 85,
-   "sources_n": 12,
+   "sources_n": 13,
    "title_it": "Joshua Buatsi contro Willy Hutchinson 2 citazioni della conferenza stampa e previsione della lotta",
    "title_es": "Joshua Buatsi vs.Willy Hutchinson 2 citas de la conferencia de prensa y predicción de la pelea"
   },
@@ -1723,6 +1773,17 @@
    "sources_n": 1
   },
   {
+   "title": "Katie Hearn wins huge award for Matchroom Boxing",
+   "link": "https://britishboxingnews.co.uk/news/katie-hearn-wins-matchroom-award/",
+   "source": "British Boxing News",
+   "lang": "en",
+   "date": "2026-11-06T09:29:30+00:00",
+   "status": "confirmed",
+   "boxers": [],
+   "score": 18,
+   "sources_n": 2
+  },
+  {
    "title": "Buatsi vs Hutchinson 2: Start time, undercard and how to watch fight this weekend",
    "link": "https://sports.yahoo.com/articles/buatsi-vs-hutchinson-2-start-172545865.html",
    "source": "Yahoo Sports Boxing",
@@ -1733,7 +1794,7 @@
     "Joshua Buatsi"
    ],
    "score": 30,
-   "sources_n": 11
+   "sources_n": 12
   },
   {
    "title": "Joshua Buatsi on viral Willy Hutchinson moment: ‘Mum rang me... she wasn’t happy’",
@@ -1747,7 +1808,9 @@
     "Anthony Joshua"
    ],
    "score": 85,
-   "sources_n": 12
+   "sources_n": 13,
+   "title_it": "Joshua Buatsi sul momento virale di Willy Hutchinson: \"Mamma mi ha chiamato... non era felice\"",
+   "title_es": "Joshua Buatsi sobre el momento viral de Willy Hutchinson: ‘Mamá me llamó... no estaba feliz’"
   },
   {
    "title": "From street fighter to world champion - Bentley's rise to top",
@@ -1787,7 +1850,7 @@
     "Anthony Joshua"
    ],
    "score": 103,
-   "sources_n": 11,
+   "sources_n": 12,
    "title_it": "Frank Warren risponde alle voci sull'infortunio di Tyson Fury in vista del mega combattimento di Anthony Joshua",
    "title_es": "Frank Warren aborda los rumores de lesiones de Tyson Fury antes de la mega pelea de Anthony Joshua"
   },
@@ -1838,7 +1901,7 @@
     "Anthony Joshua"
    ],
    "score": 65,
-   "sources_n": 9
+   "sources_n": 10
   },
   {
    "title": "Devin Haney title unification fight announced after Shakur Stevenson bout collapse",
@@ -1876,7 +1939,7 @@
     "Anthony Joshua"
    ],
    "score": 93,
-   "sources_n": 12,
+   "sources_n": 13,
    "title_it": "Il taccuino: Willy Hutchinson si avvicina al sogno d'infanzia mentre Joshua Buatsi attende",
    "title_es": "The Notebook: Willy Hutchinson se acerca al sueño de su infancia mientras Joshua Buatsi espera"
   },
@@ -1952,7 +2015,7 @@
     "Canelo Alvarez"
    ],
    "score": 85,
-   "sources_n": 8,
+   "sources_n": 7,
    "title_it": "David Benavidez sostiene Canelo Alvarez per migliorare nella rivincita di Terence Crawford",
    "title_es": "David Benavidez respalda a Canelo Álvarez para mejorar en la revancha con Terence Crawford"
   },
@@ -1979,7 +2042,9 @@
     "Anthony Joshua"
    ],
    "score": 85,
-   "sources_n": 11
+   "sources_n": 11,
+   "title_it": "Frank Bruno afferma che Tyson Fury sta subendo un infortunio prima dell'incontro con Anthony Joshua",
+   "title_es": "Frank Bruno afirma que Tyson Fury lleva una lesión despedido antes de la pelea de Anthony Joshua"
   },
   {
    "title": "Deontay Wilder y Jai Opetaia se unen a la cartelera de Fury vs Joshua en diciembre",
@@ -2080,7 +2145,9 @@
     "Anthony Joshua"
    ],
    "score": 85,
-   "sources_n": 11
+   "sources_n": 11,
+   "title_it": "Derek Chisora condivide i messaggi con Anthony Joshua sul campo di Tyson Fury: \"Sta andando alla grande\"",
+   "title_es": "Derek Chisora comparte mensajes con Anthony Joshua sobre el campamento de Tyson Fury: \"Lo está matando\""
   },
   {
    "title": "Tyson Fury injury concern raised ahead of Anthony Joshua mega-fight",
@@ -2159,7 +2226,9 @@
     "Denzel Bentley"
    ],
    "score": 85,
-   "sources_n": 11
+   "sources_n": 11,
+   "title_it": "Denzel Bentley crede che firmare con Zuffa Boxing gli sia costato il titolo mondiale WBO: \"Non c'era nessun altro motivo\"",
+   "title_es": "Denzel Bentley cree que firmar con Zuffa Boxing le costó el título mundial de la OMB: \"No había otra razón\""
   },
   {
    "title": "If O'Shaquie Foster isn't 2026's Fighter of the Year, who is?",
@@ -2269,8 +2338,8 @@
    "date": "2026-11-04T16:09:57+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 20,
-   "sources_n": 3,
+   "score": 10,
+   "sources_n": 2,
    "title_it": "Oliver McCall finalmente crolla a 61 dopo 77 incontri, l'arbitro dice di no",
    "title_es": "Oliver McCall finalmente cayó a 61 años después de 77 combates, el árbitro dice que no"
   },
@@ -2286,7 +2355,9 @@
     "Anthony Joshua"
    ],
    "score": 85,
-   "sources_n": 12
+   "sources_n": 12,
+   "title_it": "L'evento co-main Tyson Fury vs Anthony Joshua include Deontay Wilder come annunciato",
+   "title_es": "El evento co-estelar de Tyson Fury vs. Anthony Joshua incluye a Deontay Wilder como anunciador"
   },
   {
    "title": "Wilder v Opetaia joins Fury vs Joshua undercard live on Netflix",
@@ -2310,8 +2381,8 @@
    "date": "2026-11-04T14:29:17+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 55,
-   "sources_n": 4,
+   "score": 35,
+   "sources_n": 2,
    "title_es": "La gran campeona de Puerto Rico Amanda Serrano tiene claro que “quiero que me recuerden como alguien que cambió las reglas de juego del boxeo, cada vez que he peleado me lo he dejado todo en el ring”"
   },
   {
@@ -2401,7 +2472,7 @@
     "Joshua Buatsi"
    ],
    "score": 40,
-   "sources_n": 11
+   "sources_n": 12
   },
   {
    "title": "Amanda Serrano still has more than enough fight left",
@@ -2411,8 +2482,8 @@
    "date": "2026-11-04T09:01:56+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 55,
-   "sources_n": 4,
+   "score": 35,
+   "sources_n": 2,
    "title_it": "Ad Amanda Serrano è rimasta ancora più che sufficiente battaglia",
    "title_es": "A Amanda Serrano todavía le queda pelea más que suficiente"
   },
@@ -2483,7 +2554,7 @@
     "Anthony Joshua"
    ],
    "score": 75,
-   "sources_n": 12
+   "sources_n": 13
   },
   {
    "title": "Jake Paul to 'hang up the gloves,' retire from boxing if he loses Dec. 24 comeback against Cedric Doumbe",
@@ -2562,7 +2633,9 @@
     "Anthony Joshua"
    ],
    "score": 85,
-   "sources_n": 8
+   "sources_n": 8,
+   "title_it": "Il padre di Tyson Fury fa un'ammissione preoccupante prima della lotta di Anthony Joshua",
+   "title_es": "El padre de Tyson Fury hace una confesión preocupante antes de la pelea con Anthony Joshua"
   },
   {
    "title": "Darren Till destroys Jake Paul after being snubbed for fight",
@@ -2618,7 +2691,9 @@
     "Anthony Joshua"
    ],
    "score": 85,
-   "sources_n": 11
+   "sources_n": 11,
+   "title_it": "John Fury esprime preoccupazione per l'incontro tra Tyson Fury e Anthony Joshua: \"Non ce la faranno\"",
+   "title_es": "John Fury expresa su preocupación por la pelea entre Tyson Fury y Anthony Joshua: \"No se las arreglarán\""
   },
   {
    "title": "Opetaia Risks Benavidez Fight as Wilder Confirms Fury-AJ Clash",
@@ -2631,7 +2706,7 @@
     "Tyson Fury"
    ],
    "score": 65,
-   "sources_n": 9,
+   "sources_n": 8,
    "title_it": "Opetaia rischia la lotta tra Benavidez mentre Wilder conferma lo scontro Fury-AJ",
    "title_es": "Opetaia arriesga la pelea con Benavidez mientras Wilder confirma el choque entre Fury y AJ"
   },
@@ -2647,7 +2722,9 @@
     "Anthony Joshua"
    ],
    "score": 85,
-   "sources_n": 12
+   "sources_n": 12,
+   "title_it": "Deontay Wilder nelle comunicazioni sulla lotta per il titolo nonostante abbia accettato di affrontare Tyson Fury contro Anthony Joshua Bill",
+   "title_es": "Deontay Wilder en las comunicaciones sobre la pelea por el título a pesar de aceptar pelear en el proyecto de ley Tyson Fury vs Anthony Joshua"
   },
   {
    "title": "Oleksandr Usyk changes his prediction for Anthony Joshua vs Tyson Fury",
@@ -2662,7 +2739,9 @@
     "Oleksandr Usyk"
    ],
    "score": 85,
-   "sources_n": 11
+   "sources_n": 11,
+   "title_it": "Oleksandr Usyk cambia la sua previsione per Anthony Joshua vs Tyson Fury",
+   "title_es": "Oleksandr Usyk cambia su predicción para Anthony Joshua vs Tyson Fury"
   },
   {
    "title": "Jermell Charlo to end three-year hiatus for first fight since Canelo Alvarez defeat",
@@ -2688,7 +2767,9 @@
     "Oleksandr Usyk"
    ],
    "score": 85,
-   "sources_n": 11
+   "sources_n": 11,
+   "title_it": "Deontay Wilder spiega perché la lotta di Oleksandr Usyk è crollata per la seconda volta",
+   "title_es": "Deontay Wilder explica por qué la pelea de Oleksandr Usyk se derrumbó por segunda vez"
   },
   {
    "title": "‘I’ve been chased and shot at’: Denzel Bentley on trauma, street violence and brutal boxing politics",
@@ -2768,7 +2849,9 @@
     "Anthony Joshua"
    ],
    "score": 85,
-   "sources_n": 8
+   "sources_n": 8,
+   "title_it": "La scelta del prossimo avversario di Jake Paul la dice lunga su ciò che Anthony Joshua gli ha fatto",
+   "title_es": "La elección de Jake Paul del próximo oponente dice mucho sobre lo que Anthony Joshua le hizo"
   },
   {
    "title": "Zuffa Boxing 12 full fight card, start time, odds, how to watch Chris Billam-Smith vs. Chev Clarke",
@@ -2865,7 +2948,9 @@
     "Anthony Joshua"
    ],
    "score": 85,
-   "sources_n": 11
+   "sources_n": 11,
+   "title_it": "Eddie Hearn afferma che Manny Pacquiao è FUORI DA Tyson Fury contro Anthony Joshua",
+   "title_es": "Eddie Hearn afirma que Manny Pacquiao está FUERA DE LA cartelera de Tyson Fury vs Anthony Joshua"
   },
   {
    "title": "Tyson Fury turns to proven knockout formula for Anthony Joshua showdown",
@@ -2945,7 +3030,9 @@
     "Anthony Joshua"
    ],
    "score": 85,
-   "sources_n": 11
+   "sources_n": 11,
+   "title_it": "Tyson Fury prende una decisione preoccupante per l'enorme incontro con Anthony Joshua",
+   "title_es": "Tyson Fury toma una decisión preocupante para la gran pelea de Anthony Joshua"
   },
   {
    "title": "Jake Paul vs Cedric Doumbe rules including weight, rounds and gloves for Christmas Eve clash",
@@ -3006,7 +3093,9 @@
     "Oleksandr Usyk"
    ],
    "score": 85,
-   "sources_n": 3
+   "sources_n": 3,
+   "title_it": "Il piano di ritorno di Oleksandr Usyk per affrontare l'ostacolo come battaglia da dispiegare sul titolo mondiale vacante",
+   "title_es": "El plan de regreso de Oleksandr Usyk para enfrentar obstáculos mientras se desarrolla la batalla por el título mundial vacante"
   },
   {
    "title": "Canelo Fight No-Show Sparks IBF Title Demand",
@@ -3055,8 +3144,8 @@
    "date": "2026-11-02T08:37:31+00:00",
    "status": "rumor",
    "boxers": [],
-   "score": 25,
-   "sources_n": 1,
+   "score": 35,
+   "sources_n": 2,
    "title_it": "Cosa potrebbe fare la sponsorizzazione di un casinò Katie Taylor per la boxe femminile irlandese",
    "title_es": "Lo que el patrocinio del casino Katie Taylor podría hacer por el boxeo femenino irlandés"
   },
@@ -3121,7 +3210,7 @@
     "Anthony Joshua"
    ],
    "score": 75,
-   "sources_n": 9,
+   "sources_n": 10,
    "title_it": "Joshua Buatsi e la maratona decennale verso un titolo mondiale",
    "title_es": "Joshua Buatsi y el maratón de una década hacia un título mundial"
   },
@@ -3149,7 +3238,9 @@
     "Oleksandr Usyk"
    ],
    "score": 85,
-   "sources_n": 5
+   "sources_n": 5,
+   "title_it": "Oleksandr Usyk rivela il peso attuale mentre conferma il piano per perseguire David Benavidez",
+   "title_es": "Oleksandr Usyk revela el peso actual mientras confirma el plan para perseguir la pelea de David Benavidez"
   },
   {
    "title": "Canelo Alvarez next fight: five potential opponents after Christian Mbilli win",
@@ -3221,17 +3312,6 @@
    "sources_n": 5,
    "title_it": "Oleksandr Usyk conferma che la lotta con David Benavidez è sul tavolo",
    "title_es": "Oleksandr Usyk confirma que la pelea con David Benavidez está sobre la mesa"
-  },
-  {
-   "title": "Canelo Shows He’s Not Done Yet",
-   "link": "https://www.boxinginsider.com/headlines/canelo-shows-hes-not-done-yet/",
-   "source": "Boxing Insider",
-   "lang": "en",
-   "date": "2026-11-01T01:42:30+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 25,
-   "sources_n": 1
   },
   {
    "title": "The Accuracy and Defense of Canelo Prove Too Much for Mbilli",
@@ -3324,8 +3404,8 @@
    "date": "2026-10-31T23:26:06+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 53,
-   "sources_n": 2,
+   "score": 43,
+   "sources_n": 1,
    "title_it": "Canelo Álvarez riconquista il titolo mondiale mentre gli attacchi degli Houthi gettano ombra su Riyadh",
    "title_es": "Canelo Álvarez recupera el título mundial mientras los ataques hutíes ensombrecen Riad"
   },
@@ -3384,17 +3464,6 @@
    "title_es": "Noche de susto: Jaime Munguia sobrevive al susto para retener el título AMB ante Nikita Zon"
   },
   {
-   "title": "Canelo Undercard Results: Munguia Climbs Off the Floor in a Wild Sixth to Beat Zon, Espinoza Stops Blandon, Martin Upsets Picasso in Riyadh",
-   "link": "https://www.boxinginsider.com/headlines/mexico-vs-the-world-results-espinoza-stops-blandon-on-a-cut-martin-upsets-picasso-by-split-decision-in-riyadh/",
-   "source": "Boxing Insider",
-   "lang": "en",
-   "date": "2026-10-31T20:50:13+00:00",
-   "status": "confirmed",
-   "boxers": [],
-   "score": 63,
-   "sources_n": 5
-  },
-  {
    "title": "Canelo Alvarez vs. Christian Mbilli fight predictions and expert picks for epic event in Saudi Arabia",
    "link": "https://www.cbssports.com/boxing/news/canelo-alvarez-vs-christian-mbilli-fight-predictions-expert-picks-odds-undercard/",
    "source": "CBS Sports Boxing",
@@ -3417,8 +3486,8 @@
    "date": "2026-10-31T19:42:14+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 28,
-   "sources_n": 2,
+   "score": 18,
+   "sources_n": 1,
    "title_it": "Rafael Espinoza mantiene il titolo WBO dei pesi piuma con l'interruzione al terzo round di Ricardo Blandon",
    "title_es": "Rafael Espinoza retiene el título pluma de la OMB con nocaut en el tercer asalto sobre Ricardo Blandón"
   },
@@ -3503,7 +3572,9 @@
     "Anthony Joshua"
    ],
    "score": 85,
-   "sources_n": 12
+   "sources_n": 12,
+   "title_it": "Deontay Wilder accetta di combattere su Tyson Fury vs Anthony Joshua undercard",
+   "title_es": "Deontay Wilder acepta pelear en la cartelera de Tyson Fury vs Anthony Joshua"
   },
   {
    "title": "Report: Deontay Wilder and Jai Opetaia agree to fight on Fury-Joshua undercard",
@@ -3669,7 +3740,9 @@
     "Canelo Alvarez"
    ],
    "score": 85,
-   "sources_n": 10
+   "sources_n": 10,
+   "title_it": "Canelo Alvarez e Christian Mbilli sembrano triturati mentre la coppia fa peso per lo scontro saudita",
+   "title_es": "Canelo Alvarez y Christian Mbilli se ven destrozados mientras la pareja hace peso para el choque saudí"
   },
   {
    "title": "Terence Crawford’s retirement has left a void in boxing but there is a superstar ready to fill it",
@@ -3707,7 +3780,9 @@
     "Anthony Joshua"
    ],
    "score": 85,
-   "sources_n": 11
+   "sources_n": 11,
+   "title_it": "Joe Cordina se n' è andato nel limbo per l'incontro tra Manny Pacquiao e Tyson Fury contro Anthony Joshua Bill",
+   "title_es": "Joe Cordina quedó en el limbo por la pelea de Manny Pacquiao en el proyecto de ley Tyson Fury vs Anthony Joshua"
   },
   {
    "title": "James DeGale fights back tears as he makes emotional admission about retirement",
@@ -3744,7 +3819,9 @@
     "Canelo Alvarez"
    ],
    "score": 85,
-   "sources_n": 10
+   "sources_n": 10,
+   "title_it": "Canelo Alvarez vs Christian Mbilli ha confermato il tempo, l'undercard completa e dove guardare la lotta per il titolo mondiale",
+   "title_es": "Canelo Alvarez vs Christian Mbilli confirmó el tiempo, la cartelera completa y dónde ver la pelea por el título mundial"
   },
   {
    "title": "Canelo Alvarez planning quick turnaround fight after Christian Mbilli showdown",
@@ -3757,7 +3834,9 @@
     "Canelo Alvarez"
    ],
    "score": 85,
-   "sources_n": 10
+   "sources_n": 10,
+   "title_it": "Canelo Alvarez pianifica un combattimento rapido dopo la resa dei conti di Christian Mbilli",
+   "title_es": "Canelo Álvarez planea una pelea rápida después del enfrentamiento con Christian Mbilli"
   },
   {
    "title": "El campeón Mbilli ve a Canelo en declive y lo da por sentenciado",
@@ -3938,120 +4017,6 @@
    ],
    "score": 85,
    "sources_n": 10
-  },
-  {
-   "title": "Amanda Serrano, la 'Million Dollar Baby' del boxeo, colgará los guantes en enero",
-   "link": "https://www.marca.com/boxeo/2026/10/28/amanda-serrano-million-dollar-baby-boxeo-colgara-guantes-enero.html",
-   "source": "Marca Boxeo",
-   "lang": "es",
-   "date": "2026-10-28T15:24:52+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 55,
-   "sources_n": 4,
-   "title_it": "Amanda Serrano, la 'Million Dollar Baby' della boxe, appenderà i guantoni al chiodo a gennaio",
-   "title_es": "Amanda Serrano, la 'Million Dollar Baby' del boxeo, colgará los guantes en enero"
-  },
-  {
-   "title": "Amanda Serrano final fight announced as legend to receive historic homecoming farewell",
-   "link": "https://talksport.com/boxing/4672821/amanda-serrano-final-fight-announced-homecoming-retirement/",
-   "source": "Talksport Boxing",
-   "lang": "en",
-   "date": "2026-10-28T11:36:17+00:00",
-   "status": "confirmed",
-   "boxers": [],
-   "score": 65,
-   "sources_n": 4
-  },
-  {
-   "title": "Teen fighting for life identified after Brisbane boxing night mass shooting - as event official speaks out",
-   "link": "https://www.dailymail.com/sport/boxing/article-16238589/boxing-shooting-woman-logan.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-   "source": "Daily Mail Boxing",
-   "lang": "en",
-   "date": "2026-10-28T11:22:01+00:00",
-   "status": "confirmed",
-   "boxers": [],
-   "score": 10,
-   "sources_n": 1
-  },
-  {
-   "title": "Tyson Fury vs Anthony Joshua special travel measures planned as organisers brace for late start",
-   "link": "https://talksport.com/boxing/4672511/tyson-fury-anthony-joshua-travel-measures/",
-   "source": "Talksport Boxing",
-   "lang": "en",
-   "date": "2026-10-28T10:39:11+00:00",
-   "status": "unverified",
-   "boxers": [
-    "Tyson Fury",
-    "Anthony Joshua"
-   ],
-   "score": 85,
-   "sources_n": 11
-  },
-  {
-   "title": "Canelo vs. Mbilli: dónde ver en directo en TV y online, cartelera y a qué hora es el combate en España",
-   "link": "https://www.marca.com/boxeo/2026/10/27/canelo-vs-mbilli-ver-directo-tv-online-cartelera-hora-combate-espana.html",
-   "source": "Marca Boxeo",
-   "lang": "es",
-   "date": "2026-10-27T18:58:27+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 55,
-   "sources_n": 10,
-   "title_it": "Canelo vs Mbilli: dove guardare in diretta TV e online, cartellone e a che ora è la lotta in Spagna",
-   "title_es": "Canelo vs. Mbilli: dónde ver en directo en TV y online, cartelera y a qué hora es el combate en España"
-  },
-  {
-   "title": "Canelo Alvarez vs Christian Mbilli predictions including from Devin Haney and Terence Crawford",
-   "link": "https://talksport.com/boxing/4671761/canelo-alvarez-christian-mbilli-predictions-devin-haney-terence-crawford/",
-   "source": "Talksport Boxing",
-   "lang": "en",
-   "date": "2026-10-27T18:17:02+00:00",
-   "status": "unverified",
-   "boxers": [
-    "Canelo Alvarez"
-   ],
-   "score": 85,
-   "sources_n": 11
-  },
-  {
-   "title": "Nace Pro Boxing España, la gran ventana para el boxeo profesional español",
-   "link": "https://www.marca.com/boxeo/2026/10/27/nace-pro-boxing-espana-gran-ventana-boxeo-profesional-espanol.html",
-   "source": "Marca Boxeo",
-   "lang": "es",
-   "date": "2026-10-27T17:21:10+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 10,
-   "sources_n": 2,
-   "title_it": "Nasce Pro Boxing Spain, la grande vetrina della boxe professionistica spagnola",
-   "title_es": "Nace Pro Boxing España, la gran ventana para el boxeo profesional español"
-  },
-  {
-   "title": "Nace Pro Boxing España, la gran ventana que abre la Federación para el boxeo profesional español",
-   "link": "https://www.marca.com/boxeo/2026/10/27/nace-pro-boxing-espana-gran-ventana-boxeo-profesional-espanol.html",
-   "source": "Marca Boxeo 2",
-   "lang": "es",
-   "date": "2026-10-27T17:20:52+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 10,
-   "sources_n": 2,
-   "title_it": "Nasce Pro Boxing Spain, la grande vetrina della boxe professionistica spagnola",
-   "title_es": "Nace Pro Boxing España, la gran ventana que abre la Federación para el boxeo profesional español"
-  },
-  {
-   "title": "Doble atropello mortal del exboxeador puertorriqueño Carlos 'El Topo' Gerena",
-   "link": "https://www.marca.com/boxeo/2026/10/27/doble-atropello-mortal-exboxeador-puertorriqueno-carlos-topo-gerena.html",
-   "source": "Marca Boxeo",
-   "lang": "es",
-   "date": "2026-10-27T17:19:35+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 0,
-   "sources_n": 1,
-   "title_it": "Doppio attacco mortale all'ex pugile portoricano Carlos 'El Topo' Gerena",
-   "title_es": "Doble atropello mortal del exboxeador puertorriqueño Carlos 'El Topo' Gerena"
   }
  ]
 }
