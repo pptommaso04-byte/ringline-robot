@@ -1,13 +1,17 @@
 name: Robot Ringline
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "*/15 * * * *"
   workflow_dispatch: {}
 permissions:
   contents: write
+concurrency:
+  group: robot-ringline
+  cancel-in-progress: false
 jobs:
   run:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -19,5 +23,7 @@ jobs:
         run: |
           git config user.name "ringline-robot"
           git config user.email "robot@users.noreply.github.com"
-          git add data/news.json data/log.txt
-          git diff --staged --quiet || git commit -m "aggiornamento notizie" && git push
+          git add data
+          if git diff --staged --quiet; then exit 0; fi
+          git commit -m "aggiornamento notizie"
+          for i in 1 2 3; do git pull --rebase -X theirs origin main && git push && break || sleep 5; done
