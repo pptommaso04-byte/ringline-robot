@@ -1,0 +1,91 @@
+{
+ "Oleksandr Usyk": {
+  "slug": "oleksandr-usyk",
+  "updated": "2026-11-09T00:55:24+00:00",
+  "total": 25,
+  "verified": 25,
+  "record": {
+   "w": 25,
+   "l": 0,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "it",
+   "fr"
+  ]
+ },
+ "Tyson Fury": {
+  "slug": "tyson-fury",
+  "updated": "2026-11-09T00:55:27+00:00",
+  "total": 39,
+  "verified": 39,
+  "record": {
+   "w": 36,
+   "l": 2,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "it",
+   "fr",
+   "pt"
+  ]
+ },
+ "Anthony Joshua": {
+  "slug": "anthony-joshua",
+  "updated": "2026-11-09T00:55:29+00:00",
+  "total": 34,
+  "verified": 34,
+  "record": {
+   "w": 30,
+   "l": 4,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "it",
+   "es",
+   "fr"
+  ]
+ },
+ "Naoya Inoue": {
+  "slug": "naoya-inoue",
+  "updated": "2026-11-09T00:55:32+00:00",
+  "total": 33,
+  "verified": 33,
+  "record": {
+   "w": 33,
+   "l": 0,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "it",
+   "es",
+   "pt"
+  ]
+ },
+ "Canelo Álvarez": {
+  "slug": "canelo-alvarez",
+  "updated": "2026-11-09T00:55:34+00:00",
+  "total": 69,
+  "verified": 69,
+  "record": {
+   "w": 64,
+   "l": 3,
+   "d": 2,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "it",
+   "es",
+   "fr"
+  ]
+ }
+}
