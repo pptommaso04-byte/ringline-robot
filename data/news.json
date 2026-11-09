@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T16:01:10+00:00",
+ "updated": "2026-11-09T16:05:32+00:00",
  "feeds_ok": 36,
  "feeds_failed": 5,
  "news": [
@@ -529,7 +529,7 @@
    "date": "2026-11-09T04:04:13+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 59,
+   "score": 58,
    "sources_n": 2,
    "title_it": "Due incontri aggiunti alla undercard Lara vs Tszyu",
    "title_es": "Dos peleas agregadas a la cartelera Lara vs Tszyu"
@@ -753,7 +753,7 @@
     "Joshua Buatsi",
     "Anthony Joshua"
    ],
-   "score": 82,
+   "score": 81,
    "sources_n": 9,
    "title_it": "Hutchinson dice che Joshua Buatsi è troppo grande per 175",
    "title_es": "Hutchinson dice que Joshua Buatsi es demasiado grande para 175"
@@ -3897,19 +3897,6 @@
    "title_es": "Canelo Álvarez vuelve a ser campeón: RESULTADO y reacción cuando la leyenda gana la remontada"
   },
   {
-   "title": "Fright Night: Jaime Munguia survives scare to retain WBA title against Nikita Zon",
-   "link": "https://www.boxingscene.com/articles/fright-night-jaime-munguia-survives-scare-to-retain-wba-title-against-nikita-zon",
-   "source": "Boxing Scene",
-   "lang": "en",
-   "date": "2026-10-31T21:55:46+00:00",
-   "status": "confirmed",
-   "boxers": [],
-   "score": 18,
-   "sources_n": 1,
-   "title_it": "Fright Night: Jaime Munguia sopravvive allo spavento per mantenere il titolo WBA contro Nikita Zon",
-   "title_es": "Noche de susto: Jaime Munguia sobrevive al susto para retener el título AMB ante Nikita Zon"
-  },
-  {
    "title": "Canelo Alvarez vs. Christian Mbilli fight predictions and expert picks for epic event in Saudi Arabia",
    "link": "https://www.cbssports.com/boxing/news/canelo-alvarez-vs-christian-mbilli-fight-predictions-expert-picks-odds-undercard/",
    "source": "CBS Sports Boxing",
@@ -4209,6 +4196,21 @@
    "sources_n": 5,
    "title_it": "Tommy Fury rilascia una dichiarazione in cui spiega perché il combattimento tra Jake Paul non avrà luogo",
    "title_es": "Tommy Fury publica una declaración que explica por qué la pelea con Jake Paul no se llevará a cabo"
+  },
+  {
+   "title": "Canelo Alvarez vs Christian Mbilli confirmed time, full undercard and where to watch world title fight",
+   "link": "https://talksport.com/boxing/4290724/canelo-alvarez-vs-christian-mbilli-undercard-date-time-where-to-watch/",
+   "source": "Talksport Boxing",
+   "lang": "en",
+   "date": "2026-10-30T10:41:13+00:00",
+   "status": "confirmed",
+   "boxers": [
+    "Canelo Alvarez"
+   ],
+   "score": 85,
+   "sources_n": 10,
+   "title_it": "Canelo Alvarez vs Christian Mbilli hanno confermato l'orario, l'undercard completo e dove guardare la lotta per il titolo mondiale",
+   "title_es": "Canelo Alvarez vs Christian Mbilli hora confirmada, cartelera completa y dónde ver la pelea por el título mundial"
   }
  ]
 }
