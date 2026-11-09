@@ -420,5 +420,91 @@
    "fr",
    "pt"
   ]
+ },
+ "Shakur Stevenson": {
+  "slug": "shakur-stevenson",
+  "updated": "2026-11-09T01:21:48+00:00",
+  "total": 25,
+  "verified": 23,
+  "record": {
+   "w": 25,
+   "l": 0,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "es",
+   "fr",
+   "pt"
+  ]
+ },
+ "Teófimo López": {
+  "slug": "teofimo-lopez",
+  "updated": "2026-11-09T01:21:53+00:00",
+  "total": 25,
+  "verified": 23,
+  "record": {
+   "w": 23,
+   "l": 2,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "it",
+   "es"
+  ]
+ },
+ "Jake Paul": {
+  "slug": "jake-paul",
+  "updated": "2026-11-09T01:22:02+00:00",
+  "total": 14,
+  "verified": 14,
+  "record": {
+   "w": 12,
+   "l": 2,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "it",
+   "es",
+   "fr",
+   "pt"
+  ]
+ },
+ "Moses Itauma": {
+  "slug": "moses-itauma",
+  "updated": "2026-11-09T01:22:06+00:00",
+  "total": 15,
+  "verified": 14,
+  "record": {
+   "w": 14,
+   "l": 1,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "it"
+  ]
+ },
+ "Christian Mbilli": {
+  "slug": "christian-mbilli",
+  "updated": "2026-11-09T01:22:09+00:00",
+  "total": 31,
+  "verified": 0,
+  "record": {
+   "w": 29,
+   "l": 1,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "es"
+  ]
  }
 }
