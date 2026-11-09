@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-09T22:31:02+00:00",
- "feeds_ok": 36,
- "feeds_failed": 5,
+ "updated": "2026-11-09T22:35:44+00:00",
+ "feeds_ok": 35,
+ "feeds_failed": 6,
  "news": [
   {
    "title": "Christopher Diaz faces Alan Chaves in Orlando in December",
@@ -118,7 +118,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 113,
+   "score": 112,
    "sources_n": 11,
    "title_it": "Eddie Hearn solleva il coperchio sul prossimo obiettivo di Anthony Joshua dopo lo scontro con Tyson Fury",
    "title_es": "Eddie Hearn levanta la tapa sobre el próximo objetivo de Anthony Joshua después del enfrentamiento con Tyson Fury"
@@ -1321,7 +1321,7 @@
    "date": "2026-11-07T22:33:10+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 6,
+   "score": 5,
    "sources_n": 1,
    "title_it": "Momento terrificante: il combattente a mani nude viene brutalmente messo KO e cade sulla tela come una statua",
    "title_es": "Aterrador momento en que un luchador con los nudillos desnudos es brutalmente noqueado y cae a la lona como una estatua."
@@ -1337,7 +1337,7 @@
     "Denzel Bentley",
     "Shane Mosley Jr"
    ],
-   "score": 91,
+   "score": 90,
    "sources_n": 6,
    "title_it": "Denzel Bentley supera l'implacabile Shane Mosley Jr prima di chiamare Conor Benn per la battaglia della Battaglia d'Inghilterra",
    "title_es": "Denzel Bentley vence al implacable Shane Mosley Jr antes de convocar a Conor Benn para la pelea de la Batalla de Inglaterra"
@@ -1489,7 +1489,7 @@
    "date": "2026-11-07T16:32:08+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 33,
+   "score": 32,
    "sources_n": 7,
    "title_it": "Elif Nur Turhan contro Alycia Baumgardner, citazioni della conferenza stampa e previsione della lotta",
    "title_es": "Citas de la conferencia de prensa y predicción de la pelea de Elif Nur Turhan vs.Alycia Baumgardner"
@@ -2389,8 +2389,8 @@
    "date": "2026-11-05T20:08:45+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 83,
-   "sources_n": 2,
+   "score": 73,
+   "sources_n": 1,
    "title_it": "Devin Haney ha annunciato la lotta per l'unificazione del titolo dopo il crollo dell'incontro di Shakur Stevenson",
    "title_es": "Se anuncia la pelea de unificación del título de Devin Haney después del colapso de la pelea de Shakur Stevenson"
   },
@@ -2461,19 +2461,6 @@
    "sources_n": 10,
    "title_it": "Deontay Wilder “salva” la boxe dei pesi massimi contro i pesi da crociera",
    "title_es": "Deontay Wilder 'salva' el boxeo de peso pesado contra el peso crucero"
-  },
-  {
-   "title": "‘My resume speaks for itself’: Devin Haney talks Dec. 19 title unification with Liam Paro",
-   "link": "https://www.badlefthook.com/boxing-news/120191/my-resume-speaks-for-itself-devin-haney-talks-dec-19-title-unification-with-liam-paro",
-   "source": "Bad Left Hook",
-   "lang": "en",
-   "date": "2026-11-05T16:56:38-05:00",
-   "status": "rumor",
-   "boxers": [],
-   "score": 73,
-   "sources_n": 2,
-   "title_it": "\"Il mio curriculum parla da solo\": Devin Haney parla dell'unificazione del titolo del 19 dicembre con Liam Paro",
-   "title_es": "‘Mi currículum habla por sí solo’: Devin Haney habla sobre la unificación del título del 19 de diciembre con Liam Paro"
   },
   {
    "title": "Chris Billam-Smith credits Cheavon Clarke defeat for his world title success",
@@ -4201,6 +4188,19 @@
    "sources_n": 11,
    "title_it": "Joe Cordina è rimasto nel limbo per la lotta tra Manny Pacquiao su Tyson Fury e Anthony Joshua Bill",
    "title_es": "Joe Cordina quedó en el limbo por la pelea de Manny Pacquiao en el proyecto de ley Tyson Fury vs Anthony Joshua"
+  },
+  {
+   "title": "James DeGale fights back tears as he makes emotional admission about retirement",
+   "link": "https://talksport.com/boxing/4677749/james-degale-tears-retirement/",
+   "source": "Talksport Boxing",
+   "lang": "en",
+   "date": "2026-10-30T12:33:01+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 0,
+   "sources_n": 1,
+   "title_it": "James DeGale trattiene le lacrime mentre ammette con emozione la pensione",
+   "title_es": "James DeGale lucha contra las lágrimas mientras admite con emoción su jubilación"
   }
  ]
 }
