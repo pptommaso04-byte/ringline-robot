@@ -506,5 +506,85 @@
    "en",
    "es"
   ]
+ },
+ "Diego Pacheco": {
+  "slug": "diego-pacheco",
+  "updated": "2026-11-09T01:25:41+00:00",
+  "total": 26,
+  "verified": 0,
+  "record": {
+   "w": 26,
+   "l": 0,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Callum Smith": {
+  "slug": "callum-smith",
+  "updated": "2026-11-09T01:25:48+00:00",
+  "total": 33,
+  "verified": 0,
+  "record": {
+   "w": 31,
+   "l": 2,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "es"
+  ]
+ },
+ "Conor Benn": {
+  "slug": "conor-benn",
+  "updated": "2026-11-09T01:25:53+00:00",
+  "total": 27,
+  "verified": 25,
+  "record": {
+   "w": 25,
+   "l": 2,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "it",
+   "es",
+   "fr"
+  ]
+ },
+ "Chris Eubank Jr.": {
+  "slug": "chris-eubank-jr",
+  "updated": "2026-11-09T01:25:59+00:00",
+  "total": 39,
+  "verified": 0,
+  "record": {
+   "w": 35,
+   "l": 4,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "it"
+  ]
+ },
+ "Hamzah Sheeraz": {
+  "slug": "hamzah-sheeraz",
+  "updated": "2026-11-09T01:26:03+00:00",
+  "total": 25,
+  "verified": 0,
+  "record": {
+   "w": 24,
+   "l": 0,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
