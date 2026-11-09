@@ -1,8 +1,21 @@
 {
- "updated": "2026-11-09T13:11:21+00:00",
+ "updated": "2026-11-09T13:15:47+00:00",
  "feeds_ok": 36,
  "feeds_failed": 5,
  "news": [
+  {
+   "title": "Norris: McLaren still not at championship level",
+   "link": "https://www.skysports.com/f1/news/12040/13610144/lando-norris-says-mclaren-are-still-not-at-the-level-to-fight-for-world-championship-in-2027-despite-sao-paulo-grand-prix-win",
+   "source": "Sky Sports Boxing",
+   "lang": "en",
+   "date": "2026-11-09T12:55:00+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 29,
+   "sources_n": 1,
+   "title_it": "Norris: McLaren ancora non a livello di campionato",
+   "title_es": "Norris: McLaren aún no está al nivel del campeonato"
+  },
   {
    "title": "Conor McGregor’s bare-knuckle boxer leaves rival motionless in one of most chilling KOs of year",
    "link": "https://talksport.com/boxing/4694487/bare-knuckle-boxer-ko-conor-mcgregor-bkfc-96-glasgow/",
@@ -78,8 +91,8 @@
    "date": "2026-11-09T11:32:29+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 29,
-   "sources_n": 1,
+   "score": 39,
+   "sources_n": 2,
    "title_it": "Trujillo e Castan per UBO Super Welterweight Title",
    "title_es": "Trujillo y Castan por el título superwelter de la UBO"
   },
@@ -535,7 +548,7 @@
    "date": "2026-11-08T21:14:36+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 47,
+   "score": 46,
    "sources_n": 1,
    "title_it": "Canelo Payday ricompenserebbe l'anatra Janibek di Sheeraz",
    "title_es": "Canelo Payday recompensaría al pato Janibek de Sheeraz"
@@ -830,7 +843,7 @@
    "date": "2026-11-08T09:12:48+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 34,
+   "score": 33,
    "sources_n": 2,
    "title_it": "Il dottore interrompe la lotta per il titolo mentre il pugile \"sembra un elefante\"",
    "title_es": "El médico detiene la pelea por el título mientras el boxeador \"se parece al hombre elefante\""
@@ -901,7 +914,7 @@
     "Anthony Joshua"
    ],
    "score": 100,
-   "sources_n": 9,
+   "sources_n": 8,
    "title_it": "I messaggi di testo trapelati di Anthony Joshua sono un avvertimento a Tyson Fury",
    "title_es": "Los mensajes de texto filtrados de Anthony Joshua advierten a Tyson Fury"
   },
@@ -939,7 +952,7 @@
    "date": "2026-11-08T07:15:31+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 40,
+   "score": 39,
    "sources_n": 1,
    "title_it": "Benavidez rivendica la velocità Cruiserweight, ma gli uomini più grandi portano problemi più grandi",
    "title_es": "Benavidez reclama velocidad de crucero, pero los hombres más grandes traen problemas más grandes"
@@ -1000,21 +1013,6 @@
    "title_es": "Da'Mazion Vanhouter Detiene Balaz, Ojos Blancos Tarjeta Joshua-Fury"
   },
   {
-   "title": "Deontay Wilder-Jai Opetaia: Tyson Fury Has Things To Say",
-   "link": "https://www.boxinginsider.com/headlines/deontay-wilder-jai-opetaia-tyson-fury-has-things-to-say/",
-   "source": "Boxing Insider",
-   "lang": "en",
-   "date": "2026-11-08T04:07:27+00:00",
-   "status": "unverified",
-   "boxers": [
-    "Tyson Fury"
-   ],
-   "score": 98,
-   "sources_n": 11,
-   "title_it": "Deontay Wilder-Jai Opetaia: Tyson Fury ha cose da dire",
-   "title_es": "Deontay Wilder-Jai Opetaia: Tyson Fury tiene cosas que decir"
-  },
-  {
    "title": "Dana White’s Shakur Split Weakens His American Boxing Plan",
    "link": "https://www.boxingnews24.com/2026/11/dana-whites-shakur-split-weakens-his-american-boxing-plan/",
    "source": "Boxing News 24",
@@ -1026,19 +1024,6 @@
    "sources_n": 4,
    "title_it": "Shakur Split di Dana White indebolisce il suo piano di boxe americano",
    "title_es": "La separación de Shakur de Dana White debilita su plan de boxeo estadounidense"
-  },
-  {
-   "title": "The Return Of Vasyl Lomachenko",
-   "link": "https://www.boxinginsider.com/headlines/the-return-of-vasyl-lomachenko/",
-   "source": "Boxing Insider",
-   "lang": "en",
-   "date": "2026-11-08T02:26:26+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 20,
-   "sources_n": 1,
-   "title_it": "Il ritorno di Vasyl Lomachenko",
-   "title_es": "El regreso de Vasyl Lomachenko"
   },
   {
    "title": "Elif Nur Turhan Defends Her IBF Title Against Alycia Baumgardner",
@@ -1166,7 +1151,7 @@
    "date": "2026-11-07T23:14:33+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 49,
+   "score": 48,
    "sources_n": 8,
    "title_it": "Cheavon Clarke stordisce Chris Billam-Smith con un KO brutale per risolvere la rivalità",
    "title_es": "Cheavon Clarke aturde a Chris Billam-Smith con un brutal nocaut para resolver la rivalidad"
@@ -1372,7 +1357,7 @@
    "date": "2026-11-07T19:13:36+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 47,
+   "score": 46,
    "sources_n": 9,
    "title_it": "Zach Parker ha foldato con un disgustoso KO con un colpo al corpo sulla carta di Zuffa Boxing per mandare in frantumi le speranze di titolo",
    "title_es": "Zach Parker falló en un repugnante KO con un golpe al cuerpo en la cartelera de Zuffa Boxing para destruir las esperanzas de título"
@@ -1534,7 +1519,7 @@
    "date": "2026-11-07T11:12:18+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 35,
+   "score": 34,
    "sources_n": 9,
    "title_it": "Chris Billam-Smith vs Cheavon Clarke: data, ora, canale TV, live streaming e scheda COMPLETA per l'evento di boxe Zuffa a Londra",
    "title_es": "Chris Billam-Smith vs Cheavon Clarke: fecha, hora, canal de televisión, transmisión en vivo y tarjeta COMPLETA para el evento de boxeo de Zuffa en Londres"
@@ -1666,7 +1651,7 @@
     "Oleksandr Usyk"
    ],
    "score": 88,
-   "sources_n": 9,
+   "sources_n": 8,
    "title_it": "Tyson Fury reagisce allo snobbamento della trilogia di Oleksandr Usyk",
    "title_es": "Tyson Fury responde al desaire de la trilogía de Oleksandr Usyk"
   },
@@ -1958,7 +1943,7 @@
     "Tyson Fury"
    ],
    "score": 65,
-   "sources_n": 9,
+   "sources_n": 8,
    "title_it": "Tyson Fury mostra un occhio nero tra le preoccupazioni per le lesioni",
    "title_es": "Tyson Fury muestra un ojo morado en medio de preocupaciones por lesiones"
   },
@@ -3627,8 +3612,8 @@
    "date": "2026-11-02T11:17:05+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 45,
-   "sources_n": 2,
+   "score": 55,
+   "sources_n": 3,
    "title_it": "Canelo Fight No-Show Sparks IBF Title Demand",
    "title_es": "Canelo Fight No-Show despierta la demanda del título de la FIB"
   },
@@ -3805,8 +3790,8 @@
    "date": "2026-11-01T12:07:43+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 63,
-   "sources_n": 3,
+   "score": 73,
+   "sources_n": 4,
    "title_it": "Turki snobba Canelo, a malapena guarda la vittoria del titolo mondiale da $47 milioni",
    "title_es": "Turki rechaza a Canelo, apenas ve ganar el título mundial de 47 millones de $"
   },
@@ -4022,6 +4007,19 @@
    "title_es": "Canelo Álvarez vuelve a ser campeón: RESULTADO y reacción cuando la leyenda gana la remontada"
   },
   {
+   "title": "Canelo Beats Mbilli by Unanimous Decision to Win Back the WBC Super Middleweight Title in Riyadh",
+   "link": "https://www.boxinginsider.com/headlines/canelo-beats-mbilli-by-unanimous-decision-to-win-back-the-wbc-super-middleweight-title-in-riyadh/",
+   "source": "Boxing Insider",
+   "lang": "en",
+   "date": "2026-10-31T22:57:34+00:00",
+   "status": "confirmed",
+   "boxers": [],
+   "score": 73,
+   "sources_n": 11,
+   "title_it": "Canelo batte Mbilli per decisione unanime di riconquistare il titolo WBC Super Middleweight a Riyadh",
+   "title_es": "Canelo vence a Mbilli por decisión unánime para recuperar el título supermediano del CMB en Riad"
+  },
+  {
    "title": "Fright Night: Jaime Munguia survives scare to retain WBA title against Nikita Zon",
    "link": "https://www.boxingscene.com/articles/fright-night-jaime-munguia-survives-scare-to-retain-wba-title-against-nikita-zon",
    "source": "Boxing Scene",
@@ -4033,6 +4031,19 @@
    "sources_n": 1,
    "title_it": "Fright Night: Jaime Munguia sopravvive allo spavento per mantenere il titolo WBA contro Nikita Zon",
    "title_es": "Noche de susto: Jaime Munguia sobrevive al susto para retener el título AMB ante Nikita Zon"
+  },
+  {
+   "title": "Canelo Undercard Results: Munguia Climbs Off the Floor in a Wild Sixth to Beat Zon, Espinoza Stops Blandon, Martin Upsets Picasso in Riyadh",
+   "link": "https://www.boxinginsider.com/headlines/mexico-vs-the-world-results-espinoza-stops-blandon-on-a-cut-martin-upsets-picasso-by-split-decision-in-riyadh/",
+   "source": "Boxing Insider",
+   "lang": "en",
+   "date": "2026-10-31T20:50:13+00:00",
+   "status": "confirmed",
+   "boxers": [],
+   "score": 63,
+   "sources_n": 4,
+   "title_it": "Risultati Canelo Undercard: Munguia si arrampica sul pavimento in un Wild Sixth per battere Zon, Espinoza ferma Blandon, Martin sconvolge Picasso a Riyadh",
+   "title_es": "Resultados de la cartelera de Canelo: Munguía se levanta del suelo en una sexta salvaje para vencer a Zon, Espinoza detiene a Blandon, Martin molesta a Picasso en Riad"
   },
   {
    "title": "Canelo Alvarez vs. Christian Mbilli fight predictions and expert picks for epic event in Saudi Arabia",
@@ -4057,8 +4068,8 @@
    "date": "2026-10-31T19:42:14+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 18,
-   "sources_n": 1,
+   "score": 28,
+   "sources_n": 2,
    "title_it": "Rafael Espinoza mantiene il titolo WBO dei pesi piuma con l'interruzione al terzo round di Ricardo Blandon",
    "title_es": "Rafael Espinoza retiene el título pluma de la OMB con nocaut en el tercer asalto sobre Ricardo Blandón"
   },
@@ -4191,19 +4202,6 @@
    "sources_n": 12,
    "title_it": "Deontay Wilder ora sfavorisce un Cruiserweight su carta Fury-AJ",
    "title_es": "Deontay Wilder ahora es el perdedor de un peso crucero en la tarjeta Fury-AJ"
-  },
-  {
-   "title": "Why a boxer barred from becoming champion is being honoured",
-   "link": "https://www.bbc.co.uk/news/articles/c6jdmjd8432yo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport Boxing",
-   "lang": "en",
-   "date": "2026-10-31T07:15:35+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 0,
-   "sources_n": 1,
-   "title_it": "Perché un pugile a cui è stato impedito di diventare campione viene onorato",
-   "title_es": "Por qué se honra a un boxeador al que se le prohibió convertirse en campeón"
   }
  ]
 }
