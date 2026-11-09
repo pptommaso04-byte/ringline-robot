@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-09T04:20:45+00:00",
- "feeds_ok": 36,
- "feeds_failed": 5,
+ "updated": "2026-11-09T04:25:47+00:00",
+ "feeds_ok": 35,
+ "feeds_failed": 6,
  "news": [
   {
    "title": "Skye Nicolson Looks SHARP For World Title Fight Vs Yoshida 💨",
@@ -465,8 +465,8 @@
    "date": "2026-11-08T10:00:02+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 75,
-   "sources_n": 2,
+   "score": 65,
+   "sources_n": 1,
    "title_it": "Diego Pacheco vs Darius Fulghum: pronostico e scheda di combattimento per il 14 novembre",
    "title_es": "Diego Pacheco vs Darius Fulghum: Predicción y carta de pelea para el 14 de noviembre"
   },
@@ -549,19 +549,6 @@
    "sources_n": 1,
    "title_it": "Una rissa di massa esplode sul ring dopo l'ultima campanella con persone che si rincorrono in scene caotiche",
    "title_es": "La pelea masiva estalla en el ring de boxeo después de la campana final con personas persiguiéndose entre sí en escenas caóticas"
-  },
-  {
-   "title": "Diego Pacheco, Carlos Adames, Anthony Olascuaga, and more: Boxing schedule and previews for November 12-14, 2026",
-   "link": "https://www.badlefthook.com/boxing-schedule/120244/how-to-watch-diego-pacheco-darius-fulghum-carlos-adames-anthony-olascuaga-streaming-tv-schedule-boxing-news-2026",
-   "source": "Bad Left Hook",
-   "lang": "en",
-   "date": "2026-11-08T08:02:15-05:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 97,
-   "sources_n": 4,
-   "title_it": "Diego Pacheco, Carlos Adames, Anthony Olascuaga e altri: programma di boxe e anteprime per il 12-14 novembre 2026",
-   "title_es": "Diego Pacheco, Carlos Adames, Anthony Olascuaga y más: Calendario y previas del boxeo del 12 al 14 de noviembre de 2026"
   },
   {
    "title": "Anthony Joshua's leaked text messages are warning to Tyson Fury",
@@ -2639,6 +2626,22 @@
    "sources_n": 10,
    "title_it": "Nella vittoria di Canelo Alvarez su Christian Mbilli, il vecchio è di nuovo nuovo",
    "title_es": "En la victoria de Canelo Álvarez sobre Christian Mbilli, lo viejo vuelve a ser nuevo"
+  },
+  {
+   "title": "Jai Opetaia vs Deontay Wilder joins Fury vs Joshua",
+   "link": "https://www.badlefthook.com/boxing-news/120181/jai-opetaia-vs-deontay-wilder-joins-fury-vs-joshua",
+   "source": "Bad Left Hook",
+   "lang": "en",
+   "date": "2026-11-04T13:23:35-05:00",
+   "status": "unverified",
+   "boxers": [
+    "Tyson Fury",
+    "Anthony Joshua"
+   ],
+   "score": 65,
+   "sources_n": 11,
+   "title_it": "Jai Opetaia contro Deontay Wilder si unisce a Fury contro Joshua",
+   "title_es": "Jai Opetaia vs Deontay Wilder se une a Fury vs Joshua"
   },
   {
    "title": "Oliver McCall, 61, wins again as questions linger over sanctioning of heavyweight bout",
