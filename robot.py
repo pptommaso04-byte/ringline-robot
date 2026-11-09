@@ -12,6 +12,7 @@ Uso:  python3 robot.py            (una volta)
       python3 robot.py --loop 60  (ogni 60 minuti, senza fine)
 """
 import json, re, sys, time, hashlib, html, urllib.request, urllib.parse, xml.etree.ElementTree as ET
+from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
 from pathlib import Path
@@ -87,7 +88,7 @@ def translate(text, tl):
         except Exception: pass
     return None
 
-def add_translations(news, limit=40):
+def add_translations(news, limit=60):
     """Riusa le traduzioni gia' fatte (lette dal news.json precedente) e traduce solo le nuove."""
     old = {}
     try:
@@ -95,7 +96,7 @@ def add_translations(news, limit=40):
             old[o["link"]] = o
     except Exception: pass
     done = fail = 0
-    for n in news:
+    for n in sorted(news, key=lambda x: -x.get("score", 0)):
         o = old.get(n["link"], {})
         for tl in ("it", "es"):
             if n.get("lang") == tl: n["title_" + tl] = n["title"]; continue
@@ -139,14 +140,19 @@ def run(feeds_file="feeds.json", feeds_override=None):
     cfg = json.loads((HERE / feeds_file).read_text(encoding="utf-8"))
     boxers = json.loads((HERE / "boxers.json").read_text(encoding="utf-8")) if (HERE / "boxers.json").exists() else []
     allnews, ok, bad = [], 0, 0
-    for f in (feeds_override or cfg["feeds"]):
+    def one(f):
         try:
-            raw = fetch(f["url"]) if not f["url"].startswith("file:") else Path(f["url"][5:]).read_bytes()
-            items = parse(raw, f["name"], f.get("lang", "en")); ok += 1
-            log(f"OK   {f['name']}: {len(items)} articoli")
-            allnews += items
+            raw = fetch(f["url"], timeout=12) if not f["url"].startswith("file:") else Path(f["url"][5:]).read_bytes()
+            return f, parse(raw, f["name"], f.get("lang", "en")), None
         except Exception as e:
-            bad += 1; log(f"FAIL {f['name']}: {type(e).__name__} {e}")
+            return f, None, e
+    with ThreadPoolExecutor(max_workers=8) as ex:
+        results = list(ex.map(one, feeds_override or cfg["feeds"]))
+    for f, items, err in results:
+        if err is None:
+            ok += 1; log(f"OK   {f['name']}: {len(items)} articoli"); allnews += items
+        else:
+            bad += 1; log(f"FAIL {f['name']}: {type(err).__name__} {err}")
     seen, news = set(), []
     for n in sorted(allnews, key=lambda x: x["date"], reverse=True):
         if not BOXING.search(n["title"]): continue
@@ -159,6 +165,11 @@ def run(feeds_file="feeds.json", feeds_override=None):
     out = {"updated": datetime.now(timezone.utc).isoformat(timespec="seconds"), "feeds_ok": ok, "feeds_failed": bad, "news": news}
     (DATA / "news.json").write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")
     log(f"Scritte {len(news)} notizie (feed ok {ok}, falliti {bad})")
+    try:
+        import fighters
+        fighters.run_step(DATA, log)
+    except Exception as e:
+        log(f"STORICO ERRORE {type(e).__name__} {e}")
     return out
 
 if __name__ == "__main__":

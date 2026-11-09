@@ -1,27 +1,304 @@
 {
-"feeds": [
- {"name": "BBC Sport Boxing", "url": "https://feeds.bbci.co.uk/sport/boxing/rss.xml", "lang": "en"},
- {"name": "Sky Sports Boxing", "url": "https://www.skysports.com/rss/12040", "lang": "en"},
- {"name": "The Guardian Boxing", "url": "https://www.theguardian.com/sport/boxing/rss", "lang": "en"},
- {"name": "Fightmag", "url": "https://www.fightmag.com/feed/", "lang": "en"},
- {"name": "Boxing News (UK)", "url": "https://boxingnewsonline.net/feed/", "lang": "en"},
- {"name": "British Boxing News", "url": "https://britishboxingnews.co.uk/feed/", "lang": "en"},
- {"name": "Boxing Scene", "url": "https://www.boxingscene.com/feed", "lang": "en"},
- {"name": "Boxing News 24", "url": "https://www.boxingnews24.com/feed/", "lang": "en"},
- {"name": "Boxing Insider", "url": "https://www.boxinginsider.com/feed/", "lang": "en"},
- {"name": "The Fight City", "url": "https://www.thefightcity.com/feed/", "lang": "en"},
- {"name": "Fightnews", "url": "https://fightnews.com/feed", "lang": "en"},
- {"name": "Irish Boxing", "url": "https://www.irish-boxing.com/feed/", "lang": "en"},
- {"name": "Big Fight Weekend", "url": "https://bigfightweekend.com/feed/", "lang": "en"},
- {"name": "Boxing Social", "url": "https://boxing-social.com/feed/", "lang": "en"},
- {"name": "World Boxing News", "url": "https://www.worldboxingnews.com/feed/", "lang": "en"},
- {"name": "Saddo Boxing", "url": "https://www.saddoboxing.com/feed", "lang": "en"},
- {"name": "The Boxing Tribune", "url": "https://theboxingtribune.com/feed/", "lang": "en"},
- {"name": "The Sweet Science", "url": "https://tss.ib.tv/boxing/feed/", "lang": "en"},
- {"name": "ESPN Boxing", "url": "https://www.espn.com/espn/rss/boxing/news", "lang": "en"},
- {"name": "ESPN Boxing (India)", "url": "https://www.espn.in/espn/rss/boxing/news", "lang": "en"},
- {"name": "CBS Sports Boxing", "url": "https://www.cbssports.com/rss/headlines/boxing", "lang": "en"},
- {"name": "Gazzetta dello Sport", "url": "https://www.gazzetta.it/rss/home.xml", "lang": "it"},
- {"name": "Marca Boxeo", "url": "https://e00-marca.uecdn.es/rss/boxeo.xml", "lang": "es"}
-]
+ "feeds": [
+  {
+   "name": "BBC Sport Boxing",
+   "url": "https://feeds.bbci.co.uk/sport/boxing/rss.xml",
+   "lang": "en"
+  },
+  {
+   "name": "Sky Sports Boxing",
+   "url": "https://www.skysports.com/rss/12040",
+   "lang": "en"
+  },
+  {
+   "name": "The Guardian Boxing",
+   "url": "https://www.theguardian.com/sport/boxing/rss",
+   "lang": "en"
+  },
+  {
+   "name": "Fightmag",
+   "url": "https://www.fightmag.com/feed/",
+   "lang": "en"
+  },
+  {
+   "name": "Boxing News (UK)",
+   "url": "https://boxingnewsonline.net/feed/",
+   "lang": "en"
+  },
+  {
+   "name": "British Boxing News",
+   "url": "https://britishboxingnews.co.uk/feed/",
+   "lang": "en"
+  },
+  {
+   "name": "Boxing Scene",
+   "url": "https://www.boxingscene.com/feed",
+   "lang": "en"
+  },
+  {
+   "name": "Boxing News 24",
+   "url": "https://www.boxingnews24.com/feed/",
+   "lang": "en"
+  },
+  {
+   "name": "Boxing Insider",
+   "url": "https://www.boxinginsider.com/feed/",
+   "lang": "en"
+  },
+  {
+   "name": "The Fight City",
+   "url": "https://www.thefightcity.com/feed/",
+   "lang": "en"
+  },
+  {
+   "name": "Fightnews",
+   "url": "https://fightnews.com/feed",
+   "lang": "en"
+  },
+  {
+   "name": "Irish Boxing",
+   "url": "https://www.irish-boxing.com/feed/",
+   "lang": "en"
+  },
+  {
+   "name": "Big Fight Weekend",
+   "url": "https://bigfightweekend.com/feed/",
+   "lang": "en"
+  },
+  {
+   "name": "Boxing Social",
+   "url": "https://boxing-social.com/feed/",
+   "lang": "en"
+  },
+  {
+   "name": "World Boxing News",
+   "url": "https://www.worldboxingnews.com/feed/",
+   "lang": "en"
+  },
+  {
+   "name": "Saddo Boxing",
+   "url": "https://www.saddoboxing.com/feed",
+   "lang": "en"
+  },
+  {
+   "name": "The Boxing Tribune",
+   "url": "https://theboxingtribune.com/feed/",
+   "lang": "en"
+  },
+  {
+   "name": "The Sweet Science",
+   "url": "https://tss.ib.tv/boxing/feed/",
+   "lang": "en"
+  },
+  {
+   "name": "ESPN Boxing",
+   "url": "https://www.espn.com/espn/rss/boxing/news",
+   "lang": "en"
+  },
+  {
+   "name": "ESPN Boxing (India)",
+   "url": "https://www.espn.in/espn/rss/boxing/news",
+   "lang": "en"
+  },
+  {
+   "name": "CBS Sports Boxing",
+   "url": "https://www.cbssports.com/rss/headlines/boxing",
+   "lang": "en"
+  },
+  {
+   "name": "Gazzetta dello Sport",
+   "url": "https://www.gazzetta.it/rss/home.xml",
+   "lang": "it"
+  },
+  {
+   "name": "Marca Boxeo",
+   "url": "https://e00-marca.uecdn.es/rss/boxeo.xml",
+   "lang": "es"
+  },
+  {
+   "name": "The Ring",
+   "url": "https://www.ringtv.com/feed/",
+   "lang": "en"
+  },
+  {
+   "name": "Bad Left Hook",
+   "url": "https://www.badlefthook.com/rss/index.xml",
+   "lang": "en"
+  },
+  {
+   "name": "Boxing News and Views",
+   "url": "https://boxingnewsandviews.com/feed/",
+   "lang": "en"
+  },
+  {
+   "name": "East Side Boxing",
+   "url": "https://www.eastsideboxing.com/feed/",
+   "lang": "en"
+  },
+  {
+   "name": "Boxing Junkie",
+   "url": "https://boxingjunkie.com/feed/",
+   "lang": "en"
+  },
+  {
+   "name": "Talksport Boxing",
+   "url": "https://talksport.com/boxing/feed/",
+   "lang": "en"
+  },
+  {
+   "name": "Daily Mirror Boxing",
+   "url": "https://www.mirror.co.uk/sport/boxing/?service=rss",
+   "lang": "en"
+  },
+  {
+   "name": "The Independent Boxing",
+   "url": "https://www.independent.co.uk/sport/boxing/rss",
+   "lang": "en"
+  },
+  {
+   "name": "Telegraph Boxing",
+   "url": "https://www.telegraph.co.uk/boxing/rss.xml",
+   "lang": "en"
+  },
+  {
+   "name": "Daily Mail Boxing",
+   "url": "https://www.dailymail.co.uk/sport/boxing/index.rss",
+   "lang": "en"
+  },
+  {
+   "name": "The Sun Boxing",
+   "url": "https://www.thesun.co.uk/sport/boxing/feed/",
+   "lang": "en"
+  },
+  {
+   "name": "Yahoo Sports Boxing",
+   "url": "https://sports.yahoo.com/boxing/rss/",
+   "lang": "en"
+  },
+  {
+   "name": "Sports Illustrated Boxing",
+   "url": "https://www.si.com/rss/si_boxing.rss",
+   "lang": "en"
+  },
+  {
+   "name": "USA Today Boxing",
+   "url": "https://rssfeeds.usatoday.com/UsatodaycomBoxing-TopStories",
+   "lang": "en"
+  },
+  {
+   "name": "Bleacher Report Boxing",
+   "url": "https://bleacherreport.com/articles/feed?tag_id=14",
+   "lang": "en"
+  },
+  {
+   "name": "Sportskeeda Boxing",
+   "url": "https://www.sportskeeda.com/feed/boxing",
+   "lang": "en"
+  },
+  {
+   "name": "Sportskeeda Boxing 2",
+   "url": "https://www.sportskeeda.com/boxing/feed",
+   "lang": "en"
+  },
+  {
+   "name": "Fox Sports Boxing",
+   "url": "https://api.foxsports.com/v2/content/optimized-rss?partnerKey=MB0Wehpmuj2lUhuRhQaafhBjAJqaPU244mlTDK1i&size=30&tags=fs/boxing",
+   "lang": "en"
+  },
+  {
+   "name": "BoxingScene Featured",
+   "url": "https://www.boxingscene.com/rss/news.xml",
+   "lang": "en"
+  },
+  {
+   "name": "Ring Magazine News",
+   "url": "https://www.ringtv.com/category/news/feed/",
+   "lang": "en"
+  },
+  {
+   "name": "Boxing Channel",
+   "url": "https://www.boxingchannel.tv/feed/",
+   "lang": "en"
+  },
+  {
+   "name": "Gazzetta Boxe",
+   "url": "https://www.gazzetta.it/rss/boxe.xml",
+   "lang": "it"
+  },
+  {
+   "name": "Corriere dello Sport Boxe",
+   "url": "https://www.corrieredellosport.it/rss/boxe",
+   "lang": "it"
+  },
+  {
+   "name": "Sky Sport Italia Boxe",
+   "url": "https://sport.sky.it/rss/boxe.xml",
+   "lang": "it"
+  },
+  {
+   "name": "Eurosport Italia Boxe",
+   "url": "https://www.eurosport.it/boxe/rss.xml",
+   "lang": "it"
+  },
+  {
+   "name": "Tuttosport Boxe",
+   "url": "https://www.tuttosport.com/rss/boxe",
+   "lang": "it"
+  },
+  {
+   "name": "Pugilato.it",
+   "url": "https://www.pugilato.it/feed/",
+   "lang": "it"
+  },
+  {
+   "name": "Boxe Ring",
+   "url": "https://www.boxering.it/feed/",
+   "lang": "it"
+  },
+  {
+   "name": "Marca Boxeo 2",
+   "url": "https://www.marca.com/rss/boxeo.xml",
+   "lang": "es"
+  },
+  {
+   "name": "AS Boxeo",
+   "url": "https://as.com/rss/tags/boxeo.xml",
+   "lang": "es"
+  },
+  {
+   "name": "Mundo Deportivo Boxeo",
+   "url": "https://www.mundodeportivo.com/rss/boxeo",
+   "lang": "es"
+  },
+  {
+   "name": "Sport Boxeo",
+   "url": "https://www.sport.es/es/rss/boxeo/rss.xml",
+   "lang": "es"
+  },
+  {
+   "name": "Infobae Boxeo",
+   "url": "https://www.infobae.com/arc/outboundfeeds/rss/category/deportes/boxeo/",
+   "lang": "es"
+  },
+  {
+   "name": "ESPN Deportes Boxeo",
+   "url": "https://www.espn.com.mx/espn/rss/boxeo/news",
+   "lang": "es"
+  },
+  {
+   "name": "Récord Boxeo",
+   "url": "https://www.record.com.mx/rss/boxeo",
+   "lang": "es"
+  },
+  {
+   "name": "Mediotiempo Box",
+   "url": "https://www.mediotiempo.com/rss/box",
+   "lang": "es"
+  },
+  {
+   "name": "Eurosport Boxe FR",
+   "url": "https://www.eurosport.fr/boxe/rss.xml",
+   "lang": "fr"
+  }
+ ]
 }
