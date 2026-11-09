@@ -259,5 +259,86 @@
    "en",
    "it"
   ]
+ },
+ "Joseph Parker": {
+  "slug": "joseph-parker",
+  "updated": "2026-11-09T01:12:10+00:00",
+  "total": 40,
+  "verified": 0,
+  "record": {
+   "w": 36,
+   "l": 4,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Vasiliy Lomachenko": {
+  "slug": "vasiliy-lomachenko",
+  "updated": "2026-11-09T01:12:15+00:00",
+  "total": 21,
+  "verified": 5,
+  "record": {
+   "w": 18,
+   "l": 3,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "fr",
+   "pt"
+  ]
+ },
+ "Jesse Rodríguez": {
+  "slug": "jesse-rodriguez",
+  "updated": "2026-11-09T01:12:20+00:00",
+  "total": 24,
+  "verified": 22,
+  "record": {
+   "w": 24,
+   "l": 0,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "es"
+  ]
+ },
+ "Junto Nakatani": {
+  "slug": "junto-nakatani",
+  "updated": "2026-11-09T01:12:25+00:00",
+  "total": 33,
+  "verified": 0,
+  "record": {
+   "w": 32,
+   "l": 1,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "es"
+  ]
+ },
+ "Katie Taylor": {
+  "slug": "katie-taylor",
+  "updated": "2026-11-09T01:12:30+00:00",
+  "total": 189,
+  "verified": 0,
+  "record": {
+   "w": 177,
+   "l": 11,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "es",
+   "fr"
+  ]
  }
 }

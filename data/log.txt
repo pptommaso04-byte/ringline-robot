@@ -1285,3 +1285,71 @@
 2026-11-09T01:07:18+00:00 STORICO OK   Deontay Wilder: 50 incontri, 49 verificati (en+it+es+fr+pt)
 2026-11-09T01:07:23+00:00 STORICO OK   Daniel Dubois: 27 incontri, 24 verificati (en+it)
 2026-11-09T01:07:24+00:00 Storico: aggiornati 5 pugili, in elenco 76, con dati 15
+2026-11-09T01:10:50+00:00 OK   BBC Sport Boxing: 39 articoli
+2026-11-09T01:10:50+00:00 OK   Sky Sports Boxing: 20 articoli
+2026-11-09T01:10:50+00:00 OK   The Guardian Boxing: 20 articoli
+2026-11-09T01:10:50+00:00 OK   Fightmag: 10 articoli
+2026-11-09T01:10:50+00:00 OK   Boxing News (UK): 15 articoli
+2026-11-09T01:10:50+00:00 OK   British Boxing News: 10 articoli
+2026-11-09T01:10:50+00:00 OK   Boxing Scene: 50 articoli
+2026-11-09T01:10:50+00:00 OK   Boxing News 24: 15 articoli
+2026-11-09T01:10:50+00:00 OK   Boxing Insider: 10 articoli
+2026-11-09T01:10:50+00:00 OK   The Fight City: 10 articoli
+2026-11-09T01:10:50+00:00 OK   Fightnews: 10 articoli
+2026-11-09T01:10:50+00:00 OK   Irish Boxing: 10 articoli
+2026-11-09T01:10:50+00:00 OK   Big Fight Weekend: 10 articoli
+2026-11-09T01:10:50+00:00 OK   Boxing Social: 15 articoli
+2026-11-09T01:10:50+00:00 OK   World Boxing News: 40 articoli
+2026-11-09T01:10:50+00:00 FAIL Saddo Boxing: ParseError unbound prefix: line 62, column 0
+2026-11-09T01:10:50+00:00 OK   The Boxing Tribune: 10 articoli
+2026-11-09T01:10:50+00:00 OK   The Sweet Science: 10 articoli
+2026-11-09T01:10:50+00:00 FAIL ESPN Boxing: ParseError no element found: line 1, column 0
+2026-11-09T01:10:50+00:00 FAIL ESPN Boxing (India): ParseError no element found: line 1, column 0
+2026-11-09T01:10:50+00:00 OK   CBS Sports Boxing: 36 articoli
+2026-11-09T01:10:50+00:00 OK   Gazzetta dello Sport: 125 articoli
+2026-11-09T01:10:50+00:00 OK   Marca Boxeo: 49 articoli
+2026-11-09T01:10:50+00:00 FAIL The Ring: ParseError unbound prefix: line 1, column 25637
+2026-11-09T01:10:50+00:00 OK   Bad Left Hook: 10 articoli
+2026-11-09T01:10:50+00:00 FAIL Boxing News and Views: URLError <urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1011)>
+2026-11-09T01:10:50+00:00 OK   East Side Boxing: 10 articoli
+2026-11-09T01:10:50+00:00 FAIL Boxing Junkie: ParseError syntax error: line 1, column 0
+2026-11-09T01:10:50+00:00 OK   Talksport Boxing: 100 articoli
+2026-11-09T01:10:50+00:00 OK   Daily Mirror Boxing: 23 articoli
+2026-11-09T01:10:50+00:00 FAIL The Independent Boxing: ParseError not well-formed (invalid token): line 1, column 0
+2026-11-09T01:10:50+00:00 OK   Telegraph Boxing: 115 articoli
+2026-11-09T01:10:50+00:00 OK   Daily Mail Boxing: 150 articoli
+2026-11-09T01:10:50+00:00 OK   The Sun Boxing: 28 articoli
+2026-11-09T01:10:50+00:00 OK   Yahoo Sports Boxing: 43 articoli
+2026-11-09T01:10:50+00:00 FAIL Sports Illustrated Boxing: HTTPError HTTP Error 404: Not Found
+2026-11-09T01:10:50+00:00 FAIL USA Today Boxing: ParseError syntax error: line 1, column 0
+2026-11-09T01:10:50+00:00 FAIL Bleacher Report Boxing: HTTPError HTTP Error 404: Not Found
+2026-11-09T01:10:50+00:00 FAIL Sportskeeda Boxing: HTTPError HTTP Error 405: Not Allowed
+2026-11-09T01:10:50+00:00 FAIL Sportskeeda Boxing 2: HTTPError HTTP Error 405: Not Allowed
+2026-11-09T01:10:50+00:00 OK   Fox Sports Boxing: 28 articoli
+2026-11-09T01:10:50+00:00 FAIL BoxingScene Featured: HTTPError HTTP Error 404: Not Found
+2026-11-09T01:10:50+00:00 FAIL Ring Magazine News: ParseError unbound prefix: line 1, column 25636
+2026-11-09T01:10:50+00:00 OK   Boxing Channel: 10 articoli
+2026-11-09T01:10:50+00:00 FAIL Gazzetta Boxe: HTTPError HTTP Error 404: Not Found
+2026-11-09T01:10:50+00:00 OK   Corriere dello Sport Boxe: 0 articoli
+2026-11-09T01:10:50+00:00 FAIL Sky Sport Italia Boxe: HTTPError HTTP Error 404: Not Found
+2026-11-09T01:10:50+00:00 FAIL Eurosport Italia Boxe: HTTPError HTTP Error 404: Not Found
+2026-11-09T01:10:50+00:00 OK   Tuttosport Boxe: 0 articoli
+2026-11-09T01:10:50+00:00 FAIL Pugilato.it: URLError <urlopen error timed out>
+2026-11-09T01:10:50+00:00 FAIL Boxe Ring: URLError <urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1011)>
+2026-11-09T01:10:50+00:00 OK   Marca Boxeo 2: 50 articoli
+2026-11-09T01:10:50+00:00 FAIL AS Boxeo: HTTPError HTTP Error 404: Not Found
+2026-11-09T01:10:50+00:00 OK   Mundo Deportivo Boxeo: 100 articoli
+2026-11-09T01:10:50+00:00 FAIL Sport Boxeo: HTTPError HTTP Error 406: WAF Forbidden
+2026-11-09T01:10:50+00:00 OK   Infobae Boxeo: 7 articoli
+2026-11-09T01:10:50+00:00 FAIL ESPN Deportes Boxeo: ParseError no element found: line 1, column 0
+2026-11-09T01:10:50+00:00 FAIL Récord Boxeo: HTTPError HTTP Error 404: Not Found
+2026-11-09T01:10:50+00:00 FAIL Mediotiempo Box: HTTPError HTTP Error 404: Not Found
+2026-11-09T01:10:50+00:00 FAIL Eurosport Boxe FR: HTTPError HTTP Error 404: Not Found
+2026-11-09T01:12:02+00:00 Traduzioni nuove 60, non riuscite 0
+2026-11-09T01:12:02+00:00 Scritte 300 notizie (feed ok 35, falliti 25)
+2026-11-09T01:12:10+00:00 STORICO OK   Joseph Parker: 40 incontri, 0 verificati (en)
+2026-11-09T01:12:15+00:00 STORICO OK   Vasiliy Lomachenko: 21 incontri, 5 verificati (en+fr+pt)
+2026-11-09T01:12:20+00:00 STORICO OK   Jesse Rodríguez: 24 incontri, 22 verificati (en+es)
+2026-11-09T01:12:25+00:00 STORICO OK   Junto Nakatani: 33 incontri, 0 verificati (en+es)
+2026-11-09T01:12:30+00:00 STORICO OK   Katie Taylor: 189 incontri, 0 verificati (en+es+fr)
+2026-11-09T01:12:31+00:00 Storico: aggiornati 5 pugili, in elenco 76, con dati 20
