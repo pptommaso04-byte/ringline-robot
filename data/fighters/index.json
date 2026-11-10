@@ -2081,5 +2081,70 @@
    "en",
    "fr"
   ]
+ },
+ "Dale Robinson": {
+  "tried": "2026-11-10T03:01:22+00:00"
+ },
+ "Manny Pacquiao": {
+  "slug": "manny-pacquiao",
+  "updated": "2026-11-10T03:01:33+00:00",
+  "total": 73,
+  "verified": 52,
+  "record": {
+   "w": 62,
+   "l": 8,
+   "d": 3,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "fr",
+   "pt"
+  ]
+ },
+ "Carl Froch": {
+  "slug": "carl-froch",
+  "updated": "2026-11-10T03:01:43+00:00",
+  "total": 35,
+  "verified": 0,
+  "record": {
+   "w": 33,
+   "l": 2,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Shane Cameron": {
+  "slug": "shane-cameron",
+  "updated": "2026-11-10T03:01:51+00:00",
+  "total": 34,
+  "verified": 0,
+  "record": {
+   "w": 29,
+   "l": 5,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Melissa Fiorentino": {
+  "slug": "melissa-fiorentino",
+  "updated": "2026-11-10T03:01:57+00:00",
+  "total": 17,
+  "verified": 0,
+  "record": {
+   "w": 16,
+   "l": 1,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
