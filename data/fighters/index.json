@@ -649,7 +649,7 @@
  },
  "Cheavon Clarke": {
   "slug": "cheavon-clarke",
-  "updated": "2026-11-09T21:35:48+00:00",
+  "updated": "2026-11-10T17:40:51+00:00",
   "total": 14,
   "verified": 0,
   "record": {
@@ -9806,6 +9806,69 @@
   "langs": [
    "en",
    "it"
+  ]
+ },
+ "Eliecer Castillo": {
+  "slug": "eliecer-castillo",
+  "updated": "2026-11-10T17:40:53+00:00",
+  "total": 43,
+  "verified": 0,
+  "record": {
+   "w": 32,
+   "l": 9,
+   "d": 2,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Shannon Briggs": {
+  "slug": "shannon-briggs",
+  "updated": "2026-11-10T17:40:56+00:00",
+  "total": 68,
+  "verified": 68,
+  "record": {
+   "w": 60,
+   "l": 6,
+   "d": 1,
+   "nc": 1
+  },
+  "langs": [
+   "en",
+   "it",
+   "de",
+   "pt"
+  ]
+ },
+ "Vladyslav Sirenko": {
+  "slug": "vladyslav-sirenko",
+  "updated": "2026-11-10T17:40:58+00:00",
+  "total": 24,
+  "verified": 0,
+  "record": {
+   "w": 23,
+   "l": 1,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Loren Alfonso": {
+  "slug": "loren-alfonso",
+  "updated": "2026-11-10T17:41:02+00:00",
+  "total": 2,
+  "verified": 0,
+  "record": {
+   "w": 1,
+   "l": 1,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
   ]
  }
 }
