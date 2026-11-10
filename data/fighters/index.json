@@ -12190,5 +12190,71 @@
  },
  "Billy Ward (boxer)": {
   "tried": "2026-11-10T21:40:57+00:00"
+ },
+ "Ítalo Perea": {
+  "slug": "italo-perea",
+  "updated": "2026-11-10T21:46:33+00:00",
+  "total": 18,
+  "verified": 0,
+  "record": {
+   "w": 11,
+   "l": 5,
+   "d": 2,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Hiroto Kyoguchi": {
+  "slug": "hiroto-kyoguchi",
+  "updated": "2026-11-10T21:46:37+00:00",
+  "total": 22,
+  "verified": 0,
+  "record": {
+   "w": 19,
+   "l": 3,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Joe Ward (boxer)": {
+  "slug": "joe-ward-boxer",
+  "updated": "2026-11-10T21:46:42+00:00",
+  "total": 8,
+  "verified": 0,
+  "record": {
+   "w": 7,
+   "l": 1,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Tyler McCreary": {
+  "tried": "2026-11-10T21:46:27+00:00"
+ },
+ "KSI": {
+  "slug": "ksi",
+  "updated": "2026-11-10T21:46:48+00:00",
+  "total": 4,
+  "verified": 3,
+  "record": {
+   "w": 3,
+   "l": 0,
+   "d": 0,
+   "nc": 1
+  },
+  "langs": [
+   "en",
+   "it",
+   "es",
+   "pt"
+  ]
  }
 }
