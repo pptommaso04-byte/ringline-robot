@@ -6596,5 +6596,57 @@
  },
  "Bobby Dalton (boxer)": {
   "tried": "2026-11-10T11:36:15+00:00"
+ },
+ "José Quiles": {
+  "tried": "2026-11-10T11:40:49+00:00"
+ },
+ "Duke Ragan": {
+  "slug": "duke-ragan",
+  "updated": "2026-11-10T11:40:55+00:00",
+  "total": 9,
+  "verified": 0,
+  "record": {
+   "w": 9,
+   "l": 0,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "it"
+  ]
+ },
+ "Muslim Gadzhimagomedov": {
+  "slug": "muslim-gadzhimagomedov",
+  "updated": "2026-11-10T11:41:00+00:00",
+  "total": 6,
+  "verified": 0,
+  "record": {
+   "w": 6,
+   "l": 0,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Abilkhan Amankul": {
+  "tried": "2026-11-10T11:40:49+00:00"
+ },
+ "Ikboljon Kholdarov": {
+  "slug": "ikboljon-kholdarov",
+  "updated": "2026-11-10T11:41:05+00:00",
+  "total": 7,
+  "verified": 0,
+  "record": {
+   "w": 7,
+   "l": 0,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
