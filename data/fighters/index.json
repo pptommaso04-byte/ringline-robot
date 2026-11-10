@@ -5054,5 +5054,69 @@
  },
  "Davlat Boltaev": {
   "tried": "2026-11-10T08:45:41+00:00"
+ },
+ "Widad Bertal": {
+  "tried": "2026-11-10T08:50:42+00:00"
+ },
+ "Ginjiro Shigeoka": {
+  "slug": "ginjiro-shigeoka",
+  "updated": "2026-11-10T08:50:47+00:00",
+  "total": 14,
+  "verified": 0,
+  "record": {
+   "w": 11,
+   "l": 2,
+   "d": 0,
+   "nc": 1
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Hayato Tsutsumi": {
+  "slug": "hayato-tsutsumi",
+  "updated": "2026-11-10T08:50:50+00:00",
+  "total": 9,
+  "verified": 0,
+  "record": {
+   "w": 9,
+   "l": 0,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Keyshawn Davis": {
+  "slug": "keyshawn-davis",
+  "updated": "2026-11-10T08:50:53+00:00",
+  "total": 16,
+  "verified": 14,
+  "record": {
+   "w": 15,
+   "l": 0,
+   "d": 0,
+   "nc": 1
+  },
+  "langs": [
+   "en",
+   "pt"
+  ]
+ },
+ "Brandun Lee": {
+  "slug": "brandun-lee",
+  "updated": "2026-11-10T08:50:55+00:00",
+  "total": 31,
+  "verified": 0,
+  "record": {
+   "w": 30,
+   "l": 1,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
