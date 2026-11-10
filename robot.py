@@ -13,6 +13,7 @@ Uso:  python3 robot.py            (una volta)
 """
 import json, re, sys, time, hashlib, html, urllib.request, urllib.parse, xml.etree.ElementTree as ET
 from concurrent.futures import ThreadPoolExecutor
+import threading
 from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
 from pathlib import Path
@@ -171,6 +172,26 @@ def score_news(news):
         n["score"] = int(max(0, sc)); n["sources_n"] = len(same)
     return news
 
+YT_LOCK = threading.Lock()
+
+def yt_feed_url(handle):
+    """Dal nome del canale (es. @DAZNBoxing) trova il feed ufficiale dei video. Ricorda il risultato in data/yt_ids.json."""
+    p = DATA / "yt_ids.json"
+    with YT_LOCK:
+        try: ids = json.loads(p.read_text(encoding="utf-8"))
+        except Exception: ids = {}
+    cid = ids.get(handle)
+    if not cid:
+        page = fetch("https://www.youtube.com/" + handle.lstrip("/"), timeout=15).decode("utf-8", "replace")
+        m = re.search(r'"channelId":"(UC[\w-]{22})"', page) or re.search(r'channel_id=(UC[\w-]{22})', page) or re.search(r'"externalId":"(UC[\w-]{22})"', page)
+        if not m: raise ValueError("canale YouTube non trovato")
+        cid = m.group(1)
+        with YT_LOCK:
+            try: ids = json.loads(p.read_text(encoding="utf-8"))
+            except Exception: ids = {}
+            ids[handle] = cid; p.write_text(json.dumps(ids, indent=1), encoding="utf-8")
+    return "https://www.youtube.com/feeds/videos.xml?channel_id=" + cid
+
 def run(feeds_file="feeds.json", feeds_override=None):
     trim_log()
     cfg = json.loads((HERE / feeds_file).read_text(encoding="utf-8"))
@@ -178,8 +199,12 @@ def run(feeds_file="feeds.json", feeds_override=None):
     allnews, ok, bad = [], 0, 0
     def one(f):
         try:
-            raw = fetch(f["url"], timeout=12) if not f["url"].startswith("file:") else Path(f["url"][5:]).read_bytes()
-            return f, parse(raw, f["name"], f.get("lang", "en")), None
+            url = yt_feed_url(f["yt"]) if f.get("yt") else f["url"]
+            raw = fetch(url, timeout=12) if not url.startswith("file:") else Path(url[5:]).read_bytes()
+            items = parse(raw, f["name"], f.get("lang", "en"))
+            if f.get("trusted"):
+                for it in items: it["_t"] = 1
+            return f, items, None
         except Exception as e:
             return f, None, e
     active = [f for f in (feeds_override or cfg["feeds"]) if not f.get("off")]
@@ -192,10 +217,10 @@ def run(feeds_file="feeds.json", feeds_override=None):
             bad += 1; log(f"FAIL {f['name']}: {type(err).__name__} {err}")
     seen, news = set(), []
     for n in sorted(allnews, key=lambda x: x["date"], reverse=True):
-        if not BOXING.search(n["title"]): continue
+        if not BOXING.search(n["title"]) and not n.get("_t"): continue
         k = hashlib.md5(re.sub(r"\W+", "", n["title"].lower()).encode()).hexdigest()
         if k in seen: continue
-        seen.add(k); news.append(classify(n, boxers))
+        n.pop("_t", None); seen.add(k); news.append(classify(n, boxers))
     news = news[:300]
     score_news(news)
     add_translations(news)

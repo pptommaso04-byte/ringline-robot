@@ -218,6 +218,126 @@
    "name": "OA Sport Boxe",
    "url": "https://www.oasport.it/category/combattimento/boxe/feed/",
    "lang": "it"
+  },
+  {
+   "name": "Google News: pugilato",
+   "url": "https://news.google.com/rss/search?q=pugilato&hl=it&gl=IT&ceid=IT:it",
+   "lang": "it",
+   "trusted": true
+  },
+  {
+   "name": "Google News: boxe italiana",
+   "url": "https://news.google.com/rss/search?q=boxe+italiana+OR+pugile+italiano&hl=it&gl=IT&ceid=IT:it",
+   "lang": "it",
+   "trusted": true
+  },
+  {
+   "name": "Google News: titolo italiano pugilato",
+   "url": "https://news.google.com/rss/search?q=%22titolo+italiano%22+pugilato+OR+%22titolo+europeo%22+pugilato&hl=it&gl=IT&ceid=IT:it",
+   "lang": "it",
+   "trusted": true
+  },
+  {
+   "name": "Google News: boxing",
+   "url": "https://news.google.com/rss/search?q=boxing+world+title&hl=en-US&gl=US&ceid=US:en",
+   "lang": "en",
+   "trusted": true
+  },
+  {
+   "name": "Google News: boxeo",
+   "url": "https://news.google.com/rss/search?q=boxeo+campeonato+mundial&hl=es-419&gl=MX&ceid=MX:es-419",
+   "lang": "es",
+   "trusted": true
+  },
+  {
+   "name": "Reddit r/Boxing",
+   "url": "https://www.reddit.com/r/Boxing/.rss",
+   "lang": "en",
+   "trusted": true
+  },
+  {
+   "name": "YouTube DAZN Boxing",
+   "yt": "@DAZNBoxing",
+   "lang": "en",
+   "url": "youtube:@DAZNBoxing"
+  },
+  {
+   "name": "YouTube Matchroom Boxing",
+   "yt": "@MatchroomBoxing",
+   "lang": "en",
+   "url": "youtube:@MatchroomBoxing"
+  },
+  {
+   "name": "YouTube Top Rank Boxing",
+   "yt": "@TopRankBoxing",
+   "lang": "en",
+   "url": "youtube:@TopRankBoxing"
+  },
+  {
+   "name": "YouTube PBC",
+   "yt": "@PremierBoxingChampions",
+   "lang": "en",
+   "url": "youtube:@PremierBoxingChampions"
+  },
+  {
+   "name": "YouTube The Ring",
+   "yt": "@RingMagazine",
+   "lang": "en",
+   "url": "youtube:@RingMagazine"
+  },
+  {
+   "name": "YouTube Sky Sports Boxing",
+   "yt": "@SkySportsBoxing",
+   "lang": "en",
+   "url": "youtube:@SkySportsBoxing"
+  },
+  {
+   "name": "YouTube FightHub TV",
+   "yt": "@FightHubTV",
+   "lang": "en",
+   "url": "youtube:@FightHubTV"
+  },
+  {
+   "name": "YouTube BoxingScene",
+   "yt": "@BoxingScene",
+   "lang": "en",
+   "url": "youtube:@BoxingScene"
+  },
+  {
+   "name": "YouTube DAZN Italia",
+   "yt": "@DAZNItalia",
+   "lang": "it",
+   "url": "youtube:@DAZNItalia"
+  },
+  {
+   "name": "YouTube Pugilato Italia",
+   "yt": "@PugilatoItalia",
+   "lang": "it",
+   "url": "youtube:@PugilatoItalia"
+  },
+  {
+   "name": "YouTube Boxe Italia",
+   "yt": "@BoxeItalia",
+   "lang": "it",
+   "url": "youtube:@BoxeItalia"
+  },
+  {
+   "name": "YouTube Pro Boxing Fans",
+   "yt": "@ProBoxingFans",
+   "lang": "en",
+   "url": "youtube:@ProBoxingFans"
+  },
+  {
+   "name": "YouTube ESPN Boxing",
+   "yt": "@ESPNBoxing",
+   "lang": "en",
+   "url": "youtube:@ESPNBoxing"
+  },
+  {
+   "name": "YouTube Zuffa Boxing",
+   "yt": "@ZUFFABoxing",
+   "lang": "en",
+   "url": "youtube:@ZUFFABoxing"
   }
  ]
 }
