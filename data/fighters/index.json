@@ -4778,5 +4778,44 @@
  },
  "Ollie Cooper (boxer)": {
   "tried": "2026-11-10T08:20:45+00:00"
+ },
+ "Liu Chuang (boxer)": {
+  "tried": "2026-11-10T08:25:42+00:00"
+ },
+ "Ba Matero": {
+  "tried": "2026-11-10T08:25:42+00:00"
+ },
+ "Lienard Sarcon": {
+  "slug": "lienard-sarcon",
+  "updated": "2026-11-10T08:25:48+00:00",
+  "total": 15,
+  "verified": 0,
+  "record": {
+   "w": 15,
+   "l": 0,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Kapil Pokhariya": {
+  "tried": "2026-11-10T08:25:42+00:00"
+ },
+ "Eithan James": {
+  "slug": "eithan-james",
+  "updated": "2026-11-10T08:25:54+00:00",
+  "total": 20,
+  "verified": 0,
+  "record": {
+   "w": 17,
+   "l": 3,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
