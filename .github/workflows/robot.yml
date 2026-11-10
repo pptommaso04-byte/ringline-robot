@@ -1,8 +1,8 @@
 name: Robot Ringline
 on:
   schedule:
-    - cron: "*/15 * * * *"
-  workflow_dispatch: {}
+    - cron: "*/15 * * * *"   # riserva di GitHub (la sveglia principale e' cron-job.org)
+  workflow_dispatch: {}        # pulsante "Run workflow" e sveglia di cron-job.org
 permissions:
   contents: write
 concurrency:
@@ -18,6 +18,8 @@ jobs:
         with:
           python-version: "3.12"
       - name: Esegui il robot
+        env:
+          YT_API_KEY: ${{ secrets.YT_API_KEY }}
         run: python3 robot.py
       - name: Salva i risultati
         run: |
