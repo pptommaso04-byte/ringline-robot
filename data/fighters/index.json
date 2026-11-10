@@ -1874,5 +1874,57 @@
    "en",
    "it"
   ]
+ },
+ "Carlos Balderas": {
+  "slug": "carlos-balderas",
+  "updated": "2026-11-10T02:40:49+00:00",
+  "total": 15,
+  "verified": 0,
+  "record": {
+   "w": 14,
+   "l": 1,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Conor McGregor": {
+  "tried": "2026-11-10T02:40:45+00:00"
+ },
+ "Miyo Yoshida": {
+  "slug": "miyo-yoshida",
+  "updated": "2026-11-10T02:40:54+00:00",
+  "total": 25,
+  "verified": 0,
+  "record": {
+   "w": 19,
+   "l": 6,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "es"
+  ]
+ },
+ "Enis Pacheco": {
+  "slug": "enis-pacheco",
+  "updated": "2026-11-10T02:40:58+00:00",
+  "total": 24,
+  "verified": 0,
+  "record": {
+   "w": 17,
+   "l": 5,
+   "d": 2,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Shane McGuigan": {
+  "tried": "2026-11-10T02:40:45+00:00"
  }
 }
