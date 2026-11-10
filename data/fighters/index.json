@@ -9127,5 +9127,44 @@
  },
  "Ham Sang-myeong": {
   "tried": "2026-11-10T15:50:52+00:00"
+ },
+ "Dival Malonga": {
+  "tried": "2026-11-10T15:55:36+00:00"
+ },
+ "Frank Martin (boxer)": {
+  "slug": "frank-martin-boxer",
+  "updated": "2026-11-10T15:55:42+00:00",
+  "total": 22,
+  "verified": 0,
+  "record": {
+   "w": 20,
+   "l": 1,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Morelle McCane": {
+  "tried": "2026-11-10T15:55:36+00:00"
+ },
+ "Lee Reeves (boxer)": {
+  "tried": "2026-11-10T15:55:36+00:00"
+ },
+ "Laura Grzyb": {
+  "slug": "laura-grzyb",
+  "updated": "2026-11-10T15:55:49+00:00",
+  "total": 12,
+  "verified": 0,
+  "record": {
+   "w": 12,
+   "l": 0,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
