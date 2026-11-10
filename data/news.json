@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T22:15:42+00:00",
+ "updated": "2026-11-10T22:20:48+00:00",
  "feeds_ok": 50,
  "feeds_failed": 3,
  "news": [
@@ -51,7 +51,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 104,
-   "sources_n": 12,
+   "sources_n": 11,
    "title_it": "Willy Hutchinson dice che darebbe a Canelo una \"lezione di boxe\" 👀",
    "title_es": "Willy Hutchinson dice que le daría a Canelo una ‘lección de boxeo’ 👀"
   },
@@ -79,7 +79,7 @@
     "Canelo Alvarez"
    ],
    "score": 142,
-   "sources_n": 13,
+   "sources_n": 12,
    "title_it": "Il nuovo campione dei pesi massimi leggeri WBC Willy Hutchinson viene \"analizzato\" come potenziale prossimo incontro per Canelo Alvarez, secondo l'allenatore/manager Eddy Reynoso: \"Sì, lo seguo e, senza dubbio, Hutchinson è il campione WBC e un'opzione per Canelo.\"",
    "title_es": "El nuevo campeón de peso semipesado del CMB, Willy Hutchinson, está 'analizado' como posible próxima pelea para Canelo Álvarez, según el entrenador/manager Eddy Reynoso: \"Sí, lo he estado siguiendo y, sin duda, Hutchinson es el campeón del CMB y una opción para Canelo\"."
   },
@@ -324,7 +324,7 @@
    "status": "rumor",
    "boxers": [],
    "score": 102,
-   "sources_n": 15,
+   "sources_n": 14,
    "title_it": "Canelo osserva Willy Hutchinson durante la rivincita di Dmitry Bivol",
    "title_es": "Revancha Canelo Eyeing Willy Hutchinson Over Dmitry Bivol"
   },
@@ -339,7 +339,7 @@
     "Canelo Alvarez"
    ],
    "score": 112,
-   "sources_n": 13,
+   "sources_n": 12,
    "title_it": "Willy Hutchinson rivela il contatto di Canelo Alvarez e promette di \"staccargli la testa\"",
    "title_es": "Willy Hutchinson revela el contacto de Canelo Álvarez y promete 'taparle la cabeza'"
   },
@@ -530,7 +530,7 @@
     "Anthony Joshua"
    ],
    "score": 122,
-   "sources_n": 14,
+   "sources_n": 13,
    "title_it": "Boxe: quale sarà il futuro di Joshua Buatsi dopo la sconfitta del titolo mondiale contro Willy Hutchinson? - Sky Sport",
    "title_es": "Boxeo: ¿Qué sigue para Joshua Buatsi después de su derrota por el título mundial ante Willy Hutchinson? - Deportes del cielo"
   },
@@ -581,7 +581,7 @@
    "date": "2026-11-10T16:20:08+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 27,
+   "score": 26,
    "sources_n": 1,
    "title_it": "Aggiornamento fornito sui prossimi combattimenti di Manny Pacquiao come nominati 5 potenziali avversari",
    "title_es": "Actualización proporcionada sobre las próximas peleas de Manny Pacquiao como 5 oponentes potenciales nombrados"
@@ -596,23 +596,10 @@
    "boxers": [
     "Canelo Alvarez"
    ],
-   "score": 92,
+   "score": 91,
    "sources_n": 5,
    "title_it": "Reynoso elenca cinque opzioni per Canelo Alvarez nel 2027",
    "title_es": "Reynoso enumera cinco opciones para Canelo Álvarez en 2027"
-  },
-  {
-   "title": "Nelson Hysa has that one-punch KO power 💥",
-   "link": "https://www.saddoboxing.com/111975-nelson-hysa-has-that-one-punch-ko-power-%f0%9f%92%a5.html",
-   "source": "Saddo Boxing",
-   "lang": "en",
-   "date": "2026-11-10T16:06:05+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 34,
-   "sources_n": 1,
-   "title_it": "Nelson Hysa ha il potere di mettere KO con un solo pugno 💥",
-   "title_es": "Nelson Hysa tiene ese poder de KO con un solo golpe 💥"
   },
   {
    "title": "On November 7, 2011, Joe Frazier passed away at 67. \"Smokin Joe\" won Olympic gold at 20, attending the games as a last minute replacement. He defended his heavyweight title 9 times (7 KO). A 3x Fighter of the year, 4x Fight of the year winner. In 1976 he became the first man to defeat Muhammad Ali.",
@@ -626,6 +613,19 @@
    "sources_n": 2,
    "title_it": "Il 7 novembre 2011, Joe Frazier è morto all'età di 67 anni. \"Smokin Joe\" ha vinto l'oro olimpico a 20 anni, partecipando ai giochi come sostituto dell'ultimo minuto. Ha difeso il suo titolo dei pesi massimi 9 volte (7 KO). Vincitore 3x Combattente dell'anno e 4x Combattimento dell'anno. Nel 1976 divenne il primo uomo a sconfiggere Muhammad Ali.",
    "title_es": "El 7 de noviembre de 2011, Joe Frazier falleció a los 67 años. \"Smokin Joe\" ganó el oro olímpico a los 20 años, asistiendo a los juegos como reemplazo de último minuto. Defendió su título de peso pesado 9 veces (7 KO). Tres veces Luchador del año y cuatro veces ganador de la Pelea del año. En 1976 se convirtió en el primer hombre en derrotar a Muhammad Ali."
+  },
+  {
+   "title": "Nelson Hysa has that one-punch KO power 💥",
+   "link": "https://www.youtube.com/watch?v=ppEzedgAfls",
+   "source": "YouTube DAZN Boxing",
+   "lang": "en",
+   "date": "2026-11-10T16:00:36+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 34,
+   "sources_n": 1,
+   "title_it": "Nelson Hysa ha il potere di mettere KO con un solo pugno 💥",
+   "title_es": "Nelson Hysa tiene ese poder de KO con un solo golpe 💥"
   },
   {
    "title": "MVP sign unbeaten “Lion” with all knockout wins on her record",
@@ -862,6 +862,45 @@
    "title_es": "Súper australiano retiene el título del CMB en Texas - Fox Sports"
   },
   {
+   "title": "\"I was scared\": Ennis reacts to NAS' KO - Fox Sports",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPc0plel80cHBPQVVVd0dlV3R1azBXc0I2c2NrbE0wRTRMQTdZa3JQYkFVbW5wVWplUWx2ZTc2c1JSVXZYbG10clluRkFlYjV4UDBaYXpfX0ZiV2NqN1lKUWVDREtWN1RYMzhHNjdXdGlvOTN0cG5GN1B5Q05wLVBQRnR4Z0Fzc1NZSGgxSUtzdHMzWEdpN2pESm1NX1R3b1ZVM1BwcnZaR1c3ZDFN?oc=5",
+   "source": "Google News: boxing",
+   "lang": "en",
+   "date": "2026-11-10T14:08:30+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 33,
+   "sources_n": 1,
+   "title_it": "\"Ho avuto paura\": Ennis reagisce al KO del NAS - Fox Sports",
+   "title_es": "\"Tenía miedo\": Ennis reacciona al KO de NAS - Fox Sports"
+  },
+  {
+   "title": "Tim vows to dethrone Lara for crown - Fox Sports",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNanlnWW5yeEZEWVZXRklyeF80dzNheHoteVl5czl4Z0xQMlBQTWFFbXd4SGYwNlczandsYlVjbjgyNWloTXlRWTZkdlA4emVyMjJCMk94cEZEbEVsblg1Q1k0OFdDR0dJRFlRYjYyVDFFUHdYN0h4UUZwNEYyVlJvLWxEQXZYbm5lV2xFNk13LXRwcjl5ZHIyWU9hNHZXMlZFN0R3Y2Q4a1Q0REZD?oc=5",
+   "source": "Google News: boxing",
+   "lang": "en",
+   "date": "2026-11-10T14:08:30+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 25,
+   "sources_n": 1,
+   "title_it": "Tim giura di detronizzare Lara per la corona - Fox Sports",
+   "title_es": "Tim promete destronar a Lara por la corona - Fox Sports"
+  },
+  {
+   "title": "NAS v Gallen: Full Fight Highlights - Fox Sports",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVndmMmNpYk1GeUg1UXA4WnBQZVZRSkltSmlfZVZoaWNuWUdvWFc1ZjRDaU5IclYwZ0h6Z2ktbmVLN0trdjBjak5BNkN6OGxBRzQ4WEtyUFVrb01DM1dtSXh2R3BuMXZvNnhRMEp5cTl4dXlwQUVsYWNRbk1iZ19TdDFheHBldVFHYWJiQm1IVTExYThraGNzLVVjOVJaOVAxcGR4T3hBcmpES0k?oc=5",
+   "source": "Google News: boxing",
+   "lang": "en",
+   "date": "2026-11-10T14:08:22+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 35,
+   "sources_n": 2,
+   "title_it": "NAS v Gallen: momenti salienti della lotta completa - Fox Sports",
+   "title_es": "NAS v Gallen: aspectos destacados de la pelea completa - Fox Sports"
+  },
+  {
    "title": "Paro's dream fight against Haney set - Fox Sports",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOM3ZpU0FzeWpFdFYzWE1uVU9QU1k3YzQyZzNzeWY1anltYzhpWnFqRjdKRXRmMGtDZWxqMHdRckdkYWZ3VWxKWXRrbGQteUloQy1iUnMyNHFpN20xdzAyNG9GWDR6X0RZc0FVeERfMDVDM3d2el9kd0J0RkwzejFNdzJKQ1F0QzVrWURRazJQeXl6dHdJU1N2OXFfRHRiTFVOWDFadmt3T0Y2WTFk?oc=5",
    "source": "Google News: boxing",
@@ -873,6 +912,19 @@
    "sources_n": 1,
    "title_it": "Lotta da sogno di Paro contro il set Haney - Fox Sports",
    "title_es": "Paro's dream fight against Haney set - Fox Sports"
+  },
+  {
+   "title": "NAS apologises for crowd melee - Fox Sports",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeFMzZFFRT2dycHpBMlVSYlphNjllRDJjbm93TDU4MTNDX1FPd3BheFJISXdzQUZDZ0pCNXpzbXk5NG5FT2hyRGJVZGlheXRzc0xCY0dnMm1WNk12eTk4RFR6RnJITkdabDVZN0ltTDZzMDZxLVFwUnpucnhRbkZpd0M1eXdHWTdaSEFGcG5ZNEdQdGUtak10NHk5MjZFbjFpQmpQVg?oc=5",
+   "source": "Google News: boxing",
+   "lang": "en",
+   "date": "2026-11-10T14:08:11+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 25,
+   "sources_n": 1,
+   "title_it": "Il NAS si scusa per il tumulto della folla - Fox Sports",
+   "title_es": "NAS se disculpa por la pelea entre la multitud - Fox Sports"
   },
   {
    "title": "Anthony Joshua has already decided next opponent after Tyson Fury",
@@ -927,7 +979,7 @@
     "Canelo Alvarez"
    ],
    "score": 110,
-   "sources_n": 13,
+   "sources_n": 12,
    "title_it": "Willy Hutchinson viene \"analizzato\" come potenziale prossimo incontro per Canelo Alvarez",
    "title_es": "Willy Hutchinson siendo 'analizado' como posible próxima pelea de Canelo Álvarez"
   },
@@ -1208,7 +1260,7 @@
    "date": "2026-11-10T10:18:55+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 32,
+   "score": 31,
    "sources_n": 1,
    "title_it": "Puoi nominare 3 pugili imbattuti? 🥊 Offerto da That Prize Guy #AD",
    "title_es": "¿Puedes nombrar a 3 boxeadores invictos? 🥊 Presentado por ese chico premiado #AD"
@@ -1528,7 +1580,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 94,
-   "sources_n": 12,
+   "sources_n": 11,
    "title_it": "Willy Hutchinson ha la cintura e lo stile che Canelo odia",
    "title_es": "Willy Hutchinson tiene el cinturón y el estilo que Canelo odia"
   },
@@ -2020,7 +2072,7 @@
   },
   {
    "title": "Boxing Weekend Review: Willy Hutchinson's world title triumph and Cheavon Clarke revives career - DAZN",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZm5SWjRSdEVMWWxCNTFKSWZYclhpRVAtdlJ3WUQ2T2RxRFV4b3lUZ2VvTUFfUUFGazhaOTZHaFp5VlowZUtXY3JDZXFqTmhFU2dnc1N4LUxXQ2V2R3p6REJMYUxUSVo2aFhLa08wRVB3NjAxUDlleC1jb0w5Z3g3Nzdrc2RFY2JaSGFzdWlNdXlSWDB0bHVGbFhNVG94QnhFMFVscTFzcVN0RGJwWGNzSlZUeVBrd0VkUEJWM1VKNlkxRWF2bVZrR3ZRUzNJRlpmdUhjRzlmWF9FdXhJc3V1dldn?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUkZ2QnBMTEw3UGVSTW1ULUFrUEdjZlRWcEpfX3NYQjl3UFZzc2JEdjBHdVN1SlNfYnV3eWhsRGtmemdoeDc5UVRFSmpVZlVlbi1SMGt6b2RUQmFwUXhDY0RaM3ZqbUxiV0ljMFdsMDJKWmMyNF9pY0ZmV2V6M0ZQRmN3b3k3VDIwRTRRa2xremFKLUlLMjg0WUY1bFZyMWwwVzNoR0JNYWdmbk1aNWtodmE0QWZhenVMcE96b0JQSExsLWR4anM2US1VUlJhaFFQd0RSTjFVaWx6VFg1ZFlIUnJn?oc=5",
    "source": "Google News: boxing",
    "lang": "en",
    "date": "2026-11-09T17:00:00+00:00",
@@ -2065,7 +2117,7 @@
    "date": "2026-11-09T16:18:07+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 45,
+   "score": 44,
    "sources_n": 5,
    "title_it": "Floyd Mayweather aggiunge il leggendario ex avversario alla lista dei risultati per il grande incontro nel 2027",
    "title_es": "Floyd Mayweather agrega al legendario ex oponente a la lista de blancos para la gran pelea en 2027"
@@ -2230,7 +2282,7 @@
    "date": "2026-11-09T14:20:43+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 14,
+   "score": 13,
    "sources_n": 1,
    "title_it": "\"Questo dovrebbe essere il round del SECOLO\" round 9 di Ward vs Gatti 1",
    "title_es": "“Esta debería ser la ronda del SIGLO” ronda 9 de Ward vs Gatti 1"
@@ -2746,7 +2798,7 @@
    "date": "2026-11-09T06:20:34+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 28,
+   "score": 27,
    "sources_n": 1,
    "title_it": "Ramla Ali vince i primi titoli mondiali a 36 anni con una decisione molto controversa",
    "title_es": "Ramla Ali gana el primer título mundial a los 36 años con una decisión dividida muy controvertida"
@@ -2915,7 +2967,7 @@
    "date": "2026-11-09T02:16:55+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 83,
+   "score": 82,
    "sources_n": 4,
    "title_it": "Le braccia T-Rex di Canelo favoriscono ancora Crawford in una rivincita",
    "title_es": "Los brazos de T-Rex de Canelo siguen favoreciendo a Crawford en una revancha"
@@ -3020,7 +3072,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 70,
-   "sources_n": 12,
+   "sources_n": 11,
    "title_it": "Il pugile scozzese Willy Hutchinson soddisfa l'impegno dell'infanzia diventando campione del mondo dopo la famosa vittoria",
    "title_es": "El boxeador escocés Willy Hutchinson cumple su promesa de infancia al convertirse en campeón del mundo tras su famosa victoria"
   },
@@ -3110,7 +3162,7 @@
    "date": "2026-11-08T18:19:04+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 29,
+   "score": 28,
    "sources_n": 1,
    "title_it": "Il migliore amico pugile di Crawford \"quasi muore\" al concerto di Kanye",
    "title_es": "El mejor amigo del boxeador de Crawford 'casi muere' en el concierto de Kanye"
@@ -3136,8 +3188,8 @@
    "date": "2026-11-08T17:09:41+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 13,
-   "sources_n": 2,
+   "score": 3,
+   "sources_n": 1,
    "title_it": "La campionessa olimpica di pugilato Imane Khelif torna a Parigi",
    "title_es": "El campeón olímpico de boxeo Imane Khelif se prepara para el regreso a París"
   },
@@ -3243,26 +3295,10 @@
    "date": "2026-11-08T14:20:16+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 10,
+   "score": 9,
    "sources_n": 1,
    "title_it": "Luis Vela, impresa da film a Istanbul: va al tappeto, si rialza e vince per ko all'ultimo round - TrentoToday",
    "title_es": "Luis Vela, impresa da film a Istanbul: va al tappeto, si rialza e vince per ko all'ultimo round - TrentoToday"
-  },
-  {
-   "title": "\"No Space For Second Place!\" An emotional Joshua Buatsi reflects upon defeat by Willy Hutchinson 👀",
-   "link": "https://www.youtube.com/watch?v=u1BI-wyCUVI",
-   "source": "YouTube DAZN Boxing",
-   "lang": "en",
-   "date": "2026-11-08T13:45:40+00:00",
-   "status": "confirmed",
-   "boxers": [
-    "Joshua Buatsi",
-    "Anthony Joshua"
-   ],
-   "score": 94,
-   "sources_n": 13,
-   "title_it": "\"Non c'è spazio per il secondo posto!\" Un emozionato Joshua Buatsi riflette sulla sconfitta di Willy Hutchinson 👀",
-   "title_es": "\"¡No hay espacio para el segundo lugar!\" Un emocionado Joshua Buatsi reflexiona sobre la derrota ante Willy Hutchinson 👀"
   },
   {
    "title": "\"ABSOLUTELY MASSIVE!\" Clarke knocksdown Billam-Smith! 🤯 #ZuffaBoxing12",
@@ -3286,7 +3322,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 74,
-   "sources_n": 12,
+   "sources_n": 11,
    "title_it": "Willy Hutchinson realizza il titolo mondiale che durava da 15 anni dopo aver vinto il suo più grande incontro... contro se stesso",
    "title_es": "Willy Hutchinson cumple su destino de título mundial de 15 años tras ganar su mayor pelea… contra sí mismo"
   },
@@ -3705,7 +3741,7 @@
     "Joshua Buatsi"
    ],
    "score": 68,
-   "sources_n": 7,
+   "sources_n": 6,
    "title_it": "Hutchinson batte Buatsi per vincere il titolo dei pesi massimi leggeri WBC",
    "title_es": "Hutchinson vence a Buatsi para ganar el título semipesado del CMB"
   },
@@ -3744,7 +3780,7 @@
    "status": "confirmed",
    "boxers": [],
    "score": 73,
-   "sources_n": 12,
+   "sources_n": 11,
    "title_it": "Willy Hutchinson vince la decisione unanime di rivendicare il titolo mondiale dei pesi massimi leggeri - 112.ua",
    "title_es": "Willy Hutchinson gana la decisión unánime de reclamar el título mundial de peso semipesado - 112.ua"
   },
@@ -3802,7 +3838,7 @@
     "Anthony Joshua"
    ],
    "score": 103,
-   "sources_n": 13,
+   "sources_n": 12,
    "title_it": "Willy Hutchinson si vendica, vincendo nella rivincita un titolo mondiale su Joshua Buatsi",
    "title_es": "Willy Hutchinson se venga, un título mundial en la revancha ante Joshua Buatsi"
   },
@@ -3818,7 +3854,7 @@
     "Anthony Joshua"
    ],
    "score": 103,
-   "sources_n": 13,
+   "sources_n": 12,
    "title_it": "Willy Hutchinson si vendica, titolo mondiale in rivincita su Joshua Buatsi - BoxingScene",
    "title_es": "Willy Hutchinson gana la revancha, un título mundial en la revancha contra Joshua Buatsi - BoxingScene"
   },
@@ -3860,7 +3896,7 @@
     "Anthony Joshua"
    ],
    "score": 103,
-   "sources_n": 13,
+   "sources_n": 12,
    "title_it": "Willy Hutchinson crolla sul ring mentre batte Joshua Buatsi con decisione unanime di vincere il titolo WBC e vendicarsi",
    "title_es": "Willy Hutchinson se derrumba en el ring al vencer a Joshua Buatsi por decisión unánime para ganar el título del CMB y vengarse."
   },
@@ -3889,7 +3925,7 @@
     "Anthony Joshua"
    ],
    "score": 95,
-   "sources_n": 13,
+   "sources_n": 12,
    "title_it": "Willy Hutchinson ottiene la massima vendetta su Joshua Buatsi mentre affronta la rivincita per conquistare il titolo mondiale",
    "title_es": "Willy Hutchinson logra la máxima venganza contra Joshua Buatsi mientras logra la revancha para hacerse con el título mundial"
   },
@@ -3905,7 +3941,7 @@
     "Anthony Joshua"
    ],
    "score": 95,
-   "sources_n": 13,
+   "sources_n": 12,
    "title_it": "Willy Hutchinson ottiene la vendetta finale di Joshua Buatsi per conquistare il titolo mondiale - talkSPORT",
    "title_es": "Willy Hutchinson obtiene la venganza definitiva de Joshua Buatsi para hacerse con el título mundial - talkSPORT"
   },
@@ -3918,7 +3954,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 55,
-   "sources_n": 12,
+   "sources_n": 11,
    "title_it": "Willy Hutchinson se corona campeón mundial semipesado del CMB - Lo Mejor del Boxeo",
    "title_es": "Willy Hutchinson se corona campeón mundial semipesado del CMB - Lo Mejor del Boxeo"
   },
@@ -3933,7 +3969,7 @@
     "Joshua Buatsi"
    ],
    "score": 68,
-   "sources_n": 7,
+   "sources_n": 6,
    "title_it": "Hutchinson batte Buatsi per vincere il titolo dei pesi massimi leggeri WBC - BBC",
    "title_es": "Hutchinson vence a Buatsi para ganar el título semipesado del CMB - BBC"
   },
@@ -3965,7 +4001,7 @@
     "Anthony Joshua"
    ],
    "score": 85,
-   "sources_n": 13,
+   "sources_n": 12,
    "title_it": "La folla esplode in violenza allo scontro di boxe Joshua Buatsi vs Willy Hutchinson",
    "title_es": "La multitud estalla en violencia en el choque de boxeo Joshua Buatsi vs Willy Hutchinson"
   },
@@ -4025,51 +4061,6 @@
    "sources_n": 2,
    "title_it": "Dana White sorride sorridendo alla \"prossima stella dei pesi massimi d'America\" ​​mentre osserva il brutale KO al primo round",
    "title_es": "Dana White sonríe ante la 'próxima estrella de peso pesado de Estados Unidos' mientras observa el brutal nocaut en el primer asalto"
-  },
-  {
-   "title": "Huge fight breaks out in crowd at Joshua Buatsi vs Willy Hutchinson with security forced to intervene and area evacuated",
-   "link": "https://www.thesun.co.uk/sport/40955396/joshua-buatsi-willy-hutchinson-fight-fans/",
-   "source": "The Sun Boxing",
-   "lang": "en",
-   "date": "2026-11-07T21:22:44+00:00",
-   "status": "unverified",
-   "boxers": [
-    "Joshua Buatsi",
-    "Anthony Joshua"
-   ],
-   "score": 85,
-   "sources_n": 13,
-   "title_it": "Scoppia un'enorme rissa tra la folla a Joshua Buatsi contro Willy Hutchinson con la sicurezza costretta a intervenire e l'area evacuata",
-   "title_es": "Se desata una gran pelea entre la multitud en Joshua Buatsi vs Willy Hutchinson y la seguridad se vio obligada a intervenir y el área fue evacuada."
-  },
-  {
-   "title": "Imane Khelif to make shock boxing return two years on from gender row boxing scandal that engulfed Olympics",
-   "link": "https://www.thesun.co.uk/sport/40952015/imane-khelif-to-make-boxing-return-two-years/",
-   "source": "The Sun Boxing",
-   "lang": "en",
-   "date": "2026-11-07T21:07:22+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 10,
-   "sources_n": 2,
-   "title_it": "Imane Khelif farà ritorno alla boxe shock due anni dopo lo scandalo della boxe di genere che ha travolto le Olimpiadi",
-   "title_es": "Imane Khelif regresará al boxeo dos años después del escándalo del boxeo por disputas de género que envolvió los Juegos Olímpicos"
-  },
-  {
-   "title": "Boxing world stunned by ‘worst injury’ after horror head clash on Joshua Buatsi card",
-   "link": "https://talksport.com/boxing/4692776/zak-miller-worst-injury-result-joshua-buatsi-card/",
-   "source": "Talksport Boxing",
-   "lang": "en",
-   "date": "2026-11-07T20:29:54+00:00",
-   "status": "unverified",
-   "boxers": [
-    "Joshua Buatsi",
-    "Anthony Joshua"
-   ],
-   "score": 65,
-   "sources_n": 7,
-   "title_it": "Il mondo della boxe è sbalordito dal “peggior infortunio” dopo lo scontro horror con la testa sulla carta di Joshua Buatsi",
-   "title_es": "El mundo del boxeo está atónito por la “peor lesión” después del horroroso choque de cabezas en la cartelera de Joshua Buatsi"
   }
  ]
 }
