@@ -4960,5 +4960,56 @@
  },
  "Han Xuezhen": {
   "tried": "2026-11-10T08:40:41+00:00"
+ },
+ "Patrick Brown (boxer)": {
+  "slug": "patrick-brown-boxer",
+  "updated": "2026-11-10T08:42:45+00:00",
+  "total": 7,
+  "verified": 0,
+  "record": {
+   "w": 7,
+   "l": 0,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Mark Chamberlain (boxer)": {
+  "slug": "mark-chamberlain-boxer",
+  "updated": "2026-11-10T08:42:50+00:00",
+  "total": 20,
+  "verified": 0,
+  "record": {
+   "w": 18,
+   "l": 1,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Dmytro Lovchynskyi": {
+  "tried": "2026-11-10T08:42:38+00:00"
+ },
+ "Natalya Bogdanova": {
+  "tried": "2026-11-10T08:42:38+00:00"
+ },
+ "Dayan Gonzalez": {
+  "slug": "dayan-gonzalez",
+  "updated": "2026-11-10T08:43:00+00:00",
+  "total": 17,
+  "verified": 0,
+  "record": {
+   "w": 16,
+   "l": 0,
+   "d": 0,
+   "nc": 1
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
