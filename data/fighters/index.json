@@ -10818,5 +10818,70 @@
  },
  "Sean O'Malley (fighter)": {
   "tried": "2026-11-10T19:40:51+00:00"
+ },
+ "Misael Rodríguez": {
+  "slug": "misael-rodriguez",
+  "updated": "2026-11-10T19:45:56+00:00",
+  "total": 17,
+  "verified": 0,
+  "record": {
+   "w": 16,
+   "l": 1,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Isaac Dogboe": {
+  "slug": "isaac-dogboe",
+  "updated": "2026-11-10T19:46:01+00:00",
+  "total": 28,
+  "verified": 0,
+  "record": {
+   "w": 24,
+   "l": 4,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Shan Jun": {
+  "tried": "2026-11-10T19:45:49+00:00"
+ },
+ "Murodjon Akhmadaliev": {
+  "slug": "murodjon-akhmadaliev",
+  "updated": "2026-11-10T19:46:07+00:00",
+  "total": 17,
+  "verified": 0,
+  "record": {
+   "w": 15,
+   "l": 2,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "es",
+   "pt"
+  ]
+ },
+ "Shavkat Rakhimov": {
+  "slug": "shavkat-rakhimov",
+  "updated": "2026-11-10T19:46:09+00:00",
+  "total": 21,
+  "verified": 0,
+  "record": {
+   "w": 17,
+   "l": 3,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
