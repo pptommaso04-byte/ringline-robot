@@ -1,8 +1,21 @@
 {
- "updated": "2026-11-10T08:30:54+00:00",
+ "updated": "2026-11-10T08:35:36+00:00",
  "feeds_ok": 50,
  "feeds_failed": 3,
  "news": [
+  {
+   "title": "Vote for your greatest all-British boxing fight",
+   "link": "https://www.bbc.co.uk/sport/boxing/articles/cq5yn477mn51o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport Boxing",
+   "lang": "en",
+   "date": "2026-11-10T08:30:49+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 29,
+   "sources_n": 1,
+   "title_it": "Vota per il tuo più grande incontro di boxe tutto britannico",
+   "title_es": "Vota por tu mayor pelea de boxeo británico"
+  },
   {
    "title": "Moses Itauma to face ‘top 10 heavyweight’ before pursuing Hrgovic rematch",
    "link": "https://boxingnewsonline.net/news/itauma-to-face-top-10-heavyweight/",
@@ -646,7 +659,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 108,
+   "score": 107,
    "sources_n": 6,
    "title_it": "Eddie Hearn solleva il coperchio sul prossimo obiettivo di Anthony Joshua dopo lo scontro con Tyson Fury",
    "title_es": "Eddie Hearn levanta la tapa sobre el próximo objetivo de Anthony Joshua después del enfrentamiento con Tyson Fury"
@@ -1283,7 +1296,7 @@
    "date": "2026-11-09T12:33:00+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 38,
+   "score": 37,
    "sources_n": 1,
    "title_it": "Boxe: Pugilato-Ramla Ali vince il primo titolo mondiale a 37 anni in Texas - The Star",
    "title_es": "Boxeo: Boxeo-Ramla Ali gana el primer título mundial a los 37 años en Texas - The Star"
@@ -1621,19 +1634,6 @@
    "sources_n": 2,
    "title_it": "Chantelle Cameron rifiuta 1,1 milioni di dollari per combattere Claressa Shields 🥴",
    "title_es": "Chantelle Cameron rechaza 1,1 millones de dólares para luchar contra Claressa Shields 🥴"
-  },
-  {
-   "title": "Torre Annunziata, Manuel Zavarese non si ferma più: nuova vittoria sul ring a Napoli - Lo Strillone",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNa1Y0VjVORU9TemJpNFpWTUFfMElfREMtcjlFcXMyNzZCcGNtdnkzdEdqNTlieUVfQ3FrMW1zQWp2dzRsYnU4bDhGM1JpNWJRWEJZaGstUVBMd29qaG43bFVVNnFwUWU4VW5HeEpyNVFKanhrbHJULU5QQVdzODU3YXlVczFiOXpKUWRZX0xzbGo1eFFzUFhlbHlhZ09GT3gxWjNOd18ySDlTbEFFdXFIeE5Gb1lkaXhBOFhodUR3aVROVjVoUnRqMWxKUEY?oc=5",
-   "source": "Google News: pugilato",
-   "lang": "it",
-   "date": "2026-11-09T08:43:54+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 18,
-   "sources_n": 1,
-   "title_it": "Torre Annunziata, Manuel Zavarese non si ferma più: nuova vittoria sul ring a Napoli - Lo Strillone",
-   "title_es": "Torre Annunziata, Manuel Zavarese non si ferma più: nuova vittoria sul ring a Napoli - Lo Strillone"
   },
   {
    "title": "Tyson Fury reveals true feelings towards ex-trainer now with Anthony Joshua",
@@ -2929,7 +2929,7 @@
    "date": "2026-11-08T02:35:21+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 3,
+   "score": 2,
    "sources_n": 1,
    "title_it": "CHEV CLARKE HA ELIMINATO CHRIS BILLAM-SMITH 😱 #ZuffaBoxing12",
    "title_es": "CHEV CLARKE DEJÓ A CHRIS BILLAM-SMITH 😱 # ZuffaBoxing12"
@@ -3269,7 +3269,7 @@
    "date": "2026-11-07T22:33:10+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 1,
+   "score": 0,
    "sources_n": 1,
    "title_it": "Il terrificante momento in cui il combattente a mani nude viene brutalmente messo k.o. e cade sulla tela come una statua",
    "title_es": "Aterrador momento en el que un luchador desnudo es brutalmente noqueado y cae al lienzo como una estatua"
@@ -3285,7 +3285,7 @@
     "Denzel Bentley",
     "Shane Mosley Jr"
    ],
-   "score": 86,
+   "score": 85,
    "sources_n": 7,
    "title_it": "Denzel Bentley supera l'implacabile Shane Mosley Jr prima di chiamare Conor Benn per la battaglia d'Inghilterra",
    "title_es": "Denzel Bentley supera al implacable Shane Mosley Jr antes de llamar a Conor Benn para la batalla de Gran Bretaña"
@@ -3472,6 +3472,19 @@
    "sources_n": 10,
    "title_it": "La lotta del pugile britannico Zak Miller contro Joshua Buatsi si è interrotta dopo \"il peggior gonfiore di sempre\" e l'intervento medico",
    "title_es": "La pelea del boxeador británico Zak Miller en la cartelera de Joshua Buatsi se detuvo después de la \"peor hinchazón de la historia\" e intervención médica"
+  },
+  {
+   "title": "FASI FINALI CAMPIONATI ITALIANI MASCHILI U15 FOGGIA 2026 - RISULTATI SEMIFINALI + PROGRAMMA FINALI - FPI",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOM1p4NEJQMm4xQmlDR09UUnlRcWdtMFlZcExlYnhFdUoyOWVyTXlzR3BUSmdZLWdoTFROOUUxWGZ4cHNUNThxZ3lGVGtRUGNycUIzZlZsM0tQTjJqUy1lc1l1eUNCUGZqUXkzZ3dwXzQ2TEJPclluWUU1UDhYLU5Zb052YmVLeDJyeVE2ZTRVRGlxTjQ0Zmd0VHFUNG1pZGl5elJEUlVRejhPYWZ5TGpTNkxETDZJMzZHNk4xYVlJNzBydmp3RzcxZk9odmJ6ZVhXRmpqa1FqWVI?oc=5",
+   "source": "Google News: pugilato",
+   "lang": "it",
+   "date": "2026-11-07T19:31:24+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 0,
+   "sources_n": 1,
+   "title_it": "FASI FINALI CAMPIONATI ITALIANI MASCHILI U15 FOGGIA 2026 - RISULTATI SEMIFINALI + PROGRAMMA FINALI - FPI",
+   "title_es": "FASES FINALES DEL CAMPEONATO DE ITALIA MASCULINO U15 FOGGIA 2026 - RESULTADOS SEMIFINALES + PROGRAMA FINAL - FPI"
   },
   {
    "title": "Diego Pacheco Vs Darius Fulghum | Make The Days Count | Matchroom Boxing",
@@ -4036,19 +4049,6 @@
    "sources_n": 3,
    "title_it": "Brandon Moreno busca hacer historia ante Pedro Taduran en el asalto al título mundial de la IBF - AEBOX",
    "title_es": "Brandon Moreno busca hacer historia ante Pedro Taduran en el asalto al título mundial de la IBF - AEBOX"
-  },
-  {
-   "title": "Boxing Mailbag: Middleweight’s future, Loma’s return, Lara, more",
-   "link": "https://www.badlefthook.com/boxing-news/120212/boxing-mailbag-middleweights-future-lomas-return-lara-more",
-   "source": "Bad Left Hook",
-   "lang": "en",
-   "date": "2026-11-07T05:00:00-05:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 0,
-   "sources_n": 1,
-   "title_it": "Boxing Mailbag: il futuro dei pesi medi, il ritorno di Loma, Lara e altro ancora",
-   "title_es": "Boxing Mailbag: el futuro del peso mediano, el regreso de Loma, Lara, más"
   }
  ]
 }
