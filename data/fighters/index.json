@@ -1804,5 +1804,75 @@
   "langs": [
    "en"
   ]
+ },
+ "Kenzie Morrison": {
+  "tried": "2026-11-10T02:35:41+00:00"
+ },
+ "Masayoshi Nakatani": {
+  "slug": "masayoshi-nakatani",
+  "updated": "2026-11-10T02:35:49+00:00",
+  "total": 23,
+  "verified": 0,
+  "record": {
+   "w": 20,
+   "l": 3,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "fr"
+  ]
+ },
+ "Israel Adesanya": {
+  "slug": "israel-adesanya",
+  "updated": "2026-11-10T02:35:55+00:00",
+  "total": 44,
+  "verified": 0,
+  "record": {
+   "w": 39,
+   "l": 5,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "it",
+   "es",
+   "fr",
+   "pt"
+  ]
+ },
+ "Ramla Ali": {
+  "slug": "ramla-ali",
+  "updated": "2026-11-10T02:35:59+00:00",
+  "total": 14,
+  "verified": 7,
+  "record": {
+   "w": 12,
+   "l": 2,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "fr"
+  ]
+ },
+ "Adrien Broner": {
+  "slug": "adrien-broner",
+  "updated": "2026-11-10T02:36:05+00:00",
+  "total": 42,
+  "verified": 41,
+  "record": {
+   "w": 35,
+   "l": 5,
+   "d": 1,
+   "nc": 1
+  },
+  "langs": [
+   "en",
+   "it"
+  ]
  }
 }
