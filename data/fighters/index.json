@@ -8463,5 +8463,82 @@
  },
  "Milton Santiago": {
   "tried": "2026-11-10T15:01:28+00:00"
+ },
+ "Azinga Fuzile": {
+  "slug": "azinga-fuzile",
+  "updated": "2026-11-10T15:05:44+00:00",
+  "total": 17,
+  "verified": 0,
+  "record": {
+   "w": 15,
+   "l": 2,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Reymart Gaballo": {
+  "slug": "reymart-gaballo",
+  "updated": "2026-11-10T15:05:48+00:00",
+  "total": 33,
+  "verified": 0,
+  "record": {
+   "w": 31,
+   "l": 2,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "es"
+  ]
+ },
+ "Nathan Gorman": {
+  "slug": "nathan-gorman",
+  "updated": "2026-11-10T15:05:51+00:00",
+  "total": 22,
+  "verified": 0,
+  "record": {
+   "w": 19,
+   "l": 3,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Kash Farooq": {
+  "slug": "kash-farooq",
+  "updated": "2026-11-10T15:05:54+00:00",
+  "total": 17,
+  "verified": 0,
+  "record": {
+   "w": 16,
+   "l": 1,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Sunny Edwards": {
+  "slug": "sunny-edwards",
+  "updated": "2026-11-10T15:05:59+00:00",
+  "total": 23,
+  "verified": 0,
+  "record": {
+   "w": 21,
+   "l": 2,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "es"
+  ]
  }
 }
