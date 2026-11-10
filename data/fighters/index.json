@@ -3162,5 +3162,85 @@
  },
  "Oier Ibarretxe": {
   "tried": "2026-11-10T04:35:43+00:00"
+ },
+ "Erislandy Álvarez": {
+  "slug": "erislandy-alvarez",
+  "updated": "2026-11-10T04:41:02+00:00",
+  "total": 69,
+  "verified": 65,
+  "record": {
+   "w": 64,
+   "l": 3,
+   "d": 2,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "es"
+  ]
+ },
+ "Lázaro Álvarez": {
+  "slug": "lazaro-alvarez",
+  "updated": "2026-11-10T04:41:08+00:00",
+  "total": 6,
+  "verified": 0,
+  "record": {
+   "w": 6,
+   "l": 0,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "it"
+  ]
+ },
+ "Eleider Álvarez": {
+  "slug": "eleider-alvarez",
+  "updated": "2026-11-10T04:41:10+00:00",
+  "total": 27,
+  "verified": 27,
+  "record": {
+   "w": 25,
+   "l": 2,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "es"
+  ]
+ },
+ "Johanna Peña Álvarez": {
+  "slug": "johanna-pena-alvarez",
+  "updated": "2026-11-10T04:41:14+00:00",
+  "total": 20,
+  "verified": 0,
+  "record": {
+   "w": 15,
+   "l": 3,
+   "d": 2,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "de"
+  ]
+ },
+ "Rigoberto Álvarez": {
+  "slug": "rigoberto-alvarez",
+  "updated": "2026-11-10T04:41:18+00:00",
+  "total": 31,
+  "verified": 0,
+  "record": {
+   "w": 27,
+   "l": 4,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "es"
+  ]
  }
 }
