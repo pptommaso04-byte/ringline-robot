@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-10T18:31:02+00:00",
- "feeds_ok": 50,
- "feeds_failed": 3,
+ "updated": "2026-11-10T18:35:44+00:00",
+ "feeds_ok": 49,
+ "feeds_failed": 4,
  "news": [
   {
    "title": "Julio Cesar Chavez sums up Canelo’s performance in decision win against Christian Mbilli for WBC title",
@@ -272,7 +272,7 @@
    "date": "2026-11-10T16:33:07+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 49,
+   "score": 48,
    "sources_n": 2,
    "title_it": "Apertura straordinaria della 64a Convention annuale WBC ad Acapulco",
    "title_es": "Extraordinaria apertura de la 64 Convención Anual del WBC en Acapulco"
@@ -532,7 +532,7 @@
    "date": "2026-11-10T14:35:33+00:00",
    "status": "rumor",
    "boxers": [],
-   "score": 58,
+   "score": 57,
    "sources_n": 5,
    "title_it": "Angel Perez parla del combattimento del 13 novembre, chiama Emiliano Vargas",
    "title_es": "Ángel Pérez habla de la pelea del 13 de noviembre y critica a Emiliano Vargas"
@@ -766,7 +766,7 @@
    "boxers": [
     "Denzel Bentley"
    ],
-   "score": 92,
+   "score": 91,
    "sources_n": 6,
    "title_it": "Denzel Bentley è disposto a recarsi in Irlanda per il titolo di Tyrone McKenna",
    "title_es": "Denzel Bentley dispuesto a viajar a Irlanda para luchar por el título de Tyrone McKenna"
@@ -1351,7 +1351,7 @@
    "date": "2026-11-10T00:32:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 31,
+   "score": 30,
    "sources_n": 2,
    "title_it": "È iniziata ad Acapulco la 64a Convention del World Boxing Council - Diario Deportes",
    "title_es": "Comenzó la 64ª Convención del Consejo Mundial de Boxeo en Acapulco - Diario Deportes"
@@ -1642,7 +1642,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 103,
+   "score": 102,
    "sources_n": 12,
    "title_it": "Eddie Hearn solleva il coperchio sul prossimo obiettivo di Anthony Joshua dopo lo scontro con Tyson Fury",
    "title_es": "Eddie Hearn levanta la tapa sobre el próximo objetivo de Anthony Joshua después del choque con Tyson Fury"
@@ -2188,7 +2188,7 @@
    "date": "2026-11-09T12:33:00+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 33,
+   "score": 32,
    "sources_n": 1,
    "title_it": "Boxe: Pugilato-Ramla Ali vince il primo titolo mondiale a 37 anni in Texas - The Star",
    "title_es": "Boxeo: Boxeo-Ramla Ali gana el primer título mundial a los 37 años en Texas - The Star"
@@ -2773,6 +2773,19 @@
    "sources_n": 3,
    "title_it": "Le braccia T-Rex di Canelo favoriscono ancora Crawford in una rivincita",
    "title_es": "Los brazos de T-Rex de Canelo siguen favoreciendo a Crawford en una revancha"
+  },
+  {
+   "title": "One down, four to go - Daily Tribune",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0wbU5VNkJmTkxsczdoTGFZTURPTUxGOERJVGhMUUpfTW1uVnhJLVp1MlBwY0JmdGNYdjI3YnNLZkVlaHRBUWdhaDJYeG5ZVnh1R0l3NC1WdmhzdXY3RW9QbWY3MA?oc=5",
+   "source": "Google News: boxing",
+   "lang": "en",
+   "date": "2026-11-09T01:21:31+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 9,
+   "sources_n": 1,
+   "title_it": "Uno in meno, ne mancano quattro - Daily Tribune",
+   "title_es": "Uno menos, faltan cuatro - Daily Tribune"
   },
   {
    "title": "‘It did scare me’: The health battle behind Tszyu’s world title bid - CODE Sports",
@@ -4063,19 +4076,6 @@
    "sources_n": 4,
    "title_it": "Zach Parker ha foldato con un disgustoso KO con un colpo al corpo sulla carta di Zuffa Boxing per mandare in frantumi le speranze di titolo",
    "title_es": "Zach Parker falló en un repugnante KO con un golpe al cuerpo en la cartelera de Zuffa Boxing para destruir las esperanzas de título"
-  },
-  {
-   "title": "Around the Table: Can anyone at 160 or 168 beat Canelo?",
-   "link": "https://www.badlefthook.com/boxing-commentary-opinion/120222/around-the-table-can-anyone-at-160-or-168-beat-canelo-boxing-news-2026",
-   "source": "Bad Left Hook",
-   "lang": "en",
-   "date": "2026-11-07T19:00:00-05:00",
-   "status": "confirmed",
-   "boxers": [],
-   "score": 33,
-   "sources_n": 1,
-   "title_it": "Intorno al tavolo: qualcuno a 160 o 168 può battere Canelo?",
-   "title_es": "Alrededor de la mesa: ¿Alguien en 160 o 168 puede vencer a Canelo?"
   }
  ]
 }
