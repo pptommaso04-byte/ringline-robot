@@ -3785,5 +3785,69 @@
  },
  "Viktoria Penney": {
   "tried": "2026-11-10T06:01:09+00:00"
+ },
+ "José Albuquerque": {
+  "tried": "2026-11-10T06:05:38+00:00"
+ },
+ "Amari Jones": {
+  "slug": "amari-jones",
+  "updated": "2026-11-10T06:05:45+00:00",
+  "total": 17,
+  "verified": 0,
+  "record": {
+   "w": 17,
+   "l": 0,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Cameron Vuong": {
+  "slug": "cameron-vuong",
+  "updated": "2026-11-10T06:05:52+00:00",
+  "total": 10,
+  "verified": 0,
+  "record": {
+   "w": 9,
+   "l": 0,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Cain Sandoval": {
+  "slug": "cain-sandoval",
+  "updated": "2026-11-10T06:05:59+00:00",
+  "total": 16,
+  "verified": 0,
+  "record": {
+   "w": 15,
+   "l": 1,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "es"
+  ]
+ },
+ "George Liddard": {
+  "slug": "george-liddard",
+  "updated": "2026-11-10T06:06:02+00:00",
+  "total": 15,
+  "verified": 0,
+  "record": {
+   "w": 15,
+   "l": 0,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
