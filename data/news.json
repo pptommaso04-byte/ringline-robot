@@ -1,8 +1,36 @@
 {
- "updated": "2026-11-10T11:55:50+00:00",
- "feeds_ok": 49,
- "feeds_failed": 4,
+ "updated": "2026-11-10T12:01:26+00:00",
+ "feeds_ok": 50,
+ "feeds_failed": 3,
  "news": [
+  {
+   "title": "Anthony Joshua's BEST 'Gloves Are Off' appearances IN FULL",
+   "link": "https://www.youtube.com/watch?v=SmBwafobP8k",
+   "source": "YouTube Sky Sports Boxing",
+   "lang": "en",
+   "date": "2026-11-10T12:00:01+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Anthony Joshua"
+   ],
+   "score": 74,
+   "sources_n": 2,
+   "title_it": "LE MIGLIORI apparizioni DI Anthony Joshua IN \"Gloves Are Off\"",
+   "title_es": "Las MEJORES apariciones DE Anthony Joshua EN 'Gloves Are Off' EN SU TOTALIDAD"
+  },
+  {
+   "title": "Can you name 3 boxers undefeated boxers? 🥊 Brought to you by That Prize Guy #AD",
+   "link": "https://www.saddoboxing.com/111965-can-you-name-3-boxers-undefeated-boxers-%f0%9f%a5%8a-brought-to-you-by-that-prize-guy-ad.html",
+   "source": "Saddo Boxing",
+   "lang": "en",
+   "date": "2026-11-10T11:58:05+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 37,
+   "sources_n": 1,
+   "title_it": "Puoi nominare 3 pugili imbattuti? 🥊 Offerto da That Prize Guy #AD",
+   "title_es": "¿Puedes nombrar a 3 boxeadores invictos? 🥊 Traído a ti por That Prize Guy #AD"
+  },
   {
    "title": "Fury vs. Joshua Decision Costs Heavyweight Champion Title Status",
    "link": "https://www.worldboxingnews.com/gassiev-fury-joshua-wba-title/",
@@ -132,19 +160,6 @@
    "title_es": "Canelo Álvarez podría enfrentarse al nuevo campeón mundial británico en una pelea por cambio de peso"
   },
   {
-   "title": "Can you name 3 boxers undefeated boxers? 🥊 Brought to you by That Prize Guy #AD",
-   "link": "https://www.youtube.com/watch?v=yBvfb414uWY",
-   "source": "YouTube DAZN Boxing",
-   "lang": "en",
-   "date": "2026-11-10T10:18:55+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 37,
-   "sources_n": 1,
-   "title_it": "Puoi nominare 3 pugili imbattuti? 🥊 Offerto da That Prize Guy #AD",
-   "title_es": "¿Puedes nombrar a 3 boxeadores invictos? 🥊 Presentado por ese chico premiado #AD"
-  },
-  {
    "title": "Tyson Fury reveals what really happened in disputed Anthony Joshua sparring session",
    "link": "https://boxingnewsonline.net/news/fury-on-what-happened-in-joshua-sparring/",
    "source": "Boxing News (UK)",
@@ -168,7 +183,7 @@
    "date": "2026-11-10T10:00:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 29,
+   "score": 28,
    "sources_n": 1,
    "title_it": "Merson: Se il Chelsea non vince la Champions League, sarà un enorme, enorme fallimento",
    "title_es": "Merson: \"Si el Chelsea no consigue la Liga de Campeones, será un fracaso enorme\""
@@ -332,7 +347,7 @@
    "date": "2026-11-10T06:01:02+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 55,
+   "score": 54,
    "sources_n": 3,
    "title_it": "La stella della boxe filippina Pedro Taduran ha mantenuto la sua corona di peso minimo della Federazione Internazionale di Pugilato dopo aver vinto all'unanimità contro lo spagnolo Brandon Moreno l'8 novembre 2026, all'Auditorium Kiva di Albuquerque, nel Nuovo Messico. Link al ful - Facebook",
    "title_es": "La estrella del boxeo filipino Pedro Taduran retuvo su corona de peso mínimo de la Federación Internacional de Boxeo después de lograr una victoria por decisión unánime sobre el español Brandon Moreno el 8 de noviembre de 2026, en el Auditorio Kiva en Albuquerque, Nuevo México. Enlace al FUL - Facebook"
@@ -345,7 +360,7 @@
    "date": "2026-11-10T06:00:36+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 27,
+   "score": 26,
    "sources_n": 1,
    "title_it": "Pugilato Under 15, bronzo italiano per la Gordini Boxe Ravenna - Ravenna Web Tv",
    "title_es": "Pugilato Under 15, bronzo italiano per la Gordini Boxe Ravenna - Ravenna Web Tv"
@@ -361,7 +376,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 57,
+   "score": 56,
    "sources_n": 6,
    "title_it": "Guarda: Rivals - Fury v Joshua su BBC iPlayer",
    "title_es": "Mira: Rivals - Fury v Joshua en BBC iPlayer"
@@ -377,7 +392,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 67,
+   "score": 66,
    "sources_n": 6,
    "title_it": "5 Live Boxing con Steve Bunce",
    "title_es": "5 boxeo en vivo con Steve Bunce"
@@ -390,7 +405,7 @@
    "date": "2026-11-10T06:00:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 27,
+   "score": 26,
    "sources_n": 1,
    "title_it": "Perché un'entusiasmante era di F1 chiama dopo il doppio titolo di Mercedes",
    "title_es": "Por qué llega una emocionante era de la F1 después del doblete de Mercedes"
@@ -455,7 +470,7 @@
    "date": "2026-11-10T04:00:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 26,
+   "score": 25,
    "sources_n": 1,
    "title_it": "Khelif torna sul ring. Con tutte le polemiche - La Stampa",
    "title_es": "Khelif regresa al ring. Con todas las polémicas - La Stampa"
@@ -520,8 +535,8 @@
    "date": "2026-11-10T01:20:14+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 54,
-   "sources_n": 4,
+   "score": 44,
+   "sources_n": 3,
    "title_it": "Una giornata come oggi nella boxe... 9 novembre - World Boxing Council",
    "title_es": "Un día como hoy en el boxeo… 9 de noviembre - World Boxing Council"
   },
@@ -775,19 +790,6 @@
    "title_es": "FIAMME ORO - Campionato italiano under15 pugilato, tre medaglie per i giovani casertani - CasertaFocus"
   },
   {
-   "title": "Shera Mae Patricio and Brittany Sims battle to draw in WBA Bantamweight World Title fight – World Boxing Association",
-   "link": "https://www.saddoboxing.com/111933-shera-mae-patricio-and-brittany-sims-battle-to-draw-in-wba-bantamweight-world-title-fight-world-boxing-association.html",
-   "source": "Saddo Boxing",
-   "lang": "en",
-   "date": "2026-11-09T20:51:08+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 72,
-   "sources_n": 7,
-   "title_it": "Shera Mae Patricio e Brittany Sims combattono per vincere il titolo mondiale dei pesi gallo WBA – World Boxing Association",
-   "title_es": "Shera Mae Patricio y Brittany Sims luchan por empatar en pelea por el título mundial de peso gallo de la AMB – Asociación Mundial de Boxeo"
-  },
-  {
    "title": "Sabalenka starts pursuit of WTA Finals title with opening win",
    "link": "https://www.skysports.com/tennis/news/12040/13610366/wta-finals-aryna-sabalenka-battles-past-karolina-muchova-in-her-opening-match-at-indian-wells",
    "source": "Sky Sports Boxing",
@@ -928,7 +930,7 @@
    "date": "2026-11-09T17:59:35+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 31,
+   "score": 30,
    "sources_n": 2,
    "title_it": "Quanto è brava Viddal Riley.",
    "title_es": "Qué buena es Viddal Riley."
@@ -941,7 +943,7 @@
    "date": "2026-11-09T17:58:41+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 39,
+   "score": 38,
    "sources_n": 1,
    "title_it": "La rifugiata somala vince il titolo mondiale di pugilato femminile a 37 anni nella lotta in Texas - Horseed Media",
    "title_es": "Refugiada somalí gana el título mundial de boxeo femenino a los 37 años en una pelea en Texas - Horseed Media"
@@ -981,7 +983,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 70,
-   "sources_n": 7,
+   "sources_n": 6,
    "title_it": "Irma García detronizza Nataly Delgado e conquista il titolo mondiale WBA dei pesi mosca super - World Boxing Association",
    "title_es": "Irma García destrona a Nataly Delgado para capturar el título mundial supermosca AMB - Asociación Mundial de Boxeo"
   },
@@ -1007,7 +1009,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 60,
-   "sources_n": 7,
+   "sources_n": 6,
    "title_it": "Cintura da boxe gratis per tutti, l'ottavo titolo mondiale alimenta il caos",
    "title_es": "Boxing Belt Free-For-All as Eighth World Title Fuels Chaos"
   },
@@ -1023,6 +1025,19 @@
    "sources_n": 1,
    "title_it": "Campionati italiani under 15 di boxe, 3 giovanissimi delle Fiamme Oro sul podio - CasertaNews",
    "title_es": "Campionati italiani under 15 di boxe, 3 giovanissimi delle Fiamme Oro sul podio - CasertaNoticias"
+  },
+  {
+   "title": "Shera Mae Patricio and Brittany Sims battle to draw in WBA Bantamweight World Title fight - World Boxing Association",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMGVCM2JYN1cxcFprV0M0S3RVV1lXY3VTZlYzLV9FcW5NUmpFNUN4eWZtRUlWSk84dzY4OUc1TUNDaGVVQjEtTkI3bzIwSmhFTWZjLWhHVFVnUG9MNGNPV284YVlpS2Qzc0lTbHl5aS1CcV9UWmZXc2NhWGV1SlZEOHVWUGpjTDJKZFZ3ZUUyNkhUa3VOZl8xUm1sU3V4OU0yUjlOTVVQdXBOb0hFbTBrMTd1alBGcHVXNGdlMkRHSzg5bVJZdFE?oc=5",
+   "source": "Google News: boxing",
+   "lang": "en",
+   "date": "2026-11-09T17:21:07+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 70,
+   "sources_n": 6,
+   "title_it": "Shera Mae Patricio e Brittany Sims lottano per il titolo mondiale WBA dei pesi gallo - World Boxing Association",
+   "title_es": "Shera Mae Patricio y Brittany Sims luchan por empatar en la pelea por el título mundial de peso gallo de la AMB - Asociación Mundial de Boxeo"
   },
   {
    "title": "Ramla Ali wins her first world boxing title ᐉ News from Fakti.bg - Sport - Fakti.bg",
@@ -1046,13 +1061,13 @@
    "status": "unverified",
    "boxers": [],
    "score": 113,
-   "sources_n": 9,
+   "sources_n": 8,
    "title_it": "David Benavidez ricorda di aver vinto il suo primo titolo mondiale a 20 anni",
    "title_es": "David Benavidez recuerda haber ganado su primer título mundial a los 20 años"
   },
   {
    "title": "Boxing Weekend Review: Willy Hutchinson's world title triumph and Cheavon Clarke revives career - DAZN",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUkZ2QnBMTEw3UGVSTW1ULUFrUEdjZlRWcEpfX3NYQjl3UFZzc2JEdjBHdVN1SlNfYnV3eWhsRGtmemdoeDc5UVRFSmpVZlVlbi1SMGt6b2RUQmFwUXhDY0RaM3ZqbUxiV0ljMFdsMDJKWmMyNF9pY0ZmV2V6M0ZQRmN3b3k3VDIwRTRRa2xremFKLUlLMjg0WUY1bFZyMWwwVzNoR0JNYWdmbk1aNWtodmE0QWZhenVMcE96b0JQSExsLWR4anM2US1VUlJhaFFQd0RSTjFVaWx6VFg1ZFlIUnJn?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZm5SWjRSdEVMWWxCNTFKSWZYclhpRVAtdlJ3WUQ2T2RxRFV4b3lUZ2VvTUFfUUFGazhaOTZHaFp5VlowZUtXY3JDZXFqTmhFU2dnc1N4LUxXQ2V2R3p6REJMYUxUSVo2aFhLa08wRVB3NjAxUDlleC1jb0w5Z3g3Nzdrc2RFY2JaSGFzdWlNdXlSWDB0bHVGbFhNVG94QnhFMFVscTFzcVN0RGJwWGNzSlZUeVBrd0VkUEJWM1VKNlkxRWF2bVZrR3ZRUzNJRlpmdUhjRzlmWF9FdXhJc3V1dldn?oc=5",
    "source": "Google News: boxing",
    "lang": "en",
    "date": "2026-11-09T17:00:00+00:00",
@@ -1127,8 +1142,8 @@
    "boxers": [
     "Naoya Inoue"
    ],
-   "score": 125,
-   "sources_n": 7,
+   "score": 124,
+   "sources_n": 6,
    "title_it": "Junto Nakatani sta puntando a un combattimento con Ramon Cardenas a febbraio. La coppia è classificata #1 e #2 rispettivamente dal WBC, e l'incontro potrebbe portare un titolo mondiale provvisorio a 122 libbre se Naoya Inoue non si è liberata a quel punto.",
    "title_es": "Junto a Nakatani está apuntando a una pelea con Ramón Cárdenas en febrero. La pareja ocupa el puesto #1 y #2, respectivamente, por el CMB, y la pelea podría llevar a un título mundial interino de 122 libras si Naoya Inoue no ha desocupado en ese momento."
   },
@@ -1327,7 +1342,7 @@
    "date": "2026-11-09T13:58:37+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 67,
+   "score": 66,
    "sources_n": 11,
    "title_it": "Alycia Baumgardner vince davanti al pubblico di casa, diventa campionessa del mondo in 2 divisioni - Dallas News",
    "title_es": "Alycia Baumgardner gana frente al público local, se convierte en campeona mundial de 2 divisiones - Dallas News"
@@ -1340,7 +1355,7 @@
    "date": "2026-11-09T13:55:57+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 19,
+   "score": 18,
    "sources_n": 1,
    "title_it": "Cartelera de mexicanos en boxeo y UFC esta semana: peleas, horarios y dónde ver - Juanfutbol",
    "title_es": "Cartelera de mexicanos en boxeo y UFC esta semana: peleas, horarios y dónde ver - Juanfutbol"
@@ -1611,7 +1626,7 @@
   },
   {
    "title": "Boxing news: Alycia Baumgardner wins lightweight world title as Ramla Ali and Skye Nicolson triumph - DAZN",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYzR2ZjctOTkwczluWmJHQ0tWMGUyVVF4ekduZ0EyaGFwaDZSNWlHMU84Zktvcnota0ZuSWlUeHRfd1JFQjJOQmw3WWtwTFpXNHd6RFJaamxJSWw1andOQnozSU1BczVtVUtzT2tPU2liQl8wV2p3dG5hbF90TU5LRnpTNWI5Wlp3eldxcWU3QmRQbkxoMDFzbDNtZ2VGaGdvQ1oxREIxM1JJMEFUOXRqRjUzeEFEbEgxdm1iQXU3NEZ1ekZpdDE4bVZ2NkpkQ2h1SFE?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZWRFQlgyeDdOcUhYdU5jemZVVk5BUTg1S0dWY21wRWowQ1diYnBYdDVPcmYzQ0xTT05JTDc2ajJtYUdtLWFkaWl0OEdKREhEdFp5YU9nTmxnRmVkOHhlaWEwNTIxMjdVSEllZnUyR21Fa1Y0Z1ZrcmlQV0ZZRzNxV20xZ0N5cDZOV0RidU9DRGtpaGlSUTRFRFRHMEllcHJRY3V2TjdEbVd5QnZINko5N1dObXNOQjNzcDl6bm9jd1J5M0NfV2JFUjc5NE1LUjhBMUE?oc=5",
    "source": "Google News: boxing",
    "lang": "en",
    "date": "2026-11-09T11:00:00+00:00",
@@ -1811,8 +1826,8 @@
    "date": "2026-11-09T08:05:58+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 56,
-   "sources_n": 4,
+   "score": 46,
+   "sources_n": 3,
    "title_it": "Javan Buyu combatte Kamran per il titolo mondiale UBO come SportPesa Boxing Night promette una storica resa dei conti keniota - SportPesa Blog",
    "title_es": "Javan Buyu lucha contra Kamran por el título mundial de UBO ya que SportPesa Boxing Night promete un enfrentamiento histórico en Kenia - Blog de SportPesa"
   },
@@ -1827,7 +1842,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 71,
+   "score": 70,
    "sources_n": 1,
    "title_it": "JOHNNY FISHER VERITÀ SU TYSON FURY RUMORI SULL'INFORTUNIO PER ANTHONY JOSHUA, PREDICE WILDER VS OPETAIA",
    "title_es": "JOHNNY FISHER VERDAD SOBRE LOS RUMORES DE LESIONES DE TYSON FURY PARA ANTHONY JOSHUA, PREDICTA WILDER VS OPETAIA"
@@ -1905,7 +1920,7 @@
    "date": "2026-11-09T06:00:42+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 63,
+   "score": 62,
    "sources_n": 13,
    "title_it": "Baumgardner vince il secondo titolo mondiale dopo aver fermato Turhan - boxingnews.com",
    "title_es": "Baumgardner gana el segundo título mundial después de detener a Turhan - boxingnews.com"
@@ -2036,7 +2051,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 53,
-   "sources_n": 10,
+   "sources_n": 9,
    "title_it": "Skye Nicolson sembra in FORMA per la lotta per il titolo mondiale contro Yoshida 💨 - Notizie di boxe 24",
    "title_es": "Skye Nicolson se ve FUERTE para la pelea por el título mundial contra Yoshida 💨 - Boxing News 24"
   },
@@ -2049,7 +2064,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 53,
-   "sources_n": 8,
+   "sources_n": 7,
    "title_it": "Skye Nicolson sembra in forma per la lotta per il titolo mondiale contro Yoshida 💨",
    "title_es": "Skye Nicolson luce AGUDA para la pelea por el título mundial contra Yoshida 💨"
   },
@@ -2113,7 +2128,7 @@
    "date": "2026-11-08T23:56:57+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 57,
+   "score": 56,
    "sources_n": 1,
    "title_it": "Daniel Dubois vs Fabio Wardley II combattimento completo",
    "title_es": "Daniel Dubois vs Fabio Wardley II pelea completa"
@@ -2244,7 +2259,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 39,
-   "sources_n": 8,
+   "sources_n": 7,
    "title_it": "Catherine Nanziri Eyes Historic World Boxing Title - NTV Uganda",
    "title_es": "Catherine Nanziri Ojos Título Mundial de Boxeo Histórico - NTV Uganda"
   },
@@ -2282,7 +2297,7 @@
    "date": "2026-11-08T18:00:23+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 19,
+   "score": 18,
    "sources_n": 2,
    "title_it": "Un debutto professionale davvero SENSAZIONALE da parte di Vinnie “King of Violence” Kemp! 🤯💥 #ZuffaBoxing12",
    "title_es": "¡Un debut profesional verdaderamente SENSACIONAL de Vinnie “King of Violence” Kemp! 🤯💥 #ZuffaBoxing12"
@@ -2337,7 +2352,7 @@
    "date": "2026-11-08T16:00:11+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 18,
+   "score": 17,
    "sources_n": 2,
    "title_it": "Gully Powar ha perseverato, ha perseverato e ieri sera ha finalmente vinto un titolo britannico 🙌",
    "title_es": "Gully Powar ha perseverado y perseverado y anoche finalmente ganó un título británico 🙌"
@@ -2496,7 +2511,7 @@
    "date": "2026-11-08T12:00:13+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 16,
+   "score": 15,
    "sources_n": 2,
    "title_it": "Viddal Riley vs Seydi Coupe: pronostico e scheda di combattimento per il 14 novembre",
    "title_es": "Viddal Riley vs Seydi Coupe: Tarjeta de predicción y pelea para el 14 de noviembre"
@@ -2511,7 +2526,7 @@
    "boxers": [
     "Denzel Bentley"
    ],
-   "score": 91,
+   "score": 90,
    "sources_n": 7,
    "title_it": "\"Possiamo farcela l'anno prossimo!\" 👀 Denzel Bentley chiama Conor Benn a #ZuffaBoxing12",
    "title_es": "\"¡Podemos hacerlo funcionar el año que viene!\" 👀 Denzel Bentley critica a Conor Benn en # ZuffaBoxing12"
@@ -2524,7 +2539,7 @@
    "date": "2026-11-08T11:58:44+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 36,
+   "score": 35,
    "sources_n": 6,
    "title_it": "Conferenza stampa post-incontro: Zuffa Boxing 12",
    "title_es": "Conferencia de prensa posterior a la pelea: Zuffa Boxing 12"
@@ -2592,7 +2607,7 @@
    "date": "2026-11-08T10:01:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 5,
+   "score": 4,
    "sources_n": 1,
    "title_it": "Rocky Gym Cral Cogne, bronzo tricolore per Margot Mappelli ai Campionati italiani Under 15 - AostaSports",
    "title_es": "Rocky Gym Cral Cogne, bronzo tricolor por Margot Mappelli ai Campionati italiani menores de 15 años - AostaSports"
@@ -2608,7 +2623,7 @@
     "Denzel Bentley",
     "Shane Mosley Jr"
    ],
-   "score": 70,
+   "score": 69,
    "sources_n": 8,
    "title_it": "Denzel Bentley contro Shane Mosley Jr | Lotta completa | Pesi medi",
    "title_es": "Denzel Bentley vs Shane Mosley Jr | Pelea Completa | Peso medio"
@@ -2621,7 +2636,7 @@
    "date": "2026-11-08T10:00:02+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 80,
+   "score": 79,
    "sources_n": 4,
    "title_it": "Diego Pacheco vs Darius Fulghum: pronostico e scheda di combattimento per il 14 novembre",
    "title_es": "Diego Pacheco vs Darius Fulghum: Predicción y carta de pelea para el 14 de noviembre"
@@ -2634,7 +2649,7 @@
    "date": "2026-11-08T09:56:05+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 5,
+   "score": 4,
    "sources_n": 1,
    "title_it": "Rocky è un film di boxe? Inoltre, \"I Play Rocky\" è un film di Rocky?",
    "title_es": "¿Es 'Rocky' una película de boxeo? Además, ¿es 'I Play Rocky' una película de Rocky?"
@@ -2825,7 +2840,7 @@
     "Denzel Bentley",
     "Shane Mosley Jr"
    ],
-   "score": 69,
+   "score": 68,
    "sources_n": 7,
    "title_it": "[SPOILER] Denzel Bentley contro Shane Mosley Jr",
    "title_es": "[SPOILER] Denzel Bentley vs. Shane Mosley Jr"
@@ -2838,7 +2853,7 @@
    "date": "2026-11-08T08:00:33+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 34,
+   "score": 33,
    "sources_n": 9,
    "title_it": "Chris Billiam-Smith contro Cheavon Clarke | Lotta completa | Peso da crociera",
    "title_es": "Chris Billiam-Smith contra Cheavon Clarke | Pelea Completa | peso crucero"
@@ -2854,7 +2869,7 @@
     "Joshua Buatsi",
     "Anthony Joshua"
    ],
-   "score": 67,
+   "score": 66,
    "sources_n": 1,
    "title_it": "WILLY HUTCHINSON INVIA UN MESSAGGIO A BEN WHITTAKER DOPO AVER BATTUTO JOSHUA BUATSI",
    "title_es": "WILLY HUTCHINSON ENVÍA MENSAJE A BEN WHITTAKER TRAS VENCER A JOSHUA BUATSI"
@@ -2870,8 +2885,8 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 89,
-   "sources_n": 4,
+   "score": 88,
+   "sources_n": 5,
    "title_it": "I messaggi di testo trapelati di Anthony Joshua sono un avvertimento a Tyson Fury",
    "title_es": "Los mensajes de texto filtrados de Anthony Joshua advierten a Tyson Fury"
   },
@@ -2900,19 +2915,6 @@
    "sources_n": 3,
    "title_it": "Voglio affrontare Baumgardner, sarà la prossima grande rivalità della boxe - Dubois",
    "title_es": "Quiero enfrentarme a Baumgardner, será la próxima gran rivalidad del boxeo - Dubois"
-  },
-  {
-   "title": "\"I'm bringing that title back to Texas!\"",
-   "link": "https://www.youtube.com/watch?v=uot6akH8vKA",
-   "source": "YouTube Sky Sports Boxing",
-   "lang": "en",
-   "date": "2026-11-08T07:23:57+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 3,
-   "sources_n": 1,
-   "title_it": "\"Riporterò quel titolo in Texas!\"",
-   "title_es": "\"¡Traeré ese título de regreso a Texas!\""
   },
   {
    "title": "Ramla Ali and Skye Nicolson could be on a collision course if they win their world title fights in Texas - Sky Sports",
