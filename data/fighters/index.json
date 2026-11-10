@@ -9400,5 +9400,57 @@
  },
  "Fazil Kaggwa": {
   "tried": "2026-11-10T16:25:34+00:00"
+ },
+ "Alexis Barriere": {
+  "slug": "alexis-barriere",
+  "updated": "2026-11-10T16:31:09+00:00",
+  "total": 13,
+  "verified": 0,
+  "record": {
+   "w": 12,
+   "l": 1,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "it"
+  ]
+ },
+ "Ryota Yamauchi": {
+  "slug": "ryota-yamauchi",
+  "updated": "2026-11-10T16:31:14+00:00",
+  "total": 15,
+  "verified": 0,
+  "record": {
+   "w": 12,
+   "l": 3,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Asror Vokhidov": {
+  "tried": "2026-11-10T16:31:02+00:00"
+ },
+ "Gerome Warburton": {
+  "tried": "2026-11-10T16:31:02+00:00"
+ },
+ "Carlos Licona": {
+  "slug": "carlos-licona",
+  "updated": "2026-11-10T16:31:23+00:00",
+  "total": 16,
+  "verified": 0,
+  "record": {
+   "w": 15,
+   "l": 1,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
