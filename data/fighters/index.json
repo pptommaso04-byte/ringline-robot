@@ -11622,5 +11622,56 @@
  },
  "Inkululeko Suntele": {
   "tried": "2026-11-10T20:55:44+00:00"
+ },
+ "Tommy Martin (boxer)": {
+  "tried": "2026-11-10T21:01:13+00:00"
+ },
+ "Dean Walsh": {
+  "tried": "2026-11-10T21:01:13+00:00"
+ },
+ "Isaac Lowe": {
+  "slug": "isaac-lowe",
+  "updated": "2026-11-10T21:01:22+00:00",
+  "total": 31,
+  "verified": 0,
+  "record": {
+   "w": 25,
+   "l": 3,
+   "d": 3,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Dixon Flores": {
+  "slug": "dixon-flores",
+  "updated": "2026-11-10T21:01:28+00:00",
+  "total": 34,
+  "verified": 0,
+  "record": {
+   "w": 17,
+   "l": 12,
+   "d": 3,
+   "nc": 2
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Herman Ene-Purcell": {
+  "slug": "herman-ene-purcell",
+  "updated": "2026-11-10T21:01:32+00:00",
+  "total": 16,
+  "verified": 0,
+  "record": {
+   "w": 15,
+   "l": 0,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
