@@ -1375,5 +1375,44 @@
  },
  "Alyssa Mendoza": {
   "tried": "2026-11-10T01:55:35+00:00"
+ },
+ "HSTikkyTokky": {
+  "tried": "2026-11-10T02:01:22+00:00"
+ },
+ "Sam Hickey": {
+  "slug": "sam-hickey",
+  "updated": "2026-11-10T02:01:32+00:00",
+  "total": 7,
+  "verified": 0,
+  "record": {
+   "w": 7,
+   "l": 0,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Imane Khelif": {
+  "tried": "2026-11-10T02:01:22+00:00"
+ },
+ "Catherine Nanziri": {
+  "tried": "2026-11-10T02:01:22+00:00"
+ },
+ "Benjamin Whittaker": {
+  "slug": "benjamin-whittaker",
+  "updated": "2026-11-10T02:01:44+00:00",
+  "total": 14,
+  "verified": 0,
+  "record": {
+   "w": 13,
+   "l": 0,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
