@@ -8125,5 +8125,56 @@
  },
  "Artur Hovhannisyan (boxer)": {
   "tried": "2026-11-10T14:35:48+00:00"
+ },
+ "Dzmitry Asanau": {
+  "slug": "dzmitry-asanau",
+  "updated": "2026-11-10T14:40:48+00:00",
+  "total": 14,
+  "verified": 0,
+  "record": {
+   "w": 14,
+   "l": 0,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Viktor Petrov (boxer)": {
+  "tried": "2026-11-10T14:40:43+00:00"
+ },
+ "Luka Plantić": {
+  "slug": "luka-plantic",
+  "updated": "2026-11-10T14:40:53+00:00",
+  "total": 14,
+  "verified": 0,
+  "record": {
+   "w": 13,
+   "l": 1,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Javier Ibáñez": {
+  "tried": "2026-11-10T14:40:43+00:00"
+ },
+ "Bektemir Melikuziev": {
+  "slug": "bektemir-melikuziev",
+  "updated": "2026-11-10T14:41:00+00:00",
+  "total": 18,
+  "verified": 0,
+  "record": {
+   "w": 17,
+   "l": 1,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
