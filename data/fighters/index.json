@@ -124,7 +124,7 @@
  },
  "Devin Haney": {
   "slug": "devin-haney",
-  "updated": "2026-11-09T21:03:53+00:00",
+  "updated": "2026-11-10T17:10:49+00:00",
   "total": 34,
   "verified": 34,
   "record": {
@@ -142,7 +142,7 @@
  },
  "Ryan Garcia": {
   "slug": "ryan-garcia",
-  "updated": "2026-11-09T21:03:55+00:00",
+  "updated": "2026-11-10T17:10:51+00:00",
   "total": 29,
   "verified": 28,
   "record": {
@@ -161,7 +161,7 @@
  },
  "Jaron Ennis": {
   "slug": "jaron-ennis",
-  "updated": "2026-11-09T21:03:58+00:00",
+  "updated": "2026-11-10T17:10:54+00:00",
   "total": 37,
   "verified": 35,
   "record": {
@@ -9759,6 +9759,37 @@
   "langs": [
    "en",
    "it"
+  ]
+ },
+ "Eliseo Castillo": {
+  "slug": "eliseo-castillo",
+  "updated": "2026-11-10T17:10:58+00:00",
+  "total": 24,
+  "verified": 0,
+  "record": {
+   "w": 20,
+   "l": 3,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "pt"
+  ]
+ },
+ "José Luis Castillo": {
+  "slug": "jose-luis-castillo",
+  "updated": "2026-11-10T17:11:04+00:00",
+  "total": 80,
+  "verified": 0,
+  "record": {
+   "w": 66,
+   "l": 13,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
   ]
  }
 }
