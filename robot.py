@@ -11,7 +11,7 @@ Cosa fa, ogni volta che parte:
 Uso:  python3 robot.py            (una volta)
       python3 robot.py --loop 60  (ogni 60 minuti, senza fine)
 """
-import json, re, sys, time, hashlib, html, urllib.request, urllib.parse, xml.etree.ElementTree as ET
+import os, json, re, sys, time, hashlib, html, urllib.request, urllib.parse, xml.etree.ElementTree as ET
 from concurrent.futures import ThreadPoolExecutor
 import threading
 from datetime import datetime, timezone
@@ -197,6 +197,32 @@ def yt_feed_url(handle):
             ids[handle] = cid; p.write_text(json.dumps(ids, indent=1), encoding="utf-8")
     return "https://www.youtube.com/feeds/videos.xml?channel_id=" + cid
 
+def yt_api(handle, name, lang):
+    """YouTube ufficiale (Data API v3, gratuita). Serve la chiave YT_API_KEY nei Secrets di GitHub."""
+    key = os.environ.get("YT_API_KEY", "").strip()
+    if not key: raise ValueError("manca la chiave YT_API_KEY")
+    p = DATA / "yt_pl.json"
+    with YT_LOCK:
+        try: pl = json.loads(p.read_text(encoding="utf-8"))
+        except Exception: pl = {}
+    up = pl.get(handle)
+    if not up:
+        j = json.loads(fetch("https://www.googleapis.com/youtube/v3/channels?part=contentDetails&forHandle=%s&key=%s" % (urllib.parse.quote(handle if handle.startswith("@") else "@" + handle), key), timeout=15).decode("utf-8"))
+        if not j.get("items"): raise ValueError("canale non trovato")
+        up = j["items"][0]["contentDetails"]["relatedPlaylists"]["uploads"]
+        with YT_LOCK:
+            try: pl = json.loads(p.read_text(encoding="utf-8"))
+            except Exception: pl = {}
+            pl[handle] = up; p.write_text(json.dumps(pl, indent=1), encoding="utf-8")
+    j = json.loads(fetch("https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&maxResults=15&playlistId=%s&key=%s" % (up, key), timeout=15).decode("utf-8"))
+    out = []
+    for it in j.get("items", []):
+        sn = it["snippet"]; vid = sn.get("resourceId", {}).get("videoId")
+        if not vid or sn.get("title") in ("Private video", "Deleted video"): continue
+        out.append({"title": sn["title"][:300], "link": "https://www.youtube.com/watch?v=" + vid, "source": name, "lang": lang, "date": sn.get("publishedAt", datetime.now(timezone.utc).isoformat(timespec="seconds")).replace("Z", "+00:00")})
+    if not out: raise ValueError("nessun video")
+    return out
+
 def run(feeds_file="feeds.json", feeds_override=None):
     trim_log()
     cfg = json.loads((HERE / feeds_file).read_text(encoding="utf-8"))
@@ -204,9 +230,12 @@ def run(feeds_file="feeds.json", feeds_override=None):
     allnews, ok, bad = [], 0, 0
     def one(f):
         try:
-            url = yt_feed_url(f["yt"]) if f.get("yt") else f["url"]
-            raw = fetch(url, timeout=12) if not url.startswith("file:") else Path(url[5:]).read_bytes()
-            items = parse(raw, f["name"], f.get("lang", "en"))
+            if f.get("yt"):
+                items = yt_api(f["yt"], f["name"], f.get("lang", "en"))
+            else:
+                url = f["url"]
+                raw = fetch(url, timeout=12) if not url.startswith("file:") else Path(url[5:]).read_bytes()
+                items = parse(raw, f["name"], f.get("lang", "en"))
             if f.get("trusted"):
                 for it in items: it["_t"] = 1
             return f, items, None
