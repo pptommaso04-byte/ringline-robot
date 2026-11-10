@@ -1,8 +1,39 @@
 {
- "updated": "2026-11-10T18:01:19+00:00",
- "feeds_ok": 50,
- "feeds_failed": 3,
+ "updated": "2026-11-10T18:05:57+00:00",
+ "feeds_ok": 49,
+ "feeds_failed": 4,
  "news": [
+  {
+   "title": "Willy Hutchinson reveals Canelo Alvarez contact and vows to 'box his head off'",
+   "link": "https://www.boxingscene.com/articles/willy-hutchinson-reveals-canelo-alvarez-contact-and-vows-to-box-his-head-off",
+   "source": "Boxing Scene",
+   "lang": "en",
+   "date": "2026-11-10T18:02:41+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Canelo Alvarez"
+   ],
+   "score": 114,
+   "sources_n": 12,
+   "title_it": "Willy Hutchinson rivela il contatto di Canelo Alvarez e promette di \"staccargli la testa\"",
+   "title_es": "Willy Hutchinson revela el contacto de Canelo Álvarez y promete 'taparle la cabeza'"
+  },
+  {
+   "title": "Hutchinson: I'd give Alvarez 'boxing lesson' | Wilder to fight Opetaia on Fury-AJ undercard",
+   "link": "https://www.youtube.com/watch?v=q95lpzQylvA",
+   "source": "YouTube Sky Sports Boxing",
+   "lang": "en",
+   "date": "2026-11-10T18:01:09+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Canelo Alvarez",
+    "Tyson Fury"
+   ],
+   "score": 49,
+   "sources_n": 2,
+   "title_it": "Hutchinson: Darei ad Alvarez 'lezione di boxe' | Wilder per combattere Opetaia su Fury-AJ undercard",
+   "title_es": "Hutchinson: Le daría a Álvarez una 'lección de boxeo' | Wilder luchará contra Opetaia en la cartelera de Fury-AJ"
+  },
   {
    "title": "25 years ago today, Mayweather stopped Jesús Chávez in his last fight at 130. On the undercard, Pacquiao fought to a technical draw with Agapito Sánchez at 122.",
    "link": "https://www.reddit.com/r/Boxing/comments/1xstqmt/25_years_ago_today_mayweather_stopped_jesús/",
@@ -266,7 +297,7 @@
    "date": "2026-11-10T16:04:44+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 57,
+   "score": 56,
    "sources_n": 2,
    "title_it": "Il 7 novembre 2011, Joe Frazier è morto all'età di 67 anni. \"Smokin Joe\" ha vinto l'oro olimpico a 20 anni, partecipando ai giochi come sostituto dell'ultimo minuto. Ha difeso il suo titolo dei pesi massimi 9 volte (7 KO). Vincitore 3 volte Combattente dell'anno e 4 volte Combattimento dell'anno. Nel 1976 divenne il primo uomo a sconfiggere Muhammad Ali.",
    "title_es": "El 7 de noviembre de 2011, Joe Frazier falleció a los 67 años. \"Smokin Joe\" ganó el oro olímpico a los 20 años, asistiendo a los juegos como reemplazo de último minuto. Defendió su título de peso pesado 9 veces (7 KO). Tres veces Luchador del año y cuatro veces ganador de la Pelea del año. En 1976 se convirtió en el primer hombre en derrotar a Muhammad Ali."
@@ -306,7 +337,7 @@
    "status": "rumor",
    "boxers": [],
    "score": 103,
-   "sources_n": 8,
+   "sources_n": 7,
    "title_it": "Diego Pacheco parla del prossimo incontro contro. Darius Fulghum e potenziali combattimenti nei super medi",
    "title_es": "Diego Pacheco habla de próxima pelea vs. Darius Fulghum y posibles peleas en peso súper mediano"
   },
@@ -584,7 +615,7 @@
     "Canelo Alvarez"
    ],
    "score": 112,
-   "sources_n": 11,
+   "sources_n": 12,
    "title_it": "Willy Hutchinson viene \"analizzato\" come potenziale prossimo incontro per Canelo Alvarez",
    "title_es": "Willy Hutchinson siendo 'analizado' como posible próxima pelea de Canelo Álvarez"
   },
@@ -724,7 +755,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 102,
+   "score": 101,
    "sources_n": 10,
    "title_it": "Joe Joyce sulla differenza tra lo sparring di Tyson Fury e Anthony Joshua",
    "title_es": "Joe Joyce sobre la diferencia entre el sparring de Tyson Fury y Anthony Joshua"
@@ -897,7 +928,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 101,
+   "score": 100,
    "sources_n": 10,
    "title_it": "Tyson Fury rivela cosa è realmente accaduto nella controversa sessione di sparring di Anthony Joshua",
    "title_es": "Tyson Fury revela lo que realmente sucedió en la disputada sesión de sparring de Anthony Joshua"
@@ -1077,7 +1108,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 64,
+   "score": 63,
    "sources_n": 9,
    "title_it": "Fury v Joshua: 2. Una trilogia scomoda",
    "title_es": "Fury vs Joshua: 2. Una trilogía inconveniente"
@@ -1090,8 +1121,8 @@
    "date": "2026-11-10T06:01:02+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 51,
-   "sources_n": 3,
+   "score": 41,
+   "sources_n": 2,
    "title_it": "La stella della boxe filippina Pedro Taduran ha mantenuto la sua corona di peso minimo della Federazione Internazionale di Pugilato dopo aver vinto all'unanimità contro lo spagnolo Brandon Moreno l'8 novembre 2026, all'Auditorium Kiva di Albuquerque, nel Nuovo Messico. Link al ful - Facebook",
    "title_es": "La estrella del boxeo filipino Pedro Taduran retuvo su corona de peso mínimo de la Federación Internacional de Boxeo después de lograr una victoria por decisión unánime sobre el español Brandon Moreno el 8 de noviembre de 2026, en el Auditorio Kiva en Albuquerque, Nuevo México. Enlace al FUL - Facebook"
   },
@@ -1291,7 +1322,7 @@
    "date": "2026-11-10T00:03:35+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 39,
+   "score": 38,
    "sources_n": 1,
    "title_it": "Dan Rafael: \"NOTIZIE: secondo le fonti, la lotta di unificazione a tre cinture 154 di Boots Ennis-Josh Kelly si svolgerà il 27 febbraio alla State Farm Arena di Atlanta. \"",
    "title_es": "Dan Rafael: “NOTICIAS: Según las fuentes, la pelea de unificación Boots Ennis-Josh Kelly de tres cinturones 154 tendrá lugar el 27 de febrero en State Farm Arena en Atlanta”."
@@ -1436,7 +1467,7 @@
    "date": "2026-11-09T22:01:26+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 28,
+   "score": 27,
    "sources_n": 1,
    "title_it": "Christopher Diaz affronterà Alan Chaves a Orlando a dicembre",
    "title_es": "Christopher Díaz se enfrenta a Alan Chaves en Orlando en diciembre"
@@ -1779,7 +1810,7 @@
    "boxers": [
     "Denzel Bentley"
    ],
-   "score": 102,
+   "score": 101,
    "sources_n": 8,
    "title_it": "Denzel Bentley SPARA COLPI A Conor Benn su un potenziale scontro, RISPONDE ai commenti di Frank Warren",
    "title_es": "Denzel Bentley DISPARA A Conor Benn sobre una posible pelea, RESPONDE a los comentarios de Frank Warren"
@@ -1968,7 +1999,7 @@
    "date": "2026-11-09T14:04:58+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 44,
+   "score": 43,
    "sources_n": 2,
    "title_it": "Ilpugile britannico-somalo Ramla Ali sconfigge Mikiah Kreps per il primo titolo mondiale - Al Jazeera",
    "title_es": "El boxeador británico-somalí Ramla Ali derrota a Mikiah Kreps por el primer título mundial - Al Jazeera"
@@ -2657,7 +2688,7 @@
    "date": "2026-11-09T04:04:13+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 36,
+   "score": 35,
    "sources_n": 1,
    "title_it": "Due incontri aggiunti alla undercard Lara vs Tszyu",
    "title_es": "Dos peleas agregadas a la cartelera Lara vs Tszyu"
@@ -2735,7 +2766,7 @@
    "date": "2026-11-09T00:05:03+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 9,
+   "score": 8,
    "sources_n": 1,
    "title_it": "Caivano, Senofonte Demitry e Nicola Perrone: «Judo, karate e pugilato per controllare la rabbia» - Il Mattino",
    "title_es": "Caivano, Senofonte Demitry e Nicola Perrone: «Judo, karate e pugilato per controllare la rabbia» - Il Mattino"
@@ -2839,8 +2870,8 @@
    "date": "2026-11-08T19:42:57+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 26,
-   "sources_n": 3,
+   "score": 16,
+   "sources_n": 2,
    "title_it": "Combattimenti per il titolo da tutto il mondo: Pedro Taduran ancora una volta vittorioso",
    "title_es": "Peleas por el título de todo el mundo: Pedro Taduran vuelve a salir victorioso"
   },
@@ -2852,8 +2883,8 @@
    "date": "2026-11-08T19:42:57+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 26,
-   "sources_n": 3,
+   "score": 16,
+   "sources_n": 2,
    "title_it": "Combattimenti per il titolo da tutto il mondo: Pedro Taduran ancora una volta vittorioso - Yahoo Sports",
    "title_es": "Peleas por el título de todo el mundo: Pedro Taduran vuelve a salir victorioso - Yahoo Sports"
   },
@@ -3162,7 +3193,7 @@
    "date": "2026-11-08T10:05:44+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 22,
+   "score": 21,
    "sources_n": 3,
    "title_it": "Tommy Robinson coinvolto in una rissa dopo che il pugile salta fuori dal ring per attaccarlo",
    "title_es": "Tommy Robinson involucrado en una pelea después de que el boxeador salta del ring para atacarlo"
@@ -3179,22 +3210,6 @@
    "sources_n": 1,
    "title_it": "Rocky Gym Cral Cogne, bronzo tricolore per Margot Mappelli ai Campionati italiani Under 15 - AostaSports",
    "title_es": "Rocky Gym Cral Cogne, bronzo tricolor por Margot Mappelli ai Campionati italiani menores de 15 años - AostaSports"
-  },
-  {
-   "title": "Denzel Bentley vs Shane Mosley Jr | Full Fight | Middleweight",
-   "link": "https://www.youtube.com/watch?v=pey6N1CkUcE",
-   "source": "YouTube Sky Sports Boxing",
-   "lang": "en",
-   "date": "2026-11-08T10:00:06+00:00",
-   "status": "unverified",
-   "boxers": [
-    "Denzel Bentley",
-    "Shane Mosley Jr"
-   ],
-   "score": 66,
-   "sources_n": 8,
-   "title_it": "Denzel Bentley contro Shane Mosley Jr | Lotta completa | Pesi medi",
-   "title_es": "Denzel Bentley vs Shane Mosley Jr | Pelea Completa | Peso medio"
   },
   {
    "title": "Diego Pacheco vs Darius Fulghum: Prediction and fight card for November 14",
@@ -3311,7 +3326,7 @@
    "date": "2026-11-08T08:04:42+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 1,
+   "score": 0,
    "sources_n": 1,
    "title_it": "The Greatest, la serie tv sulla leggenda di Cassius Clay/Muhammad Ali, è davvero grandissima - Corriere Style",
    "title_es": "The Greatest, la serie tv sulla leggenda di Cassius Clay/Muhammad Ali, è davvero grandissima - Estilo Corriere"
@@ -4058,19 +4073,6 @@
    "sources_n": 3,
    "title_it": "Tony Yoka vince la battaglia di rimonta con breve preavviso contro l'ex nemico di Moses Itauma dopo un anno difficile",
    "title_es": "Tony Yoka gana la pelea de regreso con poca antelación contra el ex enemigo de Moses Itauma después de un año difícil"
-  },
-  {
-   "title": "Dónde ver el Pedro Taduran vs Brandon Moreno: cartelera, cuándo es, fecha, a qué hora es, canal, TV y streaming online del combate de boxeo en España - DAZN",
-   "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOb2c5QkVrcnJseE5QQzVfTy1pSWFUTXpzSmYxaTdlR2xSY3VZcmpIZE42WnFLd2VWdkVWeFBJNmxpdk84OFBLSXA5V1R1UXhPRFdNeG00cmVuSlBNNzA0WkNjVjlCUFp5VEc1QWRORmlLUjM2eDRKOUQ5ZnR4R3hidUdaODUtNHZFMFpiWkNfZkxiczJrZlp1eTd5UndvbkZCMDhyMVRSYVNRVndieVllSXZaNlFCNmxJYUkyNU1aclNUaV9PYWZ5SzlMRV9RRDIwaEctNUYzWW50YVQ0b3hVRXh5LVcxUUgxSDBjR2FzTXJtbk5jY0xReW1fYS16eDFVQUhnQjh6cVRMQ3N2cHFCUTlTcEI3bUxabVFpMlJrZWtTbW4tUzdLRGUyYTU0ckM2?oc=5",
-   "source": "Google News: boxeo",
-   "lang": "es",
-   "date": "2026-11-07T17:07:43+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 20,
-   "sources_n": 3,
-   "title_it": "Dónde ver el Pedro Taduran vs Brandon Moreno: cartelera, cuándo es, fecha, a qué hora es, canal, TV y streaming online del combate de boxeo en España - DAZN",
-   "title_es": "Dónde ver el Pedro Taduran vs Brandon Moreno: cartelera, cuándo es, fecha, a qué hora es, canal, TV y streaming online del combate de boxeo en España - DAZN"
   }
  ]
 }
