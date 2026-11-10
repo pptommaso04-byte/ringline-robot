@@ -1,7 +1,7 @@
 {
  "Oleksandr Usyk": {
   "slug": "oleksandr-usyk",
-  "updated": "2026-11-09T21:01:20+00:00",
+  "updated": "2026-11-10T17:01:33+00:00",
   "total": 25,
   "verified": 25,
   "record": {
@@ -18,7 +18,7 @@
  },
  "Tyson Fury": {
   "slug": "tyson-fury",
-  "updated": "2026-11-09T21:01:25+00:00",
+  "updated": "2026-11-10T17:01:36+00:00",
   "total": 39,
   "verified": 39,
   "record": {
@@ -9737,6 +9737,28 @@
   },
   "langs": [
    "en"
+  ]
+ },
+ "Lenin Castillo": {
+  "tried": "2026-11-10T17:01:25+00:00"
+ },
+ "Junior Castillo": {
+  "tried": "2026-11-10T17:01:25+00:00"
+ },
+ "Yuri Foreman": {
+  "slug": "yuri-foreman",
+  "updated": "2026-11-10T17:01:42+00:00",
+  "total": 40,
+  "verified": 0,
+  "record": {
+   "w": 35,
+   "l": 4,
+   "d": 0,
+   "nc": 1
+  },
+  "langs": [
+   "en",
+   "it"
   ]
  }
 }
