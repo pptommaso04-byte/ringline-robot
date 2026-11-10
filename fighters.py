@@ -266,7 +266,8 @@ def run_step(data_dir, log, limit=5, max_age_h=20, budget_s=150):
         except Exception: titles = ""
         def prio(b):
             sur = b["name"].split()[-1].lower()
-            in_news = len(sur) >= 4 and re.search(r"\b" + re.escape(sur) + r"\b", titles) is not None
+            full = b["name"].lower() in titles
+            in_news = full or (len(sur) >= 7 and re.search(r"\b" + re.escape(sur) + r"\b", titles) is not None)
             return (0 if in_news else 1, 0 if b["name"] in champs else 1, -int((b.get("born") or "1970")[:4]))
         for b in sorted(ro.get("boxers", []), key=prio):
             if b["name"] in have: continue
