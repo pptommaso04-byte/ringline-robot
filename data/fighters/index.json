@@ -2363,5 +2363,83 @@
   "langs": [
    "en"
   ]
+ },
+ "David Haye": {
+  "slug": "david-haye",
+  "updated": "2026-11-10T03:19:35+00:00",
+  "total": 32,
+  "verified": 26,
+  "record": {
+   "w": 28,
+   "l": 4,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "fr",
+   "pt"
+  ]
+ },
+ "Sergio Mendoza (boxer)": {
+  "slug": "sergio-mendoza-boxer",
+  "updated": "2026-11-10T03:19:39+00:00",
+  "total": 29,
+  "verified": 0,
+  "record": {
+   "w": 28,
+   "l": 1,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Takeshi Ishii": {
+  "slug": "takeshi-ishii",
+  "updated": "2026-11-10T03:19:44+00:00",
+  "total": 13,
+  "verified": 0,
+  "record": {
+   "w": 12,
+   "l": 1,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Aaron McKenna": {
+  "slug": "aaron-mckenna",
+  "updated": "2026-11-10T03:19:48+00:00",
+  "total": 21,
+  "verified": 0,
+  "record": {
+   "w": 21,
+   "l": 0,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "pt"
+  ]
+ },
+ "Sam Goodman (boxer)": {
+  "slug": "sam-goodman-boxer",
+  "updated": "2026-11-10T03:19:51+00:00",
+  "total": 24,
+  "verified": 0,
+  "record": {
+   "w": 23,
+   "l": 1,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
