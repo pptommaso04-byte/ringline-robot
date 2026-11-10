@@ -1,8 +1,37 @@
 {
- "updated": "2026-11-10T10:20:46+00:00",
+ "updated": "2026-11-10T10:25:38+00:00",
  "feeds_ok": 50,
  "feeds_failed": 3,
  "news": [
+  {
+   "title": "Anthony Joshua sets his sights on one champion if he beats Tyson Fury",
+   "link": "https://boxingnewsonline.net/news/anthony-joshua-on-who-after-fury/",
+   "source": "Boxing News (UK)",
+   "lang": "en",
+   "date": "2026-11-10T10:23:53+00:00",
+   "status": "confirmed",
+   "boxers": [
+    "Tyson Fury",
+    "Anthony Joshua"
+   ],
+   "score": 122,
+   "sources_n": 5,
+   "title_it": "Anthony Joshua punta su un campione se batte Tyson Fury",
+   "title_es": "Anthony Joshua pone su mirada en un campeón si vence a Tyson Fury"
+  },
+  {
+   "title": "Pugilato professionistico, vince per ko il palermitano Giuseppe Rubino - BlogSicilia",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT0VoMVZsMjczT3FHTlFzWFhUU3R0MFZIT21KSDRxbDlRLVV2eDhkRDFTSE9EdEFDb3RJNDk5djNEbzNSRWR2OFl0c182UmZyQnU0c003YzJEcjVzTzB3a24wbFhEanphYXlrQUl4bE5kVTg1V1NFN3phMVFTc3JRYnVGMGpKel9sbVpDVXNzcndjeUtHN3d2TENTS1FBb2R3SklWdGdrWklkT3JmNUkxbDE1cnUyLThlSk81OEYxRE0?oc=5",
+   "source": "Google News: pugilato",
+   "lang": "it",
+   "date": "2026-11-10T10:22:49+00:00",
+   "status": "confirmed",
+   "boxers": [],
+   "score": 37,
+   "sources_n": 1,
+   "title_it": "Pugilato professionistico, vince per ko il palermitano Giuseppe Rubino - BlogSicilia",
+   "title_es": "Boxeo profesional, Giuseppe Rubino de Palermo gana por nocaut - BlogSicilia"
+  },
   {
    "title": "Can you name 3 boxers undefeated boxers? 🥊 Brought to you by That Prize Guy #AD",
    "link": "https://www.youtube.com/watch?v=yBvfb414uWY",
@@ -557,7 +586,7 @@
    "date": "2026-11-09T22:21:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 34,
+   "score": 33,
    "sources_n": 2,
    "title_it": "¡Quiere el campeonato absoluto! 'Pitbull' Cruz exige oportunidad por el título superligero del CMB - Récord",
    "title_es": "¡Quiere el campeonato absoluto! 'Pitbull' Cruz exige oportunidad por el título superligero del CMB - Récord"
@@ -892,7 +921,7 @@
   },
   {
    "title": "Boxing Weekend Review: Willy Hutchinson's world title triumph and Cheavon Clarke revives career - DAZN",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUkZ2QnBMTEw3UGVSTW1ULUFrUEdjZlRWcEpfX3NYQjl3UFZzc2JEdjBHdVN1SlNfYnV3eWhsRGtmemdoeDc5UVRFSmpVZlVlbi1SMGt6b2RUQmFwUXhDY0RaM3ZqbUxiV0ljMFdsMDJKWmMyNF9pY0ZmV2V6M0ZQRmN3b3k3VDIwRTRRa2xremFKLUlLMjg0WUY1bFZyMWwwVzNoR0JNYWdmbk1aNWtodmE0QWZhenVMcE96b0JQSExsLWR4anM2US1VUlJhaFFQd0RSTjFVaWx6VFg1ZFlIUnJn?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZm5SWjRSdEVMWWxCNTFKSWZYclhpRVAtdlJ3WUQ2T2RxRFV4b3lUZ2VvTUFfUUFGazhaOTZHaFp5VlowZUtXY3JDZXFqTmhFU2dnc1N4LUxXQ2V2R3p6REJMYUxUSVo2aFhLa08wRVB3NjAxUDlleC1jb0w5Z3g3Nzdrc2RFY2JaSGFzdWlNdXlSWDB0bHVGbFhNVG94QnhFMFVscTFzcVN0RGJwWGNzSlZUeVBrd0VkUEJWM1VKNlkxRWF2bVZrR3ZRUzNJRlpmdUhjRzlmWF9FdXhJc3V1dldn?oc=5",
    "source": "Google News: boxing",
    "lang": "en",
    "date": "2026-11-09T17:00:00+00:00",
@@ -951,7 +980,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 50,
-   "sources_n": 5,
+   "sources_n": 4,
    "title_it": "Floyd Mayweather aggiunge il leggendario ex avversario alla lista dei risultati per il grande incontro nel 2027",
    "title_es": "Floyd Mayweather agrega al legendario ex oponente a la lista de blancos para la gran pelea en 2027"
   },
@@ -1154,7 +1183,7 @@
    "date": "2026-11-09T14:20:43+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 20,
+   "score": 19,
    "sources_n": 1,
    "title_it": "\"Questo dovrebbe essere il round del SECOLO\" round 9 di Ward vs Gatti 1",
    "title_es": "\"Esto debería ser la ronda del SIGLO\" ronda 9 de Ward vs Gatti 1"
@@ -1171,19 +1200,6 @@
    "sources_n": 3,
    "title_it": "Boxing News: Irma Garcia vence a Delgado y unifica campeonatos mundiales FIB y AMB »9 novembre 2026 - FightNews",
    "title_es": "Boxing News: Irma Garcia vence a Delgado y unifica campeonatos mundiales FIB y AMB » November 9, 2026 - FightNews"
-  },
-  {
-   "title": "Una vita tra il pugilato e la Polizia, Massimo Maisto se ne va a 59 anni - Anteprima24.it",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUTU0OHpQYl9sMmM2Z1hXYl9YLW5JVk0tanVFYUhQbm9ES0RDclJ5QlNMSG5iQUFxNVA3NGlSSnFZZFBGQXE4MWJWVWhNS3lOVFN0WDJzSl9pdktVclFlUm5BQ1V0Ty1iSWVTYm1GWW42cTl0TXVoWnhBdEw4ZV8yWm9MWkFUZ2hKNmFKYkhxZXd6NWMycWhhR0tHTVJvc3UxaWw0VDZtSFl2dGpV?oc=5",
-   "source": "Google News: pugilato",
-   "lang": "it",
-   "date": "2026-11-09T14:06:01+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 19,
-   "sources_n": 1,
-   "title_it": "Una vita tra il pugilato e la Polizia, Massimo Maisto se ne va a 59 anni - Anteprima24.it",
-   "title_es": "Una vida entre el boxeo y la policía, Massimo Maisto se marcha a los 59 años - Anteprima24.it"
   },
   {
    "title": "British-Somali ‌‌‌‌boxer Ramla Ali defeats Mikiah Kreps for first ⁠⁠⁠⁠world title - Al Jazeera",
@@ -1406,7 +1422,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 48,
-   "sources_n": 5,
+   "sources_n": 4,
    "title_it": "Floyd Mayweather nomina la straordinaria rivincita nella lista dei quattro incontri",
    "title_es": "Floyd Mayweather nombra impresionante revancha en la lista de cuatro peleas exitosas"
   },
@@ -1445,7 +1461,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 48,
-   "sources_n": 5,
+   "sources_n": 4,
    "title_it": "Floyd Mayweather prevede un “grande scontro” nel 2027 e nomina quattro potenziali avversari",
    "title_es": "Floyd Mayweather prevé una “gran pelea” en 2027 y nombra cuatro oponentes potenciales"
   },
@@ -1538,7 +1554,7 @@
    "date": "2026-11-09T10:20:54+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 18,
+   "score": 17,
    "sources_n": 1,
    "title_it": "IL TEAM BOXE MESAGNE È ANCORA CAMPIONE D’ITALIA! MITRUGNO SOFIA CONQUISTA IL TITOLO ITALIANO UNDER 15 - Qui Mesagne",
    "title_es": "IL TEAM BOXE MESAGNE È ANCORA CAMPIONE D’ITALIA! MITRUGNO SOFIA CONQUISTA IL titolo ITALIANO MENOR DE 15 años - Qui Mesagne"
@@ -1855,6 +1871,19 @@
    "title_es": "Alycia Baumgardner arrasa con Elif Nur Turhan para ganar el título de la FIB"
   },
   {
+   "title": "Aussie crushes world title fight, makes Jake Paul’s partner eat humble pie - Nine.com.au",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQMTlBNTE0QmVINFprMnR6SHdVamp6Tk5nQXdxOENkMllRRjYxLTRxSGtMdXVmQWYzcmpNTm5yaG9MQmdRMzRUc0hmcldmc3pWLWl6T1RLZEJYV0E0am9ITnhZdkF1amxOUGNtaE5CTU1GV3pMbmY2ZzdQbmJTclVReHFNNG84eHNuMkV5Mkc1LXNBSWppMnV5SjdvNGxtcVZJalJxeXYwelRvV0NTak1FQ2JxMDRfRDdnQlZuaXFpdTM5c2xzX3l4WHBaaVgwTVp3QnRsUy13MF9MbHBXWng1OENHQXZfenotall4TlB3?oc=5",
+   "source": "Google News: boxing",
+   "lang": "en",
+   "date": "2026-11-09T05:03:16+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 50,
+   "sources_n": 1,
+   "title_it": "Aussie schiaccia la lotta per il titolo mondiale, fa mangiare la torta umile al partner di Jake Paul - Nine.com.au",
+   "title_es": "Aussie aplasta la pelea por el título mundial, hace que la pareja de Jake Paul coma pastel humilde - Nine.com.au"
+  },
+  {
    "title": "Daily Discussion Thread (November 9th, 2026)",
    "link": "https://www.reddit.com/r/Boxing/comments/1xrixhq/daily_discussion_thread_november_9th_2026/",
    "source": "Reddit r/Boxing",
@@ -1894,19 +1923,6 @@
    "title_es": "Dos peleas agregadas a la cartelera Lara vs Tszyu"
   },
   {
-   "title": "Aussie crushes world title fight, makes Jake Paul’s partner eat humble pie - Nine.com.au",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQMTlBNTE0QmVINFprMnR6SHdVamp6Tk5nQXdxOENkMllRRjYxLTRxSGtMdXVmQWYzcmpNTm5yaG9MQmdRMzRUc0hmcldmc3pWLWl6T1RLZEJYV0E0am9ITnhZdkF1amxOUGNtaE5CTU1GV3pMbmY2ZzdQbmJTclVReHFNNG84eHNuMkV5Mkc1LXNBSWppMnV5SjdvNGxtcVZJalJxeXYwelRvV0NTak1FQ2JxMDRfRDdnQlZuaXFpdTM5c2xzX3l4WHBaaVgwTVp3QnRsUy13MF9MbHBXWng1OENHQXZfenotall4TlB3?oc=5",
-   "source": "Google News: boxing",
-   "lang": "en",
-   "date": "2026-11-09T03:42:08+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 49,
-   "sources_n": 1,
-   "title_it": "Aussie schiaccia la lotta per il titolo mondiale, fa mangiare la torta umile al partner di Jake Paul - Nine.com.au",
-   "title_es": "Aussie aplasta la pelea por el título mundial, hace que la pareja de Jake Paul coma pastel humilde - Nine.com.au"
-  },
-  {
    "title": "Tim Tszyu Defends His Right Hand Before Lara Fight",
    "link": "https://www.boxingnews24.com/2026/11/tim-tszyu-defends-his-right-hand-before-lara-fight/",
    "source": "Boxing News 24",
@@ -1927,7 +1943,7 @@
    "date": "2026-11-09T02:22:54+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 54,
+   "score": 53,
    "sources_n": 10,
    "title_it": "Skye Nicolson sembra in FORMA per la lotta per il titolo mondiale contro Yoshida 💨 - Notizie di boxe 24",
    "title_es": "Skye Nicolson se ve FUERTE para la pelea por el título mundial contra Yoshida 💨 - Boxing News 24"
@@ -1940,7 +1956,7 @@
    "date": "2026-11-09T02:22:54+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 54,
+   "score": 53,
    "sources_n": 8,
    "title_it": "Skye Nicolson sembra in forma per la lotta per il titolo mondiale contro Yoshida 💨",
    "title_es": "Skye Nicolson luce AGUDA para la pelea por el título mundial contra Yoshida 💨"
@@ -2009,19 +2025,6 @@
    "sources_n": 1,
    "title_it": "Daniel Dubois vs Fabio Wardley II combattimento completo",
    "title_es": "Daniel Dubois vs Fabio Wardley II pelea completa"
-  },
-  {
-   "title": "Floyd Mayweather names his four potential opponents for ‘big fight’ in 2027",
-   "link": "https://boxingnewsonline.net/news/floyd-mayweather-on-2027-fight/",
-   "source": "Boxing News (UK)",
-   "lang": "en",
-   "date": "2026-11-08T23:54:46+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 42,
-   "sources_n": 5,
-   "title_it": "Floyd Mayweather nomina i suoi quattro potenziali avversari per il \"grande incontro\" nel 2027",
-   "title_es": "Floyd Mayweather nombra a sus cuatro oponentes potenciales para la 'gran pelea' en 2027"
   },
   {
    "title": "[FIGHT THREAD] Elif Nur Turhan vs Alycia Baumgardner",
@@ -2097,7 +2100,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 41,
-   "sources_n": 5,
+   "sources_n": 4,
    "title_it": "Floyd Mayweather, Pedro Martínez e Sammy Sosa si sono aggiunti alla lineup di autografi di Philly Show a Oaks",
    "title_es": "Floyd Mayweather, Pedro Martínez y Sammy Sosa se suman a la alineación de autógrafos de Philly Show en Oaks"
   },
@@ -3001,7 +3004,7 @@
    "date": "2026-11-08T00:22:38+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 31,
+   "score": 30,
    "sources_n": 6,
    "title_it": "Evento completo: Zuffa Boxing 12",
    "title_es": "Evento completo: Zuffa Boxeo 12"
