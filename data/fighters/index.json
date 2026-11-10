@@ -10922,5 +10922,58 @@
   "langs": [
    "en"
   ]
+ },
+ "Hassan Saada": {
+  "tried": "2026-11-10T19:55:37+00:00"
+ },
+ "Mads Burnell": {
+  "tried": "2026-11-10T19:55:37+00:00"
+ },
+ "Diego de la Hoya": {
+  "slug": "diego-de-la-hoya",
+  "updated": "2026-11-10T19:55:44+00:00",
+  "total": 27,
+  "verified": 0,
+  "record": {
+   "w": 24,
+   "l": 2,
+   "d": 0,
+   "nc": 1
+  },
+  "langs": [
+   "en",
+   "fr",
+   "pt"
+  ]
+ },
+ "Hughie Fury": {
+  "slug": "hughie-fury",
+  "updated": "2026-11-10T19:55:50+00:00",
+  "total": 34,
+  "verified": 0,
+  "record": {
+   "w": 31,
+   "l": 3,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Mako Yamada": {
+  "slug": "mako-yamada",
+  "updated": "2026-11-10T19:55:54+00:00",
+  "total": 21,
+  "verified": 0,
+  "record": {
+   "w": 15,
+   "l": 3,
+   "d": 3,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
