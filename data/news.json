@@ -1,8 +1,21 @@
 {
- "updated": "2026-11-10T05:01:13+00:00",
+ "updated": "2026-11-10T05:05:33+00:00",
  "feeds_ok": 50,
  "feeds_failed": 3,
  "news": [
+  {
+   "title": "Daily Discussion Thread (November 10th, 2026)",
+   "link": "https://www.reddit.com/r/Boxing/comments/1xse876/daily_discussion_thread_november_10th_2026/",
+   "source": "Reddit r/Boxing",
+   "lang": "en",
+   "date": "2026-11-10T05:01:12+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 29,
+   "sources_n": 1,
+   "title_it": "Discussione quotidiana (10 novembre 2026)",
+   "title_es": "Hilo de discusión diario (10 de noviembre de 2026)"
+  },
   {
    "title": "Canelo Álvarez busca revanchas con Terence Crawford y Dmitry Bivol",
    "link": "https://www.marca.com/boxeo/2026/11/10/canelo-alvarez-busca-revanchas-terence-crawford-dmitry-bivol.html",
@@ -37,7 +50,7 @@
    "date": "2026-11-10T03:03:05+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 69,
+   "score": 68,
    "sources_n": 11,
    "title_it": "La battaglia per il titolo mondiale supera ogni limite! Elif Nur Turhan vs Alycia Baumgardner | Punti salienti leggeri",
    "title_es": "¡La batalla por el título mundial va más allá! Elif Nur Turhan vs. Alycia Baumgardner | Aspectos destacados ligeros"
@@ -245,7 +258,7 @@
    "date": "2026-11-09T23:04:26+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 27,
+   "score": 26,
    "sources_n": 1,
    "title_it": "Boxe, spettacolo a Lizzanello: Santoro e Quero-Chiloiro protagonisti di una domenica di vittorie - Giornale RossoBlu",
    "title_es": "Boxe, spettacolo a Lizzanello: Santoro e Quero-Chiloiro protagonisti di una domenica di vittorie - Giornale RossoBlu"
@@ -258,7 +271,7 @@
    "date": "2026-11-09T23:03:45+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 27,
+   "score": 26,
    "sources_n": 1,
    "title_it": "Campionati italiani di pugilato, la Boxe Tranchina conquista la medaglia d’oro Under 15 - Palermolive.it",
    "title_es": "Campionati italiani di pugilato, la Boxe Tranchina conquista la medaglia d'oro Under 15 - Palermolive.it"
@@ -416,7 +429,7 @@
    "date": "2026-11-09T19:05:19+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 25,
+   "score": 24,
    "sources_n": 1,
    "title_it": "Una medaglia e ottime prestazioni per la Trieste Pugilato ai Campionati Italiani U15 - Citysport",
    "title_es": "Una medaglia e ottime prestazioni per la Trieste Pugilato ai Campionati Italiani U15 - Citysport"
@@ -429,8 +442,8 @@
    "date": "2026-11-09T19:00:49+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 59,
-   "sources_n": 2,
+   "score": 49,
+   "sources_n": 1,
    "title_it": "Boxe: Non con Canelo! Julio César Chávez si fa avanti, difende il campione e invia un messaggio forte agli odiatori - Al Bat",
    "title_es": "Boxeo: ¡No con Canelo! Julio César Chávez da un paso al frente, defiende al campeón y envía un fuerte mensaje a los que odian - Al Bat"
   },
@@ -459,7 +472,7 @@
     "Anthony Joshua"
    ],
    "score": 109,
-   "sources_n": 5,
+   "sources_n": 6,
    "title_it": "Eddie Hearn solleva il coperchio sul prossimo obiettivo di Anthony Joshua dopo lo scontro con Tyson Fury",
    "title_es": "Eddie Hearn levanta la tapa sobre el próximo objetivo de Anthony Joshua después del enfrentamiento con Tyson Fury"
   },
@@ -627,7 +640,7 @@
    "date": "2026-11-09T17:02:00+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 32,
+   "score": 31,
    "sources_n": 1,
    "title_it": "Ramla Ali vince il suo primo titolo mondiale di pugilato Notizie da Fakti.bg - Sport - Fakti.bg",
    "title_es": "Ramla Ali gana su primer título mundial de boxeo. Noticias de Fakti.bg - Deporte - Fakti.bg"
@@ -640,7 +653,7 @@
    "date": "2026-11-09T17:01:18+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 117,
+   "score": 116,
    "sources_n": 9,
    "title_it": "David Benavidez ricorda di aver vinto il suo primo titolo mondiale a 20 anni",
    "title_es": "David Benavidez recuerda haber ganado su primer título mundial a los 20 años"
@@ -696,6 +709,19 @@
    "sources_n": 1,
    "title_it": "Giovane atleta di Porto Torres bronzo nazionale under 15 di pugilato - Sassari Oggi",
    "title_es": "Giovane atleta di Porto Torres bronzo nazionale under 15 di pugilato - Sassari Oggi"
+  },
+  {
+   "title": "Campionati italiani di Foggia: un oro e un bronzo per la Team boxe Mesagne - BrindisiReport",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOODBwQ1Y5Ny1EX0c1QjZQM2x3VDUwVi10NUNfcXJzMFNHdS00bGFSMjRCSkRoTVlGSi1iX0Q5T2lmZk9uRXRaY1N6RGR5S3JwVGEyaVdVcXhEekVBblVYS01HTG9nZVdCNEZVNVpFRWJuT01TSDBNWUJmRnZ4NUVXbTJSQ3VWSHlqQ2YyWUZjWm5WZ3pwbnFJQ0FfOXJILXNhMUNibA?oc=5",
+   "source": "Google News: boxe italiana",
+   "lang": "it",
+   "date": "2026-11-09T16:28:00+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 23,
+   "sources_n": 1,
+   "title_it": "Campionati italiani di Foggia: un oro e un bronzo per la Team boxe Mesagne - BrindisiReport",
+   "title_es": "Campeonato italiano en Foggia: un oro y un bronce para el equipo de boxeo de Mesagne - BrindisiReport"
   },
   {
    "title": "Floyd Mayweather adds legendary former opponent to hit-list for big fight in 2027",
@@ -778,7 +804,7 @@
     "Anthony Joshua"
    ],
    "score": 118,
-   "sources_n": 6,
+   "sources_n": 7,
    "title_it": "La prospettiva dei pesi massimi statunitensi di Dana White corre per atterrare sulla undercard Tyson Fury vs Anthony Joshua",
    "title_es": "El prospecto de peso pesado estadounidense de Dana White en carrera para aterrizar en la cartelera de Tyson Fury vs Anthony Joshua"
   },
@@ -829,7 +855,7 @@
    "date": "2026-11-09T15:01:42+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 88,
+   "score": 87,
    "sources_n": 3,
    "title_it": "David Benavidez nomina il prossimo Canelo che dovrà affrontare: “Sarebbe un grande incontro”",
    "title_es": "David Benavidez nombra a quién debería enfrentar Canelo a continuación: “Esa sería una gran pelea”"
@@ -858,7 +884,7 @@
     "Tyson Fury"
    ],
    "score": 87,
-   "sources_n": 4,
+   "sources_n": 5,
    "title_it": "Tyson Fury nomina il combattente che secondo lui può diventare la più grande star della boxe",
    "title_es": "Tyson Fury nombra al peleador que cree que puede convertirse en la estrella más grande del boxeo"
   },
@@ -1028,7 +1054,7 @@
    "date": "2026-11-09T13:03:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 22,
+   "score": 21,
    "sources_n": 1,
    "title_it": "Boxe, l’Underdog Novara protagonista a Napoli: Amendola conquista la vittoria al Fight4Naples - Corriere di Novara",
    "title_es": "Boxe, l'Underdog Novara protagonista a Napoli: Amendola conquista la vittoria al Fight4Naples - Corriere di Novara"
@@ -1238,7 +1264,7 @@
    "date": "2026-11-09T11:03:38+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 39,
+   "score": 38,
    "sources_n": 1,
    "title_it": "Pugile dei pesi massimi preso a pugni dai tifosi e colpito con le sedie in una rissa sfrenata dopo la vittoria",
    "title_es": "Boxeador de peso pesado golpeado por fanáticos y golpeado con sillas en una pelea desenfrenada después de la victoria"
@@ -1294,7 +1320,7 @@
     "Anthony Joshua"
    ],
    "score": 113,
-   "sources_n": 4,
+   "sources_n": 5,
    "title_it": "Teddy Atlas riassume le possibilità di Anthony Joshua di battere Tyson Fury e diventare tre volte campione",
    "title_es": "Teddy Atlas resume las posibilidades de Anthony Joshua de vencer a Tyson Fury y convertirse en tres veces campeón"
   },
@@ -1323,7 +1349,7 @@
     "Anthony Joshua"
    ],
    "score": 105,
-   "sources_n": 4,
+   "sources_n": 5,
    "title_it": "I messaggi trapelati di Anthony Joshua prima del combattimento con Tyson Fury forniscono informazioni importanti sulla mentalità di Brit",
    "title_es": "Los mensajes filtrados de Anthony Joshua antes de la pelea con Tyson Fury dan una idea importante de la mentalidad del británico"
   },
@@ -1430,7 +1456,7 @@
     "Anthony Joshua"
    ],
    "score": 105,
-   "sources_n": 4,
+   "sources_n": 5,
    "title_it": "Tyson Fury si rivolge all'ex allenatore Ben Davison che si trova nell'angolo di Anthony Joshua",
    "title_es": "Tyson Fury se dirige al ex entrenador Ben Davison que está en la esquina de Anthony Joshua"
   },
@@ -1472,7 +1498,7 @@
     "Anthony Joshua"
    ],
    "score": 104,
-   "sources_n": 4,
+   "sources_n": 5,
    "title_it": "Biglietti Tyson Fury vs Anthony Joshua per £ 249 a persona con birre gratuite incluse nel pacchetto di ospitalità VIP Fight Night",
    "title_es": "Boletos para Tyson Fury vs Anthony Joshua por £ 249 por persona con cervezas gratis incluidas en el paquete de hospitalidad VIP para la noche de pelea"
   },
@@ -1488,7 +1514,7 @@
     "Anthony Joshua"
    ],
    "score": 104,
-   "sources_n": 4,
+   "sources_n": 5,
    "title_it": "Tyson Fury rivela i veri sentimenti verso l'ex allenatore ora con Anthony Joshua",
    "title_es": "Tyson Fury revela sus verdaderos sentimientos hacia el exentrenador ahora con Anthony Joshua"
   },
@@ -1646,7 +1672,7 @@
    "date": "2026-11-09T05:04:15+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 66,
+   "score": 65,
    "sources_n": 11,
    "title_it": "Alycia Baumgardner conquista il titolo IBF con Elif Nur Turhan",
    "title_es": "Alycia Baumgardner arrasa con Elif Nur Turhan para ganar el título de la FIB"
@@ -1659,7 +1685,7 @@
    "date": "2026-11-09T05:01:42+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 18,
+   "score": 17,
    "sources_n": 1,
    "title_it": "Discussione quotidiana (9 novembre 2026)",
    "title_es": "Hilo de discusión diaria (9 de noviembre de 2026)"
@@ -1711,7 +1737,7 @@
    "date": "2026-11-09T03:03:14+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 52,
+   "score": 51,
    "sources_n": 2,
    "title_it": "Tim Tszyu difende la mano destra prima del combattimento con Lara",
    "title_es": "Tim Tszyu defiende su mano derecha antes de la pelea con Lara"
@@ -1906,8 +1932,8 @@
    "date": "2026-11-08T20:14:51+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 56,
-   "sources_n": 1,
+   "score": 66,
+   "sources_n": 2,
    "title_it": "Tim Bradley riassume le possibilità di Jai Opetaia di battere Deontay Wilder ai pesi massimi",
    "title_es": "Tim Bradley resume las posibilidades de Jai Opetaia de vencer a Deontay Wilder en el peso pesado"
   },
@@ -1975,19 +2001,6 @@
    "sources_n": 11,
    "title_it": "Alycia Baumgardner domina Elif Nur Turhan a MVPW-07 per diventare campionessa del mondo a 2 divisioni",
    "title_es": "Alycia Baumgardner domina a Elif Nur Turhan en MVPW-07 para convertirse en campeona mundial de 2 divisiones"
-  },
-  {
-   "title": "World men's boxing champions list: WBA, WBO, WBC, IBF and The Ring title holders in every weight class - DAZN",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOXzhPZmxGaUVEa1VMZjN1OTBvemZ6bFZwOW5GenF3S3hyMG9uOEtMRG9qcUpxeDhMME5MX1pvUmNQTmFxZWxWbDNRYjhUXzVZUnpHTFdISTdyWFdrMkJtbVA4U3l2OUlWSUc2N2stZkF2cVM1TmRiUllxcFNfY0gxbXUtT3ZxaklTQW93UVkwWEJTNjZqSGxvUHBjQUFOeXdUa1liMXo1cjFEYWF6dDhPVkk1UlJ5SXNaLVZhZ1gybEZ2ZWlfY0dHMU14c3M4Yk9pSW8teEhkTnplY2tDY01FVV9oOGI0Zw?oc=5",
-   "source": "Google News: boxing",
-   "lang": "en",
-   "date": "2026-11-08T18:39:00+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 22,
-   "sources_n": 1,
-   "title_it": "Lista dei campioni mondiali di pugilato maschile: detentori del titolo WBA, WBO, WBC, IBF e The Ring in ogni classe di peso - DAZN",
-   "title_es": "Lista DE campeones mundiales DE boxeo masculino: WBA, WBO, WBC, IBF y titulares del título de The Ring en cada categoría de peso - DAZN"
   },
   {
    "title": "Crawford’s Boxer Best Friend ‘Almost Dies’ at Kanye Concert",
@@ -2257,7 +2270,7 @@
     "Anthony Joshua"
    ],
    "score": 102,
-   "sources_n": 5,
+   "sources_n": 6,
    "title_it": "L'allenatore di Daniel Dubois, Don Charles, vede un solo vincitore in Tyson Fury contro Anthony Joshua: \"Mi è chiaro\"",
    "title_es": "El entrenador de Daniel Dubois, Don Charles, solo ve un ganador en Tyson Fury vs Anthony Joshua: \"Está claro para mí\""
   },
@@ -2326,7 +2339,7 @@
    "date": "2026-11-08T11:04:59+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 64,
+   "score": 63,
    "sources_n": 12,
    "title_it": "Willy Hutchinson vive per quei giochi mentali a metà combattimento 🔥",
    "title_es": "Willy Hutchinson vive para esos juegos mentales a mitad de una pelea 🔥"
@@ -2582,7 +2595,7 @@
    "date": "2026-11-08T08:02:15-05:00",
    "status": "unverified",
    "boxers": [],
-   "score": 85,
+   "score": 84,
    "sources_n": 4,
    "title_it": "Diego Pacheco, Carlos Adames, Anthony Olascuaga e altri: programma di boxe e anteprime per il 12-14 novembre 2026",
    "title_es": "Diego Pacheco, Carlos Adames, Anthony Olascuaga y más: Calendario y previas del boxeo del 12 al 14 de noviembre de 2026"
@@ -2644,7 +2657,7 @@
     "Anthony Joshua"
    ],
    "score": 92,
-   "sources_n": 4,
+   "sources_n": 5,
    "title_it": "I messaggi di testo trapelati di Anthony Joshua sono un avvertimento a Tyson Fury",
    "title_es": "Los mensajes de texto filtrados de Anthony Joshua advierten a Tyson Fury"
   },
@@ -2695,7 +2708,7 @@
    "date": "2026-11-08T07:02:59+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 55,
+   "score": 54,
    "sources_n": 4,
    "title_it": "Ramla Ali e Skye Nicolson potrebbero essere in rotta di collisione se vincono i loro combattimenti per il titolo mondiale in Texas - Sky Sports",
    "title_es": "Ramla Ali y Skye Nicolson podrían chocar si ganan sus peleas por el título mundial en Texas - Sky Sports"
@@ -2760,7 +2773,7 @@
    "date": "2026-11-08T05:03:01+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 6,
+   "score": 5,
    "sources_n": 1,
    "title_it": "Discussione quotidiana (8 novembre 2026)",
    "title_es": "Hilo de discusión diaria (8 de noviembre de 2026)"
@@ -2777,6 +2790,21 @@
    "sources_n": 11,
    "title_it": "Risultati in diretta: Elif Nur Turhan difende il titolo contro Alycia Baumgardner",
    "title_es": "Resultados en vivo: Elif Nur Turhan defiende el título ante Alycia Baumgardner"
+  },
+  {
+   "title": "Deontay Wilder-Jai Opetaia: Tyson Fury Has Things To Say",
+   "link": "https://www.boxinginsider.com/headlines/deontay-wilder-jai-opetaia-tyson-fury-has-things-to-say/",
+   "source": "Boxing Insider",
+   "lang": "en",
+   "date": "2026-11-08T04:07:27+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Tyson Fury"
+   ],
+   "score": 90,
+   "sources_n": 5,
+   "title_it": "Deontay Wilder-Jai Opetaia: Tyson Fury ha cose da dire",
+   "title_es": "Deontay Wilder-Jai Opetaia: Tyson Fury tiene cosas que decir"
   },
   {
    "title": "Denzel Bentley vs. Shane Mosley Jr.: Zuffa Boxing 12, Nov. 7, 2026",
@@ -2834,6 +2862,19 @@
    "title_es": "VIDEO | Trifulca termina con invasión del ring tras derrota de boxeador invicto - Diario del Yaqui"
   },
   {
+   "title": "The Return Of Vasyl Lomachenko",
+   "link": "https://www.boxinginsider.com/headlines/the-return-of-vasyl-lomachenko/",
+   "source": "Boxing Insider",
+   "lang": "en",
+   "date": "2026-11-08T02:26:26+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 12,
+   "sources_n": 1,
+   "title_it": "Il ritorno di Vasyl Lomachenko",
+   "title_es": "El regreso de Vasyl Lomachenko"
+  },
+  {
    "title": "Elif Nur Turhan’s title will be on the line tomorrow vs Alycia Baumgardner in Texas tomorrow 👑",
    "link": "https://www.youtube.com/watch?v=llCP35uwhdU",
    "source": "YouTube The Ring",
@@ -2841,7 +2882,7 @@
    "date": "2026-11-08T01:05:30+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 34,
+   "score": 33,
    "sources_n": 11,
    "title_it": "Il titolo di Elif Nur Turhan sarà in gioco domani contro Alycia Baumgardner in Texas domani 👑",
    "title_es": "El título de Elif Nur Turhan estará en juego mañana contra Alycia Baumgardner en Texas mañana 👑"
@@ -3110,7 +3151,7 @@
    "boxers": [
     "Joshua Buatsi"
    ],
-   "score": 71,
+   "score": 70,
    "sources_n": 11,
    "title_it": "Hutchinson batte Buatsi per vincere il titolo dei pesi massimi leggeri WBC - BBC",
    "title_es": "Hutchinson vence a Buatsi para ganar el título semipesado del CMB - BBC"
@@ -3127,7 +3168,7 @@
     "Anthony Joshua"
    ],
    "score": 87,
-   "sources_n": 4,
+   "sources_n": 5,
    "title_it": "Tyson Fury diventa pubblico e chiede che la rissa su Anthony Joshua sia annullata",
    "title_es": "Tyson Fury se hace público y exige que se cancele la pelea en la cartelera de Anthony Joshua"
   },
@@ -3681,19 +3722,6 @@
    "title_es": "Cheavon Clarke destruye a Chris Billam-Smith en Zuffa Boxing 12; Denzel Bentley supera a Shane Mosley Jr."
   },
   {
-   "title": "GGG out-jabbed boxing's biggest technical masters",
-   "link": "https://www.reddit.com/r/Boxing/comments/1xq51ve/ggg_outjabbed_boxings_biggest_technical_masters/",
-   "source": "Reddit r/Boxing",
-   "lang": "en",
-   "date": "2026-11-07T12:18:46+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 0,
-   "sources_n": 1,
-   "title_it": "I più grandi maestri tecnici della boxe GGG out-jabbed",
-   "title_es": "GGG superó a los mayores maestros técnicos del boxeo"
-  },
-  {
    "title": "Chris Billam-Smith vs Chev Clarke: George Groves breaks down cruiserweight clash",
    "link": "https://bigfightweekend.com/2026/11/07/chris-billam-smith-vs-chev-clarke-break-down/",
    "source": "Big Fight Weekend",
@@ -3919,7 +3947,7 @@
     "Oleksandr Usyk"
    ],
    "score": 85,
-   "sources_n": 4,
+   "sources_n": 5,
    "title_it": "Tyson Fury reagisce allo snobbamento della trilogia di Oleksandr Usyk",
    "title_es": "Tyson Fury responde al desaire de la trilogía de Oleksandr Usyk"
   },
@@ -4026,32 +4054,6 @@
    "sources_n": 9,
    "title_it": "Imane Khelif salta le Olimpiadi di LA 2028 per il debutto professionale, sarà idonea a vincere un titolo mondiale femminile? - Athlon Sports",
    "title_es": "Imane Khelif saltándose los Juegos Olímpicos de Los Ángeles 2028 para debutar como profesional, ¿será elegible para ganar un título mundial femenino? - Athlon Sports"
-  },
-  {
-   "title": "Clint Eastwood e il film di pugilato che ha riscritto le regole del genere: lo ricordi ancora? - Everyeye Cinema",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWkwtNHpqS3AxaXlVWC1tR25wSWUwSVllc1NSb3ZXQ3o1TDFIU0ZsZE1tM0E1NlV4WnZOODBrRFNuQ3pOSk5JQ2JUVW1KNWJiNHA2NHVqdlN1OEpZUnRaWU90RWlnZlEwWGs0V1pvSHVybWlzT1dkOHZDOFR4bi05NDZ5Ni1GU0xQb1RIWlRtTDB5eDNGU2RMakdwb2NSbXZUdkprTUoxYmpPUWwwZDlvRmlTdDQ?oc=5",
-   "source": "Google News: pugilato",
-   "lang": "it",
-   "date": "2026-11-06T23:52:00+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 0,
-   "sources_n": 1,
-   "title_it": "Clint Eastwood e il film di pugilato che ha riscritto le regole del genere: lo ricordi ancora? - Everyeye Cinema",
-   "title_es": "Clint Eastwood e il film di pugilato che ha riscritto le regole del genere: lo ricordi ancora? - Everyeye Cinema"
-  },
-  {
-   "title": "Canelo to Calzaghe: Super-Middleweight Marathon | Matchroom Boxing",
-   "link": "https://www.youtube.com/watch?v=iK2R_fvfs1A",
-   "source": "YouTube Matchroom Boxing",
-   "lang": "en",
-   "date": "2026-11-06T23:00:07+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 35,
-   "sources_n": 2,
-   "title_it": "Da Canelo a Calzaghe: maratona di pesi medi | Matchroom Boxing",
-   "title_es": "Canelo a Calzaghe: Maratón supermediano | Matchroom Boxing"
   }
  ]
 }
