@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-10T15:45:41+00:00",
- "feeds_ok": 50,
- "feeds_failed": 3,
+ "updated": "2026-11-10T15:50:52+00:00",
+ "feeds_ok": 49,
+ "feeds_failed": 4,
  "news": [
   {
    "title": "Pugilato 1 - Caserta Web",
@@ -209,7 +209,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 114,
+   "score": 113,
    "sources_n": 10,
    "title_it": "Anthony Joshua ha già deciso il prossimo avversario dopo Tyson Fury",
    "title_es": "Anthony Joshua ya ha decidido su próximo oponente después de Tyson Fury"
@@ -1207,7 +1207,7 @@
    "date": "2026-11-09T19:49:25+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 10,
+   "score": 9,
    "sources_n": 1,
    "title_it": "Video: Erik Bazinyan combatte contro Shakeel Phinn per un pareggio diviso",
    "title_es": "Vídeo: Erik Bazinyan lucha contra Shakeel Phinn en un empate dividido"
@@ -2207,7 +2207,7 @@
    "date": "2026-11-09T07:47:04+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 44,
+   "score": 43,
    "sources_n": 11,
    "title_it": "Elif Nur Turhan vs Alycia Baumgardner: momenti salienti della lotta - Sky Sports",
    "title_es": "Elif Nur Turhan vs. Alycia Baumgardner: Lo más destacado de la pelea - Sky Sports"
@@ -2369,6 +2369,19 @@
    "title_es": "Hilo de discusión diaria (9 de noviembre de 2026)"
   },
   {
+   "title": "Women's boxing champions list - ESPN",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaDd2aWdhZDg1VE52ZTI2RVFiejdRNkFWVGwtdTRGeWE0d0dRbXlweE5ZN056MTlGRkF5S1Ezazd1ZDZsQ2V0YlZPdEFzeTNhem5iLU41ZXFwd1NmRVNPNVNCMWF2OHR2YkczMllCTHE1RVlaMHZwTWtLWl9yX1RQdA?oc=5",
+   "source": "Google News: boxing",
+   "lang": "en",
+   "date": "2026-11-09T04:54:00+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 12,
+   "sources_n": 1,
+   "title_it": "Elenco dei campioni di boxe femminile - ESPN",
+   "title_es": "Lista de campeonas de boxeo femenino - ESPN"
+  },
+  {
    "title": "Skye Nicolson Outboxes Miyo Yoshida to Retain WBC Title",
    "link": "https://www.boxingnews24.com/2026/11/skye-nicolson-outboxes-miyo-yoshida-to-retain-wbc-title/",
    "source": "Boxing News 24",
@@ -2506,7 +2519,7 @@
    "date": "2026-11-08T23:48:34+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 40,
+   "score": 39,
    "sources_n": 11,
    "title_it": "[FIGHT THREAD] Elif Nur Turhan contro Alycia Baumgardner",
    "title_es": "[HILO DE LUCHA] Elif Nur Turhan vs. Alycia Baumgardner"
@@ -2545,7 +2558,7 @@
    "date": "2026-11-08T21:47:48+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 74,
+   "score": 73,
    "sources_n": 12,
    "title_it": "Il pugile scozzese Willy Hutchinson soddisfa l'impegno dell'infanzia diventando campione del mondo dopo la famosa vittoria",
    "title_es": "El boxeador escocés Willy Hutchinson cumple su promesa de infancia al convertirse en campeón del mundo tras su famosa victoria"
@@ -2571,7 +2584,7 @@
    "date": "2026-11-08T19:45:54+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 16,
+   "score": 15,
    "sources_n": 1,
    "title_it": "30 anni fa, in questo giorno Evander Holyfield avrebbe fermato Mike Tyson in un 11° Round TKO e sarebbe diventato solo il 2° HW (dopo Ali) a vincere il Campionato 3 volte",
    "title_es": "Hace 30 años, en este día, Evander Holyfield detuvo a Mike Tyson en un nocaut técnico en la undécima ronda y se convirtió en el segundo HW (después de Ali) en ganar el Campeonato 3 veces"
@@ -4059,19 +4072,6 @@
    "sources_n": 1,
    "title_it": "Pugilato, Sardegna contro Puglia: a Sarroch la manifestazione “Oltre il ring” - L'Unione Sarda.it",
    "title_es": "Boxeo, Cerdeña contra Apulia: el evento “Más allá del ring” en Sarroch - L'Unione Sarda.it"
-  },
-  {
-   "title": "Tragic news rocks the boxing world as Australian champion dies in skydiving fall",
-   "link": "https://britishboxingnews.co.uk/news/australian-boxing-champion-skydiving/",
-   "source": "British Boxing News",
-   "lang": "en",
-   "date": "2026-11-07T15:17:14+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 0,
-   "sources_n": 1,
-   "title_it": "Una tragica notizia sconvolge il mondo della boxe: il campione australiano muore in una caduta di paracadutismo",
-   "title_es": "Una trágica noticia sacude al mundo del boxeo cuando el campeón australiano muere en una caída de paracaidismo"
   }
  ]
 }
