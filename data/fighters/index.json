@@ -13497,5 +13497,69 @@
  },
  "Iurii Shestak": {
   "tried": "2026-11-10T23:50:58+00:00"
+ },
+ "Zhomart Yerzhan": {
+  "tried": "2026-11-10T23:55:43+00:00"
+ },
+ "Louis Norman": {
+  "slug": "louis-norman",
+  "updated": "2026-11-10T23:55:50+00:00",
+  "total": 23,
+  "verified": 0,
+  "record": {
+   "w": 13,
+   "l": 9,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Oleksandr Zakhozhyi": {
+  "slug": "oleksandr-zakhozhyi",
+  "updated": "2026-11-10T23:55:52+00:00",
+  "total": 21,
+  "verified": 0,
+  "record": {
+   "w": 20,
+   "l": 1,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "de"
+  ]
+ },
+ "Jhack Tepora": {
+  "slug": "jhack-tepora",
+  "updated": "2026-11-10T23:55:55+00:00",
+  "total": 26,
+  "verified": 0,
+  "record": {
+   "w": 25,
+   "l": 1,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Meiirim Nursultanov": {
+  "slug": "meiirim-nursultanov",
+  "updated": "2026-11-10T23:55:57+00:00",
+  "total": 20,
+  "verified": 0,
+  "record": {
+   "w": 20,
+   "l": 0,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
