@@ -7585,5 +7585,70 @@
  },
  "Arashi Morisaka": {
   "tried": "2026-11-10T13:35:33+00:00"
+ },
+ "Tammara Thibeault": {
+  "slug": "tammara-thibeault",
+  "updated": "2026-11-10T13:40:50+00:00",
+  "total": 5,
+  "verified": 0,
+  "record": {
+   "w": 5,
+   "l": 0,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Yoshiki Takei": {
+  "slug": "yoshiki-takei",
+  "updated": "2026-11-10T13:40:54+00:00",
+  "total": 25,
+  "verified": 0,
+  "record": {
+   "w": 23,
+   "l": 2,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Antonio Vargas (boxer)": {
+  "slug": "antonio-vargas-boxer",
+  "updated": "2026-11-10T13:41:01+00:00",
+  "total": 23,
+  "verified": 0,
+  "record": {
+   "w": 19,
+   "l": 2,
+   "d": 1,
+   "nc": 1
+  },
+  "langs": [
+   "en",
+   "it"
+  ]
+ },
+ "Kristina O'Hara": {
+  "tried": "2026-11-10T13:40:45+00:00"
+ },
+ "Anauel Ngamissengue": {
+  "slug": "anauel-ngamissengue",
+  "updated": "2026-11-10T13:41:07+00:00",
+  "total": 16,
+  "verified": 14,
+  "record": {
+   "w": 15,
+   "l": 1,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "fr"
+  ]
  }
 }
