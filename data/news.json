@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-10T11:20:41+00:00",
- "feeds_ok": 50,
- "feeds_failed": 3,
+ "updated": "2026-11-10T11:25:50+00:00",
+ "feeds_ok": 46,
+ "feeds_failed": 7,
  "news": [
   {
    "title": "Medaglia di bronzo ai campionati italiani di pugilato Under 15 per Popa Cristiano Andrei - Il Piccolo Faenza",
@@ -116,7 +116,7 @@
    "title_es": "Tyson Fury revela lo que realmente sucedió en la disputada sesión de sparring de Anthony Joshua"
   },
   {
-   "title": "Merson: If Chelsea don't get Champions League, it's a massive, massive failure",
+   "title": "Merson: If Chelsea don't get Champions League it's a massive failure",
    "link": "https://www.skysports.com/football/news/12040/13610138/chelsea-not-showing-the-consistency-to-get-champions-league-football-this-season-says-paul-merson",
    "source": "Sky Sports Boxing",
    "lang": "en",
@@ -216,7 +216,7 @@
    "date": "2026-11-10T07:24:41+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 58,
+   "score": 57,
    "sources_n": 4,
    "title_it": "Ciò che ha DAVVERO innescato la rivolta notturna di boxe di HSTikkyTokky tra Tommy Robinson e Mo Deen, mentre l'influencer musulmano esce dalla copertura per rivendicare l'\"organizzazione\"",
    "title_es": "Lo que REALMENTE desencadenó el disturbio nocturno de boxeo de HSTikkyTokky entre Tommy Robinson y Mo Deen, mientras el influencer musulmán rompe la tapadera para reclamar una 'preparación'"
@@ -475,8 +475,8 @@
    "date": "2026-11-10T01:20:14+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 54,
-   "sources_n": 4,
+   "score": 44,
+   "sources_n": 3,
    "title_it": "Una giornata come oggi nella boxe... 9 novembre - World Boxing Council",
    "title_es": "Un día como hoy en el boxeo… 9 de noviembre - World Boxing Council"
   },
@@ -644,7 +644,7 @@
    "date": "2026-11-09T23:24:15+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 24,
+   "score": 23,
    "sources_n": 1,
    "title_it": "Campionati italiani di pugilato, la Boxe Tranchina conquista la medaglia d’oro Under 15 - Palermolive.it",
    "title_es": "Campionati italiani di pugilato, la Boxe Tranchina conquista la medaglia d'oro Under 15 - Palermolive.it"
@@ -738,7 +738,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 72,
-   "sources_n": 7,
+   "sources_n": 6,
    "title_it": "Shera Mae Patricio e Brittany Sims combattono per vincere il titolo mondiale dei pesi gallo WBA – World Boxing Association",
    "title_es": "Shera Mae Patricio y Brittany Sims luchan por empatar en pelea por el título mundial de peso gallo de la AMB – Asociación Mundial de Boxeo"
   },
@@ -767,19 +767,6 @@
    "sources_n": 1,
    "title_it": "Policía mexicana conquista dos campeonatos mundiales de boxeo - Código San Luis",
    "title_es": "Policía mexicana conquista dos campeonatos mundiales de boxeo - Código San Luis"
-  },
-  {
-   "title": "Heavyweight Loses Tooth, Promoter Injured as Fans Storm Ring",
-   "link": "https://www.worldboxingnews.com/heavyweight-loses-tooth-promoter-injured/",
-   "source": "World Boxing News",
-   "lang": "en",
-   "date": "2026-11-09T19:52:58+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 40,
-   "sources_n": 1,
-   "title_it": "Il peso massimo perde un dente, il promotore è ferito mentre i fan suonano in tempesta",
-   "title_es": "El peso pesado pierde un diente y el promotor resulta herido mientras los fanáticos asaltan el ring"
   },
   {
    "title": "Video: Erik Bazinyan fights Shakeel Phinn to a split draw",
@@ -936,7 +923,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 71,
-   "sources_n": 7,
+   "sources_n": 6,
    "title_it": "Irma García detronizza Nataly Delgado e conquista il titolo mondiale WBA dei pesi mosca super - World Boxing Association",
    "title_es": "Irma García destrona a Nataly Delgado para capturar el título mundial supermosca AMB - Asociación Mundial de Boxeo"
   },
@@ -954,19 +941,6 @@
    "title_es": "Bam Rodríguez detuvo a Pedro Guevara en tres asaltos para retener sus títulos Ring y WBC 👑"
   },
   {
-   "title": "Boxing Belt Free-For-All as Eighth World Title Fuels Chaos",
-   "link": "https://www.worldboxingnews.com/boxing-eighth-world-title-chaos/",
-   "source": "World Boxing News",
-   "lang": "en",
-   "date": "2026-11-09T17:27:17+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 61,
-   "sources_n": 7,
-   "title_it": "Boxing Belt Free-For-All mentre l'ottavo titolo mondiale alimenta il caos",
-   "title_es": "Cinturón de boxeo todos contra todos mientras el octavo título mundial alimenta el caos"
-  },
-  {
    "title": "Campionati italiani under 15 di boxe, 3 giovanissimi delle Fiamme Oro sul podio - CasertaNews",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONHRCQzlfdHFnWUNubnFZd0p0ek1tWU11YXZOTVRBZm5qemFBaDBpcXdENkJObXpaSFVIX1ZDR1hrR1hNZTE0RFFQNVdlSzFNR3hZSWE1Yzk2UEpmNjM1dHRxLWJDSGRidV9qdWx6UDB6R0RVeE0wckx4Z1FVaml2Q3ltd0Vmdy1rV09ncUlzNzZ3M2EtUTdSUDl1NUhfOXBqNG50eVk2eHJ4Rm5HR3hvbQ?oc=5",
    "source": "Google News: pugilato",
@@ -974,7 +948,7 @@
    "date": "2026-11-09T17:21:42+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 21,
+   "score": 20,
    "sources_n": 1,
    "title_it": "Campionati italiani under 15 di boxe, 3 giovanissimi delle Fiamme Oro sul podio - CasertaNews",
    "title_es": "Campionati italiani under 15 di boxe, 3 giovanissimi delle Fiamme Oro sul podio - CasertaNoticias"
@@ -1014,7 +988,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 113,
-   "sources_n": 9,
+   "sources_n": 8,
    "title_it": "David Benavidez ricorda di aver vinto il suo primo titolo mondiale a 20 anni",
    "title_es": "David Benavidez recuerda haber ganado su primer título mundial a los 20 años"
   },
@@ -1065,8 +1039,8 @@
    "date": "2026-11-09T16:18:07+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 50,
-   "sources_n": 4,
+   "score": 40,
+   "sources_n": 3,
    "title_it": "Floyd Mayweather aggiunge il leggendario ex avversario alla lista dei risultati per il grande incontro nel 2027",
    "title_es": "Floyd Mayweather agrega al legendario ex oponente a la lista de blancos para la gran pelea en 2027"
   },
@@ -1096,7 +1070,7 @@
     "Naoya Inoue"
    ],
    "score": 125,
-   "sources_n": 7,
+   "sources_n": 6,
    "title_it": "Junto Nakatani sta puntando a un combattimento con Ramon Cardenas a febbraio. La coppia è classificata #1 e #2 rispettivamente dal WBC, e l'incontro potrebbe portare un titolo mondiale provvisorio a 122 libbre se Naoya Inoue non si è liberata a quel punto.",
    "title_es": "Junto a Nakatani está apuntando a una pelea con Ramón Cárdenas en febrero. La pareja ocupa el puesto #1 y #2, respectivamente, por el CMB, y la pelea podría llevar a un título mundial interino de 122 libras si Naoya Inoue no ha desocupado en ese momento."
   },
@@ -1137,8 +1111,8 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 115,
-   "sources_n": 8,
+   "score": 114,
+   "sources_n": 7,
    "title_it": "La prospettiva dei pesi massimi statunitensi di Dana White corre per atterrare sulla undercard Tyson Fury vs Anthony Joshua",
    "title_es": "El prospecto de peso pesado estadounidense de Dana White en carrera para aterrizar en la cartelera de Tyson Fury vs Anthony Joshua"
   },
@@ -1150,7 +1124,7 @@
    "date": "2026-11-09T15:20:54+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 20,
+   "score": 19,
    "sources_n": 1,
    "title_it": "Pugilato Under 15, tre medaglie per le Fiamme Oro di Marcianise e Caserta agli Italiani - Pupia.tv",
    "title_es": "Pugilato Under 15, tre medaglie per le Fiamme Oro di Marcianise e Caserta agli Italiani - Pupia.tv"
@@ -1202,8 +1176,8 @@
    "date": "2026-11-09T15:00:28+00:00",
    "status": "rumor",
    "boxers": [],
-   "score": 39,
-   "sources_n": 3,
+   "score": 29,
+   "sources_n": 2,
    "title_it": "Il giovane pugile Cole parla della sua lotta e incontra Eddie Hearn, Dave Allen e Dalton Smith | Giorno speciale",
    "title_es": "El joven boxeador Cole habla de su propia pelea y conoce a Eddie Hearn, Dave Allen y Dalton Smith | Día especial"
   },
@@ -1247,19 +1221,6 @@
    "sources_n": 1,
    "title_it": "Pugilato, Giuseppe Rubino vince per ko alla quinta ripresa contro Fabiano Ricco - PalermoToday",
    "title_es": "Pugilato, Giuseppe Rubino vince per ko alla quinta ripresa contro Fabiano Ricco - PalermoHoy"
-  },
-  {
-   "title": "Shields vs Cameron: Deleted Tweet, Ship Sailed, Fight in Limbo",
-   "link": "https://www.worldboxingnews.com/shields-cameron-deleted-tweet-limbo-copy/",
-   "source": "World Boxing News",
-   "lang": "en",
-   "date": "2026-11-09T14:28:43+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 29,
-   "sources_n": 2,
-   "title_it": "Shields vs Cameron: Tweet cancellato, Nave salpata, Combattimento nel Limbo",
-   "title_es": "Shields vs Cameron: Tweet eliminado, barco zarpó, pelea en el limbo"
   },
   {
    "title": "“This should be round of the CENTURY” round 9 of Ward vs Gatti 1",
@@ -1429,8 +1390,8 @@
    "boxers": [
     "Oleksandr Usyk"
    ],
-   "score": 93,
-   "sources_n": 3,
+   "score": 103,
+   "sources_n": 4,
    "title_it": "Carl Froch pronuncia un verdetto onesto su Oleksandr Usyk contro David Benavidez: \"È pazzo?\"",
    "title_es": "Carl Froch pronuncia un veredicto honesto sobre Oleksandr Usyk contra David Benavidez: \"¿Está loco?\""
   },
@@ -1500,19 +1461,6 @@
    "title_es": "A Cervia un evento dedicato allo sport: presenti anche diversi campioni olimpici - RavennaHoy"
   },
   {
-   "title": "Floyd Mayweather Names Stunning Rematch on Four-Fight Hit List",
-   "link": "https://www.worldboxingnews.com/mayweather-four-fight-rematch-hit-list/",
-   "source": "World Boxing News",
-   "lang": "en",
-   "date": "2026-11-09T11:39:44+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 48,
-   "sources_n": 4,
-   "title_it": "Floyd Mayweather nomina la straordinaria rivincita nella lista dei quattro incontri",
-   "title_es": "Floyd Mayweather nombra impresionante revancha en la lista de cuatro peleas exitosas"
-  },
-  {
    "title": "Pugilato, il giovane atleta teatino Ryan Zimanglini diventa vice campione italiano a 14 anni - ChietiToday",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeWxGTV91VGVDUHVEZjZtd05tSFJXbzlVS013bV9aTW1OUWYxNnU4NUlKcTJfWEROazlGblJzNVBlY2YzcjRLdU10VE8zQnp4c1BXNHFrNGZZTTc2aEhaVV9WaWlRSDAwNVdSTU5nQnF1RjB2UkJ5Y25rU0ZlaHNwb1NKdS10MWZPVE5kS01PR3R5c1ZtSlYzMlhMLVhldw?oc=5",
    "source": "Google News: pugilato",
@@ -1546,8 +1494,8 @@
    "date": "2026-11-09T11:21:12+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 48,
-   "sources_n": 4,
+   "score": 37,
+   "sources_n": 3,
    "title_it": "Floyd Mayweather prevede un “grande scontro” nel 2027 e nomina quattro potenziali avversari",
    "title_es": "Floyd Mayweather prevé una “gran pelea” en 2027 y nombra cuatro oponentes potenciales"
   },
@@ -1669,8 +1617,8 @@
    "date": "2026-11-09T09:56:09-05:00",
    "status": "rumor",
    "boxers": [],
-   "score": 39,
-   "sources_n": 3,
+   "score": 29,
+   "sources_n": 2,
    "title_it": "\"Sono contenta di dove siamo\": Dana White parla della prestazione di Zuffa nel 2026",
    "title_es": "‘Estoy contento con dónde estamos’: Dana White habla sobre el desempeño de Zuffa en 2026"
   },
@@ -1734,7 +1682,7 @@
    "date": "2026-11-09T09:21:52+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 47,
+   "score": 46,
    "sources_n": 4,
    "title_it": "Skye Nicolson difende il titolo dei pesi supergallo! | Skye Nicolson contro Miyo Yoshida | Punti salienti",
    "title_es": "¡Skye Nicolson defiende el título de peso supergallo! | Skye Nicolson contra Miyo Yoshida | Reflejos"
@@ -1763,8 +1711,8 @@
    "date": "2026-11-09T08:59:50+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 51,
-   "sources_n": 2,
+   "score": 41,
+   "sources_n": 1,
    "title_it": "Chantelle Cameron rifiuta 1,1 milioni di dollari per combattere Claressa Shields 🥴",
    "title_es": "Chantelle Cameron rechaza 1,1 millones de dólares para luchar contra Claressa Shields 🥴"
   },
@@ -1792,8 +1740,8 @@
    "date": "2026-11-09T08:05:58+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 56,
-   "sources_n": 4,
+   "score": 46,
+   "sources_n": 3,
    "title_it": "Javan Buyu combatte Kamran per il titolo mondiale UBO come SportPesa Boxing Night promette una storica resa dei conti keniota - SportPesa Blog",
    "title_es": "Javan Buyu lucha contra Kamran por el título mundial de UBO ya que SportPesa Boxing Night promete un enfrentamiento histórico en Kenia - Blog de SportPesa"
   },
@@ -1887,7 +1835,7 @@
    "status": "confirmed",
    "boxers": [],
    "score": 63,
-   "sources_n": 13,
+   "sources_n": 12,
    "title_it": "Baumgardner vince il secondo titolo mondiale dopo aver fermato Turhan - boxingnews.com",
    "title_es": "Baumgardner gana el segundo título mundial después de detener a Turhan - boxingnews.com"
   },
@@ -1912,7 +1860,7 @@
    "date": "2026-11-09T05:21:21+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 96,
+   "score": 95,
    "sources_n": 11,
    "title_it": "Caroline Dubois chiede un incontro di riunificazione con Alycia Baumgardner dopo la sua vittoria domenica sera 👀",
    "title_es": "Caroline Dubois pide una pelea de unificación con Alycia Baumgardner después de su victoria el domingo por la noche 👀"
@@ -2017,7 +1965,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 53,
-   "sources_n": 10,
+   "sources_n": 9,
    "title_it": "Skye Nicolson sembra in FORMA per la lotta per il titolo mondiale contro Yoshida 💨 - Notizie di boxe 24",
    "title_es": "Skye Nicolson se ve FUERTE para la pelea por el título mundial contra Yoshida 💨 - Boxing News 24"
   },
@@ -2030,7 +1978,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 53,
-   "sources_n": 8,
+   "sources_n": 7,
    "title_it": "Skye Nicolson sembra in forma per la lotta per il titolo mondiale contro Yoshida 💨",
    "title_es": "Skye Nicolson luce AGUDA para la pelea por el título mundial contra Yoshida 💨"
   },
@@ -2055,7 +2003,7 @@
    "date": "2026-11-09T01:21:31+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 13,
+   "score": 12,
    "sources_n": 1,
    "title_it": "Uno in meno, ne mancano quattro - Daily Tribune",
    "title_es": "Uno menos, faltan cuatro - Daily Tribune"
@@ -2133,7 +2081,7 @@
    "date": "2026-11-08T23:22:30+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 37,
+   "score": 36,
    "sources_n": 1,
    "title_it": "La scelta ad eliminazione diretta di Haney di James Toney ignora sette anni",
    "title_es": "La elección por nocaut de Haney de James Toney ignora siete años"
@@ -2172,8 +2120,8 @@
    "date": "2026-11-08T20:42:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 40,
-   "sources_n": 4,
+   "score": 30,
+   "sources_n": 3,
    "title_it": "Floyd Mayweather, Pedro Martínez e Sammy Sosa si sono aggiunti alla lineup di autografi di Philly Show a Oaks",
    "title_es": "Floyd Mayweather, Pedro Martínez y Sammy Sosa se suman a la alineación de autógrafos de Philly Show en Oaks"
   },
@@ -2224,8 +2172,8 @@
    "date": "2026-11-08T19:24:45+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 40,
-   "sources_n": 8,
+   "score": 39,
+   "sources_n": 7,
    "title_it": "Catherine Nanziri Eyes Historic World Boxing Title - NTV Uganda",
    "title_es": "Catherine Nanziri Ojos Título Mundial de Boxeo Histórico - NTV Uganda"
   },
@@ -2241,19 +2189,6 @@
    "sources_n": 11,
    "title_it": "Alycia Baumgardner domina Elif Nur Turhan a MVPW-07 per diventare campionessa del mondo a 2 divisioni",
    "title_es": "Alycia Baumgardner domina a Elif Nur Turhan en MVPW-07 para convertirse en campeona mundial de 2 divisiones"
-  },
-  {
-   "title": "Crawford’s Boxer Best Friend ‘Almost Dies’ at Kanye Concert",
-   "link": "https://www.worldboxingnews.com/crawford-boxer-nelson-kanye-concert/",
-   "source": "World Boxing News",
-   "lang": "en",
-   "date": "2026-11-08T18:19:04+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 34,
-   "sources_n": 1,
-   "title_it": "Il migliore amico pugile di Crawford \"quasi muore\" al concerto di Kanye",
-   "title_es": "El mejor amigo del boxeador de Crawford 'casi muere' en el concierto de Kanye"
   },
   {
    "title": "A truly SENSATIONAL pro debut from Vinnie “King of Violence” Kemp! 🤯💥 #ZuffaBoxing12",
@@ -2276,8 +2211,8 @@
    "date": "2026-11-08T17:09:41+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 28,
-   "sources_n": 3,
+   "score": 38,
+   "sources_n": 4,
    "title_it": "La campionessa olimpica di pugilato Imane Khelif torna a Parigi",
    "title_es": "El campeón olímpico de boxeo Imane Khelif se prepara para el regreso a París"
   },
@@ -2348,19 +2283,6 @@
    "sources_n": 1,
    "title_it": "Il mondo della boxe è sbalordito dal \"peggior infortunio mai visto\" quando il combattente britannico, 29 anni, si ritrova con un raccapricciante gonfiore dopo una brutta collisione alla testa - mentre i fan si chiedono perché l'incontro non sia stato fermato prima",
    "title_es": "El mundo del boxeo está aturdido por la \"peor lesión jamás vista\", ya que el boxeador británico, de 29 años, se queda con una espantosa hinchazón después de una desagradable colisión en la cabeza, mientras los fanáticos se preguntan por qué la pelea no se detuvo antes"
-  },
-  {
-   "title": "Heavyweight Attacked After WBC Win, Mass Brawl Erupts",
-   "link": "https://www.worldboxingnews.com/heavyweight-attacked-wbc-win-mass-brawl/",
-   "source": "World Boxing News",
-   "lang": "en",
-   "date": "2026-11-08T15:28:15+00:00",
-   "status": "confirmed",
-   "boxers": [],
-   "score": 36,
-   "sources_n": 1,
-   "title_it": "Pesi massimi attaccati dopo la vittoria nel WBC, scoppia una rissa di massa",
-   "title_es": "Peso pesado atacado después de la victoria del CMB, estalla una pelea masiva"
   },
   {
    "title": "Does anyone have video footage of Tommy Morrison vs John Castle?",
@@ -2451,7 +2373,7 @@
    "date": "2026-11-08T13:23:45+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 80,
+   "score": 79,
    "sources_n": 12,
    "title_it": "Willy Hutchinson compie il destino del titolo mondiale di 15 anni dopo aver vinto la sua più grande lotta... contro se stesso",
    "title_es": "Willy Hutchinson cumple 15 años en el destino del título mundial después de ganar su mayor pelea... contra sí mismo"
@@ -2506,7 +2428,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 36,
-   "sources_n": 6,
+   "sources_n": 5,
    "title_it": "Conferenza stampa post-incontro: Zuffa Boxing 12",
    "title_es": "Conferencia de prensa posterior a la pelea: Zuffa Boxing 12"
   },
@@ -2645,19 +2567,6 @@
    "sources_n": 1,
    "title_it": "Margot Mappelli è bronzo ai Campionati italiani di pugilato Under 15 - AostaSera -",
    "title_es": "Margot Mappelli è bronzo ai Campionati italiani di pugilato Menor de 15 años - AostaSera -"
-  },
-  {
-   "title": "Doctor Stops Title Fight as Boxer ‘Looks Like Elephant Man’",
-   "link": "https://www.worldboxingnews.com/zak-miller-elephant-man-injury/",
-   "source": "World Boxing News",
-   "lang": "en",
-   "date": "2026-11-08T09:12:48+00:00",
-   "status": "confirmed",
-   "boxers": [],
-   "score": 32,
-   "sources_n": 3,
-   "title_it": "Il dottore interrompe la lotta per il titolo perché Boxer \"sembra Elephant Man\"",
-   "title_es": "Médico detiene pelea por el título porque el boxeador \"parece el hombre elefante\""
   },
   {
    "title": "Moment influencer jumps out of boxing ring and fly kicks Tommy Robinson at HSTikkyTokky’s event as chaotic brawl erupts",
@@ -2890,7 +2799,7 @@
    "date": "2026-11-08T07:23:57+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 4,
+   "score": 3,
    "sources_n": 1,
    "title_it": "\"Riporterò quel titolo in Texas!\"",
    "title_es": "\"¡Traeré ese título de regreso a Texas!\""
@@ -2943,7 +2852,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 33,
-   "sources_n": 6,
+   "sources_n": 5,
    "title_it": "Pre-Show e due incontri preliminari: Zuffa Boxing 12",
    "title_es": "Pre-Show y dos combates preliminares: Zuffa Boxing 12"
   },
@@ -2956,7 +2865,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 33,
-   "sources_n": 6,
+   "sources_n": 5,
    "title_it": "Pre-Show e primo incontro preliminare: Zuffa Boxing 12",
    "title_es": "Pre-Show y primer combate preliminar: Zuffa Boxing 12"
   },
@@ -3013,7 +2922,7 @@
     "Shane Mosley Jr"
    ],
    "score": 66,
-   "sources_n": 9,
+   "sources_n": 8,
    "title_it": "Denzel Bentley contro Shane Mosley Jr.: Zuffa Boxing 12, 7 novembre 2026",
    "title_es": "Denzel Bentley contra Shane Mosley Jr.: Zuffa Boxing 12, 7 de noviembre de 2026"
   },
@@ -3026,7 +2935,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 39,
-   "sources_n": 10,
+   "sources_n": 9,
    "title_it": "Chev Clarke KO Chris Billam-Smith nell'epico evento principale: Zuffa Boxing 12, 7 novembre 2026",
    "title_es": "Chev Clarke NOQUEA a Chris Billam-Smith en un evento principal épico: Zuffa Boxing 12, 7 de noviembre de 2026"
   },
@@ -3106,7 +3015,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 30,
-   "sources_n": 7,
+   "sources_n": 6,
    "title_it": "Evento completo: Zuffa Boxing 12",
    "title_es": "Evento completo: Zuffa Boxeo 12"
   },
@@ -3174,7 +3083,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 30,
-   "sources_n": 6,
+   "sources_n": 5,
    "title_it": "Da’Mazion Vanhouter vs. Ivan Balaz: Zuffa Boxing 12, Nov. 7, 2026",
    "title_es": "Da'Mazion Vanhouter contra Ivan Balaz: Zuffa Boxing 12, 7 de noviembre de 2026"
   },
@@ -3219,7 +3128,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 30,
-   "sources_n": 6,
+   "sources_n": 5,
    "title_it": "Sam Hickey contro Amaury Massenaux: Zuffa Boxing 12, 7 novembre 2026",
    "title_es": "Sam Hickey contra Amaury Massenaux: Zuffa Boxing 12, 7 de noviembre de 2026"
   },
@@ -3232,7 +3141,7 @@
    "status": "confirmed",
    "boxers": [],
    "score": 38,
-   "sources_n": 10,
+   "sources_n": 9,
    "title_it": "Risultati Zuffa Boxing 12, highlights: Cheavon Clarke ferma Chris Billam-Smith, Da'Mazion Vanhouter torna a brillare",
    "title_es": "Resultados de Zuffa Boxing 12, destacados: Cheavon Clarke detiene a Chris Billam-Smith, Da'Mazion Vanhouter brilla de nuevo"
   },
@@ -3448,8 +3357,8 @@
    "date": "2026-11-07T21:31:42+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 38,
-   "sources_n": 3,
+   "score": 28,
+   "sources_n": 2,
    "title_it": "Dana White sorride sorridendo alla \"prossima stella dei pesi massimi d'America\" ​​mentre osserva il brutale KO al primo round",
    "title_es": "Dana White sonríe ante la 'próxima estrella de peso pesado de Estados Unidos' mientras observa el brutal nocaut en el primer asalto"
   },
@@ -3477,8 +3386,8 @@
    "date": "2026-11-07T21:07:22+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 20,
-   "sources_n": 3,
+   "score": 30,
+   "sources_n": 4,
    "title_it": "Imane Khelif farà tornare la boxe d'urto due anni dopo lo scandalo della boxe di genere che ha travolto le Olimpiadi",
    "title_es": "Imane Khelif regresará al boxeo de choque dos años después del escándalo de boxeo de género que envolvió a los Juegos Olímpicos"
   },
@@ -3536,7 +3445,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 38,
-   "sources_n": 6,
+   "sources_n": 5,
    "title_it": "Gli ha quasi fatto un buco ’ – I fan sono sbalorditi dal brutale KO sulla carta Zuffa Boxe che lascia la stella accartocciata sulla tela",
    "title_es": "Casi le perforo un agujero ’ – Aficionados aturdidos por el brutal KO en la tarjeta de boxeo Zuffa que deja la estrella arrugada en el lienzo"
   },
@@ -3549,7 +3458,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 20,
-   "sources_n": 10,
+   "sources_n": 9,
    "title_it": "Orario di inizio di Zuffa Boxing 12, scheda dell'incontro, pronostici e dove guardare Chris Billam Smith contro Cheavon Clarke",
    "title_es": "Hora de inicio de Zuffa Boxing 12, cartelera, predicciones y dónde ver a Chris Billam Smith contra Cheavon Clarke"
   },
@@ -3617,7 +3526,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 38,
-   "sources_n": 6,
+   "sources_n": 5,
    "title_it": "Zach Parker ha foldato con un disgustoso KO con un colpo al corpo sulla carta di Zuffa Boxing per mandare in frantumi le speranze di titolo",
    "title_es": "Zach Parker falló en un repugnante KO con un golpe al cuerpo en la cartelera de Zuffa Boxing para destruir las esperanzas de título"
   },
@@ -3723,23 +3632,10 @@
    "date": "2026-11-07T16:09:38+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 20,
-   "sources_n": 3,
+   "score": 30,
+   "sources_n": 4,
    "title_it": "Imane Khelif tornerà sul ring, la medaglia d'oro di Parigi 2024 passa tra le professioniste: \"Dentro di me il fuoco non si è mai spento\" - Today",
    "title_es": "Imane Khelif tornerà sul ring, la medaglia d'oro di Parigi 2024 passa tra le professioniste: \"Dentro di me il fuoco non si è mai spento\" - Hoy"
-  },
-  {
-   "title": "Zuffa Boxing 12 Results from London",
-   "link": "https://www.worldboxingnews.com/zuffa-boxing-12-results/",
-   "source": "World Boxing News",
-   "lang": "en",
-   "date": "2026-11-07T15:54:12+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 30,
-   "sources_n": 6,
-   "title_it": "Zuffa Boxe 12 Risultati da Londra",
-   "title_es": "Resultados de Zuffa Boxing 12 desde Londres"
   },
   {
    "title": "Pugilato, Sardegna contro Puglia: a Sarroch la manifestazione “Oltre il ring” - L'Unione Sarda.it",
@@ -3788,8 +3684,8 @@
    "date": "2026-11-07T14:12:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 20,
-   "sources_n": 3,
+   "score": 30,
+   "sources_n": 4,
    "title_it": "Imane Khelif torna sul ring: \"Sono stata vittima di un'agenda politica\". La pugile oro olimpico passa al professionismo - Il Fatto Quotidiano",
    "title_es": "Imane Khelif torna sul ring: \"Sono stata vittima di un 'agenda politica\". La pugile oro olimpico passa al professionismo - Il Fatto Quotidiano"
   },
@@ -3828,7 +3724,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 30,
-   "sources_n": 10,
+   "sources_n": 9,
    "title_it": "‘Sali di livello’ – Billam-Smith rivela il motivo per cui non è in cerca di vendetta contro Clarke nell'incontro di Zuffa Boxe 12",
    "title_es": "‘Nivelado’ – Billam-Smith revela la razón por la que no busca venganza contra Clarke en la pelea de Zuffa Boxing 12"
   },
@@ -3859,19 +3755,6 @@
    "title_es": "Grande boxe internazionale a Francavilla Fontana: al via la \"European Champion Fight 2\" - Lo Strillone News"
   },
   {
-   "title": "Heavyweight Hits Downed Opponent, Jumps Into Crowd Swinging",
-   "link": "https://www.worldboxingnews.com/heavyweight-hits-downed-opponent/",
-   "source": "World Boxing News",
-   "lang": "en",
-   "date": "2026-11-07T13:03:32+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 18,
-   "sources_n": 1,
-   "title_it": "Il peso massimo colpisce l'avversario a terra e salta nella folla dondolandosi",
-   "title_es": "El peso pesado golpea al oponente derribado y salta hacia la multitud que se balancea"
-  },
-  {
    "title": "Cheavon Clarke destroys Chris Billam-Smith at Zuffa Boxing 12; Denzel Bentley edges Shane Mosley Jr.",
    "link": "https://sports.yahoo.com/boxing/live/zuffa-boxing-12-live-results-round-by-round-updates-ring-walks-for-chris-billam-smith-vs-chev-clarke-130000916.html",
    "source": "Yahoo Sports Boxing",
@@ -3883,7 +3766,7 @@
     "Shane Mosley Jr"
    ],
    "score": 65,
-   "sources_n": 11,
+   "sources_n": 10,
    "title_it": "Cheavon Clarke distrugge Chris Billam-Smith allo Zuffa Boxing 12; Denzel Bentley batte Shane Mosley Jr.",
    "title_es": "Cheavon Clarke destruye a Chris Billam-Smith en Zuffa Boxing 12; Denzel Bentley supera a Shane Mosley Jr."
   },
@@ -3896,7 +3779,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 30,
-   "sources_n": 9,
+   "sources_n": 8,
    "title_it": "Chris Billam-Smith contro Cheavon Clarke: data, ora, canale TV, live streaming e scheda COMPLETA per l'evento di boxe Zuffa a Londra",
    "title_es": "Chris Billam-Smith vs Cheavon Clarke: fecha, hora, canal de televisión, transmisión en vivo y tarjeta COMPLETA para el evento de boxeo Zuffa en Londres"
   },
@@ -3915,19 +3798,6 @@
    "sources_n": 13,
    "title_it": "Joshua Buatsi vs Willy Hutchinson 2: data, ora di inizio, canale TV, streaming live e scheda COMPLETA per un enorme scontro sul titolo WBC",
    "title_es": "Joshua Buatsi vs Willy Hutchinson 2: Fecha, hora de inicio, canal de televisión, transmisión en vivo y tarjeta COMPLETA para el gran enfrentamiento por el título del CMB"
-  },
-  {
-   "title": "Dana White’s Heavyweight Goes From 151lb Kid to 231lb KO Monster",
-   "link": "https://www.worldboxingnews.com/dana-white-vanhouter-151lb-231lb/",
-   "source": "World Boxing News",
-   "lang": "en",
-   "date": "2026-11-07T11:07:15+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 38,
-   "sources_n": 3,
-   "title_it": "Il peso massimo di Dana White passa da 151 libbre Kid a 231 libbre KO Monster",
-   "title_es": "El peso pesado de Dana White pasa de 151 libras de niño a 231 libras de KO Monster"
   },
   {
    "title": "UK’s youngest pro boxer heads to Bali to face Indonesian lightweight champion",
@@ -4058,6 +3928,142 @@
    "sources_n": 10,
    "title_it": "Buatsi v Hutchinson 2 - pronostici mondiali DI lotta per IL titolo dei pesi leggeri - BBC",
    "title_es": "Buatsi v Hutchinson 2 - predicciones DE lucha por EL título mundial semipesado - BBC"
+  },
+  {
+   "title": "\"OH S***\" - JOHNNY NELSON REVEALS TRUTH ON TYSON FURY INJURY RUMOURS FOR ANTHONY JOSHUA, WILDER",
+   "link": "https://www.youtube.com/watch?v=e2KgkF-aLEM",
+   "source": "YouTube Pro Boxing Fans",
+   "lang": "en",
+   "date": "2026-11-07T08:00:21+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Tyson Fury",
+    "Anthony Joshua"
+   ],
+   "score": 55,
+   "sources_n": 1,
+   "title_it": "\"OH S* **\" - JOHNNY NELSON RIVELA LA VERITÀ SULLE VOCI DI LESIONI DA FURIA DI TYSON PER ANTHONY JOSHUA, WILDER",
+   "title_es": "\"OH S***\" - JOHNNY NELSON REVELA LA VERDAD SOBRE LOS RUMORES DE LESIONES DE TYSON FURY PARA ANTHONY JOSHUA, WILDER"
+  },
+  {
+   "title": "Tyson Fury issues response to Oleksandr Usyk trilogy snub",
+   "link": "https://www.mirror.co.uk/sport/boxing/tyson-fury-oleksandr-usyk-fight-37849543",
+   "source": "Daily Mirror Boxing",
+   "lang": "en",
+   "date": "2026-11-07T08:00:00+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Tyson Fury",
+    "Oleksandr Usyk"
+   ],
+   "score": 85,
+   "sources_n": 5,
+   "title_it": "Tyson Fury risponde all'affronto della trilogia di Oleksandr Usyk",
+   "title_es": "Tyson Fury responde al desaire de la trilogía de Oleksandr Usyk"
+  },
+  {
+   "title": "Boxing Tonight: Start times, TV channel stream and fight cards",
+   "link": "https://www.mirror.co.uk/sport/boxing/boxing-tonight-start-times-tv-37850398",
+   "source": "Daily Mirror Boxing",
+   "lang": "en",
+   "date": "2026-11-07T07:30:00+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 0,
+   "sources_n": 1,
+   "title_it": "Boxe stasera: orari di inizio, streaming del canale TV e carte combattimento",
+   "title_es": "Boxeo esta noche: horarios de inicio, transmisión de canales de televisión y tarjetas de pelea"
+  },
+  {
+   "title": "Willy Hutchinson: It's my destiny to become Scotland's next world boxing champion - The Herald",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYUMwM3ljT3Q1TnFRVEVlSEpTZmdrOE92ZEZaSzk3WFZMUDEtUTJ5VnYxci1MdTBhekJRV3NMREtHSVVmSGh3NFAyQjhDQl9GVWVwaXhNYVNLeG42YjNUeG41YU03VUpFanlwWUw3Q2I1VUU2d1NFYkNBYms0WGRybU1DNXRUWFpFNDQzZFBzNVRGZ3NqV1F2NGV3?oc=5",
+   "source": "Google News: boxing",
+   "lang": "en",
+   "date": "2026-11-07T06:32:57+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 55,
+   "sources_n": 12,
+   "title_it": "Willy Hutchinson: È il mio destino diventare il prossimo campione del mondo di boxe della Scozia - The Herald",
+   "title_es": "Willy Hutchinson: Es mi destino convertirme en el próximo campeón mundial de boxeo de Escocia - The Herald"
+  },
+  {
+   "title": "Brandon Moreno busca hacer historia ante Pedro Taduran en el asalto al título mundial de la IBF - AEBOX",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaHpETTl5TV9xTXVlc19tRUlvQ1VNTHBRUlNndTBoRWJNcW5rNi16MFFYWW52RHlCc0ZMOWZhUVppNElCbjE1MVBaSG1tQ2RDTWJ1Q2dfdDlNMVZNazJXdF9kMk8xblZMbjRoLWJBZ3VyelhrTUwyZmFkanRyZEZYajBjTDdLcFR1dzVFYThTZDFWRzQ?oc=5",
+   "source": "Google News: boxeo",
+   "lang": "es",
+   "date": "2026-11-07T06:17:23+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 30,
+   "sources_n": 3,
+   "title_it": "Brandon Moreno busca hacer historia ante Pedro Taduran en el asalto al título mundial de la IBF - AEBOX",
+   "title_es": "Brandon Moreno busca hacer historia ante Pedro Taduran en el asalto al título mundial de la IBF - AEBOX"
+  },
+  {
+   "title": "Boxing Mailbag: Middleweight’s future, Loma’s return, Lara, more",
+   "link": "https://www.badlefthook.com/boxing-news/120212/boxing-mailbag-middleweights-future-lomas-return-lara-more",
+   "source": "Bad Left Hook",
+   "lang": "en",
+   "date": "2026-11-07T05:00:00-05:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 0,
+   "sources_n": 1,
+   "title_it": "Borsa postale da boxe: il futuro dei pesi medi, il ritorno di Loma, Lara, altro",
+   "title_es": "Boxing Mailbag: el futuro del peso medio, el regreso de Loma, Lara, más"
+  },
+  {
+   "title": "'I was going down a bad path' – Blackpool boxer on remarkable world title comeback - Lancashire Telegraph",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSHViTGtRMzZpVHNLZFhwOFg3dThibkJsSEVBUENoZUltdmNLY3FkV0V6NW9LMWFMSDl2eW9yMHctVWx1Z2Y2OUVxSTBMMkdXQWxKZXlhd3QxWEs5MkRqdGNrRGxnd0o4Zl84ME5ERElHMzNySEczMFg1d3Rubk9qNDFiMEM1bEQzeEQwWlNzeHhlcUxDOVMzWGQwb0hCeU5SUlE4YnoxUGpJVHB3?oc=5",
+   "source": "Google News: boxing",
+   "lang": "en",
+   "date": "2026-11-07T05:00:00+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 10,
+   "sources_n": 1,
+   "title_it": "\"Stavo percorrendo una brutta strada\" – Pugile di Blackpool in occasione della straordinaria rimonta del titolo mondiale - Lancashire Telegraph",
+   "title_es": "\"Iba por un mal camino\" – Boxeador de Blackpool con un notable regreso al título mundial - Lancashire Telegraph"
+  },
+  {
+   "title": "La pugile coinvolta nella controversia di genere alle Olimpiadi del 2024 è pronta a tornare alle competizioni dopo due anni di assenza. - Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSld6R3RNWFZzRmVKNFR3NnBBMDFPc3MyZDdTZ0hXc2Q3aTZjMk9LcFBQdUhoUGpBWXJDVGNvTzJTTFRjZ2FTY0pBTEdDWHItck5ONWxyRElzZndxOUZlZURURGwycm1PMkVyS3FkUlM0Z1JNZmYzV3R6MkNkeU1adjE3UTdJcnpYb0p4c2VCUGpWbzMtSVFpQ0d5bG90c3ZERDBV?oc=5",
+   "source": "Google News: pugilato",
+   "lang": "it",
+   "date": "2026-11-07T04:41:26+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 0,
+   "sources_n": 1,
+   "title_it": "La pugile coinvolta nella controversia di genere alle Olimpiadi del 2024 è pronta a tornare alle competizioni dopo due anni di assenza. - Vietnam.vn",
+   "title_es": "La pugile coinvolta nella controversia di genere alle Olimpiadi del 2024 è pronta a tornare alle competizioni dopo due anni di assenza. - Vietnam.vn"
+  },
+  {
+   "title": "‘Il pugile ribelle’ a Casa Saffi. Un tuffo nel passato con Gioiello - Il Resto del Carlino",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSVEtUVFLY0RhZHR0cTZHTXBaaU5UZnhxaFVCRWN1S0gzX2JnMVEyMVlMU281VXRkcDFwcENvQnhmVkNLLW8ybkdiSGgtU202blctVnZjNTJ3TDF5MFhGTDhmWHdzREw2MHBxVThWUF9zX3FKeTgtLWZlRUd6ZnpJQkNUN1kzQTQ?oc=5",
+   "source": "Google News: pugilato",
+   "lang": "it",
+   "date": "2026-11-07T04:05:14+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 0,
+   "sources_n": 1,
+   "title_it": "‘Il pugile ribelle’ a Casa Saffi. Un tuffo nel passato con Gioiello - Il Resto del Carlino",
+   "title_es": "‘Il pugile ribelle’ a Casa Saffi. Un tuffo nel passato con Gioiello - Il Resto del Carlino"
+  },
+  {
+   "title": "Imane Khelif Skipping LA 2028 Olympics for Pro Debut, Will She Be Eligible to Win a Women's World Title? - Athlon Sports",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeURGTXYwT0ZBcF9HYlVUSkMyc3J5WUc1QjUybGdkdVF5bmMzMjVpNDJuSnNlaEZPRUdrOEdvSll5b0IzMWNDVWZYa1BmbU5jb3BISWVXbnpOdVBVbjVmenNveUh4MzFJSmtGdXF0YnM2c3I4RGgzZFJ5RDFrTWJYUjdWSGIyTks1TWw0YXQ4N2JfcXFsTUh2R09Ecw?oc=5",
+   "source": "Google News: boxing",
+   "lang": "en",
+   "date": "2026-11-07T03:22:00+00:00",
+   "status": "confirmed",
+   "boxers": [],
+   "score": 48,
+   "sources_n": 8,
+   "title_it": "Imane Khelif salta le Olimpiadi di LA 2028 per il debutto professionale, sarà idonea a vincere un titolo mondiale femminile? - Athlon Sports",
+   "title_es": "Imane Khelif saltándose los Juegos Olímpicos de Los Ángeles 2028 para debutar como profesional, ¿será elegible para ganar un título mundial femenino? - Athlon Sports"
   }
  ]
 }
