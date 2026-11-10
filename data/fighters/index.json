@@ -12516,5 +12516,81 @@
  },
  "Maria Machongua": {
   "tried": "2026-11-10T22:14:30+00:00"
+ },
+ "Mike Reed (boxer)": {
+  "slug": "mike-reed-boxer",
+  "updated": "2026-11-10T22:15:46+00:00",
+  "total": 27,
+  "verified": 0,
+  "record": {
+   "w": 25,
+   "l": 2,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Alejandro González Jr.": {
+  "slug": "alejandro-gonzalez-jr",
+  "updated": "2026-11-10T22:15:50+00:00",
+  "total": 55,
+  "verified": 0,
+  "record": {
+   "w": 49,
+   "l": 5,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Tsotne Rogava": {
+  "slug": "tsotne-rogava",
+  "updated": "2026-11-10T22:15:52+00:00",
+  "total": 30,
+  "verified": 0,
+  "record": {
+   "w": 23,
+   "l": 7,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Andrés Gutiérrez": {
+  "slug": "andres-gutierrez",
+  "updated": "2026-11-10T22:15:56+00:00",
+  "total": 44,
+  "verified": 0,
+  "record": {
+   "w": 40,
+   "l": 2,
+   "d": 2,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Sergio Pettis": {
+  "slug": "sergio-pettis",
+  "updated": "2026-11-10T22:15:59+00:00",
+  "total": 2,
+  "verified": 0,
+  "record": {
+   "w": 1,
+   "l": 1,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "fr"
+  ]
  }
 }

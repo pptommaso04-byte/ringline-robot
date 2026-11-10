@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T22:14:30+00:00",
+ "updated": "2026-11-10T22:15:42+00:00",
  "feeds_ok": 50,
  "feeds_failed": 3,
  "news": [
@@ -1527,7 +1527,7 @@
    "date": "2026-11-10T02:15:07+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 95,
+   "score": 94,
    "sources_n": 12,
    "title_it": "Willy Hutchinson ha la cintura e lo stile che Canelo odia",
    "title_es": "Willy Hutchinson tiene el cinturón y el estilo que Canelo odia"
@@ -2856,19 +2856,6 @@
    "title_es": "Lista de campeonas de boxeo femenino - ESPN"
   },
   {
-   "title": "México en el boxeo: ¿Cuántos campeones mundiales tiene actualmente hasta 2026? Lista completa y ranking - www.olympics.com",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRFNWcHF5NGNvb1F1OHdTSURJeElqOFhwVDlSVGxWMG5yZ0ozVDFWY2d3eTNYV0w5b294NGkxckg4U1JRR3V4aVBZaDhQNlFtQjV2WC16ZzZEXzVVV3p5NDdYNi1WZy1YUDViN2tHOWFpajJ5SFZ6RkhrVEgzaVFjOThvVWt1Zw?oc=5",
-   "source": "Google News: boxeo",
-   "lang": "es",
-   "date": "2026-11-09T04:43:00+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 9,
-   "sources_n": 1,
-   "title_it": "Il Messico nella boxe: quanti campioni del mondo ha attualmente fino al 2026? Elenco completo e classifica - www.olympics.com",
-   "title_es": "México en el boxeo: ¿Cuántos campeones mundiales tiene actualmente hasta 2026? Lista completa y ranking - www.olympics.com"
-  },
-  {
    "title": "Two fights added to Lara vs Tszyu undercard",
    "link": "https://www.fightmag.com/two-fights-added-to-lara-vs-tszyu-undercard/",
    "source": "Fightmag",
@@ -4067,6 +4054,22 @@
    "sources_n": 2,
    "title_it": "Imane Khelif farà ritorno alla boxe shock due anni dopo lo scandalo della boxe di genere che ha travolto le Olimpiadi",
    "title_es": "Imane Khelif regresará al boxeo dos años después del escándalo del boxeo por disputas de género que envolvió los Juegos Olímpicos"
+  },
+  {
+   "title": "Boxing world stunned by ‘worst injury’ after horror head clash on Joshua Buatsi card",
+   "link": "https://talksport.com/boxing/4692776/zak-miller-worst-injury-result-joshua-buatsi-card/",
+   "source": "Talksport Boxing",
+   "lang": "en",
+   "date": "2026-11-07T20:29:54+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Joshua Buatsi",
+    "Anthony Joshua"
+   ],
+   "score": 65,
+   "sources_n": 7,
+   "title_it": "Il mondo della boxe è sbalordito dal “peggior infortunio” dopo lo scontro horror con la testa sulla carta di Joshua Buatsi",
+   "title_es": "El mundo del boxeo está atónito por la “peor lesión” después del horroroso choque de cabezas en la cartelera de Joshua Buatsi"
   }
  ]
 }
