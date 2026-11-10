@@ -5345,5 +5345,72 @@
   "langs": [
    "en"
   ]
+ },
+ "Tommy Fury": {
+  "slug": "tommy-fury",
+  "updated": "2026-11-10T09:31:17+00:00",
+  "total": 11,
+  "verified": 11,
+  "record": {
+   "w": 11,
+   "l": 0,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "it",
+   "fr",
+   "de",
+   "pt"
+  ]
+ },
+ "Jared Anderson (boxer)": {
+  "slug": "jared-anderson-boxer",
+  "updated": "2026-11-10T09:31:22+00:00",
+  "total": 19,
+  "verified": 0,
+  "record": {
+   "w": 18,
+   "l": 1,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Damian Durkacz": {
+  "tried": "2026-11-10T09:31:12+00:00"
+ },
+ "Kitti Sor.Jor.Danrayong": {
+  "slug": "kitti-sor-jor-danrayong",
+  "updated": "2026-11-10T09:31:27+00:00",
+  "total": 40,
+  "verified": 0,
+  "record": {
+   "w": 38,
+   "l": 2,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Ju Wu": {
+  "slug": "ju-wu",
+  "updated": "2026-11-10T09:31:31+00:00",
+  "total": 11,
+  "verified": 0,
+  "record": {
+   "w": 9,
+   "l": 0,
+   "d": 2,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
