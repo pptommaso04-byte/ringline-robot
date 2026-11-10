@@ -1,8 +1,24 @@
 {
- "updated": "2026-11-10T18:45:40+00:00",
+ "updated": "2026-11-10T18:50:47+00:00",
  "feeds_ok": 50,
  "feeds_failed": 3,
  "news": [
+  {
+   "title": "Hutchinson: I’d give Alvarez ‘boxing lesson’ | Wilder to fight Opetaia on Fury-AJ undercard",
+   "link": "https://www.saddoboxing.com/111987-hutchinson-id-give-alvarez-boxing-lesson-wilder-to-fight-opetaia-on-fury-aj-undercard.html",
+   "source": "Saddo Boxing",
+   "lang": "en",
+   "date": "2026-11-10T18:48:05+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Canelo Alvarez",
+    "Tyson Fury"
+   ],
+   "score": 49,
+   "sources_n": 2,
+   "title_it": "Hutchinson: Darei ad Alvarez ‘lezione di boxe’ | Wilder per combattere Opetaia su Fury-AJ undercard",
+   "title_es": "Hutchinson: Le daría a Álvarez una ‘lección de boxeo’ | Wilder luchará contra Opetaia en la cartelera de Fury-AJ"
+  },
   {
    "title": "Julio Cesar Chavez sums up Canelo’s performance in decision win against Christian Mbilli for WBC title",
    "link": "https://boxingnewsonline.net/news/julio-cesar-chavez-on-canelo-mbilli/",
@@ -56,22 +72,6 @@
    "sources_n": 13,
    "title_it": "Willy Hutchinson rivela il contatto di Canelo Alvarez e promette di \"staccargli la testa\"",
    "title_es": "Willy Hutchinson revela el contacto de Canelo Álvarez y promete 'taparle la cabeza'"
-  },
-  {
-   "title": "Hutchinson: I'd give Alvarez 'boxing lesson' | Wilder to fight Opetaia on Fury-AJ undercard",
-   "link": "https://www.youtube.com/watch?v=q95lpzQylvA",
-   "source": "YouTube Sky Sports Boxing",
-   "lang": "en",
-   "date": "2026-11-10T18:01:09+00:00",
-   "status": "unverified",
-   "boxers": [
-    "Canelo Alvarez",
-    "Tyson Fury"
-   ],
-   "score": 49,
-   "sources_n": 2,
-   "title_it": "Hutchinson: Darei ad Alvarez 'lezione di boxe' | Wilder per combattere Opetaia su Fury-AJ undercard",
-   "title_es": "Hutchinson: Le daría a Álvarez una 'lección de boxeo' | Wilder luchará contra Opetaia en la cartelera de Fury-AJ"
   },
   {
    "title": "Boxing schedule for 2026: Anthony Joshua vs. Tyson Fury, David Benavidez, Dmitry Bivol returns on tap",
@@ -1025,7 +1025,7 @@
    "date": "2026-11-10T08:46:48+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 25,
+   "score": 24,
    "sources_n": 1,
    "title_it": "È di Martina Franca il campione italiano Fpi under 15 di pugilato - Noi Notizie.",
    "title_es": "È di Martina Franca il campione italiano Fpi under 15 di pugilato - Noi Notizie."
@@ -1273,7 +1273,7 @@
    "date": "2026-11-10T02:47:51+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 22,
+   "score": 21,
    "sources_n": 1,
    "title_it": "Ante la tumba de su hermano, Yoreme Mendoza prometió ser campeón del mundo y lo logró: ‘Me sentí con mucha paz’ - Mediotiempo",
    "title_es": "Ante la tumba de su hermano, Yoreme Mendoza prometió ser campeón del mundo y lo logró: ‘Me sentí con mucha paz’ - Mediotiempo"
@@ -1976,7 +1976,7 @@
    "date": "2026-11-09T14:49:41+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 26,
+   "score": 25,
    "sources_n": 2,
    "title_it": "Adrien Broner Apparentemente insensibile, Frequentato da lavoratori EMS prima di essere portato fuori concerto",
    "title_es": "Adrien Broner aparentemente no responde, asistido por trabajadores de EMS antes de salir del concierto"
@@ -2134,7 +2134,7 @@
    "date": "2026-11-09T12:48:35+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 25,
+   "score": 24,
    "sources_n": 2,
    "title_it": "Ramla Ali rivendica i primi titoli mondiali di pugilato dopo la vittoria per decisione congiunta su Mikiah Kreps - Pakistan Today",
    "title_es": "Ramla Ali reclama su primer título mundial de boxeo después de la victoria por decisión dividida sobre Mikiah Kreps - Pakistan Today"
@@ -2574,7 +2574,7 @@
    "date": "2026-11-09T06:48:06+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 12,
+   "score": 11,
    "sources_n": 1,
    "title_it": "Campionati italiani U15 di pugilato: 2 siracusani conquistano il titolo - SiracusaPost",
    "title_es": "Campionati italiani U15 di pugilato: 2 siracusani conquistano il titolo - SiracusaPost"
@@ -2795,7 +2795,7 @@
    "date": "2026-11-09T00:45:51+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 44,
+   "score": 43,
    "sources_n": 1,
    "title_it": "\"Mi ha spaventato\": la battaglia per la salute dietro l'offerta per il titolo mondiale di Tszyu - CODE SPORTS",
    "title_es": "‘Me asustó’: La batalla por la salud detrás de la candidatura por el título mundial de Tszyu - CODE SPORTS"
