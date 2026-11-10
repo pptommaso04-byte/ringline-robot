@@ -1,8 +1,34 @@
 {
- "updated": "2026-11-10T18:05:57+00:00",
- "feeds_ok": 49,
- "feeds_failed": 4,
+ "updated": "2026-11-10T18:10:51+00:00",
+ "feeds_ok": 50,
+ "feeds_failed": 3,
  "news": [
+  {
+   "title": "Jake Paul & Cedric Doumbe exchanged words as they faced off for the first time 👀",
+   "link": "https://www.saddoboxing.com/111984-jake-paul-cedric-doumbe-exchanged-words-as-they-faced-off-for-the-first-time-%f0%9f%91%80.html",
+   "source": "Saddo Boxing",
+   "lang": "en",
+   "date": "2026-11-10T18:10:05+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 74,
+   "sources_n": 3,
+   "title_it": "Jake Paul e Cedric Doumbe si scambiarono due parole mentre si affrontavano per la prima volta 👀",
+   "title_es": "Jake Paul y Cedric Doumbe intercambiaron palabras mientras se enfrentaban por primera vez 👀"
+  },
+  {
+   "title": "Canelo Eyeing Willy Hutchinson Over Dmitry Bivol Rematch",
+   "link": "https://www.boxing247.com/boxing-news/canelo-eyeing-willy-hutchinson-over-dmitry-bivol-rematch/311232",
+   "source": "East Side Boxing",
+   "lang": "en",
+   "date": "2026-11-10T18:06:58+00:00",
+   "status": "rumor",
+   "boxers": [],
+   "score": 104,
+   "sources_n": 12,
+   "title_it": "Canelo osserva Willy Hutchinson durante la rivincita di Dmitry Bivol",
+   "title_es": "Revancha Canelo Eyeing Willy Hutchinson Over Dmitry Bivol"
+  },
   {
    "title": "Willy Hutchinson reveals Canelo Alvarez contact and vows to 'box his head off'",
    "link": "https://www.boxingscene.com/articles/willy-hutchinson-reveals-canelo-alvarez-contact-and-vows-to-box-his-head-off",
@@ -14,7 +40,7 @@
     "Canelo Alvarez"
    ],
    "score": 114,
-   "sources_n": 12,
+   "sources_n": 13,
    "title_it": "Willy Hutchinson rivela il contatto di Canelo Alvarez e promette di \"staccargli la testa\"",
    "title_es": "Willy Hutchinson revela el contacto de Canelo Álvarez y promete 'taparle la cabeza'"
   },
@@ -46,19 +72,6 @@
    "sources_n": 1,
    "title_it": "Oggi, 25 anni fa, Mayweather fermò Jesús Chávez nel suo ultimo combattimento a 130 anni. Nel undercard, Pacquiao ha lottato per un pareggio tecnico con Agapito Sánchez a 122.",
    "title_es": "Hoy hace 25 años, Mayweather detuvo a Jesús Chávez en su última pelea a los 130. En la cartelera, Pacquiao luchó por un empate técnico con Agapito Sánchez a los 122."
-  },
-  {
-   "title": "Jake Paul & Cedric Doumbe exchanged words as they faced off for the first time 👀",
-   "link": "https://www.youtube.com/watch?v=-G7d7CGrUgg",
-   "source": "YouTube DAZN Boxing",
-   "lang": "en",
-   "date": "2026-11-10T17:52:50+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 74,
-   "sources_n": 3,
-   "title_it": "Jake Paul e Cedric Doumbe si scambiarono due parole mentre si affrontavano per la prima volta 👀",
-   "title_es": "Jake Paul y Cedric Doumbe intercambiaron palabras mientras se enfrentaban por primera vez 👀"
   },
   {
    "title": "Boxe, trionfo foggiano ai campionati italiani under 15: due ori e un argento per i giovani pugili di casa - FoggiaToday",
@@ -205,7 +218,7 @@
     "Anthony Joshua"
    ],
    "score": 124,
-   "sources_n": 12,
+   "sources_n": 13,
    "title_it": "Boxe: quale sarà il futuro di Joshua Buatsi dopo la sconfitta del titolo mondiale contro Willy Hutchinson? - Sky Sport",
    "title_es": "Boxeo: ¿Qué sigue para Joshua Buatsi después de su derrota por el título mundial ante Willy Hutchinson? - Deportes del cielo"
   },
@@ -284,7 +297,7 @@
    "date": "2026-11-10T16:06:05+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 37,
+   "score": 36,
    "sources_n": 1,
    "title_it": "Nelson Hysa ha il potere di mettere KO con un solo pugno 💥",
    "title_es": "Nelson Hysa tiene ese poder de KO con un solo golpe 💥"
@@ -531,7 +544,7 @@
    "date": "2026-11-10T14:10:29+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 38,
+   "score": 37,
    "sources_n": 2,
    "title_it": "Matchroom Boxing annuncia la line-up completa per il suo terzo evento Project Series",
    "title_es": "Matchroom Boxing anuncia el cartel completo para su tercer evento Project Series"
@@ -544,7 +557,7 @@
    "date": "2026-11-10T14:08:57+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 46,
+   "score": 45,
    "sources_n": 1,
    "title_it": "Super Aussie mantiene il titolo WBC in Texas - Fox Sports",
    "title_es": "Super Aussie retiene el título del CMB en Texas - Fox Sports"
@@ -557,7 +570,7 @@
    "date": "2026-11-10T14:08:12+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 53,
+   "score": 52,
    "sources_n": 1,
    "title_it": "Lotta da sogno di Paro contro il set Haney - Fox Sports",
    "title_es": "Paro's dream fight against Haney set - Fox Sports"
@@ -615,7 +628,7 @@
     "Canelo Alvarez"
    ],
    "score": 112,
-   "sources_n": 12,
+   "sources_n": 13,
    "title_it": "Willy Hutchinson viene \"analizzato\" come potenziale prossimo incontro per Canelo Alvarez",
    "title_es": "Willy Hutchinson siendo 'analizado' como posible próxima pelea de Canelo Álvarez"
   },
@@ -1037,8 +1050,8 @@
    "date": "2026-11-10T07:39:29+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 99,
-   "sources_n": 3,
+   "score": 89,
+   "sources_n": 2,
    "title_it": "Moses Itauma affronterà la \"top 10 dei pesi massimi\" prima di perseguire la rivincita di Hrgovic",
    "title_es": "Moses Itauma se enfrentará al ‘top 10 de los pesos pesados’ antes de buscar la revancha contra Hrgovic"
   },
@@ -1092,7 +1105,7 @@
    "date": "2026-11-10T06:08:17+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 34,
+   "score": 33,
    "sources_n": 1,
    "title_it": "WBC Awards Banquet",
    "title_es": "awards banquet"
@@ -1245,7 +1258,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 97,
-   "sources_n": 10,
+   "sources_n": 11,
    "title_it": "Willy Hutchinson ha la cintura e lo stile che Canelo odia",
    "title_es": "Willy Hutchinson tiene el cinturón y el estilo que Canelo odia"
   },
@@ -1750,7 +1763,7 @@
   },
   {
    "title": "Boxing Weekend Review: Willy Hutchinson's world title triumph and Cheavon Clarke revives career - DAZN",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZm5SWjRSdEVMWWxCNTFKSWZYclhpRVAtdlJ3WUQ2T2RxRFV4b3lUZ2VvTUFfUUFGazhaOTZHaFp5VlowZUtXY3JDZXFqTmhFU2dnc1N4LUxXQ2V2R3p6REJMYUxUSVo2aFhLa08wRVB3NjAxUDlleC1jb0w5Z3g3Nzdrc2RFY2JaSGFzdWlNdXlSWDB0bHVGbFhNVG94QnhFMFVscTFzcVN0RGJwWGNzSlZUeVBrd0VkUEJWM1VKNlkxRWF2bVZrR3ZRUzNJRlpmdUhjRzlmWF9FdXhJc3V1dldn?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUkZ2QnBMTEw3UGVSTW1ULUFrUEdjZlRWcEpfX3NYQjl3UFZzc2JEdjBHdVN1SlNfYnV3eWhsRGtmemdoeDc5UVRFSmpVZlVlbi1SMGt6b2RUQmFwUXhDY0RaM3ZqbUxiV0ljMFdsMDJKWmMyNF9pY0ZmV2V6M0ZQRmN3b3k3VDIwRTRRa2xremFKLUlLMjg0WUY1bFZyMWwwVzNoR0JNYWdmbk1aNWtodmE0QWZhenVMcE96b0JQSExsLWR4anM2US1VUlJhaFFQd0RSTjFVaWx6VFg1ZFlIUnJn?oc=5",
    "source": "Google News: boxing",
    "lang": "en",
    "date": "2026-11-09T17:00:00+00:00",
@@ -1986,7 +1999,7 @@
    "date": "2026-11-09T14:07:10+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 36,
+   "score": 35,
    "sources_n": 3,
    "title_it": "Notizie di inscatolamento: Irma Garcia sconfigge Delgado e unifica i campionati mondiali IBF e WBA » 9 novembre 2026 - FightNews",
    "title_es": "Boxing News: Irma Garcia vence a Delgado y unifica campeonatos mundiales FIB y AMB » November 9, 2026 - FightNews"
@@ -2477,7 +2490,7 @@
    "date": "2026-11-09T08:05:58+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 43,
+   "score": 42,
    "sources_n": 3,
    "title_it": "Javan Buyu combatte Kamran per il titolo mondiale UBO come SportPesa Boxing Night promette una storica resa dei conti keniota - SportPesa Blog",
    "title_es": "Javan Buyu lucha contra Kamran por el título mundial de UBO ya que SportPesa Boxing Night promete un enfrentamiento histórico en Kenia - Blog de SportPesa"
@@ -2832,7 +2845,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 72,
-   "sources_n": 10,
+   "sources_n": 11,
    "title_it": "Il pugile scozzese Willy Hutchinson soddisfa l'impegno dell'infanzia diventando campione del mondo dopo la famosa vittoria",
    "title_es": "El boxeador escocés Willy Hutchinson cumple su promesa de infancia al convertirse en campeón del mundo tras su famosa victoria"
   },
@@ -3072,7 +3085,7 @@
     "Anthony Joshua"
    ],
    "score": 96,
-   "sources_n": 11,
+   "sources_n": 12,
    "title_it": "\"Non c'è spazio per il secondo posto!\" Un emozionato Joshua Buatsi riflette sulla sconfitta di Willy Hutchinson 👀",
    "title_es": "\"¡No hay espacio para el segundo lugar!\" Un emocionado Joshua Buatsi reflexiona sobre la derrota ante Willy Hutchinson 👀"
   },
@@ -3098,7 +3111,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 76,
-   "sources_n": 10,
+   "sources_n": 11,
    "title_it": "Willy Hutchinson realizza il titolo mondiale che durava da 15 anni dopo aver vinto il suo più grande incontro... contro se stesso",
    "title_es": "Willy Hutchinson cumple su destino de título mundial de 15 años tras ganar su mayor pelea… contra sí mismo"
   },
@@ -3111,7 +3124,7 @@
    "status": "confirmed",
    "boxers": [],
    "score": 76,
-   "sources_n": 10,
+   "sources_n": 11,
    "title_it": "Willy Hutchinson non vedeva l'ora di festeggiare con sua moglie e suo figlio dopo la vittoria del titolo mondiale ❤️",
    "title_es": "Willy Hutchinson no podía esperar para celebrar con su esposa e hijo después de ganar el título mundial ❤️"
   },
@@ -3168,7 +3181,7 @@
     "Anthony Joshua"
    ],
    "score": 115,
-   "sources_n": 11,
+   "sources_n": 12,
    "title_it": "Willy Hutchinson si vendica di Joshua Buatsi e vince il titolo WBC dei pesi massimi leggeri",
    "title_es": "Willy Hutchinson se venga de Joshua Buatsi y gana el título de peso semipesado del CMB"
   },
@@ -3598,7 +3611,7 @@
    "status": "confirmed",
    "boxers": [],
    "score": 73,
-   "sources_n": 10,
+   "sources_n": 11,
    "title_it": "Willy Hutchinson vince la decisione unanime di rivendicare il titolo mondiale dei pesi massimi leggeri - 112.ua",
    "title_es": "Willy Hutchinson gana la decisión unánime de reclamar el título mundial de peso semipesado - 112.ua"
   },
@@ -3656,7 +3669,7 @@
     "Anthony Joshua"
    ],
    "score": 103,
-   "sources_n": 11,
+   "sources_n": 12,
    "title_it": "Willy Hutchinson si vendica, vincendo nella rivincita un titolo mondiale su Joshua Buatsi",
    "title_es": "Willy Hutchinson se venga, un título mundial en la revancha ante Joshua Buatsi"
   },
@@ -3672,7 +3685,7 @@
     "Anthony Joshua"
    ],
    "score": 103,
-   "sources_n": 11,
+   "sources_n": 12,
    "title_it": "Willy Hutchinson si vendica, titolo mondiale in rivincita su Joshua Buatsi - BoxingScene",
    "title_es": "Willy Hutchinson gana la revancha, un título mundial en la revancha contra Joshua Buatsi - BoxingScene"
   },
@@ -3714,7 +3727,7 @@
     "Anthony Joshua"
    ],
    "score": 103,
-   "sources_n": 11,
+   "sources_n": 12,
    "title_it": "Willy Hutchinson crolla sul ring mentre batte Joshua Buatsi con decisione unanime di vincere il titolo WBC e vendicarsi",
    "title_es": "Willy Hutchinson se derrumba en el ring al vencer a Joshua Buatsi por decisión unánime para ganar el título del CMB y vengarse."
   },
@@ -3743,7 +3756,7 @@
     "Anthony Joshua"
    ],
    "score": 95,
-   "sources_n": 11,
+   "sources_n": 12,
    "title_it": "Willy Hutchinson ottiene la massima vendetta su Joshua Buatsi mentre affronta la rivincita per conquistare il titolo mondiale",
    "title_es": "Willy Hutchinson logra la máxima venganza contra Joshua Buatsi mientras logra la revancha para hacerse con el título mundial"
   },
@@ -3759,7 +3772,7 @@
     "Anthony Joshua"
    ],
    "score": 95,
-   "sources_n": 11,
+   "sources_n": 12,
    "title_it": "Willy Hutchinson ottiene la vendetta finale di Joshua Buatsi per conquistare il titolo mondiale - talkSPORT",
    "title_es": "Willy Hutchinson obtiene la venganza definitiva de Joshua Buatsi para hacerse con el título mundial - talkSPORT"
   },
@@ -3772,7 +3785,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 55,
-   "sources_n": 10,
+   "sources_n": 11,
    "title_it": "Willy Hutchinson se corona campeón mundial semipesado del CMB - Lo Mejor del Boxeo",
    "title_es": "Willy Hutchinson se corona campeón mundial semipesado del CMB - Lo Mejor del Boxeo"
   },
@@ -3819,7 +3832,7 @@
     "Anthony Joshua"
    ],
    "score": 85,
-   "sources_n": 11,
+   "sources_n": 12,
    "title_it": "La folla esplode in violenza allo scontro di boxe Joshua Buatsi vs Willy Hutchinson",
    "title_es": "La multitud estalla en violencia en el choque de boxeo Joshua Buatsi vs Willy Hutchinson"
   },
@@ -3892,7 +3905,7 @@
     "Anthony Joshua"
    ],
    "score": 85,
-   "sources_n": 11,
+   "sources_n": 12,
    "title_it": "Scoppia un'enorme rissa tra la folla a Joshua Buatsi contro Willy Hutchinson con la sicurezza costretta a intervenire e l'area evacuata",
    "title_es": "Se desata una gran pelea entre la multitud en Joshua Buatsi vs Willy Hutchinson y la seguridad se vio obligada a intervenir y el área fue evacuada."
   },
@@ -4060,19 +4073,6 @@
    "sources_n": 1,
    "title_it": "Haney-Paro unifica i campionati mondiali dei pesi welter WBO e IBF il 19 dicembre a San Francisco - FightNews",
    "title_es": "Haney-Paro unifican los campeonatos mundiales welter de la OMB y FIB el 19 de diciembre en San Francisco - FightNews"
-  },
-  {
-   "title": "Tony Yoka wins short-notice comeback fight against former Moses Itauma foe after tough year",
-   "link": "https://talksport.com/boxing/4692653/tony-yoka-comeback-fight-moses-itauma/",
-   "source": "Talksport Boxing",
-   "lang": "en",
-   "date": "2026-11-07T18:18:32+00:00",
-   "status": "confirmed",
-   "boxers": [],
-   "score": 73,
-   "sources_n": 3,
-   "title_it": "Tony Yoka vince la battaglia di rimonta con breve preavviso contro l'ex nemico di Moses Itauma dopo un anno difficile",
-   "title_es": "Tony Yoka gana la pelea de regreso con poca antelación contra el ex enemigo de Moses Itauma después de un año difícil"
   }
  ]
 }
