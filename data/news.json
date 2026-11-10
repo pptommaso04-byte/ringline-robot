@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T22:10:49+00:00",
+ "updated": "2026-11-10T22:14:30+00:00",
  "feeds_ok": 50,
  "feeds_failed": 3,
  "news": [
@@ -680,22 +680,6 @@
    "title_es": "Boxeo 1 - Caserta Web"
   },
   {
-   "title": "Fury vs Usyk 3? | Frank Warren on Tyson Fury, Oleksandr Usyk’s future and Moses Itauma",
-   "link": "https://www.saddoboxing.com/111972-fury-vs-usyk-3-frank-warren-on-tyson-fury-oleksandr-usyks-future-and-moses-itauma.html",
-   "source": "Saddo Boxing",
-   "lang": "en",
-   "date": "2026-11-10T15:39:06+00:00",
-   "status": "unverified",
-   "boxers": [
-    "Tyson Fury",
-    "Oleksandr Usyk"
-   ],
-   "score": 111,
-   "sources_n": 9,
-   "title_it": "Furia contro Usyk 3? | Frank Warren su Tyson Fury, il futuro di Oleksandr Usyk e Moses Itauma",
-   "title_es": "¿Furia vs Usyk 3? | Frank Warren sobre Tyson Fury, el futuro de Oleksandr Usyk y Moses Itauma"
-  },
-  {
    "title": "‘I’ll tell you now on camera’ – Tyson Fury’s dad reveals why he did NOT want Anthony Joshua fight to go ahead",
    "link": "https://www.thesun.co.uk/sport/40980963/tyson-fury-dad-anthony-joshua-fight/",
    "source": "The Sun Boxing",
@@ -834,6 +818,22 @@
    "sources_n": 1,
    "title_it": "Fight 4 Change ospita l'evento di boxe per raccolta fondi in onore di Tony Cesay",
    "title_es": "Fight 4 Change organiza un evento de boxeo para recaudar fondos en honor a Tony Cesay"
+  },
+  {
+   "title": "Fury vs Usyk 3? | Frank Warren on Tyson Fury, Oleksandr Usyk’s future and Moses Itauma",
+   "link": "https://www.youtube.com/watch?v=oWvte2t31H8",
+   "source": "YouTube Sky Sports Boxing",
+   "lang": "en",
+   "date": "2026-11-10T14:11:30+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Tyson Fury",
+    "Oleksandr Usyk"
+   ],
+   "score": 110,
+   "sources_n": 9,
+   "title_it": "Furia contro Usyk 3? | Frank Warren su Tyson Fury, il futuro di Oleksandr Usyk e Moses Itauma",
+   "title_es": "¿Furia vs Usyk 3? | Frank Warren sobre Tyson Fury, el futuro de Oleksandr Usyk y Moses Itauma"
   },
   {
    "title": "Matchroom Boxing announce the full line-up for their third Project Series event",
@@ -1763,7 +1763,7 @@
    "date": "2026-11-09T20:12:36+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 17,
+   "score": 16,
    "sources_n": 1,
    "title_it": "Policía mexicana conquista dos campeonatos mundiales de boxeo - Código San Luis",
    "title_es": "Policía mexicana conquista dos campeonatos mundiales de boxeo - Código San Luis"
@@ -1776,7 +1776,7 @@
    "date": "2026-11-09T20:11:49+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 27,
+   "score": 26,
    "sources_n": 2,
    "title_it": "Campionati italiani di pugilato, la Boxe Tranchina di Palermo conquista la medaglia d’oro Under 15 - Giornale di Sicilia",
    "title_es": "Campeonato italiano de boxeo, Boxe Tranchina de Palermo gana la medalla de oro Sub 15 - Giornale di Sicilia"
@@ -2020,7 +2020,7 @@
   },
   {
    "title": "Boxing Weekend Review: Willy Hutchinson's world title triumph and Cheavon Clarke revives career - DAZN",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUkZ2QnBMTEw3UGVSTW1ULUFrUEdjZlRWcEpfX3NYQjl3UFZzc2JEdjBHdVN1SlNfYnV3eWhsRGtmemdoeDc5UVRFSmpVZlVlbi1SMGt6b2RUQmFwUXhDY0RaM3ZqbUxiV0ljMFdsMDJKWmMyNF9pY0ZmV2V6M0ZQRmN3b3k3VDIwRTRRa2xremFKLUlLMjg0WUY1bFZyMWwwVzNoR0JNYWdmbk1aNWtodmE0QWZhenVMcE96b0JQSExsLWR4anM2US1VUlJhaFFQd0RSTjFVaWx6VFg1ZFlIUnJn?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZm5SWjRSdEVMWWxCNTFKSWZYclhpRVAtdlJ3WUQ2T2RxRFV4b3lUZ2VvTUFfUUFGazhaOTZHaFp5VlowZUtXY3JDZXFqTmhFU2dnc1N4LUxXQ2V2R3p6REJMYUxUSVo2aFhLa08wRVB3NjAxUDlleC1jb0w5Z3g3Nzdrc2RFY2JaSGFzdWlNdXlSWDB0bHVGbFhNVG94QnhFMFVscTFzcVN0RGJwWGNzSlZUeVBrd0VkUEJWM1VKNlkxRWF2bVZrR3ZRUzNJRlpmdUhjRzlmWF9FdXhJc3V1dldn?oc=5",
    "source": "Google News: boxing",
    "lang": "en",
    "date": "2026-11-09T17:00:00+00:00",
@@ -2081,7 +2081,7 @@
     "Denzel Bentley"
    ],
    "score": 99,
-   "sources_n": 8,
+   "sources_n": 7,
    "title_it": "Denzel Bentley SPARA COLPI A Conor Benn su un potenziale scontro, RISPONDE ai commenti di Frank Warren",
    "title_es": "Denzel Bentley DISPARA A Conor Benn sobre una posible pelea, RESPONDE a los comentarios de Frank Warren"
   },
@@ -2510,7 +2510,7 @@
   },
   {
    "title": "Boxing news: Alycia Baumgardner wins lightweight world title as Ramla Ali and Skye Nicolson triumph - DAZN",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYzR2ZjctOTkwczluWmJHQ0tWMGUyVVF4ekduZ0EyaGFwaDZSNWlHMU84Zktvcnota0ZuSWlUeHRfd1JFQjJOQmw3WWtwTFpXNHd6RFJaamxJSWw1andOQnozSU1BczVtVUtzT2tPU2liQl8wV2p3dG5hbF90TU5LRnpTNWI5Wlp3eldxcWU3QmRQbkxoMDFzbDNtZ2VGaGdvQ1oxREIxM1JJMEFUOXRqRjUzeEFEbEgxdm1iQXU3NEZ1ekZpdDE4bVZ2NkpkQ2h1SFE?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZWRFQlgyeDdOcUhYdU5jemZVVk5BUTg1S0dWY21wRWowQ1diYnBYdDVPcmYzQ0xTT05JTDc2ajJtYUdtLWFkaWl0OEdKREhEdFp5YU9nTmxnRmVkOHhlaWEwNTIxMjdVSEllZnUyR21Fa1Y0Z1ZrcmlQV0ZZRzNxV20xZ0N5cDZOV0RidU9DRGtpaGlSUTRFRFRHMEllcHJRY3V2TjdEbVd5QnZINko5N1dObXNOQjNzcDl6bm9jd1J5M0NfV2JFUjc5NE1LUjhBMUE?oc=5",
    "source": "Google News: boxing",
    "lang": "en",
    "date": "2026-11-09T11:00:00+00:00",
@@ -2558,7 +2558,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 97,
+   "score": 96,
    "sources_n": 11,
    "title_it": "I messaggi trapelati di Anthony Joshua prima del combattimento con Tyson Fury forniscono informazioni importanti sulla mentalità di Brit",
    "title_es": "Los mensajes filtrados de Anthony Joshua antes de la pelea con Tyson Fury dan una idea importante de la mentalidad del británico"
@@ -3019,7 +3019,7 @@
    "date": "2026-11-08T22:11:42+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 6,
+   "score": 5,
    "sources_n": 1,
    "title_it": "Aggiornamento sulla salute di Zak Miller dopo che il combattimento del pugile britannico è stato annullato a causa di un enorme gonfiore sulla testa",
    "title_es": "Actualización de salud de Zak Miller después de que la pelea del boxeador británico fuera cancelada por una enorme hinchazón en su cabeza"
@@ -3531,7 +3531,7 @@
     "Anthony Joshua"
    ],
    "score": 85,
-   "sources_n": 9,
+   "sources_n": 8,
    "title_it": "I messaggi di testo trapelati di Anthony Joshua sono un avvertimento a Tyson Fury",
    "title_es": "Los mensajes de texto filtrados de Anthony Joshua advierten a Tyson Fury"
   },
