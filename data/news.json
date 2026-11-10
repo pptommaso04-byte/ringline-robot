@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-10T08:11:31+00:00",
- "feeds_ok": 48,
- "feeds_failed": 5,
+ "updated": "2026-11-10T08:16:34+00:00",
+ "feeds_ok": 50,
+ "feeds_failed": 3,
  "news": [
   {
    "title": "Moses Itauma to face ‘top 10 heavyweight’ before pursuing Hrgovic rematch",
@@ -24,8 +24,8 @@
    "date": "2026-11-10T07:24:41+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 49,
-   "sources_n": 3,
+   "score": 59,
+   "sources_n": 4,
    "title_it": "Ciò che ha DAVVERO innescato la rivolta notturna di boxe di HSTikkyTokky tra Tommy Robinson e Mo Deen, mentre l'influencer musulmano esce dalla copertura per rivendicare l'\"organizzazione\"",
    "title_es": "Lo que REALMENTE desencadenó el disturbio nocturno de boxeo de HSTikkyTokky entre Tommy Robinson y Mo Deen, mientras el influencer musulmán rompe la tapadera para reclamar una 'preparación'"
   },
@@ -38,9 +38,25 @@
    "status": "unverified",
    "boxers": [],
    "score": 69,
-   "sources_n": 10,
+   "sources_n": 11,
    "title_it": "Alycia Baumgardner domina Elif Nur Turhan e diventa campionessa del mondo dei pesi leggeri",
    "title_es": "Alycia Baumgardner domina a Elif Nur Turhan para convertirse en campeona mundial de peso ligero"
+  },
+  {
+   "title": "Tyson Fury vs Anthony Joshua tickets for £275pp with free beers included in VIP fight night hospitality deal",
+   "link": "https://www.thesun.co.uk/sport/40656203/tyson-fury-anthony-joshua-tickets-vip-hospitality-cardiff/",
+   "source": "The Sun Boxing",
+   "lang": "en",
+   "date": "2026-11-10T07:07:01+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Tyson Fury",
+    "Anthony Joshua"
+   ],
+   "score": 114,
+   "sources_n": 5,
+   "title_it": "Biglietti Tyson Fury vs Anthony Joshua per £275pp con birre gratuite incluse nell'offerta di ospitalità VIP Fight Night",
+   "title_es": "Boletos de Tyson Fury vs Anthony Joshua por £ 275pp con cervezas gratis incluidas en el acuerdo de hospitalidad de la noche de pelea VIP"
   },
   {
    "title": "WBC Awards Banquet",
@@ -93,7 +109,7 @@
     "Anthony Joshua"
    ],
    "score": 58,
-   "sources_n": 4,
+   "sources_n": 5,
    "title_it": "Guarda: Rivals - Fury v Joshua su BBC iPlayer",
    "title_es": "Mira: Rivals - Fury v Joshua en BBC iPlayer"
   },
@@ -197,7 +213,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 67,
-   "sources_n": 10,
+   "sources_n": 11,
    "title_it": "La battaglia per il titolo mondiale supera ogni limite! Elif Nur Turhan vs Alycia Baumgardner | Punti salienti leggeri",
    "title_es": "¡La batalla por el título mundial va más allá! Elif Nur Turhan vs. Alycia Baumgardner | Aspectos destacados ligeros"
   },
@@ -235,8 +251,8 @@
    "date": "2026-11-10T02:15:07+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 102,
-   "sources_n": 11,
+   "score": 101,
+   "sources_n": 12,
    "title_it": "Willy Hutchinson ha la cintura e lo stile che Canelo odia",
    "title_es": "Willy Hutchinson tiene el cinturón y el estilo que Canelo odia"
   },
@@ -326,8 +342,8 @@
    "date": "2026-11-09T23:54:09+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 35,
-   "sources_n": 2,
+   "score": 25,
+   "sources_n": 1,
    "title_it": "Emiliano Vargas: il nuovo volto della boxe",
    "title_es": "Emiliano Vargas: La próxima cara del boxeo"
   },
@@ -536,7 +552,7 @@
    "date": "2026-11-09T20:12:36+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 24,
+   "score": 23,
    "sources_n": 1,
    "title_it": "Policía mexicana conquista dos campeonatos mundiales de boxeo - Código San Luis",
    "title_es": "Policía mexicana conquista dos campeonatos mundiales de boxeo - Código San Luis"
@@ -601,8 +617,8 @@
    "date": "2026-11-09T19:00:49+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 58,
-   "sources_n": 2,
+   "score": 48,
+   "sources_n": 1,
    "title_it": "Boxe: Non con Canelo! Julio César Chávez si fa avanti, difende il campione e invia un messaggio forte agli odiatori - Al Bat",
    "title_es": "Boxeo: ¡No con Canelo! Julio César Chávez da un paso al frente, defiende al campeón y envía un fuerte mensaje a los que odian - Al Bat"
   },
@@ -696,7 +712,7 @@
    "status": "confirmed",
    "boxers": [],
    "score": 70,
-   "sources_n": 10,
+   "sources_n": 11,
    "title_it": "Alycia Baumgardner elimina Elif Nur Turhan e vince il titolo dei pesi leggeri IBF",
    "title_es": "Alycia Baumgardner supera a Elif Nur Turhan para ganar el título de peso ligero de la FIB"
   },
@@ -880,7 +896,7 @@
     "Denzel Bentley"
    ],
    "score": 106,
-   "sources_n": 6,
+   "sources_n": 7,
    "title_it": "Denzel Bentley SPARA COLPI A Conor Benn su un potenziale scontro, RISPONDE ai commenti di Frank Warren",
    "title_es": "Denzel Bentley DISPARA A Conor Benn sobre una posible pelea, RESPONDE a los comentarios de Frank Warren"
   },
@@ -911,6 +927,19 @@
    "sources_n": 1,
    "title_it": "Danny Garcia nomina i tre più grandi pugili che ha affrontato in una carriera di 42 incontri",
    "title_es": "Danny García nombra a los tres mejores pegadores que enfrentó en su carrera de 42 peleas"
+  },
+  {
+   "title": "Frank Warren calls Zak Miller’s ‘horrific’ hematoma injury worst he’s ever seen after it stopped Gully Powar fight",
+   "link": "https://www.thesun.co.uk/sport/40970105/frank-warren-zak-miller-hematoma-injury/",
+   "source": "The Sun Boxing",
+   "lang": "en",
+   "date": "2026-11-09T15:28:09+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 59,
+   "sources_n": 4,
+   "title_it": "Frank Warren definisce l'ematoma \"orribile\" di Zak Miller il peggiore che abbia mai visto dopo che ha fermato la lotta di Gully Powar",
+   "title_es": "Frank Warren califica la \"horrible\" lesión de hematoma de Zak Miller como la peor que ha visto después de que detuviera la pelea de Gully Powar"
   },
   {
    "title": "Dana White’s US heavyweight prospect in running to land on Tyson Fury vs Anthony Joshua undercard",
@@ -1108,7 +1137,7 @@
    "status": "confirmed",
    "boxers": [],
    "score": 68,
-   "sources_n": 10,
+   "sources_n": 11,
    "title_it": "Alycia Baumgardner vince davanti al pubblico di casa, diventa campionessa del mondo in 2 divisioni - Dallas News",
    "title_es": "Alycia Baumgardner gana frente al público local, se convierte en campeona mundial de 2 divisiones - Dallas News"
   },
@@ -1175,7 +1204,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 50,
-   "sources_n": 10,
+   "sources_n": 11,
    "title_it": "Elif Nur Turhan contro Alycia Baumgardner | Lotta completa | Leggero",
    "title_es": "Elif Nur Turhan contra Alycia Baumgardner | Pelea Completa | Ligero"
   },
@@ -1267,8 +1296,8 @@
    "date": "2026-11-09T12:30:30+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 55,
-   "sources_n": 2,
+   "score": 65,
+   "sources_n": 3,
    "title_it": "\"Combatteremo?!\" 🥊 Caroline Dubois interrompe l'intervista post-combattimento di Alycia Baumgardner! 😲",
    "title_es": "\"¡¿Vamos a pelear ?!\" 🥊 ¡Caroline Dubois interrumpe la entrevista posterior a la pelea de Alycia Baumgardner! 😲"
   },
@@ -1281,7 +1310,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 77,
-   "sources_n": 10,
+   "sources_n": 11,
    "title_it": "Alycia Baumgardner supera Elif Nur Turhan per diventare campione del mondo dei due pesi, vincendo il titolo di peso leggero IBF - Sky Sports",
    "title_es": "Alycia Baumgardner supera a Elif Nur Turhan para convertirse en campeona mundial de dos pesos, ganando el título de peso ligero de la FIB - Sky Sports"
   },
@@ -1398,7 +1427,7 @@
    "status": "confirmed",
    "boxers": [],
    "score": 67,
-   "sources_n": 11,
+   "sources_n": 12,
    "title_it": "Notizie di boxe: Alycia Baumgardner vince il titolo mondiale dei pesi leggeri mentre Ramla Ali e Skye Nicolson trionfano - DAZN",
    "title_es": "Noticias del boxeo: Alycia Baumgardner gana el título mundial de peso ligero con el triunfo de Ramla Ali y Skye Nicolson - DAZN"
   },
@@ -1456,6 +1485,22 @@
    "sources_n": 1,
    "title_it": "IL TEAM BOXE MESAGNE È ANCORA CAMPIONE D’ITALIA! MITRUGNO SOFIA CONQUISTA IL TITOLO ITALIANO UNDER 15 - Qui Mesagne",
    "title_es": "IL TEAM BOXE MESAGNE È ANCORA CAMPIONE D’ITALIA! MITRUGNO SOFIA CONQUISTA IL titolo ITALIANO MENOR DE 15 años - Qui Mesagne"
+  },
+  {
+   "title": "Anthony Joshua’s leaked messages ahead of Tyson Fury fight give major insight into Brit’s mindset",
+   "link": "https://www.thesun.co.uk/sport/40964796/anthony-joshua-tyson-fury-messages-fight-chisora/",
+   "source": "The Sun Boxing",
+   "lang": "en",
+   "date": "2026-11-09T10:13:32+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Tyson Fury",
+    "Anthony Joshua"
+   ],
+   "score": 103,
+   "sources_n": 5,
+   "title_it": "I messaggi trapelati da Anthony Joshua prima della lotta contro Tyson Fury danno un'idea importante della mentalità di Brit",
+   "title_es": "Los mensajes filtrados de Anthony Joshua antes de la pelea de Tyson Fury dan una idea importante de la mentalidad de Brit"
   },
   {
    "title": "‘I’m happy with where we are’: Dana White talks about Zuffa’s performance in 2026",
@@ -1644,7 +1689,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 47,
-   "sources_n": 10,
+   "sources_n": 11,
    "title_it": "Elif Nur Turhan vs Alycia Baumgardner: momenti salienti della lotta - Sky Sports",
    "title_es": "Elif Nur Turhan vs. Alycia Baumgardner: Lo más destacado de la pelea - Sky Sports"
   },
@@ -1735,7 +1780,7 @@
    "status": "confirmed",
    "boxers": [],
    "score": 97,
-   "sources_n": 10,
+   "sources_n": 11,
    "title_it": "Caroline Dubois chiede un incontro di riunificazione con Alycia Baumgardner dopo la sua vittoria domenica sera 👀",
    "title_es": "Caroline Dubois pide una pelea de unificación con Alycia Baumgardner después de su victoria el domingo por la noche 👀"
   },
@@ -1761,7 +1806,7 @@
    "status": "confirmed",
    "boxers": [],
    "score": 64,
-   "sources_n": 10,
+   "sources_n": 11,
    "title_it": "Alycia Baumgardner conquista il titolo IBF con Elif Nur Turhan",
    "title_es": "Alycia Baumgardner arrasa con Elif Nur Turhan para ganar el título de la FIB"
   },
@@ -1799,8 +1844,8 @@
    "date": "2026-11-09T04:04:13+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 60,
-   "sources_n": 3,
+   "score": 50,
+   "sources_n": 2,
    "title_it": "Due incontri aggiunti alla undercard Lara vs Tszyu",
    "title_es": "Dos peleas agregadas a la cartelera Lara vs Tszyu"
   },
@@ -1825,8 +1870,8 @@
    "date": "2026-11-09T03:03:14+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 60,
-   "sources_n": 3,
+   "score": 50,
+   "sources_n": 2,
    "title_it": "Tim Tszyu difende la mano destra prima del combattimento con Lara",
    "title_es": "Tim Tszyu defiende su mano derecha antes de la pelea con Lara"
   },
@@ -1943,7 +1988,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 43,
-   "sources_n": 10,
+   "sources_n": 11,
    "title_it": "[FIGHT THREAD] Elif Nur Turhan contro Alycia Baumgardner",
    "title_es": "[HILO DE LUCHA] Elif Nur Turhan vs. Alycia Baumgardner"
   },
@@ -1974,6 +2019,19 @@
    "title_es": "La elección por nocaut de Haney de James Toney ignora siete años"
   },
   {
+   "title": "Zak Miller health update after British boxer’s fight was called off over enormous swelling on his head",
+   "link": "https://www.thesun.co.uk/sport/40962605/zak-miller-health-update-head-swelling/",
+   "source": "The Sun Boxing",
+   "lang": "en",
+   "date": "2026-11-08T22:11:42+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 12,
+   "sources_n": 1,
+   "title_it": "Aggiornamento sulla salute di Zak Miller dopo che il combattimento del pugile britannico è stato annullato per un enorme gonfiore sulla sua testa",
+   "title_es": "Actualización de salud de Zak Miller después de que la pelea del boxeador británico fuera cancelada por una enorme hinchazón en su cabeza"
+  },
+  {
    "title": "Scottish boxer Willy Hutchinson fulfils boyhood pledge by becoming world champion after famous victory",
    "link": "https://www.dailymail.com/sport/boxing/article-16276435/Scottish-boxer-Willy-Hutchinson-fulfils-boyhood-pledge-world-champion-famous-victory.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
    "source": "Daily Mail Boxing",
@@ -1982,7 +2040,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 77,
-   "sources_n": 11,
+   "sources_n": 12,
    "title_it": "Il pugile scozzese Willy Hutchinson soddisfa l'impegno dell'infanzia diventando campione del mondo dopo la famosa vittoria",
    "title_es": "El boxeador escocés Willy Hutchinson cumple su promesa de infancia al convertirse en campeón del mundo tras su famosa victoria"
   },
@@ -2007,8 +2065,8 @@
    "date": "2026-11-08T20:14:51+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 65,
-   "sources_n": 2,
+   "score": 54,
+   "sources_n": 1,
    "title_it": "Tim Bradley riassume le possibilità di Jai Opetaia di battere Deontay Wilder ai pesi massimi",
    "title_es": "Tim Bradley resume las posibilidades de Jai Opetaia de vencer a Deontay Wilder en el peso pesado"
   },
@@ -2073,7 +2131,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 51,
-   "sources_n": 10,
+   "sources_n": 11,
    "title_it": "Alycia Baumgardner domina Elif Nur Turhan a MVPW-07 per diventare campionessa del mondo a 2 divisioni",
    "title_es": "Alycia Baumgardner domina a Elif Nur Turhan en MVPW-07 para convertirse en campeona mundial de 2 divisiones"
   },
@@ -2111,8 +2169,8 @@
    "date": "2026-11-08T17:09:41+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 40,
-   "sources_n": 4,
+   "score": 30,
+   "sources_n": 3,
    "title_it": "La campionessa olimpica di pugilato Imane Khelif torna a Parigi",
    "title_es": "El campeón olímpico de boxeo Imane Khelif se prepara para el regreso a París"
   },
@@ -2153,8 +2211,8 @@
    "date": "2026-11-08T16:00:11+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 9,
-   "sources_n": 1,
+   "score": 19,
+   "sources_n": 2,
    "title_it": "Gully Powar ha perseverato, ha perseverato e ieri sera ha finalmente vinto un titolo britannico 🙌",
    "title_es": "Gully Powar ha perseverado y perseverado y anoche finalmente ganó un título británico 🙌"
   },
@@ -2232,7 +2290,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 39,
-   "sources_n": 9,
+   "sources_n": 8,
    "title_it": "Chev Clarke reagisce alla sua straordinaria vittoria su Chris Billam-Smith a #ZuffaBoxing12 💬🥊",
    "title_es": "Chev Clarke reacciona a su sorprendente victoria sobre Chris Billam-Smith en #ZuffaBoxing12 💬🥊"
   },
@@ -2257,7 +2315,7 @@
    "date": "2026-11-08T14:11:59+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 29,
+   "score": 28,
    "sources_n": 2,
    "title_it": "Tensione: tre gare di pesi massimi leggeri",
    "title_es": "Voltaje: Tres concursos de peso semipesado"
@@ -2274,7 +2332,7 @@
     "Anthony Joshua"
    ],
    "score": 101,
-   "sources_n": 12,
+   "sources_n": 13,
    "title_it": "\"Non c'è spazio per il secondo posto!\" Un emozionato Joshua Buatsi riflette sulla sconfitta di Willy Hutchinson 👀",
    "title_es": "\"¡No hay espacio para el segundo lugar!\" Un emocionado Joshua Buatsi reflexiona sobre la derrota ante Willy Hutchinson 👀"
   },
@@ -2287,9 +2345,22 @@
    "status": "unverified",
    "boxers": [],
    "score": 38,
-   "sources_n": 9,
+   "sources_n": 8,
    "title_it": "\"ASSOLUTAMENTE ENORME!\" Clarke atterra Billam-Smith! 🤯 #ZuffaBoxing12",
    "title_es": "\"¡ABSOLUTAMENTE MASIVO!\" ¡Clarke derriba a Billam-Smith! 🤯 #ZuffaBoxing12"
+  },
+  {
+   "title": "Willy Hutchinson fulfils 15-year world title destiny after winning his greatest fight… against himself",
+   "link": "https://www.thesun.co.uk/sport/40957128/willy-hutchinson-wins-world-title/",
+   "source": "The Sun Boxing",
+   "lang": "en",
+   "date": "2026-11-08T13:23:45+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 81,
+   "sources_n": 12,
+   "title_it": "Willy Hutchinson compie il destino del titolo mondiale di 15 anni dopo aver vinto la sua più grande lotta... contro se stesso",
+   "title_es": "Willy Hutchinson cumple 15 años en el destino del título mundial después de ganar su mayor pelea... contra sí mismo"
   },
   {
    "title": "Willy Hutchinson couldn't wait to celebrate with his wife & child after his world title win ❤️",
@@ -2300,7 +2371,7 @@
    "status": "confirmed",
    "boxers": [],
    "score": 81,
-   "sources_n": 11,
+   "sources_n": 12,
    "title_it": "Willy Hutchinson non vedeva l'ora di festeggiare con sua moglie e suo figlio dopo la vittoria del titolo mondiale ❤️",
    "title_es": "Willy Hutchinson no podía esperar para celebrar con su esposa e hijo después de ganar el título mundial ❤️"
   },
@@ -2328,7 +2399,7 @@
     "Denzel Bentley"
    ],
    "score": 92,
-   "sources_n": 6,
+   "sources_n": 7,
    "title_it": "\"Possiamo farcela l'anno prossimo!\" 👀 Denzel Bentley chiama Conor Benn a #ZuffaBoxing12",
    "title_es": "\"¡Podemos hacerlo funcionar el año que viene!\" 👀 Denzel Bentley critica a Conor Benn en # ZuffaBoxing12"
   },
@@ -2341,7 +2412,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 37,
-   "sources_n": 7,
+   "sources_n": 6,
    "title_it": "Conferenza stampa post-incontro: Zuffa Boxing 12",
    "title_es": "Conferencia de prensa posterior a la pelea: Zuffa Boxing 12"
   },
@@ -2357,7 +2428,7 @@
     "Anthony Joshua"
    ],
    "score": 120,
-   "sources_n": 12,
+   "sources_n": 13,
    "title_it": "Willy Hutchinson si vendica di Joshua Buatsi per vincere il titolo dei pesi massimi leggeri WBC",
    "title_es": "Willy Hutchinson se venga de Joshua Buatsi para ganar el título semipesado del CMB"
   },
@@ -2370,7 +2441,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 62,
-   "sources_n": 11,
+   "sources_n": 12,
    "title_it": "Willy Hutchinson vive per quei giochi mentali a metà combattimento 🔥",
    "title_es": "Willy Hutchinson vive para esos juegos mentales a mitad de una pelea 🔥"
   },
@@ -2395,8 +2466,8 @@
    "date": "2026-11-08T10:05:44+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 26,
-   "sources_n": 3,
+   "score": 36,
+   "sources_n": 4,
    "title_it": "Tommy Robinson coinvolto in una rissa dopo che il pugile salta fuori dal ring per attaccarlo",
    "title_es": "Tommy Robinson involucrado en una pelea después de que el boxeador salta del ring para atacarlo"
   },
@@ -2495,6 +2566,19 @@
    "title_es": "Médico detiene pelea por el título porque el boxeador \"parece el hombre elefante\""
   },
   {
+   "title": "Moment influencer jumps out of boxing ring and fly kicks Tommy Robinson at HSTikkyTokky’s event as chaotic brawl erupts",
+   "link": "https://www.thesun.co.uk/sport/40956855/influencer-fly-kicks-tommy-robinson-brawl/",
+   "source": "The Sun Boxing",
+   "lang": "en",
+   "date": "2026-11-08T09:10:30+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 36,
+   "sources_n": 4,
+   "title_it": "L'influencer del momento salta fuori dal ring e prende a calci Tommy Robinson all'evento di HSTikkyTokky mentre scoppia una rissa caotica",
+   "title_es": "Moment influencer salta del ring de boxeo y vuela patea a Tommy Robinson en el evento de HSTikkyTokky mientras estalla una pelea caótica"
+  },
+  {
    "title": "ABRAHAM PEREZ VS YANKIEL RIVERA FULL FIGHT HIGHLIGHTS",
    "link": "https://www.youtube.com/watch?v=L9h9a-i0bXg",
    "source": "YouTube DAZN Boxing",
@@ -2519,7 +2603,7 @@
     "Anthony Joshua"
    ],
    "score": 111,
-   "sources_n": 12,
+   "sources_n": 13,
    "title_it": "[SPOILER] Joshua Buatsi vs. Willy Hutchinson | WBC light-heavyweight title",
    "title_es": "[SPOILER] Joshua Buatsi vs. Willy Hutchinson | Título semipesado del CMB"
   },
@@ -2548,7 +2632,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 44,
-   "sources_n": 4,
+   "sources_n": 5,
    "title_it": "Lo scardinato SCENDE NEL CAOS! Modeen prende a calci Tommy Robinson dopo aver vinto il suo combattimento!",
    "title_es": "¡DESQUICIADO DESCIENDE AL CAOS! ¡Modeen patea a Tommy Robinson después de ganar su pelea!"
   },
@@ -2561,9 +2645,22 @@
    "status": "unverified",
    "boxers": [],
    "score": 36,
-   "sources_n": 9,
+   "sources_n": 8,
    "title_it": "[SPOILER] Chris Billam-Smith contro Chev Clarke",
    "title_es": "[SPOILER] Chris Billam-Smith vs. Chev Clarke"
+  },
+  {
+   "title": "Mass brawl erupts in boxing ring after final bell with people chasing each other around in chaotic scenes",
+   "link": "https://www.thesun.co.uk/sport/40956803/mass-brawl-erupts-boxing-ring-mourad-aliev-umut-camkiran/",
+   "source": "The Sun Boxing",
+   "lang": "en",
+   "date": "2026-11-08T08:35:57+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 6,
+   "sources_n": 1,
+   "title_it": "Una rissa di massa esplode sul ring dopo l'ultima campanella con persone che si rincorrono in scene caotiche",
+   "title_es": "La pelea masiva estalla en el ring de boxeo después de la campana final con personas persiguiéndose entre sí en escenas caóticas"
   },
   {
    "title": "[SPOILER] Brad Rea vs. Ezra Taylor | Knockout Of The Year contender",
@@ -2629,7 +2726,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 35,
-   "sources_n": 11,
+   "sources_n": 10,
    "title_it": "Chris Billiam-Smith contro Cheavon Clarke | Lotta completa | Peso da crociera",
    "title_es": "Chris Billiam-Smith contra Cheavon Clarke | Pelea Completa | peso crucero"
   },
@@ -2686,8 +2783,8 @@
    "date": "2026-11-08T07:36:00+00:00",
    "status": "rumor",
    "boxers": [],
-   "score": 40,
-   "sources_n": 2,
+   "score": 50,
+   "sources_n": 3,
    "title_it": "Voglio affrontare Baumgardner, sarà la prossima grande rivalità della boxe - Dubois",
    "title_es": "Quiero enfrentarme a Baumgardner, será la próxima gran rivalidad del boxeo - Dubois"
   },
@@ -2752,7 +2849,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 35,
-   "sources_n": 7,
+   "sources_n": 6,
    "title_it": "Pre-Show e due incontri preliminari: Zuffa Boxing 12",
    "title_es": "Pre-Show y dos combates preliminares: Zuffa Boxing 12"
   },
@@ -2765,7 +2862,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 34,
-   "sources_n": 7,
+   "sources_n": 6,
    "title_it": "Pre-Show e primo incontro preliminare: Zuffa Boxing 12",
    "title_es": "Pre-Show y primer combate preliminar: Zuffa Boxing 12"
   },
@@ -2791,24 +2888,9 @@
    "status": "confirmed",
    "boxers": [],
    "score": 42,
-   "sources_n": 10,
+   "sources_n": 11,
    "title_it": "Risultati in diretta: Elif Nur Turhan difende il titolo contro Alycia Baumgardner",
    "title_es": "Resultados en vivo: Elif Nur Turhan defiende el título ante Alycia Baumgardner"
-  },
-  {
-   "title": "Deontay Wilder-Jai Opetaia: Tyson Fury Has Things To Say",
-   "link": "https://www.boxinginsider.com/headlines/deontay-wilder-jai-opetaia-tyson-fury-has-things-to-say/",
-   "source": "Boxing Insider",
-   "lang": "en",
-   "date": "2026-11-08T04:07:27+00:00",
-   "status": "unverified",
-   "boxers": [
-    "Tyson Fury"
-   ],
-   "score": 88,
-   "sources_n": 4,
-   "title_it": "Deontay Wilder-Jai Opetaia: Tyson Fury ha cose da dire",
-   "title_es": "Deontay Wilder-Jai Opetaia: Tyson Fury tiene cosas que decir"
   },
   {
    "title": "Denzel Bentley vs. Shane Mosley Jr.: Zuffa Boxing 12, Nov. 7, 2026",
@@ -2822,7 +2904,7 @@
     "Shane Mosley Jr"
    ],
    "score": 68,
-   "sources_n": 10,
+   "sources_n": 9,
    "title_it": "Denzel Bentley contro Shane Mosley Jr.: Zuffa Boxing 12, 7 novembre 2026",
    "title_es": "Denzel Bentley contra Shane Mosley Jr.: Zuffa Boxing 12, 7 de noviembre de 2026"
   },
@@ -2835,7 +2917,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 41,
-   "sources_n": 13,
+   "sources_n": 11,
    "title_it": "Chev Clarke KO Chris Billam-Smith nell'epico evento principale: Zuffa Boxing 12, 7 novembre 2026",
    "title_es": "Chev Clarke NOQUEA a Chris Billam-Smith en un evento principal épico: Zuffa Boxing 12, 7 de noviembre de 2026"
   },
@@ -2866,19 +2948,6 @@
    "title_es": "VIDEO | Trifulca termina con invasión del ring tras derrota de boxeador invicto - Diario del Yaqui"
   },
   {
-   "title": "The Return Of Vasyl Lomachenko",
-   "link": "https://www.boxinginsider.com/headlines/the-return-of-vasyl-lomachenko/",
-   "source": "Boxing Insider",
-   "lang": "en",
-   "date": "2026-11-08T02:26:26+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 11,
-   "sources_n": 1,
-   "title_it": "Il ritorno di Vasyl Lomachenko",
-   "title_es": "El regreso de Vasyl Lomachenko"
-  },
-  {
    "title": "Elif Nur Turhan’s title will be on the line tomorrow vs Alycia Baumgardner in Texas tomorrow 👑",
    "link": "https://www.youtube.com/watch?v=llCP35uwhdU",
    "source": "YouTube The Ring",
@@ -2887,7 +2956,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 32,
-   "sources_n": 10,
+   "sources_n": 11,
    "title_it": "Il titolo di Elif Nur Turhan sarà in gioco domani contro Alycia Baumgardner in Texas domani 👑",
    "title_es": "El título de Elif Nur Turhan estará en juego mañana contra Alycia Baumgardner en Texas mañana 👑"
   },
@@ -2902,7 +2971,7 @@
     "Joshua Buatsi"
    ],
    "score": 70,
-   "sources_n": 9,
+   "sources_n": 10,
    "title_it": "Hutchinson batte Buatsi per vincere il titolo dei pesi massimi leggeri WBC",
    "title_es": "Hutchinson vence a Buatsi para ganar el título semipesado del CMB"
   },
@@ -2915,9 +2984,22 @@
    "status": "unverified",
    "boxers": [],
    "score": 32,
-   "sources_n": 7,
+   "sources_n": 6,
    "title_it": "Evento completo: Zuffa Boxing 12",
    "title_es": "Evento completo: Zuffa Boxeo 12"
+  },
+  {
+   "title": "Chev Clarke makes it hat-trick of wins vs Chris Billam-Smith and floors rival for first time ever in blistering KO win",
+   "link": "https://www.thesun.co.uk/sport/40956417/chev-clarke-chris-billam-smith-boxing-result/",
+   "source": "The Sun Boxing",
+   "lang": "en",
+   "date": "2026-11-08T00:16:13+00:00",
+   "status": "confirmed",
+   "boxers": [],
+   "score": 40,
+   "sources_n": 8,
+   "title_it": "Chev Clarke fa una tripletta di vittorie contro Chris Billam-Smith e i pavimenti rivaleggiano per la prima volta in assoluto nella strabiliante vittoria KO",
+   "title_es": "Chev Clarke hace un hat-trick de victorias contra Chris Billam-Smith y los pisos rivalizan por primera vez en la historia en la victoria por KO"
   },
   {
    "title": "Willy Hutchinson wins unanimous decision to claim light heavyweight world title - 112.ua",
@@ -2927,8 +3009,8 @@
    "date": "2026-11-08T00:12:20+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 75,
-   "sources_n": 11,
+   "score": 74,
+   "sources_n": 12,
    "title_it": "Willy Hutchinson vince la decisione unanime di rivendicare il titolo mondiale dei pesi massimi leggeri - 112.ua",
    "title_es": "Willy Hutchinson gana la decisión unánime de reclamar el título mundial de peso semipesado - 112.ua"
   },
@@ -2970,7 +3052,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 31,
-   "sources_n": 7,
+   "sources_n": 6,
    "title_it": "Da’Mazion Vanhouter vs. Ivan Balaz: Zuffa Boxing 12, Nov. 7, 2026",
    "title_es": "Da'Mazion Vanhouter contra Ivan Balaz: Zuffa Boxing 12, 7 de noviembre de 2026"
   },
@@ -2986,7 +3068,7 @@
     "Anthony Joshua"
    ],
    "score": 104,
-   "sources_n": 12,
+   "sources_n": 13,
    "title_it": "Willy Hutchinson si vendica, vincendo nella rivincita un titolo mondiale su Joshua Buatsi",
    "title_es": "Willy Hutchinson se venga, un título mundial en la revancha ante Joshua Buatsi"
   },
@@ -3002,7 +3084,7 @@
     "Anthony Joshua"
    ],
    "score": 104,
-   "sources_n": 12,
+   "sources_n": 13,
    "title_it": "Willy Hutchinson si vendica, titolo mondiale in rivincita su Joshua Buatsi - BoxingScene",
    "title_es": "Willy Hutchinson gana la revancha, un título mundial en la revancha contra Joshua Buatsi - BoxingScene"
   },
@@ -3015,7 +3097,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 31,
-   "sources_n": 7,
+   "sources_n": 6,
    "title_it": "Sam Hickey contro Amaury Massenaux: Zuffa Boxing 12, 7 novembre 2026",
    "title_es": "Sam Hickey contra Amaury Massenaux: Zuffa Boxing 12, 7 de noviembre de 2026"
   },
@@ -3028,7 +3110,7 @@
    "status": "confirmed",
    "boxers": [],
    "score": 39,
-   "sources_n": 13,
+   "sources_n": 11,
    "title_it": "Risultati Zuffa Boxing 12, highlights: Cheavon Clarke ferma Chris Billam-Smith, Da'Mazion Vanhouter torna a brillare",
    "title_es": "Resultados de Zuffa Boxing 12, destacados: Cheavon Clarke detiene a Chris Billam-Smith, Da'Mazion Vanhouter brilla de nuevo"
   },
@@ -3044,6 +3126,22 @@
    "sources_n": 1,
    "title_it": "Aliev vs Cimkaran la folla ha iniziato a combattere all'interno del ring",
    "title_es": "Aliev vs Cimkaran la multitud comenzó a pelear dentro del ring"
+  },
+  {
+   "title": "Willy Hutchinson breaks down in ring as he beats Joshua Buatsi by unanimous decision to win WBC title and get revenge",
+   "link": "https://www.thesun.co.uk/sport/40956220/willy-hutchinson-beats-joshua-buatsi-wbc-title-boxing-result/",
+   "source": "The Sun Boxing",
+   "lang": "en",
+   "date": "2026-11-07T23:19:56+00:00",
+   "status": "confirmed",
+   "boxers": [
+    "Joshua Buatsi",
+    "Anthony Joshua"
+   ],
+   "score": 104,
+   "sources_n": 13,
+   "title_it": "Willy Hutchinson si rompe sul ring mentre batte Joshua Buatsi per decisione unanime di vincere il titolo WBC e vendicarsi",
+   "title_es": "Willy Hutchinson se derrumba en el ring mientras vence a Joshua Buatsi por decisión unánime de ganar el título del CMB y vengarse"
   },
   {
    "title": "Who has Anthony Yarde beaten to get 4 world title shots?",
@@ -3067,7 +3165,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 39,
-   "sources_n": 10,
+   "sources_n": 9,
    "title_it": "Cheavon Clarke stordisce Chris Billam-Smith con un KO brutale per risolvere la rivalità",
    "title_es": "Cheavon Clarke aturde a Chris Billam-Smith con un brutal nocaut para resolver la rivalidad"
   },
@@ -3083,7 +3181,7 @@
     "Anthony Joshua"
    ],
    "score": 96,
-   "sources_n": 12,
+   "sources_n": 13,
    "title_it": "Willy Hutchinson ottiene la massima vendetta su Joshua Buatsi mentre affronta la rivincita per conquistare il titolo mondiale",
    "title_es": "Willy Hutchinson logra la máxima venganza contra Joshua Buatsi mientras logra la revancha para hacerse con el título mundial"
   },
@@ -3099,7 +3197,7 @@
     "Anthony Joshua"
    ],
    "score": 96,
-   "sources_n": 12,
+   "sources_n": 13,
    "title_it": "Willy Hutchinson ottiene la vendetta finale di Joshua Buatsi per conquistare il titolo mondiale - talkSPORT",
    "title_es": "Willy Hutchinson obtiene la venganza definitiva de Joshua Buatsi para hacerse con el título mundial - talkSPORT"
   },
@@ -3112,7 +3210,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 56,
-   "sources_n": 11,
+   "sources_n": 12,
    "title_it": "Willy Hutchinson se corona campeón mundial semipesado del CMB - Lo Mejor del Boxeo",
    "title_es": "Willy Hutchinson se corona campeón mundial semipesado del CMB - Lo Mejor del Boxeo"
   },
@@ -3127,7 +3225,7 @@
     "Joshua Buatsi"
    ],
    "score": 69,
-   "sources_n": 9,
+   "sources_n": 10,
    "title_it": "Hutchinson batte Buatsi per vincere il titolo dei pesi massimi leggeri WBC - BBC",
    "title_es": "Hutchinson vence a Buatsi para ganar el título semipesado del CMB - BBC"
   },
@@ -3159,9 +3257,38 @@
     "Anthony Joshua"
    ],
    "score": 86,
-   "sources_n": 12,
+   "sources_n": 13,
    "title_it": "La folla esplode in violenza allo scontro di boxe Joshua Buatsi vs Willy Hutchinson",
    "title_es": "La multitud estalla en violencia en el choque de boxeo Joshua Buatsi vs Willy Hutchinson"
+  },
+  {
+   "title": "Terrifying moment bare knuckle fighter is brutally knocked out and falls to canvas like a statue",
+   "link": "https://www.thesun.co.uk/sport/40955653/bkfc-96-corey-chapman-dixon-brutal-knockout/",
+   "source": "The Sun Boxing",
+   "lang": "en",
+   "date": "2026-11-07T22:33:10+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 1,
+   "sources_n": 1,
+   "title_it": "Il terrificante momento in cui il combattente a mani nude viene brutalmente messo k.o. e cade sulla tela come una statua",
+   "title_es": "Aterrador momento en el que un luchador desnudo es brutalmente noqueado y cae al lienzo como una estatua"
+  },
+  {
+   "title": "Denzel Bentley overcomes relentless Shane Mosley Jr before calling out Conor Benn for Battle of Britain fight",
+   "link": "https://www.thesun.co.uk/sport/40955631/denzel-bentley-shane-mosley-jr-fight-conor-benn/",
+   "source": "The Sun Boxing",
+   "lang": "en",
+   "date": "2026-11-07T22:32:43+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Denzel Bentley",
+    "Shane Mosley Jr"
+   ],
+   "score": 86,
+   "sources_n": 7,
+   "title_it": "Denzel Bentley supera l'implacabile Shane Mosley Jr prima di chiamare Conor Benn per la battaglia d'Inghilterra",
+   "title_es": "Denzel Bentley supera al implacable Shane Mosley Jr antes de llamar a Conor Benn para la batalla de Gran Bretaña"
   },
   {
    "title": "Joseph Parker will fight this month on Kabayel vs. Hysa undercard in Germany, Frank Warren confirms",
@@ -3171,8 +3298,8 @@
    "date": "2026-11-07T22:29:43+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 36,
-   "sources_n": 2,
+   "score": 46,
+   "sources_n": 3,
    "title_it": "Joseph Parker combatterà questo mese su Kabayel vs. Hysa undercard in Germania, conferma Frank Warren",
    "title_es": "Joseph Parker peleará este mes en la cartelera de Kabayel vs. Hysa en Alemania, confirma Frank Warren"
   },
@@ -3187,7 +3314,7 @@
     "Denzel Bentley"
    ],
    "score": 65,
-   "sources_n": 6,
+   "sources_n": 7,
    "title_it": "Denzel Bentley È ALL'ATTACCO 💥#ZuffaBoxing12",
    "title_es": "Denzel Bentley ESTÁ AL ATAQUE 💥#ZuffaBoxing12"
   },
@@ -3203,6 +3330,35 @@
    "sources_n": 3,
    "title_it": "Dana White sorride sorridendo alla \"prossima stella dei pesi massimi d'America\" ​​mentre osserva il brutale KO al primo round",
    "title_es": "Dana White sonríe ante la 'próxima estrella de peso pesado de Estados Unidos' mientras observa el brutal nocaut en el primer asalto"
+  },
+  {
+   "title": "Huge fight breaks out in crowd at Joshua Buatsi vs Willy Hutchinson with security forced to intervene and area evacuated",
+   "link": "https://www.thesun.co.uk/sport/40955396/joshua-buatsi-willy-hutchinson-fight-fans/",
+   "source": "The Sun Boxing",
+   "lang": "en",
+   "date": "2026-11-07T21:22:44+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Joshua Buatsi",
+    "Anthony Joshua"
+   ],
+   "score": 85,
+   "sources_n": 13,
+   "title_it": "Scoppia un'enorme rissa tra la folla a Joshua Buatsi vs Willy Hutchinson con la sicurezza costretta a intervenire e l'area evacuata",
+   "title_es": "Enorme pelea estalla en la multitud en Joshua Buatsi vs Willy Hutchinson con la seguridad obligada a intervenir y el área evacuada"
+  },
+  {
+   "title": "Imane Khelif to make shock boxing return two years on from gender row boxing scandal that engulfed Olympics",
+   "link": "https://www.thesun.co.uk/sport/40952015/imane-khelif-to-make-boxing-return-two-years/",
+   "source": "The Sun Boxing",
+   "lang": "en",
+   "date": "2026-11-07T21:07:22+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 20,
+   "sources_n": 3,
+   "title_it": "Imane Khelif farà tornare la boxe d'urto due anni dopo lo scandalo della boxe di genere che ha travolto le Olimpiadi",
+   "title_es": "Imane Khelif regresará al boxeo de choque dos años después del escándalo de boxeo de género que envolvió a los Juegos Olímpicos"
   },
   {
    "title": "Sam Hickey gets the knockdown in R5 🔥#ZuffaBoxing12",
@@ -3226,7 +3382,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 30,
-   "sources_n": 7,
+   "sources_n": 6,
    "title_it": "Kayla Allen contro Julia Igel: Zuffa Boxing 12, 7 novembre 2026",
    "title_es": "Kayla Allen vs.Julia Igel: Zuffa Boxing 12, 7 de noviembre de 2026"
   },
@@ -3242,7 +3398,7 @@
     "Anthony Joshua"
    ],
    "score": 65,
-   "sources_n": 9,
+   "sources_n": 10,
    "title_it": "Il mondo della boxe è sbalordito dal “peggiore infortunio” dopo lo scontro horror con la testa sulla carta di Joshua Buatsi",
    "title_es": "El mundo del boxeo está atónito por la “peor lesión” después del horroroso choque de cabezas en la cartelera de Joshua Buatsi"
   },
@@ -3258,9 +3414,22 @@
     "Anthony Joshua"
    ],
    "score": 65,
-   "sources_n": 9,
+   "sources_n": 10,
    "title_it": "Mondo della boxe stordito dal \"peggior infortunio\" dopo lo scontro con la testa dell'orrore sulla carta di Joshua Buatsi - talkSPORT",
    "title_es": "El mundo del boxeo aturdido por la \"peor lesión\" después del choque de cabezas de horror en la tarjeta de Joshua Buatsi - talkSPORT"
+  },
+  {
+   "title": "Almost punched a hole through him’ – Fans stunned by brutal KO on Zuffa Boxing card that leaves star crumpled on canvas",
+   "link": "https://www.thesun.co.uk/sport/40954740/umar-dezambekov-knockout-zach-parker-boxing/",
+   "source": "The Sun Boxing",
+   "lang": "en",
+   "date": "2026-11-07T20:26:35+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 38,
+   "sources_n": 6,
+   "title_it": "Gli ha quasi fatto un buco ’ – I fan sono sbalorditi dal brutale KO sulla carta Zuffa Boxe che lascia la stella accartocciata sulla tela",
+   "title_es": "Casi le perforo un agujero ’ – Aficionados aturdidos por el brutal KO en la tarjeta de boxeo Zuffa que deja la estrella arrugada en el lienzo"
   },
   {
    "title": "Zuffa Boxing 12 start time, fight card, predictions and where to watch Chris Billam Smith vs. Cheavon Clarke",
@@ -3271,7 +3440,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 20,
-   "sources_n": 13,
+   "sources_n": 11,
    "title_it": "Orario di inizio di Zuffa Boxing 12, scheda dell'incontro, pronostici e dove guardare Chris Billam Smith contro Cheavon Clarke",
    "title_es": "Hora de inicio de Zuffa Boxing 12, cartelera, predicciones y dónde ver a Chris Billam Smith contra Cheavon Clarke"
   },
@@ -3287,6 +3456,22 @@
    "sources_n": 1,
    "title_it": "Ferita alla testa del combattente undercard causata da uno scontro accidentale alla testa.",
    "title_es": "Lesión en la cabeza del luchador de la tarjeta inferior causada por un choque accidental en la cabeza."
+  },
+  {
+   "title": "Brit boxer Zak Miller’s fight on Joshua Buatsi undercard stopped after ‘worst swelling ever’ & medical intervention",
+   "link": "https://www.thesun.co.uk/sport/40954934/zak-miller-fight-stopped-face-swelling/",
+   "source": "The Sun Boxing",
+   "lang": "en",
+   "date": "2026-11-07T20:09:51+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Joshua Buatsi",
+    "Anthony Joshua"
+   ],
+   "score": 73,
+   "sources_n": 10,
+   "title_it": "La lotta del pugile britannico Zak Miller contro Joshua Buatsi si è interrotta dopo \"il peggior gonfiore di sempre\" e l'intervento medico",
+   "title_es": "La pelea del boxeador británico Zak Miller en la cartelera de Joshua Buatsi se detuvo después de la \"peor hinchazón de la historia\" e intervención médica"
   },
   {
    "title": "FASI FINALI CAMPIONATI ITALIANI MASCHILI U15 FOGGIA 2026 - RISULTATI SEMIFINALI + PROGRAMMA FINALI - FPI",
@@ -3323,7 +3508,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 38,
-   "sources_n": 7,
+   "sources_n": 6,
    "title_it": "Zach Parker ha foldato con un disgustoso KO con un colpo al corpo sulla carta di Zuffa Boxing per mandare in frantumi le speranze di titolo",
    "title_es": "Zach Parker falló en un repugnante KO con un golpe al cuerpo en la cartelera de Zuffa Boxing para destruir las esperanzas de título"
   },
@@ -3401,7 +3586,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 30,
-   "sources_n": 10,
+   "sources_n": 11,
    "title_it": "Elif Nur Turhan contro Alycia Baumgardner, citazioni della conferenza stampa e previsione della lotta",
    "title_es": "Citas de la conferencia de prensa y predicción de la pelea de Elif Nur Turhan vs.Alycia Baumgardner"
   },
@@ -3417,7 +3602,7 @@
     "Anthony Joshua"
    ],
    "score": 85,
-   "sources_n": 12,
+   "sources_n": 13,
    "title_it": "Joshua Buatsi vs. Willy Hutchinson 2 aggiornamento dei risultati in tempo reale",
    "title_es": "Actualización de resultados en vivo de Joshua Buatsi vs.Willy Hutchinson 2"
   },
@@ -3429,8 +3614,8 @@
    "date": "2026-11-07T16:09:38+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 30,
-   "sources_n": 4,
+   "score": 20,
+   "sources_n": 3,
    "title_it": "Imane Khelif tornerà sul ring, la medaglia d'oro di Parigi 2024 passa tra le professioniste: \"Dentro di me il fuoco non si è mai spento\" - Today",
    "title_es": "Imane Khelif tornerà sul ring, la medaglia d'oro di Parigi 2024 passa tra le professioniste: \"Dentro di me il fuoco non si è mai spento\" - Hoy"
   },
@@ -3443,7 +3628,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 30,
-   "sources_n": 7,
+   "sources_n": 6,
    "title_it": "Zuffa Boxe 12 Risultati da Londra",
    "title_es": "Resultados de Zuffa Boxing 12 desde Londres"
   },
@@ -3485,7 +3670,7 @@
     "Anthony Joshua"
    ],
    "score": 65,
-   "sources_n": 10,
+   "sources_n": 11,
    "title_it": "Peleas de box HOY 7 de noviembre | Dónde VER EN VIVO las carteleras de Joshua Buatsi y Yankiel Rivera - Telediario",
    "title_es": "Peleas de box HOY 7 de noviembre | Dónde VER EN VIVO las carteleras de Joshua Buatsi y Yankiel Rivera - Telediario"
   },
@@ -3510,8 +3695,8 @@
    "date": "2026-11-07T14:12:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 30,
-   "sources_n": 4,
+   "score": 20,
+   "sources_n": 3,
    "title_it": "Imane Khelif torna sul ring: \"Sono stata vittima di un'agenda politica\". La pugile oro olimpico passa al professionismo - Il Fatto Quotidiano",
    "title_es": "Imane Khelif torna sul ring: \"Sono stata vittima di un 'agenda politica\". La pugile oro olimpico passa al professionismo - Il Fatto Quotidiano"
   },
@@ -3527,6 +3712,32 @@
    "sources_n": 1,
    "title_it": "Carteleras de boxeo EN VIVO HOY sábado 7 de noviembre de 2026: Horarios y dónde VER en México - MILENIO",
    "title_es": "Carteleras de boxeo EN VIVO HOY sábado 7 de noviembre de 2026: Horarios y dónde VER en México - MILENIO"
+  },
+  {
+   "title": "Caroline Dubois and Alycia Baumgardner on course for huge undisputed clash… but fight is on to seal home advantage",
+   "link": "https://www.thesun.co.uk/sport/40898841/caroline-dubois-alycia-baumgardner-undisputed-clash-home-advantage/",
+   "source": "The Sun Boxing",
+   "lang": "en",
+   "date": "2026-11-07T13:40:52+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 73,
+   "sources_n": 11,
+   "title_it": "Caroline Dubois e Alycia Baumgardner in rotta per un enorme scontro indiscusso... ma la lotta è in corso per sigillare il vantaggio della casa",
+   "title_es": "Caroline Dubois y Alycia Baumgardner en camino a un gran enfrentamiento indiscutible... pero la lucha está en marcha para sellar la ventaja de local"
+  },
+  {
+   "title": "‘Levelled up’ – Billam-Smith reveals reason why he’s not out for revenge against Clarke in Zuffa Boxing 12 bout",
+   "link": "https://www.thesun.co.uk/sport/40941800/billam-smith-reveals-clarke-revenge-truth/",
+   "source": "The Sun Boxing",
+   "lang": "en",
+   "date": "2026-11-07T13:32:39+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 30,
+   "sources_n": 11,
+   "title_it": "‘Sali di livello’ – Billam-Smith rivela il motivo per cui non è in cerca di vendetta contro Clarke nell'incontro di Zuffa Boxe 12",
+   "title_es": "‘Nivelado’ – Billam-Smith revela la razón por la que no busca venganza contra Clarke en la pelea de Zuffa Boxing 12"
   },
   {
    "title": "A Giorgia Schepis il Premio UNVS “Studenti Sportivi, Studenti Vincenti” e il Premio Speciale “Gian Paolo Bertoni” - FPI",
@@ -3579,7 +3790,7 @@
     "Shane Mosley Jr"
    ],
    "score": 65,
-   "sources_n": 13,
+   "sources_n": 12,
    "title_it": "Cheavon Clarke distrugge Chris Billam-Smith allo Zuffa Boxing 12; Denzel Bentley batte Shane Mosley Jr.",
    "title_es": "Cheavon Clarke destruye a Chris Billam-Smith en Zuffa Boxing 12; Denzel Bentley supera a Shane Mosley Jr."
   },
@@ -3592,9 +3803,38 @@
    "status": "unverified",
    "boxers": [],
    "score": 30,
-   "sources_n": 9,
+   "sources_n": 8,
    "title_it": "Chris Billam-Smith vs Chev Clarke: George Groves risolve lo scontro dei cruiserweight",
    "title_es": "Chris Billam-Smith vs Chev Clarke: George Groves analiza el choque de peso crucero"
+  },
+  {
+   "title": "Chris Billam-Smith vs Cheavon Clarke: Date, time, TV channel, live stream and FULL card for Zuffa boxing event in London",
+   "link": "https://www.thesun.co.uk/sport/40894434/chris-billam-smith-vs-cheavon-clarke-date-time-live-stream-undercard/",
+   "source": "The Sun Boxing",
+   "lang": "en",
+   "date": "2026-11-07T11:12:18+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 30,
+   "sources_n": 10,
+   "title_it": "Chris Billam-Smith contro Cheavon Clarke: data, ora, canale TV, live streaming e scheda COMPLETA per l'evento di boxe Zuffa a Londra",
+   "title_es": "Chris Billam-Smith vs Cheavon Clarke: fecha, hora, canal de televisión, transmisión en vivo y tarjeta COMPLETA para el evento de boxeo Zuffa en Londres"
+  },
+  {
+   "title": "Joshua Buatsi vs Willy Hutchinson 2: Date, start time, TV channel, live stream and FULL card for huge WBC title clash",
+   "link": "https://www.thesun.co.uk/sport/40890773/joshua-buatsi-vs-willy-hutchinson-2-date-time-live-stream-undercard/",
+   "source": "The Sun Boxing",
+   "lang": "en",
+   "date": "2026-11-07T11:09:10+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Joshua Buatsi",
+    "Anthony Joshua"
+   ],
+   "score": 95,
+   "sources_n": 13,
+   "title_it": "Joshua Buatsi vs Willy Hutchinson 2: data, ora di inizio, canale TV, streaming live e scheda COMPLETA per un enorme scontro sul titolo WBC",
+   "title_es": "Joshua Buatsi vs Willy Hutchinson 2: Fecha, hora de inicio, canal de televisión, transmisión en vivo y tarjeta COMPLETA para el gran enfrentamiento por el título del CMB"
   },
   {
    "title": "Dana White’s Heavyweight Goes From 151lb Kid to 231lb KO Monster",
@@ -3665,6 +3905,22 @@
    "title_es": "“Perdió y se deshizo de él” - SHANE MCGUIGAN HONESTO SOBRE BEN DAVISON ENTRENANDO A JOSHUA PARA FURIA, WILDER"
   },
   {
+   "title": "Joshua Buatsi vs Willy Hutchinson 2 exact time: What time are the ring-walks for TONIGHT’S huge rematch?",
+   "link": "https://www.thesun.co.uk/sport/40892417/joshua-buatsi-willy-hutchinson-watch-live/",
+   "source": "The Sun Boxing",
+   "lang": "en",
+   "date": "2026-11-07T09:57:00+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Joshua Buatsi",
+    "Anthony Joshua"
+   ],
+   "score": 85,
+   "sources_n": 13,
+   "title_it": "Joshua Buatsi vs Willy Hutchinson 2 ora esatta: A che ora sono le camminate sul ring per LA grande rivincita DI STASERA?",
+   "title_es": "Joshua Buatsi vs Willy Hutchinson 2 hora exacta: ¿A qué hora son los paseos para LA gran revancha DE ESTA NOCHE?"
+  },
+  {
    "title": "Former champion boxer Josh Frederiksen dead at 36 after tragic skydiving accident",
    "link": "https://www.mirror.co.uk/sport/boxing/former-champion-boxer-josh-frederiksen-37853586",
    "source": "Daily Mirror Boxing",
@@ -3689,7 +3945,7 @@
     "Anthony Joshua"
    ],
    "score": 85,
-   "sources_n": 12,
+   "sources_n": 13,
    "title_it": "Consigli per le scommesse talkSPORT: le migliori scommesse sulla boxe e i consigli degli esperti per Joshua Buatsi vs Willy Hutchinson",
    "title_es": "Consejos de apuestas de talkSPORT: las mejores apuestas de boxeo y consejos de expertos para Joshua Buatsi vs Willy Hutchinson"
   },
@@ -3704,7 +3960,7 @@
     "Joshua Buatsi"
    ],
    "score": 50,
-   "sources_n": 9,
+   "sources_n": 10,
    "title_it": "Buatsi v Hutchinson 2 - pronostici mondiali DI lotta per IL titolo dei pesi leggeri",
    "title_es": "Buatsi v Hutchinson 2: predicciones de pelea por el título mundial semipesado"
   },
@@ -3719,7 +3975,7 @@
     "Joshua Buatsi"
    ],
    "score": 50,
-   "sources_n": 9,
+   "sources_n": 10,
    "title_it": "Buatsi v Hutchinson 2 - pronostici mondiali DI lotta per IL titolo dei pesi leggeri - BBC",
    "title_es": "Buatsi v Hutchinson 2 - predicciones DE lucha por EL título mundial semipesado - BBC"
   },
@@ -3777,7 +4033,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 55,
-   "sources_n": 11,
+   "sources_n": 12,
    "title_it": "Willy Hutchinson: È il mio destino diventare il prossimo campione del mondo di boxe della Scozia - The Herald",
    "title_es": "Willy Hutchinson: Es mi destino convertirme en el próximo campeón mundial de boxeo de Escocia - The Herald"
   },
@@ -3793,245 +4049,6 @@
    "sources_n": 3,
    "title_it": "Brandon Moreno busca hacer historia ante Pedro Taduran en el asalto al título mundial de la IBF - AEBOX",
    "title_es": "Brandon Moreno busca hacer historia ante Pedro Taduran en el asalto al título mundial de la IBF - AEBOX"
-  },
-  {
-   "title": "Boxing Mailbag: Middleweight’s future, Loma’s return, Lara, more",
-   "link": "https://www.badlefthook.com/boxing-news/120212/boxing-mailbag-middleweights-future-lomas-return-lara-more",
-   "source": "Bad Left Hook",
-   "lang": "en",
-   "date": "2026-11-07T05:00:00-05:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 10,
-   "sources_n": 2,
-   "title_it": "Borsa postale da boxe: il futuro dei pesi medi, il ritorno di Loma, Lara, altro",
-   "title_es": "Boxing Mailbag: el futuro del peso medio, el regreso de Loma, Lara, más"
-  },
-  {
-   "title": "'I was going down a bad path' – Blackpool boxer on remarkable world title comeback - Lancashire Telegraph",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSHViTGtRMzZpVHNLZFhwOFg3dThibkJsSEVBUENoZUltdmNLY3FkV0V6NW9LMWFMSDl2eW9yMHctVWx1Z2Y2OUVxSTBMMkdXQWxKZXlhd3QxWEs5MkRqdGNrRGxnd0o4Zl84ME5ERElHMzNySEczMFg1d3Rubk9qNDFiMEM1bEQzeEQwWlNzeHhlcUxDOVMzWGQwb0hCeU5SUlE4YnoxUGpJVHB3?oc=5",
-   "source": "Google News: boxing",
-   "lang": "en",
-   "date": "2026-11-07T05:00:00+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 10,
-   "sources_n": 1,
-   "title_it": "\"Stavo percorrendo una brutta strada\" – Pugile di Blackpool in occasione della straordinaria rimonta del titolo mondiale - Lancashire Telegraph",
-   "title_es": "\"Iba por un mal camino\" – Boxeador de Blackpool con un notable regreso al título mundial - Lancashire Telegraph"
-  },
-  {
-   "title": "La pugile coinvolta nella controversia di genere alle Olimpiadi del 2024 è pronta a tornare alle competizioni dopo due anni di assenza. - Vietnam.vn",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSld6R3RNWFZzRmVKNFR3NnBBMDFPc3MyZDdTZ0hXc2Q3aTZjMk9LcFBQdUhoUGpBWXJDVGNvTzJTTFRjZ2FTY0pBTEdDWHItck5ONWxyRElzZndxOUZlZURURGwycm1PMkVyS3FkUlM0Z1JNZmYzV3R6MkNkeU1adjE3UTdJcnpYb0p4c2VCUGpWbzMtSVFpQ0d5bG90c3ZERDBV?oc=5",
-   "source": "Google News: pugilato",
-   "lang": "it",
-   "date": "2026-11-07T04:41:26+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 0,
-   "sources_n": 1,
-   "title_it": "La pugile coinvolta nella controversia di genere alle Olimpiadi del 2024 è pronta a tornare alle competizioni dopo due anni di assenza. - Vietnam.vn",
-   "title_es": "La pugile coinvolta nella controversia di genere alle Olimpiadi del 2024 è pronta a tornare alle competizioni dopo due anni di assenza. - Vietnam.vn"
-  },
-  {
-   "title": "‘Il pugile ribelle’ a Casa Saffi. Un tuffo nel passato con Gioiello - Il Resto del Carlino",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSVEtUVFLY0RhZHR0cTZHTXBaaU5UZnhxaFVCRWN1S0gzX2JnMVEyMVlMU281VXRkcDFwcENvQnhmVkNLLW8ybkdiSGgtU202blctVnZjNTJ3TDF5MFhGTDhmWHdzREw2MHBxVThWUF9zX3FKeTgtLWZlRUd6ZnpJQkNUN1kzQTQ?oc=5",
-   "source": "Google News: pugilato",
-   "lang": "it",
-   "date": "2026-11-07T04:05:14+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 0,
-   "sources_n": 1,
-   "title_it": "‘Il pugile ribelle’ a Casa Saffi. Un tuffo nel passato con Gioiello - Il Resto del Carlino",
-   "title_es": "‘Il pugile ribelle’ a Casa Saffi. Un tuffo nel passato con Gioiello - Il Resto del Carlino"
-  },
-  {
-   "title": "Imane Khelif Skipping LA 2028 Olympics for Pro Debut, Will She Be Eligible to Win a Women's World Title? - Athlon Sports",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeURGTXYwT0ZBcF9HYlVUSkMyc3J5WUc1QjUybGdkdVF5bmMzMjVpNDJuSnNlaEZPRUdrOEdvSll5b0IzMWNDVWZYa1BmbU5jb3BISWVXbnpOdVBVbjVmenNveUh4MzFJSmtGdXF0YnM2c3I4RGgzZFJ5RDFrTWJYUjdWSGIyTks1TWw0YXQ4N2JfcXFsTUh2R09Ecw?oc=5",
-   "source": "Google News: boxing",
-   "lang": "en",
-   "date": "2026-11-07T03:22:00+00:00",
-   "status": "confirmed",
-   "boxers": [],
-   "score": 48,
-   "sources_n": 9,
-   "title_it": "Imane Khelif salta le Olimpiadi di LA 2028 per il debutto professionale, sarà idonea a vincere un titolo mondiale femminile? - Athlon Sports",
-   "title_es": "Imane Khelif saltándose los Juegos Olímpicos de Los Ángeles 2028 para debutar como profesional, ¿será elegible para ganar un título mundial femenino? - Athlon Sports"
-  },
-  {
-   "title": "Clint Eastwood e il film di pugilato che ha riscritto le regole del genere: lo ricordi ancora? - Everyeye Cinema",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWkwtNHpqS3AxaXlVWC1tR25wSWUwSVllc1NSb3ZXQ3o1TDFIU0ZsZE1tM0E1NlV4WnZOODBrRFNuQ3pOSk5JQ2JUVW1KNWJiNHA2NHVqdlN1OEpZUnRaWU90RWlnZlEwWGs0V1pvSHVybWlzT1dkOHZDOFR4bi05NDZ5Ni1GU0xQb1RIWlRtTDB5eDNGU2RMakdwb2NSbXZUdkprTUoxYmpPUWwwZDlvRmlTdDQ?oc=5",
-   "source": "Google News: pugilato",
-   "lang": "it",
-   "date": "2026-11-06T23:52:00+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 0,
-   "sources_n": 1,
-   "title_it": "Clint Eastwood e il film di pugilato che ha riscritto le regole del genere: lo ricordi ancora? - Everyeye Cinema",
-   "title_es": "Clint Eastwood e il film di pugilato che ha riscritto le regole del genere: lo ricordi ancora? - Everyeye Cinema"
-  },
-  {
-   "title": "Canelo to Calzaghe: Super-Middleweight Marathon | Matchroom Boxing",
-   "link": "https://www.youtube.com/watch?v=iK2R_fvfs1A",
-   "source": "YouTube Matchroom Boxing",
-   "lang": "en",
-   "date": "2026-11-06T23:00:07+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 35,
-   "sources_n": 2,
-   "title_it": "Da Canelo a Calzaghe: maratona di pesi medi | Matchroom Boxing",
-   "title_es": "Canelo a Calzaghe: Maratón supermediano | Matchroom Boxing"
-  },
-  {
-   "title": "Ascoli-Palermo, Venuti: \"Fosse stato pugilato avremmo meritato noi\" - Youtvrs",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQ1dSR0pXRTd0TFZROEtPaUt2WlR2VVdEMXl5Y0MtTnpFNXNLUHAzby1Ra25xT2ZHcWstMTNaaGJ1bTg2Rk56aEJnZHRTYzcxVEZleW9SSk1vaVRyMTU5bDFVRjhYMHZVUHVwRUYyNHBFZDNrdTRLejdwQVQ0c0pMWFRURVVyRTdvbU53?oc=5",
-   "source": "Google News: pugilato",
-   "lang": "it",
-   "date": "2026-11-06T22:10:17+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 0,
-   "sources_n": 1,
-   "title_it": "Ascoli-Palermo, Venuti: \"Fosse stato pugilato avremmo meritato noi\" - Youtvrs",
-   "title_es": "Ascoli-Palermo, Venuti: \"Fosse stato pugilato avremmo meritato noi\" - Youtvrs"
-  },
-  {
-   "title": "Alycia Baumgardner vs. Elif Nur Turhan: How to watch, full fight card, streaming info and more",
-   "link": "https://sports.yahoo.com/boxing/article/alycia-baumgardner-vs-elif-nur-turhan-how-to-watch-full-fight-card-streaming-info-and-more-192646717.html",
-   "source": "Yahoo Sports Boxing",
-   "lang": "en",
-   "date": "2026-11-06T20:45:00+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 20,
-   "sources_n": 10,
-   "title_it": "Alycia Baumgardner vs. Elif Nur Turhan: come guardare, scheda di combattimento completa, informazioni in streaming e altro",
-   "title_es": "Alycia Baumgardner vs. Elif Nur Turhan: Cómo ver, tarjeta de pelea completa, información de transmisión y más"
-  },
-  {
-   "title": "Emiliano Vargas On Growing Up with Brothers Who Fight",
-   "link": "https://www.youtube.com/watch?v=bPcVbdL9jGs",
-   "source": "YouTube PBC",
-   "lang": "en",
-   "date": "2026-11-06T20:00:48+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 18,
-   "sources_n": 2,
-   "title_it": "Emiliano Vargas: Crescere con fratelli che litigano",
-   "title_es": "Emiliano Vargas sobre crecer con hermanos que luchan"
-  },
-  {
-   "title": "Aussie champ ready to ‘shock the world’ against old sparring partner - Nine.com.au",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeDJpMS1iT0gzSmdxWTBnSk5UTENRQjhvdVBVNkRPZy1LOE9vUGN4REtFaWdTT2NzYTRYaTkwOThyalJ0TTVwZ3F2SVpNNTd1UUxhTDI1TV8zZHE4UVdTZjdnVUh2cmFLN0E1YTZ6WU5IMTBkVWRhcm9nWlZQWGw0WEQ3OUtXel9QSGRKSGtzMHIxZkVCWUIybkpEb1pmVW0tT1BPVnRVNGdEV1JNcGtXbm82eHZjd1VlTmNSUHJSQTdpa2E1ZDVBRFFnd3dIbWJTUlVuVWJLVW10aE54cXc?oc=5",
-   "source": "Google News: boxing",
-   "lang": "en",
-   "date": "2026-11-06T19:58:27+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 0,
-   "sources_n": 1,
-   "title_it": "Campione australiano pronto a \"scioccare il mondo\" contro il vecchio sparring partner - Nine.com.au",
-   "title_es": "Campeón australiano listo para ‘sorprender al mundo’ contra su antiguo compañero de entrenamiento - Nine.com.au"
-  },
-  {
-   "title": "Avila Perspective, Chap 401: Zuffa Boxing, Queensberry Promotions, Salita and MVP",
-   "link": "https://tss.ib.tv/boxing/avila-perspective-chap-401-zuffa-boxing-queensberry-promotions-salita-and-mvp/",
-   "source": "The Sweet Science",
-   "lang": "en",
-   "date": "2026-11-06T19:49:27+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 30,
-   "sources_n": 7,
-   "title_it": "Avila Perspective, Cap 401: Zuffa Boxing, Queensberry Promotions, Salita e MVP",
-   "title_es": "Avila Perspective, Cap 401: Zuffa Boxing, Queensberry Promotions, Salita y MVP"
-  },
-  {
-   "title": "Tim Tszyu targets ‘bucket list’ fight if he beats Erislandy Lara for world title - Boxing News Online",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdEVaNzREcWNMSEZJeHJqdFhoaEpJd3JQNGVSWlRzWWZFa09hdHJTQm5iRE9lOENmSDZ6U2R0bHZxN1AyM1l6dTdQYXdkVFNKbnBCbUw1a3ctajVqMzZMWkFXSjd5d1dUZURSOTVabkRiT29PaXUtN3FqNTVjRm1Bdw?oc=5",
-   "source": "Google News: boxing",
-   "lang": "en",
-   "date": "2026-11-06T19:34:04+00:00",
-   "status": "confirmed",
-   "boxers": [],
-   "score": 73,
-   "sources_n": 5,
-   "title_it": "Tim Tszyu punta alla \"lista dei desideri\" se batte Erislandy Lara per il titolo mondiale - Notizie di boxe online",
-   "title_es": "Tim Tszyu apunta a la pelea de la ’lista de deseos' si vence a Erislandy Lara por el título mundial - Boxing News Online"
-  },
-  {
-   "title": "Joshua Buatsi, Willy Hutchinson make weight for WBC title rematch",
-   "link": "https://www.boxingscene.com/articles/joshua-buatsi-willy-hutchinson-make-weight-for-wbc-title-rematch",
-   "source": "Boxing Scene",
-   "lang": "en",
-   "date": "2026-11-06T19:33:35+00:00",
-   "status": "unverified",
-   "boxers": [
-    "Joshua Buatsi",
-    "Anthony Joshua"
-   ],
-   "score": 95,
-   "sources_n": 12,
-   "title_it": "Joshua Buatsi, Willy Hutchinson fanno peso per la rivincita del titolo WBC",
-   "title_es": "Joshua Buatsi y Willy Hutchinson ganan peso para la revancha por el título del CMB"
-  },
-  {
-   "title": "Chris Billam-Smith, Chev Clarke make weight; Shane Mosley Jnr needs second attempt",
-   "link": "https://www.boxingscene.com/articles/chris-billam-smith-chev-clarke-make-weight-shane-mosley-jnr-needs-second-attempt",
-   "source": "Boxing Scene",
-   "lang": "en",
-   "date": "2026-11-06T19:27:17+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 30,
-   "sources_n": 10,
-   "title_it": "Chris Billam-Smith, Chev Clarke fanno peso; Shane Mosley Jnr ha bisogno di un secondo tentativo",
-   "title_es": "Chris Billam-Smith, Chev Clarke hacen peso; Shane Mosley Jnr necesita un segundo intento"
-  },
-  {
-   "title": "Olympics gender row boxer Imane Khelif to make professional debut: Algerian announces fight with 21-year-old in December... two-and-a-half years after controversial gold in Paris",
-   "link": "https://www.dailymail.com/sport/boxing/article-16271897/imane-khelif-olympics-gender-row-debut.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-   "source": "Daily Mail Boxing",
-   "lang": "en",
-   "date": "2026-11-06T19:25:28+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 30,
-   "sources_n": 4,
-   "title_it": "Il pugile di fila di genere delle Olimpiadi Imane Khelif fa il suo debutto professionale: l'algerino annuncia lo scontro con la 21enne a dicembre... due anni e mezzo dopo il controverso oro a Parigi",
-   "title_es": "La boxeadora olímpica de género Imane Khelif hará su debut profesional: Argelina anuncia pelea con joven de 21 años en diciembre... dos años y medio después del polémico oro en París"
-  },
-  {
-   "title": "Buatsi booed at weigh-in before world title bout",
-   "link": "https://sports.yahoo.com/articles/buatsi-booed-weigh-world-title-190138856.html",
-   "source": "Yahoo Sports Boxing",
-   "lang": "en",
-   "date": "2026-11-06T19:01:38+00:00",
-   "status": "unverified",
-   "boxers": [
-    "Joshua Buatsi"
-   ],
-   "score": 10,
-   "sources_n": 1,
-   "title_it": "Buatsi fischiò alla pesata prima dell'incontro per il titolo mondiale",
-   "title_es": "Buatsi abucheó en el pesaje antes de la pelea por el título mundial"
-  },
-  {
-   "title": "Chris Billam-Smith and Cheavon Clarke face-off for the final time ahead of Zuffa Boxing 12 🇬🇧",
-   "link": "https://www.youtube.com/watch?v=RqrL_RDhpV4",
-   "source": "YouTube The Ring",
-   "lang": "en",
-   "date": "2026-11-06T18:43:18+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 30,
-   "sources_n": 13,
-   "title_it": "Chris Billam-Smith e Cheavon Clarke si affrontano per l'ultima volta prima della Zuffa Boxe 12 🇬🇧",
-   "title_es": "Chris Billam-Smith y Cheavon Clarke se enfrentan por última vez antes de Zuffa Boxing 12 🇬🇧"
   }
  ]
 }
