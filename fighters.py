@@ -253,10 +253,36 @@ def run_step(data_dir, log, limit=5, max_age_h=20, budget_s=150):
         us = [x for x in (ent.get("updated"), ent.get("tried")) if x]
         if not us: return 1e9
         return (now - datetime.fromisoformat(max(us))).total_seconds() / 3600
-    todo = [e for e in cfg["fighters"] if age(e) >= max_age_h]
-    todo.sort(key=age, reverse=True)
+    base = [e for e in cfg["fighters"] if age(e) >= max_age_h]
+    base.sort(key=age, reverse=True)
+    # pugili dall'elenco Wikidata: prima quelli citati nelle notizie, poi i campioni, poi i piu' giovani
+    extra = []
+    try:
+        import roster
+        ro = roster.ensure(data_dir, log)
+        have = {e["name"] for e in cfg["fighters"]}
+        champs = set(ro.get("champs", []))
+        try: titles = " ".join(n.get("title", "") for n in json.loads((Path(data_dir) / "news.json").read_text(encoding="utf-8")).get("news", [])).lower()
+        except Exception: titles = ""
+        def prio(b):
+            sur = b["name"].split()[-1].lower()
+            in_news = len(sur) >= 4 and re.search(r"\b" + re.escape(sur) + r"\b", titles) is not None
+            return (0 if in_news else 1, 0 if b["name"] in champs else 1, -int((b.get("born") or "1970")[:4]))
+        for b in sorted(ro.get("boxers", []), key=prio):
+            if b["name"] in have: continue
+            e = {"name": b["name"], "wiki": {"en": b["name"]}}
+            ent = index.get(b["name"], {})
+            us = [x for x in (ent.get("updated"), ent.get("tried")) if x]
+            hrs = (now - datetime.fromisoformat(max(us))).total_seconds() / 3600 if us else 1e9
+            # chi non ha tabella: riprova dopo 30 giorni; chi ha dati: aggiorna ogni 3 giorni
+            if hrs >= (720 if (ent and not ent.get("slug")) else (72 if ent else 0)):
+                extra.append(e)
+            if len(extra) >= limit: break
+    except Exception as ex:
+        log(f"ROSTER ERRORE {type(ex).__name__} {ex}")
+    todo = (base + extra)[:limit]
     t0 = time.time(); done = 0
-    for e in todo[:limit]:
+    for e in todo:
         if time.time() - t0 > budget_s: break
         try:
             d = build(e)
@@ -274,4 +300,4 @@ def run_step(data_dir, log, limit=5, max_age_h=20, budget_s=150):
             log(f"STORICO NO   {e['name']}: tabella non trovata")
         time.sleep(1)
     ip.write_text(json.dumps(index, ensure_ascii=False, indent=1), encoding="utf-8")
-    log(f"Storico: aggiornati {done} pugili, in elenco {len(cfg['fighters'])}, con dati {sum(1 for v in index.values() if v.get('slug'))}")
+    log(f"Storico: aggiornati {done} pugili, in elenco {len(cfg['fighters'])}+{len(extra)} dall'elenco Wikidata, con dati {sum(1 for v in index.values() if v.get('slug'))}")
