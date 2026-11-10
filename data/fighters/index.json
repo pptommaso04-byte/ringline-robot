@@ -2223,5 +2223,70 @@
    "en",
    "it"
   ]
+ },
+ "Joe Calzaghe": {
+  "slug": "joe-calzaghe",
+  "updated": "2026-11-10T03:10:50+00:00",
+  "total": 46,
+  "verified": 46,
+  "record": {
+   "w": 46,
+   "l": 0,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "it",
+   "pt"
+  ]
+ },
+ "Jamie Nicolson": {
+  "tried": "2026-11-10T03:10:44+00:00"
+ },
+ "Irene Pacheco": {
+  "slug": "irene-pacheco",
+  "updated": "2026-11-10T03:10:57+00:00",
+  "total": 35,
+  "verified": 0,
+  "record": {
+   "w": 33,
+   "l": 2,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Abdullah Mason": {
+  "slug": "abdullah-mason",
+  "updated": "2026-11-10T03:11:02+00:00",
+  "total": 21,
+  "verified": 0,
+  "record": {
+   "w": 21,
+   "l": 0,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Siyakholwa Kuse": {
+  "slug": "siyakholwa-kuse",
+  "updated": "2026-11-10T03:11:06+00:00",
+  "total": 14,
+  "verified": 0,
+  "record": {
+   "w": 10,
+   "l": 3,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
