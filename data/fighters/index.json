@@ -9491,5 +9491,82 @@
  },
  "Lutsaikhany Altantsetseg": {
   "tried": "2026-11-10T16:33:18+00:00"
+ },
+ "Whindersson Nunes": {
+  "slug": "whindersson-nunes",
+  "updated": "2026-11-10T16:35:40+00:00",
+  "total": 4,
+  "verified": 0,
+  "record": {
+   "w": 1,
+   "l": 2,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Magomed Kurbanov (boxer)": {
+  "slug": "magomed-kurbanov-boxer",
+  "updated": "2026-11-10T16:35:44+00:00",
+  "total": 28,
+  "verified": 0,
+  "record": {
+   "w": 26,
+   "l": 2,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Muhammadkhuja Yaqubov": {
+  "slug": "muhammadkhuja-yaqubov",
+  "updated": "2026-11-10T16:35:46+00:00",
+  "total": 25,
+  "verified": 0,
+  "record": {
+   "w": 23,
+   "l": 1,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "fr"
+  ]
+ },
+ "Petpanomrung Kiatmuu9": {
+  "slug": "petpanomrung-kiatmuu9",
+  "updated": "2026-11-10T16:35:49+00:00",
+  "total": 103,
+  "verified": 0,
+  "record": {
+   "w": 68,
+   "l": 33,
+   "d": 2,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Eumir Marcial": {
+  "slug": "eumir-marcial",
+  "updated": "2026-11-10T16:35:53+00:00",
+  "total": 8,
+  "verified": 6,
+  "record": {
+   "w": 8,
+   "l": 0,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "it"
+  ]
  }
 }
