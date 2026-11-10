@@ -1482,5 +1482,70 @@
  },
  "Zak Miller": {
   "tried": "2026-11-10T02:05:46+00:00"
+ },
+ "Mikiah Kreps": {
+  "tried": "2026-11-10T02:11:02+00:00"
+ },
+ "Lee McGregor": {
+  "slug": "lee-mcgregor",
+  "updated": "2026-11-10T02:11:10+00:00",
+  "total": 20,
+  "verified": 0,
+  "record": {
+   "w": 16,
+   "l": 3,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "it"
+  ]
+ },
+ "Elvis Rodriguez": {
+  "slug": "elvis-rodriguez",
+  "updated": "2026-11-10T02:11:16+00:00",
+  "total": 21,
+  "verified": 0,
+  "record": {
+   "w": 18,
+   "l": 2,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Skye Nicolson": {
+  "slug": "skye-nicolson",
+  "updated": "2026-11-10T02:11:20+00:00",
+  "total": 18,
+  "verified": 13,
+  "record": {
+   "w": 17,
+   "l": 1,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "it"
+  ]
+ },
+ "Elif Nur Turhan": {
+  "slug": "elif-nur-turhan",
+  "updated": "2026-11-10T02:11:23+00:00",
+  "total": 15,
+  "verified": 0,
+  "record": {
+   "w": 14,
+   "l": 1,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
