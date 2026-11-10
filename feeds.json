@@ -150,11 +150,6 @@
    "lang": "en"
   },
   {
-   "name": "The Independent Boxing",
-   "url": "https://www.independent.co.uk/sport/boxing/rss",
-   "lang": "en"
-  },
-  {
    "name": "Telegraph Boxing",
    "url": "https://www.telegraph.co.uk/boxing/rss.xml",
    "lang": "en"
@@ -175,18 +170,8 @@
    "lang": "en"
   },
   {
-   "name": "USA Today Boxing",
-   "url": "https://rssfeeds.usatoday.com/UsatodaycomBoxing-TopStories",
-   "lang": "en"
-  },
-  {
    "name": "Fox Sports Boxing",
    "url": "https://api.foxsports.com/v2/content/optimized-rss?partnerKey=MB0Wehpmuj2lUhuRhQaafhBjAJqaPU244mlTDK1i&size=30&tags=fs/boxing",
-   "lang": "en"
-  },
-  {
-   "name": "Ring Magazine News",
-   "url": "https://www.ringtv.com/category/news/feed/",
    "lang": "en"
   },
   {

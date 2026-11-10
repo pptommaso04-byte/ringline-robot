@@ -37,8 +37,10 @@ def log(msg):
     print(line)
     with open(DATA / "log.txt", "a", encoding="utf-8") as f: f.write(line + "\n")
 
-def fetch(url, timeout=20):
-    req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "application/rss+xml, application/xml, text/xml, */*", "Accept-Language": "en-US,en;q=0.9", "Referer": "https://www.google.com/"})
+def fetch(url, timeout=20, extra=None):
+    h = {"User-Agent": UA, "Accept": "application/rss+xml, application/xml, text/xml, */*", "Accept-Language": "en-US,en;q=0.9", "Referer": "https://www.google.com/"}
+    if extra: h.update(extra)
+    req = urllib.request.Request(url, headers=h)
     with urllib.request.urlopen(req, timeout=timeout) as r:
         return r.read()
 
@@ -176,14 +178,17 @@ YT_LOCK = threading.Lock()
 
 def yt_feed_url(handle):
     """Dal nome del canale (es. @DAZNBoxing) trova il feed ufficiale dei video. Ricorda il risultato in data/yt_ids.json."""
-    p = DATA / "yt_ids.json"
+    p = DATA / "yt_ids2.json"
     with YT_LOCK:
         try: ids = json.loads(p.read_text(encoding="utf-8"))
         except Exception: ids = {}
     cid = ids.get(handle)
     if not cid:
-        page = fetch("https://www.youtube.com/" + handle.lstrip("/"), timeout=15).decode("utf-8", "replace")
-        m = re.search(r'"channelId":"(UC[\w-]{22})"', page) or re.search(r'channel_id=(UC[\w-]{22})', page) or re.search(r'"externalId":"(UC[\w-]{22})"', page)
+        page = fetch("https://www.youtube.com/" + handle.lstrip("/"), timeout=15, extra={"Cookie": "CONSENT=YES+cb; SOCS=CAI"}).decode("utf-8", "replace")
+        m = (re.search(r'<link rel="canonical" href="https://www\.youtube\.com/channel/(UC[\w-]{22})"', page)
+             or re.search(r'<meta itemprop="(?:identifier|channelId)" content="(UC[\w-]{22})"', page)
+             or re.search(r'"externalId":"(UC[\w-]{22})"', page)
+             or re.search(r'"browseId":"(UC[\w-]{22})"', page))
         if not m: raise ValueError("canale YouTube non trovato")
         cid = m.group(1)
         with YT_LOCK:
