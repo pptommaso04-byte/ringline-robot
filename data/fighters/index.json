@@ -26287,5 +26287,57 @@
  },
  "Onorede Ehwareme": {
   "tried": "2026-11-11T19:25:32+00:00"
+ },
+ "Simanga Shiba": {
+  "tried": "2026-11-11T19:31:03+00:00"
+ },
+ "Benjamin Kelleher": {
+  "slug": "benjamin-kelleher",
+  "updated": "2026-11-11T19:31:08+00:00",
+  "total": 17,
+  "verified": 0,
+  "record": {
+   "w": 15,
+   "l": 0,
+   "d": 2,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "it"
+  ]
+ },
+ "Javier Prieto (boxer)": {
+  "slug": "javier-prieto-boxer",
+  "updated": "2026-11-11T19:31:11+00:00",
+  "total": 7,
+  "verified": 0,
+  "record": {
+   "w": 3,
+   "l": 3,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Iván Cano (boxer)": {
+  "tried": "2026-11-11T19:31:03+00:00"
+ },
+ "Jorge Sebastian Heiland": {
+  "slug": "jorge-sebastian-heiland",
+  "updated": "2026-11-11T19:31:16+00:00",
+  "total": 36,
+  "verified": 0,
+  "record": {
+   "w": 29,
+   "l": 5,
+   "d": 2,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
