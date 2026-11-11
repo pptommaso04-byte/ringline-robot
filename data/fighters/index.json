@@ -1,7 +1,7 @@
 {
  "Oleksandr Usyk": {
   "slug": "oleksandr-usyk",
-  "updated": "2026-11-10T17:01:33+00:00",
+  "updated": "2026-11-11T13:05:39+00:00",
   "total": 25,
   "verified": 25,
   "record": {
@@ -18,7 +18,7 @@
  },
  "Tyson Fury": {
   "slug": "tyson-fury",
-  "updated": "2026-11-10T17:01:36+00:00",
+  "updated": "2026-11-11T13:05:42+00:00",
   "total": 39,
   "verified": 39,
   "record": {
@@ -22728,6 +22728,27 @@
   "record": {
    "w": 10,
    "l": 2,
+   "d": 2,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Luis Ramos Jr.": {
+  "tried": "2026-11-11T13:05:34+00:00"
+ },
+ "Ehsan Rouzbahani": {
+  "tried": "2026-11-11T13:05:34+00:00"
+ },
+ "Hernán Márquez": {
+  "slug": "hernan-marquez",
+  "updated": "2026-11-11T13:05:50+00:00",
+  "total": 59,
+  "verified": 0,
+  "record": {
+   "w": 47,
+   "l": 10,
    "d": 2,
    "nc": 0
   },
