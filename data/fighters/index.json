@@ -14621,5 +14621,58 @@
    "it",
    "es"
   ]
+ },
+ "Liam Williams (boxer)": {
+  "slug": "liam-williams-boxer",
+  "updated": "2026-11-11T01:31:23+00:00",
+  "total": 31,
+  "verified": 0,
+  "record": {
+   "w": 25,
+   "l": 5,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "it"
+  ]
+ },
+ "Yang Liu (boxer)": {
+  "tried": "2026-11-11T01:31:14+00:00"
+ },
+ "Wang Cong": {
+  "slug": "wang-cong",
+  "updated": "2026-11-11T01:31:32+00:00",
+  "total": 9,
+  "verified": 0,
+  "record": {
+   "w": 8,
+   "l": 0,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "es"
+  ]
+ },
+ "Bobby Lynn Bryant": {
+  "tried": "2026-11-11T01:31:14+00:00"
+ },
+ "Konstantin Ponomarev (boxer)": {
+  "slug": "konstantin-ponomarev-boxer",
+  "updated": "2026-11-11T01:31:40+00:00",
+  "total": 40,
+  "verified": 0,
+  "record": {
+   "w": 35,
+   "l": 5,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
