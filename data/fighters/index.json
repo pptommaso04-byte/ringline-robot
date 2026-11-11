@@ -18075,5 +18075,60 @@
  },
  "Moroke Mokhotho": {
   "tried": "2026-11-11T06:35:42+00:00"
+ },
+ "Vic Saludar": {
+  "slug": "vic-saludar",
+  "updated": "2026-11-11T06:40:49+00:00",
+  "total": 34,
+  "verified": 0,
+  "record": {
+   "w": 28,
+   "l": 6,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Achraf Kharroubi": {
+  "tried": "2026-11-11T06:40:44+00:00"
+ },
+ "Edith Ogoke": {
+  "tried": "2026-11-11T06:40:44+00:00"
+ },
+ "Javier Fortuna": {
+  "slug": "javier-fortuna",
+  "updated": "2026-11-11T06:40:56+00:00",
+  "total": 49,
+  "verified": 0,
+  "record": {
+   "w": 39,
+   "l": 7,
+   "d": 1,
+   "nc": 2
+  },
+  "langs": [
+   "en",
+   "it",
+   "pt"
+  ]
+ },
+ "Ivan Dychko": {
+  "slug": "ivan-dychko",
+  "updated": "2026-11-11T06:41:02+00:00",
+  "total": 17,
+  "verified": 0,
+  "record": {
+   "w": 16,
+   "l": 1,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "es",
+   "fr"
+  ]
  }
 }
