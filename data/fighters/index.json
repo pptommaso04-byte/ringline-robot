@@ -16014,5 +16014,58 @@
  },
  "Elías Emigdio": {
   "tried": "2026-11-11T03:31:07+00:00"
+ },
+ "Mike Towell": {
+  "tried": "2026-11-11T03:35:39+00:00"
+ },
+ "Josh Taylor (boxer)": {
+  "slug": "josh-taylor-boxer",
+  "updated": "2026-11-11T03:35:46+00:00",
+  "total": 22,
+  "verified": 0,
+  "record": {
+   "w": 19,
+   "l": 3,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "es"
+  ]
+ },
+ "Erik Skoglund (boxer)": {
+  "slug": "erik-skoglund-boxer",
+  "updated": "2026-11-11T03:35:50+00:00",
+  "total": 27,
+  "verified": 0,
+  "record": {
+   "w": 26,
+   "l": 1,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Heybatulla Hajialiyev": {
+  "tried": "2026-11-11T03:35:39+00:00"
+ },
+ "Rustam Tulaganov": {
+  "slug": "rustam-tulaganov",
+  "updated": "2026-11-11T03:35:56+00:00",
+  "total": 4,
+  "verified": 0,
+  "record": {
+   "w": 4,
+   "l": 0,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "it"
+  ]
  }
 }
