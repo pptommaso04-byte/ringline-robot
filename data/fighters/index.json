@@ -20221,5 +20221,57 @@
    "en",
    "fr"
   ]
+ },
+ "Álvaro Robles (boxer)": {
+  "tried": "2026-11-11T09:40:46+00:00"
+ },
+ "Alex Love": {
+  "tried": "2026-11-11T09:40:46+00:00"
+ },
+ "Andy Ruiz Jr.": {
+  "slug": "andy-ruiz-jr",
+  "updated": "2026-11-11T09:40:56+00:00",
+  "total": 39,
+  "verified": 36,
+  "record": {
+   "w": 35,
+   "l": 3,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "it"
+  ]
+ },
+ "Mahonri Montes": {
+  "slug": "mahonri-montes",
+  "updated": "2026-11-11T09:41:00+00:00",
+  "total": 48,
+  "verified": 0,
+  "record": {
+   "w": 36,
+   "l": 10,
+   "d": 2,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Miguel Beltrán Jr.": {
+  "slug": "miguel-beltran-jr",
+  "updated": "2026-11-11T09:41:06+00:00",
+  "total": 44,
+  "verified": 0,
+  "record": {
+   "w": 35,
+   "l": 8,
+   "d": 0,
+   "nc": 1
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
