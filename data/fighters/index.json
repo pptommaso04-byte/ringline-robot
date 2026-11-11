@@ -21101,5 +21101,70 @@
    "en",
    "fr"
   ]
+ },
+ "Valentino Manfredonia": {
+  "slug": "valentino-manfredonia",
+  "updated": "2026-11-11T10:50:52+00:00",
+  "total": 2,
+  "verified": 0,
+  "record": {
+   "w": 2,
+   "l": 0,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "it"
+  ]
+ },
+ "Qamil Balla": {
+  "slug": "qamil-balla",
+  "updated": "2026-11-11T10:50:56+00:00",
+  "total": 18,
+  "verified": 0,
+  "record": {
+   "w": 15,
+   "l": 2,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Terry Flanagan (boxer)": {
+  "slug": "terry-flanagan-boxer",
+  "updated": "2026-11-11T10:51:02+00:00",
+  "total": 38,
+  "verified": 0,
+  "record": {
+   "w": 36,
+   "l": 2,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "pt"
+  ]
+ },
+ "Billel Dib": {
+  "tried": "2026-11-11T10:50:44+00:00"
+ },
+ "Jonathan Guzmán": {
+  "slug": "jonathan-guzman",
+  "updated": "2026-11-11T10:51:10+00:00",
+  "total": 30,
+  "verified": 0,
+  "record": {
+   "w": 27,
+   "l": 2,
+   "d": 0,
+   "nc": 1
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
