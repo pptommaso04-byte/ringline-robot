@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-11T03:25:53+00:00",
- "feeds_ok": 49,
- "feeds_failed": 4,
+ "updated": "2026-11-11T03:26:34+00:00",
+ "feeds_ok": 50,
+ "feeds_failed": 3,
  "news": [
   {
    "title": "Alycia Baumgardner Becomes A Two-Division Champion",
@@ -143,7 +143,7 @@
    "date": "2026-11-11T01:25:47+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 84,
+   "score": 83,
    "sources_n": 1,
    "title_it": "WBC sposta Pacheco verso Canelo nonostante il record sottile",
    "title_es": "WBC mueve a Pacheco hacia el Canelo a pesar de su delgado récord"
@@ -462,7 +462,7 @@
    "boxers": [
     "Naoya Inoue"
    ],
-   "score": 91,
+   "score": 90,
    "sources_n": 2,
    "title_it": "Ramon Cardenas testa Junto Nakatani dopo la perdita di Inoue",
    "title_es": "Ramón Cárdenas prueba junto a Nakatani después de la pérdida de Inoue"
@@ -668,8 +668,8 @@
    "date": "2026-11-10T17:26:01+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 63,
-   "sources_n": 4,
+   "score": 62,
+   "sources_n": 5,
    "title_it": "19 anni fa oggi, Miguel Cotto sconfisse Shane Mosley dall'UD in un combattimento molto serrato.",
    "title_es": "Hoy hace 19 años, Miguel Cotto derrotó a Shane Mosley por UD en una pelea muy reñida."
   },
@@ -2270,7 +2270,7 @@
     "Anthony Joshua"
    ],
    "score": 106,
-   "sources_n": 13,
+   "sources_n": 12,
    "title_it": "La prospettiva dei pesi massimi statunitensi di Dana White corre per atterrare sulla undercard Tyson Fury vs Anthony Joshua",
    "title_es": "El prospecto de peso pesado estadounidense de Dana White en carrera para aterrizar en la cartelera preliminar de Tyson Fury vs Anthony Joshua"
   },
@@ -4060,6 +4060,37 @@
    "sources_n": 1,
    "title_it": "Momento terrificante: il combattente a mani nude viene brutalmente messo KO e cade sulla tela come una statua",
    "title_es": "Aterrador momento en que un luchador con los nudillos desnudos es brutalmente noqueado y cae a la lona como una estatua."
+  },
+  {
+   "title": "Denzel Bentley overcomes relentless Shane Mosley Jr before calling out Conor Benn for Battle of Britain fight",
+   "link": "https://www.thesun.co.uk/sport/40955631/denzel-bentley-shane-mosley-jr-fight-conor-benn/",
+   "source": "The Sun Boxing",
+   "lang": "en",
+   "date": "2026-11-07T22:32:43+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Denzel Bentley",
+    "Shane Mosley Jr"
+   ],
+   "score": 85,
+   "sources_n": 7,
+   "title_it": "Denzel Bentley supera l'implacabile Shane Mosley Jr prima di chiamare Conor Benn per la battaglia della Battaglia d'Inghilterra",
+   "title_es": "Denzel Bentley vence al implacable Shane Mosley Jr antes de convocar a Conor Benn para la pelea de la Batalla de Inglaterra"
+  },
+  {
+   "title": "Denzel Bentley IS ON THE ATTACK 💥#ZuffaBoxing12",
+   "link": "https://www.youtube.com/watch?v=bczQq-m8Vm4",
+   "source": "YouTube Zuffa Boxing",
+   "lang": "en",
+   "date": "2026-11-07T22:09:01+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Denzel Bentley"
+   ],
+   "score": 65,
+   "sources_n": 6,
+   "title_it": "Denzel Bentley È ALL'ATTACCO 💥#ZuffaBoxing12",
+   "title_es": "Denzel Bentley está AL ATAQUE 💥#ZuffaBoxing12"
   }
  ]
 }
