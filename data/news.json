@@ -1,8 +1,21 @@
 {
- "updated": "2026-11-11T11:53:27+00:00",
+ "updated": "2026-11-11T11:55:33+00:00",
  "feeds_ok": 49,
  "feeds_failed": 4,
  "news": [
+  {
+   "title": "Canelo Álvarez: Campeón del Mes WBC | Noviembre 2026 - World Boxing Council",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE11Zzdqck9LRHpLdU55cHNkbFJUa2ktZzM0M2NRbUFrU3ZoaFg4NmcxODdoUGhqVVhneW1lLXctSG1DSTdaZjFESl9SZ191UlRNR1picHV1aFhneGZBMlZ5VldRSUdzVV9KSGdVMDM3ZDVILVdYOWJuQXNBNkM?oc=5",
+   "source": "Google News: boxeo",
+   "lang": "es",
+   "date": "2026-11-11T11:43:26+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 94,
+   "sources_n": 4,
+   "title_it": "Canelo Álvarez: Campione WBC del mese | Novembre 2026 - World Boxing Council",
+   "title_es": "Canelo Álvarez: Campeón del Mes WBC | Noviembre 2026 - World Boxing Council"
+  },
   {
    "title": "Heavyweight Showboats Like Ali, Gets Knocked Out Cold by One Punch",
    "link": "https://www.worldboxingnews.com/rydell-booker-ali-showboating-knockout/",
@@ -482,7 +495,7 @@
    "date": "2026-11-11T01:54:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 98,
+   "score": 97,
    "sources_n": 4,
    "title_it": "Haney e Paro si incontrano faccia a faccia per annunciare l'Unification Clash del 19 dicembre",
    "title_es": "Haney y Paro se encuentran cara a cara para anunciar el choque de unificación del 19 de diciembre"
@@ -2303,7 +2316,7 @@
    "date": "2026-11-09T17:54:25+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 57,
+   "score": 56,
    "sources_n": 6,
    "title_it": "Alycia Baumgardner elimina Elif Nur Turhan e vince il titolo dei pesi leggeri IBF",
    "title_es": "Alycia Baumgardner supera a Elif Nur Turhan para ganar el título de peso ligero de la FIB"
@@ -3887,8 +3900,8 @@
    "boxers": [
     "Joshua Buatsi"
    ],
-   "score": 68,
-   "sources_n": 4,
+   "score": 58,
+   "sources_n": 3,
    "title_it": "Hutchinson batte Buatsi per vincere il titolo dei pesi massimi leggeri WBC",
    "title_es": "Hutchinson vence a Buatsi para ganar el título semipesado del CMB"
   },
@@ -4030,22 +4043,6 @@
    "sources_n": 5,
    "title_it": "Zuffa Boxe 12 risultati, IN evidenza: Cheavon Clarke ferma Chris Billam-Smith, Da' MazionVanhouter brilla di nuovo",
    "title_es": "Zuffa Boxing 12 resultados, destacados: Cheavon Clarke detiene a Chris Billam-Smith, Da 'Mazion Vanhouter vuelve a brillar"
-  },
-  {
-   "title": "Willy Hutchinson breaks down in ring as he beats Joshua Buatsi by unanimous decision to win WBC title and get revenge",
-   "link": "https://www.thesun.co.uk/sport/40956220/willy-hutchinson-beats-joshua-buatsi-wbc-title-boxing-result/",
-   "source": "The Sun Boxing",
-   "lang": "en",
-   "date": "2026-11-07T23:19:56+00:00",
-   "status": "confirmed",
-   "boxers": [
-    "Joshua Buatsi",
-    "Anthony Joshua"
-   ],
-   "score": 103,
-   "sources_n": 8,
-   "title_it": "Willy Hutchinson crolla sul ring mentre batte Joshua Buatsi con decisione unanime di vincere il titolo WBC e vendicarsi",
-   "title_es": "Willy Hutchinson se derrumba en el ring al vencer a Joshua Buatsi por decisión unánime para ganar el título del CMB y vengarse."
   }
  ]
 }
