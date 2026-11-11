@@ -14540,5 +14540,86 @@
  },
  "Bunjong Sinsiri": {
   "tried": "2026-11-11T01:20:45+00:00"
+ },
+ "Patrick Day": {
+  "slug": "patrick-day",
+  "updated": "2026-11-11T01:25:42+00:00",
+  "total": 22,
+  "verified": 0,
+  "record": {
+   "w": 17,
+   "l": 4,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Guram Kutateladze (fighter)": {
+  "slug": "guram-kutateladze-fighter",
+  "updated": "2026-11-11T01:25:45+00:00",
+  "total": 2,
+  "verified": 0,
+  "record": {
+   "w": 1,
+   "l": 1,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Daniele Scardina": {
+  "slug": "daniele-scardina",
+  "updated": "2026-11-11T01:25:52+00:00",
+  "total": 20,
+  "verified": 17,
+  "record": {
+   "w": 19,
+   "l": 1,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "it"
+  ]
+ },
+ "Emmanuel Rodríguez": {
+  "slug": "emmanuel-rodriguez",
+  "updated": "2026-11-11T01:25:57+00:00",
+  "total": 27,
+  "verified": 0,
+  "record": {
+   "w": 23,
+   "l": 3,
+   "d": 0,
+   "nc": 1
+  },
+  "langs": [
+   "en",
+   "it",
+   "es",
+   "pt"
+  ]
+ },
+ "Erik Ruiz": {
+  "slug": "erik-ruiz",
+  "updated": "2026-11-11T01:26:04+00:00",
+  "total": 29,
+  "verified": 0,
+  "record": {
+   "w": 17,
+   "l": 11,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "it",
+   "es"
+  ]
  }
 }
