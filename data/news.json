@@ -1,8 +1,23 @@
 {
- "updated": "2026-11-11T06:25:36+00:00",
+ "updated": "2026-11-11T06:30:59+00:00",
  "feeds_ok": 50,
  "feeds_failed": 3,
  "news": [
+  {
+   "title": "Why Fury was born to fight",
+   "link": "https://www.bbc.co.uk/sport/boxing/videos/cwx29gd12xjko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport Boxing",
+   "lang": "en",
+   "date": "2026-11-11T06:24:24+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Tyson Fury"
+   ],
+   "score": 39,
+   "sources_n": 1,
+   "title_it": "Perché Fury è nata per combattere",
+   "title_es": "Por qué Fury nació para luchar"
+  },
   {
    "title": "L’ex pugile Christian Balsamo: «Ho perso mio padre quando avevo 5 mesi e mia madre si è allontanata quando ero bambino. Quelle esperienze fanno parte di me, ma non decidono chi sono. Quando mi si è “spenta” una mano ho capito che dovevo cambiare - Vanity Fair Italia",
    "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNS0FLMTdsWDJKUHlFSWtmekFXay1VMnY0R0UzN3BBNUhyUVZTckdlTlA5d0U2MkNobEtHc2wwTU5YUEZKVWRNLVZtN0h5RWJ3WV9JWk8xTkNIUnNIM2xndmtDd0RIaDNUVU5fdF9xcC1KVHBfTnBrQTZJazhOS1RqVDlpMHZtRng1Ty1LbHJ6VnZsaTYzbXFQTjE2RmVNSFVXaVVNcmVwYlFhd0I5S3ZENmJpVllzX09MSFNBbWwzemJoSHVkMTRzRUtKYkR4NDJRQ1lNQjJUZnBQUnlncGUwN3dyMHI4MnRLLUxPb3FYS25kNGFEVXItSmllbHFoWlpiTWJqdlVSQ3RiMVp5Z0pFQ3BfNFFwMk1aTi0tY2xqNzIwdTJQWExFcDVWZTJIMVBUR1BJ?oc=5",
@@ -551,7 +566,7 @@
    "date": "2026-11-10T20:29:27+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 100,
+   "score": 99,
    "sources_n": 4,
    "title_it": "El boxeader Canelo Álvarez buscará revanchas con Bivol y Crawford",
    "title_es": "El boxeador Canelo Álvarez buscará revanchas con Bivol y Crawford"
@@ -676,7 +691,7 @@
    "date": "2026-11-10T18:29:36+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 97,
+   "score": 96,
    "sources_n": 2,
    "title_it": "Julio Cesar Chavez riassume la performance di Canelo nella vittoria decisiva contro Christian Mbilli per il titolo WBC",
    "title_es": "Julio César Chávez resume el desempeño de Canelo en la victoria por decisión contra Christian Mbilli por el título del CMB"
@@ -934,7 +949,7 @@
    "date": "2026-11-10T16:29:50+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 63,
+   "score": 62,
    "sources_n": 4,
    "title_it": "La gala de la Convención WBC en Acapulco celebra la grandeza y la solidaridad del boxeo - World Boxing Council",
    "title_es": "La gala de la Convención WBC en Acapulco celebra la grandeza y la solidaridad del boxeo - World Boxing Council"
@@ -1154,7 +1169,7 @@
    "boxers": [
     "Canelo Alvarez"
    ],
-   "score": 107,
+   "score": 106,
    "sources_n": 5,
    "title_it": "\"Lo mangerà\": Tim Bradley predice Canelo Alvarez contro Hamzah Sheeraz",
    "title_es": "\"Se lo comerá\": Tim Bradley predice Canelo Alvarez vs Hamzah Sheeraz"
@@ -2476,7 +2491,7 @@
    "date": "2026-11-09T14:28:43+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 20,
+   "score": 19,
    "sources_n": 2,
    "title_it": "Shields vs Cameron: Tweet cancellato, Nave salpata, Combattimento nel Limbo",
    "title_es": "Shields vs Cameron: Tweet eliminado, barco zarpó, pelea en el limbo"
@@ -2645,7 +2660,7 @@
    "date": "2026-11-09T12:30:30+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 44,
+   "score": 43,
    "sources_n": 2,
    "title_it": "\"Combatteremo?!\" 🥊 Caroline Dubois interrompe l'intervista post-combattimento di Alycia Baumgardner! 😲",
    "title_es": "\"¡¿Vamos a pelear ?!\" 🥊 ¡Caroline Dubois interrumpe la entrevista posterior a la pelea de Alycia Baumgardner! 😲"
@@ -2937,7 +2952,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 92,
+   "score": 91,
    "sources_n": 10,
    "title_it": "Tyson Fury rivela i veri sentimenti verso l'ex allenatore ora con Anthony Joshua",
    "title_es": "Tyson Fury revela sus verdaderos sentimientos hacia el exentrenador ahora con Anthony Joshua"
@@ -3882,8 +3897,8 @@
    "boxers": [
     "Joshua Buatsi"
    ],
-   "score": 68,
-   "sources_n": 4,
+   "score": 58,
+   "sources_n": 3,
    "title_it": "Hutchinson batte Buatsi per vincere il titolo dei pesi massimi leggeri WBC",
    "title_es": "Hutchinson vence a Buatsi para ganar el título semipesado del CMB"
   },
@@ -4025,22 +4040,6 @@
    "sources_n": 6,
    "title_it": "Risultati Zuffa Boxing 12, highlights: Cheavon Clarke ferma Chris Billam-Smith, Da'Mazion Vanhouter torna a brillare",
    "title_es": "Resultados de Zuffa Boxing 12, destacados: Cheavon Clarke detiene a Chris Billam-Smith, Da'Mazion Vanhouter brilla de nuevo"
-  },
-  {
-   "title": "Willy Hutchinson breaks down in ring as he beats Joshua Buatsi by unanimous decision to win WBC title and get revenge",
-   "link": "https://www.thesun.co.uk/sport/40956220/willy-hutchinson-beats-joshua-buatsi-wbc-title-boxing-result/",
-   "source": "The Sun Boxing",
-   "lang": "en",
-   "date": "2026-11-07T23:19:56+00:00",
-   "status": "confirmed",
-   "boxers": [
-    "Joshua Buatsi",
-    "Anthony Joshua"
-   ],
-   "score": 103,
-   "sources_n": 9,
-   "title_it": "Willy Hutchinson si rompe sul ring mentre batte Joshua Buatsi per decisione unanime di vincere il titolo WBC e vendicarsi",
-   "title_es": "Willy Hutchinson se derrumba en el ring mientras vence a Joshua Buatsi por decisión unánime de ganar el título del CMB y vengarse"
   }
  ]
 }
