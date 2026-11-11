@@ -27202,5 +27202,57 @@
  },
  "Serge Ambomo": {
   "tried": "2026-11-11T21:35:44+00:00"
+ },
+ "Manoj Kumar (boxer)": {
+  "tried": "2026-11-11T21:41:01+00:00"
+ },
+ "Kōki Kameda": {
+  "slug": "koki-kameda",
+  "updated": "2026-11-11T21:41:07+00:00",
+  "total": 35,
+  "verified": 0,
+  "record": {
+   "w": 33,
+   "l": 2,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Carlos Banteux": {
+  "tried": "2026-11-11T21:41:01+00:00"
+ },
+ "Yordenis Ugás": {
+  "slug": "yordenis-ugas",
+  "updated": "2026-11-11T21:41:15+00:00",
+  "total": 34,
+  "verified": 30,
+  "record": {
+   "w": 28,
+   "l": 6,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "pt"
+  ]
+ },
+ "Charles Martin (boxer)": {
+  "slug": "charles-martin-boxer",
+  "updated": "2026-11-11T21:41:19+00:00",
+  "total": 36,
+  "verified": 0,
+  "record": {
+   "w": 30,
+   "l": 5,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
