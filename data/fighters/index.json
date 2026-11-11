@@ -15139,5 +15139,71 @@
  },
  "Muideen Akanji": {
   "tried": "2026-11-11T02:20:53+00:00"
+ },
+ "Jorgelina Guanini": {
+  "slug": "jorgelina-guanini",
+  "updated": "2026-11-11T02:25:57+00:00",
+  "total": 17,
+  "verified": 0,
+  "record": {
+   "w": 10,
+   "l": 5,
+   "d": 2,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "es",
+   "fr"
+  ]
+ },
+ "Nanae Suzuki": {
+  "slug": "nanae-suzuki",
+  "updated": "2026-11-11T02:26:03+00:00",
+  "total": 18,
+  "verified": 0,
+  "record": {
+   "w": 11,
+   "l": 6,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Subriel Matías": {
+  "slug": "subriel-matias",
+  "updated": "2026-11-11T02:26:08+00:00",
+  "total": 26,
+  "verified": 22,
+  "record": {
+   "w": 23,
+   "l": 3,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "es"
+  ]
+ },
+ "Georgiy Yunovidov": {
+  "slug": "georgiy-yunovidov",
+  "updated": "2026-11-11T02:26:11+00:00",
+  "total": 13,
+  "verified": 0,
+  "record": {
+   "w": 11,
+   "l": 2,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Artem Ageev": {
+  "tried": "2026-11-11T02:25:50+00:00"
  }
 }
