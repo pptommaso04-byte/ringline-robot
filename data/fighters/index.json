@@ -20851,5 +20851,60 @@
   "langs": [
    "en"
   ]
+ },
+ "Juan José Montes": {
+  "tried": "2026-11-11T10:31:01+00:00"
+ },
+ "Mohammad Ghossoun": {
+  "tried": "2026-11-11T10:31:01+00:00"
+ },
+ "Kazuto Ioka": {
+  "slug": "kazuto-ioka",
+  "updated": "2026-11-11T10:31:09+00:00",
+  "total": 38,
+  "verified": 29,
+  "record": {
+   "w": 32,
+   "l": 5,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "it",
+   "es",
+   "pt"
+  ]
+ },
+ "Siarhei Novikau (boxer)": {
+  "slug": "siarhei-novikau-boxer",
+  "updated": "2026-11-11T10:31:12+00:00",
+  "total": 10,
+  "verified": 0,
+  "record": {
+   "w": 9,
+   "l": 0,
+   "d": 0,
+   "nc": 1
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Kiryl Relikh": {
+  "slug": "kiryl-relikh",
+  "updated": "2026-11-11T10:31:15+00:00",
+  "total": 26,
+  "verified": 0,
+  "record": {
+   "w": 23,
+   "l": 3,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "pt"
+  ]
  }
 }
