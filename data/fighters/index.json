@@ -25443,5 +25443,68 @@
  },
  "Ayşe Taş": {
   "tried": "2026-11-11T18:15:44+00:00"
+ },
+ "Rolando Giono": {
+  "slug": "rolando-giono",
+  "updated": "2026-11-11T18:21:28+00:00",
+  "total": 35,
+  "verified": 0,
+  "record": {
+   "w": 22,
+   "l": 12,
+   "d": 0,
+   "nc": 1
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Alexis Díaz (boxer)": {
+  "slug": "alexis-diaz-boxer",
+  "updated": "2026-11-11T18:21:34+00:00",
+  "total": 33,
+  "verified": 0,
+  "record": {
+   "w": 28,
+   "l": 5,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Daud Yordan": {
+  "slug": "daud-yordan",
+  "updated": "2026-11-11T18:21:38+00:00",
+  "total": 36,
+  "verified": 0,
+  "record": {
+   "w": 31,
+   "l": 4,
+   "d": 0,
+   "nc": 1
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Ryan Sermona": {
+  "tried": "2026-11-11T18:21:23+00:00"
+ },
+ "Jujeath Nagaowa": {
+  "slug": "jujeath-nagaowa",
+  "updated": "2026-11-11T18:21:43+00:00",
+  "total": 33,
+  "verified": 0,
+  "record": {
+   "w": 13,
+   "l": 19,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
