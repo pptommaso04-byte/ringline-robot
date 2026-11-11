@@ -22036,5 +22036,69 @@
  },
  "Rodrigo Guerrero (boxer)": {
   "tried": "2026-11-11T11:55:33+00:00"
+ },
+ "Arik Braun": {
+  "tried": "2026-11-11T12:01:18+00:00"
+ },
+ "Edmund Gerber": {
+  "slug": "edmund-gerber",
+  "updated": "2026-11-11T12:01:24+00:00",
+  "total": 30,
+  "verified": 0,
+  "record": {
+   "w": 28,
+   "l": 2,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Anthony Ogogo": {
+  "slug": "anthony-ogogo",
+  "updated": "2026-11-11T12:01:28+00:00",
+  "total": 12,
+  "verified": 11,
+  "record": {
+   "w": 11,
+   "l": 1,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "it"
+  ]
+ },
+ "Manyo Plange": {
+  "slug": "manyo-plange",
+  "updated": "2026-11-11T12:01:30+00:00",
+  "total": 22,
+  "verified": 0,
+  "record": {
+   "w": 21,
+   "l": 0,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Andrew Selby": {
+  "slug": "andrew-selby",
+  "updated": "2026-11-11T12:01:37+00:00",
+  "total": 14,
+  "verified": 0,
+  "record": {
+   "w": 13,
+   "l": 1,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
