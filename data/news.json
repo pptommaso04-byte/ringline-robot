@@ -1,8 +1,24 @@
 {
- "updated": "2026-11-11T23:10:44+00:00",
- "feeds_ok": 49,
- "feeds_failed": 4,
+ "updated": "2026-11-11T23:15:56+00:00",
+ "feeds_ok": 48,
+ "feeds_failed": 5,
  "news": [
+  {
+   "title": "Tyson Fury vs Anthony Joshua: con Wilder en la cartelera, se han anunciado los principales cruces en la función desde Cardiff - La Crónica de Hoy",
+   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOa1VJM0FHdFdvTXJVc1JqOWhQSmtET3pucF9jOXVpWlNZbnpPbl9WeWVkVk9COWh2U29nT2k5eERMMUkyQUpZUF8zSENsLXFSaGRjb0pnbHcyRUxSR0hRX1VHT3ZBWC1BUUlxLUhmckN2UkxnbWtBdmJnaGZoSUVMYUh6S0RUWjNIX1NnWWJJQUUxR3ZnQzlrcEtNLVJfbk9Wbm0tM2Rpemx0Ujc1TFFnV1BWQS1Vemw2N0lSLS1EOHdZSUlPdlBScDBsbzRRM1BGbzI0VmMwSWNWRHZ5czcxX1FPc3J3aHhDR1JhazhUY3BPM01CaXg2RFVWdU5lUGk0?oc=5",
+   "source": "Google News: boxeo",
+   "lang": "es",
+   "date": "2026-11-11T23:10:40+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Tyson Fury",
+    "Anthony Joshua"
+   ],
+   "score": 114,
+   "sources_n": 15,
+   "title_it": "Tyson Fury vs Anthony Joshua: con Wilder sulla carta, annunciate le partite principali nello show di Cardiff - La Crónica de Hoy",
+   "title_es": "Tyson Fury vs Anthony Joshua: con Wilder en la cartelera, se han anunciado los principales cruces en la función desde Cardiff - La Crónica de Hoy"
+  },
   {
    "title": "Tyson Fury vs. Anthony Joshua main card fights announced",
    "link": "https://bigfightweekend.com/2026/11/11/tyson-fury-anthony-joshua-main-card/",
@@ -15,7 +31,7 @@
     "Anthony Joshua"
    ],
    "score": 124,
-   "sources_n": 14,
+   "sources_n": 15,
    "title_it": "Annunciati i combattimenti delle carte principali tra Tyson Fury e Anthony Joshua",
    "title_es": "Se anuncian las peleas principales de Tyson Fury vs. Anthony Joshua"
   },
@@ -215,7 +231,7 @@
    "date": "2026-11-11T21:13:58+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 54,
+   "score": 53,
    "sources_n": 1,
    "title_it": "L’ex campione dei pesi supermedi dice che Canelo non sarebbe mai sopravvissuto alla sua epoca: “Diavolo no”",
    "title_es": "Ex campeón súper mediano dice que Canelo nunca habría sobrevivido en su época: “Diablos, no”"
@@ -231,8 +247,8 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 124,
-   "sources_n": 14,
+   "score": 123,
+   "sources_n": 15,
    "title_it": "Scheda di combattimento Tyson Fury contro Anthony Joshua: coppia di combattimenti dei pesi massimi aggiunti allo show Netflix",
    "title_es": "Cartelera de pelea entre Tyson Fury y Anthony Joshua: se agregaron un par de peleas de peso pesado al programa de Netflix"
   },
@@ -248,7 +264,7 @@
     "Anthony Joshua"
    ],
    "score": 68,
-   "sources_n": 14,
+   "sources_n": 15,
    "title_it": "Bakole e Vanhouter si sono aggiunti alla undercard Fury vs Joshua",
    "title_es": "Bakole y Vanhouter agregados a la cartelera de Fury vs Joshua"
   },
@@ -264,7 +280,7 @@
     "Anthony Joshua"
    ],
    "score": 113,
-   "sources_n": 14,
+   "sources_n": 15,
    "title_it": "Tyson Fury vs Anthony Joshua undercard: chi altro è sul conto di Cardiff costellato di stelle?",
    "title_es": "Cartelera secundaria de Tyson Fury vs Anthony Joshua: ¿Quién más está en el cartel repleto de estrellas de Cardiff?"
   },
@@ -311,7 +327,7 @@
     "Anthony Joshua"
    ],
    "score": 86,
-   "sources_n": 14,
+   "sources_n": 15,
    "title_it": "Martin Bakole lotta per il ritorno contro i pesi massimi imbattuti annunciata per Fury vs Joshua undercard",
    "title_es": "Se anuncia la pelea de regreso de Martin Bakole contra el peso pesado invicto para la cartelera de Fury vs Joshua"
   },
@@ -340,7 +356,7 @@
     "Anthony Joshua"
    ],
    "score": 113,
-   "sources_n": 16,
+   "sources_n": 17,
    "title_it": "Netflix rivela l'undercard completo per l'enorme incontro tra Tyson Fury e Anthony Joshua soprannominato \"La più grande notte della boxe\"",
    "title_es": "Netflix revela la cartelera completa para la pelea masiva entre Tyson Fury y Anthony Joshua denominada 'La noche más grande del boxeo'"
   },
@@ -356,7 +372,7 @@
     "Anthony Joshua"
    ],
    "score": 123,
-   "sources_n": 14,
+   "sources_n": 15,
    "title_it": "La prossima \"superstar dei pesi massimi\" americana sarà fissata per Tyson Fury contro Anthony Joshua undercard",
    "title_es": "La próxima 'superestrella del peso pesado' estadounidense está lista para la cartelera de Tyson Fury vs Anthony Joshua"
   },
@@ -632,7 +648,7 @@
     "Anthony Joshua"
    ],
    "score": 66,
-   "sources_n": 13,
+   "sources_n": 14,
    "title_it": "I residenti di Cardiff si oppongono al piano di Netflix per Fury-Joshua alle 3 del mattino",
    "title_es": "Los vecinos de Cardiff se oponen al plan de Netflix de emitir el combate Fury-Joshua a las 3 de la madrugada"
   },
@@ -735,7 +751,7 @@
    "date": "2026-11-11T15:14:24+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 26,
+   "score": 25,
    "sources_n": 1,
    "title_it": "Mauro Mina contro Henry Hank",
    "title_es": "Mauro Mina contra Henry Hank"
@@ -860,7 +876,7 @@
     "Anthony Joshua"
    ],
    "score": 118,
-   "sources_n": 14,
+   "sources_n": 15,
    "title_it": "Il vincitore di Tyson Fury contro Anthony Joshua ha esortato ad affrontare il prossimo rivale \"hard done by\"",
    "title_es": "Se insta al ganador de Tyson Fury vs. Anthony Joshua a enfrentar a su rival 'duro hecho por' el próximo"
   },
@@ -872,8 +888,8 @@
    "date": "2026-11-11T14:42:52+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 50,
-   "sources_n": 1,
+   "score": 60,
+   "sources_n": 2,
    "title_it": "Julio César Chávez coloca a Canelo entre los mejores boxeadores mexicanos de la historia: “Hay que valorarlo” - Sports Illustrated",
    "title_es": "Julio César Chávez coloca a Canelo entre los mejores boxeadores mexicanos de la historia: “Hay que valorarlo” - Sports Illustrated"
   },
@@ -928,7 +944,7 @@
     "Anthony Joshua"
    ],
    "score": 110,
-   "sources_n": 14,
+   "sources_n": 15,
    "title_it": "Biglietti Tyson Fury vs Anthony Joshua per £ 275 a persona con birre gratuite incluse nell'offerta di ospitalità per la serata di combattimento VIP",
    "title_es": "Boletos para Tyson Fury vs Anthony Joshua por £ 275 por persona con cervezas gratis incluidas en la oferta de hospitalidad VIP para la noche de pelea"
   },
@@ -944,19 +960,6 @@
    "sources_n": 1,
    "title_it": "I combattimenti più ricchi nella storia della boxe britannica",
    "title_es": "Las peleas más ricas de la historia del boxeo británico."
-  },
-  {
-   "title": "Ahmad Rheda vs Jake Wyllie| Full Fight | No Limit Boxing | 📅 Nov 6, 2026",
-   "link": "https://www.saddoboxing.com/112048-ahmad-rheda-vs-jake-wyllie-full-fight-no-limit-boxing-%f0%9f%93%85-nov-6-2026.html",
-   "source": "Saddo Boxing",
-   "lang": "en",
-   "date": "2026-11-11T13:36:05+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 45,
-   "sources_n": 3,
-   "title_it": "Ahmad Rheda vs Jake Wyllie| Lotta totale | Boxe senza limiti | 6 📅 novembre 2026",
-   "title_es": "Ahmad Rheda vs Jake Wyllie| Pelea completa | Boxeo sin límite | 6 de 📅 noviembre de 2026"
   },
   {
    "title": "Princesa’s Parade: Olascuaga Vs. Martinez Preview & Analysis",
@@ -981,7 +984,7 @@
    "boxers": [
     "Oleksandr Usyk"
    ],
-   "score": 110,
+   "score": 109,
    "sources_n": 7,
    "title_it": "Hall of Famer avverte Usyk che David Benavidez lo distruggerà ai pesi cruiser: \"Vendi la tua eredità\"",
    "title_es": "El miembro del Salón de la Fama advierte a Usyk que David Benavidez lo destruirá en el peso crucero: \"Vende tu legado\""
@@ -998,7 +1001,7 @@
     "Anthony Joshua"
    ],
    "score": 109,
-   "sources_n": 9,
+   "sources_n": 10,
    "title_it": "Tyson Fury-Anthony Joshua 1am inizia a dipendere dalla decisione del Consiglio di Cardiff",
    "title_es": "Tyson Fury-Anthony Joshua 1 a. m. depende de la decisión del Consejo de Cardiff"
   },
@@ -1014,7 +1017,7 @@
     "Anthony Joshua"
    ],
    "score": 64,
-   "sources_n": 13,
+   "sources_n": 14,
    "title_it": "Pronostico Fury vs Joshua: cosa dicono i combattenti e gli esperti",
    "title_es": "Predicción Fury vs Joshua: lo que dicen los luchadores y expertos"
   },
@@ -1056,7 +1059,7 @@
     "Anthony Joshua"
    ],
    "score": 119,
-   "sources_n": 14,
+   "sources_n": 15,
    "title_it": "Tyson Fury vs Anthony Joshua si appresta a concludere il terzo incontro undercard con una nuova aggiunta dei pesi massimi all'incontro di successo",
    "title_es": "Tyson Fury vs Anthony Joshua listo para conseguir la tercera pelea de cartelera con una nueva incorporación de peso pesado a la pelea de gran éxito"
   },
@@ -1072,7 +1075,7 @@
     "Anthony Joshua"
    ],
    "score": 109,
-   "sources_n": 14,
+   "sources_n": 15,
    "title_it": "Shane Fury risponde alle affermazioni di Frank Bruno secondo cui Tyson Fury è ferito prima del combattimento con Anthony Joshua",
    "title_es": "Shane Fury responde a las afirmaciones de Frank Bruno de que Tyson Fury está lesionado antes de la pelea con Anthony Joshua"
   },
@@ -1101,7 +1104,7 @@
     "Anthony Joshua"
    ],
    "score": 117,
-   "sources_n": 14,
+   "sources_n": 15,
    "title_it": "A Daniel Dubois è stato detto di evitare il vincitore di Anthony Joshua contro Tyson Fury",
    "title_es": "A Daniel Dubois le dijeron que evitara al ganador de Anthony Joshua vs Tyson Fury"
   },
@@ -1130,7 +1133,7 @@
     "Anthony Joshua"
    ],
    "score": 119,
-   "sources_n": 14,
+   "sources_n": 15,
    "title_it": "La carta shock di sette incontri è stata annunciata solo un giorno prima di Tyson Fury contro Anthony Joshua e tre miglia lungo la strada",
    "title_es": "Sorprendente cartelera de siete peleas anunciada solo un día antes de Tyson Fury vs Anthony Joshua y tres millas más adelante"
   },
@@ -1146,7 +1149,7 @@
     "Anthony Joshua"
    ],
    "score": 64,
-   "sources_n": 13,
+   "sources_n": 14,
    "title_it": "La lotta tra Joshua e Fury deve affrontare obiezioni oltre la fine delle 3 del mattino",
    "title_es": "La pelea entre Joshua y Fury enfrenta objeciones por terminar a las 3 am"
   },
@@ -1322,7 +1325,7 @@
     "Anthony Joshua"
    ],
    "score": 108,
-   "sources_n": 14,
+   "sources_n": 15,
    "title_it": "Tyson Fury contro Anthony Joshua incontra un grosso ostacolo con la richiesta del Principality Stadium a rischio di essere BLOCCATA",
    "title_es": "Tyson Fury vs Anthony Joshua golpea un gran obstáculo con la solicitud del Estadio del Principado en riesgo de ser BLOQUEADA"
   },
@@ -1351,7 +1354,7 @@
     "Anthony Joshua"
    ],
    "score": 126,
-   "sources_n": 14,
+   "sources_n": 15,
    "title_it": "Il vincitore di Tyson Fury vs Anthony Joshua deve essere ordinato al campione \"hard done by\" dopo lo scontro",
    "title_es": "Al ganador de Tyson Fury vs. Anthony Joshua se le debe ordenar que \"lo haga duro\" campeón después del enfrentamiento"
   },
@@ -1393,7 +1396,7 @@
     "Anthony Joshua"
    ],
    "score": 107,
-   "sources_n": 14,
+   "sources_n": 15,
    "title_it": "Derek Chisora reagisce alle affermazioni secondo cui Tyson Fury potrebbe essere ferito prima dell'incontro con Anthony Joshua",
    "title_es": "Derek Chisora reacciona a las afirmaciones de que Tyson Fury podría lesionarse antes de la pelea con Anthony Joshua"
   },
@@ -1685,7 +1688,7 @@
    "date": "2026-11-11T01:12:46+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 59,
+   "score": 58,
    "sources_n": 10,
    "title_it": "Boxing News: AWE To Broadcast Live The IBO World Title Fight Featuring Charlton Malajika Vs. Landile Ngxeke Sabato 21 novembre »11 novembre 2026 - FightNews",
    "title_es": "Noticias de boxeo: AWE transmitirá en vivo la pelea por el título mundial de IBO con Charlton Malajika vs. Landile Ngxeke el sábado 21 de noviembre »11 de noviembre de 2026 - FightNews"
@@ -1938,7 +1941,7 @@
     "Anthony Joshua"
    ],
    "score": 111,
-   "sources_n": 14,
+   "sources_n": 15,
    "title_it": "Carta a sorpresa a sette incontri annunciata per il giorno prima dell'evento Tyson Fury vs Anthony Joshua",
    "title_es": "Tarjeta sorpresa de siete peleas anunciada para el día antes del evento Tyson Fury vs Anthony Joshua"
   },
@@ -1980,7 +1983,7 @@
     "Anthony Joshua"
    ],
    "score": 56,
-   "sources_n": 13,
+   "sources_n": 14,
    "title_it": "Forti obiezioni a Fury vs Joshua tempo di inizio emergono con il consiglio di decidere settimane prima della lotta",
    "title_es": "Surgen fuertes objeciones a la hora de inicio de Fury vs. Joshua con el consejo para decidir semanas antes de la pelea"
   },
@@ -2066,7 +2069,7 @@
     "Anthony Joshua"
    ],
    "score": 100,
-   "sources_n": 20,
+   "sources_n": 21,
    "title_it": "Programma di boxe per il 2026: Anthony Joshua contro Tyson Fury, David Benavidez, Dmitry Bivol torna alla spina",
    "title_es": "Calendario de boxeo para 2026: Anthony Joshua vs. Tyson Fury, David Benavidez, Dmitry Bivol regresan de barril"
   },
@@ -2147,7 +2150,7 @@
     "Anthony Joshua"
    ],
    "score": 99,
-   "sources_n": 14,
+   "sources_n": 15,
    "title_it": "Anthony Joshua vs Tyson Fury potrebbe essere annullato dopo le obiezioni tardive",
    "title_es": "Anthony Joshua vs Tyson Fury podría cancelarse tras objeciones tardías"
   },
@@ -2280,7 +2283,7 @@
     "Anthony Joshua"
    ],
    "score": 99,
-   "sources_n": 14,
+   "sources_n": 15,
    "title_it": "“Te lo dirò ora davanti alla telecamera” – Il padre di Tyson Fury rivela perché NON voleva che il combattimento tra Anthony Joshua andasse avanti",
    "title_es": "‘Te lo diré ahora frente a la cámara’: el padre de Tyson Fury revela por qué NO quería que la pelea con Anthony Joshua siguiera adelante"
   },
@@ -2308,8 +2311,8 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 99,
-   "sources_n": 14,
+   "score": 98,
+   "sources_n": 15,
    "title_it": "Tyson Fury e Anthony Joshua hanno degli affari in sospeso oltre l'11 dicembre",
    "title_es": "Tyson Fury y Anthony Joshua tienen asuntos pendientes más allá del 11 de diciembre"
   },
@@ -2353,7 +2356,7 @@
     "Oleksandr Usyk"
    ],
    "score": 98,
-   "sources_n": 10,
+   "sources_n": 11,
    "title_it": "Furia contro Usyk 3? | Frank Warren su Tyson Fury, il futuro di Oleksandr Usyk e Moses Itauma",
    "title_es": "¿Furia vs Usyk 3? | Frank Warren sobre Tyson Fury, el futuro de Oleksandr Usyk y Moses Itauma"
   },
@@ -2369,7 +2372,7 @@
     "Anthony Joshua"
    ],
    "score": 98,
-   "sources_n": 14,
+   "sources_n": 15,
    "title_it": "Anthony Joshua ha già deciso il prossimo avversario dopo Tyson Fury",
    "title_es": "Anthony Joshua ya ha decidido su próximo oponente después de Tyson Fury"
   },
@@ -2495,7 +2498,7 @@
     "Anthony Joshua"
    ],
    "score": 87,
-   "sources_n": 14,
+   "sources_n": 15,
    "title_it": "Joe Joyce sulla differenza tra lo sparring di Tyson Fury e Anthony Joshua",
    "title_es": "Joe Joyce sobre la diferencia entre el sparring de Tyson Fury y Anthony Joshua"
   },
@@ -2526,7 +2529,7 @@
     "Anthony Joshua"
    ],
    "score": 62,
-   "sources_n": 13,
+   "sources_n": 14,
    "title_it": "La decisione di Fury vs. Joshua costa lo status di campione dei pesi massimi",
    "title_es": "El combate Fury vs. Joshua decide el título de campeón de los pesos pesados"
   },
@@ -2709,7 +2712,7 @@
    "date": "2026-11-10T07:11:45+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 50,
+   "score": 49,
    "sources_n": 6,
    "title_it": "Alycia Baumgardner domina Elif Nur Turhan per diventare campionessa del mondo di pesi leggeri",
    "title_es": "Alycia Baumgardner domina a Elif Nur Turhan para convertirse en campeona mundial de peso ligero"
@@ -2739,7 +2742,7 @@
     "Anthony Joshua"
    ],
    "score": 49,
-   "sources_n": 13,
+   "sources_n": 14,
    "title_it": "Fury v Joshua: 2. Una trilogia scomoda",
    "title_es": "Fury vs Joshua: 2. Una trilogía inconveniente"
   },
@@ -2768,7 +2771,7 @@
     "Anthony Joshua"
    ],
    "score": 39,
-   "sources_n": 13,
+   "sources_n": 14,
    "title_it": "Guarda: Rivals - Fury v Joshua su BBC iPlayer",
    "title_es": "Mira: Rivals - Fury v Joshua en BBC iPlayer"
   },
@@ -2784,7 +2787,7 @@
     "Anthony Joshua"
    ],
    "score": 49,
-   "sources_n": 13,
+   "sources_n": 14,
    "title_it": "5 Live Boxing con Steve Bunce",
    "title_es": "5 boxeo en vivo con Steve Bunce"
   },
@@ -3062,6 +3065,19 @@
    "title_es": "Una medalla y excelentes actuaciones para Trieste Boxing en el Campeonato de Italia U15 - Citysport"
   },
   {
+   "title": "Boxing: Not with Canelo! Julio César Chávez Steps Up, Defends the Champ and Sends a Strong Message to the Haters - Al Bat",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQeW45Q0Jzb1R5NHJEcXdFeGgtTmpybldxTVU1SzhVWExEUnpLc2xfT1NURWNpeDJULUR2QWFDdDhHNGZwNHNOUnptbGNFcVc2d2Nwa1NwaENycnV1SUxHVkVWQTlKbzJBVzJFTkFWMDBuX3JMblZCTzl3Tlg4VzNva3hnTVlWWGY3ZEk2bWdjV04weVRXZHYwMHVzd2NYalA4X0ttcF8xT29oTy1zSVhDRmFlWDFGbWxRVDI5Tkk0MjNqcmtzZVNQZkRsRE91eFlRTTQwMFF2RzdqNXZYcHZGemZ6Yk9yenJ1dlcxU0VNRdIB9AFBVV95cUxNWmNLaTZ6ejVKOURocUhQODRicjF6NHM0YW5sN0lDRGtYSEpmQU05c0lSSEo1djFaOC1XSDNUU0pCeXVwTFRXUmV5dmNYdV9IeFlDRnhRdTlFN1dDLXFPSzJrOWR5VXlSZkJ6NGNuV25sVnB6UXdOS3NwYTgzX2wxdkpKY184WndXT2EwNThKM3U5bllkZGZjT1I4QmExUWJSbjlJeWFUckVlNnRIR3VZNFE2THQ3UnhaZW9aUkwtMVFnZzgtVEhQdFEzeHR3UWZzTkVmSXM5NUZwekJicERiNG4yZG5JdEpOX3BaWDdHT040Y3pY?oc=5",
+   "source": "Google News: boxing",
+   "lang": "en",
+   "date": "2026-11-09T19:00:49+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 38,
+   "sources_n": 2,
+   "title_it": "Boxe: non con Canelo! Julio César Chávez si fa avanti, difende il campione e invia un messaggio forte agli haters - Al Bat",
+   "title_es": "Boxeo: ¡Con Canelo no! Julio César Chávez da un paso adelante, defiende al campeón y envía un fuerte mensaje a los haters - Al Bat"
+  },
+  {
    "title": "Boxe, spettacolo e trionfo per l'European Champion Fight 2: la selezione italiana brilla a Francavilla Fontana - Lo Strillone News",
    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxON1lSdU1sYzlsOFdnOVRRc2Z4X1BMU3dZd3k5dWl2ek1zM2txU1ZUX0phRVRtSDE4XzJ3TXR5YWZEYzZVcmJLblh3VGRQTjRzeWlyZmNCVGs2QXdkNDEyMFlTVFNrQ0NEaVVkWXNGbVA2U3Q2QzMwOXNaRnRJOG94N0xOazdzeTA5ZkNlT0MxRzdHNUcxZGxVdFJOR3lSYy1ObEdra1NaXzZhQ3g1el9jOHRtWDJnQzFDVkRTTWZnMmZuaEVHNUNNU2NnckN1Y3hDT1JnTHV2QllleVU0U0psY3pTSjYzcWtKZUZKVw?oc=5",
    "source": "Google News: pugilato",
@@ -3086,7 +3102,7 @@
     "Anthony Joshua"
    ],
    "score": 88,
-   "sources_n": 15,
+   "sources_n": 16,
    "title_it": "Eddie Hearn solleva il coperchio sul prossimo obiettivo di Anthony Joshua dopo lo scontro con Tyson Fury",
    "title_es": "Eddie Hearn levanta la tapa sobre el próximo objetivo de Anthony Joshua después del enfrentamiento con Tyson Fury"
   },
@@ -3340,7 +3356,7 @@
     "Tyson Fury"
    ],
    "score": 66,
-   "sources_n": 9,
+   "sources_n": 10,
    "title_it": "Tyson Fury nomina l'unico combattente che pensa possa diventare la più grande star della boxe",
    "title_es": "Tyson Fury nombra al único boxeador que cree que puede convertirse en la estrella más grande del boxeo"
   },
@@ -3418,7 +3434,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 30,
-   "sources_n": 7,
+   "sources_n": 6,
    "title_it": "Elif Nur Turhan contro Alycia Baumgardner | Lotta completa | Leggero",
    "title_es": "Elif Nur Turhan contra Alycia Baumgardner | Pelea Completa | Ligero"
   },
@@ -3642,22 +3658,9 @@
     "Anthony Joshua"
    ],
    "score": 85,
-   "sources_n": 14,
+   "sources_n": 15,
    "title_it": "I messaggi trapelati di Anthony Joshua prima del combattimento con Tyson Fury forniscono informazioni importanti sulla mentalità di Brit",
    "title_es": "Los mensajes filtrados de Anthony Joshua antes de la pelea con Tyson Fury dan una idea importante de la mentalidad del británico"
-  },
-  {
-   "title": "‘I’m happy with where we are’: Dana White talks about Zuffa’s performance in 2026",
-   "link": "https://www.badlefthook.com/boxing-news/120248/dana-white-talks-about-zuffas-performance-in-2026-boxing-news-2026",
-   "source": "Bad Left Hook",
-   "lang": "en",
-   "date": "2026-11-09T09:56:09-05:00",
-   "status": "rumor",
-   "boxers": [],
-   "score": 11,
-   "sources_n": 2,
-   "title_it": "\"Sono felice di dove siamo\": Dana White parla della performance di Zuffa nel 2026",
-   "title_es": "\"Estoy contenta con dónde estamos\": Dana White habla sobre el rendimiento de Zuffa en 2026"
   },
   {
    "title": "Boxing: Ramla Ali defeats Mikiah Kreps to become unified world champion aged 36 - BBC",
@@ -3723,7 +3726,7 @@
     "Anthony Joshua"
    ],
    "score": 85,
-   "sources_n": 14,
+   "sources_n": 15,
    "title_it": "Tyson Fury rivela i veri sentimenti verso l'ex allenatore ora con Anthony Joshua",
    "title_es": "Tyson Fury revela sus verdaderos sentimientos hacia el exentrenador ahora con Anthony Joshua"
   },
