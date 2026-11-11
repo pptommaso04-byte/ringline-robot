@@ -19342,5 +19342,70 @@
    "en",
    "de"
   ]
+ },
+ "Saúl Juárez": {
+  "slug": "saul-juarez",
+  "updated": "2026-11-11T08:31:11+00:00",
+  "total": 43,
+  "verified": 0,
+  "record": {
+   "w": 25,
+   "l": 16,
+   "d": 2,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "es",
+   "fr"
+  ]
+ },
+ "Stephen Lavelle": {
+  "tried": "2026-11-11T08:31:02+00:00"
+ },
+ "Freddy Kiwitt": {
+  "slug": "freddy-kiwitt",
+  "updated": "2026-11-11T08:31:15+00:00",
+  "total": 31,
+  "verified": 0,
+  "record": {
+   "w": 28,
+   "l": 3,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Hannah Rankin": {
+  "slug": "hannah-rankin",
+  "updated": "2026-11-11T08:31:21+00:00",
+  "total": 21,
+  "verified": 0,
+  "record": {
+   "w": 13,
+   "l": 8,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Hamza Ngoto": {
+  "slug": "hamza-ngoto",
+  "updated": "2026-11-11T08:31:24+00:00",
+  "total": 19,
+  "verified": 0,
+  "record": {
+   "w": 18,
+   "l": 1,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
