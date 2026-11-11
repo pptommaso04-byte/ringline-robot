@@ -28431,5 +28431,70 @@
  },
  "Suranjoy Singh": {
   "tried": "2026-11-11T23:40:55+00:00"
+ },
+ "Alicia Napoleon": {
+  "tried": "2026-11-11T23:45:44+00:00"
+ },
+ "Kali Reis": {
+  "slug": "kali-reis",
+  "updated": "2026-11-11T23:45:50+00:00",
+  "total": 27,
+  "verified": 27,
+  "record": {
+   "w": 19,
+   "l": 7,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "de"
+  ]
+ },
+ "Moises Flores": {
+  "slug": "moises-flores",
+  "updated": "2026-11-11T23:45:54+00:00",
+  "total": 36,
+  "verified": 0,
+  "record": {
+   "w": 25,
+   "l": 8,
+   "d": 1,
+   "nc": 2
+  },
+  "langs": [
+   "en",
+   "it"
+  ]
+ },
+ "Rayton Okwiri": {
+  "slug": "rayton-okwiri",
+  "updated": "2026-11-11T23:45:57+00:00",
+  "total": 9,
+  "verified": 0,
+  "record": {
+   "w": 7,
+   "l": 1,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Ryan Walsh": {
+  "slug": "ryan-walsh",
+  "updated": "2026-11-11T23:46:01+00:00",
+  "total": 36,
+  "verified": 0,
+  "record": {
+   "w": 29,
+   "l": 5,
+   "d": 2,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
