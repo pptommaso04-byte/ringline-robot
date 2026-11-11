@@ -20086,5 +20086,61 @@
  },
  "Josh Parisian": {
   "tried": "2026-11-11T09:21:34+00:00"
+ },
+ "Vincenzo Mangiacapre": {
+  "tried": "2026-11-11T09:25:43+00:00"
+ },
+ "Youssef Boughanem": {
+  "slug": "youssef-boughanem",
+  "updated": "2026-11-11T09:25:50+00:00",
+  "total": 87,
+  "verified": 59,
+  "record": {
+   "w": 71,
+   "l": 14,
+   "d": 1,
+   "nc": 1
+  },
+  "langs": [
+   "en",
+   "es",
+   "fr",
+   "pt"
+  ]
+ },
+ "Eva Cedeño": {
+  "tried": "2026-11-11T09:25:43+00:00"
+ },
+ "Maïva Hamadouche": {
+  "slug": "maiva-hamadouche",
+  "updated": "2026-11-11T09:25:54+00:00",
+  "total": 24,
+  "verified": 0,
+  "record": {
+   "w": 22,
+   "l": 2,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "es"
+  ]
+ },
+ "István Bernáth": {
+  "slug": "istvan-bernath",
+  "updated": "2026-11-11T09:25:58+00:00",
+  "total": 12,
+  "verified": 0,
+  "record": {
+   "w": 10,
+   "l": 2,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "fr"
+  ]
  }
 }
