@@ -14372,5 +14372,57 @@
  },
  "Benny Muziyo": {
   "tried": "2026-11-11T01:05:49+00:00"
+ },
+ "Victor Pasillas": {
+  "tried": "2026-11-11T01:10:56+00:00"
+ },
+ "Xavier Montelongo": {
+  "tried": "2026-11-11T01:10:56+00:00"
+ },
+ "Manuel Ávila": {
+  "slug": "manuel-avila",
+  "updated": "2026-11-11T01:11:04+00:00",
+  "total": 30,
+  "verified": 0,
+  "record": {
+   "w": 26,
+   "l": 3,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Mario Heredia": {
+  "slug": "mario-heredia",
+  "updated": "2026-11-11T01:11:09+00:00",
+  "total": 28,
+  "verified": 0,
+  "record": {
+   "w": 18,
+   "l": 8,
+   "d": 1,
+   "nc": 1
+  },
+  "langs": [
+   "en",
+   "it"
+  ]
+ },
+ "Vitaly Zdorovetskiy": {
+  "slug": "vitaly-zdorovetskiy",
+  "updated": "2026-11-11T01:11:13+00:00",
+  "total": 3,
+  "verified": 0,
+  "record": {
+   "w": 1,
+   "l": 0,
+   "d": 1,
+   "nc": 1
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
