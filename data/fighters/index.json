@@ -20658,5 +20658,68 @@
  },
  "Atheyna Bylon": {
   "tried": "2026-11-11T10:10:46+00:00"
+ },
+ "Charles Manyuchi": {
+  "slug": "charles-manyuchi",
+  "updated": "2026-11-11T10:16:06+00:00",
+  "total": 34,
+  "verified": 0,
+  "record": {
+   "w": 29,
+   "l": 4,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Helen Joseph (boxer)": {
+  "slug": "helen-joseph-boxer",
+  "updated": "2026-11-11T10:16:12+00:00",
+  "total": 24,
+  "verified": 0,
+  "record": {
+   "w": 17,
+   "l": 5,
+   "d": 2,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Takeshi Inoue (boxer)": {
+  "slug": "takeshi-inoue-boxer",
+  "updated": "2026-11-11T10:16:18+00:00",
+  "total": 25,
+  "verified": 0,
+  "record": {
+   "w": 20,
+   "l": 2,
+   "d": 3,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Kellie Harrington": {
+  "tried": "2026-11-11T10:16:01+00:00"
+ },
+ "Mikaël Zewski": {
+  "slug": "mikael-zewski",
+  "updated": "2026-11-11T10:16:25+00:00",
+  "total": 38,
+  "verified": 0,
+  "record": {
+   "w": 35,
+   "l": 3,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
