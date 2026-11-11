@@ -17646,5 +17646,44 @@
    "it",
    "de"
   ]
+ },
+ "Craig Derbyshire": {
+  "tried": "2026-11-11T05:50:44+00:00"
+ },
+ "Linn Sandström": {
+  "tried": "2026-11-11T05:50:44+00:00"
+ },
+ "Chris Pearson (boxer)": {
+  "slug": "chris-pearson-boxer",
+  "updated": "2026-11-11T05:50:54+00:00",
+  "total": 12,
+  "verified": 0,
+  "record": {
+   "w": 12,
+   "l": 0,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Omar Chávez": {
+  "tried": "2026-11-11T05:50:44+00:00"
+ },
+ "Christina Hammer": {
+  "slug": "christina-hammer",
+  "updated": "2026-11-11T05:51:01+00:00",
+  "total": 30,
+  "verified": 0,
+  "record": {
+   "w": 28,
+   "l": 1,
+   "d": 0,
+   "nc": 1
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
