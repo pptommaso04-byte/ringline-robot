@@ -25234,5 +25234,71 @@
  },
  "Julius Jackson": {
   "tried": "2026-11-11T17:55:32+00:00"
+ },
+ "Lamar Russ": {
+  "slug": "lamar-russ",
+  "updated": "2026-11-11T18:01:43+00:00",
+  "total": 21,
+  "verified": 0,
+  "record": {
+   "w": 17,
+   "l": 3,
+   "d": 0,
+   "nc": 1
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Alaa Shili": {
+  "tried": "2026-11-11T18:01:37+00:00"
+ },
+ "Chris Namús": {
+  "slug": "chris-namus",
+  "updated": "2026-11-11T18:01:49+00:00",
+  "total": 33,
+  "verified": 5,
+  "record": {
+   "w": 25,
+   "l": 7,
+   "d": 0,
+   "nc": 1
+  },
+  "langs": [
+   "en",
+   "es"
+  ]
+ },
+ "Karim Guerfi": {
+  "slug": "karim-guerfi",
+  "updated": "2026-11-11T18:01:53+00:00",
+  "total": 42,
+  "verified": 0,
+  "record": {
+   "w": 33,
+   "l": 8,
+   "d": 0,
+   "nc": 1
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "J'Leon Love": {
+  "slug": "j-leon-love",
+  "updated": "2026-11-11T18:01:57+00:00",
+  "total": 30,
+  "verified": 0,
+  "record": {
+   "w": 25,
+   "l": 3,
+   "d": 1,
+   "nc": 1
+  },
+  "langs": [
+   "en",
+   "it",
+   "es"
+  ]
  }
 }
