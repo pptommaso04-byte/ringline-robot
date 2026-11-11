@@ -1,8 +1,21 @@
 {
- "updated": "2026-11-11T10:31:01+00:00",
+ "updated": "2026-11-11T10:35:32+00:00",
  "feeds_ok": 49,
  "feeds_failed": 4,
  "news": [
+  {
+   "title": "Ryan Garcia claims he will fight Floyd Mayweather next as he names date and location",
+   "link": "https://talksport.com/boxing/4700751/ryan-garcia-floyd-mayweather-date-location/",
+   "source": "Talksport Boxing",
+   "lang": "en",
+   "date": "2026-11-11T10:34:28+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 84,
+   "sources_n": 6,
+   "title_it": "Ryan Garcia afferma che il prossimo incontro con Floyd Mayweather indica data e luogo",
+   "title_es": "Ryan García afirma que peleará contra Floyd Mayweather a continuación mientras menciona la fecha y el lugar"
+  },
   {
    "title": "‘I am ready for the fight of my life’ – Yorkshire-based Zapotoczna challenges Fundora for the undisputed flyweight crown",
    "link": "https://britishboxingnews.co.uk/world-news/i-am-ready-for-the-fight-of-my-life-yorkshire-based-zapotoczna-challenges-fundora-for-the-undisputed-flyweight-crown/",
@@ -150,7 +163,7 @@
    "date": "2026-11-11T08:30:58+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 57,
+   "score": 56,
    "sources_n": 2,
    "title_it": "Perez abbandona Rivera Figueroa e mantiene il suo titolo WBA dei pesi mosca provvisori in una decisione unilaterale",
    "title_es": "Pérez abandona a Rivera Figueroa y retiene su título interino de peso mosca de la AMB en una decisión unilateral"
@@ -534,8 +547,8 @@
    "date": "2026-11-11T00:58:44+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 70,
-   "sources_n": 3,
+   "score": 80,
+   "sources_n": 4,
    "title_it": "Ryan Garcia accenna al 6 febbraio come al suo prossimo potenziale appuntamento di combattimento 👀",
    "title_es": "Ryan Garcia insinúa que el 6 de febrero será su próxima posible fecha de pelea 👀"
   },
@@ -1461,7 +1474,7 @@
    "boxers": [
     "Denzel Bentley"
    ],
-   "score": 84,
+   "score": 83,
    "sources_n": 5,
    "title_it": "Denzel Bentley è disposto a recarsi in Irlanda per il titolo di Tyrone McKenna",
    "title_es": "Denzel Bentley dispuesto a viajar a Irlanda para luchar por el título de Tyrone McKenna"
@@ -2214,7 +2227,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 95,
+   "score": 94,
    "sources_n": 13,
    "title_it": "Eddie Hearn solleva il coperchio sul prossimo obiettivo di Anthony Joshua dopo lo scontro con Tyson Fury",
    "title_es": "Eddie Hearn levanta la tapa sobre el próximo objetivo de Anthony Joshua después del choque con Tyson Fury"
@@ -2667,7 +2680,7 @@
    "date": "2026-11-09T12:33:00+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 25,
+   "score": 24,
    "sources_n": 1,
    "title_it": "Boxe: Pugilato-Ramla Ali vince il primo titolo mondiale a 37 anni in Texas - The Star",
    "title_es": "Boxeo: Boxeo-Ramla Ali gana el primer título mundial a los 37 años en Texas - The Star"
@@ -3891,8 +3904,8 @@
    "boxers": [
     "Joshua Buatsi"
    ],
-   "score": 68,
-   "sources_n": 4,
+   "score": 58,
+   "sources_n": 3,
    "title_it": "Hutchinson batte Buatsi per vincere il titolo dei pesi massimi leggeri WBC",
    "title_es": "Hutchinson vence a Buatsi para ganar el título semipesado del CMB"
   },
@@ -4034,22 +4047,6 @@
    "sources_n": 5,
    "title_it": "Zuffa Boxe 12 risultati, IN evidenza: Cheavon Clarke ferma Chris Billam-Smith, Da' MazionVanhouter brilla di nuovo",
    "title_es": "Zuffa Boxing 12 resultados, destacados: Cheavon Clarke detiene a Chris Billam-Smith, Da 'Mazion Vanhouter vuelve a brillar"
-  },
-  {
-   "title": "Willy Hutchinson breaks down in ring as he beats Joshua Buatsi by unanimous decision to win WBC title and get revenge",
-   "link": "https://www.thesun.co.uk/sport/40956220/willy-hutchinson-beats-joshua-buatsi-wbc-title-boxing-result/",
-   "source": "The Sun Boxing",
-   "lang": "en",
-   "date": "2026-11-07T23:19:56+00:00",
-   "status": "confirmed",
-   "boxers": [
-    "Joshua Buatsi",
-    "Anthony Joshua"
-   ],
-   "score": 103,
-   "sources_n": 8,
-   "title_it": "Willy Hutchinson si rompe sul ring mentre batte Joshua Buatsi per decisione unanime di vincere il titolo WBC e vendicarsi",
-   "title_es": "Willy Hutchinson se derrumba en el ring mientras vence a Joshua Buatsi por decisión unánime de ganar el título del CMB y vengarse"
   }
  ]
 }
