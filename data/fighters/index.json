@@ -20142,5 +20142,44 @@
    "en",
    "fr"
   ]
+ },
+ "Magomed Omarov (boxer)": {
+  "tried": "2026-11-11T09:31:04+00:00"
+ },
+ "Marina Volnova": {
+  "tried": "2026-11-11T09:31:04+00:00"
+ },
+ "Dominic Boesel": {
+  "slug": "dominic-boesel",
+  "updated": "2026-11-11T09:31:11+00:00",
+  "total": 35,
+  "verified": 0,
+  "record": {
+   "w": 32,
+   "l": 3,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Siphiwe Lusizi": {
+  "tried": "2026-11-11T09:31:04+00:00"
+ },
+ "Bowyn Morgan": {
+  "slug": "bowyn-morgan",
+  "updated": "2026-11-11T09:31:15+00:00",
+  "total": 25,
+  "verified": 0,
+  "record": {
+   "w": 22,
+   "l": 2,
+   "d": 0,
+   "nc": 1
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
