@@ -13931,5 +13931,56 @@
  },
  "Lucy Wildheart": {
   "tried": "2026-11-11T00:20:59+00:00"
+ },
+ "Darren Tetley": {
+  "tried": "2026-11-11T00:26:04+00:00"
+ },
+ "Rashidi Ellis": {
+  "slug": "rashidi-ellis",
+  "updated": "2026-11-11T00:26:09+00:00",
+  "total": 29,
+  "verified": 0,
+  "record": {
+   "w": 28,
+   "l": 1,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Jovanni Straffon": {
+  "tried": "2026-11-11T00:26:04+00:00"
+ },
+ "Labinot Xhoxhaj": {
+  "slug": "labinot-xhoxhaj",
+  "updated": "2026-11-11T00:26:13+00:00",
+  "total": 23,
+  "verified": 0,
+  "record": {
+   "w": 22,
+   "l": 0,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Melisa Meraz": {
+  "slug": "melisa-meraz",
+  "updated": "2026-11-11T00:26:16+00:00",
+  "total": 17,
+  "verified": 0,
+  "record": {
+   "w": 11,
+   "l": 4,
+   "d": 2,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
