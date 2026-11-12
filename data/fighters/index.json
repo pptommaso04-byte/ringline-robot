@@ -1,7 +1,7 @@
 {
  "Oleksandr Usyk": {
   "slug": "oleksandr-usyk",
-  "updated": "2026-11-11T13:05:39+00:00",
+  "updated": "2026-11-12T09:05:51+00:00",
   "total": 25,
   "verified": 25,
   "record": {
@@ -18,7 +18,7 @@
  },
  "Tyson Fury": {
   "slug": "tyson-fury",
-  "updated": "2026-11-11T13:05:42+00:00",
+  "updated": "2026-11-12T09:05:58+00:00",
   "total": 39,
   "verified": 39,
   "record": {
@@ -34090,5 +34090,26 @@
  },
  "Awusone Yekeni": {
   "tried": "2026-11-12T09:01:32+00:00"
+ },
+ "Deepak Maharjan": {
+  "tried": "2026-11-12T09:05:44+00:00"
+ },
+ "Araik Ambartsumov": {
+  "tried": "2026-11-12T09:05:44+00:00"
+ },
+ "Olivier Lontchi": {
+  "slug": "olivier-lontchi",
+  "updated": "2026-11-12T09:06:06+00:00",
+  "total": 23,
+  "verified": 0,
+  "record": {
+   "w": 18,
+   "l": 3,
+   "d": 2,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
