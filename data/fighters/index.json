@@ -34410,5 +34410,56 @@
  },
  "Daria Marszałkowska": {
   "tried": "2026-11-12T10:45:43+00:00"
+ },
+ "Carel Sandon": {
+  "tried": "2026-11-12T10:50:55+00:00"
+ },
+ "Hany Atiyo": {
+  "slug": "hany-atiyo",
+  "updated": "2026-11-12T10:51:02+00:00",
+  "total": 20,
+  "verified": 0,
+  "record": {
+   "w": 15,
+   "l": 5,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Kanat Abutalipov": {
+  "tried": "2026-11-12T10:50:55+00:00"
+ },
+ "Yu Kimura (boxer)": {
+  "slug": "yu-kimura-boxer",
+  "updated": "2026-11-12T10:51:11+00:00",
+  "total": 22,
+  "verified": 0,
+  "record": {
+   "w": 18,
+   "l": 3,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Pavel Zhuravlev (kickboxer)": {
+  "slug": "pavel-zhuravlev-kickboxer",
+  "updated": "2026-11-12T10:51:15+00:00",
+  "total": 84,
+  "verified": 0,
+  "record": {
+   "w": 73,
+   "l": 10,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
