@@ -41083,5 +41083,57 @@
    "fr",
    "pt"
   ]
+ },
+ "Enad Ličina": {
+  "tried": "2026-11-12T21:55:40+00:00"
+ },
+ "Japhet Uutoni": {
+  "slug": "japhet-uutoni",
+  "updated": "2026-11-12T21:55:44+00:00",
+  "total": 14,
+  "verified": 0,
+  "record": {
+   "w": 12,
+   "l": 2,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Danny Codling": {
+  "tried": "2026-11-12T21:55:40+00:00"
+ },
+ "Sachiyo Shibata": {
+  "slug": "sachiyo-shibata",
+  "updated": "2026-11-12T21:55:49+00:00",
+  "total": 7,
+  "verified": 0,
+  "record": {
+   "w": 4,
+   "l": 1,
+   "d": 2,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Matteo Signani": {
+  "slug": "matteo-signani",
+  "updated": "2026-11-12T21:55:53+00:00",
+  "total": 38,
+  "verified": 0,
+  "record": {
+   "w": 30,
+   "l": 5,
+   "d": 3,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "fr"
+  ]
  }
 }
