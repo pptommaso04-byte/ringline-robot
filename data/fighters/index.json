@@ -32997,5 +32997,47 @@
  },
  "John M'Bumba": {
   "tried": "2026-11-12T07:12:48+00:00"
+ },
+ "Khedafi Djelkhir": {
+  "tried": "2026-11-12T07:15:39+00:00"
+ },
+ "Vincenzo Picardi": {
+  "tried": "2026-11-12T07:15:39+00:00"
+ },
+ "Karo Murat": {
+  "slug": "karo-murat",
+  "updated": "2026-11-12T07:15:47+00:00",
+  "total": 40,
+  "verified": 36,
+  "record": {
+   "w": 35,
+   "l": 4,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "de"
+  ]
+ },
+ "Myke Carvalho": {
+  "tried": "2026-11-12T07:15:39+00:00"
+ },
+ "Gennady Kovalev": {
+  "slug": "gennady-kovalev",
+  "updated": "2026-11-12T07:15:53+00:00",
+  "total": 69,
+  "verified": 68,
+  "record": {
+   "w": 64,
+   "l": 3,
+   "d": 2,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "es",
+   "fr"
+  ]
  }
 }
