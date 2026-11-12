@@ -1,8 +1,37 @@
 {
- "updated": "2026-11-12T11:20:44+00:00",
+ "updated": "2026-11-12T11:25:40+00:00",
  "feeds_ok": 49,
  "feeds_failed": 4,
  "news": [
+  {
+   "title": "How much do women boxers earn? Price, Baumgardner, and the pay gap",
+   "link": "https://britishboxingnews.co.uk/blogs/how-much-do-women-boxers-earn-price-baumgardner-and-the-pay-gap/",
+   "source": "British Boxing News",
+   "lang": "en",
+   "date": "2026-11-12T11:23:11+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 29,
+   "sources_n": 1,
+   "title_it": "Quanto guadagnano le pugili? Prezzo, Baumgardner e il divario retributivo",
+   "title_es": "¿Cuánto ganan las boxeadoras? Price, Baumgardner y la brecha salarial"
+  },
+  {
+   "title": "Eddie Hearn slams Tyson Fury vs Anthony Joshua fight card",
+   "link": "https://www.mirror.co.uk/sport/boxing/eddie-hearn-fury-joshua-fight-37869324",
+   "source": "Daily Mirror Boxing",
+   "lang": "en",
+   "date": "2026-11-12T11:12:33+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Tyson Fury",
+    "Anthony Joshua"
+   ],
+   "score": 114,
+   "sources_n": 16,
+   "title_it": "Eddie Hearn sbatte la carta della lotta tra Tyson Fury e Anthony Joshua",
+   "title_es": "Eddie Hearn critica la cartelera de pelea entre Tyson Fury y Anthony Joshua"
+  },
   {
    "title": "Canelo ‘more than willing’ to face Terence Crawford stablemate as WBC consider ordering the fight",
    "link": "https://boxingnewsonline.net/news/canelo-on-crawford-stablemate/",
@@ -141,7 +170,7 @@
    "date": "2026-11-12T09:23:40+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 67,
+   "score": 66,
    "sources_n": 3,
    "title_it": "Kelly affronterà Ennis nel match di unificazione di febbraio",
    "title_es": "Kelly se enfrentará a Ennis en el combate de unificación de febrero"
@@ -157,7 +186,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 124,
+   "score": 123,
    "sources_n": 15,
    "title_it": "Altri combattimenti dei pesi massimi aggiunti alla undercard Tyson Fury vs Anthony Joshua",
    "title_es": "Se agregaron más peleas de peso pesado a la cartelera de Tyson Fury vs Anthony Joshua"
@@ -238,7 +267,7 @@
    "date": "2026-11-12T07:24:49+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 91,
+   "score": 90,
    "sources_n": 3,
    "title_it": "Dave Allen riassume le possibilità di Jai Opetaia di battere Deontay Wilder nei pesi massimi",
    "title_es": "Dave Allen resume las posibilidades de Jai Opetaia de vencer a Deontay Wilder en el peso pesado"
@@ -655,7 +684,7 @@
    "date": "2026-11-11T23:24:53+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 82,
+   "score": 81,
    "sources_n": 3,
    "title_it": "ANNUNCIATO: Il campione WBA e WBO Jaron \"Boots\" Ennis affronterà il campione IBF Josh Kelly in un incontro per l'unificazione dei titoli dei pesi superwelter WBA, WBO e IBF il 27 febbraio ad Atlanta, in diretta su DAZN e TNT Sports.",
    "title_es": "ANUNCIADO: El campeón de la AMB y la OMB, Jaron “Boots” Ennis, se enfrentará al campeón de la FIB Josh Kelly en una pelea de unificación de títulos de peso súper welter de la AMB, la OMB y la FIB el 27 de febrero en Atlanta, en vivo por DAZN y TNT Sports."
@@ -1246,8 +1275,8 @@
    "date": "2026-11-11T16:28:33+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 58,
-   "sources_n": 3,
+   "score": 68,
+   "sources_n": 4,
    "title_it": "Eddie Hearn anticipa l'annuncio di un importante incontro per l'unificazione dei titoli, che vedrà protagonisti una star americana e il campione del mondo britannico",
    "title_es": "Eddie Hearn bromea con el anuncio de una gran unificación de títulos en la que participarán una estrella estadounidense y un campeón mundial británico"
   },
@@ -1366,7 +1395,7 @@
    "date": "2026-11-11T15:25:35+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 20,
+   "score": 19,
    "sources_n": 1,
    "title_it": "Tor San Lorenzo sul tetto d'Italia: trionfo storico per la Polisportiva Sociale TSL nel pugilato giovanile - Canale 10",
    "title_es": "Tor San Lorenzo en el techo de Italia: triunfo histórico de la Polisportiva Sociale TSL en el boxeo juvenil - Canale 10"
@@ -1392,7 +1421,7 @@
    "date": "2026-11-11T15:21:23+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 73,
+   "score": 72,
    "sources_n": 2,
    "title_it": "Jake Paul raddoppia in pensione se perde la battaglia di rimonta Cedric Doumbe... poiché metterà fine alle sue speranze di titolo mondiale",
    "title_es": "Jake Paul duplica su apuesta por el retiro si pierde la pelea de regreso con Cedric Doumbe... ya que terminará con sus esperanzas de título mundial."
@@ -1798,7 +1827,7 @@
    "date": "2026-11-11T11:25:08+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 58,
+   "score": 57,
    "sources_n": 5,
    "title_it": "Il campione del mondo Mohammad Waseem lotta per ottenere il visto, teme di perdere più opportunità di boxe - https://newsalert.com.pk/",
    "title_es": "El campeón mundial Mohammad Waseem lucha por obtener una visa y teme perder más oportunidades en el boxeo - https://newsalert.com.pk/"
@@ -1811,7 +1840,7 @@
    "date": "2026-11-11T11:24:27+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 28,
+   "score": 27,
    "sources_n": 1,
    "title_it": "I pesi massimi come Ali vengono messi KO da un pugno",
    "title_es": "Los exhibicionistas de peso pesado como Ali, quedan noqueados por un solo golpe"
@@ -2190,7 +2219,7 @@
    "date": "2026-11-11T01:21:34+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 13,
+   "score": 12,
    "sources_n": 1,
    "title_it": "Fajardo, Medecillo calpesta i freni - Daily Tribune",
    "title_es": "Fajardo, Medecillo pisan los frenos - Daily Tribune"
@@ -2797,7 +2826,7 @@
    "boxers": [
     "Canelo Alvarez"
    ],
-   "score": 92,
+   "score": 91,
    "sources_n": 7,
    "title_it": "Willy Hutchinson viene \"analizzato\" come potenziale prossimo incontro per Canelo Alvarez",
    "title_es": "Willy Hutchinson siendo 'analizado' como posible próxima pelea de Canelo Álvarez"
@@ -3097,7 +3126,7 @@
    "date": "2026-11-10T07:24:41+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 4,
+   "score": 3,
    "sources_n": 1,
    "title_it": "Ciò che ha DAVVERO innescato la rivolta notturna di boxe di HSTikkyTokky tra Tommy Robinson e Mo Deen, mentre l'influencer musulmano esce dalla copertura per rivendicare l'\"organizzazione\"",
    "title_es": "Lo que REALMENTE desencadenó el disturbio nocturno de boxeo de HSTikkyTokky entre Tommy Robinson y Mo Deen, mientras el influencer musulmán rompe la tapadera para reclamar una 'preparación'"
@@ -3632,7 +3661,7 @@
    "status": "rumor",
    "boxers": [],
    "score": 30,
-   "sources_n": 7,
+   "sources_n": 8,
    "title_it": "Il giovane pugile Cole parla della sua lotta e incontra Eddie Hearn, Dave Allen e Dalton Smith | Giorno speciale",
    "title_es": "El joven boxeador Cole habla de su propia pelea y conoce a Eddie Hearn, Dave Allen y Dalton Smith | Día especial"
   },
@@ -4046,35 +4075,6 @@
    "sources_n": 15,
    "title_it": "Tyson Fury rivela i suoi veri sentimenti nei confronti dell'ex allenatore, ora con Anthony Joshua",
    "title_es": "Tyson Fury revela sus verdaderos sentimientos hacia su exentrenador, que ahora trabaja con Anthony Joshua"
-  },
-  {
-   "title": "World title battle goes the distance! Elif Nur Turhan vs Alycia Baumgardner | Lightweight Highlights",
-   "link": "https://www.youtube.com/watch?v=GROtlUL60ak",
-   "source": "YouTube Sky Sports Boxing",
-   "lang": "en",
-   "date": "2026-11-09T08:24:25+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 40,
-   "sources_n": 4,
-   "title_it": "La battaglia per il titolo mondiale va lontano! Elif Nur Turhan contro Alycia Baumgardner | Punti salienti leggeri",
-   "title_es": "¡La batalla por el título mundial llega hasta el final! Elif Nur Turhan contra Alycia Baumgardner | Aspectos destacados ligeros"
-  },
-  {
-   "title": "JOHNNY FISHER TRUTH ON TYSON FURY INJURY RUMOURS FOR ANTHONY JOSHUA, PREDICTS WILDER VS OPETAIA",
-   "link": "https://www.youtube.com/watch?v=PqFX3DEmFZ0",
-   "source": "YouTube Pro Boxing Fans",
-   "lang": "en",
-   "date": "2026-11-09T08:00:30+00:00",
-   "status": "unverified",
-   "boxers": [
-    "Tyson Fury",
-    "Anthony Joshua"
-   ],
-   "score": 55,
-   "sources_n": 1,
-   "title_it": "JOHNNY FISHER VERITÀ SU TYSON FURY RUMORI SULL'INFORTUNIO PER ANTHONY JOSHUA, PREDICE WILDER VS OPETAIA",
-   "title_es": "JOHNNY FISHER VERDAD SOBRE LOS RUMORES DE LESIONES DE TYSON FURY PARA ANTHONY JOSHUA, PREDICTA WILDER VS OPETAIA"
   }
  ]
 }
