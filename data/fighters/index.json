@@ -42274,5 +42274,70 @@
  },
  "Johnny Greaves (boxer)": {
   "tried": "2026-11-12T23:40:41+00:00"
+ },
+ "Santiago Acosta": {
+  "slug": "santiago-acosta",
+  "updated": "2026-11-12T23:45:53+00:00",
+  "total": 10,
+  "verified": 0,
+  "record": {
+   "w": 6,
+   "l": 4,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "fr"
+  ]
+ },
+ "Grzegorz Kielsa": {
+  "slug": "grzegorz-kielsa",
+  "updated": "2026-11-12T23:45:57+00:00",
+  "total": 14,
+  "verified": 0,
+  "record": {
+   "w": 12,
+   "l": 2,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Felipe Campa": {
+  "tried": "2026-11-12T23:45:44+00:00"
+ },
+ "BJ Flores": {
+  "slug": "bj-flores",
+  "updated": "2026-11-12T23:46:04+00:00",
+  "total": 39,
+  "verified": 39,
+  "record": {
+   "w": 34,
+   "l": 4,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "es"
+  ]
+ },
+ "Freddy Hernández": {
+  "slug": "freddy-hernandez",
+  "updated": "2026-11-12T23:46:10+00:00",
+  "total": 24,
+  "verified": 0,
+  "record": {
+   "w": 13,
+   "l": 10,
+   "d": 0,
+   "nc": 1
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
