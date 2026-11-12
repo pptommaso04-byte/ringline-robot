@@ -41539,5 +41539,68 @@
  },
  "Adam Trupish": {
   "tried": "2026-11-12T22:28:04+00:00"
+ },
+ "Andrew Kooner": {
+  "tried": "2026-11-12T22:31:03+00:00"
+ },
+ "Édgar Sosa (boxer)": {
+  "slug": "edgar-sosa-boxer",
+  "updated": "2026-11-12T22:31:08+00:00",
+  "total": 64,
+  "verified": 0,
+  "record": {
+   "w": 53,
+   "l": 11,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Alejandro García (boxer)": {
+  "slug": "alejandro-garcia-boxer",
+  "updated": "2026-11-12T22:31:12+00:00",
+  "total": 32,
+  "verified": 0,
+  "record": {
+   "w": 26,
+   "l": 5,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Fernando Montiel": {
+  "slug": "fernando-montiel",
+  "updated": "2026-11-12T22:31:16+00:00",
+  "total": 62,
+  "verified": 0,
+  "record": {
+   "w": 54,
+   "l": 6,
+   "d": 2,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Julio Díaz (boxer)": {
+  "slug": "julio-diaz-boxer",
+  "updated": "2026-11-12T22:31:19+00:00",
+  "total": 51,
+  "verified": 0,
+  "record": {
+   "w": 40,
+   "l": 10,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
