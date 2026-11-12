@@ -35865,5 +35865,57 @@
  },
  "Matthew Marsh (boxer)": {
   "tried": "2026-11-12T13:11:17+00:00"
+ },
+ "Mebarek Soltani": {
+  "tried": "2026-11-12T13:16:03+00:00"
+ },
+ "Billy Dib": {
+  "slug": "billy-dib",
+  "updated": "2026-11-12T13:16:09+00:00",
+  "total": 57,
+  "verified": 0,
+  "record": {
+   "w": 49,
+   "l": 6,
+   "d": 0,
+   "nc": 2
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Kim Won-il (boxer)": {
+  "tried": "2026-11-12T13:16:03+00:00"
+ },
+ "Magomed Magomedov (kickboxer)": {
+  "slug": "magomed-magomedov-kickboxer",
+  "updated": "2026-11-12T13:16:15+00:00",
+  "total": 39,
+  "verified": 0,
+  "record": {
+   "w": 29,
+   "l": 9,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "de"
+  ]
+ },
+ "Omari Kimweri": {
+  "slug": "omari-kimweri",
+  "updated": "2026-11-12T13:16:18+00:00",
+  "total": 22,
+  "verified": 0,
+  "record": {
+   "w": 17,
+   "l": 5,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
