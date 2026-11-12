@@ -28677,5 +28677,69 @@
  },
  "César Seda": {
   "tried": "2026-11-12T00:05:42+00:00"
+ },
+ "Shane McPhilbin": {
+  "tried": "2026-11-12T00:10:45+00:00"
+ },
+ "Jesús Rojas (Puerto Rican boxer)": {
+  "slug": "jesus-rojas-puerto-rican-boxer",
+  "updated": "2026-11-12T00:10:49+00:00",
+  "total": 33,
+  "verified": 0,
+  "record": {
+   "w": 27,
+   "l": 3,
+   "d": 2,
+   "nc": 1
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Jason Welborn": {
+  "slug": "jason-welborn",
+  "updated": "2026-11-12T00:10:52+00:00",
+  "total": 33,
+  "verified": 0,
+  "record": {
+   "w": 24,
+   "l": 9,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Nick Hannig": {
+  "slug": "nick-hannig",
+  "updated": "2026-11-12T00:10:55+00:00",
+  "total": 17,
+  "verified": 0,
+  "record": {
+   "w": 14,
+   "l": 2,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "David Quijano": {
+  "slug": "david-quijano",
+  "updated": "2026-11-12T00:10:57+00:00",
+  "total": 24,
+  "verified": 0,
+  "record": {
+   "w": 16,
+   "l": 7,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "es"
+  ]
  }
 }
