@@ -39900,5 +39900,56 @@
  },
  "Humberto Soto (heavyweight boxer)": {
   "tried": "2026-11-12T20:01:32+00:00"
+ },
+ "Kaizer Mabuza": {
+  "tried": "2026-11-12T20:07:26+00:00"
+ },
+ "Sanghiran Lukbanyai": {
+  "slug": "sanghiran-lukbanyai",
+  "updated": "2026-11-12T20:07:33+00:00",
+  "total": 53,
+  "verified": 0,
+  "record": {
+   "w": 32,
+   "l": 19,
+   "d": 2,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Sam Rukundo": {
+  "slug": "sam-rukundo",
+  "updated": "2026-11-12T20:07:38+00:00",
+  "total": 20,
+  "verified": 0,
+  "record": {
+   "w": 15,
+   "l": 4,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Junior Farzan Ali": {
+  "tried": "2026-11-12T20:07:26+00:00"
+ },
+ "Pajonsuk SuperPro Samui": {
+  "slug": "pajonsuk-superpro-samui",
+  "updated": "2026-11-12T20:07:43+00:00",
+  "total": 31,
+  "verified": 0,
+  "record": {
+   "w": 20,
+   "l": 11,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
