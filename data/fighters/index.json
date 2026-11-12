@@ -40581,5 +40581,74 @@
  },
  "Saúl Román": {
   "tried": "2026-11-12T21:05:59+00:00"
+ },
+ "Aboubakr Lbida": {
+  "tried": "2026-11-12T21:10:55+00:00"
+ },
+ "Stephen Foster (boxer)": {
+  "slug": "stephen-foster-boxer",
+  "updated": "2026-11-12T21:11:04+00:00",
+  "total": 7,
+  "verified": 0,
+  "record": {
+   "w": 4,
+   "l": 3,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Stuart Hall (boxer)": {
+  "slug": "stuart-hall-boxer",
+  "updated": "2026-11-12T21:11:09+00:00",
+  "total": 30,
+  "verified": 0,
+  "record": {
+   "w": 21,
+   "l": 7,
+   "d": 2,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "es"
+  ]
+ },
+ "Albert Kraus": {
+  "slug": "albert-kraus",
+  "updated": "2026-11-12T21:11:15+00:00",
+  "total": 95,
+  "verified": 2,
+  "record": {
+   "w": 64,
+   "l": 30,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "es",
+   "fr",
+   "pt"
+  ]
+ },
+ "Kyle Noke": {
+  "slug": "kyle-noke",
+  "updated": "2026-11-12T21:11:21+00:00",
+  "total": 3,
+  "verified": 0,
+  "record": {
+   "w": 2,
+   "l": 1,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "fr",
+   "pt"
+  ]
  }
 }
