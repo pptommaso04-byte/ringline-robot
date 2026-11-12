@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T09:35:33+00:00",
+ "updated": "2026-11-12T09:40:43+00:00",
  "feeds_ok": 49,
  "feeds_failed": 4,
  "news": [
@@ -21,13 +21,29 @@
    "link": "https://sports.yahoo.com/articles/kelly-face-ennis-february-unification-082950242.html",
    "source": "Yahoo Sports Boxing",
    "lang": "en",
-   "date": "2026-11-12T09:13:55+00:00",
+   "date": "2026-11-12T09:23:40+00:00",
    "status": "unverified",
    "boxers": [],
    "score": 67,
    "sources_n": 3,
    "title_it": "Kelly affronterà Ennis nel match di unificazione di febbraio",
    "title_es": "Kelly se enfrentará a Ennis en el combate de unificación de febrero"
+  },
+  {
+   "title": "More heavyweight fights added to Tyson Fury vs Anthony Joshua undercard",
+   "link": "https://sports.yahoo.com/articles/more-heavyweight-fights-added-tyson-092316050.html",
+   "source": "Yahoo Sports Boxing",
+   "lang": "en",
+   "date": "2026-11-12T09:23:16+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Tyson Fury",
+    "Anthony Joshua"
+   ],
+   "score": 124,
+   "sources_n": 16,
+   "title_it": "Altri combattimenti dei pesi massimi aggiunti alla undercard Tyson Fury vs Anthony Joshua",
+   "title_es": "Se agregaron más peleas de peso pesado a la cartelera de Tyson Fury vs Anthony Joshua"
   },
   {
    "title": "Suganob-Iwata boxing match rekindled by latest WBO rankings - Cebu Daily News",
@@ -309,7 +325,7 @@
    "date": "2026-11-12T03:38:34+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 82,
+   "score": 81,
    "sources_n": 4,
    "title_it": "Jarrell Miller affronterà Tony Yoka ad Accra a dicembre",
    "title_es": "Jarrell Miller se enfrentará a Tony Yoka en Acra en diciembre"
@@ -509,7 +525,7 @@
    "date": "2026-11-11T23:39:34+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 25,
+   "score": 24,
    "sources_n": 1,
    "title_it": "Pesi da Montreal",
    "title_es": "Pesos de Montreal"
@@ -1038,7 +1054,7 @@
    "date": "2026-11-11T17:37:16+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 32,
+   "score": 31,
    "sources_n": 1,
    "title_it": "Pugilato: Luis Vela è campione Wbc International - L'Adige",
    "title_es": "Boxeo: Luis Vela es campeón internacional del Wbc - L'Adige"
@@ -1223,7 +1239,7 @@
    "date": "2026-11-11T15:38:46+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 104,
+   "score": 103,
    "sources_n": 5,
    "title_it": "Benavidez Sr fa una previsione di KO per la rivincita tra Canelo e Terence Crawford dopo la vittoria su Mbilli",
    "title_es": "Benavidez padre pronostica un nocaut en la revancha entre Canelo y Terence Crawford tras la victoria de Mbilli"
@@ -1900,7 +1916,7 @@
    "date": "2026-11-11T09:35:50+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 18,
+   "score": 17,
    "sources_n": 1,
    "title_it": "Ecco le squadre di Silat, Boxe e Biliardo di Da Nang Pencak che gareggiano ai Giochi Sportivi Nazionali. - Vietnam.vn",
    "title_es": "Aquí están los equipos de Silat, Boxeo y Billar de Da Nang Pencak compitiendo en los Juegos Deportivos Nacionales. -Vietnam.vn"
@@ -2115,7 +2131,7 @@
    "date": "2026-11-11T01:39:07+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 49,
+   "score": 48,
    "sources_n": 1,
    "title_it": "Diego Pacheco vs Darius Fulghum scheda di combattimento completo, ora di inizio, passeggiate sul ring, quote, come guardare l'incontro di sabato",
    "title_es": "Tarjeta de pelea completa Diego Pacheco vs. Darius Fulghum, hora de inicio, caminatas en el ring, probabilidades, cómo ver la pelea del sábado"
@@ -2171,19 +2187,6 @@
    "sources_n": 4,
    "title_it": "Mauricio Sulaimán reconoce la función de Ahmet Öner en Estambul durante la sesión general del WBC - World Boxing Council",
    "title_es": "Mauricio Sulaimán reconoce la función de Ahmet Öner en Estambul durante la sesión general del WBC - World Boxing Council"
-  },
-  {
-   "title": "Un Día Como Hoy en el Boxeo… 10 de noviembre - World Boxing Council",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5jYkdMa2hlcWY3ZDR3Q3hsczNZSmZTR19RODJ5Mkp2U0tBd0FZN0xyaWpjeXpnTHpkbG9vVjBBdXh1T2xHNzVDTmNoZE1mTTQ3Rk9sLThoMElhS1BxSjMzLWMxeGlZand4ODYwaXZlZFZ0U1kw?oc=5",
-   "source": "Google News: boxeo",
-   "lang": "es",
-   "date": "2026-11-10T23:40:52+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 43,
-   "sources_n": 4,
-   "title_it": "Un giorno come oggi nella boxe… 10 novembre - World Boxing Council",
-   "title_es": "Un Día Como Hoy en el Boxeo… 10 de noviembre - World Boxing Council"
   },
   {
    "title": "‘I love fighting southpaws’: Devin Haney looks forward to Liam Paro unification",
@@ -2260,7 +2263,7 @@
    "boxers": [
     "Canelo Alvarez"
    ],
-   "score": 125,
+   "score": 124,
    "sources_n": 8,
    "title_it": "Il nuovo campione dei pesi massimi leggeri WBC Willy Hutchinson viene \"analizzato\" come potenziale prossimo incontro per Canelo Alvarez, secondo l'allenatore/manager Eddy Reynoso: \"Sì, lo seguo e, senza dubbio, Hutchinson è il campione WBC e un'opzione per Canelo.\"",
    "title_es": "El nuevo campeón de peso semipesado del CMB, Willy Hutchinson, está 'analizado' como posible próxima pelea para Canelo Álvarez, según el entrenador/manager Eddy Reynoso: \"Sí, lo he estado siguiendo y, sin duda, Hutchinson es el campeón del CMB y una opción para Canelo\"."
@@ -2644,7 +2647,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 94,
+   "score": 93,
    "sources_n": 16,
    "title_it": "“Te lo dirò ora davanti alla telecamera” – Il padre di Tyson Fury rivela perché NON voleva che il combattimento tra Anthony Joshua andasse avanti",
    "title_es": "‘Te lo diré ahora frente a la cámara’: el padre de Tyson Fury revela por qué NO quería que la pelea con Anthony Joshua siguiera adelante"
@@ -2877,7 +2880,7 @@
    "date": "2026-11-10T11:39:07+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 7,
+   "score": 6,
    "sources_n": 1,
    "title_it": "Pugilato, Sofia Longo vice campionessa italiana - liratv",
    "title_es": "Pugilato, Sofia Longo vice campionessa italiana - liratv"
@@ -2970,7 +2973,7 @@
    "date": "2026-11-10T09:36:10+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 6,
+   "score": 5,
    "sources_n": 1,
    "title_it": "A 14 anni conquista l’Italia sul ring: l’impresa del pugliese Giulio Olivieri - Pugliapress",
    "title_es": "A 14 anni conquista l'Italia sul ring: l' empresa del pugliese Giulio Olivieri - Pugliapress"
@@ -3200,7 +3203,7 @@
    "date": "2026-11-09T23:36:34+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 21,
+   "score": 20,
    "sources_n": 2,
    "title_it": "William Zepeda e Isaac \"Pitbull\" Cruz si affrontano alla Convention WBC🍿",
    "title_es": "William Zepeda e Isaac 'Pitbull' Cruz se enfrentan en la Convención del WBC🍿"
