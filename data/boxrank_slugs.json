@@ -1,0 +1,20 @@
+{
+ "Heavyweight": "heavyweight",
+ "Bridgerweight": "bridgerweight",
+ "Cruiserweight": "cruiserweight",
+ "Light Heavyweight": "light-heavyweight",
+ "Super Middleweight": "super-middleweight",
+ "Middleweight": "middleweight",
+ "Junior Middleweight": "super-welterweight",
+ "Welterweight": "welterweight",
+ "Junior Welterweight": "super-lightweight",
+ "Lightweight": "lightweight",
+ "Junior Lightweight": "super-featherweight",
+ "Featherweight": "featherweight",
+ "Junior Featherweight": "super-bantamweight",
+ "Bantamweight": "bantamweight",
+ "Junior Bantamweight": "super-flyweight",
+ "Flyweight": "flyweight",
+ "Junior Flyweight": "light-flyweight",
+ "Strawweight": "minimumweight"
+}

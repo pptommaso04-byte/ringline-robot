@@ -1,0 +1,8760 @@
+{
+ "updated": "2026-11-12T13:02:48+00:00",
+ "sources": {
+  "WBA": {
+   "divisions": {
+    "Heavyweight": {
+     "champion": null,
+     "ranks": [
+      {
+       "name": "Jarrell Miller",
+       "country": "USA",
+       "rank": 1
+      },
+      {
+       "name": "Tyson Fury",
+       "country": "GBR",
+       "rank": 2
+      },
+      {
+       "name": "Anthony Joshua",
+       "country": "GBR",
+       "rank": 3
+      },
+      {
+       "name": "Vartan Arutyunyan",
+       "country": "RUS",
+       "rank": 4
+      },
+      {
+       "name": "Dainier Pero",
+       "country": "CUB",
+       "rank": 5
+      },
+      {
+       "name": "Moses Itauma",
+       "country": "GBR",
+       "rank": 6
+      },
+      {
+       "name": "Gurgen Hovhannisyan",
+       "country": "ARM",
+       "rank": 7
+      },
+      {
+       "name": "Artem Suslenkov",
+       "country": "RUS",
+       "rank": 8
+      },
+      {
+       "name": "Efe Ajagba",
+       "country": "NIG",
+       "rank": 9
+      },
+      {
+       "name": "Kingsley Ibeh",
+       "country": "USA",
+       "rank": 10
+      },
+      {
+       "name": "Kacper Meyna",
+       "country": "CON",
+       "rank": 11
+      },
+      {
+       "name": "Kem Ljungquist",
+       "country": "DEN",
+       "rank": 12
+      },
+      {
+       "name": "Temur Mamoyan",
+       "country": "GER",
+       "rank": 13
+      },
+      {
+       "name": "Viktor Vykhryst",
+       "country": "UKR",
+       "rank": 14
+      },
+      {
+       "name": "Rico Verhoeven",
+       "country": "NED",
+       "rank": 15
+      }
+     ]
+    },
+    "Cruiserweight": {
+     "champion": null,
+     "ranks": [
+      {
+       "name": "Leonardo Mosquea",
+       "country": "FRA",
+       "rank": 1
+      },
+      {
+       "name": "Chris Billam-Smith",
+       "country": "GBR",
+       "rank": 2
+      },
+      {
+       "name": "Lenar Perez",
+       "country": "CUB",
+       "rank": 3
+      },
+      {
+       "name": "Muslim Gadzhimagomedov",
+       "country": "RUS",
+       "rank": 4
+      },
+      {
+       "name": "Gilberto Ramirez",
+       "country": "MEX",
+       "rank": 5
+      },
+      {
+       "name": "Pat Brown",
+       "country": "INT",
+       "rank": 6
+      },
+      {
+       "name": "Julio Cesar La Cruz",
+       "country": "CUB",
+       "rank": 7
+      },
+      {
+       "name": "Aloys Youmbi",
+       "country": "GBR",
+       "rank": 8
+      },
+      {
+       "name": "Mike Perez",
+       "country": "CUB",
+       "rank": 9
+      },
+      {
+       "name": "Leon Harth",
+       "country": "GER",
+       "rank": 10
+      },
+      {
+       "name": "Robin Sirwan Safar",
+       "country": "SWE",
+       "rank": 11
+      },
+      {
+       "name": "Mitsuro Brandon Tajima",
+       "country": "JPN",
+       "rank": 12
+      },
+      {
+       "name": "Efetobor Apochi",
+       "country": "NIG",
+       "rank": 13
+      },
+      {
+       "name": "Yuniel Dorticos",
+       "country": "CUB",
+       "rank": 14
+      },
+      {
+       "name": "Lucas Pontes Da Silva",
+       "country": "BRA",
+       "rank": 15
+      }
+     ]
+    },
+    "Light Heavyweight": {
+     "champion": null,
+     "ranks": [
+      {
+       "name": "Sharabutdin Ataev",
+       "country": "RUS",
+       "rank": 1
+      },
+      {
+       "name": "Arlen Lopez",
+       "country": "CUB",
+       "rank": 2
+      },
+      {
+       "name": "Najee Lopez",
+       "country": "PUR",
+       "rank": 3
+      },
+      {
+       "name": "Radivoje Kalajdzic",
+       "country": "USA",
+       "rank": 4
+      },
+      {
+       "name": "Atif Oberlton",
+       "country": "USA",
+       "rank": 5
+      },
+      {
+       "name": "Lerrone Richards",
+       "country": "GBR",
+       "rank": 6
+      },
+      {
+       "name": "Benjamin Mendes Tani",
+       "country": "FRA",
+       "rank": 7
+      },
+      {
+       "name": "Bradley Rea",
+       "country": "GBR",
+       "rank": 8
+      },
+      {
+       "name": "Lewis Edmondson",
+       "country": "INT",
+       "rank": 9
+      },
+      {
+       "name": "Mehmet Unal",
+       "country": "TUR",
+       "rank": 10
+      },
+      {
+       "name": "Umar Dzambekov",
+       "country": "AUT",
+       "rank": 11
+      },
+      {
+       "name": "Gradus Kraus",
+       "country": "CON",
+       "rank": 12
+      },
+      {
+       "name": "Oleksandr Khyzhniak",
+       "country": "UKR",
+       "rank": 13
+      },
+      {
+       "name": "Ardian Krasniqi",
+       "country": "GER",
+       "rank": 14
+      },
+      {
+       "name": "Charles Shinima",
+       "country": "NAM",
+       "rank": 15
+      }
+     ]
+    },
+    "Super Middleweight": {
+     "champion": null,
+     "ranks": [
+      {
+       "name": "Bektemir Melikuziev",
+       "country": "UZB",
+       "rank": 1
+      },
+      {
+       "name": "Hamzah Sheeraz",
+       "country": "GBR",
+       "rank": 2
+      },
+      {
+       "name": "Jose Armando Resendiz",
+       "country": "MEX",
+       "rank": 3
+      },
+      {
+       "name": "Darius Fulghum",
+       "country": "USA",
+       "rank": 4
+      },
+      {
+       "name": "Diego Pacheco",
+       "country": "USA",
+       "rank": 5
+      },
+      {
+       "name": "Edgar Berlanga",
+       "country": "PUR",
+       "rank": 6
+      },
+      {
+       "name": "Jermall Charlo",
+       "country": "USA",
+       "rank": 7
+      },
+      {
+       "name": "Edin Avdic",
+       "country": "INT",
+       "rank": 8
+      },
+      {
+       "name": "Kevin Lele Sadjo",
+       "country": "FRA",
+       "rank": 9
+      },
+      {
+       "name": "Marco Romero",
+       "country": "USA",
+       "rank": 10
+      },
+      {
+       "name": "Jose Luis Navarro Jr",
+       "country": "ESP",
+       "rank": 11
+      },
+      {
+       "name": "Nikita Zon",
+       "country": "RUS",
+       "rank": 13
+      },
+      {
+       "name": "Junior Younan",
+       "country": "USA",
+       "rank": 14
+      },
+      {
+       "name": "Wilkens Mathieu",
+       "country": "CAN",
+       "rank": 15
+      }
+     ]
+    },
+    "Middleweight": {
+     "champion": null,
+     "ranks": [
+      {
+       "name": "Vadim Tukov",
+       "country": "RUS",
+       "rank": 1
+      },
+      {
+       "name": "Shane Mosley Jr",
+       "country": "USA",
+       "rank": 2
+      },
+      {
+       "name": "Tim Tszyu",
+       "country": "AUS",
+       "rank": 3
+      },
+      {
+       "name": "Andreas Katzourakis",
+       "country": "GRE",
+       "rank": 4
+      },
+      {
+       "name": "Michael Zerafa",
+       "country": "AUS",
+       "rank": 5
+      },
+      {
+       "name": "Vito Mielnicki Jr",
+       "country": "USA",
+       "rank": 6
+      },
+      {
+       "name": "Gerome Warburton",
+       "country": "CON",
+       "rank": 7
+      },
+      {
+       "name": "Jalil Hackett",
+       "country": "USA",
+       "rank": 8
+      },
+      {
+       "name": "Lucas Brian Ariel Bastida",
+       "country": "LAC",
+       "rank": 9
+      },
+      {
+       "name": "Joel Camilleri",
+       "country": "AUS",
+       "rank": 10
+      },
+      {
+       "name": "Sam Gilley",
+       "country": "INT",
+       "rank": 11
+      },
+      {
+       "name": "Alan Graves",
+       "country": "GBR",
+       "rank": 12
+      },
+      {
+       "name": "Karol Welter",
+       "country": "POL",
+       "rank": 13
+      },
+      {
+       "name": "Nikita Kuzmin",
+       "country": "RUS",
+       "rank": 14
+      },
+      {
+       "name": "Armat Armanuly",
+       "country": "KAZ",
+       "rank": 15
+      }
+     ]
+    },
+    "Junior Middleweight": {
+     "champion": null,
+     "ranks": [
+      {
+       "name": "Pavel Sosulin",
+       "country": "RUS",
+       "rank": 1
+      },
+      {
+       "name": "Yoenis Tellez",
+       "country": "CUB",
+       "rank": 2
+      },
+      {
+       "name": "Ismael Flores",
+       "country": "ARG",
+       "rank": 3
+      },
+      {
+       "name": "Piergiulio Ruhe",
+       "country": "ITA",
+       "rank": 4
+      },
+      {
+       "name": "Abass Baraou",
+       "country": "GER",
+       "rank": 5
+      },
+      {
+       "name": "Xander Zayas",
+       "country": "PUR",
+       "rank": 6
+      },
+      {
+       "name": "Israil Madrimov",
+       "country": "UZB",
+       "rank": 7
+      },
+      {
+       "name": "Magomed Kurbanov",
+       "country": "RUS",
+       "rank": 8
+      },
+      {
+       "name": "Alex Bray",
+       "country": "USA",
+       "rank": 9
+      },
+      {
+       "name": "Jeremy Alvarez",
+       "country": "VEN",
+       "rank": 10
+      },
+      {
+       "name": "Mykal Fox",
+       "country": "USA",
+       "rank": 11
+      },
+      {
+       "name": "Yan Marcos",
+       "country": "CUB",
+       "rank": 12
+      },
+      {
+       "name": "Joseph Spencer",
+       "country": "USA",
+       "rank": 13
+      },
+      {
+       "name": "Carlos Sinisterra",
+       "country": "COL",
+       "rank": 14
+      },
+      {
+       "name": "Baltazar Noria",
+       "country": "ARG",
+       "rank": 15
+      }
+     ]
+    },
+    "Welterweight": {
+     "champion": null,
+     "ranks": [
+      {
+       "name": "Raul Curiel",
+       "country": "MEX",
+       "rank": 1
+      },
+      {
+       "name": "Rolando Romero",
+       "country": "USA",
+       "rank": 2
+      },
+      {
+       "name": "Conah Walker",
+       "country": "GBR",
+       "rank": 3
+      },
+      {
+       "name": "Richardson Hitchins",
+       "country": "USA",
+       "rank": 4
+      },
+      {
+       "name": "Julian Rodriguez",
+       "country": "USA",
+       "rank": 5
+      },
+      {
+       "name": "Brian Norman Jr",
+       "country": "USA",
+       "rank": 6
+      },
+      {
+       "name": "Arnold Barboza Jr",
+       "country": "USA",
+       "rank": 7
+      },
+      {
+       "name": "Shakhram Giyasov",
+       "country": "UZB",
+       "rank": 8
+      },
+      {
+       "name": "Alexis Rocha",
+       "country": "USA",
+       "rank": 9
+      },
+      {
+       "name": "Abel Ramos",
+       "country": "USA",
+       "rank": 10
+      },
+      {
+       "name": "Leonardo Sanchez",
+       "country": "VEN",
+       "rank": 11
+      },
+      {
+       "name": "Ruslan Madiyev",
+       "country": "KAZ",
+       "rank": 12
+      },
+      {
+       "name": "Greg Outlaw",
+       "country": "USA",
+       "rank": 13
+      },
+      {
+       "name": "Joel Iriarte",
+       "country": "USA",
+       "rank": 14
+      },
+      {
+       "name": "Ilyas Can Kali",
+       "country": "CON",
+       "rank": 15
+      }
+     ]
+    },
+    "Junior Welterweight": {
+     "champion": null,
+     "ranks": [
+      {
+       "name": "Not Rated",
+       "country": "",
+       "rank": 1
+      },
+      {
+       "name": "Kevin Hayler Brown",
+       "country": "CUB",
+       "rank": 2
+      },
+      {
+       "name": "Oscar Duarte",
+       "country": "MEX",
+       "rank": 3
+      },
+      {
+       "name": "Andy Hiraoka",
+       "country": "JPN",
+       "rank": 4
+      },
+      {
+       "name": "Jose Nunez",
+       "country": "PAN",
+       "rank": 5
+      },
+      {
+       "name": "Jhon Orobio",
+       "country": "COL",
+       "rank": 6
+      },
+      {
+       "name": "Hovhannes Bachkov",
+       "country": "ARM",
+       "rank": 7
+      },
+      {
+       "name": "Frank Martin",
+       "country": "USA",
+       "rank": 8
+      },
+      {
+       "name": "Israel Mercado ( * )",
+       "country": "USA",
+       "rank": 9
+      },
+      {
+       "name": "Ivan Kozlovsky",
+       "country": "RUS",
+       "rank": 10
+      },
+      {
+       "name": "Gavin Gwynne",
+       "country": "GBR",
+       "rank": 11
+      },
+      {
+       "name": "Nicky Tejada",
+       "country": "USA",
+       "rank": 12
+      },
+      {
+       "name": "Ruslan Abdullaev",
+       "country": "UZB",
+       "rank": 13
+      },
+      {
+       "name": "Carlos Utria",
+       "country": "COL",
+       "rank": 14
+      },
+      {
+       "name": "Feudri Franco",
+       "country": "DOM",
+       "rank": 15
+      }
+     ]
+    },
+    "Lightweight": {
+     "champion": null,
+     "ranks": [
+      {
+       "name": "Jose Valenzuela",
+       "country": "USA",
+       "rank": 1
+      },
+      {
+       "name": "Armando Martinez Rabi",
+       "country": "CUB",
+       "rank": 2
+      },
+      {
+       "name": "Eridson Garcia",
+       "country": "DOM",
+       "rank": 3
+      },
+      {
+       "name": "Lucas Bahdi",
+       "country": "CAN",
+       "rank": 4
+      },
+      {
+       "name": "Lazaro Alvarez",
+       "country": "CUB",
+       "rank": 5
+      },
+      {
+       "name": "Corey Marksman",
+       "country": "USA",
+       "rank": 6
+      },
+      {
+       "name": "Daud Alaev",
+       "country": "RUS",
+       "rank": 7
+      },
+      {
+       "name": "Gary Allen Russell Jr",
+       "country": "USA",
+       "rank": 8
+      },
+      {
+       "name": "Reito Takahashi",
+       "country": "JPN",
+       "rank": 9
+      },
+      {
+       "name": "Francisco Fonseca",
+       "country": "CRC",
+       "rank": 10
+      },
+      {
+       "name": "Andres Cortes",
+       "country": "USA",
+       "rank": 11
+      },
+      {
+       "name": "Steven Cairns",
+       "country": "CON",
+       "rank": 12
+      },
+      {
+       "name": "Vildan Minasov",
+       "country": "RUS",
+       "rank": 13
+      },
+      {
+       "name": "Nahuel Alexander Espindola",
+       "country": "LAC",
+       "rank": 14
+      },
+      {
+       "name": "Abel Mendoza",
+       "country": "USA",
+       "rank": 15
+      }
+     ]
+    },
+    "Junior Lightweight": {
+     "champion": null,
+     "ranks": [
+      {
+       "name": "Moussa Gholam",
+       "country": "MAR",
+       "rank": 1
+      },
+      {
+       "name": "James Dickens",
+       "country": "GBR",
+       "rank": 2
+      },
+      {
+       "name": "Hayato Tsutsumi",
+       "country": "JPN",
+       "rank": 3
+      },
+      {
+       "name": "Masanori Rikiishi",
+       "country": "JPN",
+       "rank": 4
+      },
+      {
+       "name": "Liam Wilson",
+       "country": "AUS",
+       "rank": 5
+      },
+      {
+       "name": "Josue Francisco Aguero",
+       "country": "ARG",
+       "rank": 6
+      },
+      {
+       "name": "Josh Padley",
+       "country": "GBR",
+       "rank": 7
+      },
+      {
+       "name": "Kaipo Gallegos",
+       "country": "USA",
+       "rank": 8
+      },
+      {
+       "name": "Otar Eranosyan",
+       "country": "GEO",
+       "rank": 9
+      },
+      {
+       "name": "Deonte Brown",
+       "country": "USA",
+       "rank": 10
+      },
+      {
+       "name": "Yevgeniy Pavlov",
+       "country": "KAZ",
+       "rank": 11
+      },
+      {
+       "name": "Yamato Hata",
+       "country": "JPN",
+       "rank": 12
+      },
+      {
+       "name": "Nick Ball",
+       "country": "GBR",
+       "rank": 13
+      },
+      {
+       "name": "Henry Lebron",
+       "country": "PUR",
+       "rank": 14
+      },
+      {
+       "name": "Sofiane Oumiha",
+       "country": "FRA",
+       "rank": 15
+      }
+     ]
+    },
+    "Featherweight": {
+     "champion": null,
+     "ranks": [
+      {
+       "name": "Mirco Cuello",
+       "country": "ARG",
+       "rank": 1
+      },
+      {
+       "name": "Tomoki Kameda",
+       "country": "JPN",
+       "rank": 2
+      },
+      {
+       "name": "Brandon Figueroa",
+       "country": "USA",
+       "rank": 3
+      },
+      {
+       "name": "Mikito Nakano",
+       "country": "JPN",
+       "rank": 4
+      },
+      {
+       "name": "Ivan Chirkov",
+       "country": "RUS",
+       "rank": 5
+      },
+      {
+       "name": "Adrian Maximiliano Robledo",
+       "country": "ARG",
+       "rank": 6
+      },
+      {
+       "name": "Luis Reynaldo Nunez",
+       "country": "DOM",
+       "rank": 7
+      },
+      {
+       "name": "Vic Pasillas",
+       "country": "USA",
+       "rank": 8
+      },
+      {
+       "name": "Reito Tsutsumi",
+       "country": "JPN",
+       "rank": 9
+      },
+      {
+       "name": "Omar Trinidad",
+       "country": "USA",
+       "rank": 10
+      },
+      {
+       "name": "Jan Paul Rivera-Pizarro",
+       "country": "PUR",
+       "rank": 11
+      },
+      {
+       "name": "Vsevolod Shumkov",
+       "country": "RUS",
+       "rank": 12
+      },
+      {
+       "name": "Jonathan Cabrera Sanchez",
+       "country": "LAC",
+       "rank": 13
+      },
+      {
+       "name": "Shabaz Masoud",
+       "country": "INT",
+       "rank": 14
+      },
+      {
+       "name": "Ryota Muto",
+       "country": "JPN",
+       "rank": 15
+      }
+     ]
+    },
+    "Junior Featherweight": {
+     "champion": null,
+     "ranks": [
+      {
+       "name": "Mukhammad Shekhov",
+       "country": "UZB",
+       "rank": 1
+      },
+      {
+       "name": "Ramon Cardenas",
+       "country": "USA",
+       "rank": 2
+      },
+      {
+       "name": "Murodjon Akhmadaliev",
+       "country": "UZB",
+       "rank": 3
+      },
+      {
+       "name": "Victor Santillan",
+       "country": "DOM",
+       "rank": 4
+      },
+      {
+       "name": "Junto Nakatani",
+       "country": "JPN",
+       "rank": 5
+      },
+      {
+       "name": "Toshiki Shimomachi",
+       "country": "JPN",
+       "rank": 6
+      },
+      {
+       "name": "Angel Barrientes",
+       "country": "USA",
+       "rank": 7
+      },
+      {
+       "name": "Kevin Gonzalez",
+       "country": "MEX",
+       "rank": 8
+      },
+      {
+       "name": "Joe Mcgrail",
+       "country": "GBR",
+       "rank": 9
+      },
+      {
+       "name": "Yerny Betancourt",
+       "country": "VEN",
+       "rank": 10
+      },
+      {
+       "name": "Yukinori Oguni",
+       "country": "JPN",
+       "rank": 11
+      },
+      {
+       "name": "Alex Vallecillo",
+       "country": "NCA",
+       "rank": 12
+      },
+      {
+       "name": "Noel Reyes Cepeda",
+       "country": "DOM",
+       "rank": 13
+      },
+      {
+       "name": "Jose Tito Sanchez",
+       "country": "USA",
+       "rank": 14
+      },
+      {
+       "name": "Arturo Cardenas",
+       "country": "MEX",
+       "rank": 15
+      }
+     ]
+    },
+    "Bantamweight": {
+     "champion": null,
+     "ranks": [
+      {
+       "name": "Seiya Tsutsumi",
+       "country": "JPN",
+       "rank": 1
+      },
+      {
+       "name": "Andres Teran",
+       "country": "MEX",
+       "rank": 2
+      },
+      {
+       "name": "Tenshin Nasukawa",
+       "country": "JPN",
+       "rank": 3
+      },
+      {
+       "name": "Nonito Donaire",
+       "country": "PHI",
+       "rank": 4
+      },
+      {
+       "name": "Daigo Higa",
+       "country": "JPN",
+       "rank": 5
+      },
+      {
+       "name": "Jordan Orozco Hernandez",
+       "country": "NCA",
+       "rank": 6
+      },
+      {
+       "name": "Yuta Sakai",
+       "country": "JPN",
+       "rank": 7
+      },
+      {
+       "name": "Andrey Bonilla",
+       "country": "USA",
+       "rank": 8
+      },
+      {
+       "name": "Yoshiki Takei",
+       "country": "JPN",
+       "rank": 9
+      },
+      {
+       "name": "Antonio Vargas",
+       "country": "USA",
+       "rank": 10
+      },
+      {
+       "name": "Kazuto Ioka",
+       "country": "JPN",
+       "rank": 11
+      },
+      {
+       "name": "Andrew Cain",
+       "country": "GBR",
+       "rank": 12
+      },
+      {
+       "name": "Katsuma Akitsugi",
+       "country": "JPN",
+       "rank": 13
+      },
+      {
+       "name": "Junior Andres Narvaes",
+       "country": "ARG",
+       "rank": 14
+      },
+      {
+       "name": "Jason Moloney",
+       "country": "AUS",
+       "rank": 15
+      }
+     ]
+    },
+    "Junior Bantamweight": {
+     "champion": null,
+     "ranks": [
+      {
+       "name": "John Ramirez",
+       "country": "USA",
+       "rank": 1
+      },
+      {
+       "name": "Seigo Yuri Akui",
+       "country": "JPN",
+       "rank": 2
+      },
+      {
+       "name": "Tomoya Tsuboi",
+       "country": "JPN",
+       "rank": 3
+      },
+      {
+       "name": "Ryusei Kawaura",
+       "country": "JPN",
+       "rank": 4
+      },
+      {
+       "name": "Jack Turner",
+       "country": "INT",
+       "rank": 5
+      },
+      {
+       "name": "Taku Kuwahara",
+       "country": "JPN",
+       "rank": 6
+      },
+      {
+       "name": "Andres Gregorio",
+       "country": "BRA",
+       "rank": 7
+      },
+      {
+       "name": "Theophilous Kpakpo Allotey",
+       "country": "GHA",
+       "rank": 8
+      },
+      {
+       "name": "Ari Bonilla",
+       "country": "USA",
+       "rank": 9
+      },
+      {
+       "name": "Olajuwon Acosta",
+       "country": "PUR",
+       "rank": 10
+      },
+      {
+       "name": "Fernando Daniel Martinez",
+       "country": "ARG",
+       "rank": 11
+      },
+      {
+       "name": "Yoel Finol",
+       "country": "VEN",
+       "rank": 12
+      },
+      {
+       "name": "Kenta Nakagawa",
+       "country": "JPN",
+       "rank": 13
+      },
+      {
+       "name": "Francisco Mendivil Perez",
+       "country": "MEX",
+       "rank": 14
+      },
+      {
+       "name": "Michael Abban",
+       "country": "GHA",
+       "rank": 15
+      }
+     ]
+    },
+    "Flyweight": {
+     "champion": null,
+     "ranks": [
+      {
+       "name": "Kyosuke Takami",
+       "country": "JPN",
+       "rank": 1
+      },
+      {
+       "name": "Jonathan Gonzalez",
+       "country": "PUR",
+       "rank": 2
+      },
+      {
+       "name": "Samuel Carmona",
+       "country": "ESP",
+       "rank": 3
+      },
+      {
+       "name": "Yankiel Rivera Figueroa",
+       "country": "PUR",
+       "rank": 4
+      },
+      {
+       "name": "Ricardo Rafael Sandoval",
+       "country": "USA",
+       "rank": 5
+      },
+      {
+       "name": "Kosuke Tomioka",
+       "country": "JPN",
+       "rank": 6
+      },
+      {
+       "name": "Jean Carlos Vargas",
+       "country": "VEN",
+       "rank": 7
+      },
+      {
+       "name": "Enkhmandakh Kharkhuu",
+       "country": "MGL",
+       "rank": 8
+      },
+      {
+       "name": "Joel Agustin Contreras",
+       "country": "ARG",
+       "rank": 9
+      },
+      {
+       "name": "Yoali Mejia Mosqueda",
+       "country": "MEX",
+       "rank": 10
+      },
+      {
+       "name": "David Alonso Sanchez Estralla",
+       "country": "MEX",
+       "rank": 11
+      },
+      {
+       "name": "Hamza Uddin",
+       "country": "GBR",
+       "rank": 12
+      },
+      {
+       "name": "Geremy Vera",
+       "country": "LAC",
+       "rank": 13
+      },
+      {
+       "name": "Joselito Velazquez",
+       "country": "MEX",
+       "rank": 14
+      },
+      {
+       "name": "Angel Alvarado Soto",
+       "country": "MEX",
+       "rank": 15
+      }
+     ]
+    },
+    "Junior Flyweight": {
+     "champion": null,
+     "ranks": [
+      {
+       "name": "Not Rated",
+       "country": "",
+       "rank": 1
+      },
+      {
+       "name": "Erick Rosa",
+       "country": "LAC",
+       "rank": 2
+      },
+      {
+       "name": "Aaron De La Cruz Escobedo",
+       "country": "MEX",
+       "rank": 3
+      },
+      {
+       "name": "Ronald Chacon",
+       "country": "VEN",
+       "rank": 4
+      },
+      {
+       "name": "Carlos Canizales",
+       "country": "VEN",
+       "rank": 5
+      },
+      {
+       "name": "Jairo Noriega",
+       "country": "ESP",
+       "rank": 6
+      },
+      {
+       "name": "Azael Villar",
+       "country": "PAN",
+       "rank": 7
+      },
+      {
+       "name": "Rodrigo Ramirez",
+       "country": "VEN",
+       "rank": 8
+      },
+      {
+       "name": "Raito Kataoka",
+       "country": "JPN",
+       "rank": 9
+      },
+      {
+       "name": "Jeifry Juan",
+       "country": "DOM",
+       "rank": 10
+      },
+      {
+       "name": "Masataka Taniguchi",
+       "country": "JPN",
+       "rank": 11
+      },
+      {
+       "name": "Terry Washington",
+       "country": "USA",
+       "rank": 12
+      },
+      {
+       "name": "Siseko Teyisi",
+       "country": "RSA",
+       "rank": 13
+      },
+      {
+       "name": "Tayvien Alpough",
+       "country": "USA",
+       "rank": 14
+      },
+      {
+       "name": "Sanzhar Tashkenbay",
+       "country": "KAZ",
+       "rank": 15
+      }
+     ]
+    },
+    "Strawweight": {
+     "champion": null,
+     "ranks": [
+      {
+       "name": "Not Rated",
+       "country": "",
+       "rank": 1
+      },
+      {
+       "name": "Vic Saludar",
+       "country": "PHI",
+       "rank": 2
+      },
+      {
+       "name": "Dianxing Zhu",
+       "country": "CHN",
+       "rank": 3
+      },
+      {
+       "name": "Katsuki Mori",
+       "country": "JPN",
+       "rank": 4
+      },
+      {
+       "name": "Joseph Sumabong",
+       "country": "PHI",
+       "rank": 5
+      },
+      {
+       "name": "Joey Canoy",
+       "country": "PHI",
+       "rank": 6
+      },
+      {
+       "name": "Jayson Vayson",
+       "country": "PHI",
+       "rank": 7
+      },
+      {
+       "name": "Wilfredo Mendez",
+       "country": "PUR",
+       "rank": 8
+      },
+      {
+       "name": "Issa Sakata",
+       "country": "JPN",
+       "rank": 9
+      },
+      {
+       "name": "Yoshi Sugiura",
+       "country": "JPN",
+       "rank": 10
+      },
+      {
+       "name": "Zyvyr John Medecilo",
+       "country": "PHI",
+       "rank": 11
+      },
+      {
+       "name": "Takero Kitano",
+       "country": "JPN",
+       "rank": 12
+      },
+      {
+       "name": "Edmond Khudoyan",
+       "country": "RUS",
+       "rank": 13
+      },
+      {
+       "name": "Mpendulo Msimanga",
+       "country": "RSA",
+       "rank": 14
+      },
+      {
+       "name": "Beaven Sibanda",
+       "country": "ZIM",
+       "rank": 15
+      }
+     ]
+    }
+   },
+   "p4p_M": [],
+   "p4p_F": [],
+   "label": "WBA (classifica ufficiale)",
+   "url": "https://www.wbaboxing.com/wba-ranking",
+   "read": "2026-11-12T13:01:33+00:00"
+  },
+  "WBC": {
+   "divisions": {
+    "Heavyweight": {
+     "champion": {
+      "name": "Agit KabayelWorld",
+      "country": "Germany"
+     },
+     "ranks": [
+      {
+       "name": "Lawrence OkolieNEW",
+       "country": "United Kingdom",
+       "rank": 1
+      },
+      {
+       "name": "Deontay Wilder+2",
+       "country": "United States",
+       "rank": 2
+      },
+      {
+       "name": "Moses Itauma+2",
+       "country": "United Kingdom",
+       "rank": 3
+      },
+      {
+       "name": "Efe Ajagba+2",
+       "country": "Nigeria",
+       "rank": 4
+      },
+      {
+       "name": "Mourad Aliev+10",
+       "country": "France",
+       "rank": 5
+      },
+      {
+       "name": "Fabio WardleyNEW",
+       "country": "United Kingdom",
+       "rank": 6
+      },
+      {
+       "name": "Joseph Parker",
+       "country": "New Zealand",
+       "rank": 7
+      },
+      {
+       "name": "Justis Huni+4",
+       "country": "Australia",
+       "rank": 8
+      },
+      {
+       "name": "Richard Riakporhe",
+       "country": "United Kingdom",
+       "rank": 9
+      },
+      {
+       "name": "Bakhodir Jalolov+1",
+       "country": "Uzbekistan",
+       "rank": 10
+      },
+      {
+       "name": "Rico Verhoeven-3",
+       "country": "Netherlands",
+       "rank": 11
+      },
+      {
+       "name": "Labinot Xhoxhaj+1",
+       "country": "Kosovo",
+       "rank": 12
+      },
+      {
+       "name": "Andrii Novitskyi-3",
+       "country": "Ukraine",
+       "rank": 13
+      },
+      {
+       "name": "Kingsley Ibeh",
+       "country": "United States",
+       "rank": 14
+      },
+      {
+       "name": "Kacper Meyna+1",
+       "country": "Poland",
+       "rank": 15
+      },
+      {
+       "name": "Nelson Hysa+2",
+       "country": "Albania",
+       "rank": 16
+      },
+      {
+       "name": "Damian Knyba+2",
+       "country": "Poland",
+       "rank": 17
+      },
+      {
+       "name": "Pryce Taylor+10",
+       "country": "United States",
+       "rank": 18
+      },
+      {
+       "name": "Arslanbek Makhmudov+1",
+       "country": "Russia",
+       "rank": 19
+      },
+      {
+       "name": "Guido Vianello+1",
+       "country": "Italy",
+       "rank": 20
+      },
+      {
+       "name": "Ahmed Krnjic+3",
+       "country": "Bosnia & Herzegovina",
+       "rank": 21
+      },
+      {
+       "name": "Richard Torrez Jr",
+       "country": "United States",
+       "rank": 22
+      },
+      {
+       "name": "Lenier Pero",
+       "country": "Cuba",
+       "rank": 23
+      },
+      {
+       "name": "Lazizbek Mullojonov+1",
+       "country": "Uzbekistan",
+       "rank": 24
+      },
+      {
+       "name": "Umut Camkiran-8",
+       "country": "Türkiye",
+       "rank": 25
+      },
+      {
+       "name": "Teremoana Teremoana+6",
+       "country": "Australia",
+       "rank": 26
+      },
+      {
+       "name": "Peter Milas-1",
+       "country": "Croatia",
+       "rank": 27
+      },
+      {
+       "name": "Vladyslav Sirenko-1",
+       "country": "Ukraine",
+       "rank": 28
+      },
+      {
+       "name": "Alexis BariereNEW",
+       "country": "Canada",
+       "rank": 29
+      },
+      {
+       "name": "Brandon Moore+1",
+       "country": "United States",
+       "rank": 30
+      },
+      {
+       "name": "Kristian Prenga+2",
+       "country": "Albania",
+       "rank": 31
+      },
+      {
+       "name": "Jose Kadima+2",
+       "country": "DR Congo",
+       "rank": 32
+      },
+      {
+       "name": "Frazer Clarke+2",
+       "country": "United Kingdom",
+       "rank": 33
+      },
+      {
+       "name": "Jeamie Tshikeva+2",
+       "country": "United Kingdom",
+       "rank": 34
+      },
+      {
+       "name": "Gustavo Trujillo+4",
+       "country": "United States",
+       "rank": 35
+      },
+      {
+       "name": "Damazion Vanhouter+1",
+       "country": "United States",
+       "rank": 36
+      },
+      {
+       "name": "Walter Karim CrucceNEW",
+       "country": "Argentina",
+       "rank": 37
+      },
+      {
+       "name": "Dainier Pero+2",
+       "country": "Cuba",
+       "rank": 38
+      },
+      {
+       "name": "Tsotne Rogava-1",
+       "country": "Ukraine",
+       "rank": 39
+      },
+      {
+       "name": "David AdeleyeNEW",
+       "country": "United Kingdom",
+       "rank": 40
+      }
+     ]
+    },
+    "Bridgerweight": {
+     "champion": {
+      "name": "Ryad MerhyWorld",
+      "country": "Belgium"
+     },
+     "ranks": [
+      {
+       "name": "Kris Terzievski",
+       "country": "Australia",
+       "rank": 1
+      },
+      {
+       "name": "Angelo Morejon+3",
+       "country": "Cuba",
+       "rank": 2
+      },
+      {
+       "name": "Oleksandr Hrytsiv-1",
+       "country": "Ukraine",
+       "rank": 3
+      },
+      {
+       "name": "Alexander Nedbei",
+       "country": "Switzerland",
+       "rank": 4
+      },
+      {
+       "name": "Jerry Forrest+1",
+       "country": "United States",
+       "rank": 5
+      },
+      {
+       "name": "Piotr Lacz+1",
+       "country": "Poland",
+       "rank": 6
+      },
+      {
+       "name": "Nikodem Jezewski+3",
+       "country": "Poland",
+       "rank": 7
+      },
+      {
+       "name": "Jack Mulowayi+3",
+       "country": "Belgium",
+       "rank": 8
+      },
+      {
+       "name": "Ali Ellis+5",
+       "country": "United States",
+       "rank": 9
+      },
+      {
+       "name": "Adam Balski-7",
+       "country": "Poland",
+       "rank": 10
+      },
+      {
+       "name": "Senad Gashi+1",
+       "country": "Germany",
+       "rank": 11
+      },
+      {
+       "name": "Lyubomyr Pinchuk+1",
+       "country": "Ukraine",
+       "rank": 12
+      },
+      {
+       "name": "Carlos Fromenta Romero+2",
+       "country": "Cuba",
+       "rank": 13
+      },
+      {
+       "name": "Keaton Gomes-6",
+       "country": "South Africa",
+       "rank": 14
+      },
+      {
+       "name": "Bohdan MyronetsNEW",
+       "country": "Ukraine",
+       "rank": 15
+      },
+      {
+       "name": "Marco Huck",
+       "country": "Germany",
+       "rank": 16
+      },
+      {
+       "name": "Leon Harth",
+       "country": "Germany",
+       "rank": 17
+      },
+      {
+       "name": "Willy Kyakonye-9",
+       "country": "Netherlands",
+       "rank": 18
+      },
+      {
+       "name": "Tommy Welch",
+       "country": "United Kingdom",
+       "rank": 19
+      },
+      {
+       "name": "Akani Phuzi",
+       "country": "South Africa",
+       "rank": 20
+      },
+      {
+       "name": "Victor Emilio Ramirez-3",
+       "country": "Argentina",
+       "rank": 21
+      },
+      {
+       "name": "Vitaliy Stalchenko-1",
+       "country": "Ukraine",
+       "rank": 22
+      },
+      {
+       "name": "Lovro Pavcec",
+       "country": "Croatia",
+       "rank": 23
+      },
+      {
+       "name": "Giovanni Scuderi",
+       "country": "Italy",
+       "rank": 24
+      },
+      {
+       "name": "Tyler Langer",
+       "country": "United States",
+       "rank": 25
+      },
+      {
+       "name": "Hasan Kubilay Alcu",
+       "country": "Türkiye",
+       "rank": 26
+      },
+      {
+       "name": "Alexandru Jur",
+       "country": "Romania",
+       "rank": 27
+      },
+      {
+       "name": "Widen Schmitter Gonzales",
+       "country": "Bolivia",
+       "rank": 28
+      },
+      {
+       "name": "Deangelo LeachmanNEW",
+       "country": "United States",
+       "rank": 29
+      }
+     ]
+    },
+    "Cruiserweight": {
+     "champion": {
+      "name": "Michal CieslakWorld",
+      "country": "Poland"
+     },
+     "ranks": [
+      {
+       "name": "David BenavidezNEW",
+       "country": "United States",
+       "rank": 1
+      },
+      {
+       "name": "Jai OpetaiaNEW",
+       "country": "Australia",
+       "rank": 2
+      },
+      {
+       "name": "Cheavon Clarke+13",
+       "country": "United Kingdom",
+       "rank": 3
+      },
+      {
+       "name": "Robin Sirwan Safar-2",
+       "country": "Sweden",
+       "rank": 4
+      },
+      {
+       "name": "Viddal Riley-2",
+       "country": "United Kingdom",
+       "rank": 5
+      },
+      {
+       "name": "Kevin Lerena",
+       "country": "South Africa",
+       "rank": 6
+      },
+      {
+       "name": "Yuniel Dorticos-2",
+       "country": "Cuba",
+       "rank": 7
+      },
+      {
+       "name": "Norair Mikaeljan-4",
+       "country": "Germany",
+       "rank": 8
+      },
+      {
+       "name": "Leonardo Mosquea-2",
+       "country": "France",
+       "rank": 9
+      },
+      {
+       "name": "Gilberto Ramirez-2",
+       "country": "Mexico",
+       "rank": 10
+      },
+      {
+       "name": "Yamil Alberto Peralta-2",
+       "country": "Argentina",
+       "rank": 11
+      },
+      {
+       "name": "Jonathan Kogasso",
+       "country": "Italy",
+       "rank": 12
+      },
+      {
+       "name": "Chris Billam-Smith-12",
+       "country": "United Kingdom",
+       "rank": 13
+      },
+      {
+       "name": "Badou Jack-4",
+       "country": "Sweden",
+       "rank": 14
+      },
+      {
+       "name": "Lenar Perez-2",
+       "country": "Cuba",
+       "rank": 15
+      },
+      {
+       "name": "Efetobor Apochi-2",
+       "country": "Nigeria",
+       "rank": 16
+      },
+      {
+       "name": "Ilunga Junior Makabu-6",
+       "country": "DR Congo",
+       "rank": 17
+      },
+      {
+       "name": "Mateusz Masternak-3",
+       "country": "Poland",
+       "rank": 18
+      },
+      {
+       "name": "Ryan Rozicki-2",
+       "country": "Canada",
+       "rank": 19
+      },
+      {
+       "name": "Brandon Glanton-2",
+       "country": "United States",
+       "rank": 20
+      },
+      {
+       "name": "Pat Brown",
+       "country": "United Kingdom",
+       "rank": 21
+      },
+      {
+       "name": "Kevin Ramirez-2",
+       "country": "Argentina",
+       "rank": 22
+      },
+      {
+       "name": "Aloys Youmbi-4",
+       "country": "United Kingdom",
+       "rank": 23
+      },
+      {
+       "name": "David Nyika-2",
+       "country": "New Zealand",
+       "rank": 24
+      },
+      {
+       "name": "Jurgen Uldedeaj-2",
+       "country": "Albania",
+       "rank": 25
+      },
+      {
+       "name": "Julio Cesar Chavez Jr-2",
+       "country": "Mexico",
+       "rank": 26
+      },
+      {
+       "name": "Michiel Partoens",
+       "country": "Belgium",
+       "rank": 27
+      },
+      {
+       "name": "Tristan Kalkreuth-2",
+       "country": "United States",
+       "rank": 28
+      },
+      {
+       "name": "Mike Perez-4",
+       "country": "Cuba",
+       "rank": 29
+      },
+      {
+       "name": "Floyd Masson-2",
+       "country": "Australia",
+       "rank": 30
+      },
+      {
+       "name": "Marko Calic-2",
+       "country": "Croatia",
+       "rank": 31
+      },
+      {
+       "name": "Imran Haddabah-2",
+       "country": "United States",
+       "rank": 32
+      },
+      {
+       "name": "Jack Massey-2",
+       "country": "United Kingdom",
+       "rank": 33
+      },
+      {
+       "name": "Luke Modini-2",
+       "country": "Australia",
+       "rank": 34
+      },
+      {
+       "name": "Yan Zak",
+       "country": "Israel",
+       "rank": 35
+      },
+      {
+       "name": "Blake Caparello-2",
+       "country": "Australia",
+       "rank": 36
+      },
+      {
+       "name": "Rogelio Romero-1",
+       "country": "Mexico",
+       "rank": 37
+      },
+      {
+       "name": "Brandon Tajima-1",
+       "country": "Japan",
+       "rank": 38
+      },
+      {
+       "name": "Veljko RaznatovicNEW",
+       "country": "Serbia",
+       "rank": 39
+      },
+      {
+       "name": "Octavio Pudivitr-1",
+       "country": "Portugal",
+       "rank": 40
+      }
+     ]
+    },
+    "Light Heavyweight": {
+     "champion": {
+      "name": "Willy HutchinsonNEWWorld ChampionWilly Hutchinson: won the vacant WBC light heavyweight title by unanimous decision over Joshua Buatsi in Manchester. Event date: 7 November 2026. First shown in the November 2026 rankings.Official source",
+      "country": "United Kingdom"
+     },
+     "ranks": [
+      {
+       "name": "Artur Beterbiev",
+       "country": "Canada",
+       "rank": 1
+      },
+      {
+       "name": "Ben Whittaker",
+       "country": "United Kingdom",
+       "rank": 2
+      },
+      {
+       "name": "Imam Khataev+2",
+       "country": "Australia",
+       "rank": 3
+      },
+      {
+       "name": "Radivoje Kalajdzic",
+       "country": "United States",
+       "rank": 4
+      },
+      {
+       "name": "Najee Lopez+2",
+       "country": "United States",
+       "rank": 5
+      },
+      {
+       "name": "Umar Dzambekov+7",
+       "country": "Austria",
+       "rank": 6
+      },
+      {
+       "name": "Joshua Buatsi-4",
+       "country": "United Kingdom",
+       "rank": 7
+      },
+      {
+       "name": "Mehmet Unal+3",
+       "country": "Türkiye",
+       "rank": 8
+      },
+      {
+       "name": "Anthony Yarde-1",
+       "country": "United Kingdom",
+       "rank": 9
+      },
+      {
+       "name": "Atif Oberlton+5",
+       "country": "United States",
+       "rank": 10
+      },
+      {
+       "name": "Conor Wallace-1",
+       "country": "United Kingdom",
+       "rank": 11
+      },
+      {
+       "name": "Arlen Lopez",
+       "country": "Cuba",
+       "rank": 12
+      },
+      {
+       "name": "Zak Chelli+1",
+       "country": "United Kingdom",
+       "rank": 13
+      },
+      {
+       "name": "Lewis Edmondson+4",
+       "country": "United Kingdom",
+       "rank": 14
+      },
+      {
+       "name": "Austin Aokuso+7",
+       "country": "Australia",
+       "rank": 15
+      },
+      {
+       "name": "Luca D'Ortenzi+5",
+       "country": "Italy",
+       "rank": 16
+      },
+      {
+       "name": "Zach Parker-8",
+       "country": "United Kingdom",
+       "rank": 17
+      },
+      {
+       "name": "Craig Richards-2",
+       "country": "United Kingdom",
+       "rank": 18
+      },
+      {
+       "name": "David Morrell-2",
+       "country": "Cuba",
+       "rank": 19
+      },
+      {
+       "name": "Badien Hasso+8",
+       "country": "Germany",
+       "rank": 20
+      },
+      {
+       "name": "Ali Akhmedov+9",
+       "country": "Kazakhstan",
+       "rank": 21
+      },
+      {
+       "name": "Paulo Aokuso+5",
+       "country": "Australia",
+       "rank": 22
+      },
+      {
+       "name": "Kajetan Kalinowski+3",
+       "country": "Poland",
+       "rank": 23
+      },
+      {
+       "name": "Yoann Kongolo-1",
+       "country": "Switzerland",
+       "rank": 24
+      },
+      {
+       "name": "Lerrone Richards-1",
+       "country": "United Kingdom",
+       "rank": 25
+      },
+      {
+       "name": "Yehor VelikovskyiNEW",
+       "country": "Ukraine",
+       "rank": 26
+      },
+      {
+       "name": "Benjamin Mendes Tani+7",
+       "country": "France",
+       "rank": 27
+      },
+      {
+       "name": "Juan Carrillo+1",
+       "country": "Colombia",
+       "rank": 28
+      },
+      {
+       "name": "Yair Gallardo+2",
+       "country": "Mexico",
+       "rank": 29
+      },
+      {
+       "name": "Pawel Stepien+3",
+       "country": "Poland",
+       "rank": 30
+      },
+      {
+       "name": "Bradley Rea+9",
+       "country": "United Kingdom",
+       "rank": 31
+      },
+      {
+       "name": "Oleksandr Khyzhniak",
+       "country": "Ukraine",
+       "rank": 32
+      },
+      {
+       "name": "Joseph Ward+2",
+       "country": "Ireland",
+       "rank": 33
+      },
+      {
+       "name": "Lawrence King+2",
+       "country": "United States",
+       "rank": 34
+      },
+      {
+       "name": "Dante Benjamin+2",
+       "country": "United States",
+       "rank": 35
+      },
+      {
+       "name": "Constantino Nanga+2",
+       "country": "Sweden",
+       "rank": 36
+      },
+      {
+       "name": "Pablo Ezequiel Corzo+2",
+       "country": "Argentina",
+       "rank": 37
+      },
+      {
+       "name": "Kirra RustonNEW",
+       "country": "Australia",
+       "rank": 38
+      },
+      {
+       "name": "Saipaier RouziNEW",
+       "country": "China",
+       "rank": 39
+      },
+      {
+       "name": "Manuel GallegosNEW",
+       "country": "Mexico",
+       "rank": 40
+      }
+     ]
+    },
+    "Super Middleweight": {
+     "champion": {
+      "name": "Saul AlvarezNEWWorld ChampionSaul Alvarez: defeated Christian Mbilli by unanimous decision (115-112, 116-111, 117-110) in Riyadh. Event date: 31 October 2026. First shown in the November 2026 rankings.Official source",
+      "country": "Mexico"
+     },
+     "ranks": [
+      {
+       "name": "Diego Pacheco+2",
+       "country": "United States",
+       "rank": 1
+      },
+      {
+       "name": "Hamzah Sheeraz+2",
+       "country": "United Kingdom",
+       "rank": 2
+      },
+      {
+       "name": "Christian MbilliWas champ",
+       "country": "France",
+       "rank": 3
+      },
+      {
+       "name": "Kevin Lele Sadjo+1",
+       "country": "France",
+       "rank": 4
+      },
+      {
+       "name": "Luka Plantic+5",
+       "country": "Croatia",
+       "rank": 5
+      },
+      {
+       "name": "Wilkens Mathieu+2",
+       "country": "Canada",
+       "rank": 6
+      },
+      {
+       "name": "Bektemir Melikuziev-1",
+       "country": "Uzbekistan",
+       "rank": 7
+      },
+      {
+       "name": "Callum Simpson+1",
+       "country": "United Kingdom",
+       "rank": 8
+      },
+      {
+       "name": "Bek Nurmaganbet+5",
+       "country": "Kazakhstan",
+       "rank": 9
+      },
+      {
+       "name": "Armando Resendiz+2",
+       "country": "Mexico",
+       "rank": 10
+      },
+      {
+       "name": "Daniel Blancas",
+       "country": "United States",
+       "rank": 11
+      },
+      {
+       "name": "Moreno Fendero+3",
+       "country": "Canada",
+       "rank": 12
+      },
+      {
+       "name": "Edgar Berlanga",
+       "country": "Puerto Rico",
+       "rank": 13
+      },
+      {
+       "name": "Ihosvany Rafael Garcia+2",
+       "country": "Cuba",
+       "rank": 14
+      },
+      {
+       "name": "Jose Luis Navarro Jr+4",
+       "country": "Spain",
+       "rank": 15
+      },
+      {
+       "name": "Vladimir ShiskinNEW",
+       "country": "Ukraine",
+       "rank": 16
+      },
+      {
+       "name": "Troy Williamson",
+       "country": "United Kingdom",
+       "rank": 17
+      },
+      {
+       "name": "Darius Fulghum",
+       "country": "United States",
+       "rank": 18
+      },
+      {
+       "name": "Max McIntyre+1",
+       "country": "Australia",
+       "rank": 19
+      },
+      {
+       "name": "Immanuwel Aleem+2",
+       "country": "United States",
+       "rank": 20
+      },
+      {
+       "name": "Simon Zachenhuber+2",
+       "country": "Germany",
+       "rank": 21
+      },
+      {
+       "name": "Paulinus Ndjolonimu+2",
+       "country": "Namibia",
+       "rank": 22
+      },
+      {
+       "name": "Steven Butler+2",
+       "country": "Canada",
+       "rank": 23
+      },
+      {
+       "name": "Rafal Wolczecki+7",
+       "country": "Poland",
+       "rank": 24
+      },
+      {
+       "name": "Kevin Newman II+1",
+       "country": "United States",
+       "rank": 25
+      },
+      {
+       "name": "Marco Romero+1",
+       "country": "United States",
+       "rank": 26
+      },
+      {
+       "name": "Nurislom Ismoilov+1",
+       "country": "Uzbekistan",
+       "rank": 27
+      },
+      {
+       "name": "Pierre Hubert Dibombe+1",
+       "country": "France",
+       "rank": 28
+      },
+      {
+       "name": "Lazaro Lorenzana+1",
+       "country": "Mexico",
+       "rank": 29
+      },
+      {
+       "name": "Doek No YunNEW",
+       "country": "South Korea",
+       "rank": 30
+      },
+      {
+       "name": "Bruno Damian Acosta+1",
+       "country": "Argentina",
+       "rank": 31
+      },
+      {
+       "name": "Davelle Smith+4",
+       "country": "United States",
+       "rank": 32
+      },
+      {
+       "name": "Abel Mina+2",
+       "country": "Ecuador",
+       "rank": 33
+      },
+      {
+       "name": "Damian BiachoNEW",
+       "country": "Spain",
+       "rank": 34
+      },
+      {
+       "name": "Shakeel Phinn-2",
+       "country": "Canada",
+       "rank": 35
+      },
+      {
+       "name": "Taylor Bevan+1",
+       "country": "United Kingdom",
+       "rank": 36
+      },
+      {
+       "name": "Ivan ZuccoNEW",
+       "country": "Italy",
+       "rank": 37
+      },
+      {
+       "name": "Artur ReissNEW",
+       "country": "United States",
+       "rank": 38
+      },
+      {
+       "name": "Julio PorrasNEW",
+       "country": "Mexico",
+       "rank": 39
+      },
+      {
+       "name": "Emilliano RojaNEW",
+       "country": "Mexico",
+       "rank": 40
+      }
+     ]
+    },
+    "Middleweight": {
+     "champion": {
+      "name": "Carlos AdamesWorld",
+      "country": "Dominican Republic"
+     },
+     "ranks": [
+      {
+       "name": "Meiirim Nursultanov",
+       "country": "Kazakhstan",
+       "rank": 1
+      },
+      {
+       "name": "Vergil Ortiz JrNEW",
+       "country": "United States",
+       "rank": 2
+      },
+      {
+       "name": "Yoenli Hernandez-1",
+       "country": "Cuba",
+       "rank": 3
+      },
+      {
+       "name": "Fiodor Czerkaszyn",
+       "country": "Poland",
+       "rank": 4
+      },
+      {
+       "name": "Denzel BentleyNEW",
+       "country": "United Kingdom",
+       "rank": 5
+      },
+      {
+       "name": "Vito Mielnicki Jr-1",
+       "country": "United States",
+       "rank": 6
+      },
+      {
+       "name": "Amari Jones",
+       "country": "United States",
+       "rank": 7
+      },
+      {
+       "name": "Xander ZayasNEW",
+       "country": "Puerto Rico",
+       "rank": 8
+      },
+      {
+       "name": "Dylan Biggs-1",
+       "country": "Australia",
+       "rank": 9
+      },
+      {
+       "name": "Bilel Jkitou-4",
+       "country": "Morocco",
+       "rank": 10
+      },
+      {
+       "name": "George Liddard-1",
+       "country": "United Kingdom",
+       "rank": 11
+      },
+      {
+       "name": "Troy Isley-1",
+       "country": "United States",
+       "rank": 12
+      },
+      {
+       "name": "Francis Hogan",
+       "country": "United States",
+       "rank": 13
+      },
+      {
+       "name": "Jahi Tucker",
+       "country": "United States",
+       "rank": 14
+      },
+      {
+       "name": "Shane Mosley Jr-6",
+       "country": "United States",
+       "rank": 15
+      },
+      {
+       "name": "Eumir Marcial-1",
+       "country": "Philippines",
+       "rank": 16
+      },
+      {
+       "name": "Callum Walsh-5",
+       "country": "Ireland",
+       "rank": 17
+      },
+      {
+       "name": "Andreas Katzourakis-2",
+       "country": "Greece",
+       "rank": 18
+      },
+      {
+       "name": "Kyrone Davis-1",
+       "country": "United States",
+       "rank": 19
+      },
+      {
+       "name": "Etinosa Oliha-3",
+       "country": "Italy",
+       "rank": 20
+      },
+      {
+       "name": "Michael Zerafa+9",
+       "country": "Australia",
+       "rank": 21
+      },
+      {
+       "name": "Callum Peters+1",
+       "country": "Australia",
+       "rank": 22
+      },
+      {
+       "name": "Jalil Hackett-3",
+       "country": "United States",
+       "rank": 23
+      },
+      {
+       "name": "Derek Pomerleau+1",
+       "country": "Canada",
+       "rank": 24
+      },
+      {
+       "name": "Diego Carmona-1",
+       "country": "Mexico",
+       "rank": 25
+      },
+      {
+       "name": "Hebert Conceicao Sousa-5",
+       "country": "Brazil",
+       "rank": 26
+      },
+      {
+       "name": "Serhii Bohachuk-8",
+       "country": "Ukraine",
+       "rank": 27
+      },
+      {
+       "name": "Austin Williams-6",
+       "country": "United States",
+       "rank": 28
+      },
+      {
+       "name": "Ha So Baek-3",
+       "country": "Mongolia",
+       "rank": 29
+      },
+      {
+       "name": "Euri Cedeno-3",
+       "country": "Dominican Republic",
+       "rank": 30
+      },
+      {
+       "name": "Gleb Bakshi",
+       "country": "Serbia",
+       "rank": 31
+      },
+      {
+       "name": "Bradley Goldsmith",
+       "country": "United Kingdom",
+       "rank": 32
+      },
+      {
+       "name": "Jimmy Sains",
+       "country": "United Kingdom",
+       "rank": 33
+      },
+      {
+       "name": "Carlos Ocampo",
+       "country": "Mexico",
+       "rank": 34
+      },
+      {
+       "name": "Tarik Haddir",
+       "country": "Morocco",
+       "rank": 35
+      },
+      {
+       "name": "Erik Miloc",
+       "country": "Argentina",
+       "rank": 36
+      },
+      {
+       "name": "Benjamin Hussain",
+       "country": "Australia",
+       "rank": 37
+      },
+      {
+       "name": "Sam Gilley",
+       "country": "United Kingdom",
+       "rank": 38
+      },
+      {
+       "name": "Jorge Adriano Sayu GuzmanNEW",
+       "country": "Mexico",
+       "rank": 39
+      },
+      {
+       "name": "Lucas BastidaNEW",
+       "country": "Argentina",
+       "rank": 40
+      }
+     ]
+    },
+    "Junior Middleweight": {
+     "champion": {
+      "name": "Sebastian FundoraWorld",
+      "country": "United States"
+     },
+     "ranks": [
+      {
+       "name": "Brandon Adams+1",
+       "country": "United States",
+       "rank": 1
+      },
+      {
+       "name": "Bakhram Murtazaliev+1",
+       "country": "Russia",
+       "rank": 2
+      },
+      {
+       "name": "Ermal Hadribeaj-2",
+       "country": "United States",
+       "rank": 3
+      },
+      {
+       "name": "Bakary Samake+1",
+       "country": "France",
+       "rank": 4
+      },
+      {
+       "name": "Abass Baraou+1",
+       "country": "Germany",
+       "rank": 5
+      },
+      {
+       "name": "Ismael Flores+1",
+       "country": "Spain",
+       "rank": 6
+      },
+      {
+       "name": "Israil Madrimov+1",
+       "country": "Uzbekistan",
+       "rank": 7
+      },
+      {
+       "name": "Joshua Anton+8",
+       "country": "United States",
+       "rank": 8
+      },
+      {
+       "name": "Francisco Daniel Veron",
+       "country": "Argentina",
+       "rank": 9
+      },
+      {
+       "name": "Alejandro Luis Silva+2",
+       "country": "Argentina",
+       "rank": 10
+      },
+      {
+       "name": "Mario Barrios+2",
+       "country": "United States",
+       "rank": 11
+      },
+      {
+       "name": "Charles Conwell+2",
+       "country": "United States",
+       "rank": 12
+      },
+      {
+       "name": "Milan Prat+2",
+       "country": "France",
+       "rank": 13
+      },
+      {
+       "name": "Ryota Toyoshima+6",
+       "country": "Japan",
+       "rank": 14
+      },
+      {
+       "name": "Uisma Lima+2",
+       "country": "Angola",
+       "rank": 15
+      },
+      {
+       "name": "Jorge Garcia Perez-6",
+       "country": "Mexico",
+       "rank": 16
+      },
+      {
+       "name": "Rashidi Ellis-6",
+       "country": "United States",
+       "rank": 17
+      },
+      {
+       "name": "Keith Thurman",
+       "country": "United States",
+       "rank": 18
+      },
+      {
+       "name": "Bilal Fawaz+2",
+       "country": "United Kingdom",
+       "rank": 19
+      },
+      {
+       "name": "Yoenis Tellez-1",
+       "country": "Cuba",
+       "rank": 20
+      },
+      {
+       "name": "Carlos Sinisterra+2",
+       "country": "Colombia",
+       "rank": 21
+      },
+      {
+       "name": "Slawa Spomer+2",
+       "country": "Germany",
+       "rank": 22
+      },
+      {
+       "name": "Caoimhin Agyarko+2",
+       "country": "Ireland",
+       "rank": 23
+      },
+      {
+       "name": "Nikita Tszyu+2",
+       "country": "Australia",
+       "rank": 24
+      },
+      {
+       "name": "Ben Mahoney+7",
+       "country": "Australia",
+       "rank": 25
+      },
+      {
+       "name": "Maxim Molodan+3",
+       "country": "Ukraine",
+       "rank": 26
+      },
+      {
+       "name": "Mykal Fox+4",
+       "country": "United States",
+       "rank": 27
+      },
+      {
+       "name": "Brandon Thysse+6",
+       "country": "South Africa",
+       "rank": 28
+      },
+      {
+       "name": "Giovani Santillan-2",
+       "country": "United States",
+       "rank": 29
+      },
+      {
+       "name": "Vasile Cebotari-2",
+       "country": "Moldova",
+       "rank": 30
+      },
+      {
+       "name": "Alex Bray-1",
+       "country": "United States",
+       "rank": 31
+      },
+      {
+       "name": "Ibrahim Diallo+1",
+       "country": "Belgium",
+       "rank": 32
+      },
+      {
+       "name": "Yan Marcos+2",
+       "country": "Cuba",
+       "rank": 33
+      },
+      {
+       "name": "Baltazar Noria+2",
+       "country": "Argentina",
+       "rank": 34
+      },
+      {
+       "name": "Damian Sosa+3",
+       "country": "Mexico",
+       "rank": 35
+      },
+      {
+       "name": "Omari JonesNEW",
+       "country": "United States",
+       "rank": 36
+      },
+      {
+       "name": "Muzamiru KakandeNEW",
+       "country": "Uganda",
+       "rank": 37
+      },
+      {
+       "name": "Freddie KiwittNEW",
+       "country": "Germany",
+       "rank": 38
+      },
+      {
+       "name": "Enzo Marguerite+1",
+       "country": "France",
+       "rank": 39
+      },
+      {
+       "name": "Alex Esponda-1",
+       "country": "Cuba",
+       "rank": 40
+      }
+     ]
+    },
+    "Welterweight": {
+     "champion": {
+      "name": "Ryan GarciaWorld",
+      "country": "United States"
+     },
+     "ranks": [
+      {
+       "name": "Souleymane Cissokho",
+       "country": "France",
+       "rank": 1
+      },
+      {
+       "name": "Raul Curiel",
+       "country": "Mexico",
+       "rank": 2
+      },
+      {
+       "name": "Alberto PuelloNEW",
+       "country": "Dominican Republic",
+       "rank": 3
+      },
+      {
+       "name": "Brian Norman Jr-1",
+       "country": "United States",
+       "rank": 4
+      },
+      {
+       "name": "Rolando Romero-1",
+       "country": "United States",
+       "rank": 5
+      },
+      {
+       "name": "Samuel Molina+1",
+       "country": "Spain",
+       "rank": 6
+      },
+      {
+       "name": "Richardson Hitchins-2",
+       "country": "United States",
+       "rank": 7
+      },
+      {
+       "name": "Arnold Barboza Jr-2",
+       "country": "United States",
+       "rank": 8
+      },
+      {
+       "name": "Rohan Polanco-1",
+       "country": "Dominican Republic",
+       "rank": 9
+      },
+      {
+       "name": "Jin Sasaki+2",
+       "country": "Japan",
+       "rank": 10
+      },
+      {
+       "name": "Jack Rafferty+3",
+       "country": "United Kingdom",
+       "rank": 11
+      },
+      {
+       "name": "Conah Walker+6",
+       "country": "United Kingdom",
+       "rank": 12
+      },
+      {
+       "name": "Jose Angel Gabriel Rosa-2",
+       "country": "Argentina",
+       "rank": 13
+      },
+      {
+       "name": "Lewis Crocker-1",
+       "country": "United Kingdom",
+       "rank": 14
+      },
+      {
+       "name": "Delante Johnson",
+       "country": "United States",
+       "rank": 15
+      },
+      {
+       "name": "Jon FernandezNEW",
+       "country": "Spain",
+       "rank": 16
+      },
+      {
+       "name": "Egidijus Kavaliauskas-8",
+       "country": "Lithuania",
+       "rank": 17
+      },
+      {
+       "name": "Alexis Rocha-2",
+       "country": "United States",
+       "rank": 18
+      },
+      {
+       "name": "Paddy Donovan-2",
+       "country": "Ireland",
+       "rank": 19
+      },
+      {
+       "name": "Julian Rodriguez+7",
+       "country": "United States",
+       "rank": 20
+      },
+      {
+       "name": "Eimantas Stanionis-2",
+       "country": "Lithuania",
+       "rank": 21
+      },
+      {
+       "name": "Ruben Eduardo Aguilar-2",
+       "country": "Mexico",
+       "rank": 22
+      },
+      {
+       "name": "Abel Ramos-1",
+       "country": "United States",
+       "rank": 23
+      },
+      {
+       "name": "Aaron AlhambraNEW",
+       "country": "Spain",
+       "rank": 24
+      },
+      {
+       "name": "David Papot-4",
+       "country": "France",
+       "rank": 25
+      },
+      {
+       "name": "Ricardo Salas Rodriguez-3",
+       "country": "Mexico",
+       "rank": 26
+      },
+      {
+       "name": "Karen Chukhadzhian-3",
+       "country": "Ukraine",
+       "rank": 27
+      },
+      {
+       "name": "Yaroslav Mykhalushko-3",
+       "country": "Ukraine",
+       "rank": 28
+      },
+      {
+       "name": "Sora Tanaka",
+       "country": "Japan",
+       "rank": 29
+      },
+      {
+       "name": "Wasim ChellanNEW",
+       "country": "South Africa",
+       "rank": 30
+      },
+      {
+       "name": "Avious Griffin-3",
+       "country": "United States",
+       "rank": 31
+      },
+      {
+       "name": "Jhordy Mina",
+       "country": "Ecuador",
+       "rank": 32
+      },
+      {
+       "name": "Christopher Guerrero-3",
+       "country": "Mexico",
+       "rank": 33
+      },
+      {
+       "name": "Daniel Keating+2",
+       "country": "Australia",
+       "rank": 34
+      },
+      {
+       "name": "Jackson Griffiths-2",
+       "country": "Australia",
+       "rank": 35
+      },
+      {
+       "name": "Lucas Arganaraz-5",
+       "country": "Argentina",
+       "rank": 36
+      },
+      {
+       "name": "Joel Iriarte-3",
+       "country": "United States",
+       "rank": 37
+      },
+      {
+       "name": "Erick Bone-3",
+       "country": "Ecuador",
+       "rank": 38
+      },
+      {
+       "name": "Mateusz Polski-1",
+       "country": "Poland",
+       "rank": 39
+      },
+      {
+       "name": "Juan Camilo Gonzalez-1",
+       "country": "Colombia",
+       "rank": 40
+      }
+     ]
+    },
+    "Junior Welterweight": {
+     "champion": {
+      "name": "Dalton SmithWorld",
+      "country": "United Kingdom"
+     },
+     "ranks": [
+      {
+       "name": "Sandor Martin+1",
+       "country": "Spain",
+       "rank": 1
+      },
+      {
+       "name": "Adam Azim+1",
+       "country": "United Kingdom",
+       "rank": 2
+      },
+      {
+       "name": "Jhon Orobio+3",
+       "country": "Colombia",
+       "rank": 3
+      },
+      {
+       "name": "Raymond Muratalla+1",
+       "country": "United States",
+       "rank": 4
+      },
+      {
+       "name": "Subriel Matias+2",
+       "country": "Puerto Rico",
+       "rank": 5
+      },
+      {
+       "name": "Mark Chamberlain+3",
+       "country": "United Kingdom",
+       "rank": 6
+      },
+      {
+       "name": "Arthur Biyarslanov-3",
+       "country": "Canada",
+       "rank": 7
+      },
+      {
+       "name": "Bryan Flores+3",
+       "country": "Mexico",
+       "rank": 8
+      },
+      {
+       "name": "Emiliano Vargas+3",
+       "country": "United States",
+       "rank": 9
+      },
+      {
+       "name": "Frank Martin+7",
+       "country": "United States",
+       "rank": 10
+      },
+      {
+       "name": "Kuntae Lee+3",
+       "country": "Japan",
+       "rank": 11
+      },
+      {
+       "name": "Carlos Utria+3",
+       "country": "Colombia",
+       "rank": 12
+      },
+      {
+       "name": "Elvis Rodriguez+6",
+       "country": "Dominican Republic",
+       "rank": 13
+      },
+      {
+       "name": "Horiki Horiike+6",
+       "country": "Japan",
+       "rank": 14
+      },
+      {
+       "name": "Jamaine Ortiz+1",
+       "country": "United States",
+       "rank": 15
+      },
+      {
+       "name": "Siro ChoiNEW",
+       "country": "Uzbekistan",
+       "rank": 16
+      },
+      {
+       "name": "Pierce O'Leary+1",
+       "country": "Ireland",
+       "rank": 17
+      },
+      {
+       "name": "Ruslan AbdullavevNEW",
+       "country": "Armenia",
+       "rank": 18
+      },
+      {
+       "name": "John Mannu+2",
+       "country": "Australia",
+       "rank": 19
+      },
+      {
+       "name": "Gabriel Gollaz Valenzuela+2",
+       "country": "Mexico",
+       "rank": 20
+      },
+      {
+       "name": "Jose Nunez+2",
+       "country": "Panama",
+       "rank": 21
+      },
+      {
+       "name": "Mikyo Watari+3",
+       "country": "Japan",
+       "rank": 22
+      },
+      {
+       "name": "Alan Crenz+3",
+       "country": "Argentina",
+       "rank": 23
+      },
+      {
+       "name": "Luis Vela+5",
+       "country": "Italy",
+       "rank": 24
+      },
+      {
+       "name": "Nahir Albright+2",
+       "country": "United States",
+       "rank": 25
+      },
+      {
+       "name": "Mujibillo Tursunov+2",
+       "country": "Uzbekistan",
+       "rank": 26
+      },
+      {
+       "name": "Charles Harris JrNEW",
+       "country": "United States",
+       "rank": 27
+      },
+      {
+       "name": "Antoine Vanackere+4",
+       "country": "Belgium",
+       "rank": 28
+      },
+      {
+       "name": "Sulaiman AbbarNEW",
+       "country": "Saudi Arabia",
+       "rank": 29
+      },
+      {
+       "name": "Breyon Gorham",
+       "country": "United States",
+       "rank": 30
+      },
+      {
+       "name": "Shoghjahon Ergashev",
+       "country": "Uzbekistan",
+       "rank": 31
+      },
+      {
+       "name": "Tomislav Vukomanovic+2",
+       "country": "Bosnia & Herzegovina",
+       "rank": 32
+      },
+      {
+       "name": "Fiorenzo Priolo+5",
+       "country": "Italy",
+       "rank": 33
+      },
+      {
+       "name": "Kurt ScobyNEW",
+       "country": "United States",
+       "rank": 34
+      },
+      {
+       "name": "Silio Nicolas Vilte+1",
+       "country": "Argentina",
+       "rank": 35
+      },
+      {
+       "name": "Axel Emanuel Isla+1",
+       "country": "Argentina",
+       "rank": 36
+      },
+      {
+       "name": "Aram FaniianNEW",
+       "country": "Ukraine",
+       "rank": 37
+      },
+      {
+       "name": "Ashton Sylve+1",
+       "country": "United States",
+       "rank": 38
+      },
+      {
+       "name": "Alfred Lamptey+1",
+       "country": "Ghana",
+       "rank": 39
+      },
+      {
+       "name": "Heidan MartinezNEW",
+       "country": "Dominican Republic",
+       "rank": 40
+      }
+     ]
+    },
+    "Lightweight": {
+     "champion": {
+      "name": "William Zepeda SeguraWorld",
+      "country": "Mexico"
+     },
+     "ranks": [
+      {
+       "name": "Dzmitry Asanau+3",
+       "country": "Belarus",
+       "rank": 1
+      },
+      {
+       "name": "Lamont Roach",
+       "country": "United States",
+       "rank": 2
+      },
+      {
+       "name": "Sam Noakes",
+       "country": "United Kingdom",
+       "rank": 3
+      },
+      {
+       "name": "Jordan White+3",
+       "country": "United States",
+       "rank": 4
+      },
+      {
+       "name": "Justin Pauldo",
+       "country": "United States",
+       "rank": 5
+      },
+      {
+       "name": "Andres Cortes",
+       "country": "United States",
+       "rank": 6
+      },
+      {
+       "name": "Reito Takahashi+4",
+       "country": "Japan",
+       "rank": 7
+      },
+      {
+       "name": "Joe Cordina+1",
+       "country": "United Kingdom",
+       "rank": 8
+      },
+      {
+       "name": "Ricardo Nunez-1",
+       "country": "Panama",
+       "rank": 9
+      },
+      {
+       "name": "Lazaro Alvarez+2",
+       "country": "Cuba",
+       "rank": 10
+      },
+      {
+       "name": "Albert Bell+2",
+       "country": "United States",
+       "rank": 11
+      },
+      {
+       "name": "Eridson Garcia+2",
+       "country": "Dominican Republic",
+       "rank": 12
+      },
+      {
+       "name": "Taiga Imanaga+3",
+       "country": "Japan",
+       "rank": 13
+      },
+      {
+       "name": "Lucas BahdiNEW",
+       "country": "Canada",
+       "rank": 14
+      },
+      {
+       "name": "Michael Magnesi+5",
+       "country": "Italy",
+       "rank": 15
+      },
+      {
+       "name": "Mark Magsayo+1",
+       "country": "Philippines",
+       "rank": 16
+      },
+      {
+       "name": "Alan Abel Chaves+1",
+       "country": "Argentina",
+       "rank": 17
+      },
+      {
+       "name": "Robson Conceicao+3",
+       "country": "Brazil",
+       "rank": 18
+      },
+      {
+       "name": "Rene Tellez Giron",
+       "country": "Mexico",
+       "rank": 19
+      },
+      {
+       "name": "Shu Utsuki+2",
+       "country": "Japan",
+       "rank": 20
+      },
+      {
+       "name": "Miguel Berchelt+2",
+       "country": "Mexico",
+       "rank": 21
+      },
+      {
+       "name": "Bakhodur Usmonov+2",
+       "country": "Tajikistan",
+       "rank": 22
+      },
+      {
+       "name": "Louie O'Doherty+3",
+       "country": "United Kingdom",
+       "rank": 23
+      },
+      {
+       "name": "Corey Marksman+3",
+       "country": "United States",
+       "rank": 24
+      },
+      {
+       "name": "Jokin Garcia+3",
+       "country": "Spain",
+       "rank": 25
+      },
+      {
+       "name": "Danylo Honcharuk+14",
+       "country": "Ukraine",
+       "rank": 26
+      },
+      {
+       "name": "Nahuel Espindola+11",
+       "country": "Argentina",
+       "rank": 27
+      },
+      {
+       "name": "Luis Santana-3",
+       "country": "Canada",
+       "rank": 28
+      },
+      {
+       "name": "Giorgio VisioliNEW",
+       "country": "United Kingdom",
+       "rank": 29
+      },
+      {
+       "name": "Shuma Nakazato-1",
+       "country": "Japan",
+       "rank": 30
+      },
+      {
+       "name": "Joshua Pagan-1",
+       "country": "United States",
+       "rank": 31
+      },
+      {
+       "name": "Zelfa Barrett-1",
+       "country": "United Kingdom",
+       "rank": 32
+      },
+      {
+       "name": "Charlie Sheehy-1",
+       "country": "United States",
+       "rank": 33
+      },
+      {
+       "name": "Avery Martin Duvall-1",
+       "country": "Canada",
+       "rank": 34
+      },
+      {
+       "name": "Javier Cardozo-1",
+       "country": "Uruguay",
+       "rank": 35
+      },
+      {
+       "name": "Haven Brady Jr",
+       "country": "United States",
+       "rank": 36
+      },
+      {
+       "name": "Billy Polkinghorn+2",
+       "country": "Australia",
+       "rank": 37
+      },
+      {
+       "name": "Ahmed RedaNEW",
+       "country": "Australia",
+       "rank": 38
+      },
+      {
+       "name": "Enzo GrauNEW",
+       "country": "France",
+       "rank": 39
+      },
+      {
+       "name": "Siyabulela HemNEW",
+       "country": "South Africa",
+       "rank": 40
+      }
+     ]
+    },
+    "Junior Lightweight": {
+     "champion": {
+      "name": "O'Shaquie FosterWorld",
+      "country": "United States"
+     },
+     "ranks": [
+      {
+       "name": "Emanuel NavarreteNEW",
+       "country": "Mexico",
+       "rank": 1
+      },
+      {
+       "name": "Khalil El Hadri-1",
+       "country": "Morocco",
+       "rank": 2
+      },
+      {
+       "name": "Raymond Ford+1",
+       "country": "United States",
+       "rank": 3
+      },
+      {
+       "name": "Yamato Hata+1",
+       "country": "Japan",
+       "rank": 4
+      },
+      {
+       "name": "James DickensNEW",
+       "country": "United Kingdom",
+       "rank": 5
+      },
+      {
+       "name": "Eduardo Nunez",
+       "country": "Mexico",
+       "rank": 6
+      },
+      {
+       "name": "Muhammad Yaqubov",
+       "country": "Tajikistan",
+       "rank": 7
+      },
+      {
+       "name": "Hayato Tsutsumi",
+       "country": "Japan",
+       "rank": 8
+      },
+      {
+       "name": "Kenichi Ogawa+4",
+       "country": "Japan",
+       "rank": 9
+      },
+      {
+       "name": "Charly Suarez-1",
+       "country": "Philippines",
+       "rank": 10
+      },
+      {
+       "name": "Tsendbaatar Erdenebat-1",
+       "country": "Mongolia",
+       "rank": 11
+      },
+      {
+       "name": "Mauricio Lara",
+       "country": "Mexico",
+       "rank": 12
+      },
+      {
+       "name": "Sultan Zaurbek+1",
+       "country": "Kazakhstan",
+       "rank": 13
+      },
+      {
+       "name": "Henry Lebron+1",
+       "country": "Puerto Rico",
+       "rank": 14
+      },
+      {
+       "name": "Keisuke Matsumoto+2",
+       "country": "Japan",
+       "rank": 15
+      },
+      {
+       "name": "Leigh Wood",
+       "country": "United Kingdom",
+       "rank": 16
+      },
+      {
+       "name": "Tsubasa Narai+1",
+       "country": "Japan",
+       "rank": 17
+      },
+      {
+       "name": "Ibrahim Class Mgender+1",
+       "country": "Tanzania",
+       "rank": 18
+      },
+      {
+       "name": "Sofiane Oumiha+3",
+       "country": "France",
+       "rank": 19
+      },
+      {
+       "name": "Dominic Valle+3",
+       "country": "United States",
+       "rank": 20
+      },
+      {
+       "name": "Nilo Guerrero+4",
+       "country": "Nicaragua",
+       "rank": 21
+      },
+      {
+       "name": "Otar Eranosyan+4",
+       "country": "Georgia",
+       "rank": 22
+      },
+      {
+       "name": "Riku Kitani+4",
+       "country": "Japan",
+       "rank": 23
+      },
+      {
+       "name": "Iman Lee+4",
+       "country": "United States",
+       "rank": 24
+      },
+      {
+       "name": "Yevgeniy Pavlov+4",
+       "country": "Kazakhstan",
+       "rank": 25
+      },
+      {
+       "name": "Josue Francisco Aguero+4",
+       "country": "Argentina",
+       "rank": 26
+      },
+      {
+       "name": "Reito Tsutsumi+7",
+       "country": "Japan",
+       "rank": 27
+      },
+      {
+       "name": "Azinga Fuzile+4",
+       "country": "South Africa",
+       "rank": 28
+      },
+      {
+       "name": "Daigoro Marumoto+6",
+       "country": "Japan",
+       "rank": 29
+      },
+      {
+       "name": "Yoni Valverde JrNEW",
+       "country": "France",
+       "rank": 30
+      },
+      {
+       "name": "Jono Carroll+2",
+       "country": "Ireland",
+       "rank": 31
+      },
+      {
+       "name": "Kai Watanabe-1",
+       "country": "Japan",
+       "rank": 32
+      },
+      {
+       "name": "Katlego Khanyisa+3",
+       "country": "South Africa",
+       "rank": 33
+      },
+      {
+       "name": "Pete Apolinar+3",
+       "country": "Philippines",
+       "rank": 34
+      },
+      {
+       "name": "Aryton GimenezNEW",
+       "country": "Argentina",
+       "rank": 35
+      },
+      {
+       "name": "Aiman Abu Bakar+2",
+       "country": "Malaysia",
+       "rank": 36
+      },
+      {
+       "name": "Diante BrownNEW",
+       "country": "United States",
+       "rank": 37
+      },
+      {
+       "name": "Hector MungiaNEW",
+       "country": "Mexico",
+       "rank": 38
+      },
+      {
+       "name": "Alex De La Rosa+1",
+       "country": "Spain",
+       "rank": 39
+      },
+      {
+       "name": "Jan Paul RiveraNEW",
+       "country": "Puerto Rico",
+       "rank": 40
+      }
+     ]
+    },
+    "Featherweight": {
+     "champion": {
+      "name": "Bruce CarringtonWorld",
+      "country": "United States"
+     },
+     "ranks": [
+      {
+       "name": "Cristobal Lorente",
+       "country": "Spain",
+       "rank": 1
+      },
+      {
+       "name": "Sebastian Hernandez Reyes+1",
+       "country": "Mexico",
+       "rank": 2
+      },
+      {
+       "name": "Albert Gonzalez+8",
+       "country": "United States",
+       "rank": 3
+      },
+      {
+       "name": "Liam Davies+1",
+       "country": "United Kingdom",
+       "rank": 4
+      },
+      {
+       "name": "Omar Trinidad-1",
+       "country": "United States",
+       "rank": 5
+      },
+      {
+       "name": "Alan Picasso Romero-4",
+       "country": "Mexico",
+       "rank": 6
+      },
+      {
+       "name": "Mikito Nakano-1",
+       "country": "Japan",
+       "rank": 7
+      },
+      {
+       "name": "Toshiki Shimomachi-1",
+       "country": "Japan",
+       "rank": 8
+      },
+      {
+       "name": "Brandon Mejia Mosqueda",
+       "country": "Mexico",
+       "rank": 9
+      },
+      {
+       "name": "Shabaz Masoud+5",
+       "country": "United Kingdom",
+       "rank": 10
+      },
+      {
+       "name": "Jhon Riel Casimero-1",
+       "country": "Philippines",
+       "rank": 11
+      },
+      {
+       "name": "Marlon Tapales",
+       "country": "Philippines",
+       "rank": 12
+      },
+      {
+       "name": "Kevin Walsh+1",
+       "country": "United States",
+       "rank": 13
+      },
+      {
+       "name": "Yan Santana+2",
+       "country": "Dominican Republic",
+       "rank": 14
+      },
+      {
+       "name": "Rene Palacios+2",
+       "country": "Mexico",
+       "rank": 15
+      },
+      {
+       "name": "Sulaiman Segawa+2",
+       "country": "Uganda",
+       "rank": 16
+      },
+      {
+       "name": "Carlos Castro+2",
+       "country": "United States",
+       "rank": 17
+      },
+      {
+       "name": "Luis Reynaldo Nunez+3",
+       "country": "Dominican Republic",
+       "rank": 18
+      },
+      {
+       "name": "Nathaniel Collins+3",
+       "country": "United Kingdom",
+       "rank": 19
+      },
+      {
+       "name": "Ryota Muto+3",
+       "country": "Japan",
+       "rank": 20
+      },
+      {
+       "name": "Kyosuke Okamoto+3",
+       "country": "Japan",
+       "rank": 21
+      },
+      {
+       "name": "Ryuto Owan+3",
+       "country": "Japan",
+       "rank": 22
+      },
+      {
+       "name": "Kyonosuke Kameda+3",
+       "country": "Japan",
+       "rank": 23
+      },
+      {
+       "name": "Wensong Liu+3",
+       "country": "China",
+       "rank": 24
+      },
+      {
+       "name": "Muhamet Qamili+3",
+       "country": "Albania",
+       "rank": 25
+      },
+      {
+       "name": "Victor Hernandez+3",
+       "country": "United States",
+       "rank": 26
+      },
+      {
+       "name": "Victor AbreuNEW",
+       "country": "Cuba",
+       "rank": 27
+      },
+      {
+       "name": "Mateus Heita+3",
+       "country": "Namibia",
+       "rank": 28
+      },
+      {
+       "name": "Felix Parrilla+3",
+       "country": "United States",
+       "rank": 29
+      },
+      {
+       "name": "Alexander Jimenez+3",
+       "country": "Venezuela",
+       "rank": 30
+      },
+      {
+       "name": "Javier Ibanez+3",
+       "country": "Cuba",
+       "rank": 31
+      },
+      {
+       "name": "Gully Powar+8",
+       "country": "United Kingdom",
+       "rank": 32
+      },
+      {
+       "name": "Daniel GarridoNEW",
+       "country": "Mexico",
+       "rank": 33
+      },
+      {
+       "name": "Iman LeeNEW",
+       "country": "United States",
+       "rank": 34
+      },
+      {
+       "name": "Carlos ArteagaNEW",
+       "country": "Mexico",
+       "rank": 35
+      },
+      {
+       "name": "Alberto Mora Garcia-1",
+       "country": "Mexico",
+       "rank": 36
+      },
+      {
+       "name": "Colm Murphy-1",
+       "country": "United Kingdom",
+       "rank": 37
+      },
+      {
+       "name": "Adrian Robledo",
+       "country": "Argentina",
+       "rank": 38
+      },
+      {
+       "name": "Ruben Gil",
+       "country": "Spain",
+       "rank": 39
+      },
+      {
+       "name": "Masoud AbdullahNEW",
+       "country": "United Kingdom",
+       "rank": 40
+      }
+     ]
+    },
+    "Junior Featherweight": {
+     "champion": {
+      "name": "Naoya InoueWorld",
+      "country": "Japan"
+     },
+     "ranks": [
+      {
+       "name": "Junto Nakatani",
+       "country": "Japan",
+       "rank": 1
+      },
+      {
+       "name": "Ramon Cardenas",
+       "country": "United States",
+       "rank": 2
+      },
+      {
+       "name": "Murodjon Akhmadaliev",
+       "country": "Uzbekistan",
+       "rank": 3
+      },
+      {
+       "name": "Ryosuke Nishida",
+       "country": "Japan",
+       "rank": 4
+      },
+      {
+       "name": "Kazuki Nakajima",
+       "country": "Japan",
+       "rank": 5
+      },
+      {
+       "name": "Carl Jammes Martin+13",
+       "country": "Philippines",
+       "rank": 6
+      },
+      {
+       "name": "Fillipus Nghitumbwa-1",
+       "country": "Namibia",
+       "rank": 7
+      },
+      {
+       "name": "Jun Ikegawa-1",
+       "country": "Japan",
+       "rank": 8
+      },
+      {
+       "name": "Arturo Cardenas-1",
+       "country": "Mexico",
+       "rank": 9
+      },
+      {
+       "name": "Mukhammad Shekhov-1",
+       "country": "Uzbekistan",
+       "rank": 10
+      },
+      {
+       "name": "Jose Tito Sanchez-1",
+       "country": "United States",
+       "rank": 11
+      },
+      {
+       "name": "Toshiya Ishii+3",
+       "country": "Japan",
+       "rank": 12
+      },
+      {
+       "name": "Jose Ramirez MacIel-1",
+       "country": "Mexico",
+       "rank": 13
+      },
+      {
+       "name": "Yerny Betancourt-3",
+       "country": "Venezuela",
+       "rank": 14
+      },
+      {
+       "name": "Alex Santisma-2",
+       "country": "Philippines",
+       "rank": 15
+      },
+      {
+       "name": "Bryan Mercado Vazquez-2",
+       "country": "Mexico",
+       "rank": 16
+      },
+      {
+       "name": "Celex Castro Olivares+3",
+       "country": "Mexico",
+       "rank": 17
+      },
+      {
+       "name": "Gabriel Santisima-2",
+       "country": "Philippines",
+       "rank": 18
+      },
+      {
+       "name": "Jesus Arechiga-2",
+       "country": "Mexico",
+       "rank": 19
+      },
+      {
+       "name": "Yoshiki Takei-2",
+       "country": "Japan",
+       "rank": 20
+      },
+      {
+       "name": "Subaru Murata",
+       "country": "Japan",
+       "rank": 21
+      },
+      {
+       "name": "Tyrone Buttigieg",
+       "country": "United Kingdom",
+       "rank": 22
+      },
+      {
+       "name": "Peter McGrail",
+       "country": "United Kingdom",
+       "rank": 23
+      },
+      {
+       "name": "Francesco De Rosa+9",
+       "country": "Italy",
+       "rank": 24
+      },
+      {
+       "name": "Kenneth Llover",
+       "country": "Philippines",
+       "rank": 25
+      },
+      {
+       "name": "Khaya Mlata-2",
+       "country": "South Africa",
+       "rank": 26
+      },
+      {
+       "name": "Alessio Lorusso-1",
+       "country": "Italy",
+       "rank": 27
+      },
+      {
+       "name": "Jordan Martinez-1",
+       "country": "United States",
+       "rank": 28
+      },
+      {
+       "name": "Christopher Lopez-1",
+       "country": "Mexico",
+       "rank": 29
+      },
+      {
+       "name": "Cao YongjieNEW",
+       "country": "China",
+       "rank": 30
+      },
+      {
+       "name": "Elton DharryNEW",
+       "country": "Guyana",
+       "rank": 31
+      },
+      {
+       "name": "Jorge Chavez-3",
+       "country": "United States",
+       "rank": 32
+      },
+      {
+       "name": "Segundo Padilla-2",
+       "country": "Ecuador",
+       "rank": 33
+      },
+      {
+       "name": "Fadhili Majiha-4",
+       "country": "Tanzania",
+       "rank": 34
+      },
+      {
+       "name": "Victor Santillan-3",
+       "country": "Dominican Republic",
+       "rank": 35
+      },
+      {
+       "name": "Alexandro Santiago-2",
+       "country": "Mexico",
+       "rank": 36
+      },
+      {
+       "name": "Dylan Pare-Lemonnier-2",
+       "country": "Country",
+       "rank": 37
+      },
+      {
+       "name": "Abourahmane Ndiaye-1",
+       "country": "France",
+       "rank": 38
+      },
+      {
+       "name": "Sebastian Perez-1",
+       "country": "Spain",
+       "rank": 39
+      },
+      {
+       "name": "Hanle Xie-1",
+       "country": "China",
+       "rank": 40
+      }
+     ]
+    },
+    "Bantamweight": {
+     "champion": {
+      "name": "Takuma InoueWorld",
+      "country": "Japan"
+     },
+     "ranks": [
+      {
+       "name": "Andrew Cain",
+       "country": "United Kingdom",
+       "rank": 1
+      },
+      {
+       "name": "Jason Moloney",
+       "country": "Australia",
+       "rank": 2
+      },
+      {
+       "name": "Tenshin Nasukawa",
+       "country": "Japan",
+       "rank": 3
+      },
+      {
+       "name": "Juan Francisco Estrada",
+       "country": "Mexico",
+       "rank": 4
+      },
+      {
+       "name": "Alejandro Jair Gonzalez",
+       "country": "Mexico",
+       "rank": 5
+      },
+      {
+       "name": "Michael Angeletti+1",
+       "country": "United States",
+       "rank": 6
+      },
+      {
+       "name": "Kazuto Ioka+1",
+       "country": "Japan",
+       "rank": 7
+      },
+      {
+       "name": "Andrey Bonilla+1",
+       "country": "United States",
+       "rank": 8
+      },
+      {
+       "name": "Antonio Vargas+1",
+       "country": "United States",
+       "rank": 9
+      },
+      {
+       "name": "Jose Calderon Cervantes+2",
+       "country": "Mexico",
+       "rank": 10
+      },
+      {
+       "name": "Emmanuel Rodriguez+3",
+       "country": "Puerto Rico",
+       "rank": 11
+      },
+      {
+       "name": "Jeyvier Cintron+3",
+       "country": "Puerto Rico",
+       "rank": 12
+      },
+      {
+       "name": "Daigo Higa",
+       "country": "Japan",
+       "rank": 13
+      },
+      {
+       "name": "Katsuma Akitsugi+2",
+       "country": "Japan",
+       "rank": 14
+      },
+      {
+       "name": "Charlton Malajika+3",
+       "country": "South Africa",
+       "rank": 15
+      },
+      {
+       "name": "Yuta Sakai+21",
+       "country": "Japan",
+       "rank": 16
+      },
+      {
+       "name": "Landile Ngxeke+2",
+       "country": "South Africa",
+       "rank": 17
+      },
+      {
+       "name": "David Mwale-1",
+       "country": "Zambia",
+       "rank": 18
+      },
+      {
+       "name": "Keita Nakayama+1",
+       "country": "Japan",
+       "rank": 19
+      },
+      {
+       "name": "Anthony Garnica+4",
+       "country": "United States",
+       "rank": 20
+      },
+      {
+       "name": "Cristian Zara",
+       "country": "Italy",
+       "rank": 21
+      },
+      {
+       "name": "Ibrahim Mafia+5",
+       "country": "Tanzania",
+       "rank": 22
+      },
+      {
+       "name": "Fumiya FuseNEW",
+       "country": "Japan",
+       "rank": 23
+      },
+      {
+       "name": "Jose Andres Teran-1",
+       "country": "Mexico",
+       "rank": 24
+      },
+      {
+       "name": "Petch Sor Chitpattana-19",
+       "country": "Thailand",
+       "rank": 25
+      },
+      {
+       "name": "Dominique Crowder+4",
+       "country": "United States",
+       "rank": 26
+      },
+      {
+       "name": "Mauro Forte-5",
+       "country": "Italy",
+       "rank": 27
+      },
+      {
+       "name": "Cristofer Rosales",
+       "country": "Nicaragua",
+       "rank": 29
+      },
+      {
+       "name": "Sento Ito+1",
+       "country": "Japan",
+       "rank": 30
+      },
+      {
+       "name": "Keita KuriharaNEW",
+       "country": "Japan",
+       "rank": 31
+      },
+      {
+       "name": "Ibrahim Boukedim",
+       "country": "France",
+       "rank": 32
+      },
+      {
+       "name": "Alvin Camique",
+       "country": "Philippines",
+       "rank": 33
+      },
+      {
+       "name": "Bruno Rios Jr",
+       "country": "United States",
+       "rank": 34
+      },
+      {
+       "name": "Kongfah Cpf",
+       "country": "Thailand",
+       "rank": 35
+      },
+      {
+       "name": "Harvey Smith+4",
+       "country": "United Kingdom",
+       "rank": 36
+      },
+      {
+       "name": "Jordan Orozco Hernandez+1",
+       "country": "Nicaragua",
+       "rank": 37
+      },
+      {
+       "name": "Rex TsoNEW",
+       "country": "Hong Kong",
+       "rank": 38
+      },
+      {
+       "name": "Sergio Cordova IbanezNEW",
+       "country": "Mexico",
+       "rank": 39
+      },
+      {
+       "name": "Ricardo Salgado LanderosNEW",
+       "country": "Mexico",
+       "rank": 40
+      }
+     ]
+    },
+    "Junior Bantamweight": {
+     "champion": {
+      "name": "Ricardo MalajikaWorld",
+      "country": "South Africa"
+     },
+     "ranks": [
+      {
+       "name": "Angel Ayala Lardizabal",
+       "country": "Mexico",
+       "rank": 1
+      },
+      {
+       "name": "Tomoya Tsuboi",
+       "country": "Japan",
+       "rank": 2
+      },
+      {
+       "name": "Gohan Rodriguez Garcia+4",
+       "country": "Mexico",
+       "rank": 3
+      },
+      {
+       "name": "Pedro Guevara+1",
+       "country": "Mexico",
+       "rank": 4
+      },
+      {
+       "name": "Yahir Alan Frank Verdugo+1",
+       "country": "Mexico",
+       "rank": 5
+      },
+      {
+       "name": "Willibaldo Garcia Perez+2",
+       "country": "Mexico",
+       "rank": 6
+      },
+      {
+       "name": "Sikho Nqothole+2",
+       "country": "South Africa",
+       "rank": 7
+      },
+      {
+       "name": "John Ramirez+2",
+       "country": "United States",
+       "rank": 8
+      },
+      {
+       "name": "Israel Gonzalez+3",
+       "country": "Mexico",
+       "rank": 9
+      },
+      {
+       "name": "Ryusei Kawaura+3",
+       "country": "Japan",
+       "rank": 10
+      },
+      {
+       "name": "Theophilous Kpakpo Allotey+4",
+       "country": "Ghana",
+       "rank": 11
+      },
+      {
+       "name": "Ari Bonilla-1",
+       "country": "United States",
+       "rank": 12
+      },
+      {
+       "name": "Phumelela Cafu+3",
+       "country": "South Africa",
+       "rank": 13
+      },
+      {
+       "name": "Namchai Dilokpraphuek+3",
+       "country": "Thailand",
+       "rank": 14
+      },
+      {
+       "name": "Ryang Ho Han+3",
+       "country": "South Korea",
+       "rank": 15
+      },
+      {
+       "name": "Kenta Nakagawa+3",
+       "country": "Japan",
+       "rank": 16
+      },
+      {
+       "name": "Jack Turner+3",
+       "country": "United Kingdom",
+       "rank": 17
+      },
+      {
+       "name": "Aoi Yokoyama+4",
+       "country": "Japan",
+       "rank": 18
+      },
+      {
+       "name": "Olajuwon Acosta+4",
+       "country": "Puerto Rico",
+       "rank": 19
+      },
+      {
+       "name": "Michael Abban+4",
+       "country": "Ghana",
+       "rank": 20
+      },
+      {
+       "name": "Charlie Edwards+4",
+       "country": "United Kingdom",
+       "rank": 21
+      },
+      {
+       "name": "Reon Fujino+4",
+       "country": "Japan",
+       "rank": 22
+      },
+      {
+       "name": "Ryotaro Nakagaki+5",
+       "country": "Japan",
+       "rank": 23
+      },
+      {
+       "name": "Vieris Ortega+5",
+       "country": "Colombia",
+       "rank": 24
+      },
+      {
+       "name": "Saken Bibossinov+5",
+       "country": "Kazakhstan",
+       "rank": 25
+      },
+      {
+       "name": "Shori UmezuNEW",
+       "country": "Japan",
+       "rank": 26
+      },
+      {
+       "name": "Aoi Murata+4",
+       "country": "Japan",
+       "rank": 27
+      },
+      {
+       "name": "Ayumu Hanada+4",
+       "country": "Japan",
+       "rank": 28
+      },
+      {
+       "name": "Ricardo Salgado+4",
+       "country": "Mexico",
+       "rank": 29
+      },
+      {
+       "name": "Jackson Chauke+4",
+       "country": "South Africa",
+       "rank": 30
+      },
+      {
+       "name": "Conor QuinnNEW",
+       "country": "United Kingdom",
+       "rank": 31
+      },
+      {
+       "name": "Kyotaro YoshidaNEW",
+       "country": "Japan",
+       "rank": 32
+      },
+      {
+       "name": "Moyisi BooiNEW",
+       "country": "South Africa",
+       "rank": 33
+      },
+      {
+       "name": "David NunezNEW",
+       "country": "Peru",
+       "rank": 34
+      },
+      {
+       "name": "Vince Paras+1",
+       "country": "Philippines",
+       "rank": 35
+      },
+      {
+       "name": "Reymart Tagacanao+1",
+       "country": "Philippines",
+       "rank": 36
+      },
+      {
+       "name": "Argi Cortes-10",
+       "country": "Mexico",
+       "rank": 37
+      },
+      {
+       "name": "Kenneth Albino",
+       "country": "Philippines",
+       "rank": 38
+      },
+      {
+       "name": "Matt McHale",
+       "country": "United Kingdom",
+       "rank": 39
+      },
+      {
+       "name": "Jinya YamaguchiNEW",
+       "country": "Japan",
+       "rank": 40
+      }
+     ]
+    },
+    "Flyweight": {
+     "champion": {
+      "name": "Sergio Mendoza CordovaNEWWorld ChampionSergio Mendoza Cordova: won the title by stopping Ricardo Sandoval in the fifth round in Chicago. Event date: 10 October 2026. First shown in the November 2026 rankings.Official source",
+      "country": "Mexico"
+     },
+     "ranks": [
+      {
+       "name": "Francisco Rodriguez Jr",
+       "country": "Mexico",
+       "rank": 1
+      },
+      {
+       "name": "Thananchai Charunphak",
+       "country": "Thailand",
+       "rank": 2
+      },
+      {
+       "name": "Yoali Mejia Mosqueda",
+       "country": "Mexico",
+       "rank": 3
+      },
+      {
+       "name": "Ricardo Rafael SandovalWas champ",
+       "country": "United States",
+       "rank": 4
+      },
+      {
+       "name": "Joselito Velazquez Altamirano-1",
+       "country": "Mexico",
+       "rank": 5
+      },
+      {
+       "name": "Angelino Cordova-1",
+       "country": "Venezuela",
+       "rank": 6
+      },
+      {
+       "name": "Kyosuke Takami-1",
+       "country": "Japan",
+       "rank": 7
+      },
+      {
+       "name": "Ndabezinhle Phiri",
+       "country": "Zimbabwe",
+       "rank": 8
+      },
+      {
+       "name": "Samuel Carmona",
+       "country": "Spain",
+       "rank": 9
+      },
+      {
+       "name": "Arvin Jhon Paciones",
+       "country": "Philippines",
+       "rank": 10
+      },
+      {
+       "name": "Andy Dominguez Velasquez",
+       "country": "United States",
+       "rank": 11
+      },
+      {
+       "name": "Jesse Espinas",
+       "country": "Philippines",
+       "rank": 12
+      },
+      {
+       "name": "Rene Calixto Bibiano+6",
+       "country": "Mexico",
+       "rank": 13
+      },
+      {
+       "name": "Damian Arce+2",
+       "country": "Cuba",
+       "rank": 14
+      },
+      {
+       "name": "Shogo Tanaka+12",
+       "country": "Japan",
+       "rank": 15
+      },
+      {
+       "name": "Tobias Jeremias Reyes-3",
+       "country": "Argentina",
+       "rank": 16
+      },
+      {
+       "name": "Jukiya Iimura",
+       "country": "Japan",
+       "rank": 17
+      },
+      {
+       "name": "Taku Kuwahara+8",
+       "country": "Japan",
+       "rank": 18
+      },
+      {
+       "name": "Albert Francisco-1",
+       "country": "Philippines",
+       "rank": 19
+      },
+      {
+       "name": "Kosuke Tomioka+2",
+       "country": "Japan",
+       "rank": 20
+      },
+      {
+       "name": "Nkosingiphile Sibisi-1",
+       "country": "South Africa",
+       "rank": 21
+      },
+      {
+       "name": "Fillemon Nghutenanye-1",
+       "country": "Namibia",
+       "rank": 22
+      },
+      {
+       "name": "Conner Kelsall",
+       "country": "United Kingdom",
+       "rank": 23
+      },
+      {
+       "name": "Hamza UddinNEW",
+       "country": "United Kingdom",
+       "rank": 24
+      },
+      {
+       "name": "Sho Nogami-11",
+       "country": "Japan",
+       "rank": 25
+      },
+      {
+       "name": "McHanja Yohana-1",
+       "country": "Tanzania",
+       "rank": 26
+      },
+      {
+       "name": "Joel Agustin Contreras+7",
+       "country": "Argentina",
+       "rank": 27
+      },
+      {
+       "name": "Brandon Daord",
+       "country": "United Kingdom",
+       "rank": 28
+      },
+      {
+       "name": "Longyi Hu",
+       "country": "China",
+       "rank": 29
+      },
+      {
+       "name": "Ryo Mandokoro+1",
+       "country": "Japan",
+       "rank": 30
+      },
+      {
+       "name": "Leonard Pores III+1",
+       "country": "Philippines",
+       "rank": 31
+      },
+      {
+       "name": "Jose Luis Russell Regalado-2",
+       "country": "Mexico",
+       "rank": 32
+      },
+      {
+       "name": "Shuri OkaNEW",
+       "country": "Japan",
+       "rank": 33
+      },
+      {
+       "name": "Nathaniel Dorona+2",
+       "country": "Philippines",
+       "rank": 34
+      },
+      {
+       "name": "Pedro DelgadoNEW",
+       "country": "Mexico",
+       "rank": 35
+      },
+      {
+       "name": "Dave ApolarinarioNEW",
+       "country": "Philippines",
+       "rank": 36
+      },
+      {
+       "name": "Arlando Senoc",
+       "country": "Philippines",
+       "rank": 37
+      },
+      {
+       "name": "Geremy Vera",
+       "country": "Venezuela",
+       "rank": 38
+      },
+      {
+       "name": "Ramon Nicanor Quiroga",
+       "country": "Argentina",
+       "rank": 39
+      },
+      {
+       "name": "Perlito Exclamada Jr",
+       "country": "Philippines",
+       "rank": 40
+      }
+     ]
+    },
+    "Junior Flyweight": {
+     "champion": {
+      "name": "Shokichi IwataWorld",
+      "country": "Japan"
+     },
+     "ranks": [
+      {
+       "name": "Thammanoon Niyomtrong",
+       "country": "Thailand",
+       "rank": 1
+      },
+      {
+       "name": "Arvin Magramo+2",
+       "country": "Philippines",
+       "rank": 2
+      },
+      {
+       "name": "Regie Suganob-1",
+       "country": "Philippines",
+       "rank": 3
+      },
+      {
+       "name": "Erick Rosa-1",
+       "country": "Dominican Republic",
+       "rank": 4
+      },
+      {
+       "name": "Aaron De La Cruz Escobedo",
+       "country": "Mexico",
+       "rank": 5
+      },
+      {
+       "name": "Erik Badillo",
+       "country": "Mexico",
+       "rank": 6
+      },
+      {
+       "name": "Yuga Ozaki",
+       "country": "Japan",
+       "rank": 7
+      },
+      {
+       "name": "Daniel Valladares",
+       "country": "Mexico",
+       "rank": 8
+      },
+      {
+       "name": "Masataka Taniguchi",
+       "country": "Japan",
+       "rank": 9
+      },
+      {
+       "name": "Terry Washington",
+       "country": "United States",
+       "rank": 10
+      },
+      {
+       "name": "Jayson Vayson",
+       "country": "Philippines",
+       "rank": 11
+      },
+      {
+       "name": "David Alonso Sanchez Estralla+2",
+       "country": "Mexico",
+       "rank": 12
+      },
+      {
+       "name": "Siseko Teyisi",
+       "country": "South Africa",
+       "rank": 13
+      },
+      {
+       "name": "Raito Kataoka+23",
+       "country": "Japan",
+       "rank": 14
+      },
+      {
+       "name": "Azael Villar+2",
+       "country": "Panama",
+       "rank": 15
+      },
+      {
+       "name": "Jose Russell Regalado+3",
+       "country": "Mexico",
+       "rank": 16
+      },
+      {
+       "name": "Toshiki Kawamitsu+3",
+       "country": "Japan",
+       "rank": 17
+      },
+      {
+       "name": "Jayson Brillo+8",
+       "country": "Philippines",
+       "rank": 18
+      },
+      {
+       "name": "Elwin Soto Castro-4",
+       "country": "Mexico",
+       "rank": 19
+      },
+      {
+       "name": "Mario Gutierrez+3",
+       "country": "Mexico",
+       "rank": 20
+      },
+      {
+       "name": "Mark Vicelles",
+       "country": "Philippines",
+       "rank": 21
+      },
+      {
+       "name": "Roberto Carlos Ramirez+5",
+       "country": "Mexico",
+       "rank": 22
+      },
+      {
+       "name": "Natsu Ohashi+5",
+       "country": "Japan",
+       "rank": 23
+      },
+      {
+       "name": "Junny Bugas+8",
+       "country": "Philippines",
+       "rank": 24
+      },
+      {
+       "name": "Rikuto Sezutsu+8",
+       "country": "Japan",
+       "rank": 25
+      },
+      {
+       "name": "Sanzhar Tashkenbay+8",
+       "country": "Kazakhstan",
+       "rank": 26
+      },
+      {
+       "name": "Jeifry Juan+9",
+       "country": "Dominican Republic",
+       "rank": 27
+      },
+      {
+       "name": "Edwin Cano HernandezNEW",
+       "country": "Mexico",
+       "rank": 28
+      },
+      {
+       "name": "Rodrigo RamirezNEW",
+       "country": "Venezuela",
+       "rank": 29
+      },
+      {
+       "name": "Jose SalazarNEW",
+       "country": "Venezuela",
+       "rank": 30
+      },
+      {
+       "name": "Neel JacamosNEW",
+       "country": "Philippines",
+       "rank": 31
+      },
+      {
+       "name": "Joel GarciaNEW",
+       "country": "Philippines",
+       "rank": 32
+      },
+      {
+       "name": "Rene Mark CuartoNEW",
+       "country": "Philippines",
+       "rank": 33
+      },
+      {
+       "name": "Go KawashitaNEW",
+       "country": "Japan",
+       "rank": 34
+      },
+      {
+       "name": "Jean Carlos VargasNEW",
+       "country": "Venezuela",
+       "rank": 35
+      },
+      {
+       "name": "Ogunyanji SikiruNEW",
+       "country": "Nigeria",
+       "rank": 36
+      },
+      {
+       "name": "Akizumi Nagashima+1",
+       "country": "Japan",
+       "rank": 37
+      },
+      {
+       "name": "Daiki Kameyama+1",
+       "country": "Japan",
+       "rank": 38
+      },
+      {
+       "name": "Ryuta Suekuni+1",
+       "country": "Japan",
+       "rank": 39
+      },
+      {
+       "name": "ArAr Andales-28",
+       "country": "Philippines",
+       "rank": 40
+      }
+     ]
+    },
+    "Strawweight": {
+     "champion": {
+      "name": "Siyakholwa KuseWorld",
+      "country": "South Africa"
+     },
+     "ranks": [
+      {
+       "name": "Melvin Jerusalem",
+       "country": "Philippines",
+       "rank": 1
+      },
+      {
+       "name": "Joey Canoy",
+       "country": "Philippines",
+       "rank": 2
+      },
+      {
+       "name": "Beaven Sibanda",
+       "country": "Zimbabwe",
+       "rank": 3
+      },
+      {
+       "name": "Joseph Sumabong",
+       "country": "Philippines",
+       "rank": 4
+      },
+      {
+       "name": "Dianxing Zhu",
+       "country": "China",
+       "rank": 5
+      },
+      {
+       "name": "Junior Leandro Zarate+1",
+       "country": "Argentina",
+       "rank": 6
+      },
+      {
+       "name": "Vic Saludar+3",
+       "country": "Philippines",
+       "rank": 7
+      },
+      {
+       "name": "Takero Kitano+1",
+       "country": "Japan",
+       "rank": 8
+      },
+      {
+       "name": "Shane Gentallan+2",
+       "country": "Philippines",
+       "rank": 9
+      },
+      {
+       "name": "Yuni Takada+2",
+       "country": "Japan",
+       "rank": 10
+      },
+      {
+       "name": "Russell Acosta Silveira+2",
+       "country": "Mexico",
+       "rank": 11
+      },
+      {
+       "name": "Katsuki Mori+2",
+       "country": "Japan",
+       "rank": 12
+      },
+      {
+       "name": "Ian Abne+2",
+       "country": "Philippines",
+       "rank": 13
+      },
+      {
+       "name": "Pedro Villegas+3",
+       "country": "Ecuador",
+       "rank": 14
+      },
+      {
+       "name": "Andre Rodriguez Rayon+3",
+       "country": "Mexico",
+       "rank": 15
+      },
+      {
+       "name": "Gustavo Perez Alvarez+3",
+       "country": "Mexico",
+       "rank": 16
+      },
+      {
+       "name": "Arnel Lofranco+3",
+       "country": "Philippines",
+       "rank": 17
+      },
+      {
+       "name": "Samuel Salva+3",
+       "country": "Philippines",
+       "rank": 18
+      },
+      {
+       "name": "Karim Lopez+5",
+       "country": "Mexico",
+       "rank": 19
+      },
+      {
+       "name": "Thinumzi Gqola+2",
+       "country": "South Africa",
+       "rank": 20
+      },
+      {
+       "name": "Rento Miyazawa+2",
+       "country": "Japan",
+       "rank": 21
+      },
+      {
+       "name": "Axel Alejandro Aragon Vega+3",
+       "country": "Mexico",
+       "rank": 22
+      },
+      {
+       "name": "Tatsuro Nakashima+3",
+       "country": "Japan",
+       "rank": 23
+      },
+      {
+       "name": "Kurt Pabular+5",
+       "country": "Philippines",
+       "rank": 24
+      },
+      {
+       "name": "Nglanhla TyirhaNEW",
+       "country": "South Africa",
+       "rank": 25
+      },
+      {
+       "name": "Ryuto TokoroNEW",
+       "country": "Japan",
+       "rank": 26
+      },
+      {
+       "name": "Christian Balunan+3",
+       "country": "Philippines",
+       "rank": 27
+      },
+      {
+       "name": "Ricardo Porras+3",
+       "country": "Peru",
+       "rank": 28
+      },
+      {
+       "name": "Kevin Lopez+3",
+       "country": "Mexico",
+       "rank": 29
+      },
+      {
+       "name": "Yoshi Sugiura+3",
+       "country": "Japan",
+       "rank": 30
+      },
+      {
+       "name": "Angelo HapinNEW",
+       "country": "Philippines",
+       "rank": 31
+      },
+      {
+       "name": "Issa Sakata+2",
+       "country": "Japan",
+       "rank": 32
+      },
+      {
+       "name": "Masatora OkadaNEW",
+       "country": "Japan",
+       "rank": 33
+      },
+      {
+       "name": "Roberto Karet Ruiz Velazco+1",
+       "country": "Mexico",
+       "rank": 34
+      },
+      {
+       "name": "Siphele MyezaNEW",
+       "country": "South Africa",
+       "rank": 35
+      },
+      {
+       "name": "Juan Coronel-8",
+       "country": "Colombia",
+       "rank": 36
+      },
+      {
+       "name": "Renden Oppas",
+       "country": "Philippines",
+       "rank": 37
+      },
+      {
+       "name": "Nhlakanipho KuneneNEW",
+       "country": "South Africa",
+       "rank": 38
+      },
+      {
+       "name": "Moises Caro GutierrezNEW",
+       "country": "Mexico",
+       "rank": 39
+      },
+      {
+       "name": "Joel Alejandro RamosNEW",
+       "country": "Mexico",
+       "rank": 40
+      }
+     ]
+    }
+   },
+   "p4p_M": [],
+   "p4p_F": [],
+   "label": "WBC (via Box-Rank)",
+   "url": "https://box-rank.com/rankings/org/wbc/heavyweight",
+   "read": "2026-11-12T13:01:55+00:00"
+  },
+  "IBF": {
+   "divisions": {
+    "Heavyweight": {
+     "champion": {
+      "name": "Filip HrgovicWorld",
+      "country": "Croatia"
+     },
+     "ranks": [
+      {
+       "name": "Frank Sanchez",
+       "country": "Cuba",
+       "rank": 1
+      },
+      {
+       "name": "Anthony Joshua",
+       "country": "United Kingdom",
+       "rank": 3
+      },
+      {
+       "name": "Bakhodir Jalolov",
+       "country": "Uzbekistan",
+       "rank": 4
+      },
+      {
+       "name": "Tyson Fury",
+       "country": "United Kingdom",
+       "rank": 5
+      },
+      {
+       "name": "Deontay Wilder",
+       "country": "United States",
+       "rank": 6
+      },
+      {
+       "name": "Moses Itauma",
+       "country": "United Kingdom",
+       "rank": 7
+      },
+      {
+       "name": "Richard Riakporhe",
+       "country": "United Kingdom",
+       "rank": 8
+      },
+      {
+       "name": "Richard Torrez Jr",
+       "country": "United States",
+       "rank": 9
+      },
+      {
+       "name": "Justis Huni",
+       "country": "Australia",
+       "rank": 10
+      },
+      {
+       "name": "Efe Ajagba",
+       "country": "Nigeria",
+       "rank": 11
+      },
+      {
+       "name": "Jarrell Miller",
+       "country": "United States",
+       "rank": 12
+      },
+      {
+       "name": "Guido Vianello",
+       "country": "Italy",
+       "rank": 13
+      },
+      {
+       "name": "Peter Milas",
+       "country": "Croatia",
+       "rank": 14
+      },
+      {
+       "name": "Teremoana Teremoana",
+       "country": "Australia",
+       "rank": 15
+      }
+     ]
+    },
+    "Cruiserweight": {
+     "champion": null,
+     "ranks": [
+      {
+       "name": "David Nyika",
+       "country": "New Zealand",
+       "rank": 1
+      },
+      {
+       "name": "Viddal Riley",
+       "country": "United Kingdom",
+       "rank": 2
+      },
+      {
+       "name": "Jai Opetaia",
+       "country": "Australia",
+       "rank": 3
+      },
+      {
+       "name": "Pat Brown",
+       "country": "United Kingdom",
+       "rank": 4
+      },
+      {
+       "name": "Chris Billam-Smith",
+       "country": "United Kingdom",
+       "rank": 5
+      },
+      {
+       "name": "Leonardo Mosquea",
+       "country": "France",
+       "rank": 6
+      },
+      {
+       "name": "Lenar Perez",
+       "country": "Cuba",
+       "rank": 7
+      },
+      {
+       "name": "Umar Salamov+1",
+       "country": "Kyrgyzstan",
+       "rank": 8
+      },
+      {
+       "name": "Gilberto Ramirez+1",
+       "country": "Mexico",
+       "rank": 9
+      },
+      {
+       "name": "Yuniel Dorticos+1",
+       "country": "Cuba",
+       "rank": 10
+      },
+      {
+       "name": "Jurgen Uldedeaj+1",
+       "country": "Albania",
+       "rank": 11
+      },
+      {
+       "name": "Mateusz Masternak+1",
+       "country": "Poland",
+       "rank": 12
+      },
+      {
+       "name": "Floyd Masson+1",
+       "country": "Australia",
+       "rank": 13
+      },
+      {
+       "name": "Luke Modini+1",
+       "country": "Australia",
+       "rank": 14
+      },
+      {
+       "name": "Tristan KalkreuthNEW",
+       "country": "United States",
+       "rank": 15
+      }
+     ]
+    },
+    "Light Heavyweight": {
+     "champion": {
+      "name": "Dmitry BivolWorld",
+      "country": "Russia"
+     },
+     "ranks": [
+      {
+       "name": "Ben Whittaker",
+       "country": "United Kingdom",
+       "rank": 1
+      },
+      {
+       "name": "Imam Khataev",
+       "country": "Australia",
+       "rank": 3
+      },
+      {
+       "name": "Sharabutdin Ataev",
+       "country": "Russia",
+       "rank": 4
+      },
+      {
+       "name": "Najee Lopez",
+       "country": "Puerto Rico",
+       "rank": 5
+      },
+      {
+       "name": "Atif Oberlton",
+       "country": "United States",
+       "rank": 6
+      },
+      {
+       "name": "Paulo Aokuso",
+       "country": "Australia",
+       "rank": 7
+      },
+      {
+       "name": "Ali Izmailov",
+       "country": "Russia",
+       "rank": 8
+      },
+      {
+       "name": "Gradus Kraus",
+       "country": "Netherlands",
+       "rank": 9
+      },
+      {
+       "name": "Benjamin Mendes Tani+1",
+       "country": "France",
+       "rank": 10
+      },
+      {
+       "name": "Conor Wallace-1",
+       "country": "Australia",
+       "rank": 11
+      },
+      {
+       "name": "Luca D'Ortenzi",
+       "country": "Italy",
+       "rank": 12
+      },
+      {
+       "name": "Pablo Ezequiel Corzo",
+       "country": "Argentina",
+       "rank": 13
+      },
+      {
+       "name": "Kirra Ruston",
+       "country": "Australia",
+       "rank": 14
+      },
+      {
+       "name": "Zak Chelli",
+       "country": "United Kingdom",
+       "rank": 15
+      }
+     ]
+    },
+    "Super Middleweight": {
+     "champion": {
+      "name": "Osleys IglesiasWorld",
+      "country": "Cuba"
+     },
+     "ranks": [
+      {
+       "name": "Kevin Lele Sadjo",
+       "country": "France",
+       "rank": 3
+      },
+      {
+       "name": "Malik Zinad",
+       "country": "Libya",
+       "rank": 4
+      },
+      {
+       "name": "Bek Nurmaganbet+4",
+       "country": "Kazakhstan",
+       "rank": 5
+      },
+      {
+       "name": "Bektemir Melikuziev",
+       "country": "Uzbekistan",
+       "rank": 6
+      },
+      {
+       "name": "Hamzah SheerazNEW",
+       "country": "United Kingdom",
+       "rank": 7
+      },
+      {
+       "name": "Edin Avdic",
+       "country": "Austria",
+       "rank": 8
+      },
+      {
+       "name": "Jacob Bank+2",
+       "country": "Denmark",
+       "rank": 9
+      },
+      {
+       "name": "Callum Simpson+2",
+       "country": "United Kingdom",
+       "rank": 10
+      },
+      {
+       "name": "Diego Pacheco+2",
+       "country": "United States",
+       "rank": 11
+      },
+      {
+       "name": "Wilkens Mathieu+2",
+       "country": "Canada",
+       "rank": 12
+      },
+      {
+       "name": "William Scull+2",
+       "country": "Cuba",
+       "rank": 13
+      },
+      {
+       "name": "Armando ResendizNEW",
+       "country": "Mexico",
+       "rank": 14
+      },
+      {
+       "name": "Dzhambulat BizamovNEW",
+       "country": "Russia",
+       "rank": 15
+      }
+     ]
+    },
+    "Middleweight": {
+     "champion": {
+      "name": "Aaron McKennaWorld",
+      "country": "Ireland"
+     },
+     "ranks": [
+      {
+       "name": "Amari Jones",
+       "country": "United States",
+       "rank": 1
+      },
+      {
+       "name": "Jahi Tucker",
+       "country": "United States",
+       "rank": 3
+      },
+      {
+       "name": "Vadim Tukov",
+       "country": "Russia",
+       "rank": 4
+      },
+      {
+       "name": "George Liddard",
+       "country": "United Kingdom",
+       "rank": 5
+      },
+      {
+       "name": "Vito Mielnicki Jr",
+       "country": "United States",
+       "rank": 6
+      },
+      {
+       "name": "Callum Walsh+1",
+       "country": "Ireland",
+       "rank": 7
+      },
+      {
+       "name": "Yoenli Hernandez+1",
+       "country": "Cuba",
+       "rank": 8
+      },
+      {
+       "name": "Michel Soro+1",
+       "country": "France",
+       "rank": 9
+      },
+      {
+       "name": "Bradley Goldsmith+1",
+       "country": "United Kingdom",
+       "rank": 10
+      },
+      {
+       "name": "Etinosa Oliha+1",
+       "country": "Italy",
+       "rank": 11
+      },
+      {
+       "name": "Jevgenijs Aleksejevs+1",
+       "country": "Latvia",
+       "rank": 12
+      },
+      {
+       "name": "Bilel Jkitou+1",
+       "country": "Morocco",
+       "rank": 13
+      },
+      {
+       "name": "Hebert Conceicao SousaNEW",
+       "country": "Brazil",
+       "rank": 14
+      },
+      {
+       "name": "Callum Peters",
+       "country": "Australia",
+       "rank": 15
+      }
+     ]
+    },
+    "Junior Middleweight": {
+     "champion": {
+      "name": "Josh KellyWorld",
+      "country": "United Kingdom"
+     },
+     "ranks": [
+      {
+       "name": "Bakhram Murtazaliev+1",
+       "country": "Russia",
+       "rank": 3
+      },
+      {
+       "name": "Milan Prat+3",
+       "country": "France",
+       "rank": 4
+      },
+      {
+       "name": "Nikita Tszyu",
+       "country": "Australia",
+       "rank": 5
+      },
+      {
+       "name": "Israil Madrimov",
+       "country": "Uzbekistan",
+       "rank": 6
+      },
+      {
+       "name": "Ben Mahoney+1",
+       "country": "Australia",
+       "rank": 7
+      },
+      {
+       "name": "Xander Zayas+1",
+       "country": "Puerto Rico",
+       "rank": 8
+      },
+      {
+       "name": "Abass Baraou+1",
+       "country": "Germany",
+       "rank": 9
+      },
+      {
+       "name": "Yan Marcos+1",
+       "country": "United States",
+       "rank": 10
+      },
+      {
+       "name": "Pavel Sosulin+1",
+       "country": "Russia",
+       "rank": 11
+      },
+      {
+       "name": "Billal Fawaz+1",
+       "country": "United Kingdom",
+       "rank": 12
+      },
+      {
+       "name": "Ibrahima Diallo+1",
+       "country": "Belgium",
+       "rank": 13
+      },
+      {
+       "name": "Caoimhin Agyarko+1",
+       "country": "Ireland",
+       "rank": 14
+      },
+      {
+       "name": "Richard JohnsonNEW",
+       "country": "United States",
+       "rank": 15
+      }
+     ]
+    },
+    "Welterweight": {
+     "champion": {
+      "name": "Liam ParoWorld",
+      "country": "Australia"
+     },
+     "ranks": [
+      {
+       "name": "Paddy Donovan",
+       "country": "Ireland",
+       "rank": 1
+      },
+      {
+       "name": "Richardson Hitchins",
+       "country": "United States",
+       "rank": 3
+      },
+      {
+       "name": "Lewis Crocker+1",
+       "country": "United Kingdom",
+       "rank": 4
+      },
+      {
+       "name": "Brian Norman Jr+1",
+       "country": "United States",
+       "rank": 5
+      },
+      {
+       "name": "Conah Walker+1",
+       "country": "United Kingdom",
+       "rank": 6
+      },
+      {
+       "name": "Rohan Polanco+1",
+       "country": "Dominican Republic",
+       "rank": 7
+      },
+      {
+       "name": "Delante Johnson+1",
+       "country": "United States",
+       "rank": 8
+      },
+      {
+       "name": "David Papot+1",
+       "country": "France",
+       "rank": 9
+      },
+      {
+       "name": "Vadim Musaev+1",
+       "country": "Russia",
+       "rank": 10
+      },
+      {
+       "name": "Karen Chukhadzhian+2",
+       "country": "Ukraine",
+       "rank": 11
+      },
+      {
+       "name": "Kieran Molloy+2",
+       "country": "Ireland",
+       "rank": 12
+      },
+      {
+       "name": "Jack Rafferty+2",
+       "country": "United Kingdom",
+       "rank": 13
+      },
+      {
+       "name": "Jin SasakiNEW",
+       "country": "Japan",
+       "rank": 14
+      },
+      {
+       "name": "Michael Ramirez SantosNEW",
+       "country": "Dominican Republic",
+       "rank": 15
+      }
+     ]
+    },
+    "Junior Welterweight": {
+     "champion": null,
+     "ranks": [
+      {
+       "name": "Lindolfo Delgado",
+       "country": "Mexico",
+       "rank": 1
+      },
+      {
+       "name": "Arthur Biyarslanov",
+       "country": "Canada",
+       "rank": 3
+      },
+      {
+       "name": "Adam Azim",
+       "country": "United Kingdom",
+       "rank": 4
+      },
+      {
+       "name": "Ernesto Mercado",
+       "country": "United States",
+       "rank": 5
+      },
+      {
+       "name": "Gabriel Valenzuela",
+       "country": "Mexico",
+       "rank": 6
+      },
+      {
+       "name": "Raymond Muratalla",
+       "country": "United States",
+       "rank": 7
+      },
+      {
+       "name": "Emiliano Vargas",
+       "country": "United States",
+       "rank": 8
+      },
+      {
+       "name": "Keyshawn DavisNEW",
+       "country": "United States",
+       "rank": 9
+      },
+      {
+       "name": "Subriel Matias-1",
+       "country": "Puerto Rico",
+       "rank": 10
+      },
+      {
+       "name": "Mark Chamberlain",
+       "country": "United Kingdom",
+       "rank": 11
+      },
+      {
+       "name": "Jhon Orobio",
+       "country": "Colombia",
+       "rank": 12
+      },
+      {
+       "name": "Oscar Duarte",
+       "country": "Mexico",
+       "rank": 13
+      },
+      {
+       "name": "Sean McComb",
+       "country": "Ireland",
+       "rank": 14
+      },
+      {
+       "name": "Bryan Flores",
+       "country": "United States",
+       "rank": 15
+      }
+     ]
+    },
+    "Lightweight": {
+     "champion": null,
+     "ranks": [
+      {
+       "name": "Artur Subkhankulov",
+       "country": "Russia",
+       "rank": 2
+      },
+      {
+       "name": "Andy Cruz",
+       "country": "Cuba",
+       "rank": 3
+      },
+      {
+       "name": "Dzmitri Asanau",
+       "country": "Belgium",
+       "rank": 4
+      },
+      {
+       "name": "Sam Noakes",
+       "country": "United Kingdom",
+       "rank": 5
+      },
+      {
+       "name": "Joe Cordina",
+       "country": "United Kingdom",
+       "rank": 6
+      },
+      {
+       "name": "Jordan White",
+       "country": "United States",
+       "rank": 7
+      },
+      {
+       "name": "Reito Takahashi",
+       "country": "Japan",
+       "rank": 8
+      },
+      {
+       "name": "Shuma Nakazato",
+       "country": "Japan",
+       "rank": 9
+      },
+      {
+       "name": "Mikhail Grigoryan",
+       "country": "Russia",
+       "rank": 10
+      },
+      {
+       "name": "Eridson Garcia",
+       "country": "Dominican Republic",
+       "rank": 11
+      },
+      {
+       "name": "Siro Choi",
+       "country": "Uzbekistan",
+       "rank": 12
+      },
+      {
+       "name": "Chriztian Pitt Laurente",
+       "country": "Philippines",
+       "rank": 13
+      },
+      {
+       "name": "Alan Abel Chaves",
+       "country": "Argentina",
+       "rank": 14
+      },
+      {
+       "name": "Taiga Imanaga",
+       "country": "Japan",
+       "rank": 15
+      }
+     ]
+    },
+    "Junior Lightweight": {
+     "champion": {
+      "name": "O'Shaquie FosterNEWWorld ChampionO'Shaquie Foster: O'Shaquie Foster defeated Emanuel Navarrete by unanimous decision (118-108, 118-108, 115-111) on 24 October 2026 in San Antonio to capture the IBF super featherweight title.. Event date: 24 October 2026. First shown in the October 2026 rankings.Official sourcePrevious Emanuel Navarrete",
+      "country": "United States"
+     },
+     "ranks": [
+      {
+       "name": "Sultan Zaurbek",
+       "country": "Kazakhstan",
+       "rank": 1
+      },
+      {
+       "name": "Henry Lebron",
+       "country": "Puerto Rico",
+       "rank": 3
+      },
+      {
+       "name": "Hayato Tsutsumi",
+       "country": "Japan",
+       "rank": 4
+      },
+      {
+       "name": "Royston Barney-Smith",
+       "country": "United Kingdom",
+       "rank": 5
+      },
+      {
+       "name": "Emanuel NavarreteWas champ",
+       "country": "Mexico",
+       "rank": 6
+      },
+      {
+       "name": "Masanori Rikiishi-1",
+       "country": "Japan",
+       "rank": 7
+      },
+      {
+       "name": "Eduardo Nunez-1",
+       "country": "Mexico",
+       "rank": 8
+      },
+      {
+       "name": "Jackson Jon England",
+       "country": "Australia",
+       "rank": 9
+      },
+      {
+       "name": "Josh Padley",
+       "country": "United Kingdom",
+       "rank": 10
+      },
+      {
+       "name": "Mauricio Lara",
+       "country": "Mexico",
+       "rank": 11
+      },
+      {
+       "name": "Luis Alberto Lopez",
+       "country": "Mexico",
+       "rank": 12
+      },
+      {
+       "name": "Moussa Gholam",
+       "country": "Spain",
+       "rank": 13
+      },
+      {
+       "name": "Tsendbaatar Erdenebat",
+       "country": "Mongolia",
+       "rank": 14
+      },
+      {
+       "name": "Yamato Hata",
+       "country": "Japan",
+       "rank": 15
+      }
+     ]
+    },
+    "Featherweight": {
+     "champion": {
+      "name": "Angelo LeoWorld",
+      "country": "United States"
+     },
+     "ranks": [
+      {
+       "name": "Omar Trinidad",
+       "country": "United States",
+       "rank": 2
+      },
+      {
+       "name": "Luis Reynaldo Nunez",
+       "country": "Dominican Republic",
+       "rank": 3
+      },
+      {
+       "name": "Toshiki Shimomachi",
+       "country": "Japan",
+       "rank": 4
+      },
+      {
+       "name": "Shabaz Masoud",
+       "country": "United Kingdom",
+       "rank": 5
+      },
+      {
+       "name": "Liam Davies",
+       "country": "United Kingdom",
+       "rank": 6
+      },
+      {
+       "name": "Mikito Nakano",
+       "country": "Japan",
+       "rank": 7
+      },
+      {
+       "name": "Albert Gonzalez",
+       "country": "United States",
+       "rank": 8
+      },
+      {
+       "name": "Cristobal Lorente",
+       "country": "Spain",
+       "rank": 9
+      },
+      {
+       "name": "Lienard Sarcon",
+       "country": "Philippines",
+       "rank": 10
+      },
+      {
+       "name": "Carl Jammes MartinNEW",
+       "country": "Philippines",
+       "rank": 11
+      },
+      {
+       "name": "Lorenzo Parra",
+       "country": "Venezuela",
+       "rank": 12
+      },
+      {
+       "name": "Yan Carlos Santana Guerrero",
+       "country": "Dominican Republic",
+       "rank": 13
+      },
+      {
+       "name": "Kevin Walsh",
+       "country": "United States",
+       "rank": 14
+      },
+      {
+       "name": "Kyosuke Okamoto",
+       "country": "Japan",
+       "rank": 15
+      }
+     ]
+    },
+    "Junior Featherweight": {
+     "champion": {
+      "name": "Naoya InoueWorld",
+      "country": "Japan"
+     },
+     "ranks": [
+      {
+       "name": "Bryan Mercado Vazquez",
+       "country": "Mexico",
+       "rank": 3
+      },
+      {
+       "name": "Murodjon Akhmadaliev",
+       "country": "Uzbekistan",
+       "rank": 4
+      },
+      {
+       "name": "Junto Nakatani",
+       "country": "Japan",
+       "rank": 5
+      },
+      {
+       "name": "Ryosuke Nishida",
+       "country": "Japan",
+       "rank": 6
+      },
+      {
+       "name": "Yoshiki Takei",
+       "country": "Japan",
+       "rank": 7
+      },
+      {
+       "name": "Mukhammad Shekhov",
+       "country": "Uzbekistan",
+       "rank": 8
+      },
+      {
+       "name": "Kenneth Llover",
+       "country": "Philippines",
+       "rank": 9
+      },
+      {
+       "name": "Ramon Cardenas",
+       "country": "United States",
+       "rank": 10
+      },
+      {
+       "name": "John Riel Casimero",
+       "country": "Philippines",
+       "rank": 11
+      },
+      {
+       "name": "Jose Tito Sanchez+1",
+       "country": "United States",
+       "rank": 12
+      },
+      {
+       "name": "Mirazizbek Mirzkhalilov+1",
+       "country": "Uzbekistan",
+       "rank": 13
+      },
+      {
+       "name": "Francesco Derosa+1",
+       "country": "Italy",
+       "rank": 14
+      },
+      {
+       "name": "Jun IkegawaNEW",
+       "country": "Japan",
+       "rank": 15
+      }
+     ]
+    },
+    "Bantamweight": {
+     "champion": {
+      "name": "Jose Salas ReyesWorld",
+      "country": "Mexico"
+     },
+     "ranks": [
+      {
+       "name": "Michael Angeletti",
+       "country": "United States",
+       "rank": 1
+      },
+      {
+       "name": "Tenshin Nasakawa",
+       "country": "Japan",
+       "rank": 3
+      },
+      {
+       "name": "Jason Moloney",
+       "country": "Australia",
+       "rank": 4
+      },
+      {
+       "name": "Andrew Cain+1",
+       "country": "United Kingdom",
+       "rank": 5
+      },
+      {
+       "name": "Kazuto Ioka+1",
+       "country": "Japan",
+       "rank": 6
+      },
+      {
+       "name": "Yuta Sakai+3",
+       "country": "Japan",
+       "rank": 7
+      },
+      {
+       "name": "Dominique Crowder+4",
+       "country": "United States",
+       "rank": 8
+      },
+      {
+       "name": "Emmanuel Rodriguez-4",
+       "country": "Puerto Rico",
+       "rank": 9
+      },
+      {
+       "name": "Landile Ngxeke-2",
+       "country": "South Africa",
+       "rank": 10
+      },
+      {
+       "name": "Sento Ito-2",
+       "country": "Japan",
+       "rank": 11
+      },
+      {
+       "name": "Reymart Gaballo+1",
+       "country": "Philippines",
+       "rank": 12
+      },
+      {
+       "name": "Keita Nakayama+1",
+       "country": "Japan",
+       "rank": 13
+      },
+      {
+       "name": "Rex Tso+1",
+       "country": "Hong Kong",
+       "rank": 14
+      },
+      {
+       "name": "Ayuma SanoNEW",
+       "country": "Japan",
+       "rank": 15
+      }
+     ]
+    },
+    "Junior Bantamweight": {
+     "champion": {
+      "name": "Andrew MoloneyWorld",
+      "country": "Australia"
+     },
+     "ranks": [
+      {
+       "name": "Sikho Nqothole",
+       "country": "South Africa",
+       "rank": 1
+      },
+      {
+       "name": "Angel Ayala Lardizabal",
+       "country": "Mexico",
+       "rank": 3
+      },
+      {
+       "name": "Ryusei Kawaura",
+       "country": "Japan",
+       "rank": 4
+      },
+      {
+       "name": "Kenta Nakagawa",
+       "country": "Japan",
+       "rank": 5
+      },
+      {
+       "name": "Willibaldo Garcia Perez",
+       "country": "Mexico",
+       "rank": 6
+      },
+      {
+       "name": "Seigo Yuri Akui",
+       "country": "Japan",
+       "rank": 7
+      },
+      {
+       "name": "Ryang Ho Han",
+       "country": "South Korea",
+       "rank": 8
+      },
+      {
+       "name": "Theophilous Kpakpo Allotey",
+       "country": "Ghana",
+       "rank": 9
+      },
+      {
+       "name": "Jack Turner",
+       "country": "United Kingdom",
+       "rank": 10
+      },
+      {
+       "name": "Phumelela Cafu",
+       "country": "South Africa",
+       "rank": 11
+      },
+      {
+       "name": "Charlie Edwards",
+       "country": "United Kingdom",
+       "rank": 12
+      },
+      {
+       "name": "Hayate Hanada",
+       "country": "Japan",
+       "rank": 13
+      },
+      {
+       "name": "Ari Bonilla",
+       "country": "United States",
+       "rank": 14
+      },
+      {
+       "name": "Vieris OrtegaNEW",
+       "country": "Colombia",
+       "rank": 15
+      }
+     ]
+    },
+    "Flyweight": {
+     "champion": {
+      "name": "Masamichi YabukiWorld",
+      "country": "Japan"
+     },
+     "ranks": [
+      {
+       "name": "Miel Fajardo",
+       "country": "Philippines",
+       "rank": 1
+      },
+      {
+       "name": "Kosuke Tomioka+1",
+       "country": "Japan",
+       "rank": 3
+      },
+      {
+       "name": "Joselito Velazquez Altamirano-1",
+       "country": "Mexico",
+       "rank": 4
+      },
+      {
+       "name": "Arvin Jhon Paciones",
+       "country": "Philippines",
+       "rank": 5
+      },
+      {
+       "name": "Ryoma Morimoto",
+       "country": "Japan",
+       "rank": 6
+      },
+      {
+       "name": "Yuberjen Martinez",
+       "country": "Colombia",
+       "rank": 7
+      },
+      {
+       "name": "Rene Calixto Bibiano",
+       "country": "Mexico",
+       "rank": 8
+      },
+      {
+       "name": "Kyosuke Takami",
+       "country": "Japan",
+       "rank": 9
+      },
+      {
+       "name": "Nkosingiphile Sibisi",
+       "country": "South Africa",
+       "rank": 10
+      },
+      {
+       "name": "Shogo TanakaNEW",
+       "country": "Japan",
+       "rank": 11
+      },
+      {
+       "name": "Leonard Pores III",
+       "country": "Philippines",
+       "rank": 12
+      },
+      {
+       "name": "Anthony Johns",
+       "country": "United States",
+       "rank": 13
+      },
+      {
+       "name": "Ryo Mandokoro",
+       "country": "Japan",
+       "rank": 14
+      },
+      {
+       "name": "Ayumu Hanada",
+       "country": "Japan",
+       "rank": 15
+      }
+     ]
+    },
+    "Junior Flyweight": {
+     "champion": {
+      "name": "Thanongsak SimsriWorld",
+      "country": "Thailand"
+     },
+     "ranks": [
+      {
+       "name": "Regie Suganob",
+       "country": "Philippines",
+       "rank": 1
+      },
+      {
+       "name": "Erick Rosa",
+       "country": "Dominican Republic",
+       "rank": 3
+      },
+      {
+       "name": "Siseko Teyisi",
+       "country": "South Africa",
+       "rank": 4
+      },
+      {
+       "name": "Yuga Ozaki",
+       "country": "Japan",
+       "rank": 5
+      },
+      {
+       "name": "Arvin Magramo",
+       "country": "Philippines",
+       "rank": 6
+      },
+      {
+       "name": "Raito Kataoka+8",
+       "country": "Japan",
+       "rank": 7
+      },
+      {
+       "name": "Shane Gentallan",
+       "country": "Philippines",
+       "rank": 8
+      },
+      {
+       "name": "Terry Washington",
+       "country": "United States",
+       "rank": 9
+      },
+      {
+       "name": "Thammanoon Niyomtrong",
+       "country": "Thailand",
+       "rank": 10
+      },
+      {
+       "name": "Masataka Taniguchi",
+       "country": "Japan",
+       "rank": 11
+      },
+      {
+       "name": "Jayson Vayson",
+       "country": "Philippines",
+       "rank": 12
+      },
+      {
+       "name": "Daniel Valladares",
+       "country": "Mexico",
+       "rank": 13
+      },
+      {
+       "name": "Akizumi Nagashima",
+       "country": "Japan",
+       "rank": 14
+      },
+      {
+       "name": "ArAr Andales-8",
+       "country": "Philippines",
+       "rank": 15
+      }
+     ]
+    },
+    "Strawweight": {
+     "champion": {
+      "name": "Pedro TaduranWorld",
+      "country": "Philippines"
+     },
+     "ranks": [
+      {
+       "name": "Dianxing Zhu",
+       "country": "China",
+       "rank": 1
+      },
+      {
+       "name": "Aaron De La Cruz Escobedo",
+       "country": "Mexico",
+       "rank": 3
+      },
+      {
+       "name": "Brandon Moreno",
+       "country": "Spain",
+       "rank": 4
+      },
+      {
+       "name": "Christian Balunan",
+       "country": "Philippines",
+       "rank": 5
+      },
+      {
+       "name": "Melvin Jerusalem",
+       "country": "Philippines",
+       "rank": 6
+      },
+      {
+       "name": "Ian Abne",
+       "country": "Philippines",
+       "rank": 7
+      },
+      {
+       "name": "Katsuki Mori",
+       "country": "Japan",
+       "rank": 8
+      },
+      {
+       "name": "Vic Saludar",
+       "country": "Philippines",
+       "rank": 9
+      },
+      {
+       "name": "Takero Kitano",
+       "country": "Japan",
+       "rank": 10
+      },
+      {
+       "name": "Joseph Sumabong",
+       "country": "Philippines",
+       "rank": 11
+      },
+      {
+       "name": "Masatora Okada",
+       "country": "Japan",
+       "rank": 12
+      },
+      {
+       "name": "Joey Canoy",
+       "country": "Philippines",
+       "rank": 13
+      },
+      {
+       "name": "Yoshi Sugiura+1",
+       "country": "Japan",
+       "rank": 14
+      },
+      {
+       "name": "Ryuta TokoraNEW",
+       "country": "Japan",
+       "rank": 15
+      }
+     ]
+    }
+   },
+   "p4p_M": [],
+   "p4p_F": [],
+   "label": "IBF (via Box-Rank)",
+   "url": "https://box-rank.com/rankings/org/ibf/heavyweight",
+   "read": "2026-11-12T13:02:13+00:00"
+  },
+  "WBO": {
+   "divisions": {
+    "Heavyweight": {
+     "champion": {
+      "name": "Daniel DuboisWorld",
+      "country": "United Kingdom"
+     },
+     "ranks": [
+      {
+       "name": "Oleksandr Usyk",
+       "country": "Ukraine",
+       "rank": 1
+      },
+      {
+       "name": "Tyson Fury",
+       "country": "United Kingdom",
+       "rank": 2
+      },
+      {
+       "name": "Anthony Joshua",
+       "country": "United Kingdom",
+       "rank": 3
+      },
+      {
+       "name": "Bakhodir Jalolov+3",
+       "country": "Uzbekistan",
+       "rank": 4
+      },
+      {
+       "name": "Moses Itauma",
+       "country": "United Kingdom",
+       "rank": 5
+      },
+      {
+       "name": "Frank Sanchez+2",
+       "country": "Cuba",
+       "rank": 6
+      },
+      {
+       "name": "Joseph Parker-1",
+       "country": "New Zealand",
+       "rank": 7
+      },
+      {
+       "name": "Deontay Wilder+1",
+       "country": "United States",
+       "rank": 8
+      },
+      {
+       "name": "Nelson Hysa+1",
+       "country": "Albania",
+       "rank": 9
+      },
+      {
+       "name": "Viktor Vykhryst+1",
+       "country": "Ukraine",
+       "rank": 10
+      },
+      {
+       "name": "Brandon Moore+1",
+       "country": "United States",
+       "rank": 11
+      },
+      {
+       "name": "Alexis BarriereNEW",
+       "country": "Canada",
+       "rank": 12
+      },
+      {
+       "name": "Gustavo Trujillo",
+       "country": "United States",
+       "rank": 13
+      },
+      {
+       "name": "Richard Riakporhe",
+       "country": "United Kingdom",
+       "rank": 14
+      },
+      {
+       "name": "Justis Huni",
+       "country": "Australia",
+       "rank": 15
+      }
+     ]
+    },
+    "Cruiserweight": {
+     "champion": {
+      "name": "David BenavidezWorld",
+      "country": "United States"
+     },
+     "ranks": [
+      {
+       "name": "Roman Fress",
+       "country": "Kazakhstan",
+       "rank": 1
+      },
+      {
+       "name": "Robin Sirwan Safar",
+       "country": "Sweden",
+       "rank": 2
+      },
+      {
+       "name": "Gilberto Ramirez",
+       "country": "Mexico",
+       "rank": 3
+      },
+      {
+       "name": "David Nyika",
+       "country": "New Zealand",
+       "rank": 4
+      },
+      {
+       "name": "Umar Salamov",
+       "country": "Kyrgyzstan",
+       "rank": 5
+      },
+      {
+       "name": "Chris Billam-Smith",
+       "country": "United Kingdom",
+       "rank": 6
+      },
+      {
+       "name": "Mike Perez",
+       "country": "Cuba",
+       "rank": 7
+      },
+      {
+       "name": "Leonardo Mosquea",
+       "country": "France",
+       "rank": 8
+      },
+      {
+       "name": "Yuniel Dorticos+3",
+       "country": "Cuba",
+       "rank": 9
+      },
+      {
+       "name": "Armend Xhoxhaj+1",
+       "country": "Kosovo",
+       "rank": 10
+      },
+      {
+       "name": "Viddal Riley-2",
+       "country": "United Kingdom",
+       "rank": 11
+      },
+      {
+       "name": "Lenar Perez-2",
+       "country": "Cuba",
+       "rank": 12
+      },
+      {
+       "name": "Lucas Pontes Da Silva",
+       "country": "Brazil",
+       "rank": 13
+      },
+      {
+       "name": "Luke Modini+1",
+       "country": "Australia",
+       "rank": 14
+      },
+      {
+       "name": "Kevin Ramirez-1",
+       "country": "Argentina",
+       "rank": 15
+      }
+     ]
+    },
+    "Light Heavyweight": {
+     "champion": {
+      "name": "Dmitry BivolWorld",
+      "country": "Russia"
+     },
+     "ranks": [
+      {
+       "name": "Ben Whittaker+2",
+       "country": "United Kingdom",
+       "rank": 1
+      },
+      {
+       "name": "Radivoje Kalajdzic-1",
+       "country": "United States",
+       "rank": 2
+      },
+      {
+       "name": "Zak Chelli+1",
+       "country": "United Kingdom",
+       "rank": 3
+      },
+      {
+       "name": "Imam Khataev+2",
+       "country": "Russia",
+       "rank": 4
+      },
+      {
+       "name": "Ardian Krasniqi",
+       "country": "Germany",
+       "rank": 5
+      },
+      {
+       "name": "Najee Lopez+2",
+       "country": "United States",
+       "rank": 6
+      },
+      {
+       "name": "Adam Deines",
+       "country": "Germany",
+       "rank": 7
+      },
+      {
+       "name": "Artur Reis+1",
+       "country": "Germany",
+       "rank": 8
+      },
+      {
+       "name": "Conor Wallace-7",
+       "country": "Australia",
+       "rank": 9
+      },
+      {
+       "name": "Zach Parker",
+       "country": "United Kingdom",
+       "rank": 10
+      },
+      {
+       "name": "Yair Gallardo+1",
+       "country": "Mexico",
+       "rank": 11
+      },
+      {
+       "name": "Benjamin Mendes Tani+1",
+       "country": "France",
+       "rank": 12
+      },
+      {
+       "name": "Paulo Aokuso+1",
+       "country": "Australia",
+       "rank": 13
+      },
+      {
+       "name": "Ali IzmailovNEW",
+       "country": "Russia",
+       "rank": 14
+      },
+      {
+       "name": "Atif Oberlton",
+       "country": "United States",
+       "rank": 15
+      }
+     ]
+    },
+    "Super Middleweight": {
+     "champion": null,
+     "ranks": [
+      {
+       "name": "Zhanibek Alimkhanuly",
+       "country": "Kazakhstan",
+       "rank": 1
+      },
+      {
+       "name": "Diego Pacheco",
+       "country": "United States",
+       "rank": 2
+      },
+      {
+       "name": "Jacob Bank",
+       "country": "Denmark",
+       "rank": 3
+      },
+      {
+       "name": "Kevin Lele Sadjo",
+       "country": "France",
+       "rank": 4
+      },
+      {
+       "name": "Armando Resendiz",
+       "country": "Mexico",
+       "rank": 5
+      },
+      {
+       "name": "Bektemir Melikuziev",
+       "country": "Uzbekistan",
+       "rank": 6
+      },
+      {
+       "name": "Edgar Berlanga",
+       "country": "Puerto Rico",
+       "rank": 7
+      },
+      {
+       "name": "Hebert Conceicao Sousa",
+       "country": "Brazil",
+       "rank": 8
+      },
+      {
+       "name": "Milorad Zizic",
+       "country": "Montenegro",
+       "rank": 9
+      },
+      {
+       "name": "Callum Simpson",
+       "country": "United Kingdom",
+       "rank": 10
+      },
+      {
+       "name": "Bernardin Jakaj",
+       "country": "Australia",
+       "rank": 11
+      },
+      {
+       "name": "Simon Zachenhuber",
+       "country": "Germany",
+       "rank": 12
+      },
+      {
+       "name": "Jack Bowen",
+       "country": "Australia",
+       "rank": 13
+      },
+      {
+       "name": "Max Reeves",
+       "country": "Australia",
+       "rank": 14
+      },
+      {
+       "name": "Wilkens Mathieu",
+       "country": "Canada",
+       "rank": 15
+      }
+     ]
+    },
+    "Middleweight": {
+     "champion": {
+      "name": "VacantVacant: the WBO withdrew recognition and declared the title vacant after Bentley failed to comply with mandatory championship obligations against Yoenli Hernandez. Event date: 30 October 2026. First shown in the October 2026 rankings.Official source",
+      "country": ""
+     },
+     "ranks": [
+      {
+       "name": "Yoenli Hernandez",
+       "country": "Cuba",
+       "rank": 1
+      },
+      {
+       "name": "Vito Mielnicki Jr",
+       "country": "United States",
+       "rank": 2
+      },
+      {
+       "name": "Tim Tszyu",
+       "country": "Australia",
+       "rank": 3
+      },
+      {
+       "name": "Michael Zerafa",
+       "country": "Australia",
+       "rank": 4
+      },
+      {
+       "name": "Fiodor Czerkaszyn",
+       "country": "Poland",
+       "rank": 5
+      },
+      {
+       "name": "Shane Mosley Jr",
+       "country": "United States",
+       "rank": 6
+      },
+      {
+       "name": "Jahi Tucker",
+       "country": "United States",
+       "rank": 7
+      },
+      {
+       "name": "Giovanni Sarchioto",
+       "country": "Italy",
+       "rank": 8
+      },
+      {
+       "name": "Ismael Flores",
+       "country": "Argentina",
+       "rank": 9
+      },
+      {
+       "name": "Callum Walsh",
+       "country": "Ireland",
+       "rank": 10
+      },
+      {
+       "name": "Euri Cedeno",
+       "country": "Dominican Republic",
+       "rank": 11
+      },
+      {
+       "name": "Troy Isley+1",
+       "country": "United States",
+       "rank": 12
+      },
+      {
+       "name": "Brad Pauls-1",
+       "country": "United Kingdom",
+       "rank": 13
+      },
+      {
+       "name": "Stephen McKenna",
+       "country": "Ireland",
+       "rank": 14
+      },
+      {
+       "name": "George Liddard",
+       "country": "United Kingdom",
+       "rank": 15
+      }
+     ]
+    },
+    "Junior Middleweight": {
+     "champion": {
+      "name": "Jaron EnnisWorld",
+      "country": "United States"
+     },
+     "ranks": [
+      {
+       "name": "Abass Baraou+2",
+       "country": "Germany",
+       "rank": 1
+      },
+      {
+       "name": "Nikita Tszyu+2",
+       "country": "Australia",
+       "rank": 2
+      },
+      {
+       "name": "Xander Zayas-2",
+       "country": "Puerto Rico",
+       "rank": 3
+      },
+      {
+       "name": "Bakhram Murtazaliev-2",
+       "country": "Russia",
+       "rank": 4
+      },
+      {
+       "name": "Israil Madrimov",
+       "country": "Uzbekistan",
+       "rank": 5
+      },
+      {
+       "name": "Giovani Santillan",
+       "country": "United States",
+       "rank": 6
+      },
+      {
+       "name": "Rashidi Ellis+1",
+       "country": "United States",
+       "rank": 7
+      },
+      {
+       "name": "Freddy Kiwitt+1",
+       "country": "Germany",
+       "rank": 8
+      },
+      {
+       "name": "Ryota Toyoshima+1",
+       "country": "Japan",
+       "rank": 9
+      },
+      {
+       "name": "Alex Bray+1",
+       "country": "United States",
+       "rank": 10
+      },
+      {
+       "name": "Bakari DialloNEW",
+       "country": "France",
+       "rank": 11
+      },
+      {
+       "name": "Charles Conwell",
+       "country": "United States",
+       "rank": 12
+      },
+      {
+       "name": "Yuri Sakunts",
+       "country": "Armenia",
+       "rank": 13
+      },
+      {
+       "name": "Mykal Fox",
+       "country": "United States",
+       "rank": 14
+      },
+      {
+       "name": "Yoenis Tellez",
+       "country": "Cuba",
+       "rank": 15
+      }
+     ]
+    },
+    "Welterweight": {
+     "champion": {
+      "name": "Devin HaneyWorld",
+      "country": "United States"
+     },
+     "ranks": [
+      {
+       "name": "Brian Norman Jr",
+       "country": "United States",
+       "rank": 1
+      },
+      {
+       "name": "Richardson Hitchins",
+       "country": "United States",
+       "rank": 2
+      },
+      {
+       "name": "Arnold Barboza Jr",
+       "country": "United States",
+       "rank": 3
+      },
+      {
+       "name": "Oscar Duarte",
+       "country": "Mexico",
+       "rank": 4
+      },
+      {
+       "name": "Alexis Rocha",
+       "country": "United States",
+       "rank": 5
+      },
+      {
+       "name": "Rohan Polanco",
+       "country": "Dominican Republic",
+       "rank": 6
+      },
+      {
+       "name": "Delante Johnson",
+       "country": "United States",
+       "rank": 7
+      },
+      {
+       "name": "Raul Curiel",
+       "country": "Mexico",
+       "rank": 8
+      },
+      {
+       "name": "Paddy Donovan",
+       "country": "Ireland",
+       "rank": 9
+      },
+      {
+       "name": "Taras Shelestyuk",
+       "country": "Ukraine",
+       "rank": 10
+      },
+      {
+       "name": "Ben Crocker",
+       "country": "United Kingdom",
+       "rank": 11
+      },
+      {
+       "name": "Eduardo Zuleta",
+       "country": "Chile",
+       "rank": 12
+      },
+      {
+       "name": "Jin Sasaki",
+       "country": "Japan",
+       "rank": 13
+      },
+      {
+       "name": "Willy Gilheaney",
+       "country": "United Kingdom",
+       "rank": 14
+      },
+      {
+       "name": "Ignacio David Iribarren",
+       "country": "Argentina",
+       "rank": 15
+      }
+     ]
+    },
+    "Junior Welterweight": {
+     "champion": {
+      "name": "Shakur StevensonWorld",
+      "country": "United States"
+     },
+     "ranks": [
+      {
+       "name": "Raymond Muratalla",
+       "country": "United States",
+       "rank": 1
+      },
+      {
+       "name": "Emiliano Vargas",
+       "country": "United States",
+       "rank": 2
+      },
+      {
+       "name": "Frank Martin+5",
+       "country": "United States",
+       "rank": 3
+      },
+      {
+       "name": "Ernesto Mercado-1",
+       "country": "United States",
+       "rank": 4
+      },
+      {
+       "name": "Adam Azim-1",
+       "country": "United Kingdom",
+       "rank": 5
+      },
+      {
+       "name": "Yaser Al Ghena-1",
+       "country": "United Kingdom",
+       "rank": 6
+      },
+      {
+       "name": "Jack Rafferty-1",
+       "country": "United Kingdom",
+       "rank": 7
+      },
+      {
+       "name": "Arthur Biyarslanov-1",
+       "country": "Canada",
+       "rank": 8
+      },
+      {
+       "name": "Subriel Matias",
+       "country": "Puerto Rico",
+       "rank": 9
+      },
+      {
+       "name": "Matias Carlos Adrian Rueda",
+       "country": "Argentina",
+       "rank": 10
+      },
+      {
+       "name": "Kuntae Lee",
+       "country": "Japan",
+       "rank": 11
+      },
+      {
+       "name": "Jhon Orobio",
+       "country": "Colombia",
+       "rank": 12
+      },
+      {
+       "name": "Lindolfo Delgado",
+       "country": "Mexico",
+       "rank": 13
+      },
+      {
+       "name": "Aram Faniian",
+       "country": "Ukraine",
+       "rank": 14
+      },
+      {
+       "name": "Balihenbiake Balihenbieke",
+       "country": "China",
+       "rank": 15
+      }
+     ]
+    },
+    "Lightweight": {
+     "champion": {
+      "name": "Abdullah MasonWorld",
+      "country": "United States"
+     },
+     "ranks": [
+      {
+       "name": "Joe Cordina",
+       "country": "United Kingdom",
+       "rank": 1
+      },
+      {
+       "name": "Sam Noakes",
+       "country": "United Kingdom",
+       "rank": 2
+      },
+      {
+       "name": "Joshua Pagan",
+       "country": "United States",
+       "rank": 3
+      },
+      {
+       "name": "Corey Marksman",
+       "country": "United States",
+       "rank": 4
+      },
+      {
+       "name": "Eridson Garcia",
+       "country": "Dominican Republic",
+       "rank": 5
+      },
+      {
+       "name": "Alan Abel Chaves",
+       "country": "Argentina",
+       "rank": 6
+      },
+      {
+       "name": "Reito Takahashi",
+       "country": "Japan",
+       "rank": 7
+      },
+      {
+       "name": "Albert Bell",
+       "country": "United States",
+       "rank": 8
+      },
+      {
+       "name": "Andres Cortes",
+       "country": "United States",
+       "rank": 9
+      },
+      {
+       "name": "Justin Pauldo+5",
+       "country": "United States",
+       "rank": 10
+      },
+      {
+       "name": "Rene Tellez Giron",
+       "country": "Mexico",
+       "rank": 11
+      },
+      {
+       "name": "Mark Magsayo",
+       "country": "Philippines",
+       "rank": 12
+      },
+      {
+       "name": "Mitchell Smith",
+       "country": "United Kingdom",
+       "rank": 13
+      },
+      {
+       "name": "Cameron Voung",
+       "country": "United Kingdom",
+       "rank": 14
+      },
+      {
+       "name": "Orlando GonzalezNEW",
+       "country": "Puerto Rico",
+       "rank": 15
+      }
+     ]
+    },
+    "Junior Lightweight": {
+     "champion": {
+      "name": "O'Shaquie FosterNEWWorld ChampionO'Shaquie Foster: O'Shaquie Foster defeated Emanuel Navarrete by unanimous decision (118-108, 118-108, 115-111) on 24 October 2026 in San Antonio to capture the WBO super featherweight title.. Event date: 24 October 2026. First shown in the October 2026 rankings.Official source",
+      "country": "United States"
+     },
+     "ranks": [
+      {
+       "name": "Charly Suarez",
+       "country": "Philippines",
+       "rank": 1
+      },
+      {
+       "name": "Liam Wilson",
+       "country": "Australia",
+       "rank": 2
+      },
+      {
+       "name": "Kenichi Ogawa",
+       "country": "Japan",
+       "rank": 3
+      },
+      {
+       "name": "Emanuel NavarreteWas champ",
+       "country": "Mexico",
+       "rank": 4
+      },
+      {
+       "name": "Royston Barney-Smith",
+       "country": "United Kingdom",
+       "rank": 5
+      },
+      {
+       "name": "Henry Lebron",
+       "country": "Puerto Rico",
+       "rank": 6
+      },
+      {
+       "name": "Raymond Ford-3",
+       "country": "United States",
+       "rank": 7
+      },
+      {
+       "name": "Alberto Mora Garcia-1",
+       "country": "Mexico",
+       "rank": 8
+      },
+      {
+       "name": "Pete Apolinar",
+       "country": "Philippines",
+       "rank": 9
+      },
+      {
+       "name": "Jong Seon Kang",
+       "country": "South Korea",
+       "rank": 10
+      },
+      {
+       "name": "Luis Alberto Lopez",
+       "country": "Mexico",
+       "rank": 11
+      },
+      {
+       "name": "Hayato Tsutsumi",
+       "country": "Japan",
+       "rank": 12
+      },
+      {
+       "name": "Jan Paul Rivera Pizarro+1",
+       "country": "Puerto Rico",
+       "rank": 13
+      },
+      {
+       "name": "Ayrton Osmar Gimenez+1",
+       "country": "Argentina",
+       "rank": 14
+      },
+      {
+       "name": "Eduardo Nunez-7",
+       "country": "Mexico",
+       "rank": 15
+      }
+     ]
+    },
+    "Featherweight": {
+     "champion": {
+      "name": "Rafael EspinozaWorld",
+      "country": "Mexico"
+     },
+     "ranks": [
+      {
+       "name": "Lorenzo Parra",
+       "country": "Venezuela",
+       "rank": 1
+      },
+      {
+       "name": "Liam Davies+1",
+       "country": "United Kingdom",
+       "rank": 2
+      },
+      {
+       "name": "Ryota Muto-1",
+       "country": "Japan",
+       "rank": 3
+      },
+      {
+       "name": "Mikito Nakano",
+       "country": "Japan",
+       "rank": 4
+      },
+      {
+       "name": "Albert Gonzalez+5",
+       "country": "United States",
+       "rank": 5
+      },
+      {
+       "name": "Toshiki Shimomachi",
+       "country": "Japan",
+       "rank": 6
+      },
+      {
+       "name": "Yan Carlos Santana Guerrero",
+       "country": "Dominican Republic",
+       "rank": 7
+      },
+      {
+       "name": "Omar Trinidad-3",
+       "country": "United States",
+       "rank": 8
+      },
+      {
+       "name": "Sebastian Hernandez ReyesNEW",
+       "country": "Mexico",
+       "rank": 9
+      },
+      {
+       "name": "Nick Ball-2",
+       "country": "United Kingdom",
+       "rank": 10
+      },
+      {
+       "name": "Angel Talavera Carillo",
+       "country": "Mexico",
+       "rank": 11
+      },
+      {
+       "name": "Mateus Heita",
+       "country": "Namibia",
+       "rank": 12
+      },
+      {
+       "name": "Felix Parrilla",
+       "country": "Puerto Rico",
+       "rank": 13
+      },
+      {
+       "name": "Brandon Mosqueda",
+       "country": "Mexico",
+       "rank": 14
+      },
+      {
+       "name": "Cristobal Lorente-6",
+       "country": "Spain",
+       "rank": 15
+      }
+     ]
+    },
+    "Junior Featherweight": {
+     "champion": {
+      "name": "Naoya InoueSuper",
+      "country": "Japan"
+     },
+     "ranks": [
+      {
+       "name": "Junto Nakatani+1",
+       "country": "Japan",
+       "rank": 1
+      },
+      {
+       "name": "Ramon Cardenas+1",
+       "country": "United States",
+       "rank": 2
+      },
+      {
+       "name": "John Riel Casimero+1",
+       "country": "Philippines",
+       "rank": 3
+      },
+      {
+       "name": "Mukhammad Shekhov+1",
+       "country": "Uzbekistan",
+       "rank": 4
+      },
+      {
+       "name": "Shabaz Masoud+1",
+       "country": "United Kingdom",
+       "rank": 5
+      },
+      {
+       "name": "Gabriel Santisima+1",
+       "country": "Philippines",
+       "rank": 6
+      },
+      {
+       "name": "Murodjon Akhmadaliev+1",
+       "country": "Uzbekistan",
+       "rank": 7
+      },
+      {
+       "name": "Alex Santisima Jr+1",
+       "country": "Philippines",
+       "rank": 8
+      },
+      {
+       "name": "Fillipus Nghitumbwa+1",
+       "country": "Namibia",
+       "rank": 9
+      },
+      {
+       "name": "Jose Tito SanchezNEW",
+       "country": "United States",
+       "rank": 10
+      },
+      {
+       "name": "Jorge Ahabael Ascanio Martinez+1",
+       "country": "Mexico",
+       "rank": 11
+      },
+      {
+       "name": "Arturo CardenasNEW",
+       "country": "Mexico",
+       "rank": 12
+      },
+      {
+       "name": "Tyrone Buttigieg",
+       "country": "United Kingdom",
+       "rank": 13
+      },
+      {
+       "name": "Alex Vallecillo",
+       "country": "Mexico",
+       "rank": 14
+      },
+      {
+       "name": "Angel Barrientes",
+       "country": "United States",
+       "rank": 15
+      }
+     ]
+    },
+    "Bantamweight": {
+     "champion": {
+      "name": "Christian Medina JimenezWorld",
+      "country": "Mexico"
+     },
+     "ranks": [
+      {
+       "name": "Yoshiki Takei",
+       "country": "Japan",
+       "rank": 1
+      },
+      {
+       "name": "Jason Moloney",
+       "country": "Australia",
+       "rank": 2
+      },
+      {
+       "name": "Andrew Cain",
+       "country": "United Kingdom",
+       "rank": 3
+      },
+      {
+       "name": "Tenshin Nasukawa",
+       "country": "Japan",
+       "rank": 4
+      },
+      {
+       "name": "Rubens Diego Dos Santos+1",
+       "country": "Brazil",
+       "rank": 5
+      },
+      {
+       "name": "Katsuma Akitsugi+1",
+       "country": "United States",
+       "rank": 6
+      },
+      {
+       "name": "Sento Ito+1",
+       "country": "Japan",
+       "rank": 7
+      },
+      {
+       "name": "Jordy Cardona Adames+1",
+       "country": "Puerto Rico",
+       "rank": 8
+      },
+      {
+       "name": "Jordan Orozco Hernandez+1",
+       "country": "Nicaragua",
+       "rank": 9
+      },
+      {
+       "name": "Emmanuel Rodriguez-5",
+       "country": "Puerto Rico",
+       "rank": 10
+      },
+      {
+       "name": "Michael Angeletti",
+       "country": "United States",
+       "rank": 11
+      },
+      {
+       "name": "Julio CabreraNEW",
+       "country": "Nicaragua",
+       "rank": 12
+      },
+      {
+       "name": "Alejandro Jair Gonzalez",
+       "country": "Mexico",
+       "rank": 13
+      },
+      {
+       "name": "Jonathan Kasheeta",
+       "country": "Namibia",
+       "rank": 14
+      },
+      {
+       "name": "Daigo Higa",
+       "country": "Japan",
+       "rank": 15
+      }
+     ]
+    },
+    "Junior Bantamweight": {
+     "champion": {
+      "name": "Kenshiro TerajiWorld",
+      "country": "Japan"
+     },
+     "ranks": [
+      {
+       "name": "Ryusei Kawaura+1",
+       "country": "Japan",
+       "rank": 1
+      },
+      {
+       "name": "Tomoya Tsuboi+1",
+       "country": "Japan",
+       "rank": 2
+      },
+      {
+       "name": "Olajuwon Acosta+1",
+       "country": "Puerto Rico",
+       "rank": 3
+      },
+      {
+       "name": "John Ramirez+1",
+       "country": "United States",
+       "rank": 4
+      },
+      {
+       "name": "Kenta Nakagawa+1",
+       "country": "Japan",
+       "rank": 5
+      },
+      {
+       "name": "Jassiel Ramon Amador Gamez+4",
+       "country": "Mexico",
+       "rank": 6
+      },
+      {
+       "name": "Sikho Nqothole+1",
+       "country": "South Africa",
+       "rank": 7
+      },
+      {
+       "name": "Angel Ayala LardizabalNEW",
+       "country": "Mexico",
+       "rank": 8
+      },
+      {
+       "name": "Israel Gonzalez",
+       "country": "Mexico",
+       "rank": 9
+      },
+      {
+       "name": "Pedro Guevara-3",
+       "country": "Mexico",
+       "rank": 10
+      },
+      {
+       "name": "Theophilous Kpakpo Allotey",
+       "country": "Ghana",
+       "rank": 11
+      },
+      {
+       "name": "Jack Turner",
+       "country": "United Kingdom",
+       "rank": 12
+      },
+      {
+       "name": "Brandon Gael Rodriguez",
+       "country": "Mexico",
+       "rank": 13
+      },
+      {
+       "name": "Yahir Alan Frank Verdugo",
+       "country": "Mexico",
+       "rank": 14
+      },
+      {
+       "name": "Michael Abban",
+       "country": "Ghana",
+       "rank": 15
+      }
+     ]
+    },
+    "Flyweight": {
+     "champion": {
+      "name": "Anthony OlascuagaWorld",
+      "country": "United States"
+     },
+     "ranks": [
+      {
+       "name": "Yoali Mejia Mosqueda",
+       "country": "Mexico",
+       "rank": 1
+      },
+      {
+       "name": "Yuberjen Martinez",
+       "country": "Colombia",
+       "rank": 2
+      },
+      {
+       "name": "Kosuke Tomioka+1",
+       "country": "Japan",
+       "rank": 3
+      },
+      {
+       "name": "Joselito Velazquez Altamirano-1",
+       "country": "Mexico",
+       "rank": 4
+      },
+      {
+       "name": "Arvin Jhon Paciones",
+       "country": "Philippines",
+       "rank": 5
+      },
+      {
+       "name": "Kyosuke Takami",
+       "country": "Japan",
+       "rank": 6
+      },
+      {
+       "name": "Tobias Jeremias Reyes",
+       "country": "Argentina",
+       "rank": 7
+      },
+      {
+       "name": "Fillemon Nghutenanye",
+       "country": "Namibia",
+       "rank": 8
+      },
+      {
+       "name": "Rene Calixto BibianoNEW",
+       "country": "Mexico",
+       "rank": 9
+      },
+      {
+       "name": "Shogo TanakaNEW",
+       "country": "Japan",
+       "rank": 10
+      },
+      {
+       "name": "Andy Dominguez Velasquez+1",
+       "country": "Mexico",
+       "rank": 11
+      },
+      {
+       "name": "Anthony Johns+2",
+       "country": "United States",
+       "rank": 12
+      },
+      {
+       "name": "Brandon Daord+2",
+       "country": "United Kingdom",
+       "rank": 13
+      },
+      {
+       "name": "Ricardo Rafael SandovalNEW",
+       "country": "United States",
+       "rank": 14
+      },
+      {
+       "name": "Jose Luis Russell Regalado-4",
+       "country": "Mexico",
+       "rank": 15
+      }
+     ]
+    },
+    "Junior Flyweight": {
+     "champion": {
+      "name": "Rene SantiagoWorld",
+      "country": "Puerto Rico"
+     },
+     "ranks": [
+      {
+       "name": "Regie Suganob",
+       "country": "Philippines",
+       "rank": 1
+      },
+      {
+       "name": "Yuga Ozaki",
+       "country": "Japan",
+       "rank": 2
+      },
+      {
+       "name": "Daniel Valladares",
+       "country": "Mexico",
+       "rank": 3
+      },
+      {
+       "name": "Jesse Espinas",
+       "country": "Philippines",
+       "rank": 4
+      },
+      {
+       "name": "Erik Badillo",
+       "country": "Mexico",
+       "rank": 5
+      },
+      {
+       "name": "Masataka Taniguchi",
+       "country": "Japan",
+       "rank": 6
+      },
+      {
+       "name": "Arvin Magramo",
+       "country": "Philippines",
+       "rank": 7
+      },
+      {
+       "name": "Terry Washington",
+       "country": "United States",
+       "rank": 8
+      },
+      {
+       "name": "Azael Villar",
+       "country": "Panama",
+       "rank": 9
+      },
+      {
+       "name": "Edwin Cano HernandezNEW",
+       "country": "Mexico",
+       "rank": 10
+      },
+      {
+       "name": "Gerardo Sanchez",
+       "country": "Honduras",
+       "rank": 11
+      },
+      {
+       "name": "Aaron De La Cruz Escobedo",
+       "country": "Mexico",
+       "rank": 12
+      },
+      {
+       "name": "Thammanoon Niyomtrong+1",
+       "country": "Thailand",
+       "rank": 13
+      },
+      {
+       "name": "Siseko Teyisi+1",
+       "country": "South Africa",
+       "rank": 14
+      },
+      {
+       "name": "Mark VicellesNEW",
+       "country": "Philippines",
+       "rank": 15
+      }
+     ]
+    },
+    "Strawweight": {
+     "champion": {
+      "name": "Ryusei MatsumotoNEWWorld ChampionRyusei Matsumoto: was elevated from interim to full WBO after Oscar Collazo relinquished the title. Event date: 2 November 2026. First shown in the October 2026 rankings.Official source",
+      "country": "Japan"
+     },
+     "ranks": [
+      {
+       "name": "Vic Saludar",
+       "country": "Philippines",
+       "rank": 1
+      },
+      {
+       "name": "Melvin Jerusalem",
+       "country": "Philippines",
+       "rank": 2
+      },
+      {
+       "name": "Ronald Chacon",
+       "country": "Venezuela",
+       "rank": 3
+      },
+      {
+       "name": "Dianxing Zhu",
+       "country": "China",
+       "rank": 4
+      },
+      {
+       "name": "Joseph Sumabong",
+       "country": "Philippines",
+       "rank": 5
+      },
+      {
+       "name": "Joey Canoy",
+       "country": "Philippines",
+       "rank": 6
+      },
+      {
+       "name": "Samuel Salva+3",
+       "country": "Philippines",
+       "rank": 7
+      },
+      {
+       "name": "Junior Leandro Zarate+3",
+       "country": "Argentina",
+       "rank": 8
+      },
+      {
+       "name": "Russell Acosta Silveira",
+       "country": "Mexico",
+       "rank": 9
+      },
+      {
+       "name": "Katsuki Mori+2",
+       "country": "Japan",
+       "rank": 10
+      },
+      {
+       "name": "Yoshi Sugiura+2",
+       "country": "Japan",
+       "rank": 11
+      },
+      {
+       "name": "Jayson Vayson+2",
+       "country": "Philippines",
+       "rank": 12
+      },
+      {
+       "name": "Takero Kitano+2",
+       "country": "Japan",
+       "rank": 13
+      },
+      {
+       "name": "Beaven SibandaNEW",
+       "country": "Zimbabwe",
+       "rank": 14
+      },
+      {
+       "name": "Angelo HapinNEW",
+       "country": "Philippines",
+       "rank": 15
+      }
+     ]
+    }
+   },
+   "p4p_M": [],
+   "p4p_F": [],
+   "label": "WBO (via Box-Rank)",
+   "url": "https://box-rank.com/rankings/org/wbo/heavyweight",
+   "read": "2026-11-12T13:02:30+00:00"
+  },
+  "RING": {
+   "divisions": {
+    "Heavyweight": {
+     "champion": {
+      "name": "Oleksandr UsykWorld",
+      "country": "Ukraine"
+     },
+     "ranks": [
+      {
+       "name": "Daniel Dubois",
+       "country": "United Kingdom",
+       "rank": 1
+      },
+      {
+       "name": "Agit Kabayel",
+       "country": "Germany",
+       "rank": 2
+      },
+      {
+       "name": "Tyson Fury",
+       "country": "United Kingdom",
+       "rank": 3
+      },
+      {
+       "name": "Filip Hrgovic",
+       "country": "Croatia",
+       "rank": 4
+      },
+      {
+       "name": "Frank Sanchez",
+       "country": "Cuba",
+       "rank": 5
+      },
+      {
+       "name": "Efe Ajagba",
+       "country": "Nigeria",
+       "rank": 6
+      },
+      {
+       "name": "Moses Itauma",
+       "country": "United Kingdom",
+       "rank": 7
+      },
+      {
+       "name": "Murat Gassiev",
+       "country": "Russia",
+       "rank": 8
+      },
+      {
+       "name": "Fabio Wardley",
+       "country": "United Kingdom",
+       "rank": 9
+      },
+      {
+       "name": "Justis Huni",
+       "country": "Australia",
+       "rank": 10
+      }
+     ]
+    },
+    "Cruiserweight": {
+     "champion": {
+      "name": "Jai OpetaiaWorld",
+      "country": "Australia"
+     },
+     "ranks": [
+      {
+       "name": "David Benavidez",
+       "country": "United States",
+       "rank": 1
+      },
+      {
+       "name": "Gilberto Ramirez",
+       "country": "Mexico",
+       "rank": 2
+      },
+      {
+       "name": "Chris Billam-Smith",
+       "country": "United Kingdom",
+       "rank": 3
+      },
+      {
+       "name": "Michal Cieslak",
+       "country": "Poland",
+       "rank": 4
+      },
+      {
+       "name": "Norair Mikaeljan",
+       "country": "Armenia",
+       "rank": 5
+      },
+      {
+       "name": "Badou Jack",
+       "country": "Sweden",
+       "rank": 6
+      },
+      {
+       "name": "Viddal Riley",
+       "country": "United Kingdom",
+       "rank": 7
+      },
+      {
+       "name": "Ryan Rozicki",
+       "country": "Canada",
+       "rank": 8
+      },
+      {
+       "name": "Leonardo Mosquea",
+       "country": "France",
+       "rank": 9
+      },
+      {
+       "name": "Robin Sirwan Safar",
+       "country": "Sweden",
+       "rank": 10
+      }
+     ]
+    },
+    "Light Heavyweight": {
+     "champion": {
+      "name": "Dmitry BivolWorld",
+      "country": "Russia"
+     },
+     "ranks": [
+      {
+       "name": "David Benavidez",
+       "country": "United States",
+       "rank": 1
+      },
+      {
+       "name": "Callum Smith",
+       "country": "United Kingdom",
+       "rank": 2
+      },
+      {
+       "name": "Anthony Yarde",
+       "country": "United Kingdom",
+       "rank": 3
+      },
+      {
+       "name": "Imam Khataev",
+       "country": "Australia",
+       "rank": 4
+      },
+      {
+       "name": "Joshua Buatsi",
+       "country": "United Kingdom",
+       "rank": 5
+      },
+      {
+       "name": "Najee Lopez",
+       "country": "Puerto Rico",
+       "rank": 6
+      },
+      {
+       "name": "Willy Hutchinson",
+       "country": "United Kingdom",
+       "rank": 7
+      },
+      {
+       "name": "Radivoje Kalajdzic",
+       "country": "United States",
+       "rank": 8
+      },
+      {
+       "name": "Lerrone Richards",
+       "country": "United Kingdom",
+       "rank": 9
+      },
+      {
+       "name": "Albert Ramirez",
+       "country": "Venezuela",
+       "rank": 10
+      }
+     ]
+    },
+    "Super Middleweight": {
+     "champion": null,
+     "ranks": [
+      {
+       "name": "Saul Alvarez",
+       "country": "Mexico",
+       "rank": 1
+      },
+      {
+       "name": "Osleys Iglesias",
+       "country": "Cuba",
+       "rank": 2
+      },
+      {
+       "name": "Lester Martinez+1",
+       "country": "Guatemala",
+       "rank": 3
+      },
+      {
+       "name": "Christian Mbilli-1",
+       "country": "France",
+       "rank": 4
+      },
+      {
+       "name": "Jaime Munguia",
+       "country": "Mexico",
+       "rank": 5
+      },
+      {
+       "name": "Diego Pacheco",
+       "country": "United States",
+       "rank": 6
+      },
+      {
+       "name": "Armando Resendiz",
+       "country": "Mexico",
+       "rank": 7
+      },
+      {
+       "name": "Jacob Bank",
+       "country": "Denmark",
+       "rank": 8
+      },
+      {
+       "name": "Hamzah Sheeraz",
+       "country": "United Kingdom",
+       "rank": 9
+      },
+      {
+       "name": "Bektemir Melikuziev",
+       "country": "Uzbekistan",
+       "rank": 10
+      }
+     ]
+    },
+    "Middleweight": {
+     "champion": null,
+     "ranks": [
+      {
+       "name": "Carlos Adames",
+       "country": "Dominican Republic",
+       "rank": 1
+      },
+      {
+       "name": "Yoenli Hernandez",
+       "country": "Cuba",
+       "rank": 2
+      },
+      {
+       "name": "Aaron McKenna",
+       "country": "Ireland",
+       "rank": 3
+      },
+      {
+       "name": "Erislandy Lara",
+       "country": "United States",
+       "rank": 4
+      },
+      {
+       "name": "Troy Isley",
+       "country": "United States",
+       "rank": 5
+      },
+      {
+       "name": "Amari Jones",
+       "country": "United States",
+       "rank": 6
+      },
+      {
+       "name": "Chris Eubank Jr",
+       "country": "United Kingdom",
+       "rank": 7
+      },
+      {
+       "name": "Jesus Alejandro Ramos Jr",
+       "country": "United States",
+       "rank": 8
+      },
+      {
+       "name": "Jahi Tucker",
+       "country": "United States",
+       "rank": 9
+      },
+      {
+       "name": "George Liddard",
+       "country": "United Kingdom",
+       "rank": 10
+      }
+     ]
+    },
+    "Junior Middleweight": {
+     "champion": null,
+     "ranks": [
+      {
+       "name": "Jaron Ennis",
+       "country": "United States",
+       "rank": 1
+      },
+      {
+       "name": "Vergil Ortiz Jr",
+       "country": "United States",
+       "rank": 2
+      },
+      {
+       "name": "Sebastian Fundora",
+       "country": "United States",
+       "rank": 3
+      },
+      {
+       "name": "Israil Madrimov",
+       "country": "Uzbekistan",
+       "rank": 4
+      },
+      {
+       "name": "Xander Zayas",
+       "country": "Puerto Rico",
+       "rank": 5
+      },
+      {
+       "name": "Josh Kelly",
+       "country": "United Kingdom",
+       "rank": 6
+      },
+      {
+       "name": "Bakhram Murtazaliev",
+       "country": "Russia",
+       "rank": 7
+      },
+      {
+       "name": "Abass Baraou",
+       "country": "Germany",
+       "rank": 8
+      },
+      {
+       "name": "Charles Conwell",
+       "country": "United States",
+       "rank": 9
+      },
+      {
+       "name": "Joshua Anton",
+       "country": "United States",
+       "rank": 10
+      }
+     ]
+    },
+    "Welterweight": {
+     "champion": null,
+     "ranks": [
+      {
+       "name": "Devin Haney",
+       "country": "United States",
+       "rank": 1
+      },
+      {
+       "name": "Ryan Garcia",
+       "country": "United States",
+       "rank": 2
+      },
+      {
+       "name": "Teofimo Lopez",
+       "country": "United States",
+       "rank": 3
+      },
+      {
+       "name": "Jack Catterall",
+       "country": "United Kingdom",
+       "rank": 4
+      },
+      {
+       "name": "Brian Norman Jr",
+       "country": "United States",
+       "rank": 5
+      },
+      {
+       "name": "Eimantas Stanionis",
+       "country": "Lithuania",
+       "rank": 6
+      },
+      {
+       "name": "Rohan Polanco",
+       "country": "Dominican Republic",
+       "rank": 7
+      },
+      {
+       "name": "Raul Curiel",
+       "country": "Mexico",
+       "rank": 8
+      },
+      {
+       "name": "Alexis Rocha",
+       "country": "United States",
+       "rank": 9
+      },
+      {
+       "name": "Rolando Romero",
+       "country": "United States",
+       "rank": 10
+      }
+     ]
+    },
+    "Junior Welterweight": {
+     "champion": {
+      "name": "Shakur StevensonWorld",
+      "country": "United States"
+     },
+     "ranks": [
+      {
+       "name": "Dalton Smith",
+       "country": "United Kingdom",
+       "rank": 1
+      },
+      {
+       "name": "Keyshawn Davis",
+       "country": "United States",
+       "rank": 2
+      },
+      {
+       "name": "Alberto Puello",
+       "country": "Dominican Republic",
+       "rank": 3
+      },
+      {
+       "name": "Gary Antuanne Russell",
+       "country": "United States",
+       "rank": 4
+      },
+      {
+       "name": "Adam Azim",
+       "country": "United Kingdom",
+       "rank": 5
+      },
+      {
+       "name": "Sandor Martin",
+       "country": "Spain",
+       "rank": 6
+      },
+      {
+       "name": "Subriel Matias",
+       "country": "Puerto Rico",
+       "rank": 7
+      },
+      {
+       "name": "Mark Chamberlain",
+       "country": "United Kingdom",
+       "rank": 8
+      },
+      {
+       "name": "Ernesto Mercado",
+       "country": "United States",
+       "rank": 9
+      },
+      {
+       "name": "Arthur Biyarslanov",
+       "country": "Canada",
+       "rank": 10
+      }
+     ]
+    },
+    "Lightweight": {
+     "champion": null,
+     "ranks": [
+      {
+       "name": "William Zepeda Segura",
+       "country": "Mexico",
+       "rank": 1
+      },
+      {
+       "name": "Abdullah Mason",
+       "country": "United States",
+       "rank": 2
+      },
+      {
+       "name": "Floyd Schofield",
+       "country": "United States",
+       "rank": 3
+      },
+      {
+       "name": "Andy Cruz",
+       "country": "Cuba",
+       "rank": 4
+      },
+      {
+       "name": "Sam Noakes",
+       "country": "United Kingdom",
+       "rank": 5
+      },
+      {
+       "name": "Jadier Herrera",
+       "country": "Cuba",
+       "rank": 6
+      },
+      {
+       "name": "Andres Cortes",
+       "country": "United States",
+       "rank": 7
+      },
+      {
+       "name": "Lucas Bahdi",
+       "country": "Canada",
+       "rank": 8
+      },
+      {
+       "name": "Jose Valenzuela",
+       "country": "United States",
+       "rank": 9
+      },
+      {
+       "name": "Dzmitry Asanau",
+       "country": "Belarus",
+       "rank": 10
+      }
+     ]
+    },
+    "Junior Lightweight": {
+     "champion": {
+      "name": "O'Shaquie FosterWorld",
+      "country": "United States"
+     },
+     "ranks": [
+      {
+       "name": "Emanuel Navarrete",
+       "country": "Mexico",
+       "rank": 1
+      },
+      {
+       "name": "Anthony Cacace",
+       "country": "Ireland",
+       "rank": 2
+      },
+      {
+       "name": "Charly Suarez",
+       "country": "Philippines",
+       "rank": 3
+      },
+      {
+       "name": "Raymond Ford",
+       "country": "United States",
+       "rank": 4
+      },
+      {
+       "name": "Ryan Garner",
+       "country": "United Kingdom",
+       "rank": 5
+      },
+      {
+       "name": "Eduardo Nunez",
+       "country": "Mexico",
+       "rank": 6
+      },
+      {
+       "name": "James Dickens",
+       "country": "United Kingdom",
+       "rank": 7
+      },
+      {
+       "name": "Hayato Tsutsumi",
+       "country": "Japan",
+       "rank": 8
+      },
+      {
+       "name": "Tsendbaatar Erdenebat",
+       "country": "Mongolia",
+       "rank": 9
+      },
+      {
+       "name": "Moussa Gholam",
+       "country": "Spain",
+       "rank": 10
+      }
+     ]
+    },
+    "Featherweight": {
+     "champion": null,
+     "ranks": [
+      {
+       "name": "Rafael Espinoza",
+       "country": "Mexico",
+       "rank": 1
+      },
+      {
+       "name": "Bruce Carrington",
+       "country": "United States",
+       "rank": 2
+      },
+      {
+       "name": "Brandon Figueroa",
+       "country": "United States",
+       "rank": 3
+      },
+      {
+       "name": "Nick Ball",
+       "country": "United Kingdom",
+       "rank": 4
+      },
+      {
+       "name": "Ra'Eese Aleem",
+       "country": "United States",
+       "rank": 5
+      },
+      {
+       "name": "Albert Gonzalez",
+       "country": "United States",
+       "rank": 6
+      },
+      {
+       "name": "Cristobal Lorente",
+       "country": "Spain",
+       "rank": 7
+      },
+      {
+       "name": "Omar Trinidad",
+       "country": "United States",
+       "rank": 8
+      },
+      {
+       "name": "Lorenzo Parra",
+       "country": "Venezuela",
+       "rank": 9
+      },
+      {
+       "name": "Liam Davies",
+       "country": "United Kingdom",
+       "rank": 10
+      }
+     ]
+    },
+    "Junior Featherweight": {
+     "champion": {
+      "name": "Naoya InoueWorld",
+      "country": "Japan"
+     },
+     "ranks": [
+      {
+       "name": "Sam Goodman",
+       "country": "Australia",
+       "rank": 1
+      },
+      {
+       "name": "Murodjon Akhmadaliev",
+       "country": "Uzbekistan",
+       "rank": 2
+      },
+      {
+       "name": "Junto Nakatani",
+       "country": "Japan",
+       "rank": 3
+      },
+      {
+       "name": "Sebastian Hernandez Reyes",
+       "country": "Mexico",
+       "rank": 4
+      },
+      {
+       "name": "Ramon Cardenas",
+       "country": "United States",
+       "rank": 5
+      },
+      {
+       "name": "Ryosuke Nishida",
+       "country": "Japan",
+       "rank": 6
+      },
+      {
+       "name": "Bryan Mercado Vazquez",
+       "country": "Mexico",
+       "rank": 7
+      },
+      {
+       "name": "Alex Santisima",
+       "country": "Philippines",
+       "rank": 8
+      },
+      {
+       "name": "Jose Tito Sanchez",
+       "country": "United States",
+       "rank": 9
+      },
+      {
+       "name": "Jun Ikegawa",
+       "country": "Japan",
+       "rank": 10
+      }
+     ]
+    },
+    "Bantamweight": {
+     "champion": null,
+     "ranks": [
+      {
+       "name": "Seiya Tsutsumi",
+       "country": "Japan",
+       "rank": 1
+      },
+      {
+       "name": "Takuma Inoue",
+       "country": "Japan",
+       "rank": 2
+      },
+      {
+       "name": "Jesse Rodriguez",
+       "country": "United States",
+       "rank": 3
+      },
+      {
+       "name": "Riku Masuda",
+       "country": "Japan",
+       "rank": 4
+      },
+      {
+       "name": "Christian Medina Jimenez",
+       "country": "Mexico",
+       "rank": 5
+      },
+      {
+       "name": "Daigo Higa",
+       "country": "Japan",
+       "rank": 6
+      },
+      {
+       "name": "Jose Salas Reyes",
+       "country": "Mexico",
+       "rank": 7
+      },
+      {
+       "name": "Antonio Vargas",
+       "country": "United States",
+       "rank": 8
+      },
+      {
+       "name": "Tenshin Nasukawa",
+       "country": "Japan",
+       "rank": 9
+      },
+      {
+       "name": "Michael Angeletti",
+       "country": "United States",
+       "rank": 10
+      }
+     ]
+    },
+    "Junior Bantamweight": {
+     "champion": null,
+     "ranks": [
+      {
+       "name": "Fernando Daniel Martinez",
+       "country": "Argentina",
+       "rank": 1
+      },
+      {
+       "name": "David Jimenez",
+       "country": "Costa Rica",
+       "rank": 2
+      },
+      {
+       "name": "Kenshiro Teraji",
+       "country": "Japan",
+       "rank": 3
+      },
+      {
+       "name": "Ricardo Malajika",
+       "country": "South Africa",
+       "rank": 4
+      },
+      {
+       "name": "Phumelela Cafu",
+       "country": "South Africa",
+       "rank": 5
+      },
+      {
+       "name": "Andrew Moloney",
+       "country": "Australia",
+       "rank": 6
+      },
+      {
+       "name": "Tomoya Tsuboi",
+       "country": "Japan",
+       "rank": 7
+      },
+      {
+       "name": "Willibaldo Garcia Perez",
+       "country": "Mexico",
+       "rank": 8
+      },
+      {
+       "name": "Theophilous Kpakpo Allotey",
+       "country": "Ghana",
+       "rank": 9
+      },
+      {
+       "name": "Sikho Nqothole",
+       "country": "South Africa",
+       "rank": 10
+      }
+     ]
+    },
+    "Flyweight": {
+     "champion": null,
+     "ranks": [
+      {
+       "name": "Masamichi Yabuki",
+       "country": "Japan",
+       "rank": 1
+      },
+      {
+       "name": "Anthony Olascuaga",
+       "country": "United States",
+       "rank": 2
+      },
+      {
+       "name": "Sergio Mendoza Cordova",
+       "country": "Mexico",
+       "rank": 3
+      },
+      {
+       "name": "Miel Fajardo",
+       "country": "Philippines",
+       "rank": 4
+      },
+      {
+       "name": "Ricardo Rafael Sandoval",
+       "country": "United States",
+       "rank": 5
+      },
+      {
+       "name": "Joselito Velazquez Altamirano",
+       "country": "Mexico",
+       "rank": 6
+      },
+      {
+       "name": "Yoali Mejia Mosqueda",
+       "country": "Mexico",
+       "rank": 7
+      },
+      {
+       "name": "Abraham R Perez",
+       "country": "United States",
+       "rank": 8
+      },
+      {
+       "name": "Arvin Jhon Paciones",
+       "country": "Philippines",
+       "rank": 9
+      },
+      {
+       "name": "Shogo TanakaNEW",
+       "country": "Japan",
+       "rank": 10
+      }
+     ]
+    },
+    "Junior Flyweight": {
+     "champion": null,
+     "ranks": [
+      {
+       "name": "Thanongsak Simsri",
+       "country": "Thailand",
+       "rank": 1
+      },
+      {
+       "name": "Rene Santiago",
+       "country": "Puerto Rico",
+       "rank": 2
+      },
+      {
+       "name": "Shokichi Iwata",
+       "country": "Japan",
+       "rank": 3
+      },
+      {
+       "name": "Daiya Kira",
+       "country": "Japan",
+       "rank": 4
+      },
+      {
+       "name": "Regie Suganob",
+       "country": "Philippines",
+       "rank": 5
+      },
+      {
+       "name": "Kyosuke Takami",
+       "country": "Japan",
+       "rank": 6
+      },
+      {
+       "name": "Carlos Canizales",
+       "country": "Venezuela",
+       "rank": 7
+      },
+      {
+       "name": "Masataka Taniguchi",
+       "country": "Japan",
+       "rank": 8
+      },
+      {
+       "name": "Aaron De La Cruz Escobedo",
+       "country": "Mexico",
+       "rank": 9
+      },
+      {
+       "name": "Erik Badillo",
+       "country": "Mexico",
+       "rank": 10
+      }
+     ]
+    },
+    "Strawweight": {
+     "champion": {
+      "name": "Oscar CollazoWorld",
+      "country": "Puerto Rico"
+     },
+     "ranks": [
+      {
+       "name": "Pedro Taduran",
+       "country": "Philippines",
+       "rank": 1
+      },
+      {
+       "name": "Siyakholwa Kuse",
+       "country": "South Africa",
+       "rank": 2
+      },
+      {
+       "name": "Ryusei Matsumoto",
+       "country": "Japan",
+       "rank": 3
+      },
+      {
+       "name": "Melvin Jerusalem",
+       "country": "Philippines",
+       "rank": 4
+      },
+      {
+       "name": "Takeshi Ishii",
+       "country": "Japan",
+       "rank": 5
+      },
+      {
+       "name": "Joey Canoy",
+       "country": "Philippines",
+       "rank": 6
+      },
+      {
+       "name": "Joseph Sumabong",
+       "country": "Philippines",
+       "rank": 7
+      },
+      {
+       "name": "Vic Saludar",
+       "country": "Philippines",
+       "rank": 8
+      },
+      {
+       "name": "Dianxing Zhu",
+       "country": "China",
+       "rank": 9
+      },
+      {
+       "name": "Takero Kitano",
+       "country": "Japan",
+       "rank": 10
+      }
+     ]
+    }
+   },
+   "p4p_M": [],
+   "p4p_F": [],
+   "label": "RING (via Box-Rank)",
+   "url": "https://box-rank.com/rankings/org/ring/heavyweight",
+   "read": "2026-11-12T13:02:48+00:00"
+  }
+ }
+}
