@@ -1,8 +1,21 @@
 {
- "updated": "2026-11-12T08:45:56+00:00",
+ "updated": "2026-11-12T08:50:49+00:00",
  "feeds_ok": 49,
  "feeds_failed": 4,
  "news": [
+  {
+   "title": "Suganob-Iwata boxing match rekindled by latest WBO rankings - Cebu Daily News",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQkZyLTNob281d09LWjhNUWtWZzl2MDltbHdVejl6MEpxMXdPNHJ4ZXlFM3IwVDdtXzE5Zy15bkpaZkJvMzNzM1ZIQXV2b2Z1NG95VkRBVGdrOHh5ZHk3ZncxWFhndWpQa0hhcU5yaV8tbUVHUWVIRzFsNzJGUU5Gc3VnWVY2cC1qd2ZKWGQ5d2k3UERrMmlYUXhsQ1QwckFINlRV0gGoAUFVX3lxTE5HdEJpRWF1S0J3a1hXSkgzMTZJWnVlOWJlTW9LTmZheGpNV2RYRlBJTGxoZGszUGpRQk0xSk9KVTZrM01vQXJyMklnTXVCY2xQblRwSUt4Uks4T2YzdXpteEV0eFg5OUx6NmVwQmdmVW52d3p4RGFEbmVqMUdhczYyRXpIbzRldHZxUXUzNmlzeGx0SWR5NHkwUGktNlJZSVVVRTB2VXg5Wg?oc=5",
+   "source": "Google News: boxing",
+   "lang": "en",
+   "date": "2026-11-12T08:44:00+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 39,
+   "sources_n": 1,
+   "title_it": "L'incontro di boxe Suganob-Iwata riaccende l'interesse grazie alle ultime classifiche WBO - Cebu Daily News",
+   "title_es": "El combate de boxeo Suganob-Iwata vuelve a estar de actualidad gracias a las últimas clasificaciones de la OMB - Cebu Daily News"
+  },
   {
    "title": "Ennis vs Kelly unification fight set for February in Atlanta",
    "link": "https://www.fightmag.com/ennis-vs-kelly-unification-fight-set-for-february-in-atlanta/",
@@ -122,7 +135,7 @@
    "date": "2026-11-12T06:48:22+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 39,
+   "score": 38,
    "sources_n": 1,
    "title_it": "La campionessa di boxe di Brixton Bernice Ferrera onora le radici dietro il suo successo nel titolo mondiale: The Citizen",
    "title_es": "La campeona de boxeo de Brixton, Bernice Ferrera, rinde homenaje a las raíces detrás de su éxito en el título mundial - The Citizen"
@@ -205,7 +218,7 @@
    "date": "2026-11-12T04:47:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 68,
+   "score": 67,
    "sources_n": 5,
    "title_it": "Kieran Molloy punta al titolo mondiale e a una possibile rivincita tutta irlandese",
    "title_es": "Kieran Molloy tiene la vista puesta en la oportunidad por el título mundial y en una posible revancha entre irlandeses"
@@ -400,7 +413,7 @@
    "date": "2026-11-12T00:47:15+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 26,
+   "score": 25,
    "sources_n": 1,
    "title_it": "\"La Bomba\" diventa campionessa assoluta - Imagen de Veracruz",
    "title_es": "Se convierte 'La Bomba' en campeona absoluta - Imagen de Veracruz"
@@ -921,7 +934,7 @@
    "date": "2026-11-11T18:49:56+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 23,
+   "score": 22,
    "sources_n": 1,
    "title_it": "Buccinasco ha aperto la sua nuova palestra di boxe - Lombardia Notizie Online",
    "title_es": "Buccinasco ha abierto su nuevo gimnasio de boxeo - Lombardia Notizie Online"
@@ -1064,7 +1077,7 @@
    "date": "2026-11-11T16:47:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 22,
+   "score": 21,
    "sources_n": 1,
    "title_it": "Viddal Riley vs Seydi Coupe: data, ora, live streaming, canale TV e card mentre l'inglese difende il titolo europeo dei pesi leggeri",
    "title_es": "Viddal Riley vs Seydi Coupe: fecha, hora, transmisión en vivo, canal de televisión y cartelera mientras el británico defiende el título europeo de peso crucero"
@@ -1214,6 +1227,19 @@
    "sources_n": 1,
    "title_it": "Cisterna, il pugile Mirko Marchetti ricevuto in Comune dal sindaco Mantini - Luna Notizie",
    "title_es": "Cisterna, el boxeador Mirko Marchetti recibido en el Municipio por el alcalde Mantini - Luna Notizie"
+  },
+  {
+   "title": "Tor San Lorenzo sul tetto d'Italia: trionfo storico per la Polisportiva Sociale TSL nel pugilato giovanile - Canale 10",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOS184Q1doR2NRRkJFM3BseFRGSXFTMUlHNWN2S1JSSy1lUWNnUTdDOTVBWW4yVlByYUtvOXdtcjg3U19fd0MzMno0WFpIc3pFODF5X2NCTVJ5aENRTk9ERTBtY3ViMGhfdFdDSkFXMGxjS2RkZnM5TDgwLVNCZ2VnQlBDZDJLUnREVGFMbF9TeF83X2s0eC1PeFlMVzZBSlhHZTVwMV9zQXBvYjMwNjc0bE5XSnRzY0pCdXhNRU80STZfXzN1dGp6c242ZDBEa295WHBsUzRR?oc=5",
+   "source": "Google News: pugilato",
+   "lang": "it",
+   "date": "2026-11-11T15:25:35+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 21,
+   "sources_n": 1,
+   "title_it": "Tor San Lorenzo sul tetto d'Italia: trionfo storico per la Polisportiva Sociale TSL nel pugilato giovanile - Canale 10",
+   "title_es": "Tor San Lorenzo sobre el techo de Italia: triunfo histórico de la Polisportiva Sociale TSL en el boxeo juvenil - Canale 10"
   },
   {
    "title": "The good, the bad, and the stupid from the WBC convention",
@@ -1373,7 +1399,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 114,
+   "score": 113,
    "sources_n": 16,
    "title_it": "Il vincitore di Tyson Fury contro Anthony Joshua ha esortato ad affrontare il prossimo rivale \"hard done by\"",
    "title_es": "Se insta al ganador de Tyson Fury vs. Anthony Joshua a enfrentar a su rival 'duro hecho por' el próximo"
@@ -1511,7 +1537,7 @@
    "date": "2026-11-11T12:50:25+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 75,
+   "score": 74,
    "sources_n": 3,
    "title_it": "Il prossimo incontro di Jarrell Miller fu annunciato come “guerra assoluta” contro la medaglia d’oro olimpica",
    "title_es": "La próxima pelea de Jarrell Miller anunciada como una “guerra absoluta” contra el medallista de oro olímpico"
@@ -1958,19 +1984,6 @@
    "sources_n": 1,
    "title_it": "Dimentica i veterani di 40 anni: Benavidez ha bisogno di fuoco pesante ora",
    "title_es": "Olvídate de los veteranos de 40 años: Benavidez necesita fuego pesado ahora"
-  },
-  {
-   "title": "Segue le orme del nonno e a 8 anni è già un campione: Salvatore, pugile palermitano - Balarm.it",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOWhSS1ljVkNnenZMU3luekRzYUJxMWp6WVhFb0xuRU9Ed2VwU0FiWHh5SGoyT25raEMwSkVpZGc5c3NoVXU1em5KdmxZZUJpUkJYZDBfSlZGLUM2SkZqUTlWNTV0VUc2NVlVZVZ2SnFjZDU1dVJrWVhvbGhQNzdhRU5TMnFJMm9Kbnh1OV9OUEFnWUFkLTdXaDhXX29hX09RMVAxbFZwTnVPU2hSMkY5d1V1eHloZw?oc=5",
-   "source": "Google News: pugilato",
-   "lang": "it",
-   "date": "2026-11-11T05:02:02+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 16,
-   "sources_n": 1,
-   "title_it": "Segue le orme del nonno e a 8 anni è già un campione: Salvatore, pugile palermitano - Balarm.it",
-   "title_es": "Sigue los pasos de su abuelo y a los 8 años ya es campeón: Salvatore, boxeador de Palermo - Balarm.it"
   },
   {
    "title": "BoxMed, una herramienta clave para la salud de los boxeadores, destaca en la Convención del WBC en Acapulco - World Boxing Council",
@@ -2983,7 +2996,7 @@
    "date": "2026-11-10T08:47:07+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 36,
+   "score": 35,
    "sources_n": 4,
    "title_it": "L'economia della boxe irlandese è cambiata la sera in cui il Croke Park ha registrato il tutto esaurito",
    "title_es": "La economía del boxeo irlandés cambió la noche en que se agotaron las entradas para Croke Park"
@@ -4068,19 +4081,6 @@
    "sources_n": 1,
    "title_it": "Campionati italiani U15 di pugilato: 2 siracusani conquistano il titolo - SiracusaPost",
    "title_es": "Campeonato italiano de boxeo sub-15: 2 siracusanos ganan el título - SiracusaPost"
-  },
-  {
-   "title": "Ramla Ali wins first world titles at 36 with highly controversial split decision",
-   "link": "https://www.theguardian.com/sport/2026/nov/09/ramla-ali-mikiah-kreps-controversial-split-decision-world-titles-boxing",
-   "source": "The Guardian Boxing",
-   "lang": "en",
-   "date": "2026-11-09T06:20:34+00:00",
-   "status": "confirmed",
-   "boxers": [],
-   "score": 18,
-   "sources_n": 1,
-   "title_it": "Ramla Ali vince i primi titoli mondiali a 36 anni con una decisione molto controversa",
-   "title_es": "Ramla Ali gana el primer título mundial a los 36 años con una decisión dividida muy controvertida"
   }
  ]
 }
