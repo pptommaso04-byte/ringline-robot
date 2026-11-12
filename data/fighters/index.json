@@ -33684,5 +33684,56 @@
  },
  "Andy Morris (boxer)": {
   "tried": "2026-11-12T08:25:31+00:00"
+ },
+ "Anthony Crolla": {
+  "slug": "anthony-crolla",
+  "updated": "2026-11-12T08:30:23+00:00",
+  "total": 45,
+  "verified": 0,
+  "record": {
+   "w": 35,
+   "l": 7,
+   "d": 3,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Kazuhisa Watanabe": {
+  "slug": "kazuhisa-watanabe",
+  "updated": "2026-11-12T08:30:28+00:00",
+  "total": 18,
+  "verified": 0,
+  "record": {
+   "w": 15,
+   "l": 3,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Adrian Taihia": {
+  "tried": "2026-11-12T08:30:15+00:00"
+ },
+ "Anthresh Lalit Lakra": {
+  "tried": "2026-11-12T08:30:15+00:00"
+ },
+ "Ville Piispanen": {
+  "slug": "ville-piispanen",
+  "updated": "2026-11-12T08:30:35+00:00",
+  "total": 29,
+  "verified": 0,
+  "record": {
+   "w": 19,
+   "l": 7,
+   "d": 3,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
