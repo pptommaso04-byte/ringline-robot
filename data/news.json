@@ -1,8 +1,21 @@
 {
- "updated": "2026-11-12T02:10:45+00:00",
+ "updated": "2026-11-12T02:15:53+00:00",
  "feeds_ok": 49,
  "feeds_failed": 4,
  "news": [
+  {
+   "title": "The WBA has ordered Floyd Schofield to defend his lightweight title vs Jose ‘Rayo’ Valenzuela next. They have 30 days to make a deal before a purse bid is called.",
+   "link": "https://www.reddit.com/r/Boxing/comments/1xu00sw/the_wba_has_ordered_floyd_schofield_to_defend_his/",
+   "source": "Reddit r/Boxing",
+   "lang": "en",
+   "date": "2026-11-12T01:41:29+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 59,
+   "sources_n": 2,
+   "title_it": "La WBA ha ordinato a Floyd Schofield di difendere il suo titolo dei pesi leggeri contro José \"Rayo\" Valenzuela nel prossimo incontro. Hanno 30 giorni di tempo per raggiungere un accordo prima che venga indetta una gara per la determinazione della borsa.",
+   "title_es": "La WBA ha ordenado a Floyd Schofield que defienda su título del peso ligero contra José «Rayo» Valenzuela en su próxima pelea. Tienen 30 días para llegar a un acuerdo antes de que se convoque una subasta de la bolsa."
+  },
   {
    "title": "WBA Upholds Floyd Schofield’s Victory and Denies Lucas Bahdi’s Request for a Rematch – World Boxing Association",
    "link": "https://www.saddoboxing.com/112085-wba-upholds-floyd-schofields-victory-and-denies-lucas-bahdis-request-for-a-rematch-world-boxing-association.html",
@@ -12,7 +25,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 69,
-   "sources_n": 4,
+   "sources_n": 5,
    "title_it": "La WBA conferma la vittoria di Floyd Schofield e respinge la richiesta di rivincita di Lucas Bahdi – World Boxing Association",
    "title_es": "La WBA ratifica la victoria de Floyd Schofield y rechaza la solicitud de revancha de Lucas Bahdi – Asociación Mundial de Boxeo"
   },
@@ -55,7 +68,7 @@
    "boxers": [
     "Canelo Alvarez"
    ],
-   "score": 94,
+   "score": 93,
    "sources_n": 6,
    "title_it": "Lester Martinez è l'ultimo a rischio di essere scavalcato da Canelo Alvarez",
    "title_es": "Lester Martínez, el último en riesgo de ser apartado por Canelo Álvarez"
@@ -298,7 +311,7 @@
    "date": "2026-11-11T22:11:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 48,
+   "score": 47,
    "sources_n": 2,
    "title_it": "Quattro incontri dei pesi massimi rendono la \"notte più importante della boxe\" ancora più grande!",
    "title_es": "¡Cuatro peleas de peso pesado hacen que la “noche más grande del boxeo” sea aún más grande!"
@@ -315,7 +328,7 @@
     "Canelo Alvarez"
    ],
    "score": 122,
-   "sources_n": 7,
+   "sources_n": 6,
    "title_it": "Aggiornamenti sulla convention della WBC: il prossimo incontro di Canelo Álvarez, Naoya Inoue, David Benavidez e altri ancora",
    "title_es": "Novedades de la convención del CMB: el próximo combate de Canelo Álvarez, Naoya Inoue, David Benavidez y más"
   },
@@ -603,19 +616,6 @@
    "title_es": "Ryan García anuncia un combate contra Mayweather... y podría caer el récord de campeón más longevo"
   },
   {
-   "title": "David Benavidez on What’s Changed Since He Became a World Champion",
-   "link": "https://www.saddoboxing.com/112058-david-benavidez-on-whats-changed-since-he-became-a-world-champion.html",
-   "source": "Saddo Boxing",
-   "lang": "en",
-   "date": "2026-11-11T18:50:07+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 111,
-   "sources_n": 7,
-   "title_it": "David Benavidez su ciò che è cambiato da quando è diventato campione del mondo",
-   "title_es": "David Benavidez habla sobre lo que ha cambiado desde que se convirtió en campeón del mundo"
-  },
-  {
    "title": "Gerome Warburton Can Strip Carlos Adames Without Winning WBC Belt",
    "link": "https://www.boxing247.com/boxing-news/gerome-warburton-can-strip-carlos-adames-without-winning-wbc-belt/311255",
    "source": "East Side Boxing",
@@ -705,6 +705,19 @@
    "sources_n": 1,
    "title_it": "Fajardo continua la storica tradizione di formazione nel pugilato amatoriale -claritypuertorico.com",
    "title_es": "Fajardo continúa la tradición histórica de formación en el boxeo aficionado - Claridad"
+  },
+  {
+   "title": "David Benavidez on What's Changed Since He Became a World Champion",
+   "link": "https://www.youtube.com/watch?v=26dMW7p3HG0",
+   "source": "YouTube PBC",
+   "lang": "en",
+   "date": "2026-11-11T17:01:03+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 110,
+   "sources_n": 6,
+   "title_it": "David Benavidez su ciò che è cambiato da quando è diventato campione del mondo",
+   "title_es": "David Benavidez habla sobre lo que ha cambiado desde que se convirtió en campeón del mundo"
   },
   {
    "title": "\"LITTLE RAT!\" Adam Azim FIRES SHOTS & HITS BACK At Dalton Smith Claims, Talks Shakur Stevenson Fight",
@@ -808,7 +821,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 65,
+   "score": 64,
    "sources_n": 14,
    "title_it": "I residenti di Cardiff si oppongono al piano di Netflix per Fury-Joshua alle 3 del mattino",
    "title_es": "Los vecinos de Cardiff se oponen al plan de Netflix de emitir el combate Fury-Joshua a las 3 de la madrugada"
@@ -1117,7 +1130,7 @@
    "date": "2026-11-11T14:11:42+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 24,
+   "score": 23,
    "sources_n": 1,
    "title_it": "Gli incontri più ricchi nella storia della boxe britannica",
    "title_es": "Los combates más lucrativos de la historia del boxeo británico"
@@ -1146,7 +1159,7 @@
     "Oleksandr Usyk"
    ],
    "score": 108,
-   "sources_n": 7,
+   "sources_n": 6,
    "title_it": "Hall of Famer avverte Usyk che David Benavidez lo distruggerà ai pesi cruiser: \"Vendi la tua eredità\"",
    "title_es": "El miembro del Salón de la Fama advierte a Usyk que David Benavidez lo destruirá en el peso crucero: \"Vende tu legado\""
   },
@@ -1277,7 +1290,7 @@
    "date": "2026-11-11T12:11:35+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 23,
+   "score": 22,
    "sources_n": 1,
    "title_it": "Boxe, Sapone-Ferramosca per il titolo italiano dei supergallo in diretta su Italia Boxe TV - Sportface.it",
    "title_es": "Boxeo, Sapone-Ferramosca por el título italiano del peso supergallo en directo en Italia Boxe TV - Sportface.it"
@@ -1351,7 +1364,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 62,
-   "sources_n": 4,
+   "sources_n": 5,
    "title_it": "Il campione del mondo Mohammad Waseem lotta per ottenere il visto, teme di perdere più opportunità di boxe - https://newsalert.com.pk/",
    "title_es": "El campeón mundial Mohammad Waseem lucha por obtener una visa y teme perder más oportunidades en el boxeo - https://newsalert.com.pk/"
   },
@@ -2204,7 +2217,7 @@
     "Anthony Joshua"
    ],
    "score": 98,
-   "sources_n": 21,
+   "sources_n": 20,
    "title_it": "Programma di boxe per il 2026: Anthony Joshua contro Tyson Fury, David Benavidez, Dmitry Bivol torna alla spina",
    "title_es": "Calendario de boxeo para 2026: Anthony Joshua vs. Tyson Fury, David Benavidez, Dmitry Bivol regresan de barril"
   },
@@ -2477,7 +2490,7 @@
     "Tyson Fury",
     "Oleksandr Usyk"
    ],
-   "score": 97,
+   "score": 96,
    "sources_n": 11,
    "title_it": "Furia contro Usyk 3? | Frank Warren su Tyson Fury, il futuro di Oleksandr Usyk e Moses Itauma",
    "title_es": "¿Furia vs Usyk 3? | Frank Warren sobre Tyson Fury, el futuro de Oleksandr Usyk y Moses Itauma"
@@ -2497,19 +2510,6 @@
    "sources_n": 15,
    "title_it": "Anthony Joshua ha già deciso il prossimo avversario dopo Tyson Fury",
    "title_es": "Anthony Joshua ya ha decidido su próximo oponente después de Tyson Fury"
-  },
-  {
-   "title": "Great 21st Century KOs/TKOs｜EP14 - Dawson vs. Stevenson (2013)",
-   "link": "https://www.reddit.com/r/Boxing/comments/1xsmx01/great_21st_century_kostkosep14_dawson_vs/",
-   "source": "Reddit r/Boxing",
-   "lang": "en",
-   "date": "2026-11-10T13:29:23+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 36,
-   "sources_n": 1,
-   "title_it": "Grandi KO/TKO del 21° secolo｜EP14 - Dawson vs. Stevenson (2013)",
-   "title_es": "Grandes KO/TKO del siglo XXI ｜EP14 - Dawson vs. Stevenson (2013)"
   },
   {
    "title": "Willy Hutchinson being 'analysed' as potential next fight for Canelo Alvarez",
@@ -2961,7 +2961,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 69,
-   "sources_n": 6,
+   "sources_n": 5,
    "title_it": "Foto: David Benavidez anticipa la lotta di Cieslak durante l'allenamento con i media",
    "title_es": "Fotos: David Benavidez adelanta la pelea de Cieslak en el entrenamiento de medios"
   },
@@ -3077,7 +3077,7 @@
    "date": "2026-11-09T20:12:36+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 3,
+   "score": 2,
    "sources_n": 1,
    "title_it": "Policía mexicana conquista dos campeonatos mundiales de boxeo - Código San Luis",
    "title_es": "Policía mexicana conquista dos campeonatos mundiales de boxeo - Código San Luis"
@@ -3090,7 +3090,7 @@
    "date": "2026-11-09T20:11:49+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 3,
+   "score": 2,
    "sources_n": 1,
    "title_it": "Campionati italiani di pugilato, la Boxe Tranchina di Palermo conquista la medaglia d’oro Under 15 - Giornale di Sicilia",
    "title_es": "Campeonatos italianos de boxeo: el Boxe Tranchina de Palermo se hace con la medalla de oro sub-15 - Giornale di Sicilia"
@@ -3295,7 +3295,7 @@
   },
   {
    "title": "Boxing Weekend Review: Willy Hutchinson's world title triumph and Cheavon Clarke revives career - DAZN",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUkZ2QnBMTEw3UGVSTW1ULUFrUEdjZlRWcEpfX3NYQjl3UFZzc2JEdjBHdVN1SlNfYnV3eWhsRGtmemdoeDc5UVRFSmpVZlVlbi1SMGt6b2RUQmFwUXhDY0RaM3ZqbUxiV0ljMFdsMDJKWmMyNF9pY0ZmV2V6M0ZQRmN3b3k3VDIwRTRRa2xremFKLUlLMjg0WUY1bFZyMWwwVzNoR0JNYWdmbk1aNWtodmE0QWZhenVMcE96b0JQSExsLWR4anM2US1VUlJhaFFQd0RSTjFVaWx6VFg1ZFlIUnJn?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZm5SWjRSdEVMWWxCNTFKSWZYclhpRVAtdlJ3WUQ2T2RxRFV4b3lUZ2VvTUFfUUFGazhaOTZHaFp5VlowZUtXY3JDZXFqTmhFU2dnc1N4LUxXQ2V2R3p6REJMYUxUSVo2aFhLa08wRVB3NjAxUDlleC1jb0w5Z3g3Nzdrc2RFY2JaSGFzdWlNdXlSWDB0bHVGbFhNVG94QnhFMFVscTFzcVN0RGJwWGNzSlZUeVBrd0VkUEJWM1VKNlkxRWF2bVZrR3ZRUzNJRlpmdUhjRzlmWF9FdXhJc3V1dldn?oc=5",
    "source": "Google News: boxing",
    "lang": "en",
    "date": "2026-11-09T17:00:00+00:00",
@@ -3304,7 +3304,7 @@
    "score": 36,
    "sources_n": 1,
    "title_it": "Rassegna del weekend di boxe: il trionfo di Willy Hutchinson per il titolo mondiale e Cheavon Clarke rilancia la sua carriera - DAZN",
-   "title_es": "Resumen del fin de semana del boxeo: Willy Hutchinson se proclama campeón del mundo y Cheavon Clarke relanza su carrera - DAZN"
+   "title_es": "Resumen del fin de semana de boxeo: Willy Hutchinson se proclama campeón del mundo y Cheavon Clarke relanza su carrera - DAZN"
   },
   {
    "title": "Former WWE champion Bobby Lashley, 50, discussing bare-knuckle debut at BKFC",
@@ -3692,7 +3692,7 @@
   },
   {
    "title": "Boxing news: Alycia Baumgardner wins lightweight world title as Ramla Ali and Skye Nicolson triumph - DAZN",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZWRFQlgyeDdOcUhYdU5jemZVVk5BUTg1S0dWY21wRWowQ1diYnBYdDVPcmYzQ0xTT05JTDc2ajJtYUdtLWFkaWl0OEdKREhEdFp5YU9nTmxnRmVkOHhlaWEwNTIxMjdVSEllZnUyR21Fa1Y0Z1ZrcmlQV0ZZRzNxV20xZ0N5cDZOV0RidU9DRGtpaGlSUTRFRFRHMEllcHJRY3V2TjdEbVd5QnZINko5N1dObXNOQjNzcDl6bm9jd1J5M0NfV2JFUjc5NE1LUjhBMUE?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYzR2ZjctOTkwczluWmJHQ0tWMGUyVVF4ekduZ0EyaGFwaDZSNWlHMU84Zktvcnota0ZuSWlUeHRfd1JFQjJOQmw3WWtwTFpXNHd6RFJaamxJSWw1andOQnozSU1BczVtVUtzT2tPU2liQl8wV2p3dG5hbF90TU5LRnpTNWI5Wlp3eldxcWU3QmRQbkxoMDFzbDNtZ2VGaGdvQ1oxREIxM1JJMEFUOXRqRjUzeEFEbEgxdm1iQXU3NEZ1ekZpdDE4bVZ2NkpkQ2h1SFE?oc=5",
    "source": "Google News: boxing",
    "lang": "en",
    "date": "2026-11-09T11:00:00+00:00",
@@ -3701,7 +3701,7 @@
    "score": 48,
    "sources_n": 6,
    "title_it": "Notizie di boxe: Alycia Baumgardner vince il titolo mondiale dei pesi leggeri, trionfano Ramla Ali e Skye Nicolson - DAZN",
-   "title_es": "Noticias de boxeo: Alycia Baumgardner se proclama campeona del mundo del peso ligero, y Ramla Ali y Skye Nicolson también se llevan la victoria - DAZN"
+   "title_es": "Noticias de boxeo: Alycia Baumgardner se proclama campeona del mundo del peso ligero, mientras que Ramla Ali y Skye Nicolson también se imponen - DAZN"
   },
   {
    "title": "Ali weeps as world title dream realised in Texas",
