@@ -32801,5 +32801,45 @@
   "langs": [
    "en"
   ]
+ },
+ "Brandon Brewer": {
+  "tried": "2026-11-12T07:01:12+00:00"
+ },
+ "Tony Conquest": {
+  "tried": "2026-11-12T07:01:12+00:00"
+ },
+ "Henry Namauu": {
+  "tried": "2026-11-12T07:01:12+00:00"
+ },
+ "Philip Bowes": {
+  "slug": "philip-bowes",
+  "updated": "2026-11-12T07:01:23+00:00",
+  "total": 24,
+  "verified": 0,
+  "record": {
+   "w": 20,
+   "l": 4,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "fr"
+  ]
+ },
+ "Sean Dodd": {
+  "slug": "sean-dodd",
+  "updated": "2026-11-12T07:01:27+00:00",
+  "total": 25,
+  "verified": 0,
+  "record": {
+   "w": 17,
+   "l": 7,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
