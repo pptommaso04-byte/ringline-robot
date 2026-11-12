@@ -31761,5 +31761,56 @@
   "langs": [
    "en"
   ]
+ },
+ "Luis González (Venezuelan boxer)": {
+  "tried": "2026-11-12T05:15:45+00:00"
+ },
+ "Tenkai Tsunami": {
+  "slug": "tenkai-tsunami",
+  "updated": "2026-11-12T05:15:50+00:00",
+  "total": 46,
+  "verified": 0,
+  "record": {
+   "w": 32,
+   "l": 13,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Shurretta Metcalf": {
+  "slug": "shurretta-metcalf",
+  "updated": "2026-11-12T05:15:53+00:00",
+  "total": 19,
+  "verified": 0,
+  "record": {
+   "w": 11,
+   "l": 6,
+   "d": 1,
+   "nc": 1
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Aleksandar Aleksandrov (boxer)": {
+  "tried": "2026-11-12T05:15:45+00:00"
+ },
+ "John Murray (boxer)": {
+  "slug": "john-murray-boxer",
+  "updated": "2026-11-12T05:15:58+00:00",
+  "total": 36,
+  "verified": 0,
+  "record": {
+   "w": 33,
+   "l": 3,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
