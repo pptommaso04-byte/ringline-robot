@@ -1,8 +1,21 @@
 {
- "updated": "2026-11-12T04:35:40+00:00",
- "feeds_ok": 49,
- "feeds_failed": 4,
+ "updated": "2026-11-12T04:40:58+00:00",
+ "feeds_ok": 48,
+ "feeds_failed": 5,
  "news": [
+  {
+   "title": "The WBA orders immediate rematch between Brittany Sims and Shera Mae Patricio – World Boxing Association",
+   "link": "https://www.saddoboxing.com/112100-the-wba-orders-immediate-rematch-between-brittany-sims-and-shera-mae-patricio-world-boxing-association.html",
+   "source": "Saddo Boxing",
+   "lang": "en",
+   "date": "2026-11-12T04:40:07+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 69,
+   "sources_n": 4,
+   "title_it": "La WBA ordina la rivincita immediata tra Brittany Sims e Shera Mae Patricio – World Boxing Association",
+   "title_es": "La AMB ordena revancha inmediata entre Brittany Sims y Shera Mae Patricio – Asociación Mundial de Boxeo"
+  },
   {
    "title": "They Said He Had Ring Rust. He Answered With a TKO.",
    "link": "https://www.saddoboxing.com/112097-they-said-he-had-ring-rust-he-answered-with-a-tko.html",
@@ -21,7 +34,7 @@
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOT3RZM2NIVmlJSXJubFl0VjJQck9BTEY4V2NkcDdJMFBPMXpwNWg4S1h3UGQwYUQtWXoyQk5PejEzTTM1S2NGaU5kdWg0MVJtdXNWbTZkTU9Rb180VU1jV3N1cF8xeXFCMm4yRndyLVV3SDZBMWY2V21MaUh4eTd1OUxOUU0tOGUxNGM3SkF3QVRtZ3M?oc=5",
    "source": "Google News: pugilato",
    "lang": "it",
-   "date": "2026-11-12T04:30:00+00:00",
+   "date": "2026-11-12T04:30:01+00:00",
    "status": "unverified",
    "boxers": [],
    "score": 29,
@@ -406,19 +419,6 @@
    "sources_n": 4,
    "title_it": "Pesatura della card di Zanfer alla 64ª Convenzione del WBC ad Acapulco - World Boxing Council",
    "title_es": "Pesaje de la cartelera de Zanfer en la 64.ª Convención del WBC en Acapulco - World Boxing Council"
-  },
-  {
-   "title": "Un Día Como Hoy en el Boxeo… 11 de noviembre - World Boxing Council",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5mYVdJSkozN2Mydmh6RGxvZWpvRDJhQ2djV0RLdWhwWjVWMlRya1U1S0NSaHJ4ZFJHQ2RPaUF2UjI3bl8tMHQ3a0VVRjBXTXpYWGRUd3hnOXFpcGNELUhyOHd4MXVUVkhWNVE1OHZlci1uODI5?oc=5",
-   "source": "Google News: boxeo",
-   "lang": "es",
-   "date": "2026-11-11T22:37:51+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 57,
-   "sources_n": 4,
-   "title_it": "Un giorno come oggi nel mondo della boxe… 11 novembre - World Boxing Council",
-   "title_es": "Un Día Como Hoy en el Boxeo… 11 de noviembre - World Boxing Council"
   },
   {
    "title": "Boxe, Michela Guglielmon sul podio alle Olimpiadi Giovanili",
@@ -883,7 +883,7 @@
    "date": "2026-11-11T16:39:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 34,
+   "score": 33,
    "sources_n": 1,
    "title_it": "Pugilato: Luis Vela è campione Wbc International - Ufficio Stampa della Provincia autonoma di Trento",
    "title_es": "Boxeo: Luis Vela es campeón internacional del WBC - Oficina de Prensa de la Provincia Autónoma de Trento"
@@ -1179,7 +1179,7 @@
    "date": "2026-11-11T14:40:35+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 78,
+   "score": 77,
    "sources_n": 4,
    "title_it": "Jarrell Miller si prepara a battere il campione olimpico Tony Yoka mentre la lotta per il titolo viene tolta dal tavolo",
    "title_es": "Jarrell Miller se prepara para boxear al campeón olímpico Tony Yoka mientras la pelea por el título se retira de la mesa"
@@ -1320,7 +1320,7 @@
    "date": "2026-11-11T12:38:35+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 42,
+   "score": 41,
    "sources_n": 3,
    "title_it": "Big Baby Miller affronta Tony Yoka ad Accra il 20 dicembre",
    "title_es": "Big Baby Miller se enfrentará a Tony Yoka en Acra el 20 de diciembre"
@@ -1336,7 +1336,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 117,
+   "score": 116,
    "sources_n": 15,
    "title_it": "Tyson Fury vs Anthony Joshua si appresta a concludere il terzo incontro undercard con una nuova aggiunta dei pesi massimi all'incontro di successo",
    "title_es": "Tyson Fury vs Anthony Joshua listo para conseguir la tercera pelea de cartelera con una nueva incorporación de peso pesado a la pelea de gran éxito"
@@ -2111,7 +2111,7 @@
    "date": "2026-11-10T20:40:39+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 22,
+   "score": 21,
    "sources_n": 1,
    "title_it": "Due promesse imbattute sono le protagoniste della card di incontri tutta al femminile del 20 novembre",
    "title_es": "Dos promesas invictas encabezan una velada de combates femeninos el 20 de noviembre"
@@ -2821,7 +2821,7 @@
    "date": "2026-11-10T08:37:53+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 8,
+   "score": 7,
    "sources_n": 1,
    "title_it": "Vota per il tuo più grande incontro di boxe tutto britannico",
    "title_es": "Vota por tu mayor pelea de boxeo británico"
@@ -2973,7 +2973,7 @@
    "date": "2026-11-10T04:39:15+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 81,
+   "score": 80,
    "sources_n": 5,
    "title_it": "Canelo Álvarez busca revanchas con Terence Crawford e Dmitry Bivol",
    "title_es": "Canelo Álvarez busca revanchas con Terence Crawford y Dmitry Bivol"
@@ -3012,7 +3012,7 @@
    "date": "2026-11-10T00:36:36+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 4,
+   "score": 3,
    "sources_n": 1,
    "title_it": "Julio César Chávez Jr. reveló cuándo piensa retirarse del boxeo - El Informador",
    "title_es": "Julio César Chávez Jr. reveló cuándo piensa retirarse del boxeo - El Informador"
@@ -3347,7 +3347,7 @@
   },
   {
    "title": "Boxing Weekend Review: Willy Hutchinson's world title triumph and Cheavon Clarke revives career - DAZN",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZm5SWjRSdEVMWWxCNTFKSWZYclhpRVAtdlJ3WUQ2T2RxRFV4b3lUZ2VvTUFfUUFGazhaOTZHaFp5VlowZUtXY3JDZXFqTmhFU2dnc1N4LUxXQ2V2R3p6REJMYUxUSVo2aFhLa08wRVB3NjAxUDlleC1jb0w5Z3g3Nzdrc2RFY2JaSGFzdWlNdXlSWDB0bHVGbFhNVG94QnhFMFVscTFzcVN0RGJwWGNzSlZUeVBrd0VkUEJWM1VKNlkxRWF2bVZrR3ZRUzNJRlpmdUhjRzlmWF9FdXhJc3V1dldn?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUkZ2QnBMTEw3UGVSTW1ULUFrUEdjZlRWcEpfX3NYQjl3UFZzc2JEdjBHdVN1SlNfYnV3eWhsRGtmemdoeDc5UVRFSmpVZlVlbi1SMGt6b2RUQmFwUXhDY0RaM3ZqbUxiV0ljMFdsMDJKWmMyNF9pY0ZmV2V6M0ZQRmN3b3k3VDIwRTRRa2xremFKLUlLMjg0WUY1bFZyMWwwVzNoR0JNYWdmbk1aNWtodmE0QWZhenVMcE96b0JQSExsLWR4anM2US1VUlJhaFFQd0RSTjFVaWx6VFg1ZFlIUnJn?oc=5",
    "source": "Google News: boxing",
    "lang": "en",
    "date": "2026-11-09T17:00:00+00:00",
@@ -3757,7 +3757,7 @@
   },
   {
    "title": "Boxing news: Alycia Baumgardner wins lightweight world title as Ramla Ali and Skye Nicolson triumph - DAZN",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYzR2ZjctOTkwczluWmJHQ0tWMGUyVVF4ekduZ0EyaGFwaDZSNWlHMU84Zktvcnota0ZuSWlUeHRfd1JFQjJOQmw3WWtwTFpXNHd6RFJaamxJSWw1andOQnozSU1BczVtVUtzT2tPU2liQl8wV2p3dG5hbF90TU5LRnpTNWI5Wlp3eldxcWU3QmRQbkxoMDFzbDNtZ2VGaGdvQ1oxREIxM1JJMEFUOXRqRjUzeEFEbEgxdm1iQXU3NEZ1ekZpdDE4bVZ2NkpkQ2h1SFE?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZWRFQlgyeDdOcUhYdU5jemZVVk5BUTg1S0dWY21wRWowQ1diYnBYdDVPcmYzQ0xTT05JTDc2ajJtYUdtLWFkaWl0OEdKREhEdFp5YU9nTmxnRmVkOHhlaWEwNTIxMjdVSEllZnUyR21Fa1Y0Z1ZrcmlQV0ZZRzNxV20xZ0N5cDZOV0RidU9DRGtpaGlSUTRFRFRHMEllcHJRY3V2TjdEbVd5QnZINko5N1dObXNOQjNzcDl6bm9jd1J5M0NfV2JFUjc5NE1LUjhBMUE?oc=5",
    "source": "Google News: boxing",
    "lang": "en",
    "date": "2026-11-09T11:00:00+00:00",
@@ -3765,8 +3765,8 @@
    "boxers": [],
    "score": 48,
    "sources_n": 6,
-   "title_it": "Notizie di boxe: Alycia Baumgardner vince il titolo mondiale dei pesi leggeri, trionfano anche Ramla Ali e Skye Nicolson - DAZN",
-   "title_es": "Noticias de boxeo: Alycia Baumgardner se proclama campeona del mundo del peso ligero, mientras que Ramla Ali y Skye Nicolson también se llevan la victoria - DAZN"
+   "title_it": "Notizie di inscatolamento: Alycia Baumgardner vince il titolo mondiale dei pesi leggeri mentre trionfano Ramla Ali e Skye Nicolson - DAZN",
+   "title_es": "Noticias del boxeo: Alycia Baumgardner gana el título mundial de peso ligero mientras Ramla Ali y Skye Nicolson triunfan - DAZN"
   },
   {
    "title": "Ali weeps as world title dream realised in Texas",
