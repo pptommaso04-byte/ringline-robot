@@ -41379,5 +41379,61 @@
  },
  "Andrei Arlovski": {
   "tried": "2026-11-12T22:15:59+00:00"
+ },
+ "Neil Perkins": {
+  "tried": "2026-11-12T22:20:45+00:00"
+ },
+ "Mohamed Hikal": {
+  "tried": "2026-11-12T22:20:45+00:00"
+ },
+ "Jérôme Thomas": {
+  "slug": "jerome-thomas",
+  "updated": "2026-11-12T22:20:56+00:00",
+  "total": 14,
+  "verified": 0,
+  "record": {
+   "w": 12,
+   "l": 1,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "es",
+   "fr"
+  ]
+ },
+ "Sefer Seferi": {
+  "slug": "sefer-seferi",
+  "updated": "2026-11-12T22:20:59+00:00",
+  "total": 33,
+  "verified": 0,
+  "record": {
+   "w": 28,
+   "l": 4,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "fr",
+   "pt"
+  ]
+ },
+ "Sakio Bika": {
+  "slug": "sakio-bika",
+  "updated": "2026-11-12T22:21:03+00:00",
+  "total": 45,
+  "verified": 0,
+  "record": {
+   "w": 35,
+   "l": 7,
+   "d": 3,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "it"
+  ]
  }
 }
