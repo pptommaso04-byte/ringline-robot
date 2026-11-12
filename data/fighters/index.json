@@ -35099,5 +35099,71 @@
  },
  "Vissia Trovato": {
   "tried": "2026-11-12T11:45:46+00:00"
+ },
+ "Tavoris Cloud": {
+  "slug": "tavoris-cloud",
+  "updated": "2026-11-12T11:50:43+00:00",
+  "total": 28,
+  "verified": 0,
+  "record": {
+   "w": 25,
+   "l": 3,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Mike Anchondo": {
+  "slug": "mike-anchondo",
+  "updated": "2026-11-12T11:50:46+00:00",
+  "total": 33,
+  "verified": 0,
+  "record": {
+   "w": 30,
+   "l": 3,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "K.J. Noons": {
+  "slug": "k-j-noons",
+  "updated": "2026-11-12T11:50:50+00:00",
+  "total": 4,
+  "verified": 0,
+  "record": {
+   "w": 3,
+   "l": 1,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "fr",
+   "de"
+  ]
+ },
+ "Shinsuke Yamanaka": {
+  "slug": "shinsuke-yamanaka",
+  "updated": "2026-11-12T11:50:55+00:00",
+  "total": 31,
+  "verified": 0,
+  "record": {
+   "w": 27,
+   "l": 2,
+   "d": 2,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "es"
+  ]
+ },
+ "Gyula Káté": {
+  "tried": "2026-11-12T11:50:40+00:00"
  }
 }
