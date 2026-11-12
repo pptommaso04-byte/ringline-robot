@@ -32170,5 +32170,57 @@
   "langs": [
    "en"
   ]
+ },
+ "Hunter Sam": {
+  "slug": "hunter-sam",
+  "updated": "2026-11-12T05:57:33+00:00",
+  "total": 26,
+  "verified": 0,
+  "record": {
+   "w": 11,
+   "l": 13,
+   "d": 2,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Kaye Scott": {
+  "slug": "kaye-scott",
+  "updated": "2026-11-12T05:57:38+00:00",
+  "total": 8,
+  "verified": 0,
+  "record": {
+   "w": 5,
+   "l": 2,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Jorge Quiñonez": {
+  "tried": "2026-11-12T05:57:26+00:00"
+ },
+ "Ermano Fegatilli": {
+  "tried": "2026-11-12T05:57:26+00:00"
+ },
+ "Francisco Vargas (Mexican boxer)": {
+  "slug": "francisco-vargas-mexican-boxer",
+  "updated": "2026-11-12T05:57:50+00:00",
+  "total": 34,
+  "verified": 0,
+  "record": {
+   "w": 27,
+   "l": 5,
+   "d": 2,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "pt"
+  ]
  }
 }
