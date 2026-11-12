@@ -37123,5 +37123,62 @@
    "en",
    "fr"
   ]
+ },
+ "Ricardo Williams (boxer)": {
+  "tried": "2026-11-12T15:06:30+00:00"
+ },
+ "Walter Wright (boxer)": {
+  "slug": "walter-wright-boxer",
+  "updated": "2026-11-12T15:06:37+00:00",
+  "total": 23,
+  "verified": 0,
+  "record": {
+   "w": 17,
+   "l": 6,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "de"
+  ]
+ },
+ "Carlos Valcárcel": {
+  "tried": "2026-11-12T15:06:30+00:00"
+ },
+ "Alessio Sakara": {
+  "slug": "alessio-sakara",
+  "updated": "2026-11-12T15:06:42+00:00",
+  "total": 9,
+  "verified": 0,
+  "record": {
+   "w": 8,
+   "l": 1,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "it",
+   "es",
+   "fr",
+   "de"
+  ]
+ },
+ "Sugar Jackson": {
+  "slug": "sugar-jackson",
+  "updated": "2026-11-12T15:06:46+00:00",
+  "total": 39,
+  "verified": 0,
+  "record": {
+   "w": 35,
+   "l": 4,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "pt"
+  ]
  }
 }
