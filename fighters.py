@@ -264,7 +264,17 @@ def run_step(data_dir, log, limit=5, max_age_h=20, budget_s=150):
         champs = set(ro.get("champs", []))
         try: titles = " ".join(n.get("title", "") for n in json.loads((Path(data_dir) / "news.json").read_text(encoding="utf-8")).get("news", [])).lower()
         except Exception: titles = ""
+        top = set()
+        try:
+            rk = json.loads((Path(data_dir) / "rankings.json").read_text(encoding="utf-8"))
+            for src in rk.get("sources", {}).values():
+                for dv in src.get("divisions", {}).values():
+                    if dv.get("champion"): top.add(norm(dv["champion"]["name"]))
+                    for x in dv.get("ranks", []): top.add(norm(x["name"]))
+                for x in src.get("p4p_M", []) + src.get("p4p_F", []): top.add(norm(x["name"]))
+        except Exception: pass
         def prio(b):
+            if norm(b["name"]) in top: return (-1, 0, 0)
             sur = b["name"].split()[-1].lower()
             full = b["name"].lower() in titles
             in_news = full or (len(sur) >= 7 and re.search(r"\b" + re.escape(sur) + r"\b", titles) is not None)

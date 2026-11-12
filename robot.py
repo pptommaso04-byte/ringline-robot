@@ -262,6 +262,11 @@ def run(feeds_file="feeds.json", feeds_override=None):
     (DATA / "news.json").write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")
     log(f"Scritte {len(news)} notizie (feed ok {ok}, falliti {bad})")
     try:
+        import rankings
+        rankings.run_step(DATA, log)
+    except Exception as e:
+        log(f"CLASSIFICHE ERRORE {type(e).__name__} {e}")
+    try:
         import fighters
         fighters.run_step(DATA, log)
     except Exception as e:
