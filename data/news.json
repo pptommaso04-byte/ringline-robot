@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T05:15:45+00:00",
+ "updated": "2026-11-12T05:20:51+00:00",
  "feeds_ok": 49,
  "feeds_failed": 4,
  "news": [
@@ -159,7 +159,7 @@
    "date": "2026-11-12T03:17:43+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 104,
+   "score": 103,
    "sources_n": 3,
    "title_it": "Gervonta Davis e Shakur Stevenson entrambi nel mirino del campione del mondo dei pesi leggeri",
    "title_es": "Gervonta Davis y Shakur Stevenson, ambos en el punto de mira del campeón del mundo del peso ligero"
@@ -372,8 +372,8 @@
    "date": "2026-11-11T23:19:37+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 110,
-   "sources_n": 4,
+   "score": 109,
+   "sources_n": 5,
    "title_it": "Teofimo Lopez perde l'appello WBA, ordinato di difendere il titolo contro Jack Catterall",
    "title_es": "Teófimo López pierde apelación de la AMB y se le ordena defender el título contra Jack Catterall"
   },
@@ -385,7 +385,7 @@
    "date": "2026-11-11T23:18:31+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 27,
+   "score": 26,
    "sources_n": 1,
    "title_it": "Bash Boxing presenta il ritorno dei combattimenti DTLA",
    "title_es": "Bash Boxing presenta el regreso de las peleas de DTLA"
@@ -398,8 +398,8 @@
    "date": "2026-11-11T23:16:09+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 102,
-   "sources_n": 7,
+   "score": 101,
+   "sources_n": 8,
    "title_it": "La WBA riafferma la difesa obbligatoria del titolo di Teofimo Lopez contro Jack Catterall – World Boxing Association",
    "title_es": "La AMB reafirma la defensa obligatoria del título de Teófimo López ante Jack Catterall – Asociación Mundial de Boxeo"
   },
@@ -672,6 +672,19 @@
    "sources_n": 3,
    "title_it": "BAKOLE È TORNATO 🇨🇩 Martin Bakole tornerà contro Solomon Adebayo nella undercard Fury vs AJ 🍿",
    "title_es": "BAKOLE ESTÁ DE VUELTA 🇨🇩 Martin Bakole regresará contra Solomon Adebayo en la cartelera de Fury vs AJ 🍿"
+  },
+  {
+   "title": "WBA orders Teofimo Lopez to face Jack Catterall",
+   "link": "https://www.badlefthook.com/boxing-news/120299/wba-orders-teofimo-lopez-to-face-jack-catterall",
+   "source": "Bad Left Hook",
+   "lang": "en",
+   "date": "2026-11-11T20:25:49-05:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 93,
+   "sources_n": 5,
+   "title_it": "La WBA ordina a Teofimo Lopez di affrontare Jack Catterall",
+   "title_es": "La WBA ordena a Teófimo López enfrentarse a Jack Catterall"
   },
   {
    "title": "Netflix announces two more fights for Fury-Joshua card",
@@ -1550,7 +1563,7 @@
    "date": "2026-11-11T11:19:21+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 56,
+   "score": 55,
    "sources_n": 1,
    "title_it": "Canelo offre l'incontro per il titolo mondiale dei mediomassimi: \"Gli darò una lezione di boxe\"",
    "title_es": "Canelo ofreció pelea por el título mundial en el peso semipesado: “Le daré una lección de boxeo”"
@@ -1563,7 +1576,7 @@
    "date": "2026-11-11T11:19:21+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 66,
+   "score": 65,
    "sources_n": 2,
    "title_it": "Canelo ha offerto un incontro per il titolo mondiale dei pesi massimi leggeri: \"Gli darò una lezione di boxe\" - boxingnewsonline.net",
    "title_es": "Canelo ofreció pelea por el título mundial en peso semipesado: “Le daré una lección de boxeo” - boxingnewsonline.net"
@@ -1823,7 +1836,7 @@
    "date": "2026-11-11T05:20:30+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 53,
+   "score": 52,
    "sources_n": 1,
    "title_it": "Dimentica i veterani di 40 anni: Benavidez ha bisogno di fuoco pesante ora",
    "title_es": "Olvídate de los veteranos de 40 años: Benavidez necesita fuego pesado ahora"
@@ -2252,7 +2265,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 53,
+   "score": 52,
    "sources_n": 15,
    "title_it": "Forti obiezioni a Fury vs Joshua tempo di inizio emergono con il consiglio di decidere settimane prima della lotta",
    "title_es": "Surgen fuertes objeciones a la hora de inicio de Fury vs. Joshua con el consejo para decidir semanas antes de la pelea"
@@ -2282,19 +2295,6 @@
    "sources_n": 2,
    "title_it": "Carlos Adames vs Gerome Warburton: pronostico e scheda di combattimento per il 14 novembre",
    "title_es": "Carlos Adames vs Gerome Warburton: carta de predicción y pelea para el 14 de noviembre"
-  },
-  {
-   "title": "È di Martina Franca il campione italiano Fpi under 15 di pugilato - Noi Notizie.",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYWdjYUQwTzNQdk9ibEdXVERJRmZXWVhRd291YjkyY3hQd2hIbVpfWldNbDdqeDN5SWZwSGthajg4Y3hjZGRTMDV2NlFISmlEcTlPM3U2U1psOERQUlJQa2JqdzJVQnFrQ2N0SWFXN1BncXhOUk9FdlliUWpDbVZIY1BZUGt1b1RldWRHVnFkUGF3cFZqaXR1MkNqVUl6Xy1XckhxaXlR?oc=5",
-   "source": "Google News: pugilato",
-   "lang": "it",
-   "date": "2026-11-10T18:44:02+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 12,
-   "sources_n": 1,
-   "title_it": "È di Martina Franca il campione italiano Fpi under 15 di pugilato - Noi Notizie.",
-   "title_es": "El campeón italiano de boxeo FPI sub-15 es de Martina Franca - Noi Notizie."
   },
   {
    "title": "Willy Hutchinson reveals Canelo Alvarez contact and vows to 'box his head off'",
@@ -2645,7 +2645,7 @@
    "boxers": [
     "Oleksandr Usyk"
    ],
-   "score": 83,
+   "score": 82,
    "sources_n": 2,
    "title_it": "Oleksandr Usyk ha brutalmente messo KO Tony Bellew nel suo ultimo incontro a pesi leggeri in questo giorno del 2018 😤",
    "title_es": "Oleksandr Usyk noqueó brutalmente a Tony Bellew en su última pelea en peso crucero en este día de 2018 😤"
@@ -2688,19 +2688,6 @@
    "sources_n": 2,
    "title_it": "Trieste Boxe Night 10, Sara Lombardi difende il titolo italiano femminile - Nordest24",
    "title_es": "Trieste Boxe Noche 10, Sara Lombardi difende il titolo italiano femminile - Nordest24"
-  },
-  {
-   "title": "Terni, addio a Eraclio Conti: il mondo del pugilato piange l'ex atleta ternano - TerniToday",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOckdYaW5KdlFVRDVua1RQaktSUnR6bks1ZS1BbTc3cXBmanctQXBzZXkxbVpJQnVhVHNfS0cxWGZMTm1qRVZqZG11THlYd2I2MHpLNk9hN0h0TXBscU1MMkVRVi1IVXJKV0xOTlplTWFUckROYmVMTVZIdElHcnZpT3VoVXI?oc=5",
-   "source": "Google News: pugilato",
-   "lang": "it",
-   "date": "2026-11-10T12:36:01+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 9,
-   "sources_n": 1,
-   "title_it": "Terni, addio a Eraclio Conti: il mondo del pugilato piange l'ex atleta ternano - TerniToday",
-   "title_es": "Terni, adiós a Eraclio Conti: el mundo del boxeo llora al exdeportista de Terni - TerniToday"
   },
   {
    "title": "Denzel Bentley willing to travel to Ireland for Aaron McKenna title shot",
@@ -3801,7 +3788,7 @@
   },
   {
    "title": "Boxing news: Alycia Baumgardner wins lightweight world title as Ramla Ali and Skye Nicolson triumph - DAZN",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZWRFQlgyeDdOcUhYdU5jemZVVk5BUTg1S0dWY21wRWowQ1diYnBYdDVPcmYzQ0xTT05JTDc2ajJtYUdtLWFkaWl0OEdKREhEdFp5YU9nTmxnRmVkOHhlaWEwNTIxMjdVSEllZnUyR21Fa1Y0Z1ZrcmlQV0ZZRzNxV20xZ0N5cDZOV0RidU9DRGtpaGlSUTRFRFRHMEllcHJRY3V2TjdEbVd5QnZINko5N1dObXNOQjNzcDl6bm9jd1J5M0NfV2JFUjc5NE1LUjhBMUE?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYzR2ZjctOTkwczluWmJHQ0tWMGUyVVF4ekduZ0EyaGFwaDZSNWlHMU84Zktvcnota0ZuSWlUeHRfd1JFQjJOQmw3WWtwTFpXNHd6RFJaamxJSWw1andOQnozSU1BczVtVUtzT2tPU2liQl8wV2p3dG5hbF90TU5LRnpTNWI5Wlp3eldxcWU3QmRQbkxoMDFzbDNtZ2VGaGdvQ1oxREIxM1JJMEFUOXRqRjUzeEFEbEgxdm1iQXU3NEZ1ekZpdDE4bVZ2NkpkQ2h1SFE?oc=5",
    "source": "Google News: boxing",
    "lang": "en",
    "date": "2026-11-09T11:00:00+00:00",
@@ -3809,8 +3796,8 @@
    "boxers": [],
    "score": 48,
    "sources_n": 5,
-   "title_it": "Notizie di boxe: Alycia Baumgardner vince il titolo mondiale dei pesi leggeri, trionfano anche Ramla Ali e Skye Nicolson - DAZN",
-   "title_es": "Noticias de boxeo: Alycia Baumgardner se proclama campeona del mundo del peso ligero, mientras que Ramla Ali y Skye Nicolson también se alzan con la victoria - DAZN"
+   "title_it": "Notizie di boxe: Alycia Baumgardner vince il titolo mondiale dei pesi leggeri, trionfano Ramla Ali e Skye Nicolson - DAZN",
+   "title_es": "Noticias de boxeo: Alycia Baumgardner se proclama campeona del mundo del peso ligero, mientras que Ramla Ali y Skye Nicolson también se imponen - DAZN"
   },
   {
    "title": "Ali weeps as world title dream realised in Texas",
@@ -4080,6 +4067,19 @@
    "sources_n": 4,
    "title_it": "Aussie schiaccia la lotta per il titolo mondiale, fa mangiare la torta umile al partner di Jake Paul - Nine.com.au",
    "title_es": "Aussie aplasta la pelea por el título mundial, hace que la pareja de Jake Paul coma pastel humilde - Nine.com.au"
+  },
+  {
+   "title": "‘In a flow state’: Aussie champion puts on boxing masterclass to retain world title - Fox Sports",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdG91TDRjRHBaVWhEM0tLTWNDeHR0bDUzcXBiX0hjVHZyeU1FN2xBTThUcFRSUE15NERHY2FyWmhVT1BnZjhUek5adm04RFM5ZlBRaUFJaHM4YURhX2dlai1tQjFoeDlxVjN1TTRiV1poUmJFcXRqbDVqZ1I0QzluMHMxcWJQR1FJNlM2b1lYYWJaVXdsNDJjQmdseWpIeFVkcFFYZ1JjRnpuUHdDLTB1Y18zV2ZibDBJamJLVjRFa2UzcEpXMDNnak9EbF9DNG1nUGM1cndBMzRUMU9nSFNlNTI5dHdWcUMz?oc=5",
+   "source": "Google News: boxing",
+   "lang": "en",
+   "date": "2026-11-09T03:03:00+00:00",
+   "status": "confirmed",
+   "boxers": [],
+   "score": 18,
+   "sources_n": 1,
+   "title_it": "\"In uno stato di flusso\": il campione australiano tiene una masterclass di boxe per conservare il titolo mondiale - Fox Sports",
+   "title_es": "«En estado de flujo»: el campeón australiano imparte una clase magistral de boxeo para conservar el título mundial - Fox Sports"
   }
  ]
 }
