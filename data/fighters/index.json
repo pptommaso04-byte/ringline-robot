@@ -35556,5 +35556,57 @@
  },
  "Varghese Johnson": {
   "tried": "2026-11-12T12:35:35+00:00"
+ },
+ "Doudou Ngumbu": {
+  "slug": "doudou-ngumbu",
+  "updated": "2026-11-12T12:40:48+00:00",
+  "total": 47,
+  "verified": 44,
+  "record": {
+   "w": 38,
+   "l": 9,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "fr"
+  ]
+ },
+ "Rafael Concepción": {
+  "slug": "rafael-concepcion",
+  "updated": "2026-11-12T12:40:54+00:00",
+  "total": 27,
+  "verified": 0,
+  "record": {
+   "w": 18,
+   "l": 8,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Eamonn O'Kane": {
+  "tried": "2026-11-12T12:40:43+00:00"
+ },
+ "Dmitry Salita": {
+  "tried": "2026-11-12T12:40:43+00:00"
+ },
+ "Kelly Pavlik": {
+  "slug": "kelly-pavlik",
+  "updated": "2026-11-12T12:41:05+00:00",
+  "total": 42,
+  "verified": 0,
+  "record": {
+   "w": 40,
+   "l": 2,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
