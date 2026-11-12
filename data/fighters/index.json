@@ -40189,5 +40189,58 @@
  },
  "José Correa (boxer)": {
   "tried": "2026-11-12T20:35:40+00:00"
+ },
+ "Ismael González": {
+  "tried": "2026-11-12T20:40:51+00:00"
+ },
+ "Euri González": {
+  "slug": "euri-gonzalez",
+  "updated": "2026-11-12T20:41:00+00:00",
+  "total": 69,
+  "verified": 68,
+  "record": {
+   "w": 64,
+   "l": 3,
+   "d": 2,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "es",
+   "fr"
+  ]
+ },
+ "Julio César González": {
+  "slug": "julio-cesar-gonzalez",
+  "updated": "2026-11-12T20:41:05+00:00",
+  "total": 49,
+  "verified": 0,
+  "record": {
+   "w": 41,
+   "l": 8,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Narciso González": {
+  "tried": "2026-11-12T20:40:51+00:00"
+ },
+ "Omar Salado": {
+  "slug": "omar-salado",
+  "updated": "2026-11-12T20:41:13+00:00",
+  "total": 36,
+  "verified": 0,
+  "record": {
+   "w": 24,
+   "l": 9,
+   "d": 2,
+   "nc": 1
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
