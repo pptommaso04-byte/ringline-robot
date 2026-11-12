@@ -34645,5 +34645,58 @@
  },
  "Kitson Julie": {
   "tried": "2026-11-12T11:10:48+00:00"
+ },
+ "Hanna Gabriels": {
+  "slug": "hanna-gabriels",
+  "updated": "2026-11-12T11:16:00+00:00",
+  "total": 22,
+  "verified": 22,
+  "record": {
+   "w": 21,
+   "l": 0,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "es",
+   "de"
+  ]
+ },
+ "Tomoko Okuda": {
+  "slug": "tomoko-okuda",
+  "updated": "2026-11-12T11:16:03+00:00",
+  "total": 18,
+  "verified": 0,
+  "record": {
+   "w": 8,
+   "l": 8,
+   "d": 2,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Takeya Mizugaki": {
+  "tried": "2026-11-12T11:15:55+00:00"
+ },
+ "Aleksandar Drenovak": {
+  "tried": "2026-11-12T11:15:55+00:00"
+ },
+ "Patrick Kinigamazi": {
+  "slug": "patrick-kinigamazi",
+  "updated": "2026-11-12T11:16:11+00:00",
+  "total": 35,
+  "verified": 0,
+  "record": {
+   "w": 32,
+   "l": 3,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
