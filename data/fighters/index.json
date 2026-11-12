@@ -33500,5 +33500,45 @@
  },
  "Daouda Sow (boxer)": {
   "tried": "2026-11-12T08:01:19+00:00"
+ },
+ "Johan Linde": {
+  "tried": "2026-11-12T08:05:36+00:00"
+ },
+ "David Price (boxer)": {
+  "slug": "david-price-boxer",
+  "updated": "2026-11-12T08:05:47+00:00",
+  "total": 32,
+  "verified": 0,
+  "record": {
+   "w": 25,
+   "l": 7,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Alexis Pritchard": {
+  "tried": "2026-11-12T08:05:36+00:00"
+ },
+ "Waheed Abdul-Ridha": {
+  "tried": "2026-11-12T08:05:36+00:00"
+ },
+ "Ruslan Karaev": {
+  "slug": "ruslan-karaev",
+  "updated": "2026-11-12T08:05:53+00:00",
+  "total": 24,
+  "verified": 0,
+  "record": {
+   "w": 15,
+   "l": 9,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "fr"
+  ]
  }
 }
