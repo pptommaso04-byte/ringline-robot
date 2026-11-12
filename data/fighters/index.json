@@ -34804,5 +34804,57 @@
    "en",
    "fr"
   ]
+ },
+ "Nam Phan": {
+  "tried": "2026-11-12T11:30:57+00:00"
+ },
+ "Murat Khrachev": {
+  "tried": "2026-11-12T11:30:57+00:00"
+ },
+ "Lamsongkram Chuwattana": {
+  "slug": "lamsongkram-chuwattana",
+  "updated": "2026-11-12T11:31:06+00:00",
+  "total": 51,
+  "verified": 0,
+  "record": {
+   "w": 31,
+   "l": 19,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "de"
+  ]
+ },
+ "Mikhail Chalykh": {
+  "slug": "mikhail-chalykh",
+  "updated": "2026-11-12T11:31:09+00:00",
+  "total": 23,
+  "verified": 0,
+  "record": {
+   "w": 19,
+   "l": 4,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Petr Petrov": {
+  "slug": "petr-petrov",
+  "updated": "2026-11-12T11:31:15+00:00",
+  "total": 51,
+  "verified": 0,
+  "record": {
+   "w": 42,
+   "l": 7,
+   "d": 2,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
