@@ -37591,5 +37591,73 @@
  },
  "Willie Casey": {
   "tried": "2026-11-12T15:50:58+00:00"
+ },
+ "Vicente Escobedo": {
+  "slug": "vicente-escobedo",
+  "updated": "2026-11-12T15:55:32+00:00",
+  "total": 31,
+  "verified": 0,
+  "record": {
+   "w": 25,
+   "l": 6,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Zach Walters": {
+  "tried": "2026-11-12T15:55:27+00:00"
+ },
+ "Daniel Geale": {
+  "slug": "daniel-geale",
+  "updated": "2026-11-12T15:55:41+00:00",
+  "total": 36,
+  "verified": 0,
+  "record": {
+   "w": 31,
+   "l": 5,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "it"
+  ]
+ },
+ "Holly Holm": {
+  "slug": "holly-holm",
+  "updated": "2026-11-12T15:55:46+00:00",
+  "total": 41,
+  "verified": 41,
+  "record": {
+   "w": 34,
+   "l": 4,
+   "d": 3,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "it",
+   "es",
+   "fr",
+   "pt"
+  ]
+ },
+ "Steven Luevano": {
+  "slug": "steven-luevano",
+  "updated": "2026-11-12T15:55:49+00:00",
+  "total": 40,
+  "verified": 0,
+  "record": {
+   "w": 37,
+   "l": 2,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
