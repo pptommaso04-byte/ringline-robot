@@ -34111,5 +34111,46 @@
   "langs": [
    "en"
   ]
+ },
+ "Patrick Hyland": {
+  "tried": "2026-11-12T09:10:48+00:00"
+ },
+ "Mike Jones (boxer)": {
+  "tried": "2026-11-12T09:10:48+00:00"
+ },
+ "Mike Wilson (boxer)": {
+  "slug": "mike-wilson-boxer",
+  "updated": "2026-11-12T09:11:00+00:00",
+  "total": 23,
+  "verified": 0,
+  "record": {
+   "w": 21,
+   "l": 2,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "it",
+   "pt"
+  ]
+ },
+ "Omri Lowther": {
+  "tried": "2026-11-12T09:10:48+00:00"
+ },
+ "Antz Nansen": {
+  "slug": "antz-nansen",
+  "updated": "2026-11-12T09:11:06+00:00",
+  "total": 15,
+  "verified": 0,
+  "record": {
+   "w": 11,
+   "l": 4,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
