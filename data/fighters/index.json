@@ -1219,7 +1219,7 @@
  },
  "Stephen Fulton": {
   "slug": "stephen-fulton",
-  "updated": "2026-11-11T14:25:49+00:00",
+  "updated": "2026-11-12T10:31:20+00:00",
   "total": 25,
   "verified": 0,
   "record": {
@@ -34187,6 +34187,42 @@
   "langs": [
    "en",
    "es"
+  ]
+ },
+ "Coleman Barrett": {
+  "tried": "2026-11-12T10:31:14+00:00"
+ },
+ "Ryan Barrett": {
+  "slug": "ryan-barrett",
+  "updated": "2026-11-12T10:31:27+00:00",
+  "total": 7,
+  "verified": 0,
+  "record": {
+   "w": 5,
+   "l": 2,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Francie Barrett": {
+  "tried": "2026-11-12T10:31:14+00:00"
+ },
+ "Monte Barrett": {
+  "slug": "monte-barrett",
+  "updated": "2026-11-12T10:31:36+00:00",
+  "total": 48,
+  "verified": 0,
+  "record": {
+   "w": 35,
+   "l": 11,
+   "d": 2,
+   "nc": 0
+  },
+  "langs": [
+   "en"
   ]
  }
 }
