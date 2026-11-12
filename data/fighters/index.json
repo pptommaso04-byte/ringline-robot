@@ -38790,5 +38790,70 @@
  },
  "Shadi Hamsho": {
   "tried": "2026-11-12T18:10:42+00:00"
+ },
+ "Baker Barakat": {
+  "slug": "baker-barakat",
+  "updated": "2026-11-12T18:15:48+00:00",
+  "total": 53,
+  "verified": 0,
+  "record": {
+   "w": 25,
+   "l": 28,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Krzysztof Rogowski (boxer)": {
+  "tried": "2026-11-12T18:15:43+00:00"
+ },
+ "Patrick Côté (fighter)": {
+  "slug": "patrick-cote-fighter",
+  "updated": "2026-11-12T18:15:54+00:00",
+  "total": 5,
+  "verified": 0,
+  "record": {
+   "w": 5,
+   "l": 0,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "fr",
+   "de"
+  ]
+ },
+ "Lucian Bute": {
+  "slug": "lucian-bute",
+  "updated": "2026-11-12T18:16:00+00:00",
+  "total": 37,
+  "verified": 0,
+  "record": {
+   "w": 32,
+   "l": 5,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Brian Viloria": {
+  "slug": "brian-viloria",
+  "updated": "2026-11-12T18:16:06+00:00",
+  "total": 46,
+  "verified": 0,
+  "record": {
+   "w": 38,
+   "l": 6,
+   "d": 0,
+   "nc": 2
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
