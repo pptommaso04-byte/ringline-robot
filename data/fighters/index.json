@@ -30770,5 +30770,68 @@
  },
  "Joe Smyth": {
   "tried": "2026-11-12T03:35:58+00:00"
+ },
+ "Sam Horton": {
+  "tried": "2026-11-12T03:41:04+00:00"
+ },
+ "Tom Dallas": {
+  "slug": "tom-dallas",
+  "updated": "2026-11-12T03:41:13+00:00",
+  "total": 27,
+  "verified": 0,
+  "record": {
+   "w": 17,
+   "l": 10,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Lisa Whiteside": {
+  "slug": "lisa-whiteside",
+  "updated": "2026-11-12T03:41:18+00:00",
+  "total": 6,
+  "verified": 0,
+  "record": {
+   "w": 5,
+   "l": 1,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Bob Ajisafe": {
+  "slug": "bob-ajisafe",
+  "updated": "2026-11-12T03:41:22+00:00",
+  "total": 23,
+  "verified": 0,
+  "record": {
+   "w": 19,
+   "l": 4,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Anthony Nelson (boxer)": {
+  "slug": "anthony-nelson-boxer",
+  "updated": "2026-11-12T03:41:28+00:00",
+  "total": 14,
+  "verified": 0,
+  "record": {
+   "w": 12,
+   "l": 2,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
