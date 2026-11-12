@@ -30202,5 +30202,83 @@
  },
  "Serdar Avcı": {
   "tried": "2026-11-12T02:35:49+00:00"
+ },
+ "Joe Joyce (boxer)": {
+  "slug": "joe-joyce-boxer",
+  "updated": "2026-11-12T02:40:48+00:00",
+  "total": 21,
+  "verified": 19,
+  "record": {
+   "w": 16,
+   "l": 5,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "es"
+  ]
+ },
+ "Brian Rose (boxer)": {
+  "slug": "brian-rose-boxer",
+  "updated": "2026-11-12T02:40:54+00:00",
+  "total": 41,
+  "verified": 0,
+  "record": {
+   "w": 32,
+   "l": 8,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Ginty Vrede": {
+  "slug": "ginty-vrede",
+  "updated": "2026-11-12T02:40:56+00:00",
+  "total": 19,
+  "verified": 0,
+  "record": {
+   "w": 17,
+   "l": 1,
+   "d": 0,
+   "nc": 1
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Dmitry Kudryashov (boxer)": {
+  "slug": "dmitry-kudryashov-boxer",
+  "updated": "2026-11-12T02:41:00+00:00",
+  "total": 32,
+  "verified": 0,
+  "record": {
+   "w": 26,
+   "l": 6,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "it",
+   "es"
+  ]
+ },
+ "Igor Mikhalkin": {
+  "slug": "igor-mikhalkin",
+  "updated": "2026-11-12T02:41:05+00:00",
+  "total": 28,
+  "verified": 0,
+  "record": {
+   "w": 25,
+   "l": 3,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
