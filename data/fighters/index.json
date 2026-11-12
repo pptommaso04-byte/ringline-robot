@@ -33066,5 +33066,57 @@
  },
  "Bakhtiyar Artayev": {
   "tried": "2026-11-12T07:20:42+00:00"
+ },
+ "Beibut Shumenov": {
+  "slug": "beibut-shumenov",
+  "updated": "2026-11-12T07:25:40+00:00",
+  "total": 20,
+  "verified": 0,
+  "record": {
+   "w": 18,
+   "l": 2,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "es"
+  ]
+ },
+ "Serik Sapiyev": {
+  "tried": "2026-11-12T07:25:35+00:00"
+ },
+ "Detelin Dalakliev": {
+  "tried": "2026-11-12T07:25:35+00:00"
+ },
+ "Tervel Pulev": {
+  "slug": "tervel-pulev",
+  "updated": "2026-11-12T07:25:50+00:00",
+  "total": 20,
+  "verified": 0,
+  "record": {
+   "w": 19,
+   "l": 1,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Jonathan Maicelo": {
+  "slug": "jonathan-maicelo",
+  "updated": "2026-11-12T07:25:54+00:00",
+  "total": 30,
+  "verified": 0,
+  "record": {
+   "w": 26,
+   "l": 3,
+   "d": 0,
+   "nc": 1
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
