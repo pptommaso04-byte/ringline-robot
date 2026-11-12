@@ -38896,5 +38896,57 @@
  },
  "Aghasi Mammadov": {
   "tried": "2026-11-12T18:20:44+00:00"
+ },
+ "Roberto Cammarelle": {
+  "tried": "2026-11-12T18:25:34+00:00"
+ },
+ "Sven Paris": {
+  "tried": "2026-11-12T18:25:34+00:00"
+ },
+ "Enzo Maccarinelli": {
+  "slug": "enzo-maccarinelli",
+  "updated": "2026-11-12T18:25:41+00:00",
+  "total": 49,
+  "verified": 49,
+  "record": {
+   "w": 41,
+   "l": 8,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "es"
+  ]
+ },
+ "Sebastian Sylvester": {
+  "slug": "sebastian-sylvester",
+  "updated": "2026-11-12T18:25:44+00:00",
+  "total": 40,
+  "verified": 0,
+  "record": {
+   "w": 34,
+   "l": 5,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Dimitri Sartison": {
+  "slug": "dimitri-sartison",
+  "updated": "2026-11-12T18:25:47+00:00",
+  "total": 31,
+  "verified": 0,
+  "record": {
+   "w": 29,
+   "l": 2,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
