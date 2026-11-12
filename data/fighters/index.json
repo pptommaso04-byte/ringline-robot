@@ -36192,5 +36192,45 @@
    "en",
    "de"
   ]
+ },
+ "Oscar Díaz (boxer)": {
+  "tried": "2026-11-12T13:50:56+00:00"
+ },
+ "Arash Usmanee": {
+  "tried": "2026-11-12T13:50:56+00:00"
+ },
+ "Bobi Wine": {
+  "tried": "2026-11-12T13:50:56+00:00"
+ },
+ "John Molina Jr.": {
+  "slug": "john-molina-jr",
+  "updated": "2026-11-12T13:51:06+00:00",
+  "total": 39,
+  "verified": 0,
+  "record": {
+   "w": 30,
+   "l": 9,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Alexander Dimitrenko": {
+  "slug": "alexander-dimitrenko",
+  "updated": "2026-11-12T13:51:09+00:00",
+  "total": 47,
+  "verified": 0,
+  "record": {
+   "w": 41,
+   "l": 6,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "de"
+  ]
  }
 }
