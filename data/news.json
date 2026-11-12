@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-12T06:35:31+00:00",
- "feeds_ok": 49,
- "feeds_failed": 4,
+ "updated": "2026-11-12T06:40:56+00:00",
+ "feeds_ok": 48,
+ "feeds_failed": 5,
  "news": [
   {
    "title": "Jayden Fadel vs Rajesh Kumar | Full fight | No Limit Boxing | 📅 Nov 6, 2026",
@@ -81,7 +81,7 @@
    "date": "2026-11-12T04:40:07+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 69,
+   "score": 68,
    "sources_n": 4,
    "title_it": "La WBA ordina la rivincita immediata tra Brittany Sims e Shera Mae Patricio – World Boxing Association",
    "title_es": "La AMB ordena revancha inmediata entre Brittany Sims y Shera Mae Patricio – Asociación Mundial de Boxeo"
@@ -966,7 +966,7 @@
    "date": "2026-11-11T16:39:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 33,
+   "score": 32,
    "sources_n": 1,
    "title_it": "Pugilato: Luis Vela è campione Wbc International - Ufficio Stampa della Provincia autonoma di Trento",
    "title_es": "Boxeo: Luis Vela es campeón internacional del WBC - Oficina de Prensa de la Provincia Autónoma de Trento"
@@ -1262,7 +1262,7 @@
    "date": "2026-11-11T14:40:35+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 77,
+   "score": 76,
    "sources_n": 4,
    "title_it": "Jarrell Miller si prepara a battere il campione olimpico Tony Yoka mentre la lotta per il titolo viene tolta dal tavolo",
    "title_es": "Jarrell Miller se prepara para boxear al campeón olímpico Tony Yoka mientras la pelea por el título se retira de la mesa"
@@ -1403,7 +1403,7 @@
    "date": "2026-11-11T12:38:35+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 41,
+   "score": 40,
    "sources_n": 3,
    "title_it": "Big Baby Miller affronta Tony Yoka ad Accra il 20 dicembre",
    "title_es": "Big Baby Miller se enfrentará a Tony Yoka en Acra el 20 de diciembre"
@@ -1419,7 +1419,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 116,
+   "score": 115,
    "sources_n": 16,
    "title_it": "Tyson Fury vs Anthony Joshua si appresta a concludere il terzo incontro undercard con una nuova aggiunta dei pesi massimi all'incontro di successo",
    "title_es": "Tyson Fury vs Anthony Joshua listo para conseguir la tercera pelea de cartelera con una nueva incorporación de peso pesado a la pelea de gran éxito"
@@ -2181,7 +2181,7 @@
    "date": "2026-11-10T20:40:39+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 21,
+   "score": 20,
    "sources_n": 1,
    "title_it": "Due promesse imbattute sono le protagoniste della card di combattimenti tutta al femminile del 20 novembre",
    "title_es": "Dos promesas invictas encabezan una velada de combates femeninos el 20 de noviembre"
@@ -2596,7 +2596,7 @@
    "date": "2026-11-10T14:35:33+00:00",
    "status": "rumor",
    "boxers": [],
-   "score": 40,
+   "score": 39,
    "sources_n": 4,
    "title_it": "Angel Perez parla dell'incontro del 13 novembre e sfida Emiliano Vargas",
    "title_es": "Ángel Pérez habla sobre el combate del 13 de noviembre y reta a Emiliano Vargas"
@@ -2804,19 +2804,6 @@
    "title_es": "Una mirada desde el ring al paro de la Ronda 1 de Vinnie Kemp en # ZuffaBoxing12"
   },
   {
-   "title": "Pugilato professionistico, vince per ko il palermitano Giuseppe Rubino - BlogSicilia",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT0VoMVZsMjczT3FHTlFzWFhUU3R0MFZIT21KSDRxbDlRLVV2eDhkRDFTSE9EdEFDb3RJNDk5djNEbzNSRWR2OFl0c182UmZyQnU0c003YzJEcjVzTzB3a24wbFhEanphYXlrQUl4bE5kVTg1V1NFN3phMVFTc3JRYnVGMGpKel9sbVpDVXNzcndjeUtHN3d2TENTS1FBb2R3SklWdGdrWklkT3JmNUkxbDE1cnUyLThlSk81OEYxRE0?oc=5",
-   "source": "Google News: titolo italiano pugilato",
-   "lang": "it",
-   "date": "2026-11-10T10:22:39+00:00",
-   "status": "confirmed",
-   "boxers": [],
-   "score": 25,
-   "sources_n": 2,
-   "title_it": "Pugilato professionistico, vince per ko il palermitano Giuseppe Rubino - BlogSicilia",
-   "title_es": "Pugilato professionistico, vince per ko il palermitano Giuseppe Rubino - BlogSicilia"
-  },
-  {
    "title": "Canelo Alvarez could face new British world champion next in weight switch fight",
    "link": "https://talksport.com/boxing/4698171/canelo-alvarez-willy-hutchinson-fight/",
    "source": "Talksport Boxing",
@@ -2871,6 +2858,19 @@
    "title_es": "Un boxeador franco-azerí se salva de ser linchado en Estambul"
   },
   {
+   "title": "A 14 anni conquista l’Italia sul ring: l’impresa del pugliese Giulio Olivieri - Pugliapress",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOR2xaeGRYTUtMQmpKZEt6TzhEanNsMHMyeTRsODROTTY2b3FROTY4M1Q3S2k0TnZ3Wkp2NUhHa29OaGtlWU9NN01TX2l6VHI5OWdMejVNOUpSdnY4VGxCZkxraU9vUl9TczZDMjA1YmdNWFFlRXp1Y0Z6T01iWHpNWVVqcHo3WGQ1dUE?oc=5",
+   "source": "Google News: titolo italiano pugilato",
+   "lang": "it",
+   "date": "2026-11-10T09:36:10+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 7,
+   "sources_n": 1,
+   "title_it": "A 14 anni conquista l’Italia sul ring: l’impresa del pugliese Giulio Olivieri - Pugliapress",
+   "title_es": "A 14 anni conquista l'Italia sul ring: l' empresa del pugliese Giulio Olivieri - Pugliapress"
+  },
+  {
    "title": "Vote for your greatest all-British boxing fight",
    "link": "https://sports.yahoo.com/articles/vote-greatest-british-boxing-fight-083055514.html",
    "source": "Yahoo Sports Boxing",
@@ -2878,23 +2878,10 @@
    "date": "2026-11-10T08:37:53+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 7,
+   "score": 6,
    "sources_n": 1,
    "title_it": "Vota per il tuo più grande incontro di boxe tutto britannico",
    "title_es": "Vota por tu mayor pelea de boxeo británico"
-  },
-  {
-   "title": "A 14 anni conquista l’Italia sul ring: l’impresa del pugliese Giulio Olivieri - Pugliapress",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOR2xaeGRYTUtMQmpKZEt6TzhEanNsMHMyeTRsODROTTY2b3FROTY4M1Q3S2k0TnZ3Wkp2NUhHa29OaGtlWU9NN01TX2l6VHI5OWdMejVNOUpSdnY4VGxCZkxraU9vUl9TczZDMjA1YmdNWFFlRXp1Y0Z6T01iWHpNWVVqcHo3WGQ1dUE?oc=5",
-   "source": "Google News: titolo italiano pugilato",
-   "lang": "it",
-   "date": "2026-11-10T08:21:48+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 6,
-   "sources_n": 1,
-   "title_it": "A 14 anni conquista l’Italia sul ring: l’impresa del pugliese Giulio Olivieri - Pugliapress",
-   "title_es": "A 14 anni conquista l'Italia sul ring: l' empresa del pugliese Giulio Olivieri - Pugliapress"
   },
   {
    "title": "‘The rules allow him to fight for the title’: Mauricio Sulaiman talks potential for Ryan Garcia vs Floyd Mayweather and more",
@@ -3030,7 +3017,7 @@
    "date": "2026-11-10T04:39:15+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 80,
+   "score": 79,
    "sources_n": 4,
    "title_it": "Canelo Álvarez busca revanchas con Terence Crawford e Dmitry Bivol",
    "title_es": "Canelo Álvarez busca revanchas con Terence Crawford y Dmitry Bivol"
@@ -3069,7 +3056,7 @@
    "date": "2026-11-10T00:36:36+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 3,
+   "score": 2,
    "sources_n": 1,
    "title_it": "Julio César Chávez Jr. reveló cuándo piensa retirarse del boxeo - El Informador",
    "title_es": "Julio César Chávez Jr. reveló cuándo piensa retirarse del boxeo - El Informador"
@@ -3547,8 +3534,8 @@
    "date": "2026-11-09T14:38:08+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 18,
-   "sources_n": 2,
+   "score": 8,
+   "sources_n": 1,
    "title_it": "Pugilato, Giuseppe Rubino vince per ko alla quinta ripresa contro Fabiano Ricco - PalermoToday",
    "title_es": "Pugilato, Giuseppe Rubino vince per ko alla quinta ripresa contro Fabiano Ricco - PalermoHoy"
   },
@@ -4080,6 +4067,19 @@
    "sources_n": 4,
    "title_it": "Aussie schiaccia la lotta per il titolo mondiale, fa mangiare la torta umile al partner di Jake Paul - Nine.com.au",
    "title_es": "Aussie aplasta la pelea por el título mundial, hace que la pareja de Jake Paul coma pastel humilde - Nine.com.au"
+  },
+  {
+   "title": "‘In a flow state’: Aussie champion puts on boxing masterclass to retain world title - Fox Sports",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdG91TDRjRHBaVWhEM0tLTWNDeHR0bDUzcXBiX0hjVHZyeU1FN2xBTThUcFRSUE15NERHY2FyWmhVT1BnZjhUek5adm04RFM5ZlBRaUFJaHM4YURhX2dlai1tQjFoeDlxVjN1TTRiV1poUmJFcXRqbDVqZ1I0QzluMHMxcWJQR1FJNlM2b1lYYWJaVXdsNDJjQmdseWpIeFVkcFFYZ1JjRnpuUHdDLTB1Y18zV2ZibDBJamJLVjRFa2UzcEpXMDNnak9EbF9DNG1nUGM1cndBMzRUMU9nSFNlNTI5dHdWcUMz?oc=5",
+   "source": "Google News: boxing",
+   "lang": "en",
+   "date": "2026-11-09T03:03:00+00:00",
+   "status": "confirmed",
+   "boxers": [],
+   "score": 18,
+   "sources_n": 1,
+   "title_it": "\"In uno stato di flusso\": il campione australiano tiene una masterclass di boxe per difendere il titolo mondiale - Fox Sports",
+   "title_es": "«En estado de flujo»: el campeón australiano imparte una clase magistral de boxeo para conservar el título mundial - Fox Sports"
   }
  ]
 }

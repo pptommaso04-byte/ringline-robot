@@ -32628,5 +32628,46 @@
   "langs": [
    "en"
   ]
+ },
+ "Moses Muhangi": {
+  "tried": "2026-11-12T06:40:56+00:00"
+ },
+ "Ewa Brodnicka": {
+  "slug": "ewa-brodnicka",
+  "updated": "2026-11-12T06:41:02+00:00",
+  "total": 21,
+  "verified": 19,
+  "record": {
+   "w": 20,
+   "l": 1,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "es"
+  ]
+ },
+ "Hector Saldivia": {
+  "tried": "2026-11-12T06:40:56+00:00"
+ },
+ "Roberto Bolonti": {
+  "tried": "2026-11-12T06:40:56+00:00"
+ },
+ "Robert Berridge": {
+  "slug": "robert-berridge",
+  "updated": "2026-11-12T06:41:11+00:00",
+  "total": 42,
+  "verified": 0,
+  "record": {
+   "w": 30,
+   "l": 11,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "it"
+  ]
  }
 }
