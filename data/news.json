@@ -1,8 +1,19 @@
 {
- "updated": "2026-11-12T03:45:44+00:00",
+ "updated": "2026-11-12T03:49:47+00:00",
  "feeds_ok": 49,
  "feeds_failed": 4,
  "news": [
+  {
+   "title": "They Said He Had Ring Rust. He Answered With a TKO.",
+   "link": "https://www.youtube.com/watch?v=ktKts7Hwoyc",
+   "source": "YouTube PBC",
+   "lang": "en",
+   "date": "2026-11-12T03:46:31+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 37,
+   "sources_n": 1
+  },
   {
    "title": "Jarrell Miller faces Tony Yoka in Accra in December",
    "link": "https://www.fightmag.com/jarrell-miller-faces-tony-yoka-in-accra-in-december/",
@@ -431,7 +442,7 @@
    "date": "2026-11-11T21:47:02+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 17,
+   "score": 16,
    "sources_n": 1,
    "title_it": "Foto: Orobio e Cedeno fanno peso per uno scontro da 140 libbre",
    "title_es": "Fotos: Orobio y Cedeño dan peso para choque de 140 libras"
@@ -1808,7 +1819,7 @@
     "Joshua Buatsi",
     "Anthony Joshua"
    ],
-   "score": 113,
+   "score": 112,
    "sources_n": 7,
    "title_it": "Boxe: cosa succederà a Joshua Buatsi dopo la sconfitta per il titolo mondiale contro Willy Hutchinson? - Sky Sports",
    "title_es": "Boxeo: ¿Qué sigue para Joshua Buatsi después de su derrota por el título mundial ante Willy Hutchinson? - Sky Sports"
@@ -2545,7 +2556,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 96,
+   "score": 95,
    "sources_n": 15,
    "title_it": "Anthony Joshua ha già deciso il prossimo avversario dopo Tyson Fury",
    "title_es": "Anthony Joshua ya ha decidido su próximo oponente después de Tyson Fury"
@@ -3731,16 +3742,14 @@
   },
   {
    "title": "Boxing news: Alycia Baumgardner wins lightweight world title as Ramla Ali and Skye Nicolson triumph - DAZN",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYzR2ZjctOTkwczluWmJHQ0tWMGUyVVF4ekduZ0EyaGFwaDZSNWlHMU84Zktvcnota0ZuSWlUeHRfd1JFQjJOQmw3WWtwTFpXNHd6RFJaamxJSWw1andOQnozSU1BczVtVUtzT2tPU2liQl8wV2p3dG5hbF90TU5LRnpTNWI5Wlp3eldxcWU3QmRQbkxoMDFzbDNtZ2VGaGdvQ1oxREIxM1JJMEFUOXRqRjUzeEFEbEgxdm1iQXU3NEZ1ekZpdDE4bVZ2NkpkQ2h1SFE?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZWRFQlgyeDdOcUhYdU5jemZVVk5BUTg1S0dWY21wRWowQ1diYnBYdDVPcmYzQ0xTT05JTDc2ajJtYUdtLWFkaWl0OEdKREhEdFp5YU9nTmxnRmVkOHhlaWEwNTIxMjdVSEllZnUyR21Fa1Y0Z1ZrcmlQV0ZZRzNxV20xZ0N5cDZOV0RidU9DRGtpaGlSUTRFRFRHMEllcHJRY3V2TjdEbVd5QnZINko5N1dObXNOQjNzcDl6bm9jd1J5M0NfV2JFUjc5NE1LUjhBMUE?oc=5",
    "source": "Google News: boxing",
    "lang": "en",
    "date": "2026-11-09T11:00:00+00:00",
    "status": "confirmed",
    "boxers": [],
    "score": 48,
-   "sources_n": 6,
-   "title_it": "Notizie di boxe: Alycia Baumgardner vince il titolo mondiale dei pesi leggeri, trionfano Ramla Ali e Skye Nicolson - DAZN",
-   "title_es": "Noticias de boxeo: Alycia Baumgardner se proclama campeona del mundo del peso ligero, mientras que Ramla Ali y Skye Nicolson también se alzan con la victoria - DAZN"
+   "sources_n": 6
   },
   {
    "title": "Ali weeps as world title dream realised in Texas",
@@ -4062,19 +4071,6 @@
    "sources_n": 1,
    "title_it": "\"Mi ha spaventato\": la battaglia per la salute dietro l'offerta per il titolo mondiale di Tszyu - CODE SPORTS",
    "title_es": "‘Me asustó’: La batalla por la salud detrás de la candidatura por el título mundial de Tszyu - CODE SPORTS"
-  },
-  {
-   "title": "Boxing champions list - ESPN",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ZdHpfajFwV29rZGhxTEF5NGZwWkNWVEFpV2dvM2NKNmdDb0RORXN3blh3bnhHUC00WXJkZnN1N1JaQTBpd21ya1pWMXNvakVyTHFSZk1pcS0tRWJDMVI1TENqZWY2Sm1wWjFQUEkwNkFhOHNnbmdUTQ?oc=5",
-   "source": "Google News: boxing",
-   "lang": "en",
-   "date": "2026-11-09T00:39:00+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 0,
-   "sources_n": 1,
-   "title_it": "Lista campioni di boxe - ESPN",
-   "title_es": "Lista DE campeones DE boxeo - ESPN"
   }
  ]
 }

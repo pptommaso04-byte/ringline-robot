@@ -30874,5 +30874,72 @@
  },
  "Alanna Nihell": {
   "tried": "2026-11-12T03:45:44+00:00"
+ },
+ "Dennis Hogan (boxer)": {
+  "slug": "dennis-hogan-boxer",
+  "updated": "2026-11-12T03:49:53+00:00",
+  "total": 37,
+  "verified": 0,
+  "record": {
+   "w": 31,
+   "l": 5,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Mike Jackson (fighter)": {
+  "slug": "mike-jackson-fighter",
+  "updated": "2026-11-12T03:49:58+00:00",
+  "total": 4,
+  "verified": 0,
+  "record": {
+   "w": 4,
+   "l": 0,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "es",
+   "pt"
+  ]
+ },
+ "Jelena Janićijević": {
+  "slug": "jelena-janicijevic",
+  "updated": "2026-11-12T03:50:01+00:00",
+  "total": 11,
+  "verified": 0,
+  "record": {
+   "w": 6,
+   "l": 3,
+   "d": 1,
+   "nc": 1
+  },
+  "langs": [
+   "en",
+   "fr"
+  ]
+ },
+ "Plinio Cruz": {
+  "tried": "2026-11-12T03:49:47+00:00"
+ },
+ "Andre Gorges": {
+  "slug": "andre-gorges",
+  "updated": "2026-11-12T03:50:10+00:00",
+  "total": 15,
+  "verified": 0,
+  "record": {
+   "w": 12,
+   "l": 3,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "es"
+  ]
  }
 }
