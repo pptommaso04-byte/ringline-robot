@@ -41189,5 +41189,80 @@
  },
  "Ricardo Castillo (boxer)": {
   "tried": "2026-11-12T22:01:20+00:00"
+ },
+ "Roberto Carlos Leyva": {
+  "slug": "roberto-carlos-leyva",
+  "updated": "2026-11-12T22:05:53+00:00",
+  "total": 43,
+  "verified": 0,
+  "record": {
+   "w": 27,
+   "l": 15,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Lucas Browne": {
+  "slug": "lucas-browne",
+  "updated": "2026-11-12T22:05:57+00:00",
+  "total": 39,
+  "verified": 0,
+  "record": {
+   "w": 32,
+   "l": 7,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Paul McCloskey": {
+  "slug": "paul-mccloskey",
+  "updated": "2026-11-12T22:06:00+00:00",
+  "total": 27,
+  "verified": 0,
+  "record": {
+   "w": 24,
+   "l": 3,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Richard Towers": {
+  "slug": "richard-towers",
+  "updated": "2026-11-12T22:06:05+00:00",
+  "total": 16,
+  "verified": 0,
+  "record": {
+   "w": 15,
+   "l": 1,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Luis Ortiz (Cuban boxer)": {
+  "slug": "luis-ortiz-cuban-boxer",
+  "updated": "2026-11-12T22:06:08+00:00",
+  "total": 40,
+  "verified": 0,
+  "record": {
+   "w": 35,
+   "l": 3,
+   "d": 0,
+   "nc": 2
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
