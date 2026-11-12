@@ -30981,5 +30981,47 @@
    "en",
    "it"
   ]
+ },
+ "Court McGee": {
+  "tried": "2026-11-12T03:55:32+00:00"
+ },
+ "Carlos Velásquez": {
+  "tried": "2026-11-12T03:55:32+00:00"
+ },
+ "Domenico Valentino": {
+  "tried": "2026-11-12T03:55:32+00:00"
+ },
+ "Robert Helenius": {
+  "slug": "robert-helenius",
+  "updated": "2026-11-12T03:55:43+00:00",
+  "total": 37,
+  "verified": 0,
+  "record": {
+   "w": 32,
+   "l": 5,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "it",
+   "es"
+  ]
+ },
+ "Natasha Jonas": {
+  "slug": "natasha-jonas",
+  "updated": "2026-11-12T03:55:48+00:00",
+  "total": 20,
+  "verified": 0,
+  "record": {
+   "w": 16,
+   "l": 3,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "es"
+  ]
  }
 }
