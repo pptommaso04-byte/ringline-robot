@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-12T17:55:35+00:00",
- "feeds_ok": 49,
- "feeds_failed": 4,
+ "updated": "2026-11-12T18:01:19+00:00",
+ "feeds_ok": 48,
+ "feeds_failed": 5,
  "news": [
   {
    "title": "The Shakur fight is tempting, but if I’m O’Shaquie I’m going down to 126 to get Inoue first 🗣️",
@@ -176,7 +176,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 94,
-   "sources_n": 10,
+   "sources_n": 9,
    "title_it": "Floyd Mayweather ottiene il via libera per la lotta per il titolo mondiale dopo che Ryan Garcia ha lanciato la notizia bomba del 2027 - MARCA",
    "title_es": "Floyd Mayweather recibe luz verde para pelea por el título mundial después de que Ryan García soltara bomba en 2027 - MARCA"
   },
@@ -334,7 +334,7 @@
    "date": "2026-11-12T14:00:22+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 28,
+   "score": 27,
    "sources_n": 1,
    "title_it": "Ancora uno sguardo all'azione di #ZuffaBoxing12 🥊🔥",
    "title_es": "Una mirada más a la acción de #ZuffaBoxing12 🥊🔥"
@@ -347,7 +347,7 @@
    "date": "2026-11-12T14:00:01+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 28,
+   "score": 27,
    "sources_n": 1,
    "title_it": "\"Masterclass di boxe!\" 🙌",
    "title_es": "\"¡Clase magistral de boxeo!\" 🙌"
@@ -360,7 +360,7 @@
    "date": "2026-11-12T13:57:03+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 103,
+   "score": 102,
    "sources_n": 6,
    "title_it": "Isaac \"Pitbull\" Cruz crede che la rivincita Canelo vs Terence Crawford avverrà dopo e finirà diversamente",
    "title_es": "Isaac 'Pitbull' Cruz cree que la revancha entre Canelo y Terence Crawford ocurre a continuación y termina de manera diferente"
@@ -400,7 +400,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 102,
-   "sources_n": 11,
+   "sources_n": 10,
    "title_it": "La reazione di Devin Haney dopo l'annuncio di Ryan Garcia di un incontro con Floyd Mayweather",
    "title_es": "Devin Haney reacciona tras el anuncio de Ryan García de su combate contra Floyd Mayweather"
   },
@@ -522,7 +522,7 @@
    "date": "2026-11-12T12:00:53+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 37,
+   "score": 36,
    "sources_n": 1,
    "title_it": "Carl Froch dice che un peso massimo avrebbe eliminato il primo Muhammad Ali: “Era un mostro”",
    "title_es": "Carl Froch dice que un peso pesado habría noqueado al mejor Muhammad Ali: \"Era un monstruo\""
@@ -537,7 +537,7 @@
    "boxers": [
     "Naoya Inoue"
    ],
-   "score": 112,
+   "score": 111,
    "sources_n": 3,
    "title_it": "Bam Rodriguez sembra enorme mentre la WBC conferma i negoziati con Naoya Inoue",
    "title_es": "Bam Rodríguez parece enorme mientras el CMB confirma las conversaciones con Naoya Inoue"
@@ -550,7 +550,7 @@
    "date": "2026-11-12T11:59:18+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 27,
+   "score": 26,
    "sources_n": 1,
    "title_it": "Cavarzere ha un suo baby campione italiano - Chioggia Notizie",
    "title_es": "Cavarzere tiene su propio bebé campeón italiano - Chioggia Notizie"
@@ -563,7 +563,7 @@
    "date": "2026-11-12T11:58:20+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 130,
+   "score": 129,
    "sources_n": 9,
    "title_it": "L'unificazione tra Ryan Garcia e Teofimo Lopez è a rischio dopo la decisione della WBA su Jack Catterall",
    "title_es": "La unificación de Ryan García y Teófimo López está en peligro tras la decisión de la WBA sobre Jack Catterall"
@@ -660,7 +660,7 @@
    "date": "2026-11-12T09:56:04+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 46,
+   "score": 45,
    "sources_n": 2,
    "title_it": "Zelfa Barrett mantiene il sogno del titolo mondiale dopo un anno “frustrante”.",
    "title_es": "Zelfa Barrett mantiene sueño de título mundial tras año ‘frustrante’"
@@ -673,7 +673,7 @@
    "date": "2026-11-12T09:56:04+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 56,
+   "score": 55,
    "sources_n": 3,
    "title_it": "Zelfa Barrett mantiene il sogno del titolo mondiale dopo un anno \"frustrante\" - boxingnewsonline.net",
    "title_es": "Zelfa Barrett mantiene su sueño de título mundial después de un año 'frustrante' - boxingnewsonline.net"
@@ -758,6 +758,19 @@
    "sources_n": 16,
    "title_it": "Altri combattimenti dei pesi massimi aggiunti alla undercard Tyson Fury vs Anthony Joshua",
    "title_es": "Se agregaron más peleas de peso pesado a la cartelera de Tyson Fury vs Anthony Joshua"
+  },
+  {
+   "title": "Zero scuse, dodici anni di sport e impegno sociale sul territorio - Lecce Tomorrow",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU21HR3ZBdm5EekV0MHZtUGJOZXNLUjNIa0xENkRkZVdwNnVsUnJJSU1tT0VIVlFnbnJPbXpuM3JvSkhZWXJlejIzbjB0c0hfb0V4WWNwdGFWZlJTWlRYd3lzOGxtb2JNcW5nczlrS092QldyM05XSFJhdjJTZktDRUd5a18xMGJTa2lxb1I0WEFsOENBUDlJY2I4aG52QXA0cjVHYmlfcXY?oc=5",
+   "source": "Google News: pugilato",
+   "lang": "it",
+   "date": "2026-11-12T09:09:00+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 25,
+   "sources_n": 1,
+   "title_it": "Zero scuse, dodici anni di sport e impegno sociale sul territorio - Lecce Tomorrow",
+   "title_es": "Cero excusas, doce años de deporte y compromiso social en el territorio - Lecce Tomorrow"
   },
   {
    "title": "Ferramosca sfida Sapone per il titolo italiano: Prato sogna con il suo “Bulldozer” - Notizie di Prato",
@@ -848,7 +861,7 @@
    "date": "2026-11-12T07:58:04+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 15,
+   "score": 14,
    "sources_n": 1,
    "title_it": "Video. Bogotá, pugili dilettanti uomini e donne si sfidano in ring improvvisati - Euronews.com",
    "title_es": "Video. Bogotá, boxeadores y boxeadores amateurs compiten en ring improvisados ​​- Euronews.com"
@@ -1039,7 +1052,7 @@
    "date": "2026-11-12T03:57:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 48,
+   "score": 47,
    "sources_n": 1,
    "title_it": "Il riconoscimento che Eddy Reynoso ha ricevuto dal WBC per il campionato di Canelo Álvarez - Infobae",
    "title_es": "El reconocimiento que Eddy Reynoso recibió del CMB por el campeonato de Canelo Álvarez - Infobae"
@@ -1355,7 +1368,7 @@
     "Naoya Inoue",
     "Canelo Alvarez"
    ],
-   "score": 115,
+   "score": 114,
    "sources_n": 7,
    "title_it": "Aggiornamenti sulla convention della WBC: il prossimo incontro di Canelo Álvarez, Naoya Inoue, David Benavidez e altri ancora",
    "title_es": "Novedades de la convención del CMB: el próximo combate de Canelo Álvarez, Naoya Inoue, David Benavidez y más"
@@ -1632,7 +1645,7 @@
    "date": "2026-11-11T18:00:17+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 18,
+   "score": 17,
    "sources_n": 1,
    "title_it": "Un memorial per Sandrino Scapecchi. L’amico d’infanzia: «Non ci siamo mai persi di vista» - MaremmaOggi",
    "title_es": "Un homenaje a Sandrino Scapecchi. El amigo de la infancia: «Nunca nos perdimos de vista» - MaremmaOggi"
@@ -1763,7 +1776,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 72,
-   "sources_n": 10,
+   "sources_n": 9,
    "title_it": "Floyd Mayweather ottiene il via libera per tornare sul ring a 49 anni e fare la storia contro Ryan Garcia",
    "title_es": "Floyd Mayweather recibe luz verde para volver al boxeo a los 49 años y hacer historia contra Ryan García"
   },
@@ -1804,7 +1817,7 @@
    "date": "2026-11-11T16:00:25+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 17,
+   "score": 16,
    "sources_n": 1,
    "title_it": "\"DANA WHITE NON È UN PROMOTER\" - BEN SHALOM SCATENA UN VEEMENTE SFOGO CONTRO GLI \"IDIOTI\" DELLA BOXE BRITANNICA",
    "title_es": "«DANA WHITE NO ES UN PROMOTOR» - BEN SHALOM LANZA UN ATAQUE CONTUNDENTE CONTRA LOS «IDIOTAS» DEL BOXEO BRITÁNICO"
@@ -1817,7 +1830,7 @@
    "date": "2026-11-11T16:00:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 27,
+   "score": 26,
    "sources_n": 1,
    "title_it": "Il Campionato Mondiale di Chessboxing si svolgerà a Istanbul dopo i riflettori dei \"60 minuti\" - Chess.com",
    "title_es": "El Campeonato Mundial de Chessboxing se celebrará en Estambul tras el foco de atención de '60 Minutos' - Chess.com"
@@ -2193,7 +2206,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 55,
+   "score": 54,
    "sources_n": 15,
    "title_it": "La lotta tra Joshua e Fury deve affrontare obiezioni oltre la fine delle 3 del mattino",
    "title_es": "La pelea entre Joshua y Fury enfrenta objeciones por terminar a las 3 am"
@@ -2208,7 +2221,7 @@
    "boxers": [
     "Canelo Alvarez"
    ],
-   "score": 100,
+   "score": 99,
    "sources_n": 7,
    "title_it": "Willy Hutchinson è pronto a \"terrorizzare\" Canelo Alvarez e promette di \"torturare\" Ben Whittaker mentre il nuovo campione parla del prossimo incontro",
    "title_es": "Willy Hutchinson está listo para «aterrorizar» a Canelo Álvarez y promete «torturar» a Ben Whittaker, mientras el nuevo campeón habla de su próximo combate"
@@ -2289,7 +2302,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 69,
-   "sources_n": 10,
+   "sources_n": 9,
    "title_it": "Ryan Garcia afferma che il suo prossimo incontro sarà contro Floyd Mayweather e indica data e luogo",
    "title_es": "Ryan García afirma que su próximo combate será contra Floyd Mayweather y da la fecha y el lugar"
   },
@@ -2314,7 +2327,7 @@
    "date": "2026-11-11T10:00:12+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 14,
+   "score": 13,
    "sources_n": 1,
    "title_it": "Glasgow Hydro difficilmente ospiterà più boxe a mani nude dopo una rissa di massa",
    "title_es": "Es poco probable que Glasgow Hydro organice más boxeo a puñetazos después de una pelea masiva"
@@ -2330,7 +2343,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 99,
+   "score": 98,
    "sources_n": 16,
    "title_it": "L'incontro tra Tyson Fury e Anthony Joshua incontra un grosso ostacolo: la richiesta per il Principality Stadium rischia di essere BLOCCATA",
    "title_es": "El combate entre Tyson Fury y Anthony Joshua se topa con un gran obstáculo, ya que la solicitud para celebrar el combate en el Principality Stadium corre el riesgo de ser BLOQUEADA."
@@ -2343,7 +2356,7 @@
    "date": "2026-11-11T09:56:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 22,
+   "score": 21,
    "sources_n": 1,
    "title_it": "\"Kekko\" Illiano torna sul ring. Il pugile dorico sfiderà l'esperto abruzzese Fabio Cavallucci - AnconaToday",
    "title_es": "«Kekko» Illiano regresa al ring. El boxeador dórico desafiará al experto de Abruzzo Fabio Cavallucci - AnconaToday"
@@ -2624,7 +2637,7 @@
    "date": "2026-11-10T22:00:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 38,
+   "score": 37,
    "sources_n": 5,
    "title_it": "Pitbull Cruz olvida a Ryan García: va por campeonato absoluto del CMB ante Dalton Smith - Infobae",
    "title_es": "Pitbull Cruz olvida a Ryan García: va por campeonato absoluto del CMB ante Dalton Smith - Infobae"
@@ -2830,7 +2843,7 @@
     "Canelo Alvarez",
     "Tyson Fury"
    ],
-   "score": 46,
+   "score": 45,
    "sources_n": 5,
    "title_it": "Hutchinson: Darei ad Alvarez 'lezione di boxe' | Wilder per combattere Opetaia su Fury-AJ undercard",
    "title_es": "Hutchinson: Le daría a Álvarez una 'lección de boxeo' | Wilder luchará contra Opetaia en la cartelera de Fury-AJ"
@@ -2846,7 +2859,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 91,
+   "score": 90,
    "sources_n": 20,
    "title_it": "Programma di boxe per il 2026: Anthony Joshua contro Tyson Fury, David Benavidez, Dmitry Bivol torna alla spina",
    "title_es": "Calendario de boxeo para 2026: Anthony Joshua vs. Tyson Fury, David Benavidez, Dmitry Bivol regresan de barril"
@@ -3212,7 +3225,7 @@
    "boxers": [
     "Anthony Joshua"
    ],
-   "score": 38,
+   "score": 37,
    "sources_n": 1,
    "title_it": "LE MIGLIORI apparizioni COMPLETE di Anthony Joshua in \"Gloves Are Off\".",
    "title_es": "Las MEJORES apariciones de Anthony Joshua en 'Gloves Are Off' COMPLETAS"
@@ -3361,7 +3374,7 @@
    "status": "rumor",
    "boxers": [],
    "score": 58,
-   "sources_n": 10,
+   "sources_n": 9,
    "title_it": "‘Le regole gli permettono di lottare per il titolo’: Mauricio Sulaiman parla del potenziale per Ryan Garcia vs Floyd Mayweather e altro",
    "title_es": "‘Las reglas le permiten luchar por el título’: Mauricio Sulaiman habla sobre el potencial de Ryan García vs Floyd Mayweather y más"
   },
@@ -3812,7 +3825,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 30,
-   "sources_n": 6,
+   "sources_n": 5,
    "title_it": "Floyd Mayweather aggiunge un leggendario ex avversario alla lista dei possibili sfidanti per un grande incontro nel 2027",
    "title_es": "Floyd Mayweather añade a un legendario exrival a su lista de objetivos para un gran combate en 2027"
   },
@@ -4069,19 +4082,6 @@
    "sources_n": 1,
    "title_it": "A Cervia un evento dedicato allo sport: presenti anche diversi campioni olimpici - RavennaToday",
    "title_es": "Un evento dedicado al deporte en Cervia: también estarán presentes varios campeones olímpicos - RavennaToday"
-  },
-  {
-   "title": "Floyd Mayweather Names Stunning Rematch on Four-Fight Hit List",
-   "link": "https://www.worldboxingnews.com/mayweather-four-fight-rematch-hit-list/",
-   "source": "World Boxing News",
-   "lang": "en",
-   "date": "2026-11-09T11:39:44+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 30,
-   "sources_n": 6,
-   "title_it": "Floyd Mayweather annuncia una rivincita sensazionale nella sua lista di quattro incontri",
-   "title_es": "Floyd Mayweather nombra una increíble revancha en su lista de cuatro combates deseados"
   }
  ]
 }
