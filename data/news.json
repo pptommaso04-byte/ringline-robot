@@ -1,8 +1,34 @@
 {
- "updated": "2026-11-12T04:31:22+00:00",
- "feeds_ok": 47,
- "feeds_failed": 6,
+ "updated": "2026-11-12T04:35:40+00:00",
+ "feeds_ok": 49,
+ "feeds_failed": 4,
  "news": [
+  {
+   "title": "They Said He Had Ring Rust. He Answered With a TKO.",
+   "link": "https://www.saddoboxing.com/112097-they-said-he-had-ring-rust-he-answered-with-a-tko.html",
+   "source": "Saddo Boxing",
+   "lang": "en",
+   "date": "2026-11-12T04:35:06+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 37,
+   "sources_n": 1,
+   "title_it": "Hanno detto che aveva la ruggine sugli anelli. Ha risposto con un TKO.",
+   "title_es": "Dijeron que tenía óxido en el anillo. Él respondió con un nocaut técnico."
+  },
+  {
+   "title": "Francesco sale sul ring nazionale - Polesine24",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOT3RZM2NIVmlJSXJubFl0VjJQck9BTEY4V2NkcDdJMFBPMXpwNWg4S1h3UGQwYUQtWXoyQk5PejEzTTM1S2NGaU5kdWg0MVJtdXNWbTZkTU9Rb180VU1jV3N1cF8xeXFCMm4yRndyLVV3SDZBMWY2V21MaUh4eTd1OUxOUU0tOGUxNGM3SkF3QVRtZ3M?oc=5",
+   "source": "Google News: pugilato",
+   "lang": "it",
+   "date": "2026-11-12T04:30:00+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 29,
+   "sources_n": 1,
+   "title_it": "Francesco sale sul ring nazionale - Polesine24",
+   "title_es": "Francesco entra al ring nacional - Polesine24"
+  },
   {
    "title": "El reconocimiento que Eddy Reynoso recibió del CMB por el campeonato de Canelo Álvarez - Infobae",
    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdDR4WlZ3WnBHd3J2dDNrM0kwc0FNWGU1MThZNDNKcmwtSWdhQjhJSnlzUWlIZUdRbFV4Vmd0dTlZVFdFaVhROFk0VlYwcVh1RmlpNnk3MUNvd1V0T3B2eXBZNWZtUG1GWjBJWXp5UGEtYkE3TDJoQzZMSjFTY09lME5OZWlDb3ltMUxKLUtxNU8ycHA3UXlQeDVmalhjSjFBRkJZRWxvLXVPaTZVZnl6OVd3ZlowbGE4TWxBSF92dnBUd0Jzb3JFdndMTkpCVkJyRmNPcNIB7wFBVV95cUxOZjc1YkxtNVJmMXctY1hZLVZYb0xBR01INVN4eXdDUjlack4wdkNzTC1KYmpKVVVFZWoxc1VwNmVSMzBIVmZJMjdPNDlQTWwxeFQwYUJSMm8xTDNIRTFiNXVVc0syLTlDSDZhLUJTbjJqVmRDbVZRQ3hpZklxdkcwa0JRT0VNZ2JwSEpyVlZuSVdGTWJQZ3VxUmZPT0ZDbkVYVW5mdVN0SUJJUzlZd0J5WURIcDFvVGsxb3NEZXptcTBwLS13RVR5Yjg0VWlCdzlBbzVDbWR5RXBxeENyRlZEUTBkUUNUZzdWN3U3SGhNMA?oc=5",
@@ -15,19 +41,6 @@
    "sources_n": 2,
    "title_it": "Il riconoscimento che Eddy Reynoso ha ricevuto dal WBC per il campionato di Canelo Álvarez - Infobae",
    "title_es": "El reconocimiento que Eddy Reynoso recibió del CMB por el campeonato de Canelo Álvarez - Infobae"
-  },
-  {
-   "title": "They Said He Had Ring Rust. He Answered With a TKO.",
-   "link": "https://www.youtube.com/watch?v=ktKts7Hwoyc",
-   "source": "YouTube PBC",
-   "lang": "en",
-   "date": "2026-11-12T03:46:31+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 37,
-   "sources_n": 1,
-   "title_it": "Dicevano che fosse arrugginito. Lui ha risposto con un KO tecnico.",
-   "title_es": "Decían que estaba oxidado. Él respondió con un nocaut técnico."
   },
   {
    "title": "Jarrell Miller faces Tony Yoka in Accra in December",
@@ -170,7 +183,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 38,
+   "score": 37,
    "sources_n": 1,
    "title_it": "Manny Pacquiao decisamente fuori dalla card Netflix di Joshua-Fury",
    "title_es": "Manny Pacquiao definitivamente fuera de la velada Joshua-Fury de Netflix"
@@ -415,7 +428,7 @@
    "date": "2026-11-11T22:31:25+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 37,
+   "score": 36,
    "sources_n": 2,
    "title_it": "Boxe, Michela Guglielmon sul podio alle Olimpiadi Giovanili",
    "title_es": "Boxeo: Michela Guglielmo sube al podio en los Juegos Olímpicos de la Juventud"
@@ -1022,6 +1035,19 @@
    "title_es": "Mauro Mina contra Henry Hank"
   },
   {
+   "title": "Reading The Fights",
+   "link": "https://www.thefightcity.com/reading-fights/",
+   "source": "The Fight City",
+   "lang": "en",
+   "date": "2026-11-11T15:06:03+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 23,
+   "sources_n": 1,
+   "title_it": "Leggere I Combattimenti",
+   "title_es": "Leyendo las peleas"
+  },
+  {
    "title": "Various clips of Naoya Inoue spar sessions. Check out the Monster sharpening his craft - offense, defense, slipping punches, and effective aggression",
    "link": "https://www.reddit.com/r/Boxing/comments/1xtk1ak/various_clips_of_naoya_inoue_spar_sessions_check/",
    "source": "Reddit r/Boxing",
@@ -1326,7 +1352,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 107,
+   "score": 106,
    "sources_n": 15,
    "title_it": "Shane Fury risponde alle affermazioni di Frank Bruno secondo cui Tyson Fury è ferito prima del combattimento con Anthony Joshua",
    "title_es": "Shane Fury responde a las afirmaciones de Frank Bruno de que Tyson Fury está lesionado antes de la pelea con Anthony Joshua"
@@ -1339,7 +1365,7 @@
    "date": "2026-11-11T12:31:42+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 77,
+   "score": 76,
    "sources_n": 2,
    "title_it": "Filip Hrgovic dà un'idea delle conseguenze del brutale combattimento di Moses Itauma: \"Mal di testa per giorni\"",
    "title_es": "Filip Hrgovic da una idea de las consecuencias de la brutal pelea de Moses Itauma: \"Dolor de cabeza durante días\""
@@ -1534,7 +1560,7 @@
    "date": "2026-11-11T10:34:28+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 76,
+   "score": 75,
    "sources_n": 9,
    "title_it": "Ryan Garcia afferma che combatterà contro Floyd Mayweather mentre nomina la data e il luogo",
    "title_es": "Ryan Garcia afirma que peleará con Floyd Mayweather a continuación, ya que nombra la fecha y el lugar"
@@ -2513,7 +2539,7 @@
    "date": "2026-11-10T14:35:33+00:00",
    "status": "rumor",
    "boxers": [],
-   "score": 41,
+   "score": 40,
    "sources_n": 4,
    "title_it": "Angel Perez parla dell'incontro del 13 novembre e sfida Emiliano Vargas",
    "title_es": "Ángel Pérez habla sobre el combate del 13 de noviembre y reta a Emiliano Vargas"
@@ -2629,7 +2655,7 @@
    "boxers": [
     "Denzel Bentley"
    ],
-   "score": 55,
+   "score": 54,
    "sources_n": 2,
    "title_it": "Denzel Bentley è disposto a recarsi in Irlanda per il titolo di Tyrone McKenna",
    "title_es": "Denzel Bentley dispuesto a viajar a Irlanda para luchar por el título de Tyrone McKenna"
@@ -3210,7 +3236,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 86,
+   "score": 85,
    "sources_n": 16,
    "title_it": "Eddie Hearn solleva il coperchio sul prossimo obiettivo di Anthony Joshua dopo lo scontro con Tyson Fury",
    "title_es": "Eddie Hearn levanta la tapa sobre el próximo objetivo de Anthony Joshua después del enfrentamiento con Tyson Fury"
@@ -3321,7 +3347,7 @@
   },
   {
    "title": "Boxing Weekend Review: Willy Hutchinson's world title triumph and Cheavon Clarke revives career - DAZN",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUkZ2QnBMTEw3UGVSTW1ULUFrUEdjZlRWcEpfX3NYQjl3UFZzc2JEdjBHdVN1SlNfYnV3eWhsRGtmemdoeDc5UVRFSmpVZlVlbi1SMGt6b2RUQmFwUXhDY0RaM3ZqbUxiV0ljMFdsMDJKWmMyNF9pY0ZmV2V6M0ZQRmN3b3k3VDIwRTRRa2xremFKLUlLMjg0WUY1bFZyMWwwVzNoR0JNYWdmbk1aNWtodmE0QWZhenVMcE96b0JQSExsLWR4anM2US1VUlJhaFFQd0RSTjFVaWx6VFg1ZFlIUnJn?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZm5SWjRSdEVMWWxCNTFKSWZYclhpRVAtdlJ3WUQ2T2RxRFV4b3lUZ2VvTUFfUUFGazhaOTZHaFp5VlowZUtXY3JDZXFqTmhFU2dnc1N4LUxXQ2V2R3p6REJMYUxUSVo2aFhLa08wRVB3NjAxUDlleC1jb0w5Z3g3Nzdrc2RFY2JaSGFzdWlNdXlSWDB0bHVGbFhNVG94QnhFMFVscTFzcVN0RGJwWGNzSlZUeVBrd0VkUEJWM1VKNlkxRWF2bVZrR3ZRUzNJRlpmdUhjRzlmWF9FdXhJc3V1dldn?oc=5",
    "source": "Google News: boxing",
    "lang": "en",
    "date": "2026-11-09T17:00:00+00:00",
@@ -3329,8 +3355,8 @@
    "boxers": [],
    "score": 35,
    "sources_n": 1,
-   "title_it": "Rassegna del weekend di boxe: il trionfo di Willy Hutchinson per il titolo mondiale e Cheavon Clarke rilancia la sua carriera - DAZN",
-   "title_es": "Resumen del fin de semana de boxeo: Willy Hutchinson se proclama campeón del mundo y Cheavon Clarke relanza su carrera - DAZN"
+   "title_it": "Boxing Weekend Review: il trionfo del titolo mondiale di Willy Hutchinson e il rilancio della carriera di Cheavon Clarke - DAZN",
+   "title_es": "Revisión del fin de semana de boxeo: el triunfo del título mundial de Willy Hutchinson y Cheavon Clarke revive su carrera - DAZN"
   },
   {
    "title": "Former WWE champion Bobby Lashley, 50, discussing bare-knuckle debut at BKFC",
@@ -4049,32 +4075,6 @@
    "sources_n": 5,
    "title_it": "Skye Nicolson è in GRANDE FORMA per l'incontro per il titolo mondiale contro Yoshida 💨",
    "title_es": "Skye Nicolson se ve EN FORMA para el combate por el título mundial contra Yoshida 💨"
-  },
-  {
-   "title": "‘It did scare me’: The health battle behind Tszyu’s world title bid - CODE Sports",
-   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNV3B5dTNNTnVyS21OYTdtMXhnYUsyenBUZTNpM21pZjhsYlNmNnhFcXpaRlhvcWFLNDNwU21iWjRuUlIzYnI0RzE4aXh6aWZYSG5iSURHRkJSbTJ1WWhwQ3gzVnhZRG5NWUhCZDBfc3dQclBTaXNVMWtWTjhaUWMyamd5Tk85VjliNktiRlRuOFViLUNkVmptenpwMkNQVHJDNGhwOF9aaUNqU1AwUE1oYnRjTVd3dXJ5eHlsOEJ1RlJxdEZtNldBNDlnYlRKenpkQVlCNWhRN1B6azF5aDNLM1dDdlIwbDhBS3NCQXZtRUZVd3E3bEE?oc=5",
-   "source": "Google News: boxing",
-   "lang": "en",
-   "date": "2026-11-09T00:45:51+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 35,
-   "sources_n": 1,
-   "title_it": "\"Mi ha spaventato\": la battaglia per la salute dietro la corsa al titolo mondiale di Tszyu - CODE Sports",
-   "title_es": "«Me asustó»: la batalla por la salud detrás de la candidatura de Tszyu al título mundial - CODE Sports"
-  },
-  {
-   "title": "Boxing champions list - ESPN",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ZdHpfajFwV29rZGhxTEF5NGZwWkNWVEFpV2dvM2NKNmdDb0RORXN3blh3bnhHUC00WXJkZnN1N1JaQTBpd21ya1pWMXNvakVyTHFSZk1pcS0tRWJDMVI1TENqZWY2Sm1wWjFQUEkwNkFhOHNnbmdUTQ?oc=5",
-   "source": "Google News: boxing",
-   "lang": "en",
-   "date": "2026-11-09T00:39:00+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 0,
-   "sources_n": 1,
-   "title_it": "Elenco dei campioni di boxe - ESPN",
-   "title_es": "Lista de campeones de boxeo - ESPN"
   }
  ]
 }
