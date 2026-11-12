@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T14:01:10+00:00",
+ "updated": "2026-11-12T14:05:38+00:00",
  "feeds_ok": 49,
  "feeds_failed": 4,
  "news": [
@@ -15,6 +15,19 @@
    "sources_n": 1,
    "title_it": "Ancora uno sguardo all'azione di #ZuffaBoxing12 🥊🔥",
    "title_es": "Una mirada más a la acción de #ZuffaBoxing12 🥊🔥"
+  },
+  {
+   "title": "\"Boxing masterclass!\" 🙌",
+   "link": "https://www.youtube.com/watch?v=mCQXnyqStcA",
+   "source": "YouTube DAZN Boxing",
+   "lang": "en",
+   "date": "2026-11-12T14:00:01+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 29,
+   "sources_n": 1,
+   "title_it": "\"Masterclass di boxe!\" 🙌",
+   "title_es": "\"¡Clase magistral de boxeo!\" 🙌"
   },
   {
    "title": "Isaac ‘Pitbull’ Cruz believes Canelo vs Terence Crawford rematch happens next and ends differently",
@@ -864,7 +877,7 @@
    "date": "2026-11-12T00:02:57+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 23,
+   "score": 22,
    "sources_n": 1,
    "title_it": "La WBA eleva Litzy “La Bomba” Vázquez a campione del mondo prima della sua unificazione a Bayamón - BoxeoMundial",
    "title_es": "La AMB eleva a Litzy “La Bomba” Vázquez a campeona mundial en propiedad antes de su unificación en Bayamón - BoxeoMundial"
@@ -1325,7 +1338,7 @@
    "date": "2026-11-11T18:05:10+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 73,
+   "score": 72,
    "sources_n": 2,
    "title_it": "I tre migliori pugili britannici che non hanno mai vinto un titolo mondiale, tra cui il rivale di Chris Eubank la cui carriera è stata tragicamente interrotta",
    "title_es": "Los tres mejores boxeadores británicos que nunca ganaron un título mundial, incluido el rival de Chris Eubank, cuya carrera se vio truncada trágicamente"
@@ -1338,7 +1351,7 @@
    "date": "2026-11-11T18:05:10+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 38,
+   "score": 37,
    "sources_n": 1,
    "title_it": "I tre migliori pugili britannici che non hanno mai vinto un titolo mondiale - talkSPORT",
    "title_es": "Los tres mejores boxeadores británicos que nunca ganaron un título mundial – talkSPORT"
@@ -1523,7 +1536,7 @@
    "date": "2026-11-11T16:01:40+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 29,
+   "score": 28,
    "sources_n": 2,
    "title_it": "Borghetti sale sul podio al debutto: bronzo agli Italiani Under 15 di pugilato - MaremmaOggi",
    "title_es": "Borghetti sube al podio en su debut: bronce en el Campeonato de Italia sub-15 de boxeo - MaremmaOggi"
@@ -2223,7 +2236,7 @@
    "date": "2026-11-11T04:03:51+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 53,
+   "score": 52,
    "sources_n": 4,
    "title_it": "WBC Cares y campeones del mundo comparten una jornada de cariño en el Hogar Infantil Marsh - Consiglio Mondiale della Pugilato",
    "title_es": "WBC Cares y campeones del mundo comparten una jornada de cariño en el Hogar Infantil Marsh - World Boxing Council"
@@ -2602,7 +2615,7 @@
    "boxers": [
     "Canelo Alvarez"
    ],
-   "score": 93,
+   "score": 92,
    "sources_n": 7,
    "title_it": "Willy Hutchinson rivela il contatto di Canelo Alvarez e promette di \"staccargli la testa\"",
    "title_es": "Willy Hutchinson revela el contacto de Canelo Álvarez y promete 'taparle la cabeza'"
@@ -2618,7 +2631,7 @@
     "Canelo Alvarez",
     "Tyson Fury"
    ],
-   "score": 48,
+   "score": 47,
    "sources_n": 6,
    "title_it": "Hutchinson: Darei ad Alvarez 'lezione di boxe' | Wilder per combattere Opetaia su Fury-AJ undercard",
    "title_es": "Hutchinson: Le daría a Álvarez una 'lección de boxeo' | Wilder luchará contra Opetaia en la cartelera de Fury-AJ"
@@ -3011,7 +3024,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 80,
+   "score": 79,
    "sources_n": 15,
    "title_it": "Joe Joyce sulla differenza tra lo sparring di Tyson Fury e Anthony Joshua",
    "title_es": "Joe Joyce sobre la diferencia entre el sparring de Tyson Fury y Anthony Joshua"
@@ -3226,7 +3239,7 @@
    "date": "2026-11-10T06:05:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 2,
+   "score": 1,
    "sources_n": 1,
    "title_it": "Fury v Joshua: 2. Una trilogia scomoda",
    "title_es": "Fury vs Joshua: 2. Una trilogía inconveniente"
@@ -3593,7 +3606,7 @@
   },
   {
    "title": "Boxing Weekend Review: Willy Hutchinson's world title triumph and Cheavon Clarke revives career - DAZN",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUkZ2QnBMTEw3UGVSTW1ULUFrUEdjZlRWcEpfX3NYQjl3UFZzc2JEdjBHdVN1SlNfYnV3eWhsRGtmemdoeDc5UVRFSmpVZlVlbi1SMGt6b2RUQmFwUXhDY0RaM3ZqbUxiV0ljMFdsMDJKWmMyNF9pY0ZmV2V6M0ZQRmN3b3k3VDIwRTRRa2xremFKLUlLMjg0WUY1bFZyMWwwVzNoR0JNYWdmbk1aNWtodmE0QWZhenVMcE96b0JQSExsLWR4anM2US1VUlJhaFFQd0RSTjFVaWx6VFg1ZFlIUnJn?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZm5SWjRSdEVMWWxCNTFKSWZYclhpRVAtdlJ3WUQ2T2RxRFV4b3lUZ2VvTUFfUUFGazhaOTZHaFp5VlowZUtXY3JDZXFqTmhFU2dnc1N4LUxXQ2V2R3p6REJMYUxUSVo2aFhLa08wRVB3NjAxUDlleC1jb0w5Z3g3Nzdrc2RFY2JaSGFzdWlNdXlSWDB0bHVGbFhNVG94QnhFMFVscTFzcVN0RGJwWGNzSlZUeVBrd0VkUEJWM1VKNlkxRWF2bVZrR3ZRUzNJRlpmdUhjRzlmWF9FdXhJc3V1dldn?oc=5",
    "source": "Google News: boxing",
    "lang": "en",
    "date": "2026-11-09T17:00:00+00:00",
@@ -4068,19 +4081,6 @@
    "sources_n": 2,
    "title_it": "Ramla Ali vs Mikiah Kreps: momenti salienti della lotta - Sky Sports",
    "title_es": "Ramla Ali vs Mikiah Kreps: aspectos destacados de la pelea - Sky Sports"
-  },
-  {
-   "title": "Skye Nicolson defends super-bantamweight title! | Skye Nicolson vs Miyo Yoshida | Highlights",
-   "link": "https://www.youtube.com/watch?v=BkeWU3h1YfY",
-   "source": "YouTube Sky Sports Boxing",
-   "lang": "en",
-   "date": "2026-11-09T09:21:52+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 10,
-   "sources_n": 2,
-   "title_it": "Skye Nicolson difende il titolo dei pesi supergallo! | Skye Nicolson contro Miyo Yoshida | Momenti salienti",
-   "title_es": "¡Skye Nicolson defiende el título del peso supergallo! | Skye Nicolson vs. Miyo Yoshida | Lo más destacado"
   }
  ]
 }
