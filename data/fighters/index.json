@@ -35193,5 +35193,57 @@
  },
  "Şemsi Yaralı": {
   "tried": "2026-11-12T11:55:35+00:00"
+ },
+ "Clemente Russo": {
+  "tried": "2026-11-12T12:01:16+00:00"
+ },
+ "Xiong Chaozhong": {
+  "slug": "xiong-chaozhong",
+  "updated": "2026-11-12T12:01:21+00:00",
+  "total": 36,
+  "verified": 0,
+  "record": {
+   "w": 27,
+   "l": 8,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Zhang Xiaoping": {
+  "tried": "2026-11-12T12:01:16+00:00"
+ },
+ "Khabib Allakhverdiev": {
+  "slug": "khabib-allakhverdiev",
+  "updated": "2026-11-12T12:01:26+00:00",
+  "total": 21,
+  "verified": 0,
+  "record": {
+   "w": 19,
+   "l": 2,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Vitali Tajbert": {
+  "slug": "vitali-tajbert",
+  "updated": "2026-11-12T12:01:30+00:00",
+  "total": 26,
+  "verified": 17,
+  "record": {
+   "w": 24,
+   "l": 2,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "de"
+  ]
  }
 }
