@@ -38065,5 +38065,72 @@
  },
  "Jason Williams (rugby league, born 1981)": {
   "tried": "2026-11-12T16:45:46+00:00"
+ },
+ "Devin Vargas": {
+  "slug": "devin-vargas",
+  "updated": "2026-11-12T16:50:49+00:00",
+  "total": 34,
+  "verified": 0,
+  "record": {
+   "w": 23,
+   "l": 11,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "it",
+   "fr",
+   "pt"
+  ]
+ },
+ "Elvin Ayala": {
+  "slug": "elvin-ayala",
+  "updated": "2026-11-12T16:50:55+00:00",
+  "total": 43,
+  "verified": 0,
+  "record": {
+   "w": 29,
+   "l": 13,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Chantal Ughi": {
+  "slug": "chantal-ughi",
+  "updated": "2026-11-12T16:50:59+00:00",
+  "total": 21,
+  "verified": 0,
+  "record": {
+   "w": 15,
+   "l": 6,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "es"
+  ]
+ },
+ "Boyd Melson": {
+  "tried": "2026-11-12T16:50:44+00:00"
+ },
+ "Brian Vera": {
+  "slug": "brian-vera",
+  "updated": "2026-11-12T16:51:10+00:00",
+  "total": 45,
+  "verified": 0,
+  "record": {
+   "w": 28,
+   "l": 17,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
