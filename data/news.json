@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-12T01:51:10+00:00",
- "feeds_ok": 48,
- "feeds_failed": 5,
+ "updated": "2026-11-12T01:55:35+00:00",
+ "feeds_ok": 49,
+ "feeds_failed": 4,
  "news": [
   {
    "title": "WBA Upholds Floyd Schofield’s Victory and Denies Lucas Bahdi’s Request for a Rematch – World Boxing Association",
@@ -133,8 +133,8 @@
    "date": "2026-11-11T23:19:37+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 101,
-   "sources_n": 3,
+   "score": 111,
+   "sources_n": 4,
    "title_it": "Teofimo Lopez perde l'appello WBA, ordinato di difendere il titolo contro Jack Catterall",
    "title_es": "Teófimo López pierde apelación de la AMB y se le ordena defender el título contra Jack Catterall"
   },
@@ -160,7 +160,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 103,
-   "sources_n": 6,
+   "sources_n": 7,
    "title_it": "La WBA riafferma la difesa obbligatoria del titolo di Teofimo Lopez contro Jack Catterall – World Boxing Association",
    "title_es": "La AMB reafirma la defensa obligatoria del título de Teófimo López ante Jack Catterall – Asociación Mundial de Boxeo"
   },
@@ -461,6 +461,19 @@
    "title_es": "BAKOLE ESTÁ DE VUELTA 🇨🇩 Martin Bakole regresará contra Solomon Adebayo en la cartelera de Fury vs AJ 🍿"
   },
   {
+   "title": "WBA orders Teofimo Lopez to face Jack Catterall",
+   "link": "https://www.badlefthook.com/boxing-news/120299/wba-orders-teofimo-lopez-to-face-jack-catterall",
+   "source": "Bad Left Hook",
+   "lang": "en",
+   "date": "2026-11-11T20:25:49-05:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 94,
+   "sources_n": 4,
+   "title_it": "La WBA ordina a Teofimo Lopez di affrontare Jack Catterall",
+   "title_es": "La WBA ordena a Teófimo López enfrentarse a Jack Catterall"
+  },
+  {
    "title": "Netflix announces two more fights for Fury-Joshua card",
    "link": "https://www.reddit.com/r/Boxing/comments/1xtsmjt/netflix_announces_two_more_fights_for_furyjoshua/",
    "source": "Reddit r/Boxing",
@@ -545,7 +558,7 @@
    "date": "2026-11-11T19:53:28+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 82,
+   "score": 81,
    "sources_n": 2,
    "title_it": "La potenza di Artur Beterbiev! Beterbiev dovrebbe passare ai Cruiserweight per Benavidez o restare alla LHW e puntare alla trilogia Bivol?",
    "title_es": "¡Poder de Artur Beterbiev! ¿Beterbiev debería subir al peso crucero para Benavidez o quedarse en LHW e ir por la trilogía Bivol?"
@@ -1488,7 +1501,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 125,
+   "score": 124,
    "sources_n": 15,
    "title_it": "Il vincitore di Tyson Fury vs Anthony Joshua deve essere ordinato al campione \"hard done by\" dopo lo scontro",
    "title_es": "Al ganador de Tyson Fury vs. Anthony Joshua se le debe ordenar que \"lo haga duro\" campeón después del enfrentamiento"
@@ -2190,7 +2203,7 @@
    "date": "2026-11-10T17:52:50+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 69,
+   "score": 68,
    "sources_n": 4,
    "title_it": "Jake Paul e Cedric Doumbe si scambiarono due parole mentre si affrontavano per la prima volta 👀",
    "title_es": "Jake Paul y Cedric Doumbe intercambiaron palabras mientras se enfrentaban por primera vez 👀"
@@ -2934,7 +2947,7 @@
    "date": "2026-11-09T23:52:42+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 70,
+   "score": 69,
    "sources_n": 6,
    "title_it": "Foto: David Benavidez anticipa la lotta di Cieslak durante l'allenamento con i media",
    "title_es": "Fotos: David Benavidez adelanta la pelea de Cieslak en el entrenamiento de medios"
@@ -3077,7 +3090,7 @@
    "date": "2026-11-09T19:52:58+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 21,
+   "score": 20,
    "sources_n": 1,
    "title_it": "Un peso massimo perde un dente e un promotore rimane ferito quando i tifosi invadono il ring",
    "title_es": "Un peso pesado pierde un diente y un promotor resulta herido cuando los aficionados invaden el ring"
@@ -3171,7 +3184,7 @@
    "date": "2026-11-09T17:54:25+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 50,
+   "score": 49,
    "sources_n": 5,
    "title_it": "Alycia Baumgardner elimina Elif Nur Turhan e vince il titolo dei pesi leggeri IBF",
    "title_es": "Alycia Baumgardner supera a Elif Nur Turhan para ganar el título de peso ligero de la FIB"
@@ -4058,23 +4071,10 @@
    "date": "2026-11-08T19:42:57+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 10,
-   "sources_n": 2,
+   "score": 0,
+   "sources_n": 1,
    "title_it": "Lotte per il titolo da tutto il mondo: Pedro Taduran vittorioso ancora una volta",
    "title_es": "Peleas por el título en todo el mundo: Pedro Taduran vuelve a ganar"
-  },
-  {
-   "title": "Title fights from around the world: Pedro Taduran victorious once again - Yahoo Sports",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQS3hjNWRPRS01N0lGR045aGtGcVhpekxiTFp3QUY2YjNsdFV3Z0wtREZvMjh1LXVwOEpDNXVhODZkSlhRd001WmVsNVNqaGRYSVdNVHFuUjZhSVNtMVNBTVVyd2tLWHFFVFlkUVNJSGZGX01Rc1BBNkFIeEFxTDFvc29RalQxWEU?oc=5",
-   "source": "Google News: boxing",
-   "lang": "en",
-   "date": "2026-11-08T19:42:57+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 10,
-   "sources_n": 2,
-   "title_it": "Incontri per il titolo da tutto il mondo: Pedro Taduran vince ancora - Yahoo Sports",
-   "title_es": "Combates por títulos de todo el mundo: Pedro Taduran vuelve a alzarse con la victoria - Yahoo Sports"
   }
  ]
 }
