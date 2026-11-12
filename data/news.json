@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-12T16:55:35+00:00",
- "feeds_ok": 49,
- "feeds_failed": 4,
+ "updated": "2026-11-12T16:57:00+00:00",
+ "feeds_ok": 48,
+ "feeds_failed": 5,
  "news": [
   {
    "title": "\"It Won't Last Four Rounds!\" Shane McGuigan Makes Tyson Fury vs Anthony Joshua BOLD Prediction",
@@ -1021,7 +1021,7 @@
    "date": "2026-11-12T02:56:20+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 23,
+   "score": 22,
    "sources_n": 1,
    "title_it": "“Passo Falso” di Lucas Schaefer: identità fluide, questioni di razza e una palestra di pugilato nel Texas gentrificato - ilLibraio.it",
    "title_es": "«Passo Falso» de Lucas Schaefer: identidades fluidas, cuestiones raciales y un gimnasio de boxeo en el Texas gentrificado - ilLibraio.it"
@@ -2660,7 +2660,7 @@
    "date": "2026-11-10T20:56:17+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 8,
+   "score": 7,
    "sources_n": 1,
    "title_it": "Dei suoi 22 KO, QUESTO è il preferito di Vergil Ortiz Jr.",
    "title_es": "De sus 22 nocauts, ESTE es el favorito de Vergil Ortiz Jr."
@@ -2796,7 +2796,7 @@
    "date": "2026-11-10T18:56:06+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 17,
+   "score": 16,
    "sources_n": 2,
    "title_it": "Carlos Adames vs Gerome Warburton: pronostico e scheda di combattimento per il 14 novembre",
    "title_es": "Carlos Adames vs Gerome Warburton: carta de predicción y pelea para el 14 de noviembre"
@@ -2993,19 +2993,6 @@
    "sources_n": 4,
    "title_it": "La gala de la Convención WBC en Acapulco celebra la grandeza y la solidaridad del boxeo - World Boxing Council",
    "title_es": "La gala de la Convención WBC en Acapulco celebra la grandeza y la solidaridad del boxeo - World Boxing Council"
-  },
-  {
-   "title": "Nelson Hysa has that one-punch KO power 💥",
-   "link": "https://www.youtube.com/watch?v=ppEzedgAfls",
-   "source": "YouTube DAZN Boxing",
-   "lang": "en",
-   "date": "2026-11-10T16:00:36+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 13,
-   "sources_n": 1,
-   "title_it": "Nelson Hysa ha il potere di mettere KO con un solo pugno 💥",
-   "title_es": "Nelson Hysa tiene ese poder de KO con un solo golpe 💥"
   },
   {
    "title": "Una vittoria, un pari e una sconfitta per i giovani dell’Underdog all’evento “Fight4Naples” - La Stampa",
@@ -4079,6 +4066,19 @@
    "sources_n": 4,
    "title_it": "Alycia Baumgardner surclassa Elif Nur Turhan e diventa campionessa del mondo dei pesi due, vincendo il titolo IBF dei pesi leggeri - Sky Sports",
    "title_es": "Alycia Baumgardner supera a Elif Nur Turhan para convertirse en campeona mundial de dos pesos y ganar el título de peso ligero de la FIB – Sky Sports"
+  },
+  {
+   "title": "A Cervia un evento dedicato allo sport: presenti anche diversi campioni olimpici - RavennaToday",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcl9hdzVkWjBJMXBiY1hKOVNMQ3RxbzBRMXZPNkJYWGtUOGI5WTVReGVaM1RzN3V1LVB1eklKWlFrMS1SMjFLcE9lYm5RVHgyeE1VQU9FV29TWlh5TUlOUDZPaFNyQ0xTR2lXY3U4UjluazR4cHJVdDBkQk9JYzcwdHpIZmJENHQ1cXU4X2lOR2hRSGRSSHhidXpzczhPVW5MOUNrWDFISE5pZXdXbW0wdURBckRGYndoSmlmVW5pTUN1VEZNTUxyVHFVa0RxdGk2TDdVa2VnUW5GQQ?oc=5",
+   "source": "Google News: pugilato",
+   "lang": "it",
+   "date": "2026-11-09T11:40:00+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 0,
+   "sources_n": 1,
+   "title_it": "A Cervia un evento dedicato allo sport: presenti anche diversi campioni olimpici - RavennaToday",
+   "title_es": "Un evento dedicado al deporte en Cervia: también presentes varios campeones olímpicos - RavennaToday"
   }
  ]
 }
