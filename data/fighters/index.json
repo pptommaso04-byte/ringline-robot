@@ -3250,7 +3250,7 @@
  },
  "Rosendo Álvarez": {
   "slug": "rosendo-alvarez",
-  "updated": "2026-11-10T04:45:58+00:00",
+  "updated": "2026-11-13T04:50:46+00:00",
   "total": 43,
   "verified": 0,
   "record": {
@@ -3266,7 +3266,7 @@
  },
  "Ali Feliz": {
   "slug": "ali-feliz",
-  "updated": "2026-11-10T04:46:05+00:00",
+  "updated": "2026-11-13T04:50:51+00:00",
   "total": 7,
   "verified": 0,
   "record": {
@@ -44007,5 +44007,38 @@
   "langs": [
    "en"
   ]
+ },
+ "Ted Bami": {
+  "slug": "ted-bami",
+  "updated": "2026-11-13T04:50:54+00:00",
+  "total": 33,
+  "verified": 0,
+  "record": {
+   "w": 26,
+   "l": 7,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Teke Oruh": {
+  "slug": "teke-oruh",
+  "updated": "2026-11-13T04:50:57+00:00",
+  "total": 18,
+  "verified": 0,
+  "record": {
+   "w": 14,
+   "l": 3,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Fırat Karagöllü": {
+  "tried": "2026-11-13T04:50:41+00:00"
  }
 }
