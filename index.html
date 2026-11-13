@@ -404,7 +404,8 @@ Object.keys(B).forEach(function(og){[1,2,3].forEach(function(lv){B[og][lv].forEa
 OT.forEach(function(b){if(b.toLowerCase().indexOf(q)>-1)r.push(["🏆",b])});
 NEWS.forEach(function(n){if(n.ti[L].toLowerCase().indexOf(q)>-1)r.push(["📰",n.ti[L]])});
 FI.forEach(function(f){if(f.n.toLowerCase().indexOf(q)>-1)r.push(["🥊",f.n+" · "+f.i])});EV.forEach(function(e){e.b.forEach(function(x){if((x[0]+" "+x[1]).toLowerCase().indexOf(q)>-1)r.push(["🥊",x[0]+" vs "+x[1]+" · "+e.d])})});var sn={};Object.keys(RDX).forEach(function(w){Object.keys(RDX[w]).forEach(function(o){RDX[w][o].r.forEach(function(x){var n=x.split("|")[0];if(n!=="Vacant"&&!sn[n]&&n.toLowerCase().indexOf(q)>-1){sn[n]=1;r.push(["👤",n+" · "+o+" "+LB[w]+" lb",n])}})})});
-o.innerHTML=r.length?'<div class="card">'+r.slice(0,20).map(function(x){return"<div>"+x[0]+" "+(x[2]?'<span class="pn" role="button" tabindex="0" data-n="'+esc(x[2])+'">'+esc(x[1])+"</span>":esc(x[1]))+"</div>"}).join("")+"</div>":'<p class="m">'+t("noRes")+"</p>"}
+Object.keys(FIDX).forEach(function(n){var v=FIDX[n];if(v&&v.slug&&!sn[n]&&n.toLowerCase().indexOf(q)>-1){sn[n]=1;var rc=v.record||{};r.push(["👤",n+" · "+(rc.w||0)+"-"+(rc.l||0)+"-"+(rc.d||0)+" ("+(v.total||0)+(L==="it"?" incontri)":L==="es"?" combates)":" fights)"),n])}});
+o.innerHTML=r.length?'<div class="card">'+r.slice(0,30).map(function(x){return"<div>"+x[0]+" "+(x[2]?'<span class="pn" role="button" tabindex="0" data-n="'+esc(x[2])+'">'+esc(x[1])+"</span>":esc(x[1]))+"</div>"}).join("")+"</div>":'<p class="m">'+t("noRes")+"</p>"}
 document.getElementById("q").oninput=rSearch;
 document.getElementById("pgo").onclick=function(){if(!USR){alert(t("loginV"));show("account");return}if(STK>=3){rDream();return}
 var a=document.getElementById("pa").value.trim(),b=document.getElementById("pb").value.trim();if(!a||!b)return;
@@ -412,5 +413,15 @@ var txt=(a+" "+b).toLowerCase();if(BAD.some(function(w){return txt.indexOf(w)>-1
 DR.push({a:a,b:b,v:1});sv("nb_dr",DR);document.getElementById("pa").value="";document.getElementById("pb").value="";rDream()};
 function all(){document.documentElement.lang=L;document.querySelectorAll("[data-i]").forEach(function(e){e.textContent=t(e.dataset.i)});document.querySelectorAll("[data-ph]").forEach(function(e){e.placeholder=t(e.dataset.ph)});rNav();rFav();rNews();rB();rFights();rDream();rCall();rGuide();rAcc();rSearch()}
 var lg=document.getElementById("lg");lg.value=L;lg.onchange=function(){L=lg.value;sv("nb_l",L);all()};
-all();loadRobot();setInterval(loadRobot,300000);
+var RKURL="https://raw.githubusercontent.com/pptommaso04-byte/ringline-robot/main/data/rankings.json",FIURL="https://raw.githubusercontent.com/pptommaso04-byte/ringline-robot/main/data/fighters/index.json",FIDX={};
+var WIDX={"Strawweight":0,"Junior Flyweight":1,"Flyweight":2,"Junior Bantamweight":3,"Bantamweight":4,"Junior Featherweight":5,"Featherweight":6,"Junior Lightweight":7,"Lightweight":8,"Junior Welterweight":9,"Welterweight":10,"Junior Middleweight":11,"Middleweight":12,"Super Middleweight":13,"Light Heavyweight":14,"Cruiserweight":15,"Heavyweight":16};
+function loadRank(){try{fetch(RKURL,{cache:"no-store"}).then(function(r){return r.json()}).then(function(j){var S=j.sources||{},ch=0;
+[["WBC","WBC"],["WBA","WBA"],["IBF","IBF"],["WBO","WBO"],["RING","Ring"]].forEach(function(p){var s=S[p[0]];if(!s||!s.divisions)return;var og=p[1];
+Object.keys(s.divisions).forEach(function(dn){var w=WIDX[dn];if(w===undefined)return;var x=s.divisions[dn];if(!x.ranks||x.ranks.length<5)return;
+RDX[w]=RDX[w]||{};var d=RDX[w][og];if(!d)d=RDX[w][og]={u:"",s:[],t:[],m:"",r:[],cov:og==="Ring"?["Championship"]:["World","Interim"],W:false};
+d.r=x.ranks.map(function(y){return y.name});d.u=on(og)+" · "+String(s.read||"").slice(0,10)+(L==="it"?" · letta dal robot":L==="es"?" · leída por el robot":" · read by the robot");d.s=[[s.label||p[0],s.url||"https://box-rank.com/"]];
+if(x.champion&&x.champion.name&&og!=="WBA"){var ck=og==="Ring"?"Championship":"World",f=d.t.filter(function(y){return y[0]===ck})[0];if(f)f[1]=x.champion.name;else d.t.unshift([ck,x.champion.name]);ch++}})});
+build();rB();rSearch()}).catch(function(){})}catch(e){}
+try{fetch(FIURL,{cache:"no-store"}).then(function(r){return r.json()}).then(function(j){FIDX=j||{};rSearch()}).catch(function(){})}catch(e){}}
+all();loadRobot();loadRank();setInterval(loadRobot,300000);setInterval(loadRank,1800000);
 </script></body></html>
