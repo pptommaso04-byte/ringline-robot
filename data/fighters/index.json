@@ -7935,7 +7935,7 @@
  },
  "Kai Ishizawa": {
   "slug": "kai-ishizawa",
-  "updated": "2026-11-10T14:15:58+00:00",
+  "updated": "2026-11-13T14:20:46+00:00",
   "total": 15,
   "verified": 0,
   "record": {
@@ -7950,7 +7950,7 @@
  },
  "Senan Kelly": {
   "slug": "senan-kelly",
-  "updated": "2026-11-10T14:16:02+00:00",
+  "updated": "2026-11-13T14:20:49+00:00",
   "total": 10,
   "verified": 0,
   "record": {
@@ -7965,7 +7965,7 @@
  },
  "Cristobal Lorente": {
   "slug": "cristobal-lorente",
-  "updated": "2026-11-10T14:16:05+00:00",
+  "updated": "2026-11-13T14:20:44+00:00",
   "total": 24,
   "verified": 0,
   "record": {
@@ -46002,6 +46002,36 @@
    "l": 3,
    "d": 0,
    "nc": 1
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "David Díaz (boxer)": {
+  "slug": "david-diaz-boxer",
+  "updated": "2026-11-13T14:20:52+00:00",
+  "total": 41,
+  "verified": 0,
+  "record": {
+   "w": 36,
+   "l": 4,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Óscar Larios": {
+  "slug": "oscar-larios",
+  "updated": "2026-11-13T14:20:55+00:00",
+  "total": 71,
+  "verified": 0,
+  "record": {
+   "w": 63,
+   "l": 7,
+   "d": 1,
+   "nc": 0
   },
   "langs": [
    "en"
