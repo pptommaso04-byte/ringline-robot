@@ -4268,7 +4268,7 @@
  },
  "Joshua Edwards (boxer)": {
   "slug": "joshua-edwards-boxer",
-  "updated": "2026-11-10T07:10:56+00:00",
+  "updated": "2026-11-13T07:15:54+00:00",
   "total": 7,
   "verified": 0,
   "record": {
@@ -44281,5 +44281,41 @@
    "fr",
    "pt"
   ]
+ },
+ "Daniel Judah": {
+  "slug": "daniel-judah",
+  "updated": "2026-11-13T07:15:58+00:00",
+  "total": 38,
+  "verified": 0,
+  "record": {
+   "w": 24,
+   "l": 11,
+   "d": 3,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Danny Perez Ramírez": {
+  "tried": "2026-11-13T07:15:50+00:00"
+ },
+ "Chad Van Sickle": {
+  "slug": "chad-van-sickle",
+  "updated": "2026-11-13T07:16:03+00:00",
+  "total": 35,
+  "verified": 0,
+  "record": {
+   "w": 23,
+   "l": 9,
+   "d": 3,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Mariusz Cendrowski": {
+  "tried": "2026-11-13T07:15:50+00:00"
  }
 }
