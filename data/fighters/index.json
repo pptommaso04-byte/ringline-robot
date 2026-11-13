@@ -4834,7 +4834,7 @@
  },
  "Logan Richardson (boxer)": {
   "slug": "logan-richardson-boxer",
-  "updated": "2026-11-10T08:31:02+00:00",
+  "updated": "2026-11-13T08:35:49+00:00",
   "total": 7,
   "verified": 0,
   "record": {
@@ -4852,7 +4852,7 @@
  },
  "Pierce O'Leary (boxer)": {
   "slug": "pierce-o-leary-boxer",
-  "updated": "2026-11-10T08:31:06+00:00",
+  "updated": "2026-11-13T08:35:52+00:00",
   "total": 20,
   "verified": 0,
   "record": {
@@ -44728,6 +44728,40 @@
   "langs": [
    "en",
    "pt"
+  ]
+ },
+ "Marco Angel Pérez": {
+  "tried": "2026-11-13T08:35:42+00:00"
+ },
+ "Martín Castillo (boxer)": {
+  "slug": "martin-castillo-boxer",
+  "updated": "2026-11-13T08:35:59+00:00",
+  "total": 39,
+  "verified": 0,
+  "record": {
+   "w": 35,
+   "l": 4,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "pt"
+  ]
+ },
+ "Vyacheslav Senchenko": {
+  "slug": "vyacheslav-senchenko",
+  "updated": "2026-11-13T08:36:04+00:00",
+  "total": 39,
+  "verified": 0,
+  "record": {
+   "w": 37,
+   "l": 2,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
   ]
  }
 }
