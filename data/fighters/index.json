@@ -6686,7 +6686,7 @@
  },
  "Eduardo Hernández (boxer)": {
   "slug": "eduardo-hernandez-boxer",
-  "updated": "2026-11-10T11:50:54+00:00",
+  "updated": "2026-11-13T11:55:43+00:00",
   "total": 39,
   "verified": 0,
   "record": {
@@ -6702,7 +6702,7 @@
  },
  "Eduardo Núñez (boxer)": {
   "slug": "eduardo-nunez-boxer",
-  "updated": "2026-11-10T11:50:59+00:00",
+  "updated": "2026-11-13T11:55:47+00:00",
   "total": 31,
   "verified": 0,
   "record": {
@@ -45255,6 +45255,39 @@
   "langs": [
    "en",
    "it"
+  ]
+ },
+ "Valery Yanchy": {
+  "slug": "valery-yanchy",
+  "updated": "2026-11-13T11:55:49+00:00",
+  "total": 32,
+  "verified": 0,
+  "record": {
+   "w": 25,
+   "l": 5,
+   "d": 2,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Giulian Ilie": {
+  "tried": "2026-11-13T11:55:39+00:00"
+ },
+ "Debendra Thapa": {
+  "slug": "debendra-thapa",
+  "updated": "2026-11-13T11:55:54+00:00",
+  "total": 28,
+  "verified": 0,
+  "record": {
+   "w": 20,
+   "l": 6,
+   "d": 1,
+   "nc": 1
+  },
+  "langs": [
+   "en"
   ]
  }
 }
