@@ -9592,7 +9592,7 @@
  },
  "Seiya Tsutsumi": {
   "slug": "seiya-tsutsumi",
-  "updated": "2026-11-10T16:46:05+00:00",
+  "updated": "2026-11-13T16:46:25+00:00",
   "total": 16,
   "verified": 0,
   "record": {
@@ -9610,7 +9610,7 @@
  },
  "Lamont Roach Jr.": {
   "slug": "lamont-roach-jr",
-  "updated": "2026-11-10T16:46:15+00:00",
+  "updated": "2026-11-13T16:46:30+00:00",
   "total": 30,
   "verified": 0,
   "record": {
@@ -46577,6 +46577,57 @@
   "langs": [
    "en",
    "fr"
+  ]
+ },
+ "Duda Yankovich": {
+  "slug": "duda-yankovich",
+  "updated": "2026-11-13T16:46:33+00:00",
+  "total": 15,
+  "verified": 15,
+  "record": {
+   "w": 11,
+   "l": 4,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "es",
+   "fr",
+   "pt"
+  ]
+ },
+ "Marcela Acuña": {
+  "slug": "marcela-acuna",
+  "updated": "2026-11-13T16:46:37+00:00",
+  "total": 66,
+  "verified": 0,
+  "record": {
+   "w": 53,
+   "l": 10,
+   "d": 3,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "fr"
+  ]
+ },
+ "Kertson Manswell": {
+  "slug": "kertson-manswell",
+  "updated": "2026-11-13T16:46:41+00:00",
+  "total": 37,
+  "verified": 0,
+  "record": {
+   "w": 26,
+   "l": 11,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "fr",
+   "pt"
   ]
  }
 }
