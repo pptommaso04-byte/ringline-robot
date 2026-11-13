@@ -1,8 +1,21 @@
 {
- "updated": "2026-11-13T21:50:47+00:00",
- "feeds_ok": 49,
- "feeds_failed": 4,
+ "updated": "2026-11-13T21:55:53+00:00",
+ "feeds_ok": 48,
+ "feeds_failed": 5,
  "news": [
+  {
+   "title": "Jaron Ennis and Josh Kelly meet face-to-face ahead of their 154lb unification bout 💪",
+   "link": "https://www.youtube.com/watch?v=MeHNdY7o4kA",
+   "source": "YouTube The Ring",
+   "lang": "en",
+   "date": "2026-11-13T21:52:08+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 102,
+   "sources_n": 6,
+   "title_it": "Jaron Ennis e Josh Kelly si incontrano faccia a faccia prima del loro incontro di unificazione dei titoli nella categoria dei pesi superwelter 💪",
+   "title_es": "Jaron Ennis y Josh Kelly se ven las caras antes de su combate de unificación en el peso superwélter 💪"
+  },
   {
    "title": "FIRST FACE OFF: Jaron Boots Ennis Vs Josh Kelly 👑👑👑",
    "link": "https://www.youtube.com/watch?v=IdvSqbLrpt0",
@@ -41,6 +54,19 @@
    "sources_n": 4,
    "title_it": "Tre scontri mozzafiato si abbattono sull'Arabia Saudita: cold open della Riyadh Season Zuffa Boxing 13",
    "title_es": "Tres enfrentamientos trepidantes llegan a Arabia Saudí: «cold open» de Zuffa Boxing 13 de la Riyadh Season"
+  },
+  {
+   "title": "Pontecagnano Faiano, Sofia Longo è vicecampionessa italiana Under 15 di pugilato con un argento ai Campionati nazionali - Salerno In Web",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPRUwtbHFBUkxYdjBYZ1NNdEtzbkVLTVJkVDhIRmFlOVhVRFhNbUVJbkFIMDZmQ0NMVlNtUFpkMk9rcndlcDNLQkd5ZktjM21jN2ppRV9ybUJIZGRvM0htYkhTQ1dHUXJ3S2xjcVNiSzRGMWtBT1VJTE9WZ29QMHN4am1kdENBVkpkVDl2VkFjT1FFMXhZMDA3YVpreGpzS2F5NlMzejNyV3RreXlsbnZFTERVdmRoZmRmNnhlQ2ZDRmJiRDFSRFRDSFlENmJjd0pacVBYZFpzUDhsVzJKT01fYmNCXzkwVTdhTXN6QU8zSU5JU2lhZDVfSlBlZ2lHUEk?oc=5",
+   "source": "Google News: pugilato",
+   "lang": "it",
+   "date": "2026-11-13T21:33:45+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 39,
+   "sources_n": 2,
+   "title_it": "Pontecagnano Faiano, Sofia Longo è vicecampionessa italiana Under 15 di pugilato con un argento ai Campionati nazionali - Salerno In Web",
+   "title_es": "Pontecagnano Faiano: Sofia Longo es subcampeona de Italia sub-15 de boxeo con una medalla de plata en los Campeonatos Nacionales - Salerno In Web"
   },
   {
    "title": "'He'll be a handful': Hearn surprised at Parker's potential world title shot - NZ Herald",
@@ -95,21 +121,6 @@
    "sources_n": 1,
    "title_it": "A 18 ANNI È GIÀ LA REGINA DELLA BOXE! Camila Zamorano vuole conquistare un'altra categoria - Azteca Bajío",
    "title_es": "¡A SUS 18 AÑOS YA ES REINA DEL BOXEO! Camila Zamorano quiere conquistar otra división - Azteca Bajío"
-  },
-  {
-   "title": "Viddal Riley backs himself to beat Oleksandr Usyk",
-   "link": "https://www.reddit.com/r/Boxing/comments/1xvin83/viddal_riley_backs_himself_to_beat_oleksandr_usyk/",
-   "source": "Reddit r/Boxing",
-   "lang": "en",
-   "date": "2026-11-13T20:23:12+00:00",
-   "status": "confirmed",
-   "boxers": [
-    "Oleksandr Usyk"
-   ],
-   "score": 122,
-   "sources_n": 8,
-   "title_it": "Viddal Riley scommette su se stesso per battere Oleksandr Usyk",
-   "title_es": "Viddal Riley confía en que vencerá a Oleksandr Usyk"
   },
   {
    "title": "Charlie Sheehy Faces Tough Test Against José Matías Romero – World Boxing Association",
@@ -289,7 +300,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 58,
-   "sources_n": 5,
+   "sources_n": 4,
    "title_it": "Citazioni dalla conferenza stampa di Viddal Riley contro Seydi Coupe e pronostico dell'incontro",
    "title_es": "Citas de la rueda de prensa de Viddal Riley vs. Seydi Coupe y pronóstico del combate"
   },
@@ -316,10 +327,23 @@
    "date": "2026-11-13T17:53:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 38,
+   "score": 37,
    "sources_n": 1,
    "title_it": "Riley è determinato a dimostrare di essere un futuro campione del mondo",
    "title_es": "Riley está decidido a demostrar que es un futuro campeón del mundo"
+  },
+  {
+   "title": "Franco Falcinelli, da Assisi alla guida del pugilato europeo - UmbriaJournal",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcnVyMVQtcTVWb0hSNnA1OXQzcURSdFE4cmFUWGloTWZ4bWNxOUk1eFprTXpQWFctY3lkY2hYd3dfVTc4WlhRNENMZG1hMUZwWHRRclBtYWlXYVRGbDJSNldDMGZtMGVqcDdnb050MUpjelBHZ0htWlVUVU5UenFWcVQyZ3VtcGdtYkh4czNoYUY1bU9zdWtLUWZ3ZXVFSDAxTUtTV3RB?oc=5",
+   "source": "Google News: pugilato",
+   "lang": "it",
+   "date": "2026-11-13T17:21:16+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 27,
+   "sources_n": 1,
+   "title_it": "Franco Falcinelli, da Assisi alla guida del pugilato europeo - UmbriaJournal",
+   "title_es": "Franco Falcinelli, de Asís al frente del boxeo europeo - UmbriaJournal"
   },
   {
    "title": "Concluye la 64.ª Convención del CMB con triunfo de Camila Zamorano en Acapulco - anews.mx",
@@ -513,23 +537,10 @@
    "date": "2026-11-13T16:00:10+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 92,
-   "sources_n": 3,
+   "score": 102,
+   "sources_n": 4,
    "title_it": "\"Stiamo assistendo a un momento di GRANDEZZA con Devin Haney!\" 👑 | Il pugile e lo scrittore",
    "title_es": "«¡Estamos viendo la GRANDEZA con Devin Haney!» 👑 | El boxeador y el escritor"
-  },
-  {
-   "title": "Pontecagnano Faiano, Sofia Longo è vicecampionessa italiana Under 15 di pugilato con un argento ai Campionati nazionali - Salerno In Web",
-   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPRUwtbHFBUkxYdjBYZ1NNdEtzbkVLTVJkVDhIRmFlOVhVRFhNbUVJbkFIMDZmQ0NMVlNtUFpkMk9rcndlcDNLQkd5ZktjM21jN2ppRV9ybUJIZGRvM0htYkhTQ1dHUXJ3S2xjcVNiSzRGMWtBT1VJTE9WZ29QMHN4am1kdENBVkpkVDl2VkFjT1FFMXhZMDA3YVpreGpzS2F5NlMzejNyV3RreXlsbnZFTERVdmRoZmRmNnhlQ2ZDRmJiRDFSRFRDSFlENmJjd0pacVBYZFpzUDhsVzJKT01fYmNCXzkwVTdhTXN6QU8zSU5JU2lhZDVfSlBlZ2lHUEk?oc=5",
-   "source": "Google News: pugilato",
-   "lang": "it",
-   "date": "2026-11-13T15:44:43+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 36,
-   "sources_n": 2,
-   "title_it": "Pontecagnano Faiano, Sofia Longo è vicecampionessa italiana Under 15 di pugilato con un argento ai Campionati nazionali - Salerno In Web",
-   "title_es": "Pontecagnano Faiano: Sofia Longo es subcampeona de Italia sub-15 de boxeo con una medalla de plata en los Campeonatos Nacionales - Salerno In Web"
   },
   {
    "title": "Chris Mannix: “Eddie Hearn tells @SInow he will pursue legal action if @WBABoxing reverses its decision to enforce Jack Catterall’s mandatory status. If Lopez vacates, Hearn hopes to make Catterall vs the winner of Haney-Paro in a three-belt unification next spring.”",
@@ -568,7 +579,7 @@
     "Oleksandr Usyk"
    ],
    "score": 111,
-   "sources_n": 8,
+   "sources_n": 7,
    "title_it": "Viddal Riley è sicuro di poter infliggere una prima sconfitta a Oleksandr Usyk 👀",
    "title_es": "Viddal Riley está seguro de que infligiría la primera derrota a Oleksandr Usyk 👀"
   },
@@ -609,7 +620,7 @@
     "Oleksandr Usyk"
    ],
    "score": 99,
-   "sources_n": 5,
+   "sources_n": 4,
    "title_it": "Kalle Sauerland sostiene Viddal Riley nella sua sfida per battere SIA Usyk che Opetaia 😤🔥",
    "title_es": "Kalle Sauerland apuesta por Viddal Riley para vencer TANTO a Usyk como a Opetaia 😤🔥"
   },
@@ -852,7 +863,7 @@
    "date": "2026-11-13T11:54:50+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 43,
+   "score": 42,
    "sources_n": 2,
    "title_it": "\"L'unica persona di cui ho paura\": Gavin Gwynne si ritirerà quando sua moglie glielo dirà, perché la carriera pugilistica è come \"un buon vino\"",
    "title_es": "«La única persona a la que le tengo miedo»: Gavin Gwynne se retirará cuando su mujer se lo diga, ya que una carrera en el boxeo es como «un buen vino»."
@@ -954,7 +965,7 @@
     "Oleksandr Usyk"
    ],
    "score": 109,
-   "sources_n": 16,
+   "sources_n": 15,
    "title_it": "Anthony Joshua spiega quale consiglio gli ha dato Oleksandr Usyk per l'incontro con Tyson Fury",
    "title_es": "Anthony Joshua explica qué consejo le dio Oleksandr Usyk para el combate contra Tyson Fury"
   },
@@ -1121,7 +1132,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 53,
-   "sources_n": 5,
+   "sources_n": 4,
    "title_it": "Sottocartellone di Viddal Riley vs Seydi Coupe: chi altro combatterà nell'attesissimo evento di Wembley?",
    "title_es": "Combates previos a Viddal Riley vs. Seydi Coupe: ¿Quién más pelea en el gran programa de Wembley?"
   },
@@ -1180,7 +1191,7 @@
     "Oleksandr Usyk"
    ],
    "score": 108,
-   "sources_n": 16,
+   "sources_n": 15,
    "title_it": "Anthony Joshua rivela il consiglio di Oleksandr Usyk per l'incontro con Tyson Fury",
    "title_es": "Anthony Joshua revela el consejo de Oleksandr Usyk para el combate contra Tyson Fury"
   },
@@ -1206,7 +1217,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 115,
-   "sources_n": 4,
+   "sources_n": 5,
    "title_it": "Il piano di Shakur Stevenson per diventare campione indiscusso dei pesi superleggeri si scontra con la sfida immediata di Muratalla",
    "title_es": "El plan de Shakur Stevenson para ser campeón indiscutible del peso superligero se enfrenta a la prueba inmediata de Muratalla"
   },
@@ -1407,7 +1418,7 @@
    "date": "2026-11-13T01:51:22+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 95,
+   "score": 94,
    "sources_n": 4,
    "title_it": "Diego Pacheco ha lasciato Sheeraz. Merita Canelo?",
    "title_es": "Diego Pacheco Falleció Sheeraz. ¿Se merece Canelo?"
@@ -1485,7 +1496,7 @@
    "date": "2026-11-12T23:52:08+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 39,
+   "score": 38,
    "sources_n": 1,
    "title_it": "Jai Opetaia lascia il titolo WBA World Regular e viene nominato sfidante obbligatorio WBC",
    "title_es": "Jai Opetaia deja vacante su título Mundial Regular AMB y es nombrado retador obligatorio del CMB"
@@ -1498,7 +1509,7 @@
    "date": "2026-11-12T23:52:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 19,
+   "score": 18,
    "sources_n": 1,
    "title_it": "Weekend di incontri: doppio appuntamento tra Gallarate e Gravellona Toce con il ritorno di Fabian Lafratta - La Prealpina",
    "title_es": "Fin de semana de encuentros: doble cita entre Gallarate y Gravellona Toce con el regreso de Fabian Lafratta - La Prealpina"
@@ -1618,7 +1629,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 48,
+   "score": 47,
    "sources_n": 2,
    "title_it": "Ben Shalom di BOXXER esplora un'azione legale dopo l'annuncio del combattimento Fury-Joshua di Martin Bakole",
    "title_es": "Ben Shalom de BOXXER explora acciones legales después de que se anunciara la pelea Fury-Joshua de Martin Bakole"
@@ -1631,7 +1642,7 @@
    "date": "2026-11-12T21:51:14+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 71,
+   "score": 70,
    "sources_n": 2,
    "title_it": "Paulie Malignaggi riassume le possibilità di Jai Opetaia di battere Deontay Wilder nei pesi massimi",
    "title_es": "Paulie Malignaggi resume las posibilidades de Jai Opetaia de vencer a Deontay Wilder en el peso pesado"
@@ -1723,7 +1734,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 92,
-   "sources_n": 6,
+   "sources_n": 7,
    "title_it": "\"EDDIE HEARN HA A CUORE I TUOI INTERESSI?\" Devin Haney FA UNA DOMANDA IMBARAZZANTE a Josh Kelly sull'incontro con Boots",
    "title_es": "«¿TIENE EDDIE HEARN TUS MEJORES INTERESES EN MENTE?» PREGUNTA INCÓMODA de Devin Haney a Josh Kelly sobre el combate con Boots"
   },
@@ -1767,6 +1778,19 @@
    "title_es": "Artur Beterbiev firma con el RCC"
   },
   {
+   "title": "\"SHAKUR WENT RADIO SILENT!\" Devin Haney & Eddie Hearn DEBATE, Talk Shakur Stevenson Collapse | ITR",
+   "link": "https://www.reddit.com/r/Boxing/comments/1xungx4/shakur_went_radio_silent_devin_haney_eddie_hearn/",
+   "source": "Reddit r/Boxing",
+   "lang": "en",
+   "date": "2026-11-12T20:16:45+00:00",
+   "status": "rumor",
+   "boxers": [],
+   "score": 92,
+   "sources_n": 13,
+   "title_it": "\"SHAKUR È SPARITO!\" Devin Haney ed Eddie Hearn DISCUTONO, parlano del crollo di Shakur Stevenson | ITR",
+   "title_es": "«¡SHAKUR SE HA QUEDADO EN SILENCIO RADIO!» DEBATE entre Devin Haney y Eddie Hearn, hablan del desplome de Shakur Stevenson | ITR"
+  },
+  {
    "title": "Vergil Ortiz Jr. on Why He's Moving Up to 160 to Face Keith Thurman",
    "link": "https://www.youtube.com/watch?v=r8Wdh4bDq00",
    "source": "YouTube PBC",
@@ -1778,19 +1802,6 @@
    "sources_n": 1,
    "title_it": "Vergil Ortiz Jr. spiega perché sta salendo a 160 per affrontare Keith Thurman",
    "title_es": "Vergil Ortiz Jr. explica por qué subirá a 160 para enfrentar a Keith Thurman"
-  },
-  {
-   "title": "Which one of these three should Canelo fight next? 🤔",
-   "link": "https://www.youtube.com/watch?v=7v9SlvFzp-E",
-   "source": "YouTube The Ring",
-   "lang": "en",
-   "date": "2026-11-12T19:57:02+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 42,
-   "sources_n": 1,
-   "title_it": "Quale di questi tre dovrebbe combattere Canelo il prossimo? 🤔",
-   "title_es": "¿Con cuál de estos tres debería pelear Canelo a continuación? 🤔"
   },
   {
    "title": "If Floyd beats Ryan",
@@ -2013,7 +2024,7 @@
    "date": "2026-11-12T15:51:53+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 15,
+   "score": 14,
    "sources_n": 1,
    "title_it": "Eddy Reynoso viene nominato Allenatore dell'anno 2026 dalla WBC, consolidando il suo record storico - El Diario de Sonora",
    "title_es": "Eddy Reynoso es nombrado Entrenador del Año 2026 por el CMB, consolidando su récord histórico - El Diario de Sonora"
@@ -2421,7 +2432,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 59,
-   "sources_n": 5,
+   "sources_n": 6,
    "title_it": "Kelly affronterà Ennis nel match di unificazione di febbraio",
    "title_es": "Kelly se enfrentará a Ennis en el combate de unificación de febrero"
   },
@@ -2476,7 +2487,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 59,
-   "sources_n": 5,
+   "sources_n": 6,
    "title_it": "L'incontro di unificazione tra Ennis e Kelly è previsto per febbraio ad Atlanta",
    "title_es": "El combate de unificación Ennis-Kelly se celebrará en febrero en Atlanta"
   },
@@ -2960,7 +2971,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 33,
-   "sources_n": 5,
+   "sources_n": 4,
    "title_it": "Viddal Riley contro Seydi Coupe: data, ora, diretta streaming, canale TV e programma mentre il britannico difende il titolo europeo dei pesi massimi leggeri",
    "title_es": "Viddal Riley vs. Seydi Coupe: fecha, hora, retransmisión en directo, canal de televisión y cartelera, con el británico defendiendo el título europeo del peso crucero"
   },
@@ -3574,8 +3585,8 @@
    "date": "2026-11-10T22:41:11-05:00",
    "status": "unverified",
    "boxers": [],
-   "score": 83,
-   "sources_n": 3,
+   "score": 93,
+   "sources_n": 4,
    "title_it": "\"Adoro combattere contro i mancini\": Devin Haney attende con impazienza l'unificazione con Liam Paro",
    "title_es": "«Me encanta pelear contra zurdos»: Devin Haney espera con ganas la unificación con Liam Paro"
   },
@@ -4009,7 +4020,7 @@
     "Oleksandr Usyk"
    ],
    "score": 85,
-   "sources_n": 13,
+   "sources_n": 12,
    "title_it": "Furia contro Usyk 3? | Frank Warren su Tyson Fury, il futuro di Oleksandr Usyk e Moses Itauma",
    "title_es": "¿Furia vs Usyk 3? | Frank Warren sobre Tyson Fury, el futuro de Oleksandr Usyk y Moses Itauma"
   },
@@ -4069,19 +4080,6 @@
    "sources_n": 1,
    "title_it": "A Chiarbola arrivano i migliori pugili del Fvg: è la Boxenight 10, ecco quando - TriestePrima",
    "title_es": "A Chiarbola llegan los mejores boxeadores de Friul-Venecia Julia: es la Boxenight 10, aquí tienes cuándo - TriestePrima"
-  },
-  {
-   "title": "Trieste Boxe Night 10, Sara Lombardi difende il titolo italiano femminile - Nordest24",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcVlNRjlIV1EtVVBXdHF1NHNJRm5NSTFUSkJlcmFfYjQ3dFRqU01pVnYzYV9NQ1l3UklIQ25ST25HcHMzX1Q3cHpJRDI0ZnItTnpjSEwxQUs4aTlzOXRjOUJCQjRqNlhXZTdlRlhaUXFCal9mNTltck5iY0ZOMkQxS1J4bFZDenpXd2VHVjdRbkItMGNWd3liazlPXzhfQQ?oc=5",
-   "source": "Google News: titolo italiano pugilato",
-   "lang": "it",
-   "date": "2026-11-10T12:57:00+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 0,
-   "sources_n": 1,
-   "title_it": "Trieste Boxe Night 10, Sara Lombardi difende il titolo italiano femminile - Nordest24",
-   "title_es": "Trieste Boxe Night 10, Sara Lombardi defiende el título italiano femenino - Nordest24"
   }
  ]
 }
