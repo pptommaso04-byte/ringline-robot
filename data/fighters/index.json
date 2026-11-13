@@ -12495,7 +12495,7 @@
  },
  "Carlos Cañizales": {
   "slug": "carlos-canizales",
-  "updated": "2026-11-10T22:14:33+00:00",
+  "updated": "2026-11-13T22:15:58+00:00",
   "total": 33,
   "verified": 0,
   "record": {
@@ -12522,7 +12522,7 @@
  },
  "Mike Reed (boxer)": {
   "slug": "mike-reed-boxer",
-  "updated": "2026-11-10T22:15:46+00:00",
+  "updated": "2026-11-13T22:16:02+00:00",
   "total": 27,
   "verified": 0,
   "record": {
@@ -12537,7 +12537,7 @@
  },
  "Alejandro González Jr.": {
   "slug": "alejandro-gonzalez-jr",
-  "updated": "2026-11-10T22:15:50+00:00",
+  "updated": "2026-11-13T22:16:08+00:00",
   "total": 55,
   "verified": 0,
   "record": {
@@ -12552,7 +12552,7 @@
  },
  "Tsotne Rogava": {
   "slug": "tsotne-rogava",
-  "updated": "2026-11-10T22:15:52+00:00",
+  "updated": "2026-11-13T22:16:11+00:00",
   "total": 30,
   "verified": 0,
   "record": {
@@ -48201,5 +48201,20 @@
  },
  "Roberto David Arrieta": {
   "tried": "2026-11-13T22:06:05+00:00"
+ },
+ "Parkpoom Jangphonak": {
+  "slug": "parkpoom-jangphonak",
+  "updated": "2026-11-13T22:16:15+00:00",
+  "total": 14,
+  "verified": 0,
+  "record": {
+   "w": 9,
+   "l": 5,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
