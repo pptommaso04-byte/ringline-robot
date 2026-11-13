@@ -7311,7 +7311,7 @@
  },
  "Saul Sanchez (boxer)": {
   "slug": "saul-sanchez-boxer",
-  "updated": "2026-11-10T13:10:49+00:00",
+  "updated": "2026-11-13T13:15:54+00:00",
   "total": 26,
   "verified": 0,
   "record": {
@@ -7328,7 +7328,7 @@
  },
  "Caoimhín Agyarko": {
   "slug": "caoimhin-agyarko",
-  "updated": "2026-11-10T13:10:52+00:00",
+  "updated": "2026-11-13T13:15:56+00:00",
   "total": 19,
   "verified": 0,
   "record": {
@@ -7352,7 +7352,7 @@
  },
  "Michael Eifert": {
   "slug": "michael-eifert",
-  "updated": "2026-11-10T13:15:46+00:00",
+  "updated": "2026-11-13T13:15:59+00:00",
   "total": 15,
   "verified": 0,
   "record": {
@@ -45640,6 +45640,37 @@
   "langs": [
    "en",
    "fr"
+  ]
+ },
+ "Owen Beck (boxer)": {
+  "slug": "owen-beck-boxer",
+  "updated": "2026-11-13T13:16:04+00:00",
+  "total": 42,
+  "verified": 0,
+  "record": {
+   "w": 29,
+   "l": 13,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "pt"
+  ]
+ },
+ "Joan Guzmán": {
+  "slug": "joan-guzman",
+  "updated": "2026-11-13T13:16:08+00:00",
+  "total": 37,
+  "verified": 0,
+  "record": {
+   "w": 34,
+   "l": 1,
+   "d": 1,
+   "nc": 1
+  },
+  "langs": [
+   "en"
   ]
  }
 }
