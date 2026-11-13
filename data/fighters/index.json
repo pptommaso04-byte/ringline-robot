@@ -7861,7 +7861,7 @@
  },
  "ComedyShortsGamer": {
   "slug": "comedyshortsgamer",
-  "updated": "2026-11-10T14:05:40+00:00",
+  "updated": "2026-11-13T14:10:49+00:00",
   "total": 4,
   "verified": 3,
   "record": {
@@ -45908,6 +45908,54 @@
    "w": 37,
    "l": 2,
    "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Jan Zaveck": {
+  "slug": "jan-zaveck",
+  "updated": "2026-11-13T14:10:52+00:00",
+  "total": 40,
+  "verified": 0,
+  "record": {
+   "w": 35,
+   "l": 4,
+   "d": 0,
+   "nc": 1
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Mukhtarkhan Dildabekov": {
+  "tried": "2026-11-13T14:10:45+00:00"
+ },
+ "Joachim Alcine": {
+  "slug": "joachim-alcine",
+  "updated": "2026-11-13T14:10:56+00:00",
+  "total": 45,
+  "verified": 0,
+  "record": {
+   "w": 35,
+   "l": 8,
+   "d": 2,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Osamu Sato (boxer)": {
+  "slug": "osamu-sato-boxer",
+  "updated": "2026-11-13T14:11:01+00:00",
+  "total": 32,
+  "verified": 0,
+  "record": {
+   "w": 26,
+   "l": 3,
+   "d": 3,
    "nc": 0
   },
   "langs": [
