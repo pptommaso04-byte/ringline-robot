@@ -1,308 +1,3 @@
-2026-11-13T01:10:48+00:00 OK   BBC Sport Boxing: 41 articoli
-2026-11-13T01:10:48+00:00 OK   Sky Sports Boxing: 20 articoli
-2026-11-13T01:10:48+00:00 OK   The Guardian Boxing: 20 articoli
-2026-11-13T01:10:48+00:00 OK   Fightmag: 10 articoli
-2026-11-13T01:10:48+00:00 OK   Boxing News (UK): 15 articoli
-2026-11-13T01:10:48+00:00 OK   British Boxing News: 10 articoli
-2026-11-13T01:10:48+00:00 OK   Boxing Scene: 50 articoli
-2026-11-13T01:10:48+00:00 FAIL Boxing News 24: HTTPError HTTP Error 403: Forbidden
-2026-11-13T01:10:48+00:00 OK   Boxing Insider: 10 articoli
-2026-11-13T01:10:48+00:00 FAIL The Fight City: URLError <urlopen error timed out>
-2026-11-13T01:10:48+00:00 OK   Fightnews: 10 articoli
-2026-11-13T01:10:48+00:00 OK   Irish Boxing: 10 articoli
-2026-11-13T01:10:48+00:00 OK   Big Fight Weekend: 10 articoli
-2026-11-13T01:10:48+00:00 OK   Boxing Social: 15 articoli
-2026-11-13T01:10:48+00:00 OK   World Boxing News: 40 articoli
-2026-11-13T01:10:48+00:00 OK   Saddo Boxing: 10 articoli
-2026-11-13T01:10:48+00:00 OK   The Boxing Tribune: 10 articoli
-2026-11-13T01:10:48+00:00 OK   The Sweet Science: 10 articoli
-2026-11-13T01:10:48+00:00 OK   CBS Sports Boxing: 36 articoli
-2026-11-13T01:10:48+00:00 OK   Gazzetta dello Sport: 125 articoli
-2026-11-13T01:10:48+00:00 OK   Marca Boxeo: 49 articoli
-2026-11-13T01:10:48+00:00 FAIL The Ring: ValueError nessun articolo leggibile
-2026-11-13T01:10:48+00:00 OK   Bad Left Hook: 10 articoli
-2026-11-13T01:10:48+00:00 OK   East Side Boxing: 10 articoli
-2026-11-13T01:10:48+00:00 FAIL Boxing Junkie: ValueError nessun articolo leggibile
-2026-11-13T01:10:48+00:00 OK   Talksport Boxing: 100 articoli
-2026-11-13T01:10:48+00:00 OK   Daily Mirror Boxing: 20 articoli
-2026-11-13T01:10:48+00:00 OK   Telegraph Boxing: 115 articoli
-2026-11-13T01:10:48+00:00 OK   Daily Mail Boxing: 150 articoli
-2026-11-13T01:10:48+00:00 OK   The Sun Boxing: 28 articoli
-2026-11-13T01:10:48+00:00 OK   Yahoo Sports Boxing: 46 articoli
-2026-11-13T01:10:48+00:00 OK   Fox Sports Boxing: 28 articoli
-2026-11-13T01:10:48+00:00 OK   Boxing Channel: 10 articoli
-2026-11-13T01:10:48+00:00 OK   Marca Boxeo 2: 50 articoli
-2026-11-13T01:10:48+00:00 OK   Mundo Deportivo Boxeo: 100 articoli
-2026-11-13T01:10:48+00:00 OK   Infobae Boxeo: 7 articoli
-2026-11-13T01:10:48+00:00 OK   Sportface Pugilato: 50 articoli
-2026-11-13T01:10:48+00:00 OK   OA Sport Boxe: 21 articoli
-2026-11-13T01:10:48+00:00 OK   Google News: pugilato: 100 articoli
-2026-11-13T01:10:48+00:00 OK   Google News: boxe italiana: 33 articoli
-2026-11-13T01:10:48+00:00 OK   Google News: titolo italiano pugilato: 17 articoli
-2026-11-13T01:10:48+00:00 OK   Google News: boxing: 75 articoli
-2026-11-13T01:10:48+00:00 OK   Google News: boxeo: 66 articoli
-2026-11-13T01:10:48+00:00 OK   Reddit r/Boxing: 25 articoli
-2026-11-13T01:10:48+00:00 OK   YouTube DAZN Boxing: 15 articoli
-2026-11-13T01:10:48+00:00 OK   YouTube Matchroom Boxing: 15 articoli
-2026-11-13T01:10:48+00:00 FAIL YouTube Top Rank Boxing: ValueError canale non trovato
-2026-11-13T01:10:48+00:00 OK   YouTube PBC: 15 articoli
-2026-11-13T01:10:48+00:00 OK   YouTube The Ring: 15 articoli
-2026-11-13T01:10:48+00:00 OK   YouTube Sky Sports Boxing: 15 articoli
-2026-11-13T01:10:48+00:00 OK   YouTube Pro Boxing Fans: 15 articoli
-2026-11-13T01:10:48+00:00 OK   YouTube ESPN Boxing: 3 articoli
-2026-11-13T01:10:48+00:00 OK   YouTube Zuffa Boxing: 15 articoli
-2026-11-13T01:10:50+00:00 Traduzioni nuove 4, non riuscite 0
-2026-11-13T01:10:50+00:00 Scritte 300 notizie (feed ok 48, falliti 5)
-2026-11-13T01:10:54+00:00 STORICO OK   Juan Jose Landaeta: 37 incontri, 0 verificati (en)
-2026-11-13T01:10:56+00:00 STORICO NO   Asghar Ali Shah (boxer): tabella non trovata
-2026-11-13T01:10:58+00:00 STORICO NO   Paul Miller (boxer): tabella non trovata
-2026-11-13T01:11:00+00:00 STORICO NO   Mohammed Sahraoui: tabella non trovata
-2026-11-13T01:11:02+00:00 STORICO NO   Ruben Eduardo Acosta: tabella non trovata
-2026-11-13T01:11:03+00:00 Storico: aggiornati 1 pugili, in elenco 76+5 dall'elenco Wikidata, con dati 2409
-2026-11-13T01:15:40+00:00 OK   BBC Sport Boxing: 41 articoli
-2026-11-13T01:15:40+00:00 OK   Sky Sports Boxing: 20 articoli
-2026-11-13T01:15:40+00:00 OK   The Guardian Boxing: 20 articoli
-2026-11-13T01:15:40+00:00 OK   Fightmag: 10 articoli
-2026-11-13T01:15:40+00:00 OK   Boxing News (UK): 15 articoli
-2026-11-13T01:15:40+00:00 FAIL British Boxing News: ValueError nessun articolo leggibile
-2026-11-13T01:15:40+00:00 OK   Boxing Scene: 50 articoli
-2026-11-13T01:15:40+00:00 FAIL Boxing News 24: HTTPError HTTP Error 403: Forbidden
-2026-11-13T01:15:40+00:00 OK   Boxing Insider: 10 articoli
-2026-11-13T01:15:40+00:00 OK   The Fight City: 10 articoli
-2026-11-13T01:15:40+00:00 OK   Fightnews: 10 articoli
-2026-11-13T01:15:40+00:00 OK   Irish Boxing: 10 articoli
-2026-11-13T01:15:40+00:00 OK   Big Fight Weekend: 10 articoli
-2026-11-13T01:15:40+00:00 OK   Boxing Social: 15 articoli
-2026-11-13T01:15:40+00:00 OK   World Boxing News: 40 articoli
-2026-11-13T01:15:40+00:00 OK   Saddo Boxing: 10 articoli
-2026-11-13T01:15:40+00:00 OK   The Boxing Tribune: 10 articoli
-2026-11-13T01:15:40+00:00 OK   The Sweet Science: 10 articoli
-2026-11-13T01:15:40+00:00 OK   CBS Sports Boxing: 36 articoli
-2026-11-13T01:15:40+00:00 OK   Gazzetta dello Sport: 125 articoli
-2026-11-13T01:15:40+00:00 OK   Marca Boxeo: 49 articoli
-2026-11-13T01:15:40+00:00 FAIL The Ring: ValueError nessun articolo leggibile
-2026-11-13T01:15:40+00:00 OK   Bad Left Hook: 10 articoli
-2026-11-13T01:15:40+00:00 OK   East Side Boxing: 10 articoli
-2026-11-13T01:15:40+00:00 FAIL Boxing Junkie: ValueError nessun articolo leggibile
-2026-11-13T01:15:40+00:00 OK   Talksport Boxing: 100 articoli
-2026-11-13T01:15:40+00:00 OK   Daily Mirror Boxing: 20 articoli
-2026-11-13T01:15:40+00:00 OK   Telegraph Boxing: 115 articoli
-2026-11-13T01:15:40+00:00 OK   Daily Mail Boxing: 150 articoli
-2026-11-13T01:15:40+00:00 OK   The Sun Boxing: 28 articoli
-2026-11-13T01:15:40+00:00 OK   Yahoo Sports Boxing: 46 articoli
-2026-11-13T01:15:40+00:00 OK   Fox Sports Boxing: 28 articoli
-2026-11-13T01:15:40+00:00 OK   Boxing Channel: 10 articoli
-2026-11-13T01:15:40+00:00 OK   Marca Boxeo 2: 50 articoli
-2026-11-13T01:15:40+00:00 OK   Mundo Deportivo Boxeo: 100 articoli
-2026-11-13T01:15:40+00:00 OK   Infobae Boxeo: 7 articoli
-2026-11-13T01:15:40+00:00 OK   Sportface Pugilato: 50 articoli
-2026-11-13T01:15:40+00:00 OK   OA Sport Boxe: 21 articoli
-2026-11-13T01:15:40+00:00 OK   Google News: pugilato: 100 articoli
-2026-11-13T01:15:40+00:00 OK   Google News: boxe italiana: 33 articoli
-2026-11-13T01:15:40+00:00 OK   Google News: titolo italiano pugilato: 17 articoli
-2026-11-13T01:15:40+00:00 OK   Google News: boxing: 75 articoli
-2026-11-13T01:15:40+00:00 OK   Google News: boxeo: 67 articoli
-2026-11-13T01:15:40+00:00 FAIL Reddit r/Boxing: HTTPError HTTP Error 429: Too Many Requests
-2026-11-13T01:15:40+00:00 OK   YouTube DAZN Boxing: 15 articoli
-2026-11-13T01:15:40+00:00 OK   YouTube Matchroom Boxing: 15 articoli
-2026-11-13T01:15:40+00:00 FAIL YouTube Top Rank Boxing: ValueError canale non trovato
-2026-11-13T01:15:40+00:00 OK   YouTube PBC: 15 articoli
-2026-11-13T01:15:40+00:00 OK   YouTube The Ring: 15 articoli
-2026-11-13T01:15:40+00:00 OK   YouTube Sky Sports Boxing: 15 articoli
-2026-11-13T01:15:40+00:00 OK   YouTube Pro Boxing Fans: 15 articoli
-2026-11-13T01:15:40+00:00 OK   YouTube ESPN Boxing: 3 articoli
-2026-11-13T01:15:40+00:00 OK   YouTube Zuffa Boxing: 15 articoli
-2026-11-13T01:15:53+00:00 Traduzioni nuove 60, non riuscite 0
-2026-11-13T01:15:53+00:00 Scritte 300 notizie (feed ok 47, falliti 6)
-2026-11-13T01:15:53+00:00 CLASSIFICHE FAIL TBRB: HTTPError HTTP Error 403: Forbidden
-2026-11-13T01:15:55+00:00 CLASSIFICHE OK WBA: 17 divisioni, 254 posizioni, p4p 0+0
-2026-11-13T01:16:14+00:00 CLASSIFICHE OK WBC: 18 divisioni, 708 posizioni
-2026-11-13T01:16:31+00:00 CLASSIFICHE OK IBF: 17 divisioni, 236 posizioni (mancano: Bridgerweight)
-2026-11-13T01:16:46+00:00 CLASSIFICHE OK WBO: 17 divisioni, 255 posizioni (mancano: Bridgerweight)
-2026-11-13T01:17:01+00:00 CLASSIFICHE OK RING: 17 divisioni, 170 posizioni (mancano: Bridgerweight)
-2026-11-13T01:17:04+00:00 STORICO NO   Pierre Celestin Yana: tabella non trovata
-2026-11-13T01:17:07+00:00 STORICO OK   Ria Ramnarine: 20 incontri, 0 verificati (en+de)
-2026-11-13T01:17:11+00:00 STORICO OK   Ran Nakash: 27 incontri, 0 verificati (en)
-2026-11-13T01:17:16+00:00 STORICO OK   Ruslan Chagaev: 38 incontri, 0 verificati (en+pt)
-2026-11-13T01:17:18+00:00 STORICO NO   Dante Craig: tabella non trovata
-2026-11-13T01:17:19+00:00 Storico: aggiornati 3 pugili, in elenco 76+5 dall'elenco Wikidata, con dati 2412
-2026-11-13T01:20:40+00:00 OK   BBC Sport Boxing: 41 articoli
-2026-11-13T01:20:40+00:00 OK   Sky Sports Boxing: 20 articoli
-2026-11-13T01:20:40+00:00 OK   The Guardian Boxing: 20 articoli
-2026-11-13T01:20:40+00:00 OK   Fightmag: 10 articoli
-2026-11-13T01:20:40+00:00 OK   Boxing News (UK): 15 articoli
-2026-11-13T01:20:40+00:00 OK   British Boxing News: 10 articoli
-2026-11-13T01:20:40+00:00 OK   Boxing Scene: 50 articoli
-2026-11-13T01:20:40+00:00 FAIL Boxing News 24: HTTPError HTTP Error 403: Forbidden
-2026-11-13T01:20:40+00:00 OK   Boxing Insider: 10 articoli
-2026-11-13T01:20:40+00:00 OK   The Fight City: 10 articoli
-2026-11-13T01:20:40+00:00 OK   Fightnews: 10 articoli
-2026-11-13T01:20:40+00:00 OK   Irish Boxing: 10 articoli
-2026-11-13T01:20:40+00:00 OK   Big Fight Weekend: 10 articoli
-2026-11-13T01:20:40+00:00 OK   Boxing Social: 15 articoli
-2026-11-13T01:20:40+00:00 OK   World Boxing News: 40 articoli
-2026-11-13T01:20:40+00:00 OK   Saddo Boxing: 10 articoli
-2026-11-13T01:20:40+00:00 OK   The Boxing Tribune: 10 articoli
-2026-11-13T01:20:40+00:00 OK   The Sweet Science: 10 articoli
-2026-11-13T01:20:40+00:00 OK   CBS Sports Boxing: 36 articoli
-2026-11-13T01:20:40+00:00 OK   Gazzetta dello Sport: 125 articoli
-2026-11-13T01:20:40+00:00 OK   Marca Boxeo: 49 articoli
-2026-11-13T01:20:40+00:00 FAIL The Ring: ValueError nessun articolo leggibile
-2026-11-13T01:20:40+00:00 OK   Bad Left Hook: 10 articoli
-2026-11-13T01:20:40+00:00 OK   East Side Boxing: 10 articoli
-2026-11-13T01:20:40+00:00 FAIL Boxing Junkie: ValueError nessun articolo leggibile
-2026-11-13T01:20:40+00:00 OK   Talksport Boxing: 100 articoli
-2026-11-13T01:20:40+00:00 OK   Daily Mirror Boxing: 20 articoli
-2026-11-13T01:20:40+00:00 OK   Telegraph Boxing: 115 articoli
-2026-11-13T01:20:40+00:00 OK   Daily Mail Boxing: 150 articoli
-2026-11-13T01:20:40+00:00 OK   The Sun Boxing: 28 articoli
-2026-11-13T01:20:40+00:00 OK   Yahoo Sports Boxing: 46 articoli
-2026-11-13T01:20:40+00:00 OK   Fox Sports Boxing: 28 articoli
-2026-11-13T01:20:40+00:00 OK   Boxing Channel: 10 articoli
-2026-11-13T01:20:40+00:00 OK   Marca Boxeo 2: 50 articoli
-2026-11-13T01:20:40+00:00 OK   Mundo Deportivo Boxeo: 100 articoli
-2026-11-13T01:20:40+00:00 OK   Infobae Boxeo: 7 articoli
-2026-11-13T01:20:40+00:00 OK   Sportface Pugilato: 50 articoli
-2026-11-13T01:20:40+00:00 OK   OA Sport Boxe: 21 articoli
-2026-11-13T01:20:40+00:00 OK   Google News: pugilato: 100 articoli
-2026-11-13T01:20:40+00:00 OK   Google News: boxe italiana: 33 articoli
-2026-11-13T01:20:40+00:00 OK   Google News: titolo italiano pugilato: 17 articoli
-2026-11-13T01:20:40+00:00 OK   Google News: boxing: 75 articoli
-2026-11-13T01:20:40+00:00 OK   Google News: boxeo: 67 articoli
-2026-11-13T01:20:40+00:00 OK   Reddit r/Boxing: 25 articoli
-2026-11-13T01:20:40+00:00 OK   YouTube DAZN Boxing: 15 articoli
-2026-11-13T01:20:40+00:00 OK   YouTube Matchroom Boxing: 15 articoli
-2026-11-13T01:20:40+00:00 FAIL YouTube Top Rank Boxing: ValueError canale non trovato
-2026-11-13T01:20:40+00:00 OK   YouTube PBC: 15 articoli
-2026-11-13T01:20:40+00:00 OK   YouTube The Ring: 15 articoli
-2026-11-13T01:20:40+00:00 OK   YouTube Sky Sports Boxing: 15 articoli
-2026-11-13T01:20:40+00:00 OK   YouTube Pro Boxing Fans: 15 articoli
-2026-11-13T01:20:40+00:00 OK   YouTube ESPN Boxing: 3 articoli
-2026-11-13T01:20:40+00:00 OK   YouTube Zuffa Boxing: 15 articoli
-2026-11-13T01:21:11+00:00 Traduzioni nuove 60, non riuscite 0
-2026-11-13T01:21:11+00:00 Scritte 300 notizie (feed ok 49, falliti 4)
-2026-11-13T01:21:14+00:00 STORICO NO   Andry Laffita: tabella non trovata
-2026-11-13T01:21:20+00:00 STORICO OK   Shane Chapman: 89 incontri, 0 verificati (en)
-2026-11-13T01:21:22+00:00 STORICO NO   Rezkalla Mohamed Abdelrehim: tabella non trovata
-2026-11-13T01:21:27+00:00 STORICO OK   Cory Spinks: 47 incontri, 0 verificati (en)
-2026-11-13T01:21:29+00:00 STORICO NO   Abudureheman Abulikemu: tabella non trovata
-2026-11-13T01:21:30+00:00 Storico: aggiornati 2 pugili, in elenco 76+5 dall'elenco Wikidata, con dati 2414
-2026-11-13T01:25:34+00:00 OK   BBC Sport Boxing: 41 articoli
-2026-11-13T01:25:34+00:00 OK   Sky Sports Boxing: 20 articoli
-2026-11-13T01:25:34+00:00 OK   The Guardian Boxing: 20 articoli
-2026-11-13T01:25:34+00:00 OK   Fightmag: 10 articoli
-2026-11-13T01:25:34+00:00 OK   Boxing News (UK): 15 articoli
-2026-11-13T01:25:34+00:00 OK   British Boxing News: 10 articoli
-2026-11-13T01:25:34+00:00 OK   Boxing Scene: 50 articoli
-2026-11-13T01:25:34+00:00 FAIL Boxing News 24: HTTPError HTTP Error 403: Forbidden
-2026-11-13T01:25:34+00:00 OK   Boxing Insider: 10 articoli
-2026-11-13T01:25:34+00:00 OK   The Fight City: 10 articoli
-2026-11-13T01:25:34+00:00 OK   Fightnews: 10 articoli
-2026-11-13T01:25:34+00:00 OK   Irish Boxing: 10 articoli
-2026-11-13T01:25:34+00:00 OK   Big Fight Weekend: 10 articoli
-2026-11-13T01:25:34+00:00 OK   Boxing Social: 15 articoli
-2026-11-13T01:25:34+00:00 OK   World Boxing News: 40 articoli
-2026-11-13T01:25:34+00:00 OK   Saddo Boxing: 10 articoli
-2026-11-13T01:25:34+00:00 OK   The Boxing Tribune: 10 articoli
-2026-11-13T01:25:34+00:00 OK   The Sweet Science: 10 articoli
-2026-11-13T01:25:34+00:00 OK   CBS Sports Boxing: 36 articoli
-2026-11-13T01:25:34+00:00 OK   Gazzetta dello Sport: 125 articoli
-2026-11-13T01:25:34+00:00 OK   Marca Boxeo: 49 articoli
-2026-11-13T01:25:34+00:00 FAIL The Ring: ValueError nessun articolo leggibile
-2026-11-13T01:25:34+00:00 OK   Bad Left Hook: 10 articoli
-2026-11-13T01:25:34+00:00 OK   East Side Boxing: 10 articoli
-2026-11-13T01:25:34+00:00 FAIL Boxing Junkie: ValueError nessun articolo leggibile
-2026-11-13T01:25:34+00:00 OK   Talksport Boxing: 100 articoli
-2026-11-13T01:25:34+00:00 OK   Daily Mirror Boxing: 20 articoli
-2026-11-13T01:25:34+00:00 OK   Telegraph Boxing: 115 articoli
-2026-11-13T01:25:34+00:00 OK   Daily Mail Boxing: 150 articoli
-2026-11-13T01:25:34+00:00 OK   The Sun Boxing: 28 articoli
-2026-11-13T01:25:34+00:00 OK   Yahoo Sports Boxing: 46 articoli
-2026-11-13T01:25:34+00:00 OK   Fox Sports Boxing: 28 articoli
-2026-11-13T01:25:34+00:00 OK   Boxing Channel: 10 articoli
-2026-11-13T01:25:34+00:00 OK   Marca Boxeo 2: 50 articoli
-2026-11-13T01:25:34+00:00 OK   Mundo Deportivo Boxeo: 100 articoli
-2026-11-13T01:25:34+00:00 OK   Infobae Boxeo: 7 articoli
-2026-11-13T01:25:34+00:00 OK   Sportface Pugilato: 50 articoli
-2026-11-13T01:25:34+00:00 OK   OA Sport Boxe: 21 articoli
-2026-11-13T01:25:34+00:00 OK   Google News: pugilato: 100 articoli
-2026-11-13T01:25:34+00:00 OK   Google News: boxe italiana: 33 articoli
-2026-11-13T01:25:34+00:00 OK   Google News: titolo italiano pugilato: 16 articoli
-2026-11-13T01:25:34+00:00 OK   Google News: boxing: 74 articoli
-2026-11-13T01:25:34+00:00 OK   Google News: boxeo: 67 articoli
-2026-11-13T01:25:34+00:00 OK   Reddit r/Boxing: 25 articoli
-2026-11-13T01:25:34+00:00 OK   YouTube DAZN Boxing: 15 articoli
-2026-11-13T01:25:34+00:00 OK   YouTube Matchroom Boxing: 15 articoli
-2026-11-13T01:25:34+00:00 FAIL YouTube Top Rank Boxing: ValueError canale non trovato
-2026-11-13T01:25:34+00:00 OK   YouTube PBC: 15 articoli
-2026-11-13T01:25:34+00:00 OK   YouTube The Ring: 15 articoli
-2026-11-13T01:25:34+00:00 OK   YouTube Sky Sports Boxing: 15 articoli
-2026-11-13T01:25:34+00:00 OK   YouTube Pro Boxing Fans: 15 articoli
-2026-11-13T01:25:34+00:00 OK   YouTube ESPN Boxing: 3 articoli
-2026-11-13T01:25:34+00:00 OK   YouTube Zuffa Boxing: 15 articoli
-2026-11-13T01:25:35+00:00 Traduzioni nuove 8, non riuscite 0
-2026-11-13T01:25:35+00:00 Scritte 300 notizie (feed ok 49, falliti 4)
-2026-11-13T01:25:38+00:00 STORICO NO   Babak Moghimi: tabella non trovata
-2026-11-13T01:25:46+00:00 STORICO OK   Alexey Ignashov: 71 incontri, 0 verificati (en+fr)
-2026-11-13T01:25:47+00:00 STORICO NO   Rico Tan: tabella non trovata
-2026-11-13T01:25:53+00:00 STORICO OK   Yutaka Niida: 28 incontri, 0 verificati (en)
-2026-11-13T01:25:56+00:00 STORICO NO   David Estrada (boxer): tabella non trovata
-2026-11-13T01:25:57+00:00 Storico: aggiornati 2 pugili, in elenco 76+5 dall'elenco Wikidata, con dati 2416
-2026-11-13T01:30:14+00:00 OK   BBC Sport Boxing: 41 articoli
-2026-11-13T01:30:14+00:00 OK   Sky Sports Boxing: 20 articoli
-2026-11-13T01:30:14+00:00 OK   The Guardian Boxing: 20 articoli
-2026-11-13T01:30:14+00:00 OK   Fightmag: 10 articoli
-2026-11-13T01:30:14+00:00 OK   Boxing News (UK): 15 articoli
-2026-11-13T01:30:14+00:00 OK   British Boxing News: 10 articoli
-2026-11-13T01:30:14+00:00 OK   Boxing Scene: 50 articoli
-2026-11-13T01:30:14+00:00 FAIL Boxing News 24: HTTPError HTTP Error 403: Forbidden
-2026-11-13T01:30:14+00:00 OK   Boxing Insider: 10 articoli
-2026-11-13T01:30:14+00:00 OK   The Fight City: 10 articoli
-2026-11-13T01:30:14+00:00 OK   Fightnews: 10 articoli
-2026-11-13T01:30:14+00:00 OK   Irish Boxing: 10 articoli
-2026-11-13T01:30:14+00:00 OK   Big Fight Weekend: 10 articoli
-2026-11-13T01:30:14+00:00 OK   Boxing Social: 15 articoli
-2026-11-13T01:30:14+00:00 OK   World Boxing News: 40 articoli
-2026-11-13T01:30:14+00:00 OK   Saddo Boxing: 10 articoli
-2026-11-13T01:30:14+00:00 OK   The Boxing Tribune: 10 articoli
-2026-11-13T01:30:14+00:00 OK   The Sweet Science: 10 articoli
-2026-11-13T01:30:14+00:00 OK   CBS Sports Boxing: 36 articoli
-2026-11-13T01:30:14+00:00 OK   Gazzetta dello Sport: 125 articoli
-2026-11-13T01:30:14+00:00 OK   Marca Boxeo: 49 articoli
-2026-11-13T01:30:14+00:00 FAIL The Ring: ValueError nessun articolo leggibile
-2026-11-13T01:30:14+00:00 OK   Bad Left Hook: 10 articoli
-2026-11-13T01:30:14+00:00 OK   East Side Boxing: 10 articoli
-2026-11-13T01:30:14+00:00 FAIL Boxing Junkie: ValueError nessun articolo leggibile
-2026-11-13T01:30:14+00:00 OK   Talksport Boxing: 100 articoli
-2026-11-13T01:30:14+00:00 OK   Daily Mirror Boxing: 20 articoli
-2026-11-13T01:30:14+00:00 OK   Telegraph Boxing: 115 articoli
-2026-11-13T01:30:14+00:00 OK   Daily Mail Boxing: 150 articoli
-2026-11-13T01:30:14+00:00 OK   The Sun Boxing: 28 articoli
-2026-11-13T01:30:14+00:00 OK   Yahoo Sports Boxing: 46 articoli
-2026-11-13T01:30:14+00:00 FAIL Fox Sports Boxing: TimeoutError The read operation timed out
-2026-11-13T01:30:14+00:00 OK   Boxing Channel: 10 articoli
-2026-11-13T01:30:14+00:00 OK   Marca Boxeo 2: 50 articoli
-2026-11-13T01:30:14+00:00 OK   Mundo Deportivo Boxeo: 100 articoli
-2026-11-13T01:30:14+00:00 OK   Infobae Boxeo: 7 articoli
-2026-11-13T01:30:14+00:00 OK   Sportface Pugilato: 50 articoli
-2026-11-13T01:30:14+00:00 OK   OA Sport Boxe: 21 articoli
-2026-11-13T01:30:14+00:00 OK   Google News: pugilato: 100 articoli
-2026-11-13T01:30:14+00:00 OK   Google News: boxe italiana: 33 articoli
-2026-11-13T01:30:14+00:00 OK   Google News: titolo italiano pugilato: 16 articoli
-2026-11-13T01:30:14+00:00 OK   Google News: boxing: 74 articoli
-2026-11-13T01:30:14+00:00 OK   Google News: boxeo: 67 articoli
-2026-11-13T01:30:14+00:00 OK   Reddit r/Boxing: 25 articoli
-2026-11-13T01:30:14+00:00 OK   YouTube DAZN Boxing: 15 articoli
-2026-11-13T01:30:14+00:00 OK   YouTube Matchroom Boxing: 15 articoli
-2026-11-13T01:30:14+00:00 FAIL YouTube Top Rank Boxing: ValueError canale non trovato
-2026-11-13T01:30:14+00:00 OK   YouTube PBC: 15 articoli
-2026-11-13T01:30:14+00:00 OK   YouTube The Ring: 15 articoli
-2026-11-13T01:30:14+00:00 OK   YouTube Sky Sports Boxing: 15 articoli
-2026-11-13T01:30:14+00:00 OK   YouTube Pro Boxing Fans: 15 articoli
-2026-11-13T01:30:14+00:00 OK   YouTube ESPN Boxing: 3 articoli
-2026-11-13T01:30:14+00:00 OK   YouTube Zuffa Boxing: 15 articoli
-2026-11-13T01:30:17+00:00 Traduzioni nuove 3, non riuscite 0
-2026-11-13T01:30:17+00:00 Scritte 300 notizie (feed ok 48, falliti 5)
 2026-11-13T01:30:25+00:00 STORICO OK   Malcolm Tann: 31 incontri, 0 verificati (en)
 2026-11-13T01:30:27+00:00 STORICO NO   Paulus Ali Nuumbembe: tabella non trovata
 2026-11-13T01:30:29+00:00 STORICO NO   Malik Bouziane: tabella non trovata
@@ -553,3 +248,64 @@
 2026-11-13T01:45:58+00:00 STORICO OK   Janne Katajisto: 19 incontri, 0 verificati (en)
 2026-11-13T01:46:00+00:00 STORICO NO   Ait Hammi Miloud: tabella non trovata
 2026-11-13T01:46:01+00:00 Storico: aggiornati 2 pugili, in elenco 76+5 dall'elenco Wikidata, con dati 2428
+2026-11-13T01:50:50+00:00 OK   BBC Sport Boxing: 41 articoli
+2026-11-13T01:50:50+00:00 OK   Sky Sports Boxing: 20 articoli
+2026-11-13T01:50:50+00:00 OK   The Guardian Boxing: 20 articoli
+2026-11-13T01:50:50+00:00 OK   Fightmag: 10 articoli
+2026-11-13T01:50:50+00:00 OK   Boxing News (UK): 15 articoli
+2026-11-13T01:50:50+00:00 OK   British Boxing News: 10 articoli
+2026-11-13T01:50:50+00:00 OK   Boxing Scene: 50 articoli
+2026-11-13T01:50:50+00:00 FAIL Boxing News 24: HTTPError HTTP Error 403: Forbidden
+2026-11-13T01:50:50+00:00 OK   Boxing Insider: 10 articoli
+2026-11-13T01:50:50+00:00 OK   The Fight City: 10 articoli
+2026-11-13T01:50:50+00:00 OK   Fightnews: 10 articoli
+2026-11-13T01:50:50+00:00 OK   Irish Boxing: 10 articoli
+2026-11-13T01:50:50+00:00 OK   Big Fight Weekend: 10 articoli
+2026-11-13T01:50:50+00:00 OK   Boxing Social: 15 articoli
+2026-11-13T01:50:50+00:00 OK   World Boxing News: 40 articoli
+2026-11-13T01:50:50+00:00 OK   Saddo Boxing: 10 articoli
+2026-11-13T01:50:50+00:00 OK   The Boxing Tribune: 10 articoli
+2026-11-13T01:50:50+00:00 OK   The Sweet Science: 10 articoli
+2026-11-13T01:50:50+00:00 OK   CBS Sports Boxing: 36 articoli
+2026-11-13T01:50:50+00:00 OK   Gazzetta dello Sport: 125 articoli
+2026-11-13T01:50:50+00:00 OK   Marca Boxeo: 49 articoli
+2026-11-13T01:50:50+00:00 FAIL The Ring: ValueError nessun articolo leggibile
+2026-11-13T01:50:50+00:00 OK   Bad Left Hook: 10 articoli
+2026-11-13T01:50:50+00:00 OK   East Side Boxing: 10 articoli
+2026-11-13T01:50:50+00:00 FAIL Boxing Junkie: ValueError nessun articolo leggibile
+2026-11-13T01:50:50+00:00 OK   Talksport Boxing: 100 articoli
+2026-11-13T01:50:50+00:00 OK   Daily Mirror Boxing: 20 articoli
+2026-11-13T01:50:50+00:00 OK   Telegraph Boxing: 115 articoli
+2026-11-13T01:50:50+00:00 OK   Daily Mail Boxing: 150 articoli
+2026-11-13T01:50:50+00:00 OK   The Sun Boxing: 28 articoli
+2026-11-13T01:50:50+00:00 OK   Yahoo Sports Boxing: 46 articoli
+2026-11-13T01:50:50+00:00 FAIL Fox Sports Boxing: TimeoutError The read operation timed out
+2026-11-13T01:50:50+00:00 OK   Boxing Channel: 10 articoli
+2026-11-13T01:50:50+00:00 OK   Marca Boxeo 2: 50 articoli
+2026-11-13T01:50:50+00:00 OK   Mundo Deportivo Boxeo: 100 articoli
+2026-11-13T01:50:50+00:00 OK   Infobae Boxeo: 7 articoli
+2026-11-13T01:50:50+00:00 OK   Sportface Pugilato: 50 articoli
+2026-11-13T01:50:50+00:00 OK   OA Sport Boxe: 21 articoli
+2026-11-13T01:50:50+00:00 OK   Google News: pugilato: 100 articoli
+2026-11-13T01:50:50+00:00 OK   Google News: boxe italiana: 33 articoli
+2026-11-13T01:50:50+00:00 OK   Google News: titolo italiano pugilato: 16 articoli
+2026-11-13T01:50:50+00:00 OK   Google News: boxing: 73 articoli
+2026-11-13T01:50:50+00:00 OK   Google News: boxeo: 67 articoli
+2026-11-13T01:50:50+00:00 OK   Reddit r/Boxing: 25 articoli
+2026-11-13T01:50:50+00:00 OK   YouTube DAZN Boxing: 15 articoli
+2026-11-13T01:50:50+00:00 OK   YouTube Matchroom Boxing: 15 articoli
+2026-11-13T01:50:50+00:00 FAIL YouTube Top Rank Boxing: ValueError canale non trovato
+2026-11-13T01:50:50+00:00 OK   YouTube PBC: 15 articoli
+2026-11-13T01:50:50+00:00 OK   YouTube The Ring: 15 articoli
+2026-11-13T01:50:50+00:00 OK   YouTube Sky Sports Boxing: 15 articoli
+2026-11-13T01:50:50+00:00 OK   YouTube Pro Boxing Fans: 15 articoli
+2026-11-13T01:50:50+00:00 OK   YouTube ESPN Boxing: 3 articoli
+2026-11-13T01:50:50+00:00 OK   YouTube Zuffa Boxing: 15 articoli
+2026-11-13T01:50:51+00:00 Traduzioni nuove 7, non riuscite 0
+2026-11-13T01:50:51+00:00 Scritte 300 notizie (feed ok 48, falliti 5)
+2026-11-13T01:50:53+00:00 STORICO NO   Marcin Rekowski: tabella non trovata
+2026-11-13T01:51:00+00:00 STORICO OK   James Moore (boxer): 220 incontri, 0 verificati (en)
+2026-11-13T01:51:02+00:00 STORICO NO   Jackson Chanet: tabella non trovata
+2026-11-13T01:51:04+00:00 STORICO NO   Kurban Günebakan: tabella non trovata
+2026-11-13T01:51:05+00:00 STORICO NO   Kevin McIntyre (boxer): tabella non trovata
+2026-11-13T01:51:06+00:00 Storico: aggiornati 1 pugili, in elenco 76+5 dall'elenco Wikidata, con dati 2429
