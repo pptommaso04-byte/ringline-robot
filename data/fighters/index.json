@@ -7067,7 +7067,7 @@
  },
  "Umar Dzambekov": {
   "slug": "umar-dzambekov",
-  "updated": "2026-11-10T12:40:53+00:00",
+  "updated": "2026-11-13T12:45:46+00:00",
   "total": 12,
   "verified": 0,
   "record": {
@@ -45491,5 +45491,53 @@
  },
  "Felix Flores": {
   "tried": "2026-11-13T12:40:45+00:00"
+ },
+ "Tomasz Adamek": {
+  "slug": "tomasz-adamek",
+  "updated": "2026-11-13T12:45:50+00:00",
+  "total": 59,
+  "verified": 0,
+  "record": {
+   "w": 53,
+   "l": 6,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Colin Kenna": {
+  "tried": "2026-11-13T12:45:43+00:00"
+ },
+ "Attila Levin": {
+  "slug": "attila-levin",
+  "updated": "2026-11-13T12:45:55+00:00",
+  "total": 39,
+  "verified": 0,
+  "record": {
+   "w": 35,
+   "l": 4,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Steve Hérélius": {
+  "slug": "steve-herelius",
+  "updated": "2026-11-13T12:45:58+00:00",
+  "total": 27,
+  "verified": 0,
+  "record": {
+   "w": 21,
+   "l": 5,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
