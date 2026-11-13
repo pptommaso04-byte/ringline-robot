@@ -13251,7 +13251,7 @@
  },
  "Reiya Abe": {
   "slug": "reiya-abe",
-  "updated": "2026-11-10T23:31:14+00:00",
+  "updated": "2026-11-13T23:35:39+00:00",
   "total": 33,
   "verified": 0,
   "record": {
@@ -48536,6 +48536,44 @@
   },
   "langs": [
    "en"
+  ]
+ },
+ "Christopher Downs": {
+  "tried": "2026-11-13T23:35:35+00:00"
+ },
+ "Clarence Adams (boxer)": {
+  "tried": "2026-11-13T23:35:35+00:00"
+ },
+ "Marco Antonio Barrera": {
+  "slug": "marco-antonio-barrera",
+  "updated": "2026-11-13T23:35:46+00:00",
+  "total": 75,
+  "verified": 0,
+  "record": {
+   "w": 67,
+   "l": 7,
+   "d": 0,
+   "nc": 1
+  },
+  "langs": [
+   "en",
+   "it"
+  ]
+ },
+ "Timo Hoffmann": {
+  "slug": "timo-hoffmann",
+  "updated": "2026-11-13T23:35:49+00:00",
+  "total": 51,
+  "verified": 0,
+  "record": {
+   "w": 40,
+   "l": 8,
+   "d": 2,
+   "nc": 1
+  },
+  "langs": [
+   "en",
+   "es"
   ]
  }
 }
