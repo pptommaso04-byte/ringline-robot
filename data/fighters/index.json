@@ -6526,7 +6526,7 @@
  },
  "Alexander Devyatov": {
   "slug": "alexander-devyatov",
-  "updated": "2026-11-10T11:31:32+00:00",
+  "updated": "2026-11-13T11:35:47+00:00",
   "total": 16,
   "verified": 0,
   "record": {
@@ -6541,7 +6541,7 @@
  },
  "Tonga Tongotongo": {
   "slug": "tonga-tongotongo",
-  "updated": "2026-11-10T11:31:35+00:00",
+  "updated": "2026-11-13T11:35:49+00:00",
   "total": 10,
   "verified": 0,
   "record": {
@@ -45135,5 +45135,38 @@
  },
  "Bato-Munko Vankeev": {
   "tried": "2026-11-13T11:31:17+00:00"
+ },
+ "Conjestina Achieng": {
+  "slug": "conjestina-achieng",
+  "updated": "2026-11-13T11:35:52+00:00",
+  "total": 27,
+  "verified": 0,
+  "record": {
+   "w": 17,
+   "l": 6,
+   "d": 4,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Anne Sophie Mathis": {
+  "slug": "anne-sophie-mathis",
+  "updated": "2026-11-13T11:35:56+00:00",
+  "total": 33,
+  "verified": 0,
+  "record": {
+   "w": 27,
+   "l": 4,
+   "d": 1,
+   "nc": 1
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Mikhail Biarnadski": {
+  "tried": "2026-11-13T11:35:44+00:00"
  }
 }

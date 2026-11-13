@@ -1,8 +1,24 @@
 {
- "updated": "2026-11-13T11:31:17+00:00",
- "feeds_ok": 48,
- "feeds_failed": 5,
+ "updated": "2026-11-13T11:35:43+00:00",
+ "feeds_ok": 49,
+ "feeds_failed": 4,
  "news": [
+  {
+   "title": "Where to watch Tyson Fury vs Anthony Joshua plus talkSPORT coverage for mega-fight",
+   "link": "https://talksport.com/boxing/4446831/where-to-watch-tyson-fury-anthony-joshua-channel-live-stream-commentary/",
+   "source": "Talksport Boxing",
+   "lang": "en",
+   "date": "2026-11-13T11:35:21+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Tyson Fury",
+    "Anthony Joshua"
+   ],
+   "score": 122,
+   "sources_n": 15,
+   "title_it": "Dove guardare Tyson Fury contro Anthony Joshua e la copertura di talkSPORT per il mega-incontro",
+   "title_es": "Dónde ver el combate entre Tyson Fury y Anthony Joshua, además de la cobertura de talkSPORT del gran combate"
+  },
   {
    "title": "Tyson Fury vs Anthony Joshua date and start time plus confirmed venue for December showdown",
    "link": "https://talksport.com/boxing/4522107/tyson-fury-vs-anthony-joshua-fight-date-venue-confirmed/",
@@ -185,7 +201,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 132,
+   "score": 131,
    "sources_n": 16,
    "title_it": "L'ex campione dei pesi massimi Riddick Bowe riassume le possibilità di Anthony Joshua di battere Tyson Fury",
    "title_es": "El ex campeón de los pesos pesados Riddick Bowe resume las posibilidades de Anthony Joshua de vencer a Tyson Fury"
@@ -655,7 +671,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 74,
-   "sources_n": 5,
+   "sources_n": 4,
    "title_it": "Notizie di inscatolamento: Arminius Roller approvato per il titolo mondiale giovanile WBA a 16 anni »12 novembre 2026 - FightNews",
    "title_es": "Boxing News: Arminius Roller aprobado para el título mundial juvenil de la AMB a los 16 años »12 de noviembre de 2026 - FightNews"
   },
@@ -865,8 +881,8 @@
    "date": "2026-11-12T21:33:38+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 73,
-   "sources_n": 4,
+   "score": 62,
+   "sources_n": 3,
    "title_it": "Arminius Rolle approvato per il titolo mondiale giovanile WBA a 16 anni",
    "title_es": "Arminius Rolle aprobado para el título mundial juvenil de la AMB a los 16 años"
   },
@@ -1099,7 +1115,7 @@
    "date": "2026-11-12T19:33:52+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 62,
+   "score": 61,
    "sources_n": 3,
    "title_it": "Floyd Schofield Jnr-Jose “Rayo” Valenzuela ordinato dalla WBA",
    "title_es": "Floyd Schofield Jr-José “Rayo” Valenzuela ordenado por la AMB"
@@ -1193,7 +1209,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 85,
-   "sources_n": 8,
+   "sources_n": 7,
    "title_it": "Il sogno del titolo mondiale di Floyd Mayweather rinasce dopo l'inaspettato annuncio di Ryan Garcia per il 2027 - RingSide24",
    "title_es": "El sueño de Floyd Mayweather por el título mundial revivió después del inesperado anuncio de Ryan García para 2027 - RingSide24"
   },
@@ -1328,8 +1344,8 @@
    "date": "2026-11-12T15:58:29+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 40,
-   "sources_n": 3,
+   "score": 30,
+   "sources_n": 2,
    "title_it": "Duranguense Valeria Amparán sale al quarto posto nella classifica mondiale World Boxing 2026 - El Siglo de Durango",
    "title_es": "Duranguense Valeria Amparán escala al cuarto lugar del ranking mundial de World Boxing 2026 - El Siglo de Durango"
   },
@@ -1354,7 +1370,7 @@
    "date": "2026-11-12T15:34:52+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 20,
+   "score": 19,
    "sources_n": 1,
    "title_it": "Boxe, la palermitana Crystal Filardi trionfa ai campionati italiani under 15 e conquista l'oro - PalermoToday",
    "title_es": "Boxeo, Crystal Filardi de Palermo triunfa en el campeonato italiano sub 15 y gana el oro - PalermoToday"
@@ -1788,7 +1804,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 81,
-   "sources_n": 11,
+   "sources_n": 10,
    "title_it": "Floyd Mayweather, 49 anni, ottiene l'autorizzazione per la lotta per il titolo mondiale nonostante il ritiro mentre Ryan Garcia rivela la data dell'incontro del 2027 – Notizie H24",
    "title_es": "Floyd Mayweather, de 49 años, obtiene autorización para la pelea por el título mundial a pesar de su retiro mientras Ryan García revela la fecha de la pelea en 2027 Loving Valencia"
   },
@@ -1905,19 +1921,6 @@
    "title_es": "Se añaden dos combates a la velada preliminar de Fury vs. Joshua"
   },
   {
-   "title": "Pugilato: Luis Vela è campione Wbc International - La voce del Trentino",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb3FWVzBta0lWY0NCbC1PR3ZhQ29KNEp0cTh5Q3JxdXFiOFlhaVFUMnJYMG5ROGFmUXRDNEF1QXZjMVh4bE5YQUxyWEpQQk8tNGRybFNBWVhCckhaNEh1MzA1SWRFSnlYbU5wdm9IbnNLZjBTc3JfRW5hd2tWUjhZTDNrd0NmSXMyN0FB?oc=5",
-   "source": "Google News: pugilato",
-   "lang": "it",
-   "date": "2026-11-12T04:54:22+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 24,
-   "sources_n": 1,
-   "title_it": "Pugilato: Luis Vela è campione Wbc International - La voce del Trentino",
-   "title_es": "Boxeo: Luis Vela es campeón internacional del WBC - La voce del Trentino"
-  },
-  {
    "title": "Kieran Molloy Eyes World Title Shot and Possible All-Irish Rematch",
    "link": "https://www.irish-boxing.com/kieran-molloy-eyes-world-title-shot-and-possible-all-irish-rematch/",
    "source": "Irish Boxing",
@@ -1925,8 +1928,8 @@
    "date": "2026-11-12T04:47:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 54,
-   "sources_n": 4,
+   "score": 44,
+   "sources_n": 3,
    "title_it": "Kieran Molloy punta al titolo mondiale e a una possibile rivincita tutta irlandese",
    "title_es": "Kieran Molloy tiene la vista puesta en la oportunidad por el título mundial y en una posible revancha entre irlandeses"
   },
@@ -2412,6 +2415,19 @@
    "sources_n": 1,
    "title_it": "I tre migliori pugili britannici che non hanno mai vinto un titolo mondiale - talkSPORT",
    "title_es": "Los tres mejores boxeadores británicos que nunca ganaron un título mundial – talkSPORT"
+  },
+  {
+   "title": "Dal Trentino al trono del pugilato mondiale, il 20enne Luis Vela è campione Wbc International: \"Una grande dimostrazione di classe, tecnica e temperamento\" - il Dolomiti",
+   "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPQmpIemJYNFV5SGpMVE5YdGV3UmFoam9taUxmS2p3V1pfbGhOY2JzVjF2ZVpkSlpXUGNxTUgyNDlLcW5TOVhiQjFtZTJHM3FaVEU2dm4zUDdWQlVENTFqeC1NRW5PVHYwUENWOXY1amQ4TWRpN0tLSjlzWkdLeVh1Z2xDbmxvdnBOT0htczZrTGlYT2lxN3F2NUs3dUdjQVBwNm5BZzkxd2d0YXplNF9Ka09IaG9mQllna0dURjJPYVEwc1drSllobnVYdXd2dUxOeEVmOWtSTVRYZUhSMXYwNGk1UXVSY1lrbVBJZGx5UDJPWFo4ZUhOWXpaaXlGUW5qUUFRcVIweG13X2JEdkI1RWVjWHVYUQ?oc=5",
+   "source": "Google News: pugilato",
+   "lang": "it",
+   "date": "2026-11-11T17:45:58+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 19,
+   "sources_n": 1,
+   "title_it": "Dal Trentino al trono del pugilato mondiale, il 20enne Luis Vela è campione Wbc International: \"Una grande dimostrazione di classe, tecnica e temperamento\" - il Dolomiti",
+   "title_es": "Del Trentino al trono del boxeo mundial, el joven de 20 años Luis Vela es campeón del WBC International: «Una gran demostración de clase, técnica y temperamento» - Il Dolomiti"
   },
   {
    "title": "Pugilato: Luis Vela è campione Wbc International - L'Adige",
@@ -3031,6 +3047,19 @@
    "title_es": "Sigue los pasos de su abuelo y, con 8 años, ya es campeón: Salvatore, púgil palermitano - Balarm.it"
   },
   {
+   "title": "BoxMed, una herramienta clave para la salud de los boxeadores, destaca en la Convención del WBC en Acapulco - World Boxing Council",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSEF2Sms2dS1xVmpjaWVqTUtvenlUS1hBc0VraF9ST0JVeHFWUWtaSklsaXJIbnIzZFYxLWtPcHUyaGUtRW5vTjh4dlJEaDlJVEJRaFVMRUdBUFFzTEZxTGVOVEhaQTR2RzBtbS0wZzBKYjZaQ21QeUdMUER4MVNITkFEdW9jcjBIWEZSSzQwOF9xRG43QXV6LWpuWDZ2UHpPUXlKYWNUTGJ6Y3BieWN5Vnp4UElWRXJiQy1hY0NoUWQ0dElvbDJN?oc=5",
+   "source": "Google News: boxeo",
+   "lang": "es",
+   "date": "2026-11-11T04:19:16+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 22,
+   "sources_n": 2,
+   "title_it": "BoxMed, uno strumento fondamentale per la salute dei pugili, si distingue alla Convenzione del WBC ad Acapulco - World Boxing Council",
+   "title_es": "BoxMed, una herramienta clave para la salud de los boxeadores, destaca en la Convención del WBC en Acapulco - World Boxing Council"
+  },
+  {
    "title": "WBC Cares y campeones del mundo comparten una jornada de cariño en el Hogar Infantil Marsh - World Boxing Council",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPd050UHZZRTRDRVc3a0M5YVhYeEdySS1FYjdvMENYSUlXRHUtTzhLWk8wSE5YQU5QaXN1TTFfa2Q3cUNfV2RNLW4yT2ZaTjB4RWdTOEVKTXllNUZDZVc0RWNHTEF6SUE1WjU2NWwxY3BNVWY5Y0F2N1EwbV9wV1kzdnRBQm9KSDB4WUhaSmFDeW91d05oOGtTanYxdGdBUWNPdXducy1BT0ZBeHZyU251bUV1NA?oc=5",
    "source": "Google News: boxeo",
@@ -3038,8 +3067,8 @@
    "date": "2026-11-11T04:03:51+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 32,
-   "sources_n": 3,
+   "score": 22,
+   "sources_n": 2,
    "title_it": "WBC Cares y campeones del mundo comparten una jornada de cariño en el Hogar Infantil Marsh - Consiglio Mondiale della Pugilato",
    "title_es": "WBC Cares y campeones del mundo comparten una jornada de cariño en el Hogar Infantil Marsh - World Boxing Council"
   },
@@ -3064,8 +3093,8 @@
    "date": "2026-11-11T02:06:53+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 31,
-   "sources_n": 3,
+   "score": 21,
+   "sources_n": 2,
    "title_it": "El WBC presenta sus rating oficiales tras escuchar a boxeadores y promotores en Acapulco - World Boxing Council",
    "title_es": "El WBC presenta sus ratings oficiales tras escuchar a boxeadores y promotores en Acapulco - World Boxing Council"
   },
@@ -3364,8 +3393,8 @@
    "date": "2026-11-10T17:50:49+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 30,
-   "sources_n": 3,
+   "score": 20,
+   "sources_n": 2,
    "title_it": "WBC fomenta el uso del correo postal desde Acapulco - World Boxing Council",
    "title_es": "WBC fomenta el uso del correo postal desde Acapulco - World Boxing Council"
   },
@@ -3461,8 +3490,8 @@
    "date": "2026-11-10T16:29:50+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 30,
-   "sources_n": 3,
+   "score": 20,
+   "sources_n": 2,
    "title_it": "La gala de la Convención WBC en Acapulco celebra la grandeza y la solidaridad del boxeo - World Boxing Council",
    "title_es": "La gala de la Convención WBC en Acapulco celebra la grandeza y la solidaridad del boxeo - World Boxing Council"
   },
@@ -3928,7 +3957,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 55,
-   "sources_n": 5,
+   "sources_n": 4,
    "title_it": "Lester tiene en la mira a Canelo - Consiglio Mondiale della Pugilato",
    "title_es": "Lester tiene en la mira a Canelo - World Boxing Council"
   },
@@ -4064,32 +4093,6 @@
    "sources_n": 1,
    "title_it": "Sei incontri, sei knock-out: Albina Moldazhanova firma con MVP",
    "title_es": "Seis combates, seis nocauts: Albina Moldazhanova ficha por MVP"
-  },
-  {
-   "title": "Boxing Belt Free-For-All as Eighth World Title Fuels Chaos",
-   "link": "https://www.worldboxingnews.com/boxing-eighth-world-title-chaos/",
-   "source": "World Boxing News",
-   "lang": "en",
-   "date": "2026-11-09T17:27:17+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 40,
-   "sources_n": 5,
-   "title_it": "Boxing Belt Free-For-All mentre l'ottavo titolo mondiale alimenta il caos",
-   "title_es": "Cinturón de boxeo todos contra todos mientras el octavo título mundial alimenta el caos"
-  },
-  {
-   "title": "Shera Mae Patricio and Brittany Sims battle to draw in WBA Bantamweight World Title fight - World Boxing Association",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMGVCM2JYN1cxcFprV0M0S3RVV1lXY3VTZlYzLV9FcW5NUmpFNUN4eWZtRUlWSk84dzY4OUc1TUNDaGVVQjEtTkI3bzIwSmhFTWZjLWhHVFVnUG9MNGNPV284YVlpS2Qzc0lTbHl5aS1CcV9UWmZXc2NhWGV1SlZEOHVWUGpjTDJKZFZ3ZUUyNkhUa3VOZl8xUm1sU3V4OU0yUjlOTVVQdXBOb0hFbTBrMTd1alBGcHVXNGdlMkRHSzg5bVJZdFE?oc=5",
-   "source": "Google News: boxing",
-   "lang": "en",
-   "date": "2026-11-09T17:21:07+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 50,
-   "sources_n": 5,
-   "title_it": "Shera Mae Patricio e Brittany Sims si affrontano per il titolo mondiale dei pesi gallo della WBA - World Boxing Association",
-   "title_es": "Shera Mae Patricio y Brittany Sims luchan por empatar en el combate por el título mundial del peso gallo de la WBA - Asociación Mundial de Boxeo"
   }
  ]
 }
