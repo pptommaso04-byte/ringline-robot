@@ -11494,7 +11494,7 @@
  },
  "Umar Salamov": {
   "slug": "umar-salamov",
-  "updated": "2026-11-10T20:50:51+00:00",
+  "updated": "2026-11-13T20:55:48+00:00",
   "total": 31,
   "verified": 0,
   "record": {
@@ -11511,7 +11511,7 @@
  },
  "Dilmurod Satybaldiev": {
   "slug": "dilmurod-satybaldiev",
-  "updated": "2026-11-10T20:50:53+00:00",
+  "updated": "2026-11-13T20:55:53+00:00",
   "total": 15,
   "verified": 0,
   "record": {
@@ -11526,7 +11526,7 @@
  },
  "Natalia Diachkova": {
   "slug": "natalia-diachkova",
-  "updated": "2026-11-10T20:50:55+00:00",
+  "updated": "2026-11-13T20:55:56+00:00",
   "total": 15,
   "verified": 0,
   "record": {
@@ -11541,7 +11541,7 @@
  },
  "Imam Khataev": {
   "slug": "imam-khataev",
-  "updated": "2026-11-10T20:50:58+00:00",
+  "updated": "2026-11-13T20:55:51+00:00",
   "total": 14,
   "verified": 0,
   "record": {
@@ -48017,5 +48017,20 @@
  },
  "Moez Zemzemi": {
   "tried": "2026-11-13T20:50:46+00:00"
+ },
+ "Taurus Sykes": {
+  "slug": "taurus-sykes",
+  "updated": "2026-11-13T20:55:59+00:00",
+  "total": 34,
+  "verified": 0,
+  "record": {
+   "w": 25,
+   "l": 8,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
