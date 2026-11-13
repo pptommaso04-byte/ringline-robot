@@ -12837,7 +12837,7 @@
  },
  "Shigabudin Aliev": {
   "slug": "shigabudin-aliev",
-  "updated": "2026-11-10T22:50:53+00:00",
+  "updated": "2026-11-13T22:51:16+00:00",
   "total": 14,
   "verified": 0,
   "record": {
@@ -48357,5 +48357,42 @@
  },
  "Hwang Sung-bum": {
   "tried": "2026-11-13T22:46:28+00:00"
+ },
+ "Gentiane Lupi": {
+  "tried": "2026-11-13T22:51:13+00:00"
+ },
+ "Mauricio Martínez (boxer)": {
+  "slug": "mauricio-martinez-boxer",
+  "updated": "2026-11-13T22:51:22+00:00",
+  "total": 61,
+  "verified": 0,
+  "record": {
+   "w": 56,
+   "l": 3,
+   "d": 2,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "it"
+  ]
+ },
+ "Munir Abukeshek": {
+  "tried": "2026-11-13T22:51:13+00:00"
+ },
+ "Troy Ross": {
+  "slug": "troy-ross",
+  "updated": "2026-11-13T22:51:28+00:00",
+  "total": 28,
+  "verified": 0,
+  "record": {
+   "w": 25,
+   "l": 3,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
