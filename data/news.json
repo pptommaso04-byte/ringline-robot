@@ -1,8 +1,21 @@
 {
- "updated": "2026-11-13T10:10:48+00:00",
+ "updated": "2026-11-13T10:15:59+00:00",
  "feeds_ok": 49,
  "feeds_failed": 4,
  "news": [
+  {
+   "title": "Jake Paul agrees to winner-takes-all bet with kickboxing legend Cedric Doumbe ahead of Christmas Eve fight",
+   "link": "https://www.thesun.co.uk/sport/41003691/jake-paul-agrees-winner-takes-all-bet-cedric-doumbe/",
+   "source": "The Sun Boxing",
+   "lang": "en",
+   "date": "2026-11-13T10:11:04+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 82,
+   "sources_n": 3,
+   "title_it": "Jake Paul accetta una scommessa \"il vincitore prende tutto\" con la leggenda del kickboxing Cedric Doumbe prima dell'incontro della vigilia di Natale",
+   "title_es": "Jake Paul acepta una apuesta de «todo para el ganador» con la leyenda del kickboxing Cédric Doumbé antes del combate de Nochebuena"
+  },
   {
    "title": "British knockout artist added to Jake Paul-Cédric Doumbé card",
    "link": "https://britishboxingnews.co.uk/news/british-ko-artist-paul-doumbe-card/",
@@ -412,15 +425,15 @@
   },
   {
    "title": "The Face of Dominican Boxing, Carlos Adames headlines Riyadh Season #ZuffaBoxing13 🇩🇴🥊",
-   "link": "https://www.saddoboxing.com/112185-the-face-of-dominican-boxing-carlos-adames-headlines-riyadh-season-zuffaboxing13-%f0%9f%87%a9%f0%9f%87%b4%f0%9f%a5%8a.html",
-   "source": "Saddo Boxing",
+   "link": "https://www.youtube.com/watch?v=ykc5g0uNSns",
+   "source": "YouTube Zuffa Boxing",
    "lang": "en",
-   "date": "2026-11-13T03:00:08+00:00",
+   "date": "2026-11-13T02:00:16+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 36,
+   "score": 35,
    "sources_n": 2,
-   "title_it": "Il volto della boxe dominicana, Carlos Adames, è il protagonista della Riyadh Season #ZuffaBoxing13 🇩🇴🥊",
+   "title_it": "Il volto della boxe dominicana, Carlos Adames, è il protagonista di Riyadh Season #ZuffaBoxing13 🇩🇴🥊",
    "title_es": "El rostro del boxeo dominicano, Carlos Adames, encabeza la Riyadh Season #ZuffaBoxing13 🇩🇴🥊"
   },
   {
@@ -458,7 +471,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 80,
-   "sources_n": 8,
+   "sources_n": 9,
    "title_it": "Pensateci: Floyd Mayweather che torna a combattere contro Ryan Garcia all'età di 50 anni nel 2027 è come Joe Frazier a 50 anni che combatte contro Evander Holyfield nel 1994, o come Sugar Ray Leonard che torna a 50 anni per combattere Joe Calzaghe nel 2006.",
    "title_es": "Piénselo: Floyd Mayweather regresa para pelear contra Ryan García a la edad de 50 años en 2027 es como Joe Frazier a los 50 años peleando contra Evander Holyfield en 1994, o como Sugar Ray Leonard regresando a los 50 años para pelear contra Joe Calzaghe en 2006."
   },
@@ -893,7 +906,7 @@
    "status": "confirmed",
    "boxers": [],
    "score": 60,
-   "sources_n": 5,
+   "sources_n": 6,
    "title_it": "Se Floyd batte Ryan",
    "title_es": "Si Floyd vence a Ryan"
   },
@@ -945,7 +958,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 77,
-   "sources_n": 8,
+   "sources_n": 9,
    "title_it": "James Toney pronuncia il verdetto \"buonanotte\" sull'incontro tra Ryan Garcia e Floyd Mayweather",
    "title_es": "James Toney pronostica un «buenas noches» para el combate entre Ryan García y Floyd Mayweather"
   },
@@ -1025,7 +1038,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 86,
-   "sources_n": 9,
+   "sources_n": 10,
    "title_it": "Il sogno del titolo mondiale di Floyd Mayweather rinasce dopo l'inaspettato annuncio di Ryan Garcia per il 2027 - RingSide24",
    "title_es": "El sueño de Floyd Mayweather por el título mundial revivió después del inesperado anuncio de Ryan García para 2027 - RingSide24"
   },
@@ -1148,7 +1161,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 86,
-   "sources_n": 8,
+   "sources_n": 9,
    "title_it": "Floyd Mayweather ottiene il via libera per la lotta per il titolo mondiale dopo che Ryan Garcia ha lanciato la notizia bomba del 2027 - MARCA",
    "title_es": "Floyd Mayweather recibe luz verde para pelea por el título mundial después de que Ryan García soltara bomba en 2027 - MARCA"
   },
@@ -1190,19 +1203,6 @@
    "sources_n": 1,
    "title_it": "Boxe, la palermitana Crystal Filardi trionfa ai campionati italiani under 15 e conquista l'oro - PalermoToday",
    "title_es": "Boxeo, Crystal Filardi de Palermo triunfa en el campeonato italiano sub 15 y gana el oro - PalermoToday"
-  },
-  {
-   "title": "Pugilato, Maria Laura Perrotta vola agli Europei Under 23: l’atleta cosentina vestirà la maglia azzurra in Croazia · LaC News24 - LaC News24",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNM1JpZVFpaWlRRzRnQzBtdTNMOG02RkJYUjJHZnUyOGtkNGN5dU1YeDB4Vl9XRGZxUnRCcXpmUWRqY3BxS0RCUS03T3h4QWF4YThreDQ3OVZKOW1nSV82bFdsQlVlZWlNNlZyay1hWHhNTGZNRzcxLVdoQ2hXeDZ0MDV1Q0dCdVdRNWw2QzM3TWtEWkZ3d2VtT2hVUUFRdGloQUxxQXdKSkRHNERwUHBwaUhSeGFTdjNiQkxIS2gtWndldGt0VDBJM3NvZHZ6aVZsSDA3SEVkNmduaUw2M0xLMk40M1ZrZ9IB6wFBVV95cUxOd0ozNk1TV3dIQ0l6NVhjcmhNN0dqWUYtVXh2SmZ4SzQwRGQxd3pYQmFUX21id3JkQ0s3ckdpTU00MTl2Q3d1Mk03cXZpeFMtcFdGQzc5ZktJaHhvenpkM2ZBcHFiVW1wRF9oZWt4TjlGdE5DTkFEWU83UWVEUEtUZ2puMDR6Uk44Vlc2RG9EMnJyR0JYRnVhT3c5NEpBcnVwbkhtRDZTRHA1cHY0a29UUmFBTXRoQ0czVTVGWW1iWVIzU0l0djZSWnlGQjJZRlQwRHpsQk01TF9sd21SQ2xyQzJuOUlLX3QyVVJZ?oc=5",
-   "source": "Google News: pugilato",
-   "lang": "it",
-   "date": "2026-11-12T15:17:05+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 40,
-   "sources_n": 3,
-   "title_it": "Pugilato, Maria Laura Perrotta vola agli Europei Under 23: l’atleta cosentina vestirà la maglia azzurra in Croazia · LaC News24 - LaC News24",
-   "title_es": "Boxeo, Maria Laura Perrotta vuela a los Europeos Sub-23: la atleta de Cosenza vestirá la camiseta azul en Croacia · LaC News24 - LaC News24"
   },
   {
    "title": "WBA orders Teofimo Lopez vs Jack Catterall amid Ryan Garcia talks",
@@ -1280,7 +1280,7 @@
    "date": "2026-11-12T14:13:42+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 20,
+   "score": 19,
    "sources_n": 1,
    "title_it": "Yuberjen Martínez va per il campionato del mondo: ora e dove guardare la lotta contro l'Olascuaga - El Espectador",
    "title_es": "Yuberjen Martínez va por el campeonato mundial: hora y dónde ver la pelea contra Olascuaga - El Espectador"
@@ -1580,8 +1580,8 @@
    "date": "2026-11-12T10:12:32+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 101,
-   "sources_n": 7,
+   "score": 100,
+   "sources_n": 8,
    "title_it": "Il piano di Ryan Garcia per l'incontro per il titolo indiscusso subisce un duro colpo dopo la decisione della WBA",
    "title_es": "El plan de combate indiscutido de Ryan García sufre un duro golpe tras la decisión de la WBA"
   },
@@ -1633,7 +1633,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 82,
-   "sources_n": 12,
+   "sources_n": 13,
    "title_it": "Floyd Mayweather, 49 anni, ottiene l'autorizzazione per la lotta per il titolo mondiale nonostante il ritiro mentre Ryan Garcia rivela la data dell'incontro del 2027 – Notizie H24",
    "title_es": "Floyd Mayweather, de 49 años, obtiene autorización para la pelea por el título mundial a pesar de su retiro mientras Ryan García revela la fecha de la pelea en 2027 Loving Valencia"
   },
@@ -1848,8 +1848,8 @@
    "date": "2026-11-12T02:29:26+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 59,
-   "sources_n": 3,
+   "score": 69,
+   "sources_n": 4,
    "title_it": "Mauricio Sulaiman rifiuta di far combattere Canelo contro il campione ad interim Lester Martinez perché Martinez non è al \"livello\" di Canelo",
    "title_es": "Mauricio Sulaimán se niega a hacer que Canelo pelee contra el campeón interino Lester Martínez porque Martínez no está al \"nivel\" de Canelo"
   },
@@ -1918,7 +1918,7 @@
    "boxers": [
     "Canelo Alvarez"
    ],
-   "score": 78,
+   "score": 77,
    "sources_n": 7,
    "title_it": "Lester Martinez è l'ultimo a rischio di essere scavalcato da Canelo Alvarez",
    "title_es": "Lester Martínez, el último en riesgo de ser apartado por Canelo Álvarez"
@@ -1931,7 +1931,7 @@
    "date": "2026-11-12T00:12:21+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 13,
+   "score": 12,
    "sources_n": 1,
    "title_it": "Santa Fe Klan e la sua fidanzata Camila Zamorano, campionessa del mondo WBC, portano la boxe ai giovani del quartiere - Infobae",
    "title_es": "Santa Fe Klan y su novia Camila Zamorano, campeona mundial del CMB, llevan el boxeo a jóvenes del barrio como escape a la violencia - Infobae"
@@ -2202,7 +2202,7 @@
    "status": "rumor",
    "boxers": [],
    "score": 40,
-   "sources_n": 7,
+   "sources_n": 8,
    "title_it": "Ryan García annuncia un incontro contro Mayweather... e potrebbe cadere il record del campione più longevo",
    "title_es": "Ryan García anuncia un combate contra Mayweather... y podría caer el récord de campeón más longevo"
   },
@@ -2358,7 +2358,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 64,
-   "sources_n": 8,
+   "sources_n": 9,
    "title_it": "Floyd Mayweather ottiene il via libera per tornare sul ring a 49 anni e fare la storia contro Ryan Garcia",
    "title_es": "Floyd Mayweather recibe luz verde para volver al boxeo a los 49 años y hacer historia contra Ryan García"
   },
@@ -2544,7 +2544,7 @@
    "date": "2026-11-11T14:11:42+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 8,
+   "score": 7,
    "sources_n": 1,
    "title_it": "Gli incontri più ricchi nella storia della boxe britannica",
    "title_es": "Los combates más lucrativos de la historia del boxeo británico"
@@ -2634,7 +2634,7 @@
    "date": "2026-11-11T12:11:35+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 7,
+   "score": 6,
    "sources_n": 1,
    "title_it": "Boxe, Sapone-Ferramosca per il titolo italiano dei supergallo in diretta su Italia Boxe TV - Sportface.it",
    "title_es": "Boxeo, Sapone-Ferramosca por el título italiano del peso supergallo en directo en Italia Boxe TV - Sportface.it"
@@ -2749,7 +2749,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 61,
-   "sources_n": 8,
+   "sources_n": 9,
    "title_it": "Ryan Garcia afferma che il suo prossimo incontro sarà contro Floyd Mayweather e indica data e luogo",
    "title_es": "Ryan García afirma que su próximo combate será contra Floyd Mayweather y da la fecha y el lugar"
   },
@@ -2952,7 +2952,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 56,
-   "sources_n": 7,
+   "sources_n": 8,
    "title_it": "Ryan Garcia accenna al 6 febbraio come al suo prossimo potenziale appuntamento di combattimento 👀",
    "title_es": "Ryan Garcia insinúa que el 6 de febrero será su próxima posible fecha de pelea 👀"
   },
@@ -3487,6 +3487,19 @@
    "title_es": "Trieste Boxe Noche 10, Sara Lombardi difende il titolo italiano femminile - Nordest24"
   },
   {
+   "title": "Terni, addio a Eraclio Conti: il mondo del pugilato piange l'ex atleta ternano - TerniToday",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOckdYaW5KdlFVRDVua1RQaktSUnR6bks1ZS1BbTc3cXBmanctQXBzZXkxbVpJQnVhVHNfS0cxWGZMTm1qRVZqZG11THlYd2I2MHpLNk9hN0h0TXBscU1MMkVRVi1IVXJKV0xOTlplTWFUckROYmVMTVZIdElHcnZpT3VoVXI?oc=5",
+   "source": "Google News: pugilato",
+   "lang": "it",
+   "date": "2026-11-10T12:36:01+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 0,
+   "sources_n": 1,
+   "title_it": "Terni, addio a Eraclio Conti: il mondo del pugilato piange l'ex atleta ternano - TerniToday",
+   "title_es": "Terni, adiós a Eraclio Conti: el mundo del boxeo llora al exdeportista de Terni - TerniToday"
+  },
+  {
    "title": "Denzel Bentley willing to travel to Ireland for Aaron McKenna title shot",
    "link": "https://www.boxingscene.com/articles/denzel-bentley-willing-to-travel-to-ireland-for-tyrone-mckenna-title-shot",
    "source": "Boxing Scene",
@@ -3666,6 +3679,19 @@
    "sources_n": 1,
    "title_it": "Spettacolo a Lizzanello: domenica di grandi vittorie per i Santoro e la Quero-Chiloiro. - 2out.it - Seconds Out Sport Magazine",
    "title_es": "Espectáculo en Lizzanello: domingo de grandes victorias para Santoro y Quero-Chiloiro. - 2out.it - Seconds Out Sport Magazine"
+  },
+  {
+   "title": "‘The rules allow him to fight for the title’: Mauricio Sulaiman talks potential for Ryan Garcia vs Floyd Mayweather and more",
+   "link": "https://www.badlefthook.com/boxing-news/120260/mauricio-sulaiman-talks-potential-for-ryan-garcia-vs-floyd-mayweather-and-more-boxing-news-2026",
+   "source": "Bad Left Hook",
+   "lang": "en",
+   "date": "2026-11-10T07:59:31-05:00",
+   "status": "rumor",
+   "boxers": [],
+   "score": 55,
+   "sources_n": 9,
+   "title_it": "\"Le regole gli permettono di combattere per il titolo\": Mauricio Sulaiman parla del potenziale di Ryan Garcia contro Floyd Mayweather e di altro ancora",
+   "title_es": "«Las reglas le permiten luchar por el título»: Mauricio Sulaimán habla sobre la posibilidad de un combate entre Ryan García y Floyd Mayweather, y más"
   },
   {
    "title": "What REALLY triggered HSTikkyTokky's boxing night riot between Tommy Robinson and Mo Deen, as Muslim influencer breaks cover to claim 'set up'",
@@ -4039,7 +4065,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 30,
-   "sources_n": 5,
+   "sources_n": 6,
    "title_it": "Floyd Mayweather aggiunge un leggendario ex avversario alla lista dei possibili sfidanti per un grande incontro nel 2027",
    "title_es": "Floyd Mayweather añade a un legendario exoponente a su lista de posibles rivales para un gran combate en 2027"
   },
@@ -4055,35 +4081,6 @@
    "sources_n": 2,
    "title_it": "Frank Warren definisce \"orribile\" l'ematoma di Zak Miller, il peggiore che abbia mai visto, dopo che ha interrotto l'incontro con Gully Powar",
    "title_es": "Frank Warren califica de «horrible» la lesión por hematoma de Zak Miller, la peor que ha visto nunca, después de que impidiera su combate contra Gully Powar"
-  },
-  {
-   "title": "Dana White’s US heavyweight prospect in running to land on Tyson Fury vs Anthony Joshua undercard",
-   "link": "https://talksport.com/boxing/4695353/dana-white-tyson-fury-anthony-joshua-damazion-vanhouter/",
-   "source": "Talksport Boxing",
-   "lang": "en",
-   "date": "2026-11-09T15:24:32+00:00",
-   "status": "unverified",
-   "boxers": [
-    "Tyson Fury",
-    "Anthony Joshua"
-   ],
-   "score": 95,
-   "sources_n": 16,
-   "title_it": "La promessa dei pesi massimi statunitensi di Dana White in lizza per partecipare all'incontro di sottocategoria Tyson Fury vs Anthony Joshua",
-   "title_es": "La promesa estadounidense del peso pesado de Dana White podría formar parte de la velada preliminar de Tyson Fury contra Anthony Joshua"
-  },
-  {
-   "title": "Three straight for Masood Abdulah. He earned the UD win at #ZuffaBoxing12 😮‍💨",
-   "link": "https://www.youtube.com/watch?v=rAMW8hlCIuM",
-   "source": "YouTube Zuffa Boxing",
-   "lang": "en",
-   "date": "2026-11-09T15:19:42+00:00",
-   "status": "confirmed",
-   "boxers": [],
-   "score": 8,
-   "sources_n": 1,
-   "title_it": "Tre di fila per Masood Abdulah. Si è guadagnato la vittoria dell'UD a #ZuffaBoxing12 😮‍💨",
-   "title_es": "Tres seguidos para Masood Abdulah. Obtuvo la victoria de la UD en #ZuffaBoxing12 😮‍💨"
   }
  ]
 }
