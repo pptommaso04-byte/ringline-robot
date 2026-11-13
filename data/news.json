@@ -1,8 +1,23 @@
 {
- "updated": "2026-11-13T13:20:45+00:00",
- "feeds_ok": 49,
- "feeds_failed": 4,
+ "updated": "2026-11-13T13:25:51+00:00",
+ "feeds_ok": 48,
+ "feeds_failed": 5,
  "news": [
+  {
+   "title": "Eddie Hearn reveals Naoya Inoue demands regarding Bam Rodriguez showdown",
+   "link": "https://www.boxingscene.com/articles/eddie-hearn-reveals-naoya-inoue-demands-regarding-bam-rodriguez-showdown",
+   "source": "Boxing Scene",
+   "lang": "en",
+   "date": "2026-11-13T13:23:57+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Naoya Inoue"
+   ],
+   "score": 114,
+   "sources_n": 8,
+   "title_it": "Eddie Hearn rivela le richieste di Naoya Inoue in merito all'incontro con Bam Rodriguez",
+   "title_es": "Eddie Hearn revela las exigencias de Naoya Inoue para el enfrentamiento con Bam Rodríguez"
+  },
   {
    "title": "How Riley went from KSI's trainer to world-title dream",
    "link": "https://www.reddit.com/r/Boxing/comments/1xv7hll/how_riley_went_from_ksis_trainer_to_worldtitle/",
@@ -15,6 +30,19 @@
    "sources_n": 2,
    "title_it": "Come Riley è passato dall'essere l'allenatore di KSI al sognare il titolo mondiale",
    "title_es": "Cómo Riley pasó de ser el entrenador de KSI a soñar con un título mundial"
+  },
+  {
+   "title": "Who will win  ATP Finals in Turin? Alcaraz favourite to land first title",
+   "link": "https://www.skysports.com/tennis/news/12040/13611772/atp-finals-predictions-sky-sports-panel-pick-their-winners-and-surprise-package-as-alexander-zverev-and-carlos-alcaraz-lead-the-field",
+   "source": "Sky Sports Boxing",
+   "lang": "en",
+   "date": "2026-11-13T13:00:00+00:00",
+   "status": "confirmed",
+   "boxers": [],
+   "score": 37,
+   "sources_n": 1,
+   "title_it": "Chi vincerà le ATP Finals di Torino? Alcaraz favorito per conquistare il primo titolo",
+   "title_es": "¿Quién ganará las ATP Finals de Turín? Alcaraz es el favorito para conseguir su primer título"
   },
   {
    "title": "Canelo explores ambitious two-fight plan to become undisputed in new weight class",
@@ -401,7 +429,7 @@
    "date": "2026-11-13T09:22:40+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 38,
+   "score": 37,
    "sources_n": 2,
    "title_it": "Maria Laura Perrotta, orgoglio cosentino agli Euro U23 di boxe - il Dot",
    "title_es": "Maria Laura Perrotta, orgullo cosentino en el Europeo sub-23 de boxeo - il Dot"
@@ -672,7 +700,7 @@
    "date": "2026-11-13T03:25:25+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 65,
+   "score": 64,
    "sources_n": 3,
    "title_it": "La WBA ordina a Schofield di difendere obbligatoriamente il titolo contro Valenzuela",
    "title_es": "La WBA ordena a Schofield la defensa obligatoria del título contra Valenzuela"
@@ -883,7 +911,7 @@
    "date": "2026-11-12T23:22:32+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 51,
+   "score": 50,
    "sources_n": 2,
    "title_it": "Roy Jones Jr riassume le possibilità di Lomachenko di vincere titoli mondiali a 38 anni",
    "title_es": "Roy Jones Jr. resume las posibilidades de Lomachenko de ganar títulos mundiales a los 38 años"
@@ -896,7 +924,7 @@
    "date": "2026-11-12T23:22:32+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 51,
+   "score": 50,
    "sources_n": 2,
    "title_it": "Roy Jones Jr riassume le possibilità di Lomachenko di vincere titoli mondiali a 38 anni - Boxing News Online",
    "title_es": "Roy Jones Jr resume las posibilidades de Lomachenko de ganar títulos mundiales a los 38 años - Boxing News Online"
@@ -1857,7 +1885,7 @@
    "date": "2026-11-12T11:23:11+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 17,
+   "score": 16,
    "sources_n": 1,
    "title_it": "Quanto guadagnano le pugili? Price, Baumgardner e il divario retributivo",
    "title_es": "¿Cuánto ganan las boxeadoras? Price, Baumgardner y la brecha salarial"
@@ -1925,7 +1953,7 @@
    "date": "2026-11-12T09:23:40+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 64,
+   "score": 63,
    "sources_n": 4,
    "title_it": "Kelly affronterà Ennis nel match di unificazione di febbraio",
    "title_es": "Kelly se enfrentará a Ennis en el combate de unificación de febrero"
@@ -1941,23 +1969,10 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 111,
+   "score": 110,
    "sources_n": 15,
    "title_it": "Altri combattimenti dei pesi massimi aggiunti alla undercard Tyson Fury vs Anthony Joshua",
    "title_es": "Se agregaron más peleas de peso pesado a la cartelera de Tyson Fury vs Anthony Joshua"
-  },
-  {
-   "title": "Zero scuse, dodici anni di sport e impegno sociale sul territorio - Lecce Tomorrow",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU21HR3ZBdm5EekV0MHZtUGJOZXNLUjNIa0xENkRkZVdwNnVsUnJJSU1tT0VIVlFnbnJPbXpuM3JvSkhZWXJlejIzbjB0c0hfb0V4WWNwdGFWZlJTWlRYd3lzOGxtb2JNcW5nczlrS092QldyM05XSFJhdjJTZktDRUd5a18xMGJTa2lxb1I0WEFsOENBUDlJY2I4aG52QXA0cjVHYmlfcXY?oc=5",
-   "source": "Google News: pugilato",
-   "lang": "it",
-   "date": "2026-11-12T09:09:00+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 15,
-   "sources_n": 1,
-   "title_it": "Zero scuse, dodici anni di sport e impegno sociale sul territorio - Lecce Tomorrow",
-   "title_es": "Cero excusas, doce años de deporte y compromiso social en el territorio - Lecce Tomorrow"
   },
   {
    "title": "Ferramosca sfida Sapone per il titolo italiano: Prato sogna con il suo “Bulldozer” - Notizie di Prato",
@@ -2250,7 +2265,7 @@
    "date": "2026-11-11T23:24:53+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 79,
+   "score": 78,
    "sources_n": 5,
    "title_it": "ANNUNCIATO: Il campione WBA e WBO Jaron \"Boots\" Ennis affronterà il campione IBF Josh Kelly in un incontro per l'unificazione dei titoli dei pesi superwelter WBA, WBO e IBF il 27 febbraio ad Atlanta, in diretta su DAZN e TNT Sports.",
    "title_es": "ANUNCIADO: El campeón de la AMB y la OMB, Jaron “Boots” Ennis, se enfrentará al campeón de la FIB Josh Kelly en una pelea de unificación de títulos de peso súper welter de la AMB, la OMB y la FIB el 27 de febrero en Atlanta, en vivo por DAZN y TNT Sports."
@@ -2354,7 +2369,7 @@
     "Canelo Alvarez"
    ],
    "score": 105,
-   "sources_n": 7,
+   "sources_n": 8,
    "title_it": "Aggiornamenti sulla convention della WBC: il prossimo incontro di Canelo Álvarez, Naoya Inoue, David Benavidez e altri ancora",
    "title_es": "Novedades de la convención del CMB: el próximo combate de Canelo Álvarez, Naoya Inoue, David Benavidez y más"
   },
@@ -2728,7 +2743,7 @@
    "date": "2026-11-11T15:21:23+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 80,
+   "score": 79,
    "sources_n": 4,
    "title_it": "Jake Paul raddoppia la posta in gioco sul ritiro se perderà l'incontro di ritorno contro Cedric Doumbe... poiché ciò porrà fine alle sue speranze di conquistare il titolo mondiale",
    "title_es": "Jake Paul insiste en que se retirará si pierde el combate de regreso contra Cédric Doumbé... ya que eso acabaría con sus esperanzas de conseguir el título mundial."
@@ -2756,8 +2771,8 @@
    "boxers": [
     "Naoya Inoue"
    ],
-   "score": 81,
-   "sources_n": 3,
+   "score": 91,
+   "sources_n": 4,
    "title_it": "Naoya Inoue rimane acuto e intenso durante la sua shadowboxing",
    "title_es": "Naoya Inoue se mantiene agudo e intenso a través de su boxeo de sombras."
   },
@@ -2958,7 +2973,7 @@
    "date": "2026-11-11T11:24:27+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 15,
+   "score": 14,
    "sources_n": 1,
    "title_it": "I pesi massimi come Ali vengono messi KO da un pugno",
    "title_es": "Los exhibicionistas de peso pesado como Ali, quedan noqueados por un solo golpe"
@@ -3749,19 +3764,6 @@
    "sources_n": 1,
    "title_it": "A Chiarbola arrivano i migliori pugili del Fvg: è la Boxenight 10, ecco quando - TriestePrima",
    "title_es": "A Chiarbola llegan los mejores boxeadores de Friul-Venecia Julia: es la Boxenight 10, aquí tienes cuándo - TriestePrima"
-  },
-  {
-   "title": "Trieste Boxe Night 10, Sara Lombardi difende il titolo italiano femminile - Nordest24",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcVlNRjlIV1EtVVBXdHF1NHNJRm5NSTFUSkJlcmFfYjQ3dFRqU01pVnYzYV9NQ1l3UklIQ25ST25HcHMzX1Q3cHpJRDI0ZnItTnpjSEwxQUs4aTlzOXRjOUJCQjRqNlhXZTdlRlhaUXFCal9mNTltck5iY0ZOMkQxS1J4bFZDenpXd2VHVjdRbkItMGNWd3liazlPXzhfQQ?oc=5",
-   "source": "Google News: titolo italiano pugilato",
-   "lang": "it",
-   "date": "2026-11-10T12:57:00+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 0,
-   "sources_n": 1,
-   "title_it": "Trieste Boxe Night 10, Sara Lombardi difende il titolo italiano femminile - Nordest24",
-   "title_es": "Trieste Boxe Noche 10, Sara Lombardi difende il titolo italiano femminile - Nordest24"
   },
   {
    "title": "Denzel Bentley willing to travel to Ireland for Aaron McKenna title shot",
