@@ -4491,7 +4491,7 @@
  },
  "Otha Jones III": {
   "slug": "otha-jones-iii",
-  "updated": "2026-11-10T07:50:52+00:00",
+  "updated": "2026-11-13T07:50:59+00:00",
   "total": 6,
   "verified": 0,
   "record": {
@@ -44475,5 +44475,47 @@
  },
  "Vitalie Grușac": {
   "tried": "2026-11-13T07:45:47+00:00"
+ },
+ "Vitor Belfort": {
+  "slug": "vitor-belfort",
+  "updated": "2026-11-13T07:51:04+00:00",
+  "total": 6,
+  "verified": 6,
+  "record": {
+   "w": 4,
+   "l": 2,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "it",
+   "es",
+   "fr",
+   "de",
+   "pt"
+  ]
+ },
+ "Phillip N'dou": {
+  "tried": "2026-11-13T07:50:56+00:00"
+ },
+ "Naoufel Ben Rabah": {
+  "tried": "2026-11-13T07:50:56+00:00"
+ },
+ "Andreas Kotelnik": {
+  "slug": "andreas-kotelnik",
+  "updated": "2026-11-13T07:51:10+00:00",
+  "total": 37,
+  "verified": 0,
+  "record": {
+   "w": 32,
+   "l": 4,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "es"
+  ]
  }
 }

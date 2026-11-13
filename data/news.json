@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-13T07:45:47+00:00",
- "feeds_ok": 49,
- "feeds_failed": 4,
+ "updated": "2026-11-13T07:50:56+00:00",
+ "feeds_ok": 48,
+ "feeds_failed": 5,
  "news": [
   {
    "title": "How Riley went from KSI's trainer to world-title dream",
@@ -11,10 +11,23 @@
    "date": "2026-11-13T07:31:02+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 29,
-   "sources_n": 1,
+   "score": 39,
+   "sources_n": 2,
    "title_it": "Come Riley è passato dall'essere l'allenatore di KSI al sognare il titolo mondiale",
    "title_es": "Cómo Riley pasó de ser el entrenador de KSI a soñar con un título mundial"
+  },
+  {
+   "title": "Viddal Riley: How Briton went from KSI's trainer to brink of world-title shot - BBC",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zckZWa0tTcHNkZDdrUlE2ZW1fVW9ORGVkTnJfWU1COFFydEpnMml6NF9qUmxTMU9WbU1UYjV5MzFMWEJjOGFxVTNGT0RZTzN1V1drNmRyY3FRWWdnNDZLOE9DQlA2cWl3?oc=5",
+   "source": "Google News: boxing",
+   "lang": "en",
+   "date": "2026-11-13T07:30:58+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 59,
+   "sources_n": 4,
+   "title_it": "Viddal Riley: come il britannico è passato dall'essere l'allenatore di KSI allo sfiorare il titolo mondiale - BBC",
+   "title_es": "Viddal Riley: cómo el británico pasó de ser entrenador de KSI a estar a punto de disputar un título mundial - BBC"
   },
   {
    "title": "Shakur Stevenson’s Undisputed 140 Blueprint Faces Immediate Muratalla Test",
@@ -80,7 +93,7 @@
    "boxers": [
     "Naoya Inoue"
    ],
-   "score": 74,
+   "score": 73,
    "sources_n": 1,
    "title_it": "Naoya Inoue Incredibili filmati di sparring di giovani",
    "title_es": "Naoya inoue Imágenes increíbles de Sparring joven"
@@ -765,7 +778,7 @@
    "date": "2026-11-12T19:47:46+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 62,
+   "score": 61,
    "sources_n": 5,
    "title_it": "Se Floyd batte Ryan",
    "title_es": "Si Floyd vence a Ryan"
@@ -885,7 +898,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 98,
-   "sources_n": 6,
+   "sources_n": 7,
    "title_it": "\"TUTTI HANNO DEI PUNTI DEBOLI!\" Viddal Riley PARLA SCHIETTAMENTE di un potenziale incontro con David Benavidez",
    "title_es": "«¡TODO EL MUNDO TIENE DEBILIDADES!» Viddal Riley SE SINCERA sobre un posible combate contra David Benavidez"
   },
@@ -1205,7 +1218,7 @@
    "date": "2026-11-12T13:47:56+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 29,
+   "score": 28,
    "sources_n": 1,
    "title_it": "Spiegazione di KO, TKO, RTD e decisioni tecniche",
    "title_es": "Explicación de los KO, los TKO, los RTD y las decisiones técnicas"
@@ -1395,7 +1408,7 @@
    "date": "2026-11-12T11:46:19+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 50,
+   "score": 49,
    "sources_n": 8,
    "title_it": "Eddie Hearn accetta l'offerta di combattimento di Dana White a una condizione",
    "title_es": "Eddie Hearn acepta oferta de pelea con Dana White con una condición"
@@ -1664,6 +1677,19 @@
    "title_es": "Se añaden dos combates a la velada preliminar de Fury vs. Joshua"
   },
   {
+   "title": "Pugilato: Luis Vela è campione Wbc International - La voce del Trentino",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb3FWVzBta0lWY0NCbC1PR3ZhQ29KNEp0cTh5Q3JxdXFiOFlhaVFUMnJYMG5ROGFmUXRDNEF1QXZjMVh4bE5YQUxyWEpQQk8tNGRybFNBWVhCckhaNEh1MzA1SWRFSnlYbU5wdm9IbnNLZjBTc3JfRW5hd2tWUjhZTDNrd0NmSXMyN0FB?oc=5",
+   "source": "Google News: pugilato",
+   "lang": "it",
+   "date": "2026-11-12T04:54:22+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 26,
+   "sources_n": 1,
+   "title_it": "Pugilato: Luis Vela è campione Wbc International - La voce del Trentino",
+   "title_es": "Boxeo: Luis Vela es campeón internacional del WBC - La voce del Trentino"
+  },
+  {
    "title": "Kieran Molloy Eyes World Title Shot and Possible All-Irish Rematch",
    "link": "https://www.irish-boxing.com/kieran-molloy-eyes-world-title-shot-and-possible-all-irish-rematch/",
    "source": "Irish Boxing",
@@ -1723,7 +1749,7 @@
    "date": "2026-11-12T03:46:31+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 24,
+   "score": 23,
    "sources_n": 1,
    "title_it": "Dicevano che era arrugginito. Lui ha risposto con un KO tecnico.",
    "title_es": "Decían que estaba oxidado. Él respondió con un nocaut técnico."
@@ -1971,7 +1997,7 @@
    "date": "2026-11-11T21:47:02+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 3,
+   "score": 2,
    "sources_n": 1,
    "title_it": "Foto: Orobio e Cedeno fanno peso per uno scontro da 140 libbre",
    "title_es": "Fotos: Orobio y Cedeño dan peso para choque de 140 libras"
@@ -2190,8 +2216,8 @@
    "date": "2026-11-11T16:47:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 20,
-   "sources_n": 2,
+   "score": 30,
+   "sources_n": 3,
    "title_it": "Viddal Riley contro Seydi Coupe: data, ora, diretta streaming, canale TV e programma dell'incontro in cui il britannico difende il titolo europeo dei pesi massimi leggeri",
    "title_es": "Viddal Riley contra Seydi Coupe: fecha, hora, retransmisión en directo, canal de televisión y cartelera, con el británico defendiendo el título europeo del peso crucero"
   },
@@ -2800,7 +2826,7 @@
     "Joshua Buatsi",
     "Anthony Joshua"
    ],
-   "score": 99,
+   "score": 98,
    "sources_n": 6,
    "title_it": "Boxe: quali sono le prospettive per Joshua Buatsi dopo la perdita del titolo mondiale contro Willy Hutchinson? - Sky Sport",
    "title_es": "Boxeo: ¿Qué sigue para Joshua Buatsi después de perder el título mundial ante Willy Hutchinson? - Deportes del cielo"
@@ -3372,19 +3398,6 @@
    "title_es": "Trieste Boxe Noche 10, Sara Lombardi difende il titolo italiano femminile - Nordest24"
   },
   {
-   "title": "Terni, addio a Eraclio Conti: il mondo del pugilato piange l'ex atleta ternano - TerniToday",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOckdYaW5KdlFVRDVua1RQaktSUnR6bks1ZS1BbTc3cXBmanctQXBzZXkxbVpJQnVhVHNfS0cxWGZMTm1qRVZqZG11THlYd2I2MHpLNk9hN0h0TXBscU1MMkVRVi1IVXJKV0xOTlplTWFUckROYmVMTVZIdElHcnZpT3VoVXI?oc=5",
-   "source": "Google News: pugilato",
-   "lang": "it",
-   "date": "2026-11-10T12:36:01+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 0,
-   "sources_n": 1,
-   "title_it": "Terni, addio a Eraclio Conti: il mondo del pugilato piange l'ex atleta ternano - TerniToday",
-   "title_es": "Terni, adiós a Eraclio Conti: el mundo del boxeo llora al exdeportista de Terni - TerniToday"
-  },
-  {
    "title": "Denzel Bentley willing to travel to Ireland for Aaron McKenna title shot",
    "link": "https://www.boxingscene.com/articles/denzel-bentley-willing-to-travel-to-ireland-for-tyrone-mckenna-title-shot",
    "source": "Boxing Scene",
@@ -3599,8 +3612,8 @@
    "date": "2026-11-10T07:11:45+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 30,
-   "sources_n": 3,
+   "score": 20,
+   "sources_n": 2,
    "title_it": "Alycia Baumgardner domina Elif Nur Turhan per diventare campionessa del mondo di pesi leggeri",
    "title_es": "Alycia Baumgardner domina a Elif Nur Turhan para convertirse en campeona mundial de peso ligero"
   },
@@ -3845,8 +3858,8 @@
    "date": "2026-11-09T17:54:25+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 38,
-   "sources_n": 3,
+   "score": 28,
+   "sources_n": 2,
    "title_it": "Alycia Baumgardner elimina Elif Nur Turhan e vince il titolo dei pesi leggeri IBF",
    "title_es": "Alycia Baumgardner supera a Elif Nur Turhan para ganar el título de peso ligero de la FIB"
   },
@@ -3904,7 +3917,7 @@
   },
   {
    "title": "Boxing Weekend Review: Willy Hutchinson's world title triumph and Cheavon Clarke revives career - DAZN",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUkZ2QnBMTEw3UGVSTW1ULUFrUEdjZlRWcEpfX3NYQjl3UFZzc2JEdjBHdVN1SlNfYnV3eWhsRGtmemdoeDc5UVRFSmpVZlVlbi1SMGt6b2RUQmFwUXhDY0RaM3ZqbUxiV0ljMFdsMDJKWmMyNF9pY0ZmV2V6M0ZQRmN3b3k3VDIwRTRRa2xremFKLUlLMjg0WUY1bFZyMWwwVzNoR0JNYWdmbk1aNWtodmE0QWZhenVMcE96b0JQSExsLWR4anM2US1VUlJhaFFQd0RSTjFVaWx6VFg1ZFlIUnJn?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZm5SWjRSdEVMWWxCNTFKSWZYclhpRVAtdlJ3WUQ2T2RxRFV4b3lUZ2VvTUFfUUFGazhaOTZHaFp5VlowZUtXY3JDZXFqTmhFU2dnc1N4LUxXQ2V2R3p6REJMYUxUSVo2aFhLa08wRVB3NjAxUDlleC1jb0w5Z3g3Nzdrc2RFY2JaSGFzdWlNdXlSWDB0bHVGbFhNVG94QnhFMFVscTFzcVN0RGJwWGNzSlZUeVBrd0VkUEJWM1VKNlkxRWF2bVZrR3ZRUzNJRlpmdUhjRzlmWF9FdXhJc3V1dldn?oc=5",
    "source": "Google News: boxing",
    "lang": "en",
    "date": "2026-11-09T17:00:00+00:00",
@@ -3912,7 +3925,7 @@
    "boxers": [],
    "score": 35,
    "sources_n": 1,
-   "title_it": "Rassegna del weekend pugilistico: il trionfo di Willy Hutchinson per il titolo mondiale e Cheavon Clarke rilancia la sua carriera - DAZN",
+   "title_it": "Rassegna del weekend di pugilato: il trionfo di Willy Hutchinson per il titolo mondiale e la rinascita della carriera di Cheavon Clarke - DAZN",
    "title_es": "Resumen del fin de semana de boxeo: Willy Hutchinson se proclama campeón del mundo y Cheavon Clarke relanza su carrera - DAZN"
   },
   {
@@ -4062,19 +4075,6 @@
    "sources_n": 1,
    "title_it": "La pugile britannico-somala Ramla Ali sconfigge Mikiah Kreps e conquista il primo titolo mondiale - Al Jazeera",
    "title_es": "La boxeadora británico-somalí Ramla Ali derrota a Mikiah Kreps y consigue su primer título mundial - Al Jazeera"
-  },
-  {
-   "title": "Alycia Baumgardner wins in front of home crowd, becomes 2-division world champion - Dallas News",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOT2tQTUJEcVowbDhKQnN6SWJGVE56VWVSclJhNFRld2dzV05lUEdCV0dGa2VTR1B4bWpVWEUteEtvSkUwUUpBbWJsZzd4dEZwbUFFVjZyMUFwVTFCWXJKSVZlTVJuOFRuQjBHQ2d4dVFqUENUeDZLVTlMM3ZHbDFGQTFhdjkxQmFxWXJfcnRraHJPc1lQYnBFUHFkVm1hVDVTU1dtRUtsY25mSk04cU1sYkIweFU?oc=5",
-   "source": "Google News: boxing",
-   "lang": "en",
-   "date": "2026-11-09T13:58:37+00:00",
-   "status": "confirmed",
-   "boxers": [],
-   "score": 38,
-   "sources_n": 3,
-   "title_it": "Alycia Baumgardner vince davanti al pubblico di casa e diventa campionessa del mondo in due categorie - Dallas News",
-   "title_es": "Alycia Baumgardner gana ante su público y se convierte en campeona del mundo en dos categorías - Dallas News"
   }
  ]
 }
