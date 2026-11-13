@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T19:12:12+00:00",
+ "updated": "2026-11-13T01:17:01+00:00",
  "sources": {
   "WBA": {
    "divisions": {
@@ -1363,7 +1363,7 @@
    "p4p_F": [],
    "label": "WBA (classifica ufficiale)",
    "url": "https://www.wbaboxing.com/wba-ranking",
-   "read": "2026-11-12T19:10:54+00:00"
+   "read": "2026-11-13T01:15:55+00:00"
   },
   "WBC": {
    "divisions": {
@@ -5056,7 +5056,7 @@
    "p4p_F": [],
    "label": "WBC (via Box-Rank)",
    "url": "https://box-rank.com/rankings/org/wbc/heavyweight",
-   "read": "2026-11-12T19:11:16+00:00"
+   "read": "2026-11-13T01:16:14+00:00"
   },
   "IBF": {
    "divisions": {
@@ -6372,7 +6372,7 @@
    "p4p_F": [],
    "label": "IBF (via Box-Rank)",
    "url": "https://box-rank.com/rankings/org/ibf/heavyweight",
-   "read": "2026-11-12T19:11:35+00:00"
+   "read": "2026-11-13T01:16:31+00:00"
   },
   "WBO": {
    "divisions": {
@@ -7789,7 +7789,7 @@
    "p4p_F": [],
    "label": "WBO (via Box-Rank)",
    "url": "https://box-rank.com/rankings/org/wbo/heavyweight",
-   "read": "2026-11-12T19:11:54+00:00"
+   "read": "2026-11-13T01:16:46+00:00"
   },
   "RING": {
    "divisions": {
@@ -7868,43 +7868,43 @@
        "rank": 2
       },
       {
-       "name": "Chris Billam-Smith",
-       "country": "United Kingdom",
+       "name": "Michal Cieslak+1",
+       "country": "Poland",
        "rank": 3
       },
       {
-       "name": "Michal Cieslak",
-       "country": "Poland",
+       "name": "Norair Mikaeljan+1",
+       "country": "Armenia",
        "rank": 4
       },
       {
-       "name": "Norair Mikaeljan",
-       "country": "Armenia",
+       "name": "Cheavon ClarkeNEW",
+       "country": "United Kingdom",
        "rank": 5
       },
       {
-       "name": "Badou Jack",
-       "country": "Sweden",
+       "name": "Chris Billam-Smith-3",
+       "country": "United Kingdom",
        "rank": 6
       },
       {
-       "name": "Viddal Riley",
-       "country": "United Kingdom",
+       "name": "Badou Jack-1",
+       "country": "Sweden",
        "rank": 7
       },
       {
-       "name": "Ryan Rozicki",
-       "country": "Canada",
+       "name": "Viddal Riley-1",
+       "country": "United Kingdom",
        "rank": 8
       },
       {
-       "name": "Leonardo Mosquea",
-       "country": "France",
+       "name": "Ryan Rozicki-1",
+       "country": "Canada",
        "rank": 9
       },
       {
-       "name": "Robin Sirwan Safar",
-       "country": "Sweden",
+       "name": "Leonardo Mosquea-1",
+       "country": "France",
        "rank": 10
       }
      ]
@@ -7916,53 +7916,53 @@
      },
      "ranks": [
       {
-       "name": "David Benavidez",
-       "country": "United States",
+       "name": "Callum Smith+1",
+       "country": "United Kingdom",
        "rank": 1
       },
       {
-       "name": "Callum Smith",
+       "name": "Anthony Yarde+1",
        "country": "United Kingdom",
        "rank": 2
       },
       {
-       "name": "Anthony Yarde",
-       "country": "United Kingdom",
+       "name": "Imam Khataev+1",
+       "country": "Australia",
        "rank": 3
       },
       {
-       "name": "Imam Khataev",
-       "country": "Australia",
+       "name": "Willy Hutchinson+3",
+       "country": "United Kingdom",
        "rank": 4
       },
       {
-       "name": "Joshua Buatsi",
-       "country": "United Kingdom",
+       "name": "Najee Lopez+1",
+       "country": "Puerto Rico",
        "rank": 5
       },
       {
-       "name": "Najee Lopez",
-       "country": "Puerto Rico",
+       "name": "Joshua Buatsi-1",
+       "country": "United Kingdom",
        "rank": 6
       },
       {
-       "name": "Willy Hutchinson",
-       "country": "United Kingdom",
+       "name": "Radivoje Kalajdzic+1",
+       "country": "United States",
        "rank": 7
       },
       {
-       "name": "Radivoje Kalajdzic",
-       "country": "United States",
+       "name": "Lerrone Richards+1",
+       "country": "United Kingdom",
        "rank": 8
       },
       {
-       "name": "Lerrone Richards",
-       "country": "United Kingdom",
+       "name": "Albert Ramirez+1",
+       "country": "Venezuela",
        "rank": 9
       },
       {
-       "name": "Albert Ramirez",
-       "country": "Venezuela",
+       "name": "Umar DzambekovNEW",
+       "country": "Austria",
        "rank": 10
       }
      ]
@@ -8610,18 +8610,18 @@
        "rank": 5
       },
       {
-       "name": "Joselito Velazquez Altamirano",
-       "country": "Mexico",
+       "name": "Abraham R Perez+2",
+       "country": "United States",
        "rank": 6
       },
       {
-       "name": "Yoali Mejia Mosqueda",
+       "name": "Joselito Velazquez Altamirano-1",
        "country": "Mexico",
        "rank": 7
       },
       {
-       "name": "Abraham R Perez",
-       "country": "United States",
+       "name": "Yoali Mejia Mosqueda-1",
+       "country": "Mexico",
        "rank": 8
       },
       {
@@ -8630,7 +8630,7 @@
        "rank": 9
       },
       {
-       "name": "Shogo TanakaNEW",
+       "name": "Shogo Tanaka",
        "country": "Japan",
        "rank": 10
       }
@@ -8754,7 +8754,7 @@
    "p4p_F": [],
    "label": "RING (via Box-Rank)",
    "url": "https://box-rank.com/rankings/org/ring/heavyweight",
-   "read": "2026-11-12T19:12:12+00:00"
+   "read": "2026-11-13T01:17:01+00:00"
   }
  }
 }
