@@ -9948,7 +9948,7 @@
  },
  "Mose Auimatagi Jnr": {
   "slug": "mose-auimatagi-jnr",
-  "updated": "2026-11-10T18:31:05+00:00",
+  "updated": "2026-11-13T18:35:46+00:00",
   "total": 22,
   "verified": 0,
   "record": {
@@ -9966,7 +9966,7 @@
  },
  "Arthur Biyarslanov": {
   "slug": "arthur-biyarslanov",
-  "updated": "2026-11-10T18:31:09+00:00",
+  "updated": "2026-11-13T18:35:44+00:00",
   "total": 21,
   "verified": 0,
   "record": {
@@ -9981,7 +9981,7 @@
  },
  "Erickson Lubin": {
   "slug": "erickson-lubin",
-  "updated": "2026-11-10T18:31:11+00:00",
+  "updated": "2026-11-13T18:35:49+00:00",
   "total": 30,
   "verified": 0,
   "record": {
@@ -47457,6 +47457,36 @@
    "w": 12,
    "l": 16,
    "d": 2,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Rafael Márquez (boxer)": {
+  "slug": "rafael-marquez-boxer",
+  "updated": "2026-11-13T18:35:54+00:00",
+  "total": 50,
+  "verified": 0,
+  "record": {
+   "w": 41,
+   "l": 9,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Acelino Freitas": {
+  "slug": "acelino-freitas",
+  "updated": "2026-11-13T18:35:56+00:00",
+  "total": 43,
+  "verified": 0,
+  "record": {
+   "w": 41,
+   "l": 2,
+   "d": 0,
    "nc": 0
   },
   "langs": [
