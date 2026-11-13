@@ -12750,7 +12750,7 @@
  },
  "Sandy Ryan": {
   "slug": "sandy-ryan",
-  "updated": "2026-11-10T22:35:41+00:00",
+  "updated": "2026-11-13T22:41:01+00:00",
   "total": 13,
   "verified": 0,
   "record": {
@@ -12771,7 +12771,7 @@
  },
  "Vadim Musaev": {
   "slug": "vadim-musaev",
-  "updated": "2026-11-10T22:40:48+00:00",
+  "updated": "2026-11-13T22:41:04+00:00",
   "total": 15,
   "verified": 0,
   "record": {
@@ -48310,5 +48310,26 @@
  },
  "T. J. Wilson (boxer)": {
   "tried": "2026-11-13T22:35:40+00:00"
+ },
+ "Salvatore Battaglia": {
+  "tried": "2026-11-13T22:40:56+00:00"
+ },
+ "Saleh Khoulef": {
+  "tried": "2026-11-13T22:40:56+00:00"
+ },
+ "Soulan Pownceby": {
+  "slug": "soulan-pownceby",
+  "updated": "2026-11-13T22:41:09+00:00",
+  "total": 21,
+  "verified": 0,
+  "record": {
+   "w": 20,
+   "l": 0,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
