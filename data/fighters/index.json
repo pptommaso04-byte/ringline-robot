@@ -7739,7 +7739,7 @@
  },
  "Shabaz Masoud": {
   "slug": "shabaz-masoud",
-  "updated": "2026-11-10T13:53:41+00:00",
+  "updated": "2026-11-13T13:55:42+00:00",
   "total": 16,
   "verified": 0,
   "record": {
@@ -45839,5 +45839,42 @@
   "langs": [
    "en"
   ]
+ },
+ "Roy Nelson": {
+  "tried": "2026-11-13T13:55:35+00:00"
+ },
+ "Carlos Quintana (boxer)": {
+  "slug": "carlos-quintana-boxer",
+  "updated": "2026-11-13T13:55:49+00:00",
+  "total": 33,
+  "verified": 0,
+  "record": {
+   "w": 29,
+   "l": 4,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Alexander Ustinov": {
+  "slug": "alexander-ustinov",
+  "updated": "2026-11-13T13:55:55+00:00",
+  "total": 61,
+  "verified": 0,
+  "record": {
+   "w": 52,
+   "l": 7,
+   "d": 1,
+   "nc": 1
+  },
+  "langs": [
+   "en",
+   "es"
+  ]
+ },
+ "Elvis Mihailenko": {
+  "tried": "2026-11-13T13:55:35+00:00"
  }
 }
