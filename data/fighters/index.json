@@ -12649,7 +12649,7 @@
  },
  "Vincenzo Gualtieri": {
   "slug": "vincenzo-gualtieri",
-  "updated": "2026-11-10T22:25:39+00:00",
+  "updated": "2026-11-13T22:31:02+00:00",
   "total": 28,
   "verified": 0,
   "record": {
@@ -12673,7 +12673,7 @@
  },
  "Jermaine Franklin": {
   "slug": "jermaine-franklin",
-  "updated": "2026-11-10T22:25:46+00:00",
+  "updated": "2026-11-13T22:31:05+00:00",
   "total": 27,
   "verified": 0,
   "record": {
@@ -48259,5 +48259,38 @@
  },
  "Abdul Rashid Qambrani": {
   "tried": "2026-11-13T22:25:38+00:00"
+ },
+ "Faustino Reyes": {
+  "tried": "2026-11-13T22:30:59+00:00"
+ },
+ "Manny Siaca": {
+  "slug": "manny-siaca",
+  "updated": "2026-11-13T22:31:10+00:00",
+  "total": 33,
+  "verified": 0,
+  "record": {
+   "w": 25,
+   "l": 8,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Paul Spadafora": {
+  "slug": "paul-spadafora",
+  "updated": "2026-11-13T22:31:12+00:00",
+  "total": 51,
+  "verified": 0,
+  "record": {
+   "w": 49,
+   "l": 1,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
