@@ -2962,7 +2962,7 @@
  },
  "Juan Manuel López Jr.": {
   "slug": "juan-manuel-lopez-jr",
-  "updated": "2026-11-10T04:06:15+00:00",
+  "updated": "2026-11-13T04:10:48+00:00",
   "total": 6,
   "verified": 0,
   "record": {
@@ -2977,7 +2977,7 @@
  },
  "Zaquin Moses": {
   "slug": "zaquin-moses",
-  "updated": "2026-11-10T04:06:18+00:00",
+  "updated": "2026-11-13T04:10:50+00:00",
   "total": 8,
   "verified": 0,
   "record": {
@@ -43727,6 +43727,52 @@
    "en",
    "es",
    "pt"
+  ]
+ },
+ "Sergei Gur": {
+  "slug": "sergei-gur",
+  "updated": "2026-11-13T04:10:53+00:00",
+  "total": 35,
+  "verified": 0,
+  "record": {
+   "w": 19,
+   "l": 15,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "de"
+  ]
+ },
+ "Takalani Ndlovu": {
+  "slug": "takalani-ndlovu",
+  "updated": "2026-11-13T04:10:56+00:00",
+  "total": 44,
+  "verified": 0,
+  "record": {
+   "w": 34,
+   "l": 10,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Ismael El Massoudi": {
+  "slug": "ismael-el-massoudi",
+  "updated": "2026-11-13T04:11:00+00:00",
+  "total": 47,
+  "verified": 0,
+  "record": {
+   "w": 39,
+   "l": 8,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
   ]
  }
 }
