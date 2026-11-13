@@ -3124,7 +3124,7 @@
  },
  "Amir Anderson": {
   "slug": "amir-anderson",
-  "updated": "2026-11-10T04:35:48+00:00",
+  "updated": "2026-11-13T04:40:58+00:00",
   "total": 8,
   "verified": 0,
   "record": {
@@ -3146,7 +3146,7 @@
  },
  "Ashton Sylve": {
   "slug": "ashton-sylve",
-  "updated": "2026-11-10T04:35:57+00:00",
+  "updated": "2026-11-13T04:41:02+00:00",
   "total": 15,
   "verified": 0,
   "record": {
@@ -43986,5 +43986,26 @@
  },
  "Abdelaziz Touilbini": {
   "tried": "2026-11-13T04:35:38+00:00"
+ },
+ "Walid Cherif": {
+  "tried": "2026-11-13T04:40:53+00:00"
+ },
+ "Lalaina Rabenarivo": {
+  "tried": "2026-11-13T04:40:53+00:00"
+ },
+ "Paulus Moses": {
+  "slug": "paulus-moses",
+  "updated": "2026-11-13T04:41:10+00:00",
+  "total": 51,
+  "verified": 0,
+  "record": {
+   "w": 40,
+   "l": 10,
+   "d": 0,
+   "nc": 1
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
