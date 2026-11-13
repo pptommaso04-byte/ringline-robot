@@ -8076,7 +8076,7 @@
  },
  "Darmani Rock": {
   "slug": "darmani-rock",
-  "updated": "2026-11-10T14:35:53+00:00",
+  "updated": "2026-11-13T14:36:14+00:00",
   "total": 18,
   "verified": 0,
   "record": {
@@ -8091,7 +8091,7 @@
  },
  "Muhammad Ali (British boxer)": {
   "slug": "muhammad-ali-british-boxer",
-  "updated": "2026-11-10T14:35:57+00:00",
+  "updated": "2026-11-13T14:36:20+00:00",
   "total": 6,
   "verified": 0,
   "record": {
@@ -8109,7 +8109,7 @@
  },
  "Peter McGrail": {
   "slug": "peter-mcgrail",
-  "updated": "2026-11-10T14:36:01+00:00",
+  "updated": "2026-11-13T14:36:09+00:00",
   "total": 14,
   "verified": 0,
   "record": {
@@ -46078,6 +46078,24 @@
   "langs": [
    "en",
    "fr"
+  ]
+ },
+ "Yuriy Nuzhnenko": {
+  "tried": "2026-11-13T14:36:03+00:00"
+ },
+ "Yanqui Díaz": {
+  "slug": "yanqui-diaz",
+  "updated": "2026-11-13T14:36:27+00:00",
+  "total": 20,
+  "verified": 0,
+  "record": {
+   "w": 13,
+   "l": 5,
+   "d": 0,
+   "nc": 2
+  },
+  "langs": [
+   "en"
   ]
  }
 }
