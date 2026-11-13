@@ -13220,7 +13220,7 @@
  },
  "Maxim Prodan": {
   "slug": "maxim-prodan",
-  "updated": "2026-11-10T23:25:47+00:00",
+  "updated": "2026-11-13T23:31:13+00:00",
   "total": 25,
   "verified": 0,
   "record": {
@@ -48488,6 +48488,54 @@
   "langs": [
    "en",
    "es"
+  ]
+ },
+ "Michael Simms (boxer)": {
+  "slug": "michael-simms-boxer",
+  "updated": "2026-11-13T23:31:16+00:00",
+  "total": 40,
+  "verified": 0,
+  "record": {
+   "w": 22,
+   "l": 16,
+   "d": 2,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Casey Patton": {
+  "tried": "2026-11-13T23:31:09+00:00"
+ },
+ "Celes Kobayashi": {
+  "slug": "celes-kobayashi",
+  "updated": "2026-11-13T23:31:20+00:00",
+  "total": 32,
+  "verified": 0,
+  "record": {
+   "w": 24,
+   "l": 5,
+   "d": 3,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Charles Howe (boxer)": {
+  "slug": "charles-howe-boxer",
+  "updated": "2026-11-13T23:31:23+00:00",
+  "total": 24,
+  "verified": 0,
+  "record": {
+   "w": 17,
+   "l": 5,
+   "d": 2,
+   "nc": 0
+  },
+  "langs": [
+   "en"
   ]
  }
 }
