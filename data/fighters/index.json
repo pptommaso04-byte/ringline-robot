@@ -6454,7 +6454,7 @@
  },
  "Bruno Surace": {
   "slug": "bruno-surace",
-  "updated": "2026-11-10T11:20:58+00:00",
+  "updated": "2026-11-13T11:25:03+00:00",
   "total": 29,
   "verified": 0,
   "record": {
@@ -45067,5 +45067,54 @@
  },
  "Jerson Ravelo": {
   "tried": "2026-11-13T11:10:42+00:00"
+ },
+ "Erin Toughill": {
+  "slug": "erin-toughill",
+  "updated": "2026-11-13T11:25:08+00:00",
+  "total": 12,
+  "verified": 0,
+  "record": {
+   "w": 7,
+   "l": 3,
+   "d": 1,
+   "nc": 1
+  },
+  "langs": [
+   "en",
+   "es"
+  ]
+ },
+ "Andrzej Liczik": {
+  "tried": "2026-11-13T11:24:58+00:00"
+ },
+ "Roberto Cocco": {
+  "slug": "roberto-cocco",
+  "updated": "2026-11-13T11:25:16+00:00",
+  "total": 51,
+  "verified": 0,
+  "record": {
+   "w": 33,
+   "l": 17,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Cristóbal Cruz": {
+  "slug": "cristobal-cruz",
+  "updated": "2026-11-13T11:25:22+00:00",
+  "total": 68,
+  "verified": 0,
+  "record": {
+   "w": 41,
+   "l": 22,
+   "d": 4,
+   "nc": 1
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
