@@ -43334,5 +43334,45 @@
  },
  "Michael Lomax (boxer)": {
   "tried": "2026-11-13T01:35:46+00:00"
+ },
+ "Walter Matthysse": {
+  "tried": "2026-11-13T01:40:46+00:00"
+ },
+ "Lechedzani Luza": {
+  "tried": "2026-11-13T01:40:46+00:00"
+ },
+ "Eagle Kyowa": {
+  "slug": "eagle-kyowa",
+  "updated": "2026-11-13T01:40:54+00:00",
+  "total": 20,
+  "verified": 0,
+  "record": {
+   "w": 18,
+   "l": 2,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Hidehiko Tsukamoto": {
+  "tried": "2026-11-13T01:40:46+00:00"
+ },
+ "Miguel Barrera": {
+  "slug": "miguel-barrera",
+  "updated": "2026-11-13T01:41:02+00:00",
+  "total": 26,
+  "verified": 0,
+  "record": {
+   "w": 23,
+   "l": 1,
+   "d": 2,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "it"
+  ]
  }
 }
