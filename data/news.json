@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T21:31:04+00:00",
+ "updated": "2026-11-13T21:35:40+00:00",
  "feeds_ok": 49,
  "feeds_failed": 4,
  "news": [
@@ -132,7 +132,7 @@
    "date": "2026-11-13T19:33:07+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 59,
+   "score": 58,
    "sources_n": 5,
    "title_it": "Gerome Warburton è sempre il perdente e ne esce sempre vincitore: Riyadh Season Zuffa Boxing 13",
    "title_es": "Gerome Warburton siempre es el perdedor y siempre sale victorioso: Riyadh Season Zuffa Boxing 13"
@@ -413,19 +413,6 @@
    "title_es": "Eddie Hearn cree que Terence Crawford pondrá fin a su retirada para disputar un combate que batirá récords"
   },
   {
-   "title": "Is this Canelo’s plan to become undisputed again? 👀",
-   "link": "https://www.saddoboxing.com/112232-is-this-canelos-plan-to-become-undisputed-again-%f0%9f%91%80.html",
-   "source": "Saddo Boxing",
-   "lang": "en",
-   "date": "2026-11-13T16:27:06+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 70,
-   "sources_n": 1,
-   "title_it": "È questo il piano di Canelo per tornare ad essere campione indiscusso? 👀",
-   "title_es": "¿Es este el plan de Canelo para volver a ser el campeón indiscutible? 👀"
-  },
-  {
    "title": "David Benavidez throws 60 punches in 6 seconds 🤯",
    "link": "https://www.reddit.com/r/Boxing/comments/1xvc2hr/david_benavidez_throws_60_punches_in_6_seconds/",
    "source": "Reddit r/Boxing",
@@ -478,6 +465,19 @@
    "sources_n": 1,
    "title_it": "Gennady Golovkin cerca di prendere il controllo del centro del ring, ma Canelo Álvarez mantiene la sua posizione.",
    "title_es": "Gennady Golovkin intenta tomar el control del centro del ring, pero Canelo Álvarez mantiene su posición."
+  },
+  {
+   "title": "Is this Canelo's plan to become undisputed again? 👀",
+   "link": "https://www.youtube.com/watch?v=efxNCEInF7M",
+   "source": "YouTube DAZN Boxing",
+   "lang": "en",
+   "date": "2026-11-13T16:00:26+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 70,
+   "sources_n": 1,
+   "title_it": "È questo il piano di Canelo per tornare ad essere il campione indiscusso? 👀",
+   "title_es": "¿Es este el plan de Canelo para volver a ser el campeón indiscutible? 👀"
   },
   {
    "title": "Three whirlwind showdowns descend on Saudi Arabia: Riyadh Season Zuffa Boxing 13 cold open",
@@ -663,7 +663,7 @@
    "date": "2026-11-13T13:31:54+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 46,
+   "score": 45,
    "sources_n": 3,
    "title_it": "Boxe, Antonio Moffa è campione italiano Under 15: trionfo a Foggia per il giovane atleta di Mercato San Severino - Salerno In Web",
    "title_es": "Boxeo, Antonio Moffa es campeón de Italia Sub 15: triunfo en Foggia para el joven atleta del Mercato San Severino - Salerno In Web"
@@ -881,7 +881,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 118,
+   "score": 117,
    "sources_n": 14,
    "title_it": "Dove guardare Tyson Fury contro Anthony Joshua e la copertura di talkSPORT per il mega-incontro",
    "title_es": "Dónde ver el combate entre Tyson Fury y Anthony Joshua, además de la cobertura de talkSPORT del gran combate"
@@ -1081,7 +1081,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 127,
+   "score": 126,
    "sources_n": 15,
    "title_it": "L'ex campione dei pesi massimi Riddick Bowe riassume le possibilità di Anthony Joshua di battere Tyson Fury",
    "title_es": "El ex campeón de los pesos pesados Riddick Bowe resume las posibilidades de Anthony Joshua de vencer a Tyson Fury"
@@ -1644,7 +1644,7 @@
    "date": "2026-11-12T21:33:38+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 68,
+   "score": 67,
    "sources_n": 4,
    "title_it": "Arminius Rolle approvato per il titolo mondiale giovanile WBA a 16 anni",
    "title_es": "Arminius Rolle aprobado para el título mundial juvenil de la AMB a los 16 años"
@@ -1826,7 +1826,7 @@
    "date": "2026-11-12T19:33:52+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 47,
+   "score": 46,
    "sources_n": 2,
    "title_it": "Floyd Schofield Jnr-Jose “Rayo” Valenzuela ordinato dalla WBA",
    "title_es": "Floyd Schofield Jr-José “Rayo” Valenzuela ordenado por la AMB"
@@ -2013,7 +2013,7 @@
    "date": "2026-11-12T15:34:52+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 15,
+   "score": 14,
    "sources_n": 1,
    "title_it": "Boxe, la palermitana Crystal Filardi trionfa ai campionati italiani under 15 e conquista l'oro - PalermoToday",
    "title_es": "Boxeo, Crystal Filardi de Palermo triunfa en el campeonato italiano sub 15 y gana el oro - PalermoToday"
@@ -2427,6 +2427,19 @@
    "sources_n": 14,
    "title_it": "Altri combattimenti dei pesi massimi aggiunti alla undercard Tyson Fury vs Anthony Joshua",
    "title_es": "Se agregaron más peleas de peso pesado a la cartelera de Tyson Fury vs Anthony Joshua"
+  },
+  {
+   "title": "Zero scuse, dodici anni di sport e impegno sociale sul territorio - Lecce Tomorrow",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU21HR3ZBdm5EekV0MHZtUGJOZXNLUjNIa0xENkRkZVdwNnVsUnJJSU1tT0VIVlFnbnJPbXpuM3JvSkhZWXJlejIzbjB0c0hfb0V4WWNwdGFWZlJTWlRYd3lzOGxtb2JNcW5nczlrS092QldyM05XSFJhdjJTZktDRUd5a18xMGJTa2lxb1I0WEFsOENBUDlJY2I4aG52QXA0cjVHYmlfcXY?oc=5",
+   "source": "Google News: pugilato",
+   "lang": "it",
+   "date": "2026-11-12T09:09:00+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 11,
+   "sources_n": 1,
+   "title_it": "Zero scuse, dodici anni di sport e impegno sociale sul territorio - Lecce Tomorrow",
+   "title_es": "Cero excusas, doce años de deporte y compromiso social en el territorio - Lecce Tomorrow"
   },
   {
    "title": "Ferramosca sfida Sapone per il titolo italiano: Prato sogna con il suo “Bulldozer” - Notizie di Prato",
@@ -3106,19 +3119,6 @@
    "sources_n": 2,
    "title_it": "Dakar 2026: medaglia dal pugilato, Michela Guglielmon di bronzo nei 48 kg - Comitato Olimpico Nazionale",
    "title_es": "Dakar 2026: medalla en boxeo, Michela Guglielmon bronce en los 48 kg - Comité Olímpico Nacional"
-  },
-  {
-   "title": "Successo Pugilistica Lucchese ai tricolori under 15 di pugilato: un oro, un argento e due bronzi - LuccainDiretta",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNcmp6T0RVLUtlQnNQdnk4WjlhNnlHclZCYUg0SEZNcFp0bThxdFpWWFl4UWhvMW1uemdpaUVpc2FvOGhfOG1vOTJPempIX0hUUVRGWlMxOWpNZTJCZUhDZmdnUjZ3SlA1bDRJZDRaUW5sdEpHRlBGOWRmdmpQU3JKN01TRG1QZFVfTUFRWl9NbDlySUhid0NSdklXS1ZjcVBGbmM2cEdFcUVIaUhuZW5XWjRGbFVKTlNQa3c0Ti10ZGpSaGJGRTVVeDVsRE9mSEEtRUZfU0xVQ0I4SkJaRVZaVU43Y1oyVkk0Q3dBWWlpSQ?oc=5",
-   "source": "Google News: pugilato",
-   "lang": "it",
-   "date": "2026-11-11T14:52:00+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 2,
-   "sources_n": 1,
-   "title_it": "Successo Pugilistica Lucchese ai tricolori under 15 di pugilato: un oro, un argento e due bronzi - LuccainDiretta",
-   "title_es": "Éxito del boxeo luqués en el Campeonato de Italia sub-15 de boxeo: un oro, una plata y dos bronces - LuccainDiretta"
   },
   {
    "title": "Tyson Fury vs Anthony Joshua winner urged to face 'hard done by' rival next",
