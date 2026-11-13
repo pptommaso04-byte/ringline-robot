@@ -6123,7 +6123,7 @@
  },
  "Lewis Williams (boxer)": {
   "slug": "lewis-williams-boxer",
-  "updated": "2026-11-10T10:46:00+00:00",
+  "updated": "2026-11-13T10:46:28+00:00",
   "total": 89,
   "verified": 0,
   "record": {
@@ -44927,5 +44927,41 @@
  },
  "David Alonso López": {
   "tried": "2026-11-13T10:35:36+00:00"
+ },
+ "Eric Ortiz": {
+  "slug": "eric-ortiz",
+  "updated": "2026-11-13T10:46:34+00:00",
+  "total": 48,
+  "verified": 0,
+  "record": {
+   "w": 32,
+   "l": 13,
+   "d": 3,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Maria Lindberg": {
+  "slug": "maria-lindberg",
+  "updated": "2026-11-13T10:46:39+00:00",
+  "total": 32,
+  "verified": 0,
+  "record": {
+   "w": 20,
+   "l": 9,
+   "d": 2,
+   "nc": 1
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Riaz Durgahed": {
+  "tried": "2026-11-13T10:46:20+00:00"
+ },
+ "Dennis Laurente": {
+  "tried": "2026-11-13T10:46:20+00:00"
  }
 }
