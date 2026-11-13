@@ -6853,7 +6853,7 @@
  },
  "Blueface": {
   "slug": "blueface",
-  "updated": "2026-11-10T12:16:09+00:00",
+  "updated": "2026-11-13T12:20:52+00:00",
   "total": 2,
   "verified": 0,
   "record": {
@@ -45395,5 +45395,29 @@
  },
  "Song In-joon": {
   "tried": "2026-11-13T12:15:47+00:00"
+ },
+ "Idrissa Kabore": {
+  "tried": "2026-11-13T12:20:45+00:00"
+ },
+ "Frédéric Serrat": {
+  "tried": "2026-11-13T12:20:45+00:00"
+ },
+ "Tulkunbay Turgunov": {
+  "tried": "2026-11-13T12:20:45+00:00"
+ },
+ "Fulgencio Zúñiga": {
+  "slug": "fulgencio-zuniga",
+  "updated": "2026-11-13T12:21:01+00:00",
+  "total": 24,
+  "verified": 0,
+  "record": {
+   "w": 11,
+   "l": 13,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
