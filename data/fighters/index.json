@@ -44200,5 +44200,86 @@
    "en",
    "es"
   ]
+ },
+ "Zab Judah": {
+  "slug": "zab-judah",
+  "updated": "2026-11-13T07:10:58+00:00",
+  "total": 56,
+  "verified": 0,
+  "record": {
+   "w": 44,
+   "l": 10,
+   "d": 0,
+   "nc": 2
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Laila Ali": {
+  "slug": "laila-ali",
+  "updated": "2026-11-13T07:11:04+00:00",
+  "total": 24,
+  "verified": 0,
+  "record": {
+   "w": 24,
+   "l": 0,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "es"
+  ]
+ },
+ "Fernando Vargas": {
+  "slug": "fernando-vargas",
+  "updated": "2026-11-13T07:11:11+00:00",
+  "total": 31,
+  "verified": 0,
+  "record": {
+   "w": 26,
+   "l": 5,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Jeff Lacy": {
+  "slug": "jeff-lacy",
+  "updated": "2026-11-13T07:11:15+00:00",
+  "total": 34,
+  "verified": 0,
+  "record": {
+   "w": 27,
+   "l": 6,
+   "d": 0,
+   "nc": 1
+  },
+  "langs": [
+   "en",
+   "it"
+  ]
+ },
+ "Floyd Mayweather Jr.": {
+  "slug": "floyd-mayweather-jr",
+  "updated": "2026-11-13T07:11:26+00:00",
+  "total": 50,
+  "verified": 50,
+  "record": {
+   "w": 50,
+   "l": 0,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "it",
+   "es",
+   "fr",
+   "pt"
+  ]
  }
 }
