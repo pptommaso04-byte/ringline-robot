@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T09:47:46+00:00",
+ "updated": "2026-11-13T09:52:51+00:00",
  "feeds_ok": 49,
  "feeds_failed": 4,
  "news": [
@@ -16,7 +16,7 @@
    ],
    "score": 132,
    "sources_n": 16,
-   "title_es": "El ex campeón de los pesos pesados Riddick Bowe resume las posibilidades de Anthony Joshua de vencer a Tyson Fury"
+   "title_it": "L'ex campione dei pesi massimi Riddick Bowe riassume le possibilità di Anthony Joshua di battere Tyson Fury"
   },
   {
    "title": "Maria Laura Perrotta, orgoglio cosentino agli Euro U23 di boxe - il Dot",
@@ -67,7 +67,7 @@
    "score": 39,
    "sources_n": 2,
    "title_it": "Amir Khan riassume le possibilità di un ritorno con successo di Kell Brook, mentre viene riportato l'accordo per l'incontro con Eubank",
-   "title_es": "Amir Khan resume las posibilidades de Kell Brook de lograr una reaparición exitosa tras conocerse el acuerdo para el combate con Eubank"
+   "title_es": "Amir Khan resume las posibilidades de Kell Brook de lograr una reaparición con éxito tras conocerse el acuerdo para el combate con Eubank"
   },
   {
    "title": "DEV SAHNI REACTS TO TYSON FURY VS ANTHONY JOSHUA LICENCE DRAMA, DEONTAY WILDER VS JAI OPETAIA",
@@ -205,7 +205,7 @@
    "boxers": [
     "Naoya Inoue"
    ],
-   "score": 73,
+   "score": 72,
    "sources_n": 1,
    "title_it": "Naoya Inoue Incredibili filmati di sparring di giovani",
    "title_es": "Naoya inoue Imágenes increíbles de Sparring joven"
@@ -366,7 +366,7 @@
    "boxers": [],
    "score": 41,
    "sources_n": 1,
-   "title_it": "Canelo ha lanciato la sfida per un incontro \"che tutto il mondo guarderà\": \"Sono il miglior pugile del pianeta\"",
+   "title_it": "Canelo ha lanciato una sfida per un incontro \"che tutto il mondo guarderà\": \"Sono il miglior pugile del pianeta\"",
    "title_es": "«Canelo» ha lanzado un desafío para un combate que «todo el mundo verá»: «Soy el mejor boxeador del planeta»."
   },
   {
@@ -877,7 +877,7 @@
    "date": "2026-11-12T19:47:46+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 61,
+   "score": 60,
    "sources_n": 5,
    "title_it": "Se Floyd batte Ryan",
    "title_es": "Si Floyd vence a Ryan"
@@ -1177,19 +1177,6 @@
    "title_es": "Boxeo, Crystal Filardi de Palermo triunfa en el campeonato italiano sub 15 y gana el oro - PalermoToday"
   },
   {
-   "title": "Pugilato, Maria Laura Perrotta vola agli Europei Under 23: l’atleta cosentina vestirà la maglia azzurra in Croazia · LaC News24 - LaC News24",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNM1JpZVFpaWlRRzRnQzBtdTNMOG02RkJYUjJHZnUyOGtkNGN5dU1YeDB4Vl9XRGZxUnRCcXpmUWRqY3BxS0RCUS03T3h4QWF4YThreDQ3OVZKOW1nSV82bFdsQlVlZWlNNlZyay1hWHhNTGZNRzcxLVdoQ2hXeDZ0MDV1Q0dCdVdRNWw2QzM3TWtEWkZ3d2VtT2hVUUFRdGloQUxxQXdKSkRHNERwUHBwaUhSeGFTdjNiQkxIS2gtWndldGt0VDBJM3NvZHZ6aVZsSDA3SEVkNmduaUw2M0xLMk40M1ZrZ9IB6wFBVV95cUxOd0ozNk1TV3dIQ0l6NVhjcmhNN0dqWUYtVXh2SmZ4SzQwRGQxd3pYQmFUX21id3JkQ0s3ckdpTU00MTl2Q3d1Mk03cXZpeFMtcFdGQzc5ZktJaHhvenpkM2ZBcHFiVW1wRF9oZWt4TjlGdE5DTkFEWU83UWVEUEtUZ2puMDR6Uk44Vlc2RG9EMnJyR0JYRnVhT3c5NEpBcnVwbkhtRDZTRHA1cHY0a29UUmFBTXRoQ0czVTVGWW1iWVIzU0l0djZSWnlGQjJZRlQwRHpsQk01TF9sd21SQ2xyQzJuOUlLX3QyVVJZ?oc=5",
-   "source": "Google News: pugilato",
-   "lang": "it",
-   "date": "2026-11-12T15:17:05+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 40,
-   "sources_n": 3,
-   "title_it": "Pugilato, Maria Laura Perrotta vola agli Europei Under 23: l’atleta cosentina vestirà la maglia azzurra in Croazia · LaC News24 - LaC News24",
-   "title_es": "Pugilato, Maria Laura Perrotta vuela a los Europeos Sub-23: la atleta de Cosenza vestirá la camiseta azul en Croacia · LaC News24 - LaC News24"
-  },
-  {
    "title": "WBA orders Teofimo Lopez vs Jack Catterall amid Ryan Garcia talks",
    "link": "https://www.boxingscene.com/articles/wba-orders-teofimo-lopez-vs-jack-catterall-amid-ryan-garcia-talks",
    "source": "Boxing Scene",
@@ -1241,7 +1228,8 @@
    "boxers": [],
    "score": 113,
    "sources_n": 5,
-   "title_it": "David Benavidez dovrà affrontare un uomo se batte Michal Cieslak o rischierà di perdere il titolo WBC"
+   "title_it": "David Benavidez dovrà affrontare un uomo se batterà Michal Cieslak o rischierà di perdere il titolo WBC",
+   "title_es": "David Benavidez tendrá que enfrentarse a un hombre si vence a Michal Cieslak o se arriesgará a perder el título del CMB"
   },
   {
    "title": "Fabio Wardley makes final retirement decision after Daniel Dubois KO",
@@ -1303,7 +1291,7 @@
    "date": "2026-11-12T13:47:56+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 28,
+   "score": 27,
    "sources_n": 1,
    "title_it": "Spiegazione di KO, TKO, RTD e decisioni tecniche",
    "title_es": "Explicación de los KO, los TKO, los RTD y las decisiones técnicas"
@@ -1480,7 +1468,7 @@
    "date": "2026-11-12T11:46:19+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 49,
+   "score": 48,
    "sources_n": 8,
    "title_it": "Eddie Hearn accetta l'offerta di combattimento di Dana White a una condizione",
    "title_es": "Eddie Hearn acepta oferta de pelea con Dana White con una condición"
@@ -1540,7 +1528,8 @@
    "boxers": [],
    "score": 103,
    "sources_n": 4,
-   "title_it": "Canelo \"più che disposto\" ad affrontare il compagno di scuderia Terence Crawford mentre la WBC valuta di organizzare l'incontro"
+   "title_it": "Canelo \"più che disposto\" ad affrontare il compagno di scuderia Terence Crawford mentre la WBC valuta di organizzare l'incontro",
+   "title_es": "«Canelo» está «más que dispuesto» a enfrentarse a su compañero de cuadra Terence Crawford, mientras el CMB se plantea ordenar el combate"
   },
   {
    "title": "Ryan Garcia’s undisputed fight plan suffers major blow after WBA ruling",
@@ -1553,7 +1542,7 @@
    "score": 101,
    "sources_n": 7,
    "title_it": "Il piano di Ryan Garcia per l'incontro per il titolo indiscusso subisce un duro colpo dopo la decisione della WBA",
-   "title_es": "El plan de combate indiscutible de Ryan García sufre un duro golpe tras la decisión de la WBA"
+   "title_es": "El plan de combate indiscutido de Ryan García sufre un duro golpe tras la decisión de la WBA"
   },
   {
    "title": "Zelfa Barrett maintains world title dream after ‘frustrating’ year",
@@ -1779,7 +1768,7 @@
    "date": "2026-11-12T03:46:31+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 23,
+   "score": 22,
    "sources_n": 1,
    "title_it": "Dicevano che era arrugginito. Lui ha risposto con un KO tecnico.",
    "title_es": "Decían que estaba oxidado. Él respondió con un nocaut técnico."
@@ -2027,7 +2016,7 @@
    "date": "2026-11-11T21:47:02+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 2,
+   "score": 1,
    "sources_n": 1,
    "title_it": "Foto: Orobio e Cedeno fanno peso per uno scontro da 140 libbre",
    "title_es": "Fotos: Orobio y Cedeño dan peso para choque de 140 libras"
@@ -2857,22 +2846,6 @@
    "title_es": "WBC Cares y campeones del mundo comparten una jornada de cariño en el Hogar Infantil Marsh - World Boxing Council"
   },
   {
-   "title": "Boxing: What's next for Joshua Buatsi after his world title loss to Willy Hutchinson? - Sky Sports",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPb0I3ZFJuVjgtakY2elFRWGVoUG5RRXQ1UWdFVmJXWDdMSHY5V3c5TnhQb0ZCVjVqYzEwbXA1WlNIZjd5aWxpOEl1bFpPbWNGUlVFWFRDUW1lZzhibGN6OGJBOUxWM0xybXd0NlhWOUF4MzNkVjluTlByT3FXWFFzZEk3RFczWTJfZUJmb1lwUkY1QUxVMC1naktlMHFGd1RjcTVXQkdQaV9HZVZvZzlueUxsNmhEeXRxRnZIMU9ZbXlIX2JhNHoycQ?oc=5",
-   "source": "Google News: boxing",
-   "lang": "en",
-   "date": "2026-11-11T03:49:31+00:00",
-   "status": "unverified",
-   "boxers": [
-    "Joshua Buatsi",
-    "Anthony Joshua"
-   ],
-   "score": 98,
-   "sources_n": 6,
-   "title_it": "Boxe: quali sono le prospettive per Joshua Buatsi dopo la perdita del titolo mondiale contro Willy Hutchinson? - Sky Sport",
-   "title_es": "Boxeo: ¿Qué sigue para Joshua Buatsi después de perder el título mundial ante Willy Hutchinson? - Deportes del cielo"
-  },
-  {
    "title": "Eddy Reynoso, nombrado entrenador del año 2026 por el CMB - Los Angeles Times",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWExrWHk5czV1b1Y0REV0dzdZSVFkVWlYdlVyTjA0cUt0WXM4OGplYmRTdTg1S05FQmgwLXRYYl96SjhmMVNONmZrZzBiSU1xbjZITFVPTEY2TTBkbm9VdDFvSkNZdXROdktHU3RtT2pHY3k5bnNZcFVubkFoUDNQSTRZSXJGMmpIRGltbVg5RjAxRUVQdnFINXctZzMyXzJxUUVvYWJfYmYybnl0T0pBSzMtdDFDMFF4?oc=5",
    "source": "Google News: boxeo",
@@ -3280,6 +3253,22 @@
    "title_es": "El combate entre Anthony Joshua y Tyson Fury podría cancelarse tras las objeciones presentadas en última hora"
   },
   {
+   "title": "Boxing: What's next for Joshua Buatsi after his world title loss to Willy Hutchinson? - Sky Sports",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPb0I3ZFJuVjgtakY2elFRWGVoUG5RRXQ1UWdFVmJXWDdMSHY5V3c5TnhQb0ZCVjVqYzEwbXA1WlNIZjd5aWxpOEl1bFpPbWNGUlVFWFRDUW1lZzhibGN6OGJBOUxWM0xybXd0NlhWOUF4MzNkVjluTlByT3FXWFFzZEk3RFczWTJfZUJmb1lwUkY1QUxVMC1naktlMHFGd1RjcTVXQkdQaV9HZVZvZzlueUxsNmhEeXRxRnZIMU9ZbXlIX2JhNHoycQ?oc=5",
+   "source": "Google News: boxing",
+   "lang": "en",
+   "date": "2026-11-10T16:42:12+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Joshua Buatsi",
+    "Anthony Joshua"
+   ],
+   "score": 95,
+   "sources_n": 6,
+   "title_it": "Boxe: quali sono le prospettive per Joshua Buatsi dopo la perdita del titolo mondiale contro Willy Hutchinson? - Sky Sport",
+   "title_es": "Boxeo: ¿Qué sigue para Joshua Buatsi después de perder el título mundial ante Willy Hutchinson? - Deportes del cielo"
+  },
+  {
    "title": "La gala de la Convención WBC en Acapulco celebra la grandeza y la solidaridad del boxeo - World Boxing Council",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNFg5aHVpbkt1Mm9ocURfb2RwcUNIVUVOVUNHa1hkc0RKam15N1pqTm45MnRHbXB4OVNUWThsUFhJSGl3MlRDakoxLXpnb0lDY0lsWENfbTg4bC12QTNoOThyRjAwWW5DYXdVdGxqTTc3dS1EbTJjLWZtaWZmd1pWdDAxSlhSR0hmMXZnR3RmTndZNUhhajJGSHliMnh1QlV1T1FMV2RDUlNESUZWVllr?oc=5",
    "source": "Google News: boxeo",
@@ -3436,7 +3425,7 @@
    "score": 0,
    "sources_n": 1,
    "title_it": "A Chiarbola arrivano i migliori pugili del Fvg: è la Boxenight 10, ecco quando - TriestePrima",
-   "title_es": "A Chiarbola llegan los mejores boxeadores del Friul-Venecia Julia: es la Boxenight 10, aquí tienes cuándo - TriestePrima"
+   "title_es": "A Chiarbola llegan los mejores boxeadores de Friul-Venecia Julia: es la Boxenight 10, aquí tienes cuándo - TriestePrima"
   },
   {
    "title": "Trieste Boxe Night 10, Sara Lombardi difende il titolo italiano femminile - Nordest24",
@@ -3450,6 +3439,19 @@
    "sources_n": 1,
    "title_it": "Trieste Boxe Night 10, Sara Lombardi difende il titolo italiano femminile - Nordest24",
    "title_es": "Trieste Boxe Noche 10, Sara Lombardi difende il titolo italiano femminile - Nordest24"
+  },
+  {
+   "title": "Terni, addio a Eraclio Conti: il mondo del pugilato piange l'ex atleta ternano - TerniToday",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOckdYaW5KdlFVRDVua1RQaktSUnR6bks1ZS1BbTc3cXBmanctQXBzZXkxbVpJQnVhVHNfS0cxWGZMTm1qRVZqZG11THlYd2I2MHpLNk9hN0h0TXBscU1MMkVRVi1IVXJKV0xOTlplTWFUckROYmVMTVZIdElHcnZpT3VoVXI?oc=5",
+   "source": "Google News: pugilato",
+   "lang": "it",
+   "date": "2026-11-10T12:36:01+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 0,
+   "sources_n": 1,
+   "title_it": "Terni, addio a Eraclio Conti: il mondo del pugilato piange l'ex atleta ternano - TerniToday",
+   "title_es": "Terni, adiós a Eraclio Conti: el mundo del boxeo llora al exatleta de Terni - TerniToday"
   },
   {
    "title": "Denzel Bentley willing to travel to Ireland for Aaron McKenna title shot",
@@ -3966,7 +3968,7 @@
    "boxers": [],
    "score": 35,
    "sources_n": 1,
-   "title_es": "Resumen del fin de semana del boxeo: Willy Hutchinson se proclama campeón del mundo y Cheavon Clarke relanza su carrera - DAZN"
+   "title_es": "Resumen del fin de semana de boxeo: Willy Hutchinson se proclama campeón del mundo y Cheavon Clarke relanza su carrera - DAZN"
   },
   {
    "title": "Former WWE champion Bobby Lashley, 50, discussing bare-knuckle debut at BKFC",
