@@ -2899,7 +2899,7 @@
  },
  "Curmel Moton": {
   "slug": "curmel-moton",
-  "updated": "2026-11-10T03:55:41+00:00",
+  "updated": "2026-11-13T04:01:10+00:00",
   "total": 9,
   "verified": 0,
   "record": {
@@ -2917,7 +2917,7 @@
  },
  "Javon Walton": {
   "slug": "javon-walton",
-  "updated": "2026-11-10T03:55:48+00:00",
+  "updated": "2026-11-13T04:01:15+00:00",
   "total": 5,
   "verified": 0,
   "record": {
@@ -43657,5 +43657,26 @@
  },
  "Patrick López": {
   "tried": "2026-11-13T03:55:36+00:00"
+ },
+ "Jorge Lacierva": {
+  "tried": "2026-11-13T04:01:07+00:00"
+ },
+ "Daniel Betti": {
+  "tried": "2026-11-13T04:01:07+00:00"
+ },
+ "Teruo Misawa": {
+  "slug": "teruo-misawa",
+  "updated": "2026-11-13T04:01:21+00:00",
+  "total": 27,
+  "verified": 0,
+  "record": {
+   "w": 18,
+   "l": 5,
+   "d": 4,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
