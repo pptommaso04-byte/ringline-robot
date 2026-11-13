@@ -2086,7 +2086,7 @@
  },
  "Manny Pacquiao": {
   "slug": "manny-pacquiao",
-  "updated": "2026-11-10T03:01:33+00:00",
+  "updated": "2026-11-13T03:05:48+00:00",
   "total": 73,
   "verified": 52,
   "record": {
@@ -2103,7 +2103,7 @@
  },
  "Carl Froch": {
   "slug": "carl-froch",
-  "updated": "2026-11-10T03:01:43+00:00",
+  "updated": "2026-11-13T03:05:54+00:00",
   "total": 35,
   "verified": 0,
   "record": {
@@ -2118,7 +2118,7 @@
  },
  "Shane Cameron": {
   "slug": "shane-cameron",
-  "updated": "2026-11-10T03:01:51+00:00",
+  "updated": "2026-11-13T03:05:57+00:00",
   "total": 34,
   "verified": 0,
   "record": {
@@ -43596,5 +43596,24 @@
  },
  "Joy Ali": {
   "tried": "2026-11-13T03:01:19+00:00"
+ },
+ "Carl Johanneson": {
+  "tried": "2026-11-13T03:05:40+00:00"
+ },
+ "Alex Arthur": {
+  "slug": "alex-arthur",
+  "updated": "2026-11-13T03:06:03+00:00",
+  "total": 34,
+  "verified": 0,
+  "record": {
+   "w": 31,
+   "l": 3,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "pt"
+  ]
  }
 }
