@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T06:35:32+00:00",
+ "updated": "2026-11-13T06:40:47+00:00",
  "feeds_ok": 49,
  "feeds_failed": 4,
  "news": [
@@ -65,7 +65,7 @@
    "date": "2026-11-13T04:36:06+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 29,
+   "score": 28,
    "sources_n": 1,
    "title_it": "Il pugile punjabi Parm Pannu trionfa nel suo debutto da professionista",
    "title_es": "El boxeador punyabí Parm Pannu arrasa en su debut como profesional"
@@ -276,7 +276,7 @@
    "date": "2026-11-13T00:37:47+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 77,
+   "score": 76,
    "sources_n": 6,
    "title_it": "Notizie di inscatolamento: Arminius Roller approvato per il titolo mondiale giovanile WBA a 16 anni »12 novembre 2026 - FightNews",
    "title_es": "Boxing News: Arminius Roller aprobado para el título mundial juvenil de la AMB a los 16 años »12 de noviembre de 2026 - FightNews"
@@ -901,7 +901,7 @@
    "date": "2026-11-12T16:39:59+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 23,
+   "score": 22,
    "sources_n": 1,
    "title_it": "Magnesi sale nel ranking Mondiale: ora è 15esimo - Civonline",
    "title_es": "Magnesi en el ránking mundial: ahora es 15.º - Civonline"
@@ -1222,7 +1222,7 @@
    "date": "2026-11-12T12:40:01+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 39,
+   "score": 38,
    "sources_n": 1,
    "title_it": "Il trentino Luis Vela domina a Istanbul: avversario ko all’ottava ripresa e cintura Wbc confermata - La Piazza Web",
    "title_es": "El trentino Luis Vela domina en Estambul: su rival cae KO en el octavo asalto y se confirma el cinturón del CMB - La Piazza Web"
@@ -1471,6 +1471,19 @@
    "sources_n": 14,
    "title_it": "Altri combattimenti dei pesi massimi aggiunti alla undercard Tyson Fury vs Anthony Joshua",
    "title_es": "Se agregaron más peleas de peso pesado a la cartelera de Tyson Fury vs Anthony Joshua"
+  },
+  {
+   "title": "Zero scuse, dodici anni di sport e impegno sociale sul territorio - Lecce Tomorrow",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU21HR3ZBdm5EekV0MHZtUGJOZXNLUjNIa0xENkRkZVdwNnVsUnJJSU1tT0VIVlFnbnJPbXpuM3JvSkhZWXJlejIzbjB0c0hfb0V4WWNwdGFWZlJTWlRYd3lzOGxtb2JNcW5nczlrS092QldyM05XSFJhdjJTZktDRUd5a18xMGJTa2lxb1I0WEFsOENBUDlJY2I4aG52QXA0cjVHYmlfcXY?oc=5",
+   "source": "Google News: pugilato",
+   "lang": "it",
+   "date": "2026-11-12T09:09:00+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 19,
+   "sources_n": 1,
+   "title_it": "Zero scuse, dodici anni di sport e impegno sociale sul territorio - Lecce Tomorrow",
+   "title_es": "Cero excusas, doce años de deporte y compromiso social en el territorio - Lecce Tomorrow"
   },
   {
    "title": "Ferramosca sfida Sapone per il titolo italiano: Prato sogna con il suo “Bulldozer” - Notizie di Prato",
@@ -2190,7 +2203,7 @@
    "date": "2026-11-11T16:39:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 21,
+   "score": 20,
    "sources_n": 1,
    "title_it": "Pugilato: Luis Vela è campione Wbc International - Ufficio Stampa della Provincia autonoma di Trento",
    "title_es": "Boxeo: Luis Vela es campeón internacional del WBC - Oficina de Prensa de la Provincia Autónoma de Trento"
@@ -2377,7 +2390,7 @@
    "date": "2026-11-11T14:40:35+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 45,
+   "score": 44,
    "sources_n": 2,
    "title_it": "Jarrell Miller si prepara a sfidare sul ring il campione olimpico Tony Yoka, mentre l'incontro per il titolo viene annullato",
    "title_es": "Jarrell Miller se enfrentará al campeón olímpico Tony Yoka, ya que el combate por el título ha quedado descartado"
@@ -2451,7 +2464,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 104,
+   "score": 103,
    "sources_n": 14,
    "title_it": "Tyson Fury contro Anthony Joshua: in programma il terzo incontro di sottofondo con un nuovo peso massimo aggiunto all'attesissimo incontro",
    "title_es": "Tyson Fury contra Anthony Joshua: se espera que el tercer combate de la velada cuente con un nuevo peso pesado en la esperadísima pelea"
@@ -2573,7 +2586,7 @@
   },
   {
    "title": "Canelo Alvarez considers new world title challenge as Ciryl Gane responds to UFC criticism: Your daily combat sports news roundup - DAZN",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcXlISVdIeWZQa1U0UUQ0aGpnMlc0X1BGS2FEbFNkaVNleGRfN1ptRjVqa0pvSmhRWmd0Y1pRWEVFbFhWMWNhWlNTTExYVi04eTR5bHpWZzdidXphTWNsRXN4WDdUWHVGeTRWVXB2ZUhtLWxqRDR6U3dLa1ktZ0FsOHFTUWNzV3F2aDYxVnZ5dEFhY3U2UXNJTXBsNnBLNVhreEpIdG1QeWhTTnJaNnBKSzh4UlFFTVEydDdmT3puMHMyNXk4VFlRcGFDS0c?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTmI5bVA0MkpFWXBiOFhtaFloTk1pZnpBUFB2LVNoZGVZT3M2Z1kwM1BkbTN6dndSOGtUekpFbDgtbUNFTFFMRkp1OWhPSzJDMV9PXzZ0RW9tRFZVMk14Q0lwbGlwVWJFd1p2ZXJzYjd4V0MzdGFtRjdjZ3Q0ZUZKMjI3RXFmQnc0U1NKU0l3Y2NrZFE0dU5LMXNQUkg0ekowNnBhTDRyckJGX19JVFpwdTJHVWd5dWNwVFVYTVdJVVBUblpBVm44S090Zm4?oc=5",
    "source": "Google News: boxing",
    "lang": "en",
    "date": "2026-11-11T11:08:25+00:00",
@@ -2583,8 +2596,8 @@
    ],
    "score": 83,
    "sources_n": 6,
-   "title_it": "Canelo Alvarez considera una nuova sfida per il titolo mondiale mentre Ciryl Gane risponde alle critiche dell'UFC: la tua raccolta quotidiana di notizie sugli sport da combattimento - DAZN",
-   "title_es": "Canelo Álvarez considera un nuevo desafío por el título mundial mientras Ciryl Gane responde a las críticas de UFC: su resumen diario de noticias sobre deportes de combate - DAZN"
+   "title_it": "Canelo Álvarez pensa a una nuova sfida per il titolo mondiale mentre Ciryl Gane risponde alle critiche dell'UFC: il tuo riassunto quotidiano delle notizie sugli sport da combattimento - DAZN",
+   "title_es": "Canelo Álvarez baraja un nuevo combate por el título mundial mientras Ciryl Gane responde a las críticas de la UFC: tu resumen diario de noticias de deportes de combate - DAZN"
   },
   {
    "title": "Conor Benn gave Vinnie Kemp his flowers after his Round 1 finish  #ZuffaBoxing12 💐",
@@ -4059,19 +4072,6 @@
    "sources_n": 4,
    "title_it": "Elif Nur Turhan contro Alycia Baumgardner | Incontro completo | Pesi leggeri",
    "title_es": "Elif Nur Turhan contra Alycia Baumgardner | Combate completo | Peso ligero"
-  },
-  {
-   "title": "Conor McGregor’s bare-knuckle boxer leaves rival motionless in one of most chilling KOs of year",
-   "link": "https://talksport.com/boxing/4694487/bare-knuckle-boxer-ko-conor-mcgregor-bkfc-96-glasgow/",
-   "source": "Talksport Boxing",
-   "lang": "en",
-   "date": "2026-11-09T12:44:32+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 0,
-   "sources_n": 1,
-   "title_it": "Il pugile a mani nude di Conor McGregor lascia immobile il rivale in uno dei KO più agghiaccianti dell'anno",
-   "title_es": "El boxeador a puño limpio de Conor McGregor deja inmóvil a su rival en uno de los KO más escalofriantes del año"
   }
  ]
 }
