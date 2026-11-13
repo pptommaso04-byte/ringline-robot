@@ -8028,7 +8028,7 @@
  },
  "Rogers Semitala": {
   "slug": "rogers-semitala",
-  "updated": "2026-11-10T14:31:51+00:00",
+  "updated": "2026-11-13T14:32:40+00:00",
   "total": 10,
   "verified": 0,
   "record": {
@@ -8043,7 +8043,7 @@
  },
  "Kasumi Saeki": {
   "slug": "kasumi-saeki",
-  "updated": "2026-11-10T14:31:54+00:00",
+  "updated": "2026-11-13T14:32:43+00:00",
   "total": 4,
   "verified": 0,
   "record": {
@@ -8058,7 +8058,7 @@
  },
  "Samuel Carmona": {
   "slug": "samuel-carmona",
-  "updated": "2026-11-10T14:31:57+00:00",
+  "updated": "2026-11-13T14:32:37+00:00",
   "total": 13,
   "verified": 0,
   "record": {
@@ -46060,5 +46060,24 @@
  },
  "Antônio Rogério Nogueira": {
   "tried": "2026-11-13T14:27:02+00:00"
+ },
+ "Yevheniy Shestakov": {
+  "tried": "2026-11-13T14:32:33+00:00"
+ },
+ "Vitali Tsypko": {
+  "slug": "vitali-tsypko",
+  "updated": "2026-11-13T14:32:46+00:00",
+  "total": 27,
+  "verified": 0,
+  "record": {
+   "w": 23,
+   "l": 3,
+   "d": 0,
+   "nc": 1
+  },
+  "langs": [
+   "en",
+   "fr"
+  ]
  }
 }
