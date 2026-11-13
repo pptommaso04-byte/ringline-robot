@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-13T17:11:01+00:00",
- "feeds_ok": 48,
- "feeds_failed": 5,
+ "updated": "2026-11-13T17:15:43+00:00",
+ "feeds_ok": 49,
+ "feeds_failed": 4,
  "news": [
   {
    "title": "Winless Heavyweight KO’d 14 Times in Round 1 Is 0-18 in MMA",
@@ -849,13 +849,13 @@
   {
    "title": "Maria Laura Perrotta, orgoglio cosentino agli Euro U23 di boxe - il Dot",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTURVQU1YT2p5WmhZc3BWY1VyWTRnZ0gtdTdlaS1PQjgwZHFTaFVtYjRKS0VSWDhHaHN5LUk1M0VtaENRak84MXFGMUxfSUdCaVNSYllIdjlDMmdsemhQMlFzR1JQWmRTQ1pJT3RVU0U4OVJBQUZKQmN0d3lTZnZGckNHQUJyeUVneHBvZm50Qk54dw?oc=5",
-   "source": "Google News: pugilato",
+   "source": "Google News: boxe italiana",
    "lang": "it",
    "date": "2026-11-13T09:22:40+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 26,
-   "sources_n": 1,
+   "score": 36,
+   "sources_n": 2,
    "title_it": "Maria Laura Perrotta, orgoglio cosentino agli Euro U23 di boxe - il Dot",
    "title_es": "Maria Laura Perrotta, orgullo cosentino en el Europeo sub-23 de boxeo - il Dot"
   },
@@ -1115,7 +1115,7 @@
    "date": "2026-11-13T03:13:02+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 23,
+   "score": 22,
    "sources_n": 1,
    "title_it": "Justin Goossen-Brown dà slancio alla sua carriera televisiva con un fitto programma di sport da combattimento di novembre e dicembre",
    "title_es": "Justin Goossen-Brown gana impulso en su carrera televisiva con una apretada agenda de deportes de combate en noviembre y diciembre"
@@ -1310,7 +1310,7 @@
    "date": "2026-11-12T23:12:59+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 21,
+   "score": 20,
    "sources_n": 1,
    "title_it": "20 incontri di boxe amatoriale inaspettati",
    "title_es": "20 enfrentamientos inesperados de boxeo amateur"
@@ -1651,7 +1651,7 @@
    "date": "2026-11-12T19:12:59+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 74,
+   "score": 73,
    "sources_n": 8,
    "title_it": "James Toney pronuncia il verdetto \"buonanotte\" sull'incontro tra Ryan Garcia e Floyd Mayweather",
    "title_es": "James Toney pronostica un «buenas noches» para el combate entre Ryan García y Floyd Mayweather"
@@ -1692,7 +1692,7 @@
    "date": "2026-11-12T17:15:39+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 73,
+   "score": 72,
    "sources_n": 7,
    "title_it": "Programma dell'incontro Jake Paul vs. Cédric Doumbé: Alistair Overeem farà il suo debutto nel pugilato contro Jimi Manuwa",
    "title_es": "Cartelera de la pelea Jake Paul vs. Cédric Doumbé: Alistair Overeem debutará en el boxeo contra Jimi Manuwa"
@@ -1705,7 +1705,7 @@
    "date": "2026-11-12T17:11:24+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 83,
+   "score": 82,
    "sources_n": 7,
    "title_it": "Il sogno del titolo mondiale di Floyd Mayweather rinasce dopo l'inaspettato annuncio di Ryan Garcia per il 2027 - RingSide24",
    "title_es": "El sueño de Floyd Mayweather por el título mundial revivió después del inesperado anuncio de Ryan García para 2027 - RingSide24"
@@ -1880,8 +1880,8 @@
    "date": "2026-11-12T15:17:05+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 27,
-   "sources_n": 2,
+   "score": 37,
+   "sources_n": 3,
    "title_it": "Pugilato, Maria Laura Perrotta vola agli Europei Under 23: l’atleta cosentina vestirà la maglia azzurra in Croazia · LaC News24 - LaC News24",
    "title_es": "Boxeo, Maria Laura Perrotta vuela al Campeonato de Europa Sub 23: la atleta de Cosenza vestirá la camiseta azul en Croacia · LaC News24 - LaC News24"
   },
@@ -2196,7 +2196,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 100,
+   "score": 99,
    "sources_n": 16,
    "title_it": "Eddie Hearn sbatte la carta della lotta tra Tyson Fury e Anthony Joshua",
    "title_es": "Eddie Hearn critica la cartelera de pelea entre Tyson Fury y Anthony Joshua"
@@ -2345,7 +2345,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 52,
+   "score": 51,
    "sources_n": 14,
    "title_it": "Due incontri aggiunti alla sottocartellone di Fury vs Joshua",
    "title_es": "Se añaden dos combates a la velada preliminar de Fury vs. Joshua"
@@ -2638,7 +2638,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 103,
+   "score": 102,
    "sources_n": 15,
    "title_it": "Scheda di combattimento Tyson Fury contro Anthony Joshua: coppia di combattimenti dei pesi massimi aggiunti allo show Netflix",
    "title_es": "Cartelera de pelea entre Tyson Fury y Anthony Joshua: se agregaron un par de peleas de peso pesado al programa de Netflix"
@@ -2711,7 +2711,7 @@
    "date": "2026-11-11T19:13:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 7,
+   "score": 6,
    "sources_n": 1,
    "title_it": "Camila Zamorano vs Brenda Balderas LIVE: come, quando e dove guardare la lotta per il campionato WBC - Infobae",
    "title_es": "Camila Zamorano vs. Brenda Balderas EN VIVO: cómo, cuándo y dónde ver la pelea por el campeonato del CMB - Infobae"
@@ -2988,6 +2988,19 @@
    "sources_n": 2,
    "title_it": "Dakar 2026: medaglia dal pugilato, Michela Guglielmon di bronzo nei 48 kg - Comitato Olimpico Nazionale",
    "title_es": "Dakar 2026: medalla en boxeo, Michela Guglielmon bronce en los 48 kg - Comité Olímpico Nacional"
+  },
+  {
+   "title": "Successo Pugilistica Lucchese ai tricolori under 15 di pugilato: un oro, un argento e due bronzi - LuccainDiretta",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNcmp6T0RVLUtlQnNQdnk4WjlhNnlHclZCYUg0SEZNcFp0bThxdFpWWFl4UWhvMW1uemdpaUVpc2FvOGhfOG1vOTJPempIX0hUUVRGWlMxOWpNZTJCZUhDZmdnUjZ3SlA1bDRJZDRaUW5sdEpHRlBGOWRmdmpQU3JKN01TRG1QZFVfTUFRWl9NbDlySUhid0NSdklXS1ZjcVBGbmM2cEdFcUVIaUhuZW5XWjRGbFVKTlNQa3c0Ti10ZGpSaGJGRTVVeDVsRE9mSEEtRUZfU0xVQ0I4SkJaRVZaVU43Y1oyVkk0Q3dBWWlpSQ?oc=5",
+   "source": "Google News: pugilato",
+   "lang": "it",
+   "date": "2026-11-11T14:52:00+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 4,
+   "sources_n": 1,
+   "title_it": "Successo Pugilistica Lucchese ai tricolori under 15 di pugilato: un oro, un argento e due bronzi - LuccainDiretta",
+   "title_es": "Éxito del boxeo luqueso en el Campeonato de Italia sub-15 de boxeo: un oro, una plata y dos bronces - LuccainDiretta"
   },
   {
    "title": "Tyson Fury vs Anthony Joshua winner urged to face 'hard done by' rival next",
@@ -4078,21 +4091,6 @@
    "sources_n": 1,
    "title_it": "Uno sguardo in prima fila all'interruzione del primo round di Vinnie Kemp a #ZuffaBoxing12",
    "title_es": "Una mirada desde el ring al paro de la Ronda 1 de Vinnie Kemp en # ZuffaBoxing12"
-  },
-  {
-   "title": "Canelo Alvarez could face new British world champion next in weight switch fight",
-   "link": "https://talksport.com/boxing/4698171/canelo-alvarez-willy-hutchinson-fight/",
-   "source": "Talksport Boxing",
-   "lang": "en",
-   "date": "2026-11-10T10:21:52+00:00",
-   "status": "rumor",
-   "boxers": [
-    "Canelo Alvarez"
-   ],
-   "score": 75,
-   "sources_n": 6,
-   "title_it": "Canelo Alvarez potrebbe affrontare il nuovo campione del mondo britannico nel prossimo incontro, cambiando categoria di peso",
-   "title_es": "Canelo Álvarez podría enfrentarse al nuevo campeón mundial británico en su próximo combate, en el que cambiaría de categoría de peso"
   }
  ]
 }
