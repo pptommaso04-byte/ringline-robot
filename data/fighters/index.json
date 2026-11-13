@@ -6752,7 +6752,7 @@
  },
  "Peter Kadiru": {
   "slug": "peter-kadiru",
-  "updated": "2026-11-10T12:01:35+00:00",
+  "updated": "2026-11-13T12:05:37+00:00",
   "total": 25,
   "verified": 0,
   "record": {
@@ -6767,7 +6767,7 @@
  },
  "Saken Bibossinov": {
   "slug": "saken-bibossinov",
-  "updated": "2026-11-10T12:01:41+00:00",
+  "updated": "2026-11-13T12:05:41+00:00",
   "total": 2,
   "verified": 0,
   "record": {
@@ -45313,5 +45313,38 @@
  },
  "Jitender Kumar (boxer, born 1977)": {
   "tried": "2026-11-13T12:01:20+00:00"
+ },
+ "Stefan Ström": {
+  "tried": "2026-11-13T12:05:33+00:00"
+ },
+ "Vitali Akhramenko": {
+  "slug": "vitali-akhramenko",
+  "updated": "2026-11-13T12:05:46+00:00",
+  "total": 40,
+  "verified": 0,
+  "record": {
+   "w": 31,
+   "l": 8,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Scott Harrison (boxer)": {
+  "slug": "scott-harrison-boxer",
+  "updated": "2026-11-13T12:05:50+00:00",
+  "total": 32,
+  "verified": 0,
+  "record": {
+   "w": 27,
+   "l": 3,
+   "d": 2,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
