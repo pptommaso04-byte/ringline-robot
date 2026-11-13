@@ -11730,7 +11730,7 @@
  },
  "Xu Can": {
   "slug": "xu-can",
-  "updated": "2026-11-10T21:05:54+00:00",
+  "updated": "2026-11-13T21:10:50+00:00",
   "total": 25,
   "verified": 0,
   "record": {
@@ -48032,5 +48032,53 @@
   "langs": [
    "en"
   ]
+ },
+ "Corey Sanders": {
+  "slug": "corey-sanders",
+  "updated": "2026-11-13T21:10:54+00:00",
+  "total": 36,
+  "verified": 0,
+  "record": {
+   "w": 23,
+   "l": 13,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Vaia Zaganas": {
+  "slug": "vaia-zaganas",
+  "updated": "2026-11-13T21:10:56+00:00",
+  "total": 19,
+  "verified": 0,
+  "record": {
+   "w": 16,
+   "l": 3,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Cristian Sanavia": {
+  "slug": "cristian-sanavia",
+  "updated": "2026-11-13T21:11:01+00:00",
+  "total": 56,
+  "verified": 0,
+  "record": {
+   "w": 49,
+   "l": 6,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "José Pérez Reyes": {
+  "tried": "2026-11-13T21:10:46+00:00"
  }
 }
