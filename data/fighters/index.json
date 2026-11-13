@@ -8704,7 +8704,7 @@
  },
  "Nathaniel Collins": {
   "slug": "nathaniel-collins",
-  "updated": "2026-11-10T15:21:03+00:00",
+  "updated": "2026-11-13T15:25:52+00:00",
   "total": 20,
   "verified": 0,
   "record": {
@@ -8719,7 +8719,7 @@
  },
  "Amílcar Vidal": {
   "slug": "amilcar-vidal",
-  "updated": "2026-11-10T15:21:07+00:00",
+  "updated": "2026-11-13T15:25:55+00:00",
   "total": 17,
   "verified": 0,
   "record": {
@@ -46217,5 +46217,26 @@
  },
  "Asiye Özlem Sahin": {
   "tried": "2026-11-13T15:10:45+00:00"
+ },
+ "Mihai Bogdan Dobrescu": {
+  "tried": "2026-11-13T15:25:47+00:00"
+ },
+ "Bakhtiyar Tolegenov": {
+  "tried": "2026-11-13T15:25:47+00:00"
+ },
+ "Carlos Barreto (boxer)": {
+  "slug": "carlos-barreto-boxer",
+  "updated": "2026-11-13T15:26:02+00:00",
+  "total": 16,
+  "verified": 0,
+  "record": {
+   "w": 13,
+   "l": 2,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
