@@ -12122,7 +12122,7 @@
  },
  "Jasmina Zapotoczna": {
   "slug": "jasmina-zapotoczna",
-  "updated": "2026-11-10T21:35:42+00:00",
+  "updated": "2026-11-13T21:41:00+00:00",
   "total": 11,
   "verified": 0,
   "record": {
@@ -12137,7 +12137,7 @@
  },
  "Marcel Braithwaite": {
   "slug": "marcel-braithwaite",
-  "updated": "2026-11-10T21:35:48+00:00",
+  "updated": "2026-11-13T21:41:06+00:00",
   "total": 22,
   "verified": 0,
   "record": {
@@ -48099,5 +48099,26 @@
    "en",
    "es"
   ]
+ },
+ "Mahyar Monshipour": {
+  "tried": "2026-11-13T21:40:56+00:00"
+ },
+ "Phil Boudreault": {
+  "slug": "phil-boudreault",
+  "updated": "2026-11-13T21:41:12+00:00",
+  "total": 6,
+  "verified": 0,
+  "record": {
+   "w": 5,
+   "l": 1,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Beethaeven Scottland": {
+  "tried": "2026-11-13T21:40:56+00:00"
  }
 }
