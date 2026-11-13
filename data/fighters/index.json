@@ -5903,7 +5903,7 @@
  },
  "Oshae Jones": {
   "slug": "oshae-jones",
-  "updated": "2026-11-10T10:20:51+00:00",
+  "updated": "2026-11-13T10:25:56+00:00",
   "total": 10,
   "verified": 0,
   "record": {
@@ -5933,7 +5933,7 @@
  },
  "Hebert Conceição": {
   "slug": "hebert-conceicao",
-  "updated": "2026-11-10T10:25:45+00:00",
+  "updated": "2026-11-13T10:26:03+00:00",
   "total": 12,
   "verified": 0,
   "record": {
@@ -5951,7 +5951,7 @@
  },
  "Ema Kozin": {
   "slug": "ema-kozin",
-  "updated": "2026-11-10T10:25:49+00:00",
+  "updated": "2026-11-13T10:26:07+00:00",
   "total": 27,
   "verified": 0,
   "record": {
@@ -44860,5 +44860,23 @@
  },
  "Genaro García (boxer)": {
   "tried": "2026-11-13T10:20:48+00:00"
+ },
+ "Ignacio Esparza": {
+  "slug": "ignacio-esparza",
+  "updated": "2026-11-13T10:26:12+00:00",
+  "total": 24,
+  "verified": 0,
+  "record": {
+   "w": 21,
+   "l": 3,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Gilbert Khunwane": {
+  "tried": "2026-11-13T10:25:51+00:00"
  }
 }
