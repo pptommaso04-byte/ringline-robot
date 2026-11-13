@@ -5971,7 +5971,7 @@
  },
  "Bekzad Nurdauletov": {
   "slug": "bekzad-nurdauletov",
-  "updated": "2026-11-10T10:31:02+00:00",
+  "updated": "2026-11-13T10:31:09+00:00",
   "total": 4,
   "verified": 0,
   "record": {
@@ -44878,5 +44878,29 @@
  },
  "Gilbert Khunwane": {
   "tried": "2026-11-13T10:25:51+00:00"
+ },
+ "Jason Booth": {
+  "tried": "2026-11-13T10:31:02+00:00"
+ },
+ "Jason McKay": {
+  "tried": "2026-11-13T10:31:02+00:00"
+ },
+ "Igor Samoilenco": {
+  "tried": "2026-11-13T10:31:02+00:00"
+ },
+ "Juanito Rubillar": {
+  "slug": "juanito-rubillar",
+  "updated": "2026-11-13T10:31:19+00:00",
+  "total": 79,
+  "verified": 0,
+  "record": {
+   "w": 49,
+   "l": 23,
+   "d": 7,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
