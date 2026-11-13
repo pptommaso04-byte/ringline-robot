@@ -43230,5 +43230,57 @@
   "langs": [
    "en"
   ]
+ },
+ "Elias Pavlidis": {
+  "tried": "2026-11-13T01:31:06+00:00"
+ },
+ "Kassim Ouma": {
+  "slug": "kassim-ouma",
+  "updated": "2026-11-13T01:31:14+00:00",
+  "total": 49,
+  "verified": 0,
+  "record": {
+   "w": 29,
+   "l": 18,
+   "d": 1,
+   "nc": 1
+  },
+  "langs": [
+   "en",
+   "it"
+  ]
+ },
+ "Hugo Cázares": {
+  "slug": "hugo-cazares",
+  "updated": "2026-11-13T01:31:19+00:00",
+  "total": 51,
+  "verified": 0,
+  "record": {
+   "w": 40,
+   "l": 9,
+   "d": 2,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Adrian Mora": {
+  "tried": "2026-11-13T01:31:06+00:00"
+ },
+ "Anthony Hanshaw": {
+  "slug": "anthony-hanshaw",
+  "updated": "2026-11-13T01:31:27+00:00",
+  "total": 29,
+  "verified": 0,
+  "record": {
+   "w": 23,
+   "l": 4,
+   "d": 2,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
