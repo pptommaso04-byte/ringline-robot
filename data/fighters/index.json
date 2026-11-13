@@ -7106,7 +7106,7 @@
  },
  "Joahnys Argilagos": {
   "slug": "joahnys-argilagos",
-  "updated": "2026-11-10T12:51:27+00:00",
+  "updated": "2026-11-13T12:55:49+00:00",
   "total": 11,
   "verified": 0,
   "record": {
@@ -7124,7 +7124,7 @@
  },
  "John Docherty (boxer)": {
   "slug": "john-docherty-boxer",
-  "updated": "2026-11-10T12:51:34+00:00",
+  "updated": "2026-11-13T12:55:54+00:00",
   "total": 13,
   "verified": 0,
   "record": {
@@ -45567,5 +45567,26 @@
  },
  "Fuad Aslanov": {
   "tried": "2026-11-13T12:50:54+00:00"
+ },
+ "Dimitar Shtilianov": {
+  "tried": "2026-11-13T12:55:45+00:00"
+ },
+ "Chris Edwards (boxer)": {
+  "slug": "chris-edwards-boxer",
+  "updated": "2026-11-13T12:55:59+00:00",
+  "total": 36,
+  "verified": 0,
+  "record": {
+   "w": 17,
+   "l": 15,
+   "d": 4,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Damaen Kelly": {
+  "tried": "2026-11-13T12:55:45+00:00"
  }
 }
