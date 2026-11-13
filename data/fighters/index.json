@@ -1876,7 +1876,7 @@
  },
  "Carlos Balderas": {
   "slug": "carlos-balderas",
-  "updated": "2026-11-10T02:40:49+00:00",
+  "updated": "2026-11-13T02:45:57+00:00",
   "total": 15,
   "verified": 0,
   "record": {
@@ -1894,7 +1894,7 @@
  },
  "Miyo Yoshida": {
   "slug": "miyo-yoshida",
-  "updated": "2026-11-10T02:40:54+00:00",
+  "updated": "2026-11-13T02:46:14+00:00",
   "total": 25,
   "verified": 0,
   "record": {
@@ -1910,7 +1910,7 @@
  },
  "Enis Pacheco": {
   "slug": "enis-pacheco",
-  "updated": "2026-11-10T02:40:58+00:00",
+  "updated": "2026-11-13T02:46:07+00:00",
   "total": 24,
   "verified": 0,
   "record": {
@@ -1931,7 +1931,7 @@
  },
  "Kiko Martínez": {
   "slug": "kiko-martinez",
-  "updated": "2026-11-10T02:45:51+00:00",
+  "updated": "2026-11-13T02:46:11+00:00",
   "total": 58,
   "verified": 0,
   "record": {
@@ -43529,6 +43529,21 @@
   "record": {
    "w": 29,
    "l": 11,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Ebo Elder": {
+  "slug": "ebo-elder",
+  "updated": "2026-11-13T02:46:17+00:00",
+  "total": 25,
+  "verified": 0,
+  "record": {
+   "w": 22,
+   "l": 3,
    "d": 0,
    "nc": 0
   },
