@@ -9879,7 +9879,7 @@
  },
  "Anahí Ester Sánchez": {
   "slug": "anahi-ester-sanchez",
-  "updated": "2026-11-10T18:21:12+00:00",
+  "updated": "2026-11-13T18:25:42+00:00",
   "total": 30,
   "verified": 0,
   "record": {
@@ -9894,7 +9894,7 @@
  },
  "Irma Sánchez": {
   "slug": "irma-sanchez",
-  "updated": "2026-11-10T18:21:17+00:00",
+  "updated": "2026-11-13T18:25:47+00:00",
   "total": 39,
   "verified": 0,
   "record": {
@@ -47364,5 +47364,51 @@
  },
  "Hicham Nafil": {
   "tried": "2026-11-13T18:21:01+00:00"
+ },
+ "Rodney Glunder": {
+  "slug": "rodney-glunder",
+  "updated": "2026-11-13T18:25:51+00:00",
+  "total": 31,
+  "verified": 0,
+  "record": {
+   "w": 16,
+   "l": 15,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "de"
+  ]
+ },
+ "Emanuel Augustus": {
+  "slug": "emanuel-augustus",
+  "updated": "2026-11-13T18:25:56+00:00",
+  "total": 77,
+  "verified": 0,
+  "record": {
+   "w": 37,
+   "l": 34,
+   "d": 6,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Somjit Jongjohor": {
+  "slug": "somjit-jongjohor",
+  "updated": "2026-11-13T18:26:02+00:00",
+  "total": 12,
+  "verified": 0,
+  "record": {
+   "w": 7,
+   "l": 3,
+   "d": 0,
+   "nc": 2
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
