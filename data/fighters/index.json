@@ -4413,7 +4413,7 @@
  },
  "Darrelle Valsaint": {
   "slug": "darrelle-valsaint",
-  "updated": "2026-11-10T07:36:05+00:00",
+  "updated": "2026-11-13T07:40:54+00:00",
   "total": 12,
   "verified": 0,
   "record": {
@@ -44422,5 +44422,30 @@
  },
  "Peter McDonagh": {
   "tried": "2026-11-13T07:35:42+00:00"
+ },
+ "Rich Clementi": {
+  "tried": "2026-11-13T07:40:45+00:00"
+ },
+ "Aleksy Kuziemski": {
+  "tried": "2026-11-13T07:40:45+00:00"
+ },
+ "Jessica Rakoczy": {
+  "slug": "jessica-rakoczy",
+  "updated": "2026-11-13T07:41:03+00:00",
+  "total": 37,
+  "verified": 0,
+  "record": {
+   "w": 33,
+   "l": 3,
+   "d": 0,
+   "nc": 1
+  },
+  "langs": [
+   "en",
+   "fr"
+  ]
+ },
+ "Yoshi Tatsu": {
+  "tried": "2026-11-13T07:40:45+00:00"
  }
 }
