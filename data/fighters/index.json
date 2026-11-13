@@ -10652,7 +10652,7 @@
  },
  "Ihosvany Garcia": {
   "slug": "ihosvany-garcia",
-  "updated": "2026-11-10T19:29:00+00:00",
+  "updated": "2026-11-13T19:30:51+00:00",
   "total": 17,
   "verified": 0,
   "record": {
@@ -10667,7 +10667,7 @@
  },
  "Anis Bouzid": {
   "slug": "anis-bouzid",
-  "updated": "2026-11-10T19:29:03+00:00",
+  "updated": "2026-11-13T19:30:54+00:00",
   "total": 22,
   "verified": 0,
   "record": {
@@ -47626,6 +47626,41 @@
   "langs": [
    "en",
    "pt"
+  ]
+ },
+ "Ulugbek Ibragimov": {
+  "tried": "2026-11-13T19:30:48+00:00"
+ },
+ "Omar Narváez (boxer)": {
+  "slug": "omar-narvaez-boxer",
+  "updated": "2026-11-13T19:30:58+00:00",
+  "total": 55,
+  "verified": 0,
+  "record": {
+   "w": 49,
+   "l": 4,
+   "d": 2,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "es",
+   "pt"
+  ]
+ },
+ "Ángel Hernández (boxer)": {
+  "slug": "angel-hernandez-boxer",
+  "updated": "2026-11-13T19:31:02+00:00",
+  "total": 52,
+  "verified": 0,
+  "record": {
+   "w": 43,
+   "l": 8,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
   ]
  }
 }
