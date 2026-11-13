@@ -4876,7 +4876,7 @@
  },
  "Keisuke Matsumoto (boxer)": {
   "slug": "keisuke-matsumoto-boxer",
-  "updated": "2026-11-10T08:35:47+00:00",
+  "updated": "2026-11-13T08:41:01+00:00",
   "total": 12,
   "verified": 0,
   "record": {
@@ -4891,7 +4891,7 @@
  },
  "Taiga Imanaga": {
   "slug": "taiga-imanaga",
-  "updated": "2026-11-10T08:35:51+00:00",
+  "updated": "2026-11-13T08:40:54+00:00",
   "total": 12,
   "verified": 0,
   "record": {
@@ -4909,7 +4909,7 @@
  },
  "José Valenzuela": {
   "slug": "jose-valenzuela",
-  "updated": "2026-11-10T08:40:46+00:00",
+  "updated": "2026-11-13T08:40:58+00:00",
   "total": 19,
   "verified": 0,
   "record": {
@@ -4926,7 +4926,7 @@
  },
  "Adrian Curiel": {
   "slug": "adrian-curiel",
-  "updated": "2026-11-10T08:40:49+00:00",
+  "updated": "2026-11-13T08:41:05+00:00",
   "total": 34,
   "verified": 0,
   "record": {
@@ -44763,5 +44763,8 @@
   "langs": [
    "en"
   ]
+ },
+ "Vedran Đipalo": {
+  "tried": "2026-11-13T08:40:51+00:00"
  }
 }
