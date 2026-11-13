@@ -1415,7 +1415,7 @@
  },
  "Erislandy Lara": {
   "slug": "erislandy-lara",
-  "updated": "2026-11-10T02:05:53+00:00",
+  "updated": "2026-11-13T02:11:00+00:00",
   "total": 38,
   "verified": 0,
   "record": {
@@ -1430,7 +1430,7 @@
  },
  "Viddal Riley": {
   "slug": "viddal-riley",
-  "updated": "2026-11-10T02:05:59+00:00",
+  "updated": "2026-11-13T02:11:08+00:00",
   "total": 14,
   "verified": 12,
   "record": {
@@ -1443,12 +1443,13 @@
    "en",
    "it",
    "es",
+   "fr",
    "pt"
   ]
  },
  "Evan Holyfield": {
   "slug": "evan-holyfield",
-  "updated": "2026-11-10T02:06:05+00:00",
+  "updated": "2026-11-13T02:11:14+00:00",
   "total": 13,
   "verified": 0,
   "record": {
@@ -1465,7 +1466,7 @@
  },
  "Yankiel Rivera": {
   "slug": "yankiel-rivera",
-  "updated": "2026-11-10T02:06:08+00:00",
+  "updated": "2026-11-13T02:11:18+00:00",
   "total": 11,
   "verified": 0,
   "record": {
@@ -43488,5 +43489,8 @@
  },
  "Jackson Asiku": {
   "tried": "2026-11-13T02:05:35+00:00"
+ },
+ "Kahukura Bentson": {
+  "tried": "2026-11-13T02:10:54+00:00"
  }
 }
