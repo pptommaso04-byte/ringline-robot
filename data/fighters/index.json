@@ -9763,7 +9763,7 @@
  },
  "Eliseo Castillo": {
   "slug": "eliseo-castillo",
-  "updated": "2026-11-10T17:10:58+00:00",
+  "updated": "2026-11-13T21:46:08+00:00",
   "total": 24,
   "verified": 0,
   "record": {
@@ -12159,7 +12159,7 @@
  },
  "Vadim Tukov": {
   "slug": "vadim-tukov",
-  "updated": "2026-11-10T21:41:02+00:00",
+  "updated": "2026-11-13T21:45:57+00:00",
   "total": 16,
   "verified": 0,
   "record": {
@@ -12177,7 +12177,7 @@
  },
  "Robeisy Ramírez": {
   "slug": "robeisy-ramirez",
-  "updated": "2026-11-10T21:41:06+00:00",
+  "updated": "2026-11-13T21:46:03+00:00",
   "total": 17,
   "verified": 0,
   "record": {
@@ -48120,5 +48120,37 @@
  },
  "Beethaeven Scottland": {
   "tried": "2026-11-13T21:40:56+00:00"
+ },
+ "Timur Ibragimov": {
+  "slug": "timur-ibragimov",
+  "updated": "2026-11-13T21:46:12+00:00",
+  "total": 36,
+  "verified": 0,
+  "record": {
+   "w": 31,
+   "l": 4,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "fr"
+  ]
+ },
+ "Leonardo Mas": {
+  "slug": "leonardo-mas",
+  "updated": "2026-11-13T21:46:18+00:00",
+  "total": 34,
+  "verified": 0,
+  "record": {
+   "w": 31,
+   "l": 2,
+   "d": 0,
+   "nc": 1
+  },
+  "langs": [
+   "en",
+   "pt"
+  ]
  }
 }
