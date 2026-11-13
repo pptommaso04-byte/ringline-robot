@@ -1,8 +1,23 @@
 {
- "updated": "2026-11-13T14:01:14+00:00",
+ "updated": "2026-11-13T14:05:37+00:00",
  "feeds_ok": 49,
  "feeds_failed": 4,
  "news": [
+  {
+   "title": "Kalle Sauerland backs Viddal Riley to beat BOTH Usyk & Opetaia 😤🔥",
+   "link": "https://www.youtube.com/watch?v=X2dLSmcFGwg",
+   "source": "YouTube DAZN Boxing",
+   "lang": "en",
+   "date": "2026-11-13T14:04:30+00:00",
+   "status": "confirmed",
+   "boxers": [
+    "Oleksandr Usyk"
+   ],
+   "score": 102,
+   "sources_n": 4,
+   "title_it": "Kalle Sauerland sostiene Viddal Riley per battere ENTRAMBI Usyk e Opetaia 😤🔥",
+   "title_es": "Kalle Sauerland respalda a Viddal Riley para vencer a AMBOS Usyk y Opetaia 😤🔥"
+  },
   {
    "title": "Eddie Hearn makes pitch to Shakur Stevenson over boxing future",
    "link": "https://www.boxingscene.com/articles/eddie-hearn-makes-pitch-to-shakur-stevenson-over-boxing-future",
@@ -15,6 +30,19 @@
    "sources_n": 10,
    "title_it": "Eddie Hearn fa una proposta a Shakur Stevenson per il suo futuro nel pugilato",
    "title_es": "Eddie Hearn le hace una propuesta a Shakur Stevenson sobre su futuro en el boxeo"
+  },
+  {
+   "title": "Chantelle Cameron and Mikaela Mayer confirm rematch after post-fight argument",
+   "link": "https://sports.yahoo.com/articles/chantelle-cameron-mikaela-mayer-confirm-135721901.html",
+   "source": "Yahoo Sports Boxing",
+   "lang": "en",
+   "date": "2026-11-13T13:57:21+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 39,
+   "sources_n": 2,
+   "title_it": "Chantelle Cameron e Mikaela Mayer confermano la rivincita dopo la discussione post-incontro",
+   "title_es": "Chantelle Cameron y Mikaela Mayer confirman la revancha después de la discusión posterior a la pelea"
   },
   {
    "title": "Anthony Joshua's destiny against Tyson Fury is in his hands, not Ben Davison's",
@@ -82,7 +110,7 @@
    "status": "rumor",
    "boxers": [],
    "score": 69,
-   "sources_n": 6,
+   "sources_n": 7,
    "title_it": "Viddal Riley parla della sua \"identità pugilistica\" e del legame con KSI mentre punta alla gloria del titolo mondiale - NDTV Sports",
    "title_es": "Viddal Riley habla sobre su «identidad como boxeador» y su relación con KSI mientras se dirige hacia la gloria del título mundial - NDTV Sports"
   },
@@ -203,7 +231,7 @@
    "date": "2026-11-13T12:02:44+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 29,
+   "score": 28,
    "sources_n": 1,
    "title_it": "Cuba si è congedata con sei corone dall'Open internazionale di pugilato di Guizhou - Cubainformación",
    "title_es": "Cuba despidió con seis coronas el Abierto Internacional de boxeo en Guizhou - Cubainformación"
@@ -255,8 +283,8 @@
    "date": "2026-11-13T11:36:02+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 103,
-   "sources_n": 4,
+   "score": 93,
+   "sources_n": 3,
    "title_it": "Terence Crawford mostra il pagamento bancario per rispondere alle affermazioni di essere \"al verde\" dopo l'inversione di marcia del combattimento",
    "title_es": "Terence Crawford muestra el pago bancario para responder a las afirmaciones de que está \"en quiebra\" después de la pelea"
   },
@@ -510,8 +538,8 @@
    "date": "2026-11-13T08:47:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 47,
-   "sources_n": 3,
+   "score": 57,
+   "sources_n": 4,
    "title_it": "Sottocartellone di Viddal Riley vs Seydi Coupe: chi altro combatterà nell'attesissimo evento di Wembley?",
    "title_es": "Combates previos a Viddal Riley vs. Seydi Coupe: ¿Quién más pelea en el gran programa de Wembley?"
   },
@@ -570,7 +598,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 56,
-   "sources_n": 4,
+   "sources_n": 5,
    "title_it": "Come Riley è passato dall'essere l'allenatore di KSI al sognare il titolo mondiale - BBC",
    "title_es": "Cómo Riley pasó de ser entrenador de KSI a soñar con el título mundial - BBC"
   },
@@ -953,8 +981,8 @@
    "date": "2026-11-12T23:30:27+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 97,
-   "sources_n": 4,
+   "score": 87,
+   "sources_n": 3,
    "title_it": "Tim Bradley indica il pugile che Canelo dovrebbe affrontare come prossimo avversario per riaccendere la rivalità con Crawford",
    "title_es": "Tim Bradley nombra al púgil al que Canelo debería enfrentarse a continuación para reavivar la rivalidad con Crawford"
   },
@@ -1057,7 +1085,7 @@
    "date": "2026-11-12T22:04:39+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 22,
+   "score": 21,
    "sources_n": 1,
    "title_it": "Yuberjen Martínez si allena in Messico con Nacho Beristáin per vincere il titolo mondiale contro Anthony Olascua - AS México",
    "title_es": "Yuberjen Martínez entrena en México con Nacho Beristáin para conquistar el título mundial ante Anthony Olascua - AS México"
@@ -1413,8 +1441,8 @@
    "date": "2026-11-12T18:04:18+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 95,
-   "sources_n": 7,
+   "score": 94,
+   "sources_n": 8,
    "title_it": "\"TUTTI HANNO DEI PUNTI DEBOLI!\" Viddal Riley PARLA SCHIETTAMENTE di un potenziale incontro con David Benavidez",
    "title_es": "«¡TODO EL MUNDO TIENE DEBILIDADES!» Viddal Riley SE SINCERA sobre un posible combate contra David Benavidez"
   },
@@ -1709,7 +1737,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 92,
-   "sources_n": 6,
+   "sources_n": 5,
    "title_it": "Isaac \"Pitbull\" Cruz ritiene che la rivincita tra Canelo e Terence Crawford avverrà presto e si concluderà in modo diverso",
    "title_es": "Isaac «Pitbull» Cruz cree que la revancha entre Canelo y Terence Crawford será la próxima y terminará de forma diferente"
   },
@@ -2092,7 +2120,7 @@
     "Canelo Alvarez"
    ],
    "score": 99,
-   "sources_n": 10,
+   "sources_n": 9,
    "title_it": "La leggenda di P4P Terence 'Bud' Crawford parla del futuro Hall of Famer Canelo Alvarez",
    "title_es": "La leyenda de P4P Terence 'Bud' Crawford estiliza al futuro miembro del Salón de la Fama Canelo Álvarez"
   },
@@ -2551,7 +2579,7 @@
    "date": "2026-11-11T18:05:10+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 81,
+   "score": 80,
    "sources_n": 4,
    "title_it": "Tre migliori pugili britannici che non hanno mai vinto un titolo mondiale, incluso il rivale di Chris Eubank la cui carriera è stata tragicamente interrotta",
    "title_es": "Los tres mejores boxeadores británicos que nunca ganaron un título mundial, incluido el rival de Chris Eubank, cuya carrera se vio trágicamente truncada."
@@ -2564,7 +2592,7 @@
    "date": "2026-11-11T18:05:10+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 26,
+   "score": 25,
    "sources_n": 1,
    "title_it": "I tre migliori pugili britannici che non hanno mai vinto un titolo mondiale - talkSPORT",
    "title_es": "Los tres mejores boxeadores británicos que nunca ganaron un título mundial – talkSPORT"
@@ -2629,8 +2657,8 @@
    "date": "2026-11-11T16:47:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 27,
-   "sources_n": 3,
+   "score": 37,
+   "sources_n": 4,
    "title_it": "Viddal Riley contro Seydi Coupe: data, ora, diretta streaming, canale TV e programma dell'incontro in cui il britannico difende il titolo europeo dei pesi massimi leggeri",
    "title_es": "Viddal Riley contra Seydi Coupe: fecha, hora, retransmisión en directo, canal de televisión y cartelera, con el británico defendiendo el título europeo del peso crucero"
   },
@@ -2707,7 +2735,7 @@
    "date": "2026-11-11T16:01:40+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 17,
+   "score": 16,
    "sources_n": 2,
    "title_it": "Borghetti sale sul podio al debutto: bronzo agli Italiani Under 15 di pugilato - MaremmaOggi",
    "title_es": "Borghetti sube al podio en su debut: bronce en el Campeonato de Italia sub-15 de boxeo - MaremmaOggi"
@@ -3035,7 +3063,7 @@
   },
   {
    "title": "Canelo Alvarez considers new world title challenge as Ciryl Gane responds to UFC criticism: Your daily combat sports news roundup - DAZN",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTmI5bVA0MkpFWXBiOFhtaFloTk1pZnpBUFB2LVNoZGVZT3M2Z1kwM1BkbTN6dndSOGtUekpFbDgtbUNFTFFMRkp1OWhPSzJDMV9PXzZ0RW9tRFZVMk14Q0lwbGlwVWJFd1p2ZXJzYjd4V0MzdGFtRjdjZ3Q0ZUZKMjI3RXFmQnc0U1NKU0l3Y2NrZFE0dU5LMXNQUkg0ekowNnBhTDRyckJGX19JVFpwdTJHVWd5dWNwVFVYTVdJVVBUblpBVm44S090Zm4?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcXlISVdIeWZQa1U0UUQ0aGpnMlc0X1BGS2FEbFNkaVNleGRfN1ptRjVqa0pvSmhRWmd0Y1pRWEVFbFhWMWNhWlNTTExYVi04eTR5bHpWZzdidXphTWNsRXN4WDdUWHVGeTRWVXB2ZUhtLWxqRDR6U3dLa1ktZ0FsOHFTUWNzV3F2aDYxVnZ5dEFhY3U2UXNJTXBsNnBLNVhreEpIdG1QeWhTTnJaNnBKSzh4UlFFTVEydDdmT3puMHMyNXk4VFlRcGFDS0c?oc=5",
    "source": "Google News: boxing",
    "lang": "en",
    "date": "2026-11-11T11:08:25+00:00",
@@ -3045,8 +3073,8 @@
    ],
    "score": 79,
    "sources_n": 7,
-   "title_it": "Canelo Álvarez pensa a una nuova sfida per il titolo mondiale mentre Ciryl Gane risponde alle critiche dell'UFC: il tuo riepilogo quotidiano delle notizie sugli sport da combattimento - DAZN",
-   "title_es": "Canelo Álvarez baraja un nuevo combate por el título mundial mientras Ciryl Gane responde a las críticas de la UFC: Tu resumen diario de noticias de deportes de combate - DAZN"
+   "title_it": "Canelo Alvarez considera una nuova sfida per il titolo mondiale mentre Ciryl Gane risponde alle critiche dell'UFC: la tua raccolta quotidiana di notizie sugli sport da combattimento - DAZN",
+   "title_es": "Canelo Álvarez considera un nuevo desafío por el título mundial mientras Ciryl Gane responde a las críticas de UFC: su resumen diario de noticias sobre deportes de combate - DAZN"
   },
   {
    "title": "Conor Benn gave Vinnie Kemp his flowers after his Round 1 finish  #ZuffaBoxing12 💐",
@@ -3220,7 +3248,7 @@
    "date": "2026-11-11T04:03:51+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 21,
+   "score": 20,
    "sources_n": 2,
    "title_it": "WBC Cares y campeones del mundo comparten una jornada de cariño en el Hogar Infantil Marsh - Consiglio Mondiale della Pugilato",
    "title_es": "WBC Cares y campeones del mundo comparten una jornada de cariño en el Hogar Infantil Marsh - World Boxing Council"
@@ -3363,8 +3391,8 @@
    "date": "2026-11-10T20:29:27+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 75,
-   "sources_n": 4,
+   "score": 65,
+   "sources_n": 3,
    "title_it": "El boxeader Canelo Álvarez buscará revanchas con Bivol y Crawford",
    "title_es": "El boxeador Canelo Álvarez buscará revanchas con Bivol y Crawford"
   },
@@ -3418,8 +3446,8 @@
    "date": "2026-11-10T19:27:47+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 25,
-   "sources_n": 1,
+   "score": 35,
+   "sources_n": 2,
    "title_it": "Claressa Shields afferma che MVP sta bloccando la lotta con Chantelle Cameron",
    "title_es": "Claressa Shields dice que MVP está bloqueando la pelea de Chantelle Cameron"
   },
@@ -3547,7 +3575,7 @@
     "Anthony Joshua"
    ],
    "score": 85,
-   "sources_n": 18,
+   "sources_n": 17,
    "title_it": "Programma di boxe per il 2026: Anthony Joshua contro Tyson Fury, David Benavidez, Dmitry Bivol torna alla spina",
    "title_es": "Calendario de boxeo para 2026: Anthony Joshua vs. Tyson Fury, David Benavidez, Dmitry Bivol regresan de barril"
   },
@@ -4071,35 +4099,6 @@
    "sources_n": 14,
    "title_it": "Guarda: Rivals - Fury v Joshua su BBC iPlayer",
    "title_es": "Mira: Rivals - Fury v Joshua en BBC iPlayer"
-  },
-  {
-   "title": "Fury v Joshua: 1. They’re not the same",
-   "link": "https://www.bbc.co.uk/sounds/play/m0034x6c?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport Boxing",
-   "lang": "en",
-   "date": "2026-11-10T06:00:00+00:00",
-   "status": "unverified",
-   "boxers": [
-    "Tyson Fury",
-    "Anthony Joshua"
-   ],
-   "score": 40,
-   "sources_n": 14,
-   "title_it": "5 Live Boxing con Steve Bunce",
-   "title_es": "5 boxeo en vivo con Steve Bunce"
-  },
-  {
-   "title": "Canelo Álvarez busca revanchas con Terence Crawford y Dmitry Bivol",
-   "link": "https://www.marca.com/boxeo/2026/11/10/canelo-alvarez-busca-revanchas-terence-crawford-dmitry-bivol.html",
-   "source": "Marca Boxeo 2",
-   "lang": "es",
-   "date": "2026-11-10T04:39:15+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 75,
-   "sources_n": 6,
-   "title_it": "Canelo Álvarez busca revanchas con Terence Crawford e Dmitry Bivol",
-   "title_es": "Canelo Álvarez busca revanchas con Terence Crawford y Dmitry Bivol"
   }
  ]
 }

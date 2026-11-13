@@ -7820,7 +7820,7 @@
  },
  "Wilfredo Méndez": {
   "slug": "wilfredo-mendez",
-  "updated": "2026-11-10T14:01:18+00:00",
+  "updated": "2026-11-13T14:05:41+00:00",
   "total": 26,
   "verified": 0,
   "record": {
@@ -7845,7 +7845,7 @@
  },
  "Terri Harper": {
   "slug": "terri-harper",
-  "updated": "2026-11-10T14:01:27+00:00",
+  "updated": "2026-11-13T14:05:45+00:00",
   "total": 22,
   "verified": 0,
   "record": {
@@ -45879,5 +45879,39 @@
  },
  "Mger Mkrtchyan": {
   "tried": "2026-11-13T14:01:14+00:00"
+ },
+ "Sergey Mihaylov": {
+  "tried": "2026-11-13T14:05:37+00:00"
+ },
+ "Volodymyr Sydorenko": {
+  "slug": "volodymyr-sydorenko",
+  "updated": "2026-11-13T14:05:51+00:00",
+  "total": 27,
+  "verified": 0,
+  "record": {
+   "w": 22,
+   "l": 3,
+   "d": 2,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "es"
+  ]
+ },
+ "Serhiy Dzyndzyruk": {
+  "slug": "serhiy-dzyndzyruk",
+  "updated": "2026-11-13T14:05:54+00:00",
+  "total": 40,
+  "verified": 0,
+  "record": {
+   "w": 37,
+   "l": 2,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
