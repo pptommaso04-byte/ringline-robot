@@ -12807,7 +12807,7 @@
  },
  "Francisco Horta": {
   "slug": "francisco-horta",
-  "updated": "2026-11-10T22:46:03+00:00",
+  "updated": "2026-11-13T22:46:33+00:00",
   "total": 25,
   "verified": 0,
   "record": {
@@ -48331,5 +48331,31 @@
   "langs": [
    "en"
   ]
+ },
+ "János Nagy (boxer)": {
+  "tried": "2026-11-13T22:46:28+00:00"
+ },
+ "Abdel Jebahi": {
+  "tried": "2026-11-13T22:46:28+00:00"
+ },
+ "Héctor Alfredo Ávila": {
+  "slug": "hector-alfredo-avila",
+  "updated": "2026-11-13T22:46:38+00:00",
+  "total": 41,
+  "verified": 0,
+  "record": {
+   "w": 24,
+   "l": 16,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "it",
+   "es"
+  ]
+ },
+ "Hwang Sung-bum": {
+  "tried": "2026-11-13T22:46:28+00:00"
  }
 }
