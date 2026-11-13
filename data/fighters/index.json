@@ -8884,7 +8884,7 @@
  },
  "Ryuya Yamanaka": {
   "slug": "ryuya-yamanaka",
-  "updated": "2026-11-10T15:35:48+00:00",
+  "updated": "2026-11-13T15:41:03+00:00",
   "total": 24,
   "verified": 0,
   "record": {
@@ -8899,7 +8899,7 @@
  },
  "Kurt Walker (boxer)": {
   "slug": "kurt-walker-boxer",
-  "updated": "2026-11-10T15:40:58+00:00",
+  "updated": "2026-11-13T15:41:06+00:00",
   "total": 14,
   "verified": 0,
   "record": {
@@ -46319,5 +46319,43 @@
   "langs": [
    "en"
   ]
+ },
+ "Siarhei Liakhovich": {
+  "slug": "siarhei-liakhovich",
+  "updated": "2026-11-13T15:41:10+00:00",
+  "total": 36,
+  "verified": 0,
+  "record": {
+   "w": 27,
+   "l": 9,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "fr",
+   "pt"
+  ]
+ },
+ "Wladimir Klitschko": {
+  "slug": "wladimir-klitschko",
+  "updated": "2026-11-13T15:41:13+00:00",
+  "total": 69,
+  "verified": 69,
+  "record": {
+   "w": 64,
+   "l": 5,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "it",
+   "fr",
+   "pt"
+  ]
+ },
+ "Sergey Dychkov": {
+  "tried": "2026-11-13T15:40:59+00:00"
  }
 }
