@@ -47052,5 +47052,48 @@
    "en",
    "pt"
   ]
+ },
+ "Anderson Silva": {
+  "slug": "anderson-silva",
+  "updated": "2026-11-13T17:55:43+00:00",
+  "total": 6,
+  "verified": 4,
+  "record": {
+   "w": 4,
+   "l": 2,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "it",
+   "es",
+   "fr",
+   "pt"
+  ]
+ },
+ "Mohamed Aly (boxer)": {
+  "tried": "2026-11-13T17:55:36+00:00"
+ },
+ "Rustamhodza Rahimov": {
+  "tried": "2026-11-13T17:55:36+00:00"
+ },
+ "Thomas Ulrich": {
+  "slug": "thomas-ulrich",
+  "updated": "2026-11-13T17:55:53+00:00",
+  "total": 39,
+  "verified": 0,
+  "record": {
+   "w": 32,
+   "l": 7,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Steven Küchler": {
+  "tried": "2026-11-13T17:55:36+00:00"
  }
 }
