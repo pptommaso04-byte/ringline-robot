@@ -2365,7 +2365,7 @@
  },
  "David Haye": {
   "slug": "david-haye",
-  "updated": "2026-11-10T03:19:35+00:00",
+  "updated": "2026-11-13T03:51:15+00:00",
   "total": 32,
   "verified": 26,
   "record": {
@@ -2786,7 +2786,7 @@
  },
  "Ryad Merhy": {
   "slug": "ryad-merhy",
-  "updated": "2026-11-10T03:42:08+00:00",
+  "updated": "2026-11-13T03:51:02+00:00",
   "total": 39,
   "verified": 0,
   "record": {
@@ -2831,7 +2831,7 @@
  },
  "Michał Cieślak (boxer)": {
   "slug": "micha-cieslak-boxer",
-  "updated": "2026-11-10T03:46:00+00:00",
+  "updated": "2026-11-13T03:51:06+00:00",
   "total": 31,
   "verified": 0,
   "record": {
@@ -2863,7 +2863,7 @@
  },
  "Camila Zamorano": {
   "slug": "camila-zamorano",
-  "updated": "2026-11-10T03:50:52+00:00",
+  "updated": "2026-11-13T03:50:58+00:00",
   "total": 15,
   "verified": 0,
   "record": {
@@ -43624,6 +43624,21 @@
   "record": {
    "w": 10,
    "l": 3,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Josiah Judah": {
+  "slug": "josiah-judah",
+  "updated": "2026-11-13T03:51:19+00:00",
+  "total": 12,
+  "verified": 0,
+  "record": {
+   "w": 10,
+   "l": 1,
    "d": 1,
    "nc": 0
   },

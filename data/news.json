@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-13T03:46:01+00:00",
- "feeds_ok": 49,
- "feeds_failed": 4,
+ "updated": "2026-11-13T03:50:53+00:00",
+ "feeds_ok": 48,
+ "feeds_failed": 5,
  "news": [
   {
    "title": "CMB anuncia regreso del boxeo mundial a México en 2027 - Sociedad Noticias",
@@ -605,7 +605,7 @@
    "date": "2026-11-12T19:47:46+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 64,
+   "score": 63,
    "sources_n": 5,
    "title_it": "Se Floyd batte Ryan",
    "title_es": "Si Floyd vence a Ryan"
@@ -1071,7 +1071,7 @@
    "date": "2026-11-12T13:47:56+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 31,
+   "score": 30,
    "sources_n": 1,
    "title_it": "Spiegazione di KO, TKO, RTD e decisioni tecniche",
    "title_es": "Explicación de los KO, los TKO, los RTD y las decisiones técnicas"
@@ -1261,7 +1261,7 @@
    "date": "2026-11-12T11:46:19+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 52,
+   "score": 51,
    "sources_n": 7,
    "title_it": "Eddie Hearn accetta l'offerta di combattimento di Dana White a una condizione",
    "title_es": "Eddie Hearn acepta oferta de pelea con Dana White con una condición"
@@ -1430,6 +1430,19 @@
    "sources_n": 15,
    "title_it": "Altri combattimenti dei pesi massimi aggiunti alla undercard Tyson Fury vs Anthony Joshua",
    "title_es": "Se agregaron más peleas de peso pesado a la cartelera de Tyson Fury vs Anthony Joshua"
+  },
+  {
+   "title": "Zero scuse, dodici anni di sport e impegno sociale sul territorio - Lecce Tomorrow",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU21HR3ZBdm5EekV0MHZtUGJOZXNLUjNIa0xENkRkZVdwNnVsUnJJSU1tT0VIVlFnbnJPbXpuM3JvSkhZWXJlejIzbjB0c0hfb0V4WWNwdGFWZlJTWlRYd3lzOGxtb2JNcW5nczlrS092QldyM05XSFJhdjJTZktDRUd5a18xMGJTa2lxb1I0WEFsOENBUDlJY2I4aG52QXA0cjVHYmlfcXY?oc=5",
+   "source": "Google News: pugilato",
+   "lang": "it",
+   "date": "2026-11-12T09:09:00+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 20,
+   "sources_n": 1,
+   "title_it": "Zero scuse, dodici anni di sport e impegno sociale sul territorio - Lecce Tomorrow",
+   "title_es": "Cero excusas, doce años de deporte y compromiso social en el territorio - Lecce Tomorrow"
   },
   {
    "title": "Ferramosca sfida Sapone per il titolo italiano: Prato sogna con il suo “Bulldozer” - Notizie di Prato",
@@ -1656,7 +1669,7 @@
    "date": "2026-11-12T03:46:31+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 26,
+   "score": 25,
    "sources_n": 1,
    "title_it": "Dicevano che era arrugginito. Lui ha risposto con un KO tecnico.",
    "title_es": "Decían que estaba oxidado. Él respondió con un nocaut técnico."
@@ -1920,7 +1933,7 @@
    "date": "2026-11-11T21:47:02+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 5,
+   "score": 4,
    "sources_n": 1,
    "title_it": "Foto: Orobio e Cedeno fanno peso per uno scontro da 140 libbre",
    "title_es": "Fotos: Orobio y Cedeño dan peso para choque de 140 libras"
@@ -2051,7 +2064,7 @@
    "date": "2026-11-11T19:46:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 14,
+   "score": 13,
    "sources_n": 1,
    "title_it": "La Fight Gym esulta, bronzo tricolore per il giovane Borghetti - Il Giunco.net",
    "title_es": "La Fight Gym triunfa: medalla de bronce en el campeonato de Italia para el joven Borghetti - Il Giunco.net"
@@ -2778,7 +2791,7 @@
     "Joshua Buatsi",
     "Anthony Joshua"
    ],
-   "score": 101,
+   "score": 100,
    "sources_n": 6,
    "title_it": "Boxe: quali sono le prospettive per Joshua Buatsi dopo la perdita del titolo mondiale contro Willy Hutchinson? - Sky Sport",
    "title_es": "Boxeo: ¿Qué sigue para Joshua Buatsi después de perder el título mundial ante Willy Hutchinson? - Deportes del cielo"
@@ -3117,7 +3130,7 @@
    "date": "2026-11-10T17:50:49+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 31,
+   "score": 30,
    "sources_n": 3,
    "title_it": "WBC fomenta el uso del correo postal desde Acapulco - World Boxing Council",
    "title_es": "WBC fomenta el uso del correo postal desde Acapulco - World Boxing Council"
@@ -3130,7 +3143,7 @@
    "date": "2026-11-10T17:48:04+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 11,
+   "score": 10,
    "sources_n": 2,
    "title_it": "Foggia capitale della boxe giovanile: 260 atleti al Palazzetto Preziuso per i Campionati Italiani Under 15 - l'Immediato",
    "title_es": "Foggia, capital del boxeo juvenil: 260 atletas en el Palazzetto Preziuso para el Campeonato de Italia sub 15 - l'Immediato"
@@ -3577,8 +3590,8 @@
    "date": "2026-11-10T07:11:45+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 40,
-   "sources_n": 4,
+   "score": 30,
+   "sources_n": 3,
    "title_it": "Alycia Baumgardner domina Elif Nur Turhan per diventare campionessa del mondo di pesi leggeri",
    "title_es": "Alycia Baumgardner domina a Elif Nur Turhan para convertirse en campeona mundial de peso ligero"
   },
@@ -3833,8 +3846,8 @@
    "date": "2026-11-09T17:54:25+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 48,
-   "sources_n": 4,
+   "score": 38,
+   "sources_n": 3,
    "title_it": "Alycia Baumgardner elimina Elif Nur Turhan e vince il titolo dei pesi leggeri IBF",
    "title_es": "Alycia Baumgardner supera a Elif Nur Turhan para ganar el título de peso ligero de la FIB"
   },
@@ -4046,8 +4059,8 @@
    "date": "2026-11-09T13:58:37+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 48,
-   "sources_n": 4,
+   "score": 38,
+   "sources_n": 3,
    "title_it": "Alycia Baumgardner vince davanti al pubblico di casa e diventa campionessa del mondo in due categorie - Dallas News",
    "title_es": "Alycia Baumgardner gana ante su público y se convierte en campeona del mundo en dos categorías - Dallas News"
   },
@@ -4063,19 +4076,6 @@
    "sources_n": 1,
    "title_it": "Programma dei messicani nel pugilato e nell'UFC di questa settimana: incontri, orari e dove guardarli - Juanfutbol",
    "title_es": "Cartelera de mexicanos en boxeo y UFC esta semana: peleas, horarios y dónde ver - Juanfutbol"
-  },
-  {
-   "title": "Elif Nur Turhan vs Alycia Baumgardner | Full Fight | Lightweight",
-   "link": "https://www.youtube.com/watch?v=lUzTDkEg4XA",
-   "source": "YouTube Sky Sports Boxing",
-   "lang": "en",
-   "date": "2026-11-09T13:00:07+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 30,
-   "sources_n": 4,
-   "title_it": "Elif Nur Turhan contro Alycia Baumgardner | Incontro completo | Pesi leggeri",
-   "title_es": "Elif Nur Turhan vs. Alycia Baumgardner | Combate completo | Peso ligero"
   }
  ]
 }
