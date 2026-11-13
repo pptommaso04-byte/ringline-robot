@@ -6986,7 +6986,7 @@
  },
  "Jayr Raquinel": {
   "slug": "jayr-raquinel",
-  "updated": "2026-11-10T12:35:35+00:00",
+  "updated": "2026-11-13T12:36:06+00:00",
   "total": 22,
   "verified": 0,
   "record": {
@@ -7007,7 +7007,7 @@
  },
  "Mario Herrera": {
   "slug": "mario-herrera",
-  "updated": "2026-11-10T12:35:43+00:00",
+  "updated": "2026-11-13T12:36:10+00:00",
   "total": 10,
   "verified": 0,
   "record": {
@@ -45449,5 +45449,26 @@
  },
  "Yuri Mladenov": {
   "tried": "2026-11-13T12:31:24+00:00"
+ },
+ "Giovanni Frontin": {
+  "tried": "2026-11-13T12:36:02+00:00"
+ },
+ "Emil Krastev": {
+  "tried": "2026-11-13T12:36:02+00:00"
+ },
+ "Richard Moray": {
+  "slug": "richard-moray",
+  "updated": "2026-11-13T12:36:20+00:00",
+  "total": 10,
+  "verified": 0,
+  "record": {
+   "w": 7,
+   "l": 3,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
