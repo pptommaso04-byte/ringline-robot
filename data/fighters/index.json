@@ -6559,7 +6559,7 @@
  },
  "Piotr Łącz": {
   "slug": "piotr-acz",
-  "updated": "2026-11-10T11:36:18+00:00",
+  "updated": "2026-11-13T11:40:58+00:00",
   "total": 16,
   "verified": 0,
   "record": {
@@ -6580,7 +6580,7 @@
  },
  "Bradley Rea": {
   "slug": "bradley-rea",
-  "updated": "2026-11-10T11:36:24+00:00",
+  "updated": "2026-11-13T11:40:56+00:00",
   "total": 25,
   "verified": 0,
   "record": {
@@ -45168,5 +45168,38 @@
  },
  "Mikhail Biarnadski": {
   "tried": "2026-11-13T11:35:44+00:00"
+ },
+ "Isaac Hlatshwayo": {
+  "slug": "isaac-hlatshwayo",
+  "updated": "2026-11-13T11:41:02+00:00",
+  "total": 38,
+  "verified": 0,
+  "record": {
+   "w": 30,
+   "l": 6,
+   "d": 1,
+   "nc": 1
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Arsen Martirosian": {
+  "tried": "2026-11-13T11:40:51+00:00"
+ },
+ "Sidney Siqueira": {
+  "slug": "sidney-siqueira",
+  "updated": "2026-11-13T11:41:07+00:00",
+  "total": 40,
+  "verified": 0,
+  "record": {
+   "w": 26,
+   "l": 13,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
