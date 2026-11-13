@@ -4590,7 +4590,7 @@
  },
  "Hopey Price": {
   "slug": "hopey-price",
-  "updated": "2026-11-10T08:05:47+00:00",
+  "updated": "2026-11-13T08:06:53+00:00",
   "total": 12,
   "verified": 0,
   "record": {
@@ -44574,5 +44574,54 @@
  },
  "Trevor Stewardson": {
   "tried": "2026-11-13T08:02:33+00:00"
+ },
+ "Pongsaklek Wonjongkam": {
+  "slug": "pongsaklek-wonjongkam",
+  "updated": "2026-11-13T08:06:56+00:00",
+  "total": 98,
+  "verified": 0,
+  "record": {
+   "w": 91,
+   "l": 5,
+   "d": 2,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Harry Tañamor": {
+  "tried": "2026-11-13T08:06:48+00:00"
+ },
+ "Omar Sheika": {
+  "slug": "omar-sheika",
+  "updated": "2026-11-13T08:07:03+00:00",
+  "total": 44,
+  "verified": 0,
+  "record": {
+   "w": 32,
+   "l": 12,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "it"
+  ]
+ },
+ "Michael Gomez": {
+  "slug": "michael-gomez",
+  "updated": "2026-11-13T08:07:10+00:00",
+  "total": 48,
+  "verified": 0,
+  "record": {
+   "w": 38,
+   "l": 10,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
