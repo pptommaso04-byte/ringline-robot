@@ -4371,7 +4371,7 @@
  },
  "Georgia O'Connor": {
   "slug": "georgia-o-connor",
-  "updated": "2026-11-10T07:31:15+00:00",
+  "updated": "2026-11-13T07:31:26+00:00",
   "total": 3,
   "verified": 0,
   "record": {
@@ -44362,5 +44362,29 @@
  },
  "Magomed Aripgadjiev": {
   "tried": "2026-11-13T07:25:49+00:00"
+ },
+ "Rudolf Kraj": {
+  "tried": "2026-11-13T07:31:22+00:00"
+ },
+ "Charles Adamu": {
+  "tried": "2026-11-13T07:31:22+00:00"
+ },
+ "Christian M'Pumbu": {
+  "tried": "2026-11-13T07:31:22+00:00"
+ },
+ "Colin Lynes": {
+  "slug": "colin-lynes",
+  "updated": "2026-11-13T07:31:36+00:00",
+  "total": 51,
+  "verified": 0,
+  "record": {
+   "w": 39,
+   "l": 12,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
