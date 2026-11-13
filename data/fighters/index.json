@@ -6601,7 +6601,7 @@
  },
  "Duke Ragan": {
   "slug": "duke-ragan",
-  "updated": "2026-11-10T11:40:55+00:00",
+  "updated": "2026-11-13T11:46:00+00:00",
   "total": 9,
   "verified": 0,
   "record": {
@@ -6617,7 +6617,7 @@
  },
  "Muslim Gadzhimagomedov": {
   "slug": "muslim-gadzhimagomedov",
-  "updated": "2026-11-10T11:41:00+00:00",
+  "updated": "2026-11-13T11:45:55+00:00",
   "total": 6,
   "verified": 0,
   "record": {
@@ -6635,7 +6635,7 @@
  },
  "Ikboljon Kholdarov": {
   "slug": "ikboljon-kholdarov",
-  "updated": "2026-11-10T11:41:05+00:00",
+  "updated": "2026-11-13T11:46:05+00:00",
   "total": 7,
   "verified": 0,
   "record": {
@@ -45201,5 +45201,23 @@
   "langs": [
    "en"
   ]
+ },
+ "Somsak Sithchatchawal": {
+  "slug": "somsak-sithchatchawal",
+  "updated": "2026-11-13T11:46:10+00:00",
+  "total": 68,
+  "verified": 0,
+  "record": {
+   "w": 60,
+   "l": 4,
+   "d": 3,
+   "nc": 1
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Kid Diamond": {
+  "tried": "2026-11-13T11:45:48+00:00"
  }
 }
