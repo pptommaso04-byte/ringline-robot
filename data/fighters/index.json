@@ -11745,7 +11745,7 @@
  },
  "Oluwafemi Oyeleye": {
   "slug": "oluwafemi-oyeleye",
-  "updated": "2026-11-10T21:10:57+00:00",
+  "updated": "2026-11-13T21:16:15+00:00",
   "total": 17,
   "verified": 0,
   "record": {
@@ -11764,7 +11764,7 @@
  },
  "Alberto Puello": {
   "slug": "alberto-puello",
-  "updated": "2026-11-10T21:11:02+00:00",
+  "updated": "2026-11-13T21:16:12+00:00",
   "total": 27,
   "verified": 0,
   "record": {
@@ -11783,7 +11783,7 @@
  },
  "Joshua Greer Jr.": {
   "slug": "joshua-greer-jr",
-  "updated": "2026-11-10T21:11:07+00:00",
+  "updated": "2026-11-13T21:16:19+00:00",
   "total": 27,
   "verified": 0,
   "record": {
@@ -48080,5 +48080,24 @@
  },
  "José Pérez Reyes": {
   "tried": "2026-11-13T21:10:46+00:00"
+ },
+ "Ilfat Razyapov": {
+  "tried": "2026-11-13T21:16:08+00:00"
+ },
+ "Julio Zárate": {
+  "slug": "julio-zarate",
+  "updated": "2026-11-13T21:16:25+00:00",
+  "total": 39,
+  "verified": 0,
+  "record": {
+   "w": 31,
+   "l": 6,
+   "d": 2,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "es"
+  ]
  }
 }
