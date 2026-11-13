@@ -1,8 +1,21 @@
 {
- "updated": "2026-11-13T19:40:42+00:00",
+ "updated": "2026-11-13T19:45:46+00:00",
  "feeds_ok": 49,
  "feeds_failed": 4,
  "news": [
+  {
+   "title": "Boxing Coach Arrested, Gym Shut Over Felony Child Sex Charges",
+   "link": "https://www.worldboxingnews.com/boxing-coach-arrested-child-sex-charges/",
+   "source": "World Boxing News",
+   "lang": "en",
+   "date": "2026-11-13T19:40:56+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 29,
+   "sources_n": 1,
+   "title_it": "Arrestato allenatore di boxe e palestra chiusa per accuse di reato sessuale su minori",
+   "title_es": "Entrenador de boxeo arrestado y gimnasio cerrado por delitos graves de sexo infantil"
+  },
   {
    "title": "Gerome Warburton is always the underdog and always comes out on top: Riyadh Season Zuffa Boxing 13",
    "link": "https://www.saddoboxing.com/112250-gerome-warburton-is-always-the-underdog-and-always-comes-out-on-top-riyadh-season-zuffa-boxing-13.html",
@@ -392,7 +405,7 @@
    "date": "2026-11-13T15:44:43+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 38,
+   "score": 37,
    "sources_n": 2,
    "title_it": "Pontecagnano Faiano, Sofia Longo è vicecampionessa italiana Under 15 di pugilato con un argento ai Campionati nazionali - Salerno In Web",
    "title_es": "Pontecagnano Faiano: Sofia Longo es subcampeona de Italia sub-15 de boxeo con una medalla de plata en los Campeonatos Nacionales - Salerno In Web"
@@ -4075,21 +4088,6 @@
    "sources_n": 1,
    "title_it": "Uno sguardo in prima fila all'interruzione del primo round di Vinnie Kemp a #ZuffaBoxing12",
    "title_es": "Una mirada desde el ring al paro de la Ronda 1 de Vinnie Kemp en # ZuffaBoxing12"
-  },
-  {
-   "title": "Canelo Alvarez could face new British world champion next in weight switch fight",
-   "link": "https://talksport.com/boxing/4698171/canelo-alvarez-willy-hutchinson-fight/",
-   "source": "Talksport Boxing",
-   "lang": "en",
-   "date": "2026-11-10T10:21:52+00:00",
-   "status": "rumor",
-   "boxers": [
-    "Canelo Alvarez"
-   ],
-   "score": 75,
-   "sources_n": 6,
-   "title_it": "Canelo Alvarez potrebbe affrontare il nuovo campione del mondo britannico nella lotta per il cambio di peso",
-   "title_es": "Canelo Álvarez podría enfrentarse al nuevo campeón mundial británico en una pelea por cambio de peso"
   }
  ]
 }

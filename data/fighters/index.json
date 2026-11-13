@@ -10784,7 +10784,7 @@
  },
  "Yunoka Furukawa": {
   "slug": "yunoka-furukawa",
-  "updated": "2026-11-10T19:40:55+00:00",
+  "updated": "2026-11-13T19:45:51+00:00",
   "total": 16,
   "verified": 0,
   "record": {
@@ -10799,7 +10799,7 @@
  },
  "Tsubasa Koura": {
   "slug": "tsubasa-koura",
-  "updated": "2026-11-10T19:40:59+00:00",
+  "updated": "2026-11-13T19:45:54+00:00",
   "total": 18,
   "verified": 0,
   "record": {
@@ -47709,5 +47709,38 @@
  },
  "Juli Crockett": {
   "tried": "2026-11-13T19:40:42+00:00"
+ },
+ "Larry Gonzáles": {
+  "slug": "larry-gonzales",
+  "updated": "2026-11-13T19:46:00+00:00",
+  "total": 75,
+  "verified": 0,
+  "record": {
+   "w": 69,
+   "l": 6,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Alberto Rossel": {
+  "slug": "alberto-rossel",
+  "updated": "2026-11-13T19:46:05+00:00",
+  "total": 44,
+  "verified": 0,
+  "record": {
+   "w": 34,
+   "l": 9,
+   "d": 0,
+   "nc": 1
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Paweł Kakietek": {
+  "tried": "2026-11-13T19:45:46+00:00"
  }
 }
