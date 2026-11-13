@@ -10580,7 +10580,7 @@
  },
  "Jan Lodzik": {
   "slug": "jan-lodzik",
-  "updated": "2026-11-10T19:25:43+00:00",
+  "updated": "2026-11-13T19:27:08+00:00",
   "total": 21,
   "verified": 0,
   "record": {
@@ -10598,7 +10598,7 @@
  },
  "Jasmine Clarkson": {
   "slug": "jasmine-clarkson",
-  "updated": "2026-11-10T19:25:48+00:00",
+  "updated": "2026-11-13T19:27:11+00:00",
   "total": 18,
   "verified": 0,
   "record": {
@@ -10613,7 +10613,7 @@
  },
  "Karol Welter": {
   "slug": "karol-welter",
-  "updated": "2026-11-10T19:25:51+00:00",
+  "updated": "2026-11-13T19:27:06+00:00",
   "total": 23,
   "verified": 0,
   "record": {
@@ -10628,7 +10628,7 @@
  },
  "Sean Noakes": {
   "slug": "sean-noakes",
-  "updated": "2026-11-10T19:25:55+00:00",
+  "updated": "2026-11-13T19:27:14+00:00",
   "total": 13,
   "verified": 0,
   "record": {
@@ -47611,5 +47611,21 @@
  },
  "Yosvani Aguilera": {
   "tried": "2026-11-13T19:20:43+00:00"
+ },
+ "Zolani Petelo": {
+  "slug": "zolani-petelo",
+  "updated": "2026-11-13T19:27:16+00:00",
+  "total": 24,
+  "verified": 0,
+  "record": {
+   "w": 17,
+   "l": 5,
+   "d": 2,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "pt"
+  ]
  }
 }
