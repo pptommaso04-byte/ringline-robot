@@ -1,8 +1,22 @@
 {
- "updated": "2026-11-13T09:36:07+00:00",
+ "updated": "2026-11-13T09:42:12+00:00",
  "feeds_ok": 49,
  "feeds_failed": 4,
  "news": [
+  {
+   "title": "Former heavyweight champion Riddick Bowe sums up Anthony Joshua’s chances of beating Tyson Fury",
+   "link": "https://boxingnewsonline.net/news/riddick-bowe-on-joshua-chances-fury/",
+   "source": "Boxing News (UK)",
+   "lang": "en",
+   "date": "2026-11-13T09:32:21+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Tyson Fury",
+    "Anthony Joshua"
+   ],
+   "score": 132,
+   "sources_n": 16
+  },
   {
    "title": "Maria Laura Perrotta, orgoglio cosentino agli Euro U23 di boxe - il Dot",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTURVQU1YT2p5WmhZc3BWY1VyWTRnZ0gtdTdlaS1PQjgwZHFTaFVtYjRKS0VSWDhHaHN5LUk1M0VtaENRak84MXFGMUxfSUdCaVNSYllIdjlDMmdsemhQMlFzR1JQWmRTQ1pJT3RVU0U4OVJBQUZKQmN0d3lTZnZGckNHQUJyeUVneHBvZm50Qk54dw?oc=5",
@@ -13,7 +27,8 @@
    "boxers": [],
    "score": 39,
    "sources_n": 2,
-   "title_it": "Maria Laura Perrotta, orgoglio cosentino agli Euro U23 di boxe - il Dot"
+   "title_it": "Maria Laura Perrotta, orgoglio cosentino agli Euro U23 di boxe - il Dot",
+   "title_es": "Maria Laura Perrotta, orgullo cosentino en el Europeo sub-23 de boxeo - il Dot"
   },
   {
    "title": "Deontay Wilder compares his KO power to Jai Opetaia’s ahead of heavyweight clash",
@@ -24,7 +39,9 @@
    "status": "unverified",
    "boxers": [],
    "score": 82,
-   "sources_n": 2
+   "sources_n": 2,
+   "title_it": "Deontay Wilder confronta la sua potenza di KO con quella di Jai Opetaia in vista dello scontro nei pesi massimi",
+   "title_es": "Deontay Wilder compara su poder de «KO» con el de Jai Opetaia antes del combate de pesos pesados"
   },
   {
    "title": "Viddal Riley vs Seydi Coupe undercard: Who else is fighting on huge Wembley bill?",
@@ -80,7 +97,7 @@
     "Oleksandr Usyk"
    ],
    "score": 114,
-   "sources_n": 14,
+   "sources_n": 15,
    "title_it": "Anthony Joshua rivela il consiglio di Oleksandr Usyk per l'incontro con Tyson Fury",
    "title_es": "Anthony Joshua revela el consejo de Oleksandr Usyk para el combate contra Tyson Fury"
   },
@@ -92,7 +109,7 @@
    "date": "2026-11-13T07:31:02+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 39,
+   "score": 38,
    "sources_n": 2,
    "title_it": "Come Riley è passato dall'essere l'allenatore di KSI al sognare il titolo mondiale",
    "title_es": "Cómo Riley pasó de ser el entrenador de KSI a soñar con un título mundial"
@@ -105,7 +122,7 @@
    "date": "2026-11-13T07:30:58+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 39,
+   "score": 38,
    "sources_n": 2,
    "title_it": "Viddal Riley: come il britannico è passato dall'essere l'allenatore di KSI allo sfiorare il titolo mondiale - BBC",
    "title_es": "Viddal Riley: cómo el británico pasó de ser entrenador de KSI a estar a punto de disputar un título mundial - BBC"
@@ -321,7 +338,7 @@
     "Anthony Joshua"
    ],
    "score": 91,
-   "sources_n": 13,
+   "sources_n": 14,
    "title_it": "Hearn mette in guardia Anthony Joshua dal cercare di battere Fury sul piano della boxe",
    "title_es": "Hearn advierte a Anthony Joshua de que no intente superar a Fury en el boxeo"
   },
@@ -410,7 +427,7 @@
    "date": "2026-11-13T01:30:14+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 46,
+   "score": 45,
    "sources_n": 3,
    "title_it": "Alistair Overeem affronta Jimi Manuwa nella undercard Paul vs Doumbe",
    "title_es": "Alistair Overeem se enfrenta a Jimi Manuwa en la cartelera de Paul vs Doumbe"
@@ -488,7 +505,7 @@
    "date": "2026-11-12T23:30:27+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 100,
+   "score": 99,
    "sources_n": 4,
    "title_it": "Tim Bradley indica il pugile che Canelo dovrebbe affrontare come prossimo avversario per riaccendere la rivalità con Crawford",
    "title_es": "Tim Bradley nombra al púgil al que Canelo debería enfrentarse a continuación para reavivar la rivalidad con Crawford"
@@ -608,7 +625,7 @@
     "Anthony Joshua"
    ],
    "score": 109,
-   "sources_n": 14,
+   "sources_n": 15,
    "title_it": "Biglietti per Tyson Fury vs Anthony Joshua a 275 £ a persona con birre gratuite incluse nell'offerta di ospitalità VIP per la serata del combattimento",
    "title_es": "Entradas para el combate Tyson Fury vs. Anthony Joshua por 275 £ por persona, con cervezas gratis incluidas en el paquete VIP de hospitalidad para la velada de boxeo"
   },
@@ -624,7 +641,7 @@
     "Anthony Joshua"
    ],
    "score": 119,
-   "sources_n": 14,
+   "sources_n": 15,
    "title_it": "Tyson Fury contro Anthony Joshua: il promotore Ben Shalom esplora il ricorso legale dopo l'annuncio del combattimento undercard",
    "title_es": "Tyson Fury vs. Anthony Joshua: el promotor Ben Shalom explora recursos legales después del anuncio de la pelea preliminar"
   },
@@ -661,7 +678,7 @@
    "date": "2026-11-12T21:33:38+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 74,
+   "score": 73,
    "sources_n": 5,
    "title_it": "Arminius Rolle approvato per il titolo mondiale giovanile WBA a 16 anni",
    "title_es": "Arminius Rolle aprobado para el título mundial juvenil de la AMB a los 16 años"
@@ -752,8 +769,8 @@
    "date": "2026-11-12T20:24:44+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 71,
-   "sources_n": 3,
+   "score": 81,
+   "sources_n": 4,
    "title_it": "In questo giorno del 1992, abbiamo visto l'incontro per il titolo indiscusso dei pesi massimi tra Evander Holyfield e Riddick Bowe, l'incontro sarebbe stato il primo della trilogia che avrebbe avuto luogo nel corso dei successivi 3 anni",
    "title_es": "Un día como hoy de 1992, vimos la pelea por el título indiscutible de peso pesado entre Evander Holyfield y Riddick Bowe, la pelea sería la primera de la trilogía que se llevaría a cabo en el transcurso de los siguientes 3 años."
   },
@@ -882,7 +899,7 @@
    "date": "2026-11-12T19:36:37+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 41,
+   "score": 40,
    "sources_n": 1,
    "title_it": "Pesi massimi messi KO 14 volte in 14 minuti, non vedono mai il secondo round",
    "title_es": "Peso pesado noqueado 14 veces en 14 minutos, nunca llega al segundo asalto"
@@ -895,7 +912,7 @@
    "date": "2026-11-12T19:33:52+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 63,
+   "score": 62,
    "sources_n": 3,
    "title_it": "Floyd Schofield Jnr-Jose “Rayo” Valenzuela ordinato dalla WBA",
    "title_es": "Floyd Schofield Jr-José “Rayo” Valenzuela ordenado por la AMB"
@@ -1017,7 +1034,7 @@
     "Anthony Joshua"
    ],
    "score": 61,
-   "sources_n": 15,
+   "sources_n": 16,
    "title_it": "Eddie Hearn critica il programma degli incontri preliminari di Fury-Joshua e sostiene il coinvolgimento di Dana White",
    "title_es": "Eddie Hearn anuncia la velada preliminar de Fury vs. Joshua y afirma que Dana White está involucrado"
   },
@@ -1046,7 +1063,7 @@
     "Anthony Joshua"
    ],
    "score": 106,
-   "sources_n": 14,
+   "sources_n": 15,
    "title_it": "\"Potrebbe non durare quattro round!\" Shane McGuigan fa una previsione BOLD tra Tyson Fury e Anthony Joshua",
    "title_es": "\"¡Puede que no dure cuatro rondas!\" Shane McGuigan hace predicción BOLD de Tyson Fury vs Anthony Joshua"
   },
@@ -1149,10 +1166,23 @@
    "date": "2026-11-12T15:34:52+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 21,
+   "score": 20,
    "sources_n": 1,
    "title_it": "Boxe, la palermitana Crystal Filardi trionfa ai campionati italiani under 15 e conquista l'oro - PalermoToday",
    "title_es": "Boxeo, Crystal Filardi de Palermo triunfa en el campeonato italiano sub 15 y gana el oro - PalermoToday"
+  },
+  {
+   "title": "Pugilato, Maria Laura Perrotta vola agli Europei Under 23: l’atleta cosentina vestirà la maglia azzurra in Croazia · LaC News24 - LaC News24",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNM1JpZVFpaWlRRzRnQzBtdTNMOG02RkJYUjJHZnUyOGtkNGN5dU1YeDB4Vl9XRGZxUnRCcXpmUWRqY3BxS0RCUS03T3h4QWF4YThreDQ3OVZKOW1nSV82bFdsQlVlZWlNNlZyay1hWHhNTGZNRzcxLVdoQ2hXeDZ0MDV1Q0dCdVdRNWw2QzM3TWtEWkZ3d2VtT2hVUUFRdGloQUxxQXdKSkRHNERwUHBwaUhSeGFTdjNiQkxIS2gtWndldGt0VDBJM3NvZHZ6aVZsSDA3SEVkNmduaUw2M0xLMk40M1ZrZ9IB6wFBVV95cUxOd0ozNk1TV3dIQ0l6NVhjcmhNN0dqWUYtVXh2SmZ4SzQwRGQxd3pYQmFUX21id3JkQ0s3ckdpTU00MTl2Q3d1Mk03cXZpeFMtcFdGQzc5ZktJaHhvenpkM2ZBcHFiVW1wRF9oZWt4TjlGdE5DTkFEWU83UWVEUEtUZ2puMDR6Uk44Vlc2RG9EMnJyR0JYRnVhT3c5NEpBcnVwbkhtRDZTRHA1cHY0a29UUmFBTXRoQ0czVTVGWW1iWVIzU0l0djZSWnlGQjJZRlQwRHpsQk01TF9sd21SQ2xyQzJuOUlLX3QyVVJZ?oc=5",
+   "source": "Google News: pugilato",
+   "lang": "it",
+   "date": "2026-11-12T15:17:05+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 40,
+   "sources_n": 3,
+   "title_it": "Pugilato, Maria Laura Perrotta vola agli Europei Under 23: l’atleta cosentina vestirà la maglia azzurra in Croazia · LaC News24 - LaC News24",
+   "title_es": "Pugilato, Maria Laura Perrotta vuela a los Europeos Sub-23: la atleta de Cosenza vestirá la camiseta azul en Croacia · LaC News24 - LaC News24"
   },
   {
    "title": "WBA orders Teofimo Lopez vs Jack Catterall amid Ryan Garcia talks",
@@ -1192,7 +1222,7 @@
     "Anthony Joshua"
    ],
    "score": 60,
-   "sources_n": 15,
+   "sources_n": 16,
    "title_it": "Dana White prende Fury contro Joshua Undercard, Eddie Hearn Out",
    "title_es": "Dana White se lleva la cartelera de Fury vs Joshua, Eddie Hearn sale"
   },
@@ -1215,8 +1245,8 @@
    "date": "2026-11-12T14:25:21+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 83,
-   "sources_n": 2,
+   "score": 73,
+   "sources_n": 1,
    "title_it": "Fabio Wardley prende la decisione definitiva sul ritiro dopo il KO di Daniel Dubois",
    "title_es": "Fabio Wardley toma la decisión final de retirarse después del KO de Daniel Dubois"
   },
@@ -1282,7 +1312,7 @@
    "boxers": [],
    "score": 94,
    "sources_n": 9,
-   "title_es": "Devin Haney reacciona tras el anuncio de Ryan García de que va a pelear contra Floyd Mayweather"
+   "title_it": "La reazione di Devin Haney dopo l'annuncio di Ryan Garcia dell'incontro con Floyd Mayweather"
   },
   {
    "title": "Jaron ‘Boots’ Ennis and British star Josh Kelly set for mouthwatering title fight",
@@ -1309,7 +1339,7 @@
     "Anthony Joshua"
    ],
    "score": 104,
-   "sources_n": 16,
+   "sources_n": 17,
    "title_it": "Eddie Hearn critica il programma degli incontri preliminari di Tyson Fury contro Anthony Joshua e afferma che Dana White \"non conosce la boxe\"",
    "title_es": "Eddie Hearn critica la velada de Tyson Fury contra Anthony Joshua y dice que Dana White «no sabe nada de boxeo»"
   },
@@ -1325,7 +1355,7 @@
     "Anthony Joshua"
    ],
    "score": 104,
-   "sources_n": 16,
+   "sources_n": 17,
    "title_it": "Eddie Hearn critica il programma degli incontri preliminari di Tyson Fury contro Anthony Joshua dopo l'aggiunta di due nuovi incontri",
    "title_es": "Eddie Hearn critica la velada preliminar de Tyson Fury vs. Anthony Joshua tras dos nuevas incorporaciones"
   },
@@ -1488,7 +1518,7 @@
     "Anthony Joshua"
    ],
    "score": 103,
-   "sources_n": 16,
+   "sources_n": 17,
    "title_it": "Eddie Hearn sbatte la carta della lotta tra Tyson Fury e Anthony Joshua",
    "title_es": "Eddie Hearn critica la cartelera de pelea entre Tyson Fury y Anthony Joshua"
   },
@@ -1542,19 +1572,6 @@
    "title_es": "Zelfa Barrett mantiene su sueño de título mundial después de un año 'frustrante' - boxingnewsonline.net"
   },
   {
-   "title": "Fabio Wardley announces decision on fighting future after two knockout defeats to Daniel Dubois",
-   "link": "https://boxingnewsonline.net/news/fabio-wardley-on-fighting-future/",
-   "source": "Boxing News (UK)",
-   "lang": "en",
-   "date": "2026-11-12T09:53:28+00:00",
-   "status": "confirmed",
-   "boxers": [],
-   "score": 81,
-   "sources_n": 2,
-   "title_it": "Fabio Wardley annuncia la sua decisione sul futuro dei suoi incontri dopo due sconfitte per KO contro Daniel Dubois",
-   "title_es": "Fabio Wardley anuncia su decisión sobre su futuro como púgil tras dos derrotas por nocaut frente a Daniel Dubois"
-  },
-  {
    "title": "Ferramosca sfida Sapone per il titolo italiano: Prato sogna con il suo \"Bulldozer\" - Sport di Prato",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNGswSFNYME9meXU2UU9HREpuS3p0ZXM2STRIRm4zUm1JV3V2TDNhSHRwa3dqUmpGNXhDaVNvSHlGQUtKV01ybFBWbFNoQU5zSVNyUklpV2Y3VS0xaUZxSl90dWJJWlhVS0pOS056U0o5Wkt6aFQxZlZ4UGtYR0FWdTBCaUR3ZnlNaHdwX0pldFJrRXk0cXFUVWpiYlBrQXBqcFJTTmozUTBJQXY5QV9mOHRLT1NnaGpCTVlhZVUxSVZKdDMzSDRiWENuNTQtbUE?oc=5",
    "source": "Google News: pugilato",
@@ -1605,7 +1622,7 @@
     "Anthony Joshua"
    ],
    "score": 112,
-   "sources_n": 14,
+   "sources_n": 15,
    "title_it": "Altri combattimenti dei pesi massimi aggiunti alla undercard Tyson Fury vs Anthony Joshua",
    "title_es": "Se agregaron más peleas de peso pesado a la cartelera de Tyson Fury vs Anthony Joshua"
   },
@@ -1675,7 +1692,7 @@
     "Anthony Joshua"
    ],
    "score": 55,
-   "sources_n": 13,
+   "sources_n": 14,
    "title_it": "Due incontri aggiunti alla sottocartellone di Fury vs Joshua",
    "title_es": "Se añaden dos combates a la velada preliminar de Fury vs. Joshua"
   },
@@ -1930,7 +1947,7 @@
     "Anthony Joshua"
    ],
    "score": 107,
-   "sources_n": 14,
+   "sources_n": 15,
    "title_it": "Annunciati i combattimenti delle carte principali tra Tyson Fury e Anthony Joshua",
    "title_es": "Se anuncian las peleas principales de Tyson Fury vs. Anthony Joshua"
   },
@@ -1946,7 +1963,7 @@
     "Anthony Joshua"
    ],
    "score": 107,
-   "sources_n": 14,
+   "sources_n": 15,
    "title_it": "Il programma degli incontri preliminari di Tyson Fury contro Anthony Joshua prevede altri due combattimenti nei pesi massimi, tra cui un promettente pugile di Dana White",
    "title_es": "La velada preliminar de Tyson Fury contra Anthony Joshua contará con dos combates más de pesos pesados, incluido un púgil prometedor de Dana White"
   },
@@ -2030,7 +2047,7 @@
     "Anthony Joshua"
    ],
    "score": 106,
-   "sources_n": 14,
+   "sources_n": 15,
    "title_it": "Scheda di combattimento Tyson Fury contro Anthony Joshua: coppia di combattimenti dei pesi massimi aggiunti allo show Netflix",
    "title_es": "Cartelera de pelea entre Tyson Fury y Anthony Joshua: se agregaron un par de peleas de peso pesado al programa de Netflix"
   },
@@ -2046,7 +2063,7 @@
     "Anthony Joshua"
    ],
    "score": 96,
-   "sources_n": 14,
+   "sources_n": 15,
    "title_it": "Sottocartellone di Tyson Fury contro Anthony Joshua: chi altro è presente nell'evento stellare di Cardiff?",
    "title_es": "Combates preliminares de Tyson Fury vs. Anthony Joshua: ¿Quién más forma parte del cartel repleto de estrellas de Cardiff?"
   },
@@ -2090,7 +2107,7 @@
     "Anthony Joshua"
    ],
    "score": 96,
-   "sources_n": 16,
+   "sources_n": 17,
    "title_it": "I tifosi sono \"in delirio\" per la rivelazione del programma completo degli incontri preliminari di Tyson Fury contro Anthony Joshua per il \"Boxing's Biggest Night\" di Netflix",
    "title_es": "Se desvela que los «diabólicos» Fumez y Fans serán los encargados de amenizar la velada previa al combate entre Tyson Fury y Anthony Joshua en la «Noche más grande del boxeo» de Netflix"
   },
@@ -2420,7 +2437,7 @@
     "Anthony Joshua"
    ],
    "score": 101,
-   "sources_n": 14,
+   "sources_n": 15,
    "title_it": "Il vincitore dell'incontro tra Tyson Fury e Anthony Joshua è stato invitato a sfidare il prossimo rivale \"ingiustamente trattato\"",
    "title_es": "Se insta al ganador del combate entre Tyson Fury y Anthony Joshua a enfrentarse a continuación al rival «perjudicado»"
   },
@@ -2488,7 +2505,7 @@
     "Anthony Joshua"
    ],
    "score": 92,
-   "sources_n": 8,
+   "sources_n": 9,
    "title_it": "Tyson Fury-Anthony Joshua 1am inizia a dipendere dalla decisione del Consiglio di Cardiff",
    "title_es": "Tyson Fury-Anthony Joshua 1 a. m. depende de la decisión del Consejo de Cardiff"
   },
@@ -2504,7 +2521,7 @@
     "Anthony Joshua"
    ],
    "score": 47,
-   "sources_n": 13,
+   "sources_n": 14,
    "title_it": "Pronostico Fury vs Joshua: cosa dicono pugili ed esperti",
    "title_es": "Pronóstico para el combate Fury vs. Joshua: lo que dicen los púgiles y los expertos"
   },
@@ -2520,7 +2537,7 @@
     "Anthony Joshua"
    ],
    "score": 102,
-   "sources_n": 14,
+   "sources_n": 15,
    "title_it": "Tyson Fury contro Anthony Joshua: in programma il terzo incontro di sottofondo con un nuovo peso massimo aggiunto all'attesissimo incontro",
    "title_es": "Tyson Fury contra Anthony Joshua: se espera que el tercer combate de la velada cuente con un nuevo peso pesado en la esperadísima pelea"
   },
@@ -2578,7 +2595,7 @@
     "Anthony Joshua"
    ],
    "score": 102,
-   "sources_n": 14,
+   "sources_n": 15,
    "title_it": "Annunciato un programma di sette incontri a sorpresa a soli tre chilometri di distanza e un giorno prima dell'incontro tra Tyson Fury e Anthony Joshua",
    "title_es": "Se anuncia una sorprendente velada de siete combates solo un día antes del combate entre Tyson Fury y Anthony Joshua y a cinco kilómetros de distancia."
   },
@@ -2594,7 +2611,7 @@
     "Anthony Joshua"
    ],
    "score": 47,
-   "sources_n": 13,
+   "sources_n": 14,
    "title_it": "La lotta tra Joshua e Fury deve affrontare obiezioni oltre la fine delle 3 del mattino",
    "title_es": "La pelea entre Joshua y Fury enfrenta objeciones por terminar a las 3 am"
   },
@@ -2705,7 +2722,7 @@
     "Anthony Joshua"
    ],
    "score": 91,
-   "sources_n": 14,
+   "sources_n": 15,
    "title_it": "L'incontro tra Tyson Fury e Anthony Joshua rischia di subire un grosso intoppo a causa della richiesta per il Principality Stadium che rischia di essere BLOCCATA",
    "title_es": "El combate entre Tyson Fury y Anthony Joshua se topa con un gran obstáculo, ya que la solicitud para celebrar el combate en el Principality Stadium corre el riesgo de ser BLOQUEADA."
   },
@@ -2747,7 +2764,7 @@
     "Anthony Joshua"
    ],
    "score": 109,
-   "sources_n": 14,
+   "sources_n": 15,
    "title_it": "Il vincitore dell'incontro tra Tyson Fury e Anthony Joshua dovrà affrontare il campione \"svantaggiato\" dopo il match",
    "title_es": "El ganador del combate entre Tyson Fury y Anthony Joshua debe enfrentarse al campeón «perjudicado» tras el combate."
   },
@@ -2759,7 +2776,7 @@
    "date": "2026-11-11T09:35:50+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 6,
+   "score": 5,
    "sources_n": 1,
    "title_it": "Ecco le squadre di Silat, Boxe e Biliardo di Da Nang Pencak che gareggiano ai Giochi Sportivi Nazionali. - Vietnam.vn",
    "title_es": "Estos son los equipos de silat, boxeo y billar de Da Nang Pencak que compiten en los Juegos Deportivos Nacionales. - Vietnam.vn"
@@ -2800,7 +2817,7 @@
    "date": "2026-11-11T05:30:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 4,
+   "score": 3,
    "sources_n": 1,
    "title_it": "L’ex pugile Christian Balsamo: «Ho perso mio padre quando avevo 5 mesi e mia madre si è allontanata quando ero bambino. Quelle esperienze fanno parte di me, ma non decidono chi sono. Quando mi si è “spenta” una mano ho capito che dovevo cambiare - Vanity Fair Italia",
    "title_es": "Ex boxeador Christian Balsamo: «Perdí a mi padre cuando tenía 5 meses y mi madre se mudó cuando yo era niño. Esas experiencias son parte de mí, pero no deciden quién soy. Cuando una de mis manos “se soltó” me di cuenta de que tenía que cambiar - Vanity Fair Italia"
@@ -3028,7 +3045,7 @@
     "Anthony Joshua"
    ],
    "score": 95,
-   "sources_n": 14,
+   "sources_n": 15,
    "title_it": "Annunciata una sorprendente card di sette incontri per il giorno precedente all'evento Tyson Fury vs Anthony Joshua",
    "title_es": "Se anuncia una sorprendente velada de siete combates para el día anterior al evento Tyson Fury vs. Anthony Joshua"
   },
@@ -3070,7 +3087,7 @@
     "Anthony Joshua"
    ],
    "score": 40,
-   "sources_n": 13,
+   "sources_n": 14,
    "title_it": "Emergono forti obiezioni sull'orario di inizio dell'incontro Fury-Joshua, e il consiglio dovrà decidere settimane prima del combattimento",
    "title_es": "Surgen fuertes objeciones a la hora de inicio del combate Fury-Joshua; el ayuntamiento decidirá semanas antes de la pelea."
   },
@@ -3250,7 +3267,7 @@
     "Anthony Joshua"
    ],
    "score": 85,
-   "sources_n": 14,
+   "sources_n": 15,
    "title_it": "L'incontro tra Anthony Joshua e Tyson Fury potrebbe essere annullato a causa di obiezioni tardive",
    "title_es": "El combate entre Anthony Joshua y Tyson Fury podría cancelarse tras las objeciones presentadas en última hora"
   },
@@ -3292,7 +3309,7 @@
     "Anthony Joshua"
    ],
    "score": 85,
-   "sources_n": 14,
+   "sources_n": 15,
    "title_it": "\"Te lo dico adesso, davanti alle telecamere\": il padre di Tyson Fury rivela perché NON voleva che l'incontro con Anthony Joshua andasse avanti",
    "title_es": "«Te lo voy a decir ahora delante de la cámara»: el padre de Tyson Fury revela por qué NO quería que se celebrara el combate contra Anthony Joshua"
   },
@@ -3308,7 +3325,7 @@
     "Anthony Joshua"
    ],
    "score": 85,
-   "sources_n": 14,
+   "sources_n": 15,
    "title_it": "Tyson Fury e Anthony Joshua hanno degli affari in sospeso oltre l'11 dicembre",
    "title_es": "Tyson Fury y Anthony Joshua tienen asuntos pendientes más allá del 11 de diciembre"
   },
@@ -3352,7 +3369,7 @@
     "Oleksandr Usyk"
    ],
    "score": 85,
-   "sources_n": 9,
+   "sources_n": 10,
    "title_it": "Furia contro Usyk 3? | Frank Warren su Tyson Fury, il futuro di Oleksandr Usyk e Moses Itauma",
    "title_es": "¿Furia vs Usyk 3? | Frank Warren sobre Tyson Fury, el futuro de Oleksandr Usyk y Moses Itauma"
   },
@@ -3368,7 +3385,7 @@
     "Anthony Joshua"
    ],
    "score": 85,
-   "sources_n": 14,
+   "sources_n": 15,
    "title_it": "Anthony Joshua ha già deciso chi sarà il suo prossimo avversario dopo Tyson Fury",
    "title_es": "Anthony Joshua ya ha decidido quién será su próximo rival después de Tyson Fury"
   },
@@ -3426,19 +3443,6 @@
    "title_es": "Trieste Boxe Noche 10, Sara Lombardi difende il titolo italiano femminile - Nordest24"
   },
   {
-   "title": "Terni, addio a Eraclio Conti: il mondo del pugilato piange l'ex atleta ternano - TerniToday",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOckdYaW5KdlFVRDVua1RQaktSUnR6bks1ZS1BbTc3cXBmanctQXBzZXkxbVpJQnVhVHNfS0cxWGZMTm1qRVZqZG11THlYd2I2MHpLNk9hN0h0TXBscU1MMkVRVi1IVXJKV0xOTlplTWFUckROYmVMTVZIdElHcnZpT3VoVXI?oc=5",
-   "source": "Google News: pugilato",
-   "lang": "it",
-   "date": "2026-11-10T12:36:01+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 0,
-   "sources_n": 1,
-   "title_it": "Terni, addio a Eraclio Conti: il mondo del pugilato piange l'ex atleta ternano - TerniToday",
-   "title_es": "Terni, adiós a Eraclio Conti: el mundo del boxeo llora al exdeportista de Terni - TerniToday"
-  },
-  {
    "title": "Denzel Bentley willing to travel to Ireland for Aaron McKenna title shot",
    "link": "https://www.boxingscene.com/articles/denzel-bentley-willing-to-travel-to-ireland-for-tyrone-mckenna-title-shot",
    "source": "Boxing Scene",
@@ -3465,7 +3469,7 @@
     "Anthony Joshua"
    ],
    "score": 75,
-   "sources_n": 14,
+   "sources_n": 15,
    "title_it": "Joe Joyce sulla differenza tra lo sparring di Tyson Fury e Anthony Joshua",
    "title_es": "Joe Joyce sobre la diferencia entre el sparring de Tyson Fury y Anthony Joshua"
   },
@@ -3496,7 +3500,7 @@
     "Anthony Joshua"
    ],
    "score": 50,
-   "sources_n": 14,
+   "sources_n": 15,
    "title_it": "La decisione di Fury vs Joshua costa il titolo di campione dei pesi massimi",
    "title_es": "La decisión de Fury vs. Joshua cuesta el estatus del título de campeón de peso pesado"
   },
@@ -3657,7 +3661,7 @@
     "Anthony Joshua"
    ],
    "score": 40,
-   "sources_n": 13,
+   "sources_n": 14,
    "title_it": "Fury v Joshua: 2. Una trilogia scomoda",
    "title_es": "Fury vs Joshua: 2. Una trilogía inconveniente"
   },
@@ -3686,7 +3690,7 @@
     "Anthony Joshua"
    ],
    "score": 30,
-   "sources_n": 13,
+   "sources_n": 14,
    "title_it": "Guarda: Rivals - Fury v Joshua su BBC iPlayer",
    "title_es": "Mira: Rivals - Fury v Joshua en BBC iPlayer"
   },
@@ -3702,7 +3706,7 @@
     "Anthony Joshua"
    ],
    "score": 40,
-   "sources_n": 13,
+   "sources_n": 14,
    "title_it": "5 Live Boxing con Steve Bunce",
    "title_es": "5 boxeo en vivo con Steve Bunce"
   },
@@ -3874,7 +3878,7 @@
     "Anthony Joshua"
    ],
    "score": 85,
-   "sources_n": 16,
+   "sources_n": 17,
    "title_it": "Eddie Hearn rivela il prossimo obiettivo di Anthony Joshua dopo l'incontro con Tyson Fury",
    "title_es": "Eddie Hearn revela el próximo objetivo de Anthony Joshua tras el combate contra Tyson Fury"
   },
@@ -3945,15 +3949,14 @@
   },
   {
    "title": "Boxing Weekend Review: Willy Hutchinson's world title triumph and Cheavon Clarke revives career - DAZN",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZm5SWjRSdEVMWWxCNTFKSWZYclhpRVAtdlJ3WUQ2T2RxRFV4b3lUZ2VvTUFfUUFGazhaOTZHaFp5VlowZUtXY3JDZXFqTmhFU2dnc1N4LUxXQ2V2R3p6REJMYUxUSVo2aFhLa08wRVB3NjAxUDlleC1jb0w5Z3g3Nzdrc2RFY2JaSGFzdWlNdXlSWDB0bHVGbFhNVG94QnhFMFVscTFzcVN0RGJwWGNzSlZUeVBrd0VkUEJWM1VKNlkxRWF2bVZrR3ZRUzNJRlpmdUhjRzlmWF9FdXhJc3V1dldn?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUkZ2QnBMTEw3UGVSTW1ULUFrUEdjZlRWcEpfX3NYQjl3UFZzc2JEdjBHdVN1SlNfYnV3eWhsRGtmemdoeDc5UVRFSmpVZlVlbi1SMGt6b2RUQmFwUXhDY0RaM3ZqbUxiV0ljMFdsMDJKWmMyNF9pY0ZmV2V6M0ZQRmN3b3k3VDIwRTRRa2xremFKLUlLMjg0WUY1bFZyMWwwVzNoR0JNYWdmbk1aNWtodmE0QWZhenVMcE96b0JQSExsLWR4anM2US1VUlJhaFFQd0RSTjFVaWx6VFg1ZFlIUnJn?oc=5",
    "source": "Google News: boxing",
    "lang": "en",
    "date": "2026-11-09T17:00:00+00:00",
    "status": "unverified",
    "boxers": [],
    "score": 35,
-   "sources_n": 1,
-   "title_es": "Resumen del fin de semana de boxeo: Willy Hutchinson se proclama campeón del mundo y Cheavon Clarke resucita su carrera - DAZN"
+   "sources_n": 1
   },
   {
    "title": "Former WWE champion Bobby Lashley, 50, discussing bare-knuckle debut at BKFC",
@@ -4019,7 +4022,7 @@
     "Anthony Joshua"
    ],
    "score": 95,
-   "sources_n": 14,
+   "sources_n": 15,
    "title_it": "La promessa dei pesi massimi statunitensi di Dana White in lizza per partecipare all'incontro di sottocategoria Tyson Fury vs Anthony Joshua",
    "title_es": "La promesa estadounidense del peso pesado de Dana White podría formar parte de la velada preliminar de Tyson Fury contra Anthony Joshua"
   },
@@ -4060,7 +4063,7 @@
     "Tyson Fury"
    ],
    "score": 65,
-   "sources_n": 9,
+   "sources_n": 10,
    "title_it": "Tyson Fury indica il pugile che secondo lui può diventare la più grande star della boxe",
    "title_es": "Tyson Fury nombra al púgil que cree que puede convertirse en la mayor estrella del boxeo"
   }
