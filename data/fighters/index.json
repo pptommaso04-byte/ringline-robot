@@ -7220,7 +7220,7 @@
  },
  "Ayanda Ndulani": {
   "slug": "ayanda-ndulani",
-  "updated": "2026-11-10T13:01:28+00:00",
+  "updated": "2026-11-13T13:05:43+00:00",
   "total": 17,
   "verified": 0,
   "record": {
@@ -45591,5 +45591,55 @@
  },
  "Michel López (boxer)": {
   "tried": "2026-11-13T13:01:20+00:00"
+ },
+ "Jorge Rodrigo Barrios": {
+  "slug": "jorge-rodrigo-barrios",
+  "updated": "2026-11-13T13:05:47+00:00",
+  "total": 60,
+  "verified": 0,
+  "record": {
+   "w": 53,
+   "l": 5,
+   "d": 1,
+   "nc": 1
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Vic Darchinyan": {
+  "slug": "vic-darchinyan",
+  "updated": "2026-11-13T13:05:51+00:00",
+  "total": 53,
+  "verified": 0,
+  "record": {
+   "w": 43,
+   "l": 9,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "es"
+  ]
+ },
+ "Daniyar Munaytbasov": {
+  "tried": "2026-11-13T13:05:40+00:00"
+ },
+ "Doug Viney": {
+  "slug": "doug-viney",
+  "updated": "2026-11-13T13:05:55+00:00",
+  "total": 24,
+  "verified": 0,
+  "record": {
+   "w": 14,
+   "l": 10,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "fr"
+  ]
  }
 }
