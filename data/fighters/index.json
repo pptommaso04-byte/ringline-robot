@@ -7369,7 +7369,7 @@
  },
  "Vincent Astrolabio": {
   "slug": "vincent-astrolabio",
-  "updated": "2026-11-10T13:15:49+00:00",
+  "updated": "2026-11-13T13:20:48+00:00",
   "total": 26,
   "verified": 0,
   "record": {
@@ -7390,7 +7390,7 @@
  },
  "Nick Ball (boxer)": {
   "slug": "nick-ball-boxer",
-  "updated": "2026-11-10T13:15:57+00:00",
+  "updated": "2026-11-13T13:20:50+00:00",
   "total": 25,
   "verified": 0,
   "record": {
@@ -45668,6 +45668,39 @@
    "l": 1,
    "d": 1,
    "nc": 1
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Redouane Bouchtouk": {
+  "tried": "2026-11-13T13:20:45+00:00"
+ },
+ "Alejandro Berrio": {
+  "slug": "alejandro-berrio",
+  "updated": "2026-11-13T13:20:55+00:00",
+  "total": 59,
+  "verified": 0,
+  "record": {
+   "w": 41,
+   "l": 18,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Wijan Ponlid": {
+  "slug": "wijan-ponlid",
+  "updated": "2026-11-13T13:20:58+00:00",
+  "total": 18,
+  "verified": 0,
+  "record": {
+   "w": 9,
+   "l": 8,
+   "d": 1,
+   "nc": 0
   },
   "langs": [
    "en"
