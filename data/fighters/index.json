@@ -11442,7 +11442,7 @@
  },
  "Yassine Boughanem": {
   "slug": "yassine-boughanem",
-  "updated": "2026-11-10T20:45:47+00:00",
+  "updated": "2026-11-13T20:45:53+00:00",
   "total": 29,
   "verified": 0,
   "record": {
@@ -47934,5 +47934,54 @@
  },
  "Anurudha Rathnayake": {
   "tried": "2026-11-13T20:41:03+00:00"
+ },
+ "Jimmy Lange": {
+  "slug": "jimmy-lange",
+  "updated": "2026-11-13T20:45:57+00:00",
+  "total": 47,
+  "verified": 0,
+  "record": {
+   "w": 39,
+   "l": 6,
+   "d": 2,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Mohamed Azzaoui": {
+  "slug": "mohamed-azzaoui",
+  "updated": "2026-11-13T20:46:01+00:00",
+  "total": 37,
+  "verified": 0,
+  "record": {
+   "w": 26,
+   "l": 8,
+   "d": 3,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "es"
+  ]
+ },
+ "Oscar Gómez (boxer)": {
+  "tried": "2026-11-13T20:45:50+00:00"
+ },
+ "Juan Lazcano": {
+  "slug": "juan-lazcano",
+  "updated": "2026-11-13T20:46:06+00:00",
+  "total": 43,
+  "verified": 0,
+  "record": {
+   "w": 37,
+   "l": 5,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
