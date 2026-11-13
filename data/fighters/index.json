@@ -4512,7 +4512,7 @@
  },
  "Artur Bazeyan": {
   "slug": "artur-bazeyan",
-  "updated": "2026-11-10T07:55:55+00:00",
+  "updated": "2026-11-13T08:01:14+00:00",
   "total": 2,
   "verified": 0,
   "record": {
@@ -4527,7 +4527,7 @@
  },
  "Karol Itauma": {
   "slug": "karol-itauma",
-  "updated": "2026-11-10T07:56:00+00:00",
+  "updated": "2026-11-13T08:01:18+00:00",
   "total": 14,
   "verified": 0,
   "record": {
@@ -44571,5 +44571,26 @@
  },
  "Dorel Simion": {
   "tried": "2026-11-13T07:55:32+00:00"
+ },
+ "Trevor Stewardson": {
+  "tried": "2026-11-13T08:01:08+00:00"
+ },
+ "Pongsaklek Wonjongkam": {
+  "slug": "pongsaklek-wonjongkam",
+  "updated": "2026-11-13T08:01:25+00:00",
+  "total": 98,
+  "verified": 0,
+  "record": {
+   "w": 91,
+   "l": 5,
+   "d": 2,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Harry Tañamor": {
+  "tried": "2026-11-13T08:01:08+00:00"
  }
 }
