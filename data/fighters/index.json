@@ -1379,7 +1379,7 @@
  },
  "Sam Hickey": {
   "slug": "sam-hickey",
-  "updated": "2026-11-10T02:01:32+00:00",
+  "updated": "2026-11-13T02:05:46+00:00",
   "total": 7,
   "verified": 0,
   "record": {
@@ -1400,7 +1400,7 @@
  },
  "Benjamin Whittaker": {
   "slug": "benjamin-whittaker",
-  "updated": "2026-11-10T02:01:44+00:00",
+  "updated": "2026-11-13T02:05:40+00:00",
   "total": 14,
   "verified": 0,
   "record": {
@@ -43455,5 +43455,38 @@
   "langs": [
    "en"
   ]
+ },
+ "Lenny Daws": {
+  "slug": "lenny-daws",
+  "updated": "2026-11-13T02:05:51+00:00",
+  "total": 37,
+  "verified": 0,
+  "record": {
+   "w": 30,
+   "l": 5,
+   "d": 2,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Thangthong Kiattaweesuk": {
+  "slug": "thangthong-kiattaweesuk",
+  "updated": "2026-11-13T02:05:54+00:00",
+  "total": 35,
+  "verified": 0,
+  "record": {
+   "w": 18,
+   "l": 17,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Jackson Asiku": {
+  "tried": "2026-11-13T02:05:35+00:00"
  }
 }
