@@ -1,8 +1,34 @@
 {
- "updated": "2026-11-13T16:28:31+00:00",
- "feeds_ok": 49,
- "feeds_failed": 4,
+ "updated": "2026-11-13T16:35:56+00:00",
+ "feeds_ok": 48,
+ "feeds_failed": 5,
  "news": [
+  {
+   "title": "Carlos Adames: “I’ll knock out Gerome Warburton in three rounds”: Riyadh Season Zuffa Boxing 13",
+   "link": "https://www.youtube.com/watch?v=jVnWB_qipvk",
+   "source": "YouTube Zuffa Boxing",
+   "lang": "en",
+   "date": "2026-11-13T16:30:00+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 47,
+   "sources_n": 2,
+   "title_it": "Carlos Adames: \"Metterò al tappeto Gerome Warburton in tre round\": Riyadh Season Zuffa Boxing 13",
+   "title_es": "Carlos Adames: «Voy a noquear a Gerome Warburton en tres asaltos»: Riyadh Season Zuffa Boxing 13"
+  },
+  {
+   "title": "Eddie Hearn believes Terence Crawford will end retirement for one record-breaking fight",
+   "link": "https://boxingnewsonline.net/news/hearn-says-crawford-will-fight-again/",
+   "source": "Boxing News (UK)",
+   "lang": "en",
+   "date": "2026-11-13T16:28:16+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 104,
+   "sources_n": 8,
+   "title_it": "Eddie Hearn ritiene che Terence Crawford interromperà il ritiro per un incontro da record",
+   "title_es": "Eddie Hearn cree que Terence Crawford pondrá fin a su retirada para disputar un combate que batirá récords"
+  },
   {
    "title": "Is this Canelo’s plan to become undisputed again? 👀",
    "link": "https://www.saddoboxing.com/112232-is-this-canelos-plan-to-become-undisputed-again-%f0%9f%91%80.html",
@@ -21,7 +47,7 @@
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVjZzcTVsZXZlSnhORUlOeVpRSkEwWWstY2U2TVpOTU9vdG1tdU1MR0JRcjNCWktfb0VvTkZSQUQ3WktHdkpDNjJQTW1XYmVoQ01LVVBNOXIwblNoYkZYdXhIRk11X2xscU1NcUNlLWZLSzg5bERsWUZwc0FFejNFLU5LenNfaVlPNzJ5NkFXS3BncHhncHFKWEVOYVByLW5yTkxjbkwxSmlGMVNUMEZzdHJ1ME0yMlp5QnRQaUpmN2VMRDViNmp3TFZVcDJQZmpzbWZZ?oc=5",
    "source": "Google News: boxeo",
    "lang": "es",
-   "date": "2026-11-13T16:18:45+00:00",
+   "date": "2026-11-13T16:20:13+00:00",
    "status": "unverified",
    "boxers": [],
    "score": 29,
@@ -92,7 +118,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 120,
-   "sources_n": 8,
+   "sources_n": 9,
    "title_it": "Chris Mannix: \"Eddie Hearn dichiara a @SInow che intraprenderà un'azione legale se la @WBABoxing dovesse revocare la sua decisione di far valere lo status di sfidante ufficiale di Jack Catterall. Se Lopez rinuncia al titolo, Hearn spera di organizzare un incontro tra Catterall e il vincitore di Haney-Paro per l'unificazione di tre titoli la prossima primavera\".",
    "title_es": "Chris Mannix: «Eddie Hearn dice a @SInow que emprenderá acciones legales si la @WBABoxing revoca su decisión de hacer cumplir la condición de aspirante oficial de Jack Catterall. Si López renuncia, Hearn espera organizar un combate entre Catterall y el ganador de Haney-Paro en una unificación de tres cinturones la próxima primavera»."
   },
@@ -158,7 +184,7 @@
    "date": "2026-11-13T14:30:00+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 37,
+   "score": 36,
    "sources_n": 1,
    "title_it": "Chacarra prepara la sua controffensiva per il weekend per impedire a McIlroy di scrivere la storia della Race to Dubai",
    "title_es": "Chacarra planea una remontada de fin de semana para impedir que McIlroy haga historia en la Race to Dubai"
@@ -218,6 +244,19 @@
    "title_es": "Eddie Hearn le hace una propuesta a Shakur Stevenson sobre su futuro en el boxeo"
   },
   {
+   "title": "The HECTIC schedule Pochettino will face ahead of new life at Man Utd!",
+   "link": "https://www.skysports.com/watch/video/13611911/from-usa-to-manchester-utd-mauricio-pochettinos-hectic-schedule-explained",
+   "source": "Sky Sports Boxing",
+   "lang": "en",
+   "date": "2026-11-13T13:48:00+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 28,
+   "sources_n": 1,
+   "title_it": "Il programma INCREDIBILMENTE INTENSO che Pochettino dovrà affrontare prima di iniziare la sua nuova vita al Manchester United!",
+   "title_es": "¡El AGOTADOR calendario al que se enfrentará Pochettino antes de empezar su nueva vida en el Manchester United!"
+  },
+  {
    "title": "Anthony Joshua's destiny against Tyson Fury is in his hands, not Ben Davison's",
    "link": "https://www.boxingscene.com/articles/anthony-joshuas-destiny-against-tyson-fury-is-in-his-hands-not-ben-davisons",
    "source": "Boxing Scene",
@@ -245,19 +284,6 @@
    "sources_n": 1,
    "title_it": "Boxe, Marco Leonardi della Polisportiva Union 81 di Portile ricevuto e premiato in Municipio - ModenaToday",
    "title_es": "Boxeo, Marco Leonardi de la Polisportiva Union 81 de Portile recibido y premiado en el Ayuntamiento - ModenaToday"
-  },
-  {
-   "title": "Every boxing fight we know about in December 2026",
-   "link": "https://britishboxingnews.co.uk/blogs/every-boxing-fight-we-know-about-in-december-2026/",
-   "source": "British Boxing News",
-   "lang": "en",
-   "date": "2026-11-13T13:28:15+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 28,
-   "sources_n": 1,
-   "title_it": "Tutti gli incontri di boxe che sappiamo si terranno a dicembre 2026",
-   "title_es": "Todos los combates de boxeo que conocemos para diciembre de 2026"
   },
   {
    "title": "Eddie Hearn reveals Naoya Inoue demands regarding Bam Rodriguez showdown",
@@ -550,19 +576,6 @@
    "title_es": "Boxeo: Antonio Moffa es campeón de Italia sub-15, triunfo en Foggia para el joven atleta de Mercato San Severino - Salerno In Web"
   },
   {
-   "title": "Unbeaten Brit challenges for vacant IBO world flyweight title in November",
-   "link": "https://britishboxingnews.co.uk/ibo/unbeaten-brit-challenges-ibo-world/",
-   "source": "British Boxing News",
-   "lang": "en",
-   "date": "2026-11-13T10:40:02+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 45,
-   "sources_n": 1,
-   "title_it": "Il pugile britannico imbattuto si contenderà il titolo mondiale IBO dei pesi mosca vacante a novembre",
-   "title_es": "Un británico invicto disputará el título mundial del peso mosca de la IBO, que está vacante, en noviembre"
-  },
-  {
    "title": "The penny's dropped for Willy Hutchinson but Canelo Alvarez is a whole different ball game",
    "link": "https://www.mirror.co.uk/sport/boxing/willy-hutchinson-canelo-alvarez-fight-37873634",
    "source": "Daily Mirror Boxing",
@@ -610,19 +623,6 @@
    "title_es": "Entradas para el combate Tyson Fury vs. Anthony Joshua por 275 £ por persona, con bebidas gratis incluidas en el paquete VIP de la velada de boxeo"
   },
   {
-   "title": "The 10 greatest super middleweights of all time",
-   "link": "https://britishboxingnews.co.uk/blogs/the-10-greatest-super-middleweights-of-all-time/",
-   "source": "British Boxing News",
-   "lang": "en",
-   "date": "2026-11-13T10:18:57+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 26,
-   "sources_n": 1,
-   "title_it": "I 10 più grandi supermedi di tutti i tempi",
-   "title_es": "Los 10 mejores pesos supermedios de todos los tiempos"
-  },
-  {
    "title": "Jake Paul agrees to winner-takes-all bet with kickboxing legend Cedric Doumbe ahead of Christmas Eve fight",
    "link": "https://www.thesun.co.uk/sport/41003691/jake-paul-agrees-winner-takes-all-bet-cedric-doumbe/",
    "source": "The Sun Boxing",
@@ -634,19 +634,6 @@
    "sources_n": 5,
    "title_it": "Jake Paul accetta una scommessa \"il vincitore prende tutto\" con la leggenda del kickboxing Cedric Doumbe prima dell'incontro della vigilia di Natale",
    "title_es": "Jake Paul acepta una apuesta de «el ganador se lo lleva todo» con la leyenda del kickboxing Cédric Doumbé antes del combate de Nochebuena"
-  },
-  {
-   "title": "British knockout artist added to Jake Paul-Cédric Doumbé card",
-   "link": "https://britishboxingnews.co.uk/news/british-ko-artist-paul-doumbe-card/",
-   "source": "British Boxing News",
-   "lang": "en",
-   "date": "2026-11-13T09:49:36+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 61,
-   "sources_n": 2,
-   "title_it": "L'artista dei knockout britannico aggiunto alla card di Jake Paul-Cédric Doumbé",
-   "title_es": "Un noqueador británico se suma a la velada de Jake Paul-Cédric Doumbé"
   },
   {
    "title": "Former heavyweight champion Riddick Bowe sums up Anthony Joshua’s chances of beating Tyson Fury",
@@ -852,7 +839,7 @@
    "date": "2026-11-13T04:31:11+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 24,
+   "score": 23,
    "sources_n": 1,
    "title_it": "Io sono Rocky e la boxe messicana: campioni, eredità e cultura - CineMedios",
    "title_es": "Yo soy Rocky y el boxeo mexicano: campeones, legado y cultura - CineMedios"
@@ -1025,7 +1012,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 77,
-   "sources_n": 9,
+   "sources_n": 8,
    "title_it": "Pensateci: Floyd Mayweather che torna a combattere contro Ryan Garcia all'età di 50 anni nel 2027 è come Joe Frazier a 50 anni che combatte contro Evander Holyfield nel 1994, o come Sugar Ray Leonard che torna a 50 anni per combattere Joe Calzaghe nel 2006.",
    "title_es": "Piénselo: Floyd Mayweather regresa para pelear contra Ryan García a la edad de 50 años en 2027 es como Joe Frazier a los 50 años peleando contra Evander Holyfield en 1994, o como Sugar Ray Leonard regresando a los 50 años para pelear contra Joe Calzaghe en 2006."
   },
@@ -1300,7 +1287,7 @@
    "date": "2026-11-12T20:32:36+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 20,
+   "score": 19,
    "sources_n": 1,
    "title_it": "Román \"Chocolatito\" González conferma il suo ritorno sul ring nel 2027: \"Abbiamo la voglia e il desiderio\" - Izquierdazo",
    "title_es": "Román \"Chocolatito\" González confirma su regreso al boxeo en 2027: \"Tenemos las ganas y el deseo\" - Izquierdazo"
@@ -1313,7 +1300,7 @@
    "date": "2026-11-12T20:30:30+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 95,
+   "score": 94,
    "sources_n": 6,
    "title_it": "\"EDDIE HEARN HA A CUORE I TUOI INTERESSI?\" Devin Haney FA UNA DOMANDA IMBARAZZANTE a Josh Kelly sull'incontro con Boots",
    "title_es": "«¿TIENE EDDIE HEARN TUS MEJORES INTERESES EN MENTE?» PREGUNTA INCÓMODA de Devin Haney a Josh Kelly sobre el combate con Boots"
@@ -1366,7 +1353,7 @@
    "status": "rumor",
    "boxers": [],
    "score": 94,
-   "sources_n": 11,
+   "sources_n": 12,
    "title_it": "\"SHAKUR È TUTTO RADIO!\" Devin Haney e Eddie Hearn DIBATTITO, Talk Shakur Stevenson Collapse | ITR",
    "title_es": "\"¡SHAKUR SE QUEDÓ EN SILENCIO DE RADIO!\" Devin Haney y Eddie Hearn DEBATE, Charla Shakur Stevenson Colapso | RTI"
   },
@@ -1431,7 +1418,7 @@
    "status": "confirmed",
    "boxers": [],
    "score": 57,
-   "sources_n": 6,
+   "sources_n": 5,
    "title_it": "Se Floyd batte Ryan",
    "title_es": "Si Floyd vence a Ryan"
   },
@@ -1483,7 +1470,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 74,
-   "sources_n": 9,
+   "sources_n": 8,
    "title_it": "James Toney pronuncia il verdetto \"buonanotte\" sull'incontro tra Ryan Garcia e Floyd Mayweather",
    "title_es": "James Toney pronostica un «buenas noches» para el combate entre Ryan García y Floyd Mayweather"
   },
@@ -1537,7 +1524,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 73,
-   "sources_n": 6,
+   "sources_n": 5,
    "title_it": "Programma dell'incontro Jake Paul vs. Cédric Doumbé: Alistair Overeem farà il suo debutto nel pugilato contro Jimi Manuwa",
    "title_es": "Cartelera de la pelea Jake Paul vs. Cédric Doumbé: Alistair Overeem debutará en el boxeo contra Jimi Manuwa"
   },
@@ -1550,7 +1537,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 83,
-   "sources_n": 8,
+   "sources_n": 7,
    "title_it": "Il sogno del titolo mondiale di Floyd Mayweather rinasce dopo l'inaspettato annuncio di Ryan Garcia per il 2027 - RingSide24",
    "title_es": "El sueño de Floyd Mayweather por el título mundial revivió después del inesperado anuncio de Ryan García para 2027 - RingSide24"
   },
@@ -1673,7 +1660,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 82,
-   "sources_n": 9,
+   "sources_n": 8,
    "title_it": "Floyd Mayweather ottiene il via libera per la lotta per il titolo mondiale dopo che Ryan Garcia ha lanciato la notizia bomba del 2027 - MARCA",
    "title_es": "Floyd Mayweather recibe luz verde para pelea por el título mundial después de que Ryan García soltara bomba en 2027 - MARCA"
   },
@@ -1766,7 +1753,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 57,
+   "score": 56,
    "sources_n": 15,
    "title_it": "Dana White prende Fury contro Joshua Undercard, Eddie Hearn Out",
    "title_es": "Dana White se lleva la cartelera de Fury vs Joshua, Eddie Hearn sale"
@@ -1779,7 +1766,7 @@
    "date": "2026-11-12T14:30:28+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 110,
+   "score": 109,
    "sources_n": 6,
    "title_it": "David Benavidez dovrà affrontare un uomo se batte Michal Cieslak o rischierà di perdere il titolo WBC",
    "title_es": "David Benavidez tendrá que enfrentarse a un hombre si vence a Michal Cieslak o correrá el riesgo de perder el título del CMB"
@@ -1822,32 +1809,6 @@
    "sources_n": 5,
    "title_it": "Isaac \"Pitbull\" Cruz ritiene che la rivincita tra Canelo e Terence Crawford avverrà presto e si concluderà in modo diverso",
    "title_es": "Isaac «Pitbull» Cruz cree que la revancha entre Canelo y Terence Crawford será la próxima y terminará de forma diferente"
-  },
-  {
-   "title": "KO, TKO, RTD, and technical decisions explained",
-   "link": "https://britishboxingnews.co.uk/blogs/ko-tko-rtd-and-technical-decisions-explained/",
-   "source": "British Boxing News",
-   "lang": "en",
-   "date": "2026-11-12T13:47:56+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 24,
-   "sources_n": 1,
-   "title_it": "Spiegazione di KO, TKO, RTD e decisioni tecniche",
-   "title_es": "Explicación de los KO, los TKO, los RTD y las decisiones técnicas"
-  },
-  {
-   "title": "Devin Haney reacts after Ryan Garcia announces fight against Floyd Mayweather",
-   "link": "https://boxingnewsonline.net/news/devin-haney-on-garcia-vs-mayweather/",
-   "source": "Boxing News (UK)",
-   "lang": "en",
-   "date": "2026-11-12T13:12:16+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 91,
-   "sources_n": 10,
-   "title_it": "La reazione di Devin Haney dopo l'annuncio di Ryan Garcia dell'incontro con Floyd Mayweather",
-   "title_es": "Devin Haney reacciona tras el anuncio de Ryan García de que va a pelear contra Floyd Mayweather"
   },
   {
    "title": "Jaron ‘Boots’ Ennis and British star Josh Kelly set for mouthwatering title fight",
@@ -2030,19 +1991,6 @@
    "title_es": "Martin Bakole regresa en la cartelera de Fury-Joshua junto al emergente Da'Mazion Vanhouter"
   },
   {
-   "title": "How much do women boxers earn? Price, Baumgardner, and the pay gap",
-   "link": "https://britishboxingnews.co.uk/blogs/how-much-do-women-boxers-earn-price-baumgardner-and-the-pay-gap/",
-   "source": "British Boxing News",
-   "lang": "en",
-   "date": "2026-11-12T11:23:11+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 15,
-   "sources_n": 1,
-   "title_it": "Quanto guadagnano le pugili donne? Price, Baumgardner e il divario retributivo",
-   "title_es": "¿Cuánto ganan las boxeadoras? Price, Baumgardner y la brecha salarial"
-  },
-  {
    "title": "Eddie Hearn slams Tyson Fury vs Anthony Joshua fight card",
    "link": "https://www.mirror.co.uk/sport/boxing/eddie-hearn-fury-joshua-fight-37869324",
    "source": "Daily Mirror Boxing",
@@ -2093,7 +2041,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 79,
-   "sources_n": 11,
+   "sources_n": 10,
    "title_it": "Floyd Mayweather, 49 anni, ottiene l'autorizzazione per la lotta per il titolo mondiale nonostante il ritiro mentre Ryan Garcia rivela la data dell'incontro del 2027 – Notizie H24",
    "title_es": "Floyd Mayweather, de 49 años, obtiene autorización para la pelea por el título mundial a pesar de su retiro mientras Ryan García revela la fecha de la pelea en 2027 Loving Valencia"
   },
@@ -2160,7 +2108,7 @@
    "date": "2026-11-12T08:35:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 24,
+   "score": 23,
    "sources_n": 1,
    "title_it": "Un ex-sfidante al titolo mondiale giapponese onorerà l'evento pugilistico di Fuente Osmeña - Cebu Daily News",
    "title_es": "Un exaspirante al título mundial japonés participará en el evento de boxeo de Fuente Osmeña - Cebu Daily News"
@@ -2243,7 +2191,7 @@
    "date": "2026-11-12T04:30:29+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 47,
+   "score": 46,
    "sources_n": 1,
    "title_it": "\"Sta per accadere\": si dice che Zerafa AFFRONTERÀ un Tszyu... e per il titolo mondiale - Fox Sports",
    "title_es": "«Está sucediendo»: Se afirma que Zerafa SE ENFRENTARÁ a un Tszyu... y por el título mundial - Fox Sports"
@@ -2363,7 +2311,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 30,
+   "score": 29,
    "sources_n": 2,
    "title_it": "Manny Pacquiao decisamente fuori dalla card Netflix di Joshua-Fury",
    "title_es": "Manny Pacquiao definitivamente fuera de la velada Joshua-Fury de Netflix"
@@ -2431,7 +2379,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 92,
-   "sources_n": 5,
+   "sources_n": 6,
    "title_it": "Teofimo Lopez perde l'appello WBA, ordinato di difendere il titolo contro Jack Catterall",
    "title_es": "Teófimo López pierde apelación de la AMB y se le ordena defender el título contra Jack Catterall"
   },
@@ -2504,7 +2452,7 @@
    "date": "2026-11-11T22:31:25+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 19,
+   "score": 18,
    "sources_n": 2,
    "title_it": "Boxe, Michela Guglielmon sul podio alle Olimpiadi Giovanili",
    "title_es": "Boxeo: Michela Guglielmo sube al podio en los Juegos Olímpicos de la Juventud"
@@ -2565,7 +2513,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 93,
+   "score": 92,
    "sources_n": 15,
    "title_it": "Sottocarta di Tyson Fury contro Anthony Joshua: chi altro c'è nella scaletta stellare di Cardiff?",
    "title_es": "Combates previos de Tyson Fury vs. Anthony Joshua: ¿Quién más forma parte del cartel repleto de estrellas de Cardiff?"
@@ -2580,10 +2528,23 @@
    "boxers": [
     "Tyson Fury"
    ],
-   "score": 28,
+   "score": 27,
    "sources_n": 2,
    "title_it": "BAKOLE È TORNATO 🇨🇩 Martin Bakole tornerà contro Solomon Adebayo nella undercard Fury vs AJ 🍿",
    "title_es": "BAKOLE ESTÁ DE VUELTA 🇨🇩 Martin Bakole regresará contra Solomon Adebayo en la cartelera de Fury vs AJ 🍿"
+  },
+  {
+   "title": "WBA orders Teofimo Lopez to face Jack Catterall",
+   "link": "https://www.badlefthook.com/boxing-news/120299/wba-orders-teofimo-lopez-to-face-jack-catterall",
+   "source": "Bad Left Hook",
+   "lang": "en",
+   "date": "2026-11-11T20:25:49-05:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 75,
+   "sources_n": 6,
+   "title_it": "La WBA ordina a Teofimo Lopez di affrontare Jack Catterall",
+   "title_es": "La WBA ordena a Teófimo López enfrentarse a Jack Catterall"
   },
   {
    "title": "‘Diabolical’ fume fans as full undercard for Tyson Fury v Anthony Joshua revealed for Netflix’s ‘Boxing’s Biggest Night’",
@@ -2623,7 +2584,7 @@
    "status": "rumor",
    "boxers": [],
    "score": 37,
-   "sources_n": 8,
+   "sources_n": 7,
    "title_it": "Ryan García annuncia un incontro contro Mayweather... e potrebbe cadere il record del campione più longevo",
    "title_es": "Ryan García anuncia un combate contra Mayweather... y podría caer el récord de campeón más longevo"
   },
@@ -2752,7 +2713,7 @@
    "date": "2026-11-11T16:28:33+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 54,
+   "score": 53,
    "sources_n": 8,
    "title_it": "Eddie Hearn anticipa l'annuncio di un importante incontro per l'unificazione dei titoli, che vedrà protagonisti una stella americana e un campione del mondo britannico",
    "title_es": "Eddie Hearn da pistas sobre el anuncio de una gran unificación de títulos en la que participarán una estrella estadounidense y un campeón mundial británico"
@@ -2779,7 +2740,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 60,
-   "sources_n": 9,
+   "sources_n": 8,
    "title_it": "Floyd Mayweather ottiene il via libera per tornare sul ring a 49 anni e fare la storia contro Ryan Garcia",
    "title_es": "Floyd Mayweather recibe luz verde para volver al boxeo a los 49 años y hacer historia contra Ryan García"
   },
@@ -2821,6 +2782,19 @@
    "sources_n": 1,
    "title_it": "Cisterna, il pugile Mirko Marchetti ricevuto in Comune dal sindaco Mantini - Luna Notizie",
    "title_es": "Cisterna: el boxeador Mirko Marchetti recibido en el Ayuntamiento por el alcalde Mantini - Luna Notizie"
+  },
+  {
+   "title": "The good, the bad, and the stupid from the WBC convention",
+   "link": "https://www.badlefthook.com/boxing-news/120291/the-good-the-bad-and-the-stupid-from-the-wbc-convention",
+   "source": "Bad Left Hook",
+   "lang": "en",
+   "date": "2026-11-11T15:24:30-05:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 17,
+   "sources_n": 1,
+   "title_it": "Il buono, il cattivo e lo stupido della convention WBC",
+   "title_es": "Lo bueno, lo malo y lo estúpido de la convención del WBC"
   },
   {
    "title": "Jake Paul doubles down on retirement if he loses comeback fight to Cedric Doumbe… as it will end his world title hopes",
@@ -2952,7 +2926,7 @@
    "date": "2026-11-11T14:31:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 15,
+   "score": 14,
    "sources_n": 2,
    "title_it": "Pugilato, Antonio Moffa si laurea campione italiano Under 15 - Ottopagine",
    "title_es": "Pugilato, Antonio Moffa si laurea campione italiano Menor de 15 años - Ottopagina"
@@ -2997,7 +2971,7 @@
    "date": "2026-11-11T12:31:42+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 59,
+   "score": 58,
    "sources_n": 2,
    "title_it": "Filip Hrgovic racconta le conseguenze dell'incontro brutale con Moses Itauma: \"Mal di testa per giorni\"",
    "title_es": "Filip Hrgović habla sobre las secuelas del brutal combate contra Moses Itauma: «Llevo días con dolor de cabeza»"
@@ -3127,8 +3101,8 @@
    "date": "2026-11-11T10:34:28+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 58,
-   "sources_n": 9,
+   "score": 57,
+   "sources_n": 8,
    "title_it": "Ryan Garcia afferma che il suo prossimo incontro sarà contro Floyd Mayweather e indica data e luogo",
    "title_es": "Ryan García afirma que su próximo combate será contra Floyd Mayweather y da la fecha y el lugar"
   },
@@ -3347,6 +3321,19 @@
    "sources_n": 1,
    "title_it": "Serata speciale alla 64a Convention annuale WBC ad Acapulco con cerimonia di premiazione - BoxeoMundial",
    "title_es": "Noche especial en 64 Convención Anual del WBC en Acapulco con entrega de premios - BoxeoMundial"
+  },
+  {
+   "title": "‘I love fighting southpaws’: Devin Haney looks forward to Liam Paro unification",
+   "link": "https://www.badlefthook.com/boxing-news/120280/devin-haney-looks-forward-to-liam-paro-unification-boxing-news-2026",
+   "source": "Bad Left Hook",
+   "lang": "en",
+   "date": "2026-11-10T22:41:11-05:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 93,
+   "sources_n": 4,
+   "title_it": "\"Adoro combattere contro i mancini\": Devin Haney attende con impazienza l'unificazione con Liam Paro",
+   "title_es": "«Me encanta pelear contra zurdos»: Devin Haney espera con ganas la unificación con Liam Paro"
   },
   {
    "title": "Pitbull Cruz olvida a Ryan García: va por campeonato absoluto del CMB ante Dalton Smith - Infobae",
@@ -4047,19 +4034,6 @@
    "title_es": "Espectáculo en Lizzanello: domingo de grandes victorias para Santoro y Quero-Chiloiro. - 2out.it - Seconds Out Sport Magazine"
   },
   {
-   "title": "‘The rules allow him to fight for the title’: Mauricio Sulaiman talks potential for Ryan Garcia vs Floyd Mayweather and more",
-   "link": "https://www.badlefthook.com/boxing-news/120260/mauricio-sulaiman-talks-potential-for-ryan-garcia-vs-floyd-mayweather-and-more-boxing-news-2026",
-   "source": "Bad Left Hook",
-   "lang": "en",
-   "date": "2026-11-10T07:59:31-05:00",
-   "status": "rumor",
-   "boxers": [],
-   "score": 55,
-   "sources_n": 9,
-   "title_it": "\"Le regole gli permettono di lottare per il titolo\": Mauricio Sulaiman parla del potenziale di Ryan Garcia contro Floyd Mayweather e altro ancora",
-   "title_es": "«Las reglas le permiten luchar por el título»: Mauricio Sulaimán habla sobre la posibilidad de un combate entre Ryan García y Floyd Mayweather, y más"
-  },
-  {
    "title": "What REALLY triggered HSTikkyTokky's boxing night riot between Tommy Robinson and Mo Deen, as Muslim influencer breaks cover to claim 'set up'",
    "link": "https://www.dailymail.com/sport/boxing/article-16277957/hstikkytokky-boxing-riot-tommy-robinson-kilkenny.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
    "source": "Daily Mail Boxing",
@@ -4100,6 +4074,35 @@
    "sources_n": 14,
    "title_it": "Ascolta: Fury contro Joshua: 2. Una trilogia scomoda",
    "title_es": "Escucha: Fury vs. Joshua: 2. Una trilogía incómoda"
+  },
+  {
+   "title": "Pugilato Under 15, bronzo italiano per la Gordini Boxe Ravenna - Ravenna Web Tv",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcUVQQW9XcEdia05tVEE1bGJiWXZPMDI0T2VaVENNZEtEUUFFRDl2RXZFV3dIbjg2eFZmR2RFYi1hZkJ2QzBueVoxS2ZkckJJT3ltd1ZEekVVeFhweFl3X0g5YTY0WnlvTFFHcUc3em5JSEhXOWJEMU9BSjBrZXdYZi16S3pHT3VreDZndTg1RDA0bVEw?oc=5",
+   "source": "Google News: pugilato",
+   "lang": "it",
+   "date": "2026-11-10T06:00:36+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 10,
+   "sources_n": 2,
+   "title_it": "Pugilato Under 15, bronzo italiano per la Gordini Boxe Ravenna - Ravenna Web Tv",
+   "title_es": "Boxeo sub-15, bronce italiano para el Gordini Boxe Ravenna - Ravenna Web Tv"
+  },
+  {
+   "title": "Watch: Rivals - Fury v Joshua on BBC iPlayer",
+   "link": "https://www.bbc.co.uk/iplayer/episode/m0034cyd?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport Boxing",
+   "lang": "en",
+   "date": "2026-11-10T06:00:00+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Tyson Fury",
+    "Anthony Joshua"
+   ],
+   "score": 30,
+   "sources_n": 14,
+   "title_it": "Guarda: Rivals - Fury contro Joshua su BBC iPlayer",
+   "title_es": "Mira: «Rivals - Fury v Joshua» en BBC iPlayer"
   }
  ]
 }
