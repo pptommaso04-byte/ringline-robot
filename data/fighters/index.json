@@ -9265,7 +9265,7 @@
  },
  "Mikito Nakano": {
   "slug": "mikito-nakano",
-  "updated": "2026-11-10T16:11:10+00:00",
+  "updated": "2026-11-13T16:15:51+00:00",
   "total": 16,
   "verified": 0,
   "record": {
@@ -9280,7 +9280,7 @@
  },
  "Hadi Srour": {
   "slug": "hadi-srour",
-  "updated": "2026-11-10T16:11:12+00:00",
+  "updated": "2026-11-13T16:15:55+00:00",
   "total": 4,
   "verified": 0,
   "record": {
@@ -9298,7 +9298,7 @@
  },
  "Kosei Tanaka": {
   "slug": "kosei-tanaka",
-  "updated": "2026-11-10T16:15:47+00:00",
+  "updated": "2026-11-13T16:15:58+00:00",
   "total": 22,
   "verified": 0,
   "record": {
@@ -46428,5 +46428,35 @@
  },
  "Hassan Oucheikh": {
   "tried": "2026-11-13T16:10:50+00:00"
+ },
+ "Nathan Perrott": {
+  "slug": "nathan-perrott",
+  "updated": "2026-11-13T16:16:01+00:00",
+  "total": 4,
+  "verified": 0,
+  "record": {
+   "w": 1,
+   "l": 3,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Joey Gilbert": {
+  "slug": "joey-gilbert",
+  "updated": "2026-11-13T16:16:05+00:00",
+  "total": 23,
+  "verified": 0,
+  "record": {
+   "w": 20,
+   "l": 3,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
