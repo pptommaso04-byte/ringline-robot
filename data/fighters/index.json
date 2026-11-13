@@ -11461,7 +11461,7 @@
  },
  "Eimantas Stanionis": {
   "slug": "eimantas-stanionis",
-  "updated": "2026-11-10T20:45:52+00:00",
+  "updated": "2026-11-13T20:50:50+00:00",
   "total": 19,
   "verified": 0,
   "record": {
@@ -11476,7 +11476,7 @@
  },
  "Lü Bin (boxer)": {
   "slug": "lu-bin-boxer",
-  "updated": "2026-11-10T20:45:57+00:00",
+  "updated": "2026-11-13T20:50:53+00:00",
   "total": 6,
   "verified": 0,
   "record": {
@@ -47983,5 +47983,39 @@
   "langs": [
    "en"
   ]
+ },
+ "Shane Sutcliffe": {
+  "slug": "shane-sutcliffe",
+  "updated": "2026-11-13T20:50:55+00:00",
+  "total": 40,
+  "verified": 0,
+  "record": {
+   "w": 25,
+   "l": 14,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "es"
+  ]
+ },
+ "Takanori Hatakeyama": {
+  "slug": "takanori-hatakeyama",
+  "updated": "2026-11-13T20:50:58+00:00",
+  "total": 29,
+  "verified": 0,
+  "record": {
+   "w": 24,
+   "l": 2,
+   "d": 3,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Moez Zemzemi": {
+  "tried": "2026-11-13T20:50:46+00:00"
  }
 }
