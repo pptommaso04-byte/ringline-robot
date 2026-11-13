@@ -6650,7 +6650,7 @@
  },
  "Charles Conwell": {
   "slug": "charles-conwell",
-  "updated": "2026-11-10T11:45:49+00:00",
+  "updated": "2026-11-13T11:50:56+00:00",
   "total": 23,
   "verified": 0,
   "record": {
@@ -45219,5 +45219,42 @@
  },
  "Kid Diamond": {
   "tried": "2026-11-13T11:45:48+00:00"
+ },
+ "Francisco Palacios (boxer)": {
+  "slug": "francisco-palacios-boxer",
+  "updated": "2026-11-13T11:51:01+00:00",
+  "total": 6,
+  "verified": 0,
+  "record": {
+   "w": 3,
+   "l": 3,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Wayne Johnsen": {
+  "tried": "2026-11-13T11:50:49+00:00"
+ },
+ "Peter Kariuki Ngumi": {
+  "tried": "2026-11-13T11:50:49+00:00"
+ },
+ "Nedal Hussein": {
+  "slug": "nedal-hussein",
+  "updated": "2026-11-13T11:51:10+00:00",
+  "total": 48,
+  "verified": 0,
+  "record": {
+   "w": 43,
+   "l": 5,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "it"
+  ]
  }
 }
