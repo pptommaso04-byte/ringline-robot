@@ -1625,7 +1625,7 @@
  },
  "Zach Parker": {
   "slug": "zach-parker",
-  "updated": "2026-11-10T02:20:56+00:00",
+  "updated": "2026-11-13T02:25:15+00:00",
   "total": 29,
   "verified": 0,
   "record": {
@@ -1640,7 +1640,7 @@
  },
  "Brian Mendoza": {
   "slug": "brian-mendoza",
-  "updated": "2026-11-10T02:21:02+00:00",
+  "updated": "2026-11-13T02:25:20+00:00",
   "total": 28,
   "verified": 0,
   "record": {
@@ -1656,7 +1656,7 @@
  },
  "Nataly Delgado": {
   "slug": "nataly-delgado",
-  "updated": "2026-11-10T02:21:10+00:00",
+  "updated": "2026-11-13T02:25:25+00:00",
   "total": 31,
   "verified": 0,
   "record": {
@@ -1671,7 +1671,7 @@
  },
  "Marlo Delgado": {
   "slug": "marlo-delgado",
-  "updated": "2026-11-10T02:21:13+00:00",
+  "updated": "2026-11-13T02:25:29+00:00",
   "total": 3,
   "verified": 0,
   "record": {
@@ -43495,5 +43495,21 @@
  },
  "Ian Napa": {
   "tried": "2026-11-13T02:15:43+00:00"
+ },
+ "Jamie Moore (boxer)": {
+  "slug": "jamie-moore-boxer",
+  "updated": "2026-11-13T02:25:37+00:00",
+  "total": 37,
+  "verified": 0,
+  "record": {
+   "w": 32,
+   "l": 5,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "es"
+  ]
  }
 }
