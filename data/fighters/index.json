@@ -10933,7 +10933,7 @@
  },
  "Diego de la Hoya": {
   "slug": "diego-de-la-hoya",
-  "updated": "2026-11-10T19:55:44+00:00",
+  "updated": "2026-11-13T20:01:18+00:00",
   "total": 27,
   "verified": 0,
   "record": {
@@ -10950,7 +10950,7 @@
  },
  "Hughie Fury": {
   "slug": "hughie-fury",
-  "updated": "2026-11-10T19:55:50+00:00",
+  "updated": "2026-11-13T20:01:22+00:00",
   "total": 34,
   "verified": 0,
   "record": {
@@ -10965,7 +10965,7 @@
  },
  "Mako Yamada": {
   "slug": "mako-yamada",
-  "updated": "2026-11-10T19:55:54+00:00",
+  "updated": "2026-11-13T20:01:26+00:00",
   "total": 21,
   "verified": 0,
   "record": {
@@ -47773,6 +47773,24 @@
    "w": 25,
    "l": 10,
    "d": 3,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Laudelino Barros": {
+  "tried": "2026-11-13T20:01:13+00:00"
+ },
+ "Sontaya Wongprates": {
+  "slug": "sontaya-wongprates",
+  "updated": "2026-11-13T20:01:30+00:00",
+  "total": 11,
+  "verified": 0,
+  "record": {
+   "w": 8,
+   "l": 3,
+   "d": 0,
    "nc": 0
   },
   "langs": [
