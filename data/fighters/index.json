@@ -3368,7 +3368,7 @@
  },
  "Elijah Garcia (boxer)": {
   "slug": "elijah-garcia-boxer",
-  "updated": "2026-11-10T05:05:41+00:00",
+  "updated": "2026-11-13T05:11:03+00:00",
   "total": 19,
   "verified": 0,
   "record": {
@@ -44105,5 +44105,30 @@
  },
  "Silviu Olteanu": {
   "tried": "2026-11-13T05:01:16+00:00"
+ },
+ "Aram Ramazyan": {
+  "tried": "2026-11-13T05:10:56+00:00"
+ },
+ "Vivian Harris": {
+  "slug": "vivian-harris",
+  "updated": "2026-11-13T05:11:10+00:00",
+  "total": 48,
+  "verified": 0,
+  "record": {
+   "w": 33,
+   "l": 12,
+   "d": 2,
+   "nc": 1
+  },
+  "langs": [
+   "en",
+   "es"
+  ]
+ },
+ "Suban Pannon": {
+  "tried": "2026-11-13T05:10:56+00:00"
+ },
+ "Emmanuel Izonritei": {
+  "tried": "2026-11-13T05:10:56+00:00"
  }
 }
