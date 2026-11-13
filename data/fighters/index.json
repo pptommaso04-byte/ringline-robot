@@ -10002,7 +10002,7 @@
  },
  "Christian M'billi": {
   "slug": "christian-m-billi",
-  "updated": "2026-11-10T18:35:51+00:00",
+  "updated": "2026-11-13T18:40:48+00:00",
   "total": 31,
   "verified": 0,
   "record": {
@@ -47492,5 +47492,42 @@
   "langs": [
    "en"
   ]
+ },
+ "Pedro Alcázar": {
+  "slug": "pedro-alcazar",
+  "updated": "2026-11-13T18:40:52+00:00",
+  "total": 28,
+  "verified": 0,
+  "record": {
+   "w": 25,
+   "l": 1,
+   "d": 1,
+   "nc": 1
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Wayne Braithwaite": {
+  "slug": "wayne-braithwaite",
+  "updated": "2026-11-13T18:40:56+00:00",
+  "total": 30,
+  "verified": 0,
+  "record": {
+   "w": 24,
+   "l": 6,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "es"
+  ]
+ },
+ "Lanardo Tyner": {
+  "tried": "2026-11-13T18:40:44+00:00"
+ },
+ "Vilmos Balog": {
+  "tried": "2026-11-13T18:40:44+00:00"
  }
 }
