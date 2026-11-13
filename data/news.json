@@ -1,8 +1,24 @@
 {
- "updated": "2026-11-13T11:25:43+00:00",
- "feeds_ok": 49,
- "feeds_failed": 4,
+ "updated": "2026-11-13T11:31:17+00:00",
+ "feeds_ok": 48,
+ "feeds_failed": 5,
  "news": [
+  {
+   "title": "Tyson Fury vs Anthony Joshua date and start time plus confirmed venue for December showdown",
+   "link": "https://talksport.com/boxing/4522107/tyson-fury-vs-anthony-joshua-fight-date-venue-confirmed/",
+   "source": "Talksport Boxing",
+   "lang": "en",
+   "date": "2026-11-13T11:29:03+00:00",
+   "status": "confirmed",
+   "boxers": [
+    "Tyson Fury",
+    "Anthony Joshua"
+   ],
+   "score": 124,
+   "sources_n": 15,
+   "title_it": "Tyson Fury contro Anthony Joshua: data, ora di inizio e luogo confermato per l'incontro di dicembre",
+   "title_es": "Fecha y hora de inicio del combate Tyson Fury vs. Anthony Joshua, además del lugar confirmado para el enfrentamiento de diciembre"
+  },
   {
    "title": "Tim Tszyu’s preparations have begun ahead of his WBA middleweight title challenge 👀🇦🇺",
    "link": "https://www.youtube.com/watch?v=IZpys_7t6YA",
@@ -280,7 +296,7 @@
    "date": "2026-11-13T07:31:02+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 38,
+   "score": 37,
    "sources_n": 2,
    "title_it": "Come Riley è passato dall'essere l'allenatore di KSI al sognare il titolo mondiale",
    "title_es": "Cómo Riley pasó de ser el entrenador de KSI a soñar con un título mundial"
@@ -293,7 +309,7 @@
    "date": "2026-11-13T07:30:58+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 38,
+   "score": 37,
    "sources_n": 2,
    "title_it": "Come Riley è passato dall'essere l'allenatore di KSI al sognare il titolo mondiale - BBC",
    "title_es": "Cómo Riley pasó de ser entrenador de KSI a soñar con el título mundial - BBC"
@@ -479,7 +495,7 @@
    "date": "2026-11-13T03:29:25+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 109,
+   "score": 108,
    "sources_n": 4,
    "title_it": "Anteprima di Diego Pacheco contro Darius Fulghum: il supermedio imbattuto affronta una dura prova",
    "title_es": "Avance de Diego Pacheco vs. Darius Fulghum: El invicto del peso supermedio se enfrenta a una dura prueba"
@@ -612,7 +628,7 @@
    "date": "2026-11-13T01:30:14+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 45,
+   "score": 44,
    "sources_n": 3,
    "title_it": "Alistair Overeem affronta Jimi Manuwa nella undercard Paul vs Doumbe",
    "title_es": "Alistair Overeem se enfrenta a Jimi Manuwa en la cartelera de Paul vs Doumbe"
@@ -690,7 +706,7 @@
    "date": "2026-11-12T23:30:27+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 99,
+   "score": 98,
    "sources_n": 4,
    "title_it": "Tim Bradley indica il pugile che Canelo dovrebbe affrontare come prossimo avversario per riaccendere la rivalità con Crawford",
    "title_es": "Tim Bradley nombra al púgil al que Canelo debería enfrentarse a continuación para reavivar la rivalidad con Crawford"
@@ -862,7 +878,7 @@
    "date": "2026-11-12T21:26:46+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 53,
+   "score": 52,
    "sources_n": 7,
    "title_it": "Eddie Hearn interviene su Mike Coppinger",
    "title_es": "Eddie Hearn ataca a Mike Coppinger"
@@ -1677,7 +1693,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 38,
+   "score": 37,
    "sources_n": 2,
    "title_it": "Martin Bakole ritorna nella undercard Fury-Joshua insieme al nascente Da'Mazion Vanhouter",
    "title_es": "Martin Bakole regresa en la cartelera de Fury-Joshua junto al emergente Da'Mazion Vanhouter"
@@ -1771,7 +1787,7 @@
    "date": "2026-11-12T09:29:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 82,
+   "score": 81,
    "sources_n": 11,
    "title_it": "Floyd Mayweather, 49 anni, ottiene l'autorizzazione per la lotta per il titolo mondiale nonostante il ritiro mentre Ryan Garcia rivela la data dell'incontro del 2027 – Notizie H24",
    "title_es": "Floyd Mayweather, de 49 años, obtiene autorización para la pelea por el título mundial a pesar de su retiro mientras Ryan García revela la fecha de la pelea en 2027 Loving Valencia"
@@ -1804,19 +1820,6 @@
    "sources_n": 15,
    "title_it": "Altri combattimenti dei pesi massimi aggiunti alla undercard Tyson Fury vs Anthony Joshua",
    "title_es": "Se agregaron más peleas de peso pesado a la cartelera de Tyson Fury vs Anthony Joshua"
-  },
-  {
-   "title": "Zero scuse, dodici anni di sport e impegno sociale sul territorio - Lecce Tomorrow",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU21HR3ZBdm5EekV0MHZtUGJOZXNLUjNIa0xENkRkZVdwNnVsUnJJSU1tT0VIVlFnbnJPbXpuM3JvSkhZWXJlejIzbjB0c0hfb0V4WWNwdGFWZlJTWlRYd3lzOGxtb2JNcW5nczlrS092QldyM05XSFJhdjJTZktDRUd5a18xMGJTa2lxb1I0WEFsOENBUDlJY2I4aG52QXA0cjVHYmlfcXY?oc=5",
-   "source": "Google News: pugilato",
-   "lang": "it",
-   "date": "2026-11-12T09:09:00+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 16,
-   "sources_n": 1,
-   "title_it": "Zero scuse, dodici anni di sport e impegno sociale sul territorio - Lecce Tomorrow",
-   "title_es": "Cero excusas, doce años de deporte y compromiso social en el territorio - Lecce Tomorrow"
   },
   {
    "title": "Ferramosca sfida Sapone per il titolo italiano: Prato sogna con il suo “Bulldozer” - Notizie di Prato",
@@ -1902,6 +1905,19 @@
    "title_es": "Se añaden dos combates a la velada preliminar de Fury vs. Joshua"
   },
   {
+   "title": "Pugilato: Luis Vela è campione Wbc International - La voce del Trentino",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb3FWVzBta0lWY0NCbC1PR3ZhQ29KNEp0cTh5Q3JxdXFiOFlhaVFUMnJYMG5ROGFmUXRDNEF1QXZjMVh4bE5YQUxyWEpQQk8tNGRybFNBWVhCckhaNEh1MzA1SWRFSnlYbU5wdm9IbnNLZjBTc3JfRW5hd2tWUjhZTDNrd0NmSXMyN0FB?oc=5",
+   "source": "Google News: pugilato",
+   "lang": "it",
+   "date": "2026-11-12T04:54:22+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 24,
+   "sources_n": 1,
+   "title_it": "Pugilato: Luis Vela è campione Wbc International - La voce del Trentino",
+   "title_es": "Boxeo: Luis Vela es campeón internacional del WBC - La voce del Trentino"
+  },
+  {
    "title": "Kieran Molloy Eyes World Title Shot and Possible All-Irish Rematch",
    "link": "https://www.irish-boxing.com/kieran-molloy-eyes-world-title-shot-and-possible-all-irish-rematch/",
    "source": "Irish Boxing",
@@ -1926,19 +1942,6 @@
    "sources_n": 1,
    "title_it": "\"Sta per accadere\": si dice che Zerafa AFFRONTERÀ un Tszyu... e per il titolo mondiale - Fox Sports",
    "title_es": "«Está sucediendo»: Se afirma que Zerafa SE ENFRENTARÁ a un Tszyu... y por el título mundial - Fox Sports"
-  },
-  {
-   "title": "Francesco sale sul ring nazionale - Polesine24",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOT3RZM2NIVmlJSXJubFl0VjJQck9BTEY4V2NkcDdJMFBPMXpwNWg4S1h3UGQwYUQtWXoyQk5PejEzTTM1S2NGaU5kdWg0MVJtdXNWbTZkTU9Rb180VU1jV3N1cF8xeXFCMm4yRndyLVV3SDZBMWY2V21MaUh4eTd1OUxOUU0tOGUxNGM3SkF3QVRtZ3M?oc=5",
-   "source": "Google News: pugilato",
-   "lang": "it",
-   "date": "2026-11-12T04:30:00+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 14,
-   "sources_n": 1,
-   "title_it": "Francesco sale sul ring nazionale - Polesine24",
-   "title_es": "Francesco sube al ring nacional - Polesine24"
   },
   {
    "title": "El reconocimiento que Eddy Reynoso recibió del CMB por el campeonato de Canelo Álvarez - Infobae",
@@ -2251,7 +2254,7 @@
    "date": "2026-11-11T21:27:53+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 86,
+   "score": 85,
    "sources_n": 4,
    "title_it": "Devin Haney e Shakur devono combattere più di una volta all'anno... insieme ad altri ragazzi di punta",
    "title_es": "Devin Haney y Shakur necesitan pelear más de una vez al año... junto con otros tipos importantes."
@@ -2311,7 +2314,7 @@
    "date": "2026-11-11T20:25:49-05:00",
    "status": "unverified",
    "boxers": [],
-   "score": 78,
+   "score": 77,
    "sources_n": 6,
    "title_it": "La WBA ordina a Teofimo Lopez di affrontare Jack Catterall",
    "title_es": "AMB ordena a Teófimo López enfrentar a Jack Catterall"
@@ -2409,19 +2412,6 @@
    "sources_n": 1,
    "title_it": "I tre migliori pugili britannici che non hanno mai vinto un titolo mondiale - talkSPORT",
    "title_es": "Los tres mejores boxeadores británicos que nunca ganaron un título mundial – talkSPORT"
-  },
-  {
-   "title": "Dal Trentino al trono del pugilato mondiale, il 20enne Luis Vela è campione Wbc International: \"Una grande dimostrazione di classe, tecnica e temperamento\" - il Dolomiti",
-   "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPQmpIemJYNFV5SGpMVE5YdGV3UmFoam9taUxmS2p3V1pfbGhOY2JzVjF2ZVpkSlpXUGNxTUgyNDlLcW5TOVhiQjFtZTJHM3FaVEU2dm4zUDdWQlVENTFqeC1NRW5PVHYwUENWOXY1amQ4TWRpN0tLSjlzWkdLeVh1Z2xDbmxvdnBOT0htczZrTGlYT2lxN3F2NUs3dUdjQVBwNm5BZzkxd2d0YXplNF9Ka09IaG9mQllna0dURjJPYVEwc1drSllobnVYdXd2dUxOeEVmOWtSTVRYZUhSMXYwNGk1UXVSY1lrbVBJZGx5UDJPWFo4ZUhOWXpaaXlGUW5qUUFRcVIweG13X2JEdkI1RWVjWHVYUQ?oc=5",
-   "source": "Google News: pugilato",
-   "lang": "it",
-   "date": "2026-11-11T17:45:58+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 19,
-   "sources_n": 1,
-   "title_it": "Dal Trentino al trono del pugilato mondiale, il 20enne Luis Vela è campione Wbc International: \"Una grande dimostrazione di classe, tecnica e temperamento\" - il Dolomiti",
-   "title_es": "Del Trentino al trono del boxeo mundial, el joven de 20 años Luis Vela es campeón del WBC International: «Una gran demostración de clase, técnica y temperamento» - Il Dolomiti"
   },
   {
    "title": "Pugilato: Luis Vela è campione Wbc International - L'Adige",
@@ -2587,7 +2577,7 @@
    "date": "2026-11-11T15:28:13+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 16,
+   "score": 15,
    "sources_n": 1,
    "title_it": "Cisterna, il pugile Mirko Marchetti ricevuto in Comune dal sindaco Mantini - Luna Notizie",
    "title_es": "Cisterna: el boxeador Mirko Marchetti recibido en el Ayuntamiento por el alcalde Mantini - Luna Notizie"
@@ -3022,7 +3012,7 @@
    "date": "2026-11-11T05:30:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 3,
+   "score": 2,
    "sources_n": 1,
    "title_it": "L’ex pugile Christian Balsamo: «Ho perso mio padre quando avevo 5 mesi e mia madre si è allontanata quando ero bambino. Quelle esperienze fanno parte di me, ma non decidono chi sono. Quando mi si è “spenta” una mano ho capito che dovevo cambiare - Vanity Fair Italia",
    "title_es": "Ex boxeador Christian Balsamo: «Perdí a mi padre cuando tenía 5 meses y mi madre se mudó cuando yo era niño. Esas experiencias son parte de mí, pero no deciden quién soy. Cuando una de mis manos “se soltó” me di cuenta de que tenía que cambiar - Vanity Fair Italia"
@@ -4087,6 +4077,19 @@
    "sources_n": 5,
    "title_it": "Boxing Belt Free-For-All mentre l'ottavo titolo mondiale alimenta il caos",
    "title_es": "Cinturón de boxeo todos contra todos mientras el octavo título mundial alimenta el caos"
+  },
+  {
+   "title": "Shera Mae Patricio and Brittany Sims battle to draw in WBA Bantamweight World Title fight - World Boxing Association",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMGVCM2JYN1cxcFprV0M0S3RVV1lXY3VTZlYzLV9FcW5NUmpFNUN4eWZtRUlWSk84dzY4OUc1TUNDaGVVQjEtTkI3bzIwSmhFTWZjLWhHVFVnUG9MNGNPV284YVlpS2Qzc0lTbHl5aS1CcV9UWmZXc2NhWGV1SlZEOHVWUGpjTDJKZFZ3ZUUyNkhUa3VOZl8xUm1sU3V4OU0yUjlOTVVQdXBOb0hFbTBrMTd1alBGcHVXNGdlMkRHSzg5bVJZdFE?oc=5",
+   "source": "Google News: boxing",
+   "lang": "en",
+   "date": "2026-11-09T17:21:07+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 50,
+   "sources_n": 5,
+   "title_it": "Shera Mae Patricio e Brittany Sims si affrontano per il titolo mondiale dei pesi gallo della WBA - World Boxing Association",
+   "title_es": "Shera Mae Patricio y Brittany Sims luchan por empatar en el combate por el título mundial del peso gallo de la WBA - Asociación Mundial de Boxeo"
   }
  ]
 }
