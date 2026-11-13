@@ -8352,7 +8352,7 @@
  },
  "Lasha Guruli": {
   "slug": "lasha-guruli",
-  "updated": "2026-11-10T14:55:42+00:00",
+  "updated": "2026-11-13T15:01:21+00:00",
   "total": 4,
   "verified": 0,
   "record": {
@@ -8367,7 +8367,7 @@
  },
  "Elwin Soto": {
   "slug": "elwin-soto",
-  "updated": "2026-11-10T14:55:45+00:00",
+  "updated": "2026-11-13T15:01:24+00:00",
   "total": 26,
   "verified": 0,
   "record": {
@@ -8382,7 +8382,7 @@
  },
  "Andrés Campos (boxer)": {
   "slug": "andres-campos-boxer",
-  "updated": "2026-11-10T14:55:48+00:00",
+  "updated": "2026-11-13T15:01:27+00:00",
   "total": 21,
   "verified": 0,
   "record": {
@@ -46195,5 +46195,24 @@
  },
  "Dallas Malloy": {
   "tried": "2026-11-13T14:45:47+00:00"
+ },
+ "Ratanapol Sor Vorapin": {
+  "slug": "ratanapol-sor-vorapin",
+  "updated": "2026-11-13T15:01:30+00:00",
+  "total": 68,
+  "verified": 0,
+  "record": {
+   "w": 59,
+   "l": 8,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "pt"
+  ]
+ },
+ "Denis Gusev (politician)": {
+  "tried": "2026-11-13T15:01:17+00:00"
  }
 }
