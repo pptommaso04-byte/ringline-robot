@@ -1809,7 +1809,7 @@
  },
  "Masayoshi Nakatani": {
   "slug": "masayoshi-nakatani",
-  "updated": "2026-11-10T02:35:49+00:00",
+  "updated": "2026-11-13T02:40:50+00:00",
   "total": 23,
   "verified": 0,
   "record": {
@@ -1825,7 +1825,7 @@
  },
  "Israel Adesanya": {
   "slug": "israel-adesanya",
-  "updated": "2026-11-10T02:35:55+00:00",
+  "updated": "2026-11-13T02:40:56+00:00",
   "total": 44,
   "verified": 0,
   "record": {
@@ -1844,7 +1844,7 @@
  },
  "Ramla Ali": {
   "slug": "ramla-ali",
-  "updated": "2026-11-10T02:35:59+00:00",
+  "updated": "2026-11-13T02:40:59+00:00",
   "total": 14,
   "verified": 7,
   "record": {
@@ -1860,7 +1860,7 @@
  },
  "Adrien Broner": {
   "slug": "adrien-broner",
-  "updated": "2026-11-10T02:36:05+00:00",
+  "updated": "2026-11-13T02:41:04+00:00",
   "total": 42,
   "verified": 41,
   "record": {
@@ -43520,5 +43520,20 @@
  },
  "David Obregón": {
   "tried": "2026-11-13T02:35:42+00:00"
+ },
+ "Ishe Smith": {
+  "slug": "ishe-smith",
+  "updated": "2026-11-13T02:41:09+00:00",
+  "total": 40,
+  "verified": 0,
+  "record": {
+   "w": 29,
+   "l": 11,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
