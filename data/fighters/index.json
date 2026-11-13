@@ -3302,7 +3302,7 @@
  },
  "Isaac Zebra Jr": {
   "slug": "isaac-zebra-jr",
-  "updated": "2026-11-10T04:55:43+00:00",
+  "updated": "2026-11-13T05:01:20+00:00",
   "total": 4,
   "verified": 0,
   "record": {
@@ -44068,5 +44068,42 @@
  },
  "Park Heung-min": {
   "tried": "2026-11-13T04:55:42+00:00"
+ },
+ "Bae Jin-seok": {
+  "tried": "2026-11-13T05:01:16+00:00"
+ },
+ "Pornsawan Porpramook": {
+  "slug": "pornsawan-porpramook",
+  "updated": "2026-11-13T05:01:26+00:00",
+  "total": 35,
+  "verified": 0,
+  "record": {
+   "w": 28,
+   "l": 6,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Librado Andrade": {
+  "slug": "librado-andrade",
+  "updated": "2026-11-13T05:01:28+00:00",
+  "total": 36,
+  "verified": 31,
+  "record": {
+   "w": 31,
+   "l": 5,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "fr"
+  ]
+ },
+ "Silviu Olteanu": {
+  "tried": "2026-11-13T05:01:16+00:00"
  }
 }
