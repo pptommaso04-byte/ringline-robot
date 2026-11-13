@@ -12195,7 +12195,7 @@
  },
  "Ítalo Perea": {
   "slug": "italo-perea",
-  "updated": "2026-11-10T21:46:33+00:00",
+  "updated": "2026-11-13T21:50:54+00:00",
   "total": 18,
   "verified": 0,
   "record": {
@@ -12210,7 +12210,7 @@
  },
  "Hiroto Kyoguchi": {
   "slug": "hiroto-kyoguchi",
-  "updated": "2026-11-10T21:46:37+00:00",
+  "updated": "2026-11-13T21:50:56+00:00",
   "total": 22,
   "verified": 0,
   "record": {
@@ -12225,7 +12225,7 @@
  },
  "Joe Ward (boxer)": {
   "slug": "joe-ward-boxer",
-  "updated": "2026-11-10T21:46:42+00:00",
+  "updated": "2026-11-13T21:51:00+00:00",
   "total": 8,
   "verified": 0,
   "record": {
@@ -12235,7 +12235,8 @@
    "nc": 0
   },
   "langs": [
-   "en"
+   "en",
+   "it"
   ]
  },
  "Tyler McCreary": {
@@ -12243,7 +12244,7 @@
  },
  "KSI": {
   "slug": "ksi",
-  "updated": "2026-11-10T21:46:48+00:00",
+  "updated": "2026-11-13T21:50:51+00:00",
   "total": 4,
   "verified": 3,
   "record": {
@@ -48151,6 +48152,21 @@
   "langs": [
    "en",
    "pt"
+  ]
+ },
+ "Pichit Sitbangprachan": {
+  "slug": "pichit-sitbangprachan",
+  "updated": "2026-11-13T21:51:03+00:00",
+  "total": 24,
+  "verified": 0,
+  "record": {
+   "w": 24,
+   "l": 0,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
   ]
  }
 }
