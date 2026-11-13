@@ -4389,7 +4389,7 @@
  },
  "Brian Arregui": {
   "slug": "brian-arregui",
-  "updated": "2026-11-10T07:31:23+00:00",
+  "updated": "2026-11-13T07:35:47+00:00",
   "total": 2,
   "verified": 0,
   "record": {
@@ -44386,5 +44386,41 @@
   "langs": [
    "en"
   ]
+ },
+ "Diógenes Luna": {
+  "tried": "2026-11-13T07:35:42+00:00"
+ },
+ "Daniel Dawson": {
+  "slug": "daniel-dawson",
+  "updated": "2026-11-13T07:35:55+00:00",
+  "total": 46,
+  "verified": 0,
+  "record": {
+   "w": 39,
+   "l": 5,
+   "d": 2,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Rudy Markussen": {
+  "slug": "rudy-markussen",
+  "updated": "2026-11-13T07:35:59+00:00",
+  "total": 44,
+  "verified": 0,
+  "record": {
+   "w": 39,
+   "l": 4,
+   "d": 0,
+   "nc": 1
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Peter McDonagh": {
+  "tried": "2026-11-13T07:35:42+00:00"
  }
 }
