@@ -13420,7 +13420,7 @@
  },
  "Micki Nielsen": {
   "slug": "micki-nielsen",
-  "updated": "2026-11-10T23:41:15+00:00",
+  "updated": "2026-11-13T23:50:57+00:00",
   "total": 27,
   "verified": 0,
   "record": {
@@ -13459,7 +13459,7 @@
  },
  "Daniel Lewis (boxer)": {
   "slug": "daniel-lewis-boxer",
-  "updated": "2026-11-10T23:45:59+00:00",
+  "updated": "2026-11-13T23:51:02+00:00",
   "total": 7,
   "verified": 0,
   "record": {
@@ -48574,6 +48574,40 @@
   "langs": [
    "en",
    "es"
+  ]
+ },
+ "Hülya Şahin": {
+  "slug": "hulya-sahin",
+  "updated": "2026-11-13T23:51:06+00:00",
+  "total": 23,
+  "verified": 0,
+  "record": {
+   "w": 20,
+   "l": 3,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Rüdiger May": {
+  "tried": "2026-11-13T23:50:53+00:00"
+ },
+ "Cruz Carbajal": {
+  "slug": "cruz-carbajal",
+  "updated": "2026-11-13T23:51:14+00:00",
+  "total": 53,
+  "verified": 0,
+  "record": {
+   "w": 32,
+   "l": 19,
+   "d": 2,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "it"
   ]
  }
 }
