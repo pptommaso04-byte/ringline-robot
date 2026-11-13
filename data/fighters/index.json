@@ -1312,7 +1312,7 @@
  },
  "William Zepeda": {
   "slug": "william-zepeda",
-  "updated": "2026-11-10T01:55:40+00:00",
+  "updated": "2026-11-13T02:01:34+00:00",
   "total": 35,
   "verified": 28,
   "record": {
@@ -1328,7 +1328,7 @@
  },
  "Lester Martínez": {
   "slug": "lester-martinez",
-  "updated": "2026-11-10T01:55:44+00:00",
+  "updated": "2026-11-13T02:01:28+00:00",
   "total": 22,
   "verified": 0,
   "record": {
@@ -1343,7 +1343,7 @@
  },
  "Carlos Adames": {
   "slug": "carlos-adames",
-  "updated": "2026-11-10T01:55:49+00:00",
+  "updated": "2026-11-13T02:01:22+00:00",
   "total": 27,
   "verified": 0,
   "record": {
@@ -1358,7 +1358,7 @@
  },
  "Eman Bacosa Pacquiao": {
   "slug": "eman-bacosa-pacquiao",
-  "updated": "2026-11-10T01:55:51+00:00",
+  "updated": "2026-11-13T02:01:31+00:00",
   "total": 11,
   "verified": 0,
   "record": {
@@ -43440,5 +43440,20 @@
  },
  "Kevin McIntyre (boxer)": {
   "tried": "2026-11-13T01:50:51+00:00"
+ },
+ "Lee Meager": {
+  "slug": "lee-meager",
+  "updated": "2026-11-13T02:01:37+00:00",
+  "total": 26,
+  "verified": 0,
+  "record": {
+   "w": 21,
+   "l": 3,
+   "d": 2,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
