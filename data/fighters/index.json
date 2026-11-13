@@ -9154,7 +9154,7 @@
  },
  "Laura Grzyb": {
   "slug": "laura-grzyb",
-  "updated": "2026-11-10T15:55:49+00:00",
+  "updated": "2026-11-13T16:01:19+00:00",
   "total": 12,
   "verified": 0,
   "record": {
@@ -46360,5 +46360,44 @@
  },
  "Gabriel Križan": {
   "tried": "2026-11-13T15:55:42+00:00"
+ },
+ "Paul Butlin": {
+  "slug": "paul-butlin",
+  "updated": "2026-11-13T16:01:22+00:00",
+  "total": 41,
+  "verified": 0,
+  "record": {
+   "w": 16,
+   "l": 24,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "it",
+   "es",
+   "fr"
+  ]
+ },
+ "Lynch Ipera": {
+  "tried": "2026-11-13T16:01:16+00:00"
+ },
+ "Brian Cohen (boxer)": {
+  "slug": "brian-cohen-boxer",
+  "updated": "2026-11-13T16:01:27+00:00",
+  "total": 16,
+  "verified": 0,
+  "record": {
+   "w": 15,
+   "l": 0,
+   "d": 0,
+   "nc": 1
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Nurbek Kasenov": {
+  "tried": "2026-11-13T16:01:16+00:00"
  }
 }
