@@ -43191,5 +43191,44 @@
  },
  "David Estrada (boxer)": {
   "tried": "2026-11-13T01:25:35+00:00"
+ },
+ "Malcolm Tann": {
+  "slug": "malcolm-tann",
+  "updated": "2026-11-13T01:30:25+00:00",
+  "total": 31,
+  "verified": 0,
+  "record": {
+   "w": 25,
+   "l": 6,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Paulus Ali Nuumbembe": {
+  "tried": "2026-11-13T01:30:17+00:00"
+ },
+ "Malik Bouziane": {
+  "tried": "2026-11-13T01:30:17+00:00"
+ },
+ "Matt Vanda": {
+  "tried": "2026-11-13T01:30:17+00:00"
+ },
+ "Michael Gibbons (boxer)": {
+  "slug": "michael-gibbons-boxer",
+  "updated": "2026-11-13T01:30:41+00:00",
+  "total": 132,
+  "verified": 0,
+  "record": {
+   "w": 112,
+   "l": 12,
+   "d": 8,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
