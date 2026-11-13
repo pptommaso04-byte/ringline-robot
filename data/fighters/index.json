@@ -4184,7 +4184,7 @@
  },
  "Rahim Mundine": {
   "slug": "rahim-mundine",
-  "updated": "2026-11-10T07:01:15+00:00",
+  "updated": "2026-11-13T07:06:04+00:00",
   "total": 3,
   "verified": 0,
   "record": {
@@ -4202,7 +4202,7 @@
  },
  "Ernesto Mercado": {
   "slug": "ernesto-mercado",
-  "updated": "2026-11-10T07:01:19+00:00",
+  "updated": "2026-11-13T07:05:58+00:00",
   "total": 19,
   "verified": 0,
   "record": {
@@ -4217,7 +4217,7 @@
  },
  "Siro Choi": {
   "slug": "siro-choi",
-  "updated": "2026-11-10T07:01:22+00:00",
+  "updated": "2026-11-13T07:06:02+00:00",
   "total": 10,
   "verified": 0,
   "record": {
@@ -4232,7 +4232,7 @@
  },
  "Steve Kulenguluka": {
   "slug": "steve-kulenguluka",
-  "updated": "2026-11-10T07:01:25+00:00",
+  "updated": "2026-11-13T07:06:08+00:00",
   "total": 8,
   "verified": 0,
   "record": {
@@ -44184,5 +44184,21 @@
  },
  "James Hegney (boxer)": {
   "tried": "2026-11-13T07:01:12+00:00"
+ },
+ "Steve Forbes (boxer)": {
+  "slug": "steve-forbes-boxer",
+  "updated": "2026-11-13T07:06:19+00:00",
+  "total": 50,
+  "verified": 0,
+  "record": {
+   "w": 36,
+   "l": 14,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "es"
+  ]
  }
 }
