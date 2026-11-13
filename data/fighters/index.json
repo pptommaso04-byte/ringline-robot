@@ -8127,7 +8127,7 @@
  },
  "Dzmitry Asanau": {
   "slug": "dzmitry-asanau",
-  "updated": "2026-11-10T14:40:48+00:00",
+  "updated": "2026-11-13T14:45:51+00:00",
   "total": 14,
   "verified": 0,
   "record": {
@@ -8145,7 +8145,7 @@
  },
  "Luka Plantić": {
   "slug": "luka-plantic",
-  "updated": "2026-11-10T14:40:53+00:00",
+  "updated": "2026-11-13T14:45:59+00:00",
   "total": 14,
   "verified": 0,
   "record": {
@@ -8163,7 +8163,7 @@
  },
  "Bektemir Melikuziev": {
   "slug": "bektemir-melikuziev",
-  "updated": "2026-11-10T14:41:00+00:00",
+  "updated": "2026-11-13T14:45:55+00:00",
   "total": 18,
   "verified": 0,
   "record": {
@@ -8173,7 +8173,8 @@
    "nc": 0
   },
   "langs": [
-   "en"
+   "en",
+   "fr"
   ]
  },
  "Chris Colbert": {
@@ -46176,5 +46177,23 @@
  },
  "Xavier Noël": {
   "tried": "2026-11-13T14:40:42+00:00"
+ },
+ "Kelson Pinto": {
+  "slug": "kelson-pinto",
+  "updated": "2026-11-13T14:46:02+00:00",
+  "total": 25,
+  "verified": 0,
+  "record": {
+   "w": 23,
+   "l": 2,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Dallas Malloy": {
+  "tried": "2026-11-13T14:45:47+00:00"
  }
 }
