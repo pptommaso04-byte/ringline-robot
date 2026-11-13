@@ -2133,7 +2133,7 @@
  },
  "Melissa Fiorentino": {
   "slug": "melissa-fiorentino",
-  "updated": "2026-11-10T03:01:57+00:00",
+  "updated": "2026-11-13T08:10:50+00:00",
   "total": 17,
   "verified": 0,
   "record": {
@@ -44617,6 +44617,54 @@
   "record": {
    "w": 38,
    "l": 10,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Mario Santiago": {
+  "tried": "2026-11-13T08:10:43+00:00"
+ },
+ "Michael Evans (boxer)": {
+  "slug": "michael-evans-boxer",
+  "updated": "2026-11-13T08:10:57+00:00",
+  "total": 55,
+  "verified": 0,
+  "record": {
+   "w": 48,
+   "l": 7,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Michael Stewart (boxer)": {
+  "slug": "michael-stewart-boxer",
+  "updated": "2026-11-13T08:11:03+00:00",
+  "total": 53,
+  "verified": 0,
+  "record": {
+   "w": 43,
+   "l": 10,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Sirimongkol Singmanasak": {
+  "slug": "sirimongkol-singmanasak",
+  "updated": "2026-11-13T08:11:08+00:00",
+  "total": 110,
+  "verified": 0,
+  "record": {
+   "w": 101,
+   "l": 9,
    "d": 0,
    "nc": 0
   },
