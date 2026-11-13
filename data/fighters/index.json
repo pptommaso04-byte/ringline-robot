@@ -2148,7 +2148,7 @@
  },
  "Erik Morales": {
   "slug": "erik-morales",
-  "updated": "2026-11-10T03:05:46+00:00",
+  "updated": "2026-11-13T13:40:57+00:00",
   "total": 61,
   "verified": 60,
   "record": {
@@ -45720,5 +45720,54 @@
  },
  "Rogelio Castañeda Jr.": {
   "tried": "2026-11-13T13:35:37+00:00"
+ },
+ "Victor Oganov": {
+  "tried": "2026-11-13T13:40:48+00:00"
+ },
+ "Amin Asikainen": {
+  "slug": "amin-asikainen",
+  "updated": "2026-11-13T13:40:52+00:00",
+  "total": 34,
+  "verified": 0,
+  "record": {
+   "w": 30,
+   "l": 4,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Ryan Rhodes": {
+  "slug": "ryan-rhodes",
+  "updated": "2026-11-13T13:41:00+00:00",
+  "total": 52,
+  "verified": 0,
+  "record": {
+   "w": 46,
+   "l": 6,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "John Wayne Parr": {
+  "slug": "john-wayne-parr",
+  "updated": "2026-11-13T13:41:04+00:00",
+  "total": 102,
+  "verified": 0,
+  "record": {
+   "w": 70,
+   "l": 30,
+   "d": 2,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "pt"
+  ]
  }
 }
