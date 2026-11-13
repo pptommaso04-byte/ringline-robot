@@ -7025,7 +7025,7 @@
  },
  "Riku Kano": {
   "slug": "riku-kano",
-  "updated": "2026-11-10T12:37:56+00:00",
+  "updated": "2026-11-13T12:40:48+00:00",
   "total": 29,
   "verified": 0,
   "record": {
@@ -7049,7 +7049,7 @@
  },
  "Lewis Richardson (boxer)": {
   "slug": "lewis-richardson-boxer",
-  "updated": "2026-11-10T12:38:07+00:00",
+  "updated": "2026-11-13T12:40:54+00:00",
   "total": 3,
   "verified": 0,
   "record": {
@@ -45470,5 +45470,26 @@
   "langs": [
    "en"
   ]
+ },
+ "Stefy Bull": {
+  "tried": "2026-11-13T12:40:45+00:00"
+ },
+ "Monica Gentili": {
+  "slug": "monica-gentili",
+  "updated": "2026-11-13T12:40:59+00:00",
+  "total": 189,
+  "verified": 0,
+  "record": {
+   "w": 177,
+   "l": 11,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Felix Flores": {
+  "tried": "2026-11-13T12:40:45+00:00"
  }
 }
