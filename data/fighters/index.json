@@ -1946,7 +1946,7 @@
  },
  "Julio César Chávez Jr.": {
   "slug": "julio-cesar-chavez-jr",
-  "updated": "2026-11-10T02:45:57+00:00",
+  "updated": "2026-11-13T02:50:51+00:00",
   "total": 66,
   "verified": 0,
   "record": {
@@ -43546,6 +43546,43 @@
    "l": 3,
    "d": 0,
    "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Miguel Acosta (boxer)": {
+  "slug": "miguel-acosta-boxer",
+  "updated": "2026-11-13T02:50:56+00:00",
+  "total": 40,
+  "verified": 0,
+  "record": {
+   "w": 29,
+   "l": 9,
+   "d": 2,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "fr"
+  ]
+ },
+ "Emmanuel Lucero": {
+  "tried": "2026-11-13T02:50:45+00:00"
+ },
+ "Bülent Ulusoy": {
+  "tried": "2026-11-13T02:50:45+00:00"
+ },
+ "Armando Robles": {
+  "slug": "armando-robles",
+  "updated": "2026-11-13T02:51:04+00:00",
+  "total": 41,
+  "verified": 0,
+  "record": {
+   "w": 31,
+   "l": 7,
+   "d": 2,
+   "nc": 1
   },
   "langs": [
    "en"
