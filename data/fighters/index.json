@@ -22438,7 +22438,7 @@
  },
  "Zolani Tete": {
   "slug": "zolani-tete",
-  "updated": "2026-11-11T12:35:42+00:00",
+  "updated": "2026-11-14T12:40:49+00:00",
   "total": 34,
   "verified": 34,
   "record": {
@@ -22461,7 +22461,7 @@
  },
  "Linda Laura Lecca": {
   "slug": "linda-laura-lecca",
-  "updated": "2026-11-11T12:35:49+00:00",
+  "updated": "2026-11-14T12:40:54+00:00",
   "total": 30,
   "verified": 0,
   "record": {
@@ -50455,6 +50455,52 @@
   },
   "langs": [
    "en"
+  ]
+ },
+ "Stipe Drews": {
+  "slug": "stipe-drews",
+  "updated": "2026-11-14T12:40:58+00:00",
+  "total": 34,
+  "verified": 0,
+  "record": {
+   "w": 32,
+   "l": 2,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Juan Carlos Gómez": {
+  "slug": "juan-carlos-gomez",
+  "updated": "2026-11-14T12:41:04+00:00",
+  "total": 60,
+  "verified": 0,
+  "record": {
+   "w": 55,
+   "l": 4,
+   "d": 0,
+   "nc": 1
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Ricardo Mayorga": {
+  "slug": "ricardo-mayorga",
+  "updated": "2026-11-14T12:41:11+00:00",
+  "total": 46,
+  "verified": 0,
+  "record": {
+   "w": 32,
+   "l": 12,
+   "d": 1,
+   "nc": 1
+  },
+  "langs": [
+   "en",
+   "it"
   ]
  }
 }
