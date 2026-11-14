@@ -22607,7 +22607,7 @@
  },
  "Jarrell Miller": {
   "slug": "jarrell-miller",
-  "updated": "2026-11-11T12:51:06+00:00",
+  "updated": "2026-11-14T12:55:38+00:00",
   "total": 31,
   "verified": 25,
   "record": {
@@ -22632,7 +22632,7 @@
  },
  "Mikhail Aloyan": {
   "slug": "mikhail-aloyan",
-  "updated": "2026-11-11T12:51:17+00:00",
+  "updated": "2026-11-14T12:55:44+00:00",
   "total": 9,
   "verified": 0,
   "record": {
@@ -50560,5 +50560,26 @@
  },
  "Marty O'Donnell (boxer)": {
   "tried": "2026-11-14T12:50:42+00:00"
+ },
+ "Danny Green (boxer)": {
+  "slug": "danny-green-boxer",
+  "updated": "2026-11-14T12:55:50+00:00",
+  "total": 41,
+  "verified": 0,
+  "record": {
+   "w": 36,
+   "l": 5,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Luis Deines Pérez": {
+  "tried": "2026-11-14T12:55:33+00:00"
+ },
+ "Michael Clark (boxer)": {
+  "tried": "2026-11-14T12:55:33+00:00"
  }
 }
