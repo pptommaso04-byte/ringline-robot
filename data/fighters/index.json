@@ -2210,7 +2210,7 @@
  },
  "Shane Mosley": {
   "slug": "shane-mosley",
-  "updated": "2026-11-10T03:06:05+00:00",
+  "updated": "2026-11-14T23:55:55+00:00",
   "total": 61,
   "verified": 61,
   "record": {
@@ -28519,7 +28519,7 @@
  },
  "Hugo Ruiz": {
   "slug": "hugo-ruiz",
-  "updated": "2026-11-11T23:50:51+00:00",
+  "updated": "2026-11-14T23:55:44+00:00",
   "total": 44,
   "verified": 0,
   "record": {
@@ -28535,7 +28535,7 @@
  },
  "Nagy Aguilera": {
   "slug": "nagy-aguilera",
-  "updated": "2026-11-11T23:55:34+00:00",
+  "updated": "2026-11-14T23:55:47+00:00",
   "total": 34,
   "verified": 0,
   "record": {
@@ -53157,6 +53157,37 @@
    "en",
    "es",
    "fr"
+  ]
+ },
+ "Ann Wolfe": {
+  "slug": "ann-wolfe",
+  "updated": "2026-11-14T23:55:51+00:00",
+  "total": 26,
+  "verified": 0,
+  "record": {
+   "w": 24,
+   "l": 1,
+   "d": 0,
+   "nc": 1
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Rafael Ruelas": {
+  "slug": "rafael-ruelas",
+  "updated": "2026-11-14T23:55:59+00:00",
+  "total": 57,
+  "verified": 0,
+  "record": {
+   "w": 53,
+   "l": 4,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "es"
   ]
  }
 }
