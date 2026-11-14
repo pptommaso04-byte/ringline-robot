@@ -20159,7 +20159,7 @@
  },
  "Dominic Boesel": {
   "slug": "dominic-boesel",
-  "updated": "2026-11-11T09:31:11+00:00",
+  "updated": "2026-11-14T09:36:00+00:00",
   "total": 35,
   "verified": 0,
   "record": {
@@ -20177,7 +20177,7 @@
  },
  "Bowyn Morgan": {
   "slug": "bowyn-morgan",
-  "updated": "2026-11-11T09:31:15+00:00",
+  "updated": "2026-11-14T09:36:03+00:00",
   "total": 25,
   "verified": 0,
   "record": {
@@ -20195,7 +20195,7 @@
  },
  "Felix Alvarado": {
   "slug": "felix-alvarado",
-  "updated": "2026-11-11T09:35:44+00:00",
+  "updated": "2026-11-14T09:36:08+00:00",
   "total": 47,
   "verified": 0,
   "record": {
@@ -20216,7 +20216,7 @@
  },
  "John Joe Nevin": {
   "slug": "john-joe-nevin",
-  "updated": "2026-11-11T09:35:50+00:00",
+  "updated": "2026-11-14T09:36:12+00:00",
   "total": 14,
   "verified": 6,
   "record": {
@@ -49866,5 +49866,21 @@
  },
  "Rogelio Martínez (boxer)": {
   "tried": "2026-11-14T09:31:10+00:00"
+ },
+ "Osvaldo Guerrero": {
+  "slug": "osvaldo-guerrero",
+  "updated": "2026-11-14T09:36:16+00:00",
+  "total": 50,
+  "verified": 0,
+  "record": {
+   "w": 27,
+   "l": 23,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "es"
+  ]
  }
 }
