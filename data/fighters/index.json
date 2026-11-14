@@ -25140,7 +25140,7 @@
  },
  "Hong Su-yun": {
   "slug": "hong-su-yun",
-  "updated": "2026-11-11T17:50:49+00:00",
+  "updated": "2026-11-14T17:55:37+00:00",
   "total": 17,
   "verified": 0,
   "record": {
@@ -25155,7 +25155,7 @@
  },
  "Sylvester Lopez": {
   "slug": "sylvester-lopez",
-  "updated": "2026-11-11T17:50:53+00:00",
+  "updated": "2026-11-14T17:55:41+00:00",
   "total": 44,
   "verified": 0,
   "record": {
@@ -25171,7 +25171,7 @@
  },
  "Román González (boxer)": {
   "slug": "roman-gonzalez-boxer",
-  "updated": "2026-11-11T17:50:59+00:00",
+  "updated": "2026-11-14T17:55:44+00:00",
   "total": 57,
   "verified": 0,
   "record": {
@@ -25187,7 +25187,7 @@
  },
  "Mari Ando": {
   "slug": "mari-ando",
-  "updated": "2026-11-11T17:51:03+00:00",
+  "updated": "2026-11-14T17:55:47+00:00",
   "total": 23,
   "verified": 0,
   "record": {
@@ -52015,5 +52015,20 @@
  },
  "Nungdiaw Sakcharuporn": {
   "tried": "2026-11-14T17:50:40+00:00"
+ },
+ "Lakhin Wassantasit": {
+  "slug": "lakhin-wassantasit",
+  "updated": "2026-11-14T17:55:50+00:00",
+  "total": 52,
+  "verified": 0,
+  "record": {
+   "w": 34,
+   "l": 18,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
