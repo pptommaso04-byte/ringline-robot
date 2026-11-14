@@ -23425,7 +23425,7 @@
  },
  "Pungluang Sor Singyu": {
   "slug": "pungluang-sor-singyu",
-  "updated": "2026-11-11T15:15:48+00:00",
+  "updated": "2026-11-14T15:15:57+00:00",
   "total": 74,
   "verified": 0,
   "record": {
@@ -23440,7 +23440,7 @@
  },
  "Tepparith Singwancha": {
   "slug": "tepparith-singwancha",
-  "updated": "2026-11-11T15:15:50+00:00",
+  "updated": "2026-11-14T15:16:01+00:00",
   "total": 38,
   "verified": 0,
   "record": {
@@ -23455,7 +23455,7 @@
  },
  "Débora Dionicius": {
   "slug": "debora-dionicius",
-  "updated": "2026-11-11T15:15:53+00:00",
+  "updated": "2026-11-14T15:16:05+00:00",
   "total": 39,
   "verified": 0,
   "record": {
@@ -51392,6 +51392,36 @@
   "langs": [
    "en",
    "es"
+  ]
+ },
+ "Shinji Takehara": {
+  "slug": "shinji-takehara",
+  "updated": "2026-11-14T15:16:08+00:00",
+  "total": 25,
+  "verified": 0,
+  "record": {
+   "w": 24,
+   "l": 1,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "John Ruiz": {
+  "slug": "john-ruiz",
+  "updated": "2026-11-14T15:16:13+00:00",
+  "total": 55,
+  "verified": 0,
+  "record": {
+   "w": 44,
+   "l": 9,
+   "d": 1,
+   "nc": 1
+  },
+  "langs": [
+   "en"
   ]
  }
 }
