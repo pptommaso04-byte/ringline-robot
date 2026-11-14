@@ -14191,7 +14191,7 @@
  },
  "Sergio García (boxer)": {
   "slug": "sergio-garcia-boxer",
-  "updated": "2026-11-11T00:46:05+00:00",
+  "updated": "2026-11-14T00:51:00+00:00",
   "total": 37,
   "verified": 0,
   "record": {
@@ -48782,5 +48782,43 @@
  },
  "Cyril Raffaelli": {
   "tried": "2026-11-14T00:40:56+00:00"
+ },
+ "Peter Baláž (boxer)": {
+  "tried": "2026-11-14T00:50:54+00:00"
+ },
+ "Radoslav Suslekov": {
+  "tried": "2026-11-14T00:50:54+00:00"
+ },
+ "Naseem Hamed": {
+  "slug": "naseem-hamed",
+  "updated": "2026-11-14T00:51:12+00:00",
+  "total": 37,
+  "verified": 37,
+  "record": {
+   "w": 36,
+   "l": 1,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "it",
+   "es"
+  ]
+ },
+ "Sinan Şamil Sam": {
+  "slug": "sinan-samil-sam",
+  "updated": "2026-11-14T00:51:16+00:00",
+  "total": 35,
+  "verified": 0,
+  "record": {
+   "w": 31,
+   "l": 4,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
