@@ -26747,7 +26747,7 @@
  },
  "Nordine Oubaali": {
   "slug": "nordine-oubaali",
-  "updated": "2026-11-11T20:05:45+00:00",
+  "updated": "2026-11-14T20:10:56+00:00",
   "total": 19,
   "verified": 0,
   "record": {
@@ -52428,6 +52428,42 @@
   "verified": 0,
   "record": {
    "w": 43,
+   "l": 5,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Hoe Jong-jil": {
+  "tried": "2026-11-14T20:10:51+00:00"
+ },
+ "Boniface Mukuka": {
+  "tried": "2026-11-14T20:10:51+00:00"
+ },
+ "Diosbelys Hurtado": {
+  "slug": "diosbelys-hurtado",
+  "updated": "2026-11-14T20:11:01+00:00",
+  "total": 47,
+  "verified": 0,
+  "record": {
+   "w": 43,
+   "l": 3,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Patrice L'Heureux": {
+  "slug": "patrice-l-heureux",
+  "updated": "2026-11-14T20:11:04+00:00",
+  "total": 30,
+  "verified": 0,
+  "record": {
+   "w": 24,
    "l": 5,
    "d": 1,
    "nc": 0
