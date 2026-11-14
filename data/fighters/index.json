@@ -28302,7 +28302,7 @@
  },
  "Gideon Buthelezi": {
   "slug": "gideon-buthelezi",
-  "updated": "2026-11-11T23:25:50+00:00",
+  "updated": "2026-11-14T23:31:01+00:00",
   "total": 29,
   "verified": 0,
   "record": {
@@ -53030,5 +53030,31 @@
    "en",
    "es"
   ]
+ },
+ "Falk Huste": {
+  "tried": "2026-11-14T23:30:57+00:00"
+ },
+ "Robin Reid (boxer)": {
+  "slug": "robin-reid-boxer",
+  "updated": "2026-11-14T23:31:05+00:00",
+  "total": 51,
+  "verified": 0,
+  "record": {
+   "w": 42,
+   "l": 8,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "it",
+   "es"
+  ]
+ },
+ "Daniel Petrov": {
+  "tried": "2026-11-14T23:30:57+00:00"
+ },
+ "Christophe Mendy": {
+  "tried": "2026-11-14T23:30:57+00:00"
  }
 }
