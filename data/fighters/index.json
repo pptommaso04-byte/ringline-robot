@@ -19168,7 +19168,7 @@
  },
  "Mihai Nistor": {
   "slug": "mihai-nistor",
-  "updated": "2026-11-11T08:16:09+00:00",
+  "updated": "2026-11-14T08:20:51+00:00",
   "total": 9,
   "verified": 0,
   "record": {
@@ -19188,7 +19188,7 @@
  },
  "Shun Kubo": {
   "slug": "shun-kubo",
-  "updated": "2026-11-11T08:16:13+00:00",
+  "updated": "2026-11-14T08:20:54+00:00",
   "total": 18,
   "verified": 0,
   "record": {
@@ -19203,7 +19203,7 @@
  },
  "Dominic Wade": {
   "slug": "dominic-wade",
-  "updated": "2026-11-11T08:16:18+00:00",
+  "updated": "2026-11-14T08:20:58+00:00",
   "total": 21,
   "verified": 0,
   "record": {
@@ -49754,5 +49754,24 @@
  },
  "Sami Khelifi": {
   "tried": "2026-11-14T08:10:56+00:00"
+ },
+ "Alex González (boxer)": {
+  "slug": "alex-gonzalez-boxer",
+  "updated": "2026-11-14T08:21:04+00:00",
+  "total": 47,
+  "verified": 0,
+  "record": {
+   "w": 40,
+   "l": 6,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "es"
+  ]
+ },
+ "Ismael Koné (boxer)": {
+  "tried": "2026-11-14T08:20:45+00:00"
  }
 }
