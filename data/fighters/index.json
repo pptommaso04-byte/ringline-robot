@@ -18232,7 +18232,7 @@
  },
  "Britain Hart": {
   "slug": "britain-hart",
-  "updated": "2026-11-11T06:51:08+00:00",
+  "updated": "2026-11-14T06:52:20+00:00",
   "total": 11,
   "verified": 0,
   "record": {
@@ -18253,7 +18253,7 @@
  },
  "Ihor Shevadzutskyi": {
   "slug": "ihor-shevadzutskyi",
-  "updated": "2026-11-11T06:51:17+00:00",
+  "updated": "2026-11-14T06:52:24+00:00",
   "total": 15,
   "verified": 0,
   "record": {
@@ -49394,6 +49394,52 @@
    "l": 5,
    "d": 2,
    "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "DeMarcus Corley": {
+  "slug": "demarcus-corley",
+  "updated": "2026-11-14T06:52:28+00:00",
+  "total": 89,
+  "verified": 0,
+  "record": {
+   "w": 52,
+   "l": 36,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "it"
+  ]
+ },
+ "Mary Jo Sanders": {
+  "slug": "mary-jo-sanders",
+  "updated": "2026-11-14T06:52:32+00:00",
+  "total": 27,
+  "verified": 0,
+  "record": {
+   "w": 25,
+   "l": 1,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Randall Bailey": {
+  "slug": "randall-bailey",
+  "updated": "2026-11-14T06:52:36+00:00",
+  "total": 56,
+  "verified": 0,
+  "record": {
+   "w": 46,
+   "l": 9,
+   "d": 0,
+   "nc": 1
   },
   "langs": [
    "en"
