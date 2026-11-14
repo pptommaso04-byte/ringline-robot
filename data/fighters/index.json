@@ -18909,7 +18909,7 @@
  },
  "Jonathan Alonso": {
   "slug": "jonathan-alonso",
-  "updated": "2026-11-11T07:55:48+00:00",
+  "updated": "2026-11-14T07:57:40+00:00",
   "total": 24,
   "verified": 23,
   "record": {
@@ -18925,7 +18925,7 @@
  },
  "Marcus Browne": {
   "slug": "marcus-browne",
-  "updated": "2026-11-11T07:55:52+00:00",
+  "updated": "2026-11-14T07:57:47+00:00",
   "total": 28,
   "verified": 0,
   "record": {
@@ -18940,7 +18940,7 @@
  },
  "Aaron Herrera (boxer)": {
   "slug": "aaron-herrera-boxer",
-  "updated": "2026-11-11T07:55:56+00:00",
+  "updated": "2026-11-14T07:57:54+00:00",
   "total": 47,
   "verified": 0,
   "record": {
@@ -49674,5 +49674,24 @@
  },
  "Adalat Mamedov": {
   "tried": "2026-11-14T07:55:37+00:00"
+ },
+ "Kofi Jantuah": {
+  "slug": "kofi-jantuah",
+  "updated": "2026-11-14T07:57:59+00:00",
+  "total": 38,
+  "verified": 0,
+  "record": {
+   "w": 32,
+   "l": 4,
+   "d": 1,
+   "nc": 1
+  },
+  "langs": [
+   "en",
+   "de"
+  ]
+ },
+ "Fabricio Nieva": {
+  "tried": "2026-11-14T07:57:35+00:00"
  }
 }
