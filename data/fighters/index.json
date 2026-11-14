@@ -14096,7 +14096,7 @@
  },
  "Estelle Mossely": {
   "slug": "estelle-mossely",
-  "updated": "2026-11-11T00:40:53+00:00",
+  "updated": "2026-11-14T00:41:02+00:00",
   "total": 15,
   "verified": 9,
   "record": {
@@ -48743,5 +48743,44 @@
    "en",
    "fr"
   ]
+ },
+ "Masamori Tokuyama": {
+  "slug": "masamori-tokuyama",
+  "updated": "2026-11-14T00:41:06+00:00",
+  "total": 36,
+  "verified": 0,
+  "record": {
+   "w": 32,
+   "l": 3,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Kimbo Slice": {
+  "slug": "kimbo-slice",
+  "updated": "2026-11-14T00:41:10+00:00",
+  "total": 7,
+  "verified": 0,
+  "record": {
+   "w": 7,
+   "l": 0,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "it",
+   "es",
+   "fr"
+  ]
+ },
+ "Rachid Bouaita": {
+  "tried": "2026-11-14T00:40:56+00:00"
+ },
+ "Cyril Raffaelli": {
+  "tried": "2026-11-14T00:40:56+00:00"
  }
 }
