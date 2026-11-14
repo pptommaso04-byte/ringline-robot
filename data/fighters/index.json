@@ -19043,7 +19043,7 @@
  },
  "Raphael Akpejiori": {
   "slug": "raphael-akpejiori",
-  "updated": "2026-11-11T08:05:47+00:00",
+  "updated": "2026-11-14T08:06:09+00:00",
   "total": 23,
   "verified": 0,
   "record": {
@@ -19058,7 +19058,7 @@
  },
  "Antonio Hernández (boxer)": {
   "slug": "antonio-hernandez-boxer",
-  "updated": "2026-11-11T08:05:53+00:00",
+  "updated": "2026-11-14T08:06:15+00:00",
   "total": 77,
   "verified": 0,
   "record": {
@@ -19077,7 +19077,7 @@
  },
  "Anthony Campbell (boxer)": {
   "slug": "anthony-campbell-boxer",
-  "updated": "2026-11-11T08:06:01+00:00",
+  "updated": "2026-11-14T08:06:24+00:00",
   "total": 24,
   "verified": 0,
   "record": {
@@ -49696,5 +49696,24 @@
  },
  "Pål Arne Fagernes": {
   "tried": "2026-11-14T08:02:32+00:00"
+ },
+ "Richel Hersisia": {
+  "slug": "richel-hersisia",
+  "updated": "2026-11-14T08:06:29+00:00",
+  "total": 35,
+  "verified": 0,
+  "record": {
+   "w": 32,
+   "l": 3,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "pt"
+  ]
+ },
+ "Christian Esquivel": {
+  "tried": "2026-11-14T08:06:04+00:00"
  }
 }
