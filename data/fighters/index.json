@@ -18084,7 +18084,7 @@
  },
  "Vic Saludar": {
   "slug": "vic-saludar",
-  "updated": "2026-11-11T06:40:49+00:00",
+  "updated": "2026-11-14T06:41:05+00:00",
   "total": 34,
   "verified": 0,
   "record": {
@@ -18105,7 +18105,7 @@
  },
  "Javier Fortuna": {
   "slug": "javier-fortuna",
-  "updated": "2026-11-11T06:40:56+00:00",
+  "updated": "2026-11-14T06:41:08+00:00",
   "total": 49,
   "verified": 0,
   "record": {
@@ -49337,6 +49337,27 @@
    "l": 5,
    "d": 0,
    "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Charles Kizza": {
+  "tried": "2026-11-14T06:41:00+00:00"
+ },
+ "Des Sowden": {
+  "tried": "2026-11-14T06:41:00+00:00"
+ },
+ "David Cadieux": {
+  "slug": "david-cadieux",
+  "updated": "2026-11-14T06:41:15+00:00",
+  "total": 21,
+  "verified": 0,
+  "record": {
+   "w": 17,
+   "l": 3,
+   "d": 0,
+   "nc": 1
   },
   "langs": [
    "en"
