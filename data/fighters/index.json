@@ -16709,7 +16709,7 @@
  },
  "Patrick Nielsen": {
   "slug": "patrick-nielsen",
-  "updated": "2026-11-11T04:35:42+00:00",
+  "updated": "2026-11-14T04:40:50+00:00",
   "total": 33,
   "verified": 0,
   "record": {
@@ -16724,7 +16724,7 @@
  },
  "Juan Carlos Sánchez Jr.": {
   "slug": "juan-carlos-sanchez-jr",
-  "updated": "2026-11-11T04:35:46+00:00",
+  "updated": "2026-11-14T04:40:57+00:00",
   "total": 31,
   "verified": 0,
   "record": {
@@ -16739,7 +16739,7 @@
  },
  "Neeraj Goyat": {
   "slug": "neeraj-goyat",
-  "updated": "2026-11-11T04:35:49+00:00",
+  "updated": "2026-11-14T04:41:00+00:00",
   "total": 27,
   "verified": 0,
   "record": {
@@ -49002,5 +49002,24 @@
  },
  "Michael Brodie": {
   "tried": "2026-11-14T04:25:50+00:00"
+ },
+ "Gonzalo Basile": {
+  "slug": "gonzalo-basile",
+  "updated": "2026-11-14T04:41:04+00:00",
+  "total": 90,
+  "verified": 89,
+  "record": {
+   "w": 76,
+   "l": 13,
+   "d": 0,
+   "nc": 1
+  },
+  "langs": [
+   "en",
+   "es"
+  ]
+ },
+ "Walter Crucce": {
+  "tried": "2026-11-14T04:40:45+00:00"
  }
 }
