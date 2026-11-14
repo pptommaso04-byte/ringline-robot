@@ -50674,5 +50674,57 @@
  },
  "Manuel Mantilla (boxer)": {
   "tried": "2026-11-14T13:15:41+00:00"
+ },
+ "Daniel Alicea": {
+  "tried": "2026-11-14T13:20:49+00:00"
+ },
+ "Mads Larsen (boxer)": {
+  "slug": "mads-larsen-boxer",
+  "updated": "2026-11-14T13:20:55+00:00",
+  "total": 55,
+  "verified": 0,
+  "record": {
+   "w": 51,
+   "l": 4,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "LaVerne Clark": {
+  "slug": "laverne-clark",
+  "updated": "2026-11-14T13:21:02+00:00",
+  "total": 33,
+  "verified": 0,
+  "record": {
+   "w": 14,
+   "l": 18,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Henriette Kitel": {
+  "tried": "2026-11-14T13:20:49+00:00"
+ },
+ "Andre Purlette": {
+  "slug": "andre-purlette",
+  "updated": "2026-11-14T13:21:08+00:00",
+  "total": 44,
+  "verified": 0,
+  "record": {
+   "w": 40,
+   "l": 4,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "fr"
+  ]
  }
 }
