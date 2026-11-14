@@ -9780,7 +9780,7 @@
  },
  "José Luis Castillo": {
   "slug": "jose-luis-castillo",
-  "updated": "2026-11-10T17:11:04+00:00",
+  "updated": "2026-11-14T11:15:56+00:00",
   "total": 80,
   "verified": 0,
   "record": {
@@ -50220,6 +50220,45 @@
   },
   "langs": [
    "en"
+  ]
+ },
+ "Levan Kirakosyan": {
+  "tried": "2026-11-14T11:15:39+00:00"
+ },
+ "Alberto Colajanni": {
+  "slug": "alberto-colajanni",
+  "updated": "2026-11-14T11:15:44+00:00",
+  "total": 19,
+  "verified": 0,
+  "record": {
+   "w": 18,
+   "l": 1,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Rachid El-Haddak": {
+  "tried": "2026-11-14T11:15:39+00:00"
+ },
+ "Bob Sapp": {
+  "slug": "bob-sapp",
+  "updated": "2026-11-14T11:15:51+00:00",
+  "total": 31,
+  "verified": 0,
+  "record": {
+   "w": 12,
+   "l": 19,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "it",
+   "es",
+   "fr"
   ]
  }
 }
