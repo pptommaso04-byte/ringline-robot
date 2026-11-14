@@ -25008,7 +25008,7 @@
  },
  "Yamaguchi Falcão": {
   "slug": "yamaguchi-falcao",
-  "updated": "2026-11-11T17:35:45+00:00",
+  "updated": "2026-11-14T17:40:46+00:00",
   "total": 30,
   "verified": 0,
   "record": {
@@ -51954,5 +51954,54 @@
  },
  "Roel Velasco": {
   "tried": "2026-11-14T17:35:39+00:00"
+ },
+ "Larry Marks (boxer)": {
+  "tried": "2026-11-14T17:40:40+00:00"
+ },
+ "Leo Nolan": {
+  "slug": "leo-nolan",
+  "updated": "2026-11-14T17:40:52+00:00",
+  "total": 29,
+  "verified": 0,
+  "record": {
+   "w": 27,
+   "l": 2,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Yvonne Caples": {
+  "slug": "yvonne-caples",
+  "updated": "2026-11-14T17:40:55+00:00",
+  "total": 22,
+  "verified": 0,
+  "record": {
+   "w": 7,
+   "l": 12,
+   "d": 2,
+   "nc": 1
+  },
+  "langs": [
+   "en",
+   "de"
+  ]
+ },
+ "Adonis Rivas": {
+  "slug": "adonis-rivas",
+  "updated": "2026-11-14T17:40:58+00:00",
+  "total": 43,
+  "verified": 0,
+  "record": {
+   "w": 22,
+   "l": 15,
+   "d": 4,
+   "nc": 2
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
