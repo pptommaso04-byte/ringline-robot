@@ -24341,7 +24341,7 @@
  },
  "Jerry Forrest": {
   "slug": "jerry-forrest",
-  "updated": "2026-11-11T16:40:47+00:00",
+  "updated": "2026-11-14T16:46:00+00:00",
   "total": 38,
   "verified": 0,
   "record": {
@@ -24362,7 +24362,7 @@
  },
  "Daniel Jacobs (boxer)": {
   "slug": "daniel-jacobs-boxer",
-  "updated": "2026-11-11T16:40:53+00:00",
+  "updated": "2026-11-14T16:46:05+00:00",
   "total": 42,
   "verified": 0,
   "record": {
@@ -24377,7 +24377,7 @@
  },
  "Victor Ortiz": {
   "slug": "victor-ortiz",
-  "updated": "2026-11-11T16:40:58+00:00",
+  "updated": "2026-11-14T16:46:12+00:00",
   "total": 43,
   "verified": 0,
   "record": {
@@ -24392,7 +24392,7 @@
  },
  "Paddy Barnes": {
   "slug": "paddy-barnes",
-  "updated": "2026-11-11T16:45:50+00:00",
+  "updated": "2026-11-14T16:46:17+00:00",
   "total": 9,
   "verified": 0,
   "record": {
@@ -51815,6 +51815,22 @@
   },
   "langs": [
    "en"
+  ]
+ },
+ "Nate Campbell": {
+  "slug": "nate-campbell",
+  "updated": "2026-11-14T16:46:23+00:00",
+  "total": 50,
+  "verified": 0,
+  "record": {
+   "w": 37,
+   "l": 11,
+   "d": 1,
+   "nc": 1
+  },
+  "langs": [
+   "en",
+   "it"
   ]
  }
 }
