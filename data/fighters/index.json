@@ -19291,7 +19291,7 @@
  },
  "Nick Blackwell": {
   "slug": "nick-blackwell",
-  "updated": "2026-11-11T08:25:49+00:00",
+  "updated": "2026-11-14T08:31:02+00:00",
   "total": 24,
   "verified": 0,
   "record": {
@@ -19306,7 +19306,7 @@
  },
  "Kenneth Odeke": {
   "slug": "kenneth-odeke",
-  "updated": "2026-11-11T08:25:51+00:00",
+  "updated": "2026-11-14T08:31:05+00:00",
   "total": 7,
   "verified": 0,
   "record": {
@@ -19321,7 +19321,7 @@
  },
  "David Brophy (boxer)": {
   "slug": "david-brophy-boxer",
-  "updated": "2026-11-11T08:25:55+00:00",
+  "updated": "2026-11-14T08:31:09+00:00",
   "total": 25,
   "verified": 0,
   "record": {
@@ -19336,7 +19336,7 @@
  },
  "Artur Mann": {
   "slug": "artur-mann",
-  "updated": "2026-11-11T08:25:57+00:00",
+  "updated": "2026-11-14T08:31:12+00:00",
   "total": 29,
   "verified": 24,
   "record": {
@@ -49776,5 +49776,20 @@
  },
  "Petr Horáček": {
   "tried": "2026-11-14T08:25:35+00:00"
+ },
+ "Noel Arambulet": {
+  "slug": "noel-arambulet",
+  "updated": "2026-11-14T08:31:16+00:00",
+  "total": 33,
+  "verified": 0,
+  "record": {
+   "w": 23,
+   "l": 8,
+   "d": 1,
+   "nc": 1
+  },
+  "langs": [
+   "en"
+  ]
  }
 }

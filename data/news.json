@@ -1,8 +1,21 @@
 {
- "updated": "2026-11-14T08:25:35+00:00",
+ "updated": "2026-11-14T08:30:58+00:00",
  "feeds_ok": 49,
  "feeds_failed": 4,
  "news": [
+  {
+   "title": "A trio of IBO title fights takes place in South Africa on November 21",
+   "link": "https://britishboxingnews.co.uk/ibo/trio-of-ibo-title-fights-south-africa/",
+   "source": "British Boxing News",
+   "lang": "en",
+   "date": "2026-11-14T08:27:24+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 29,
+   "sources_n": 1,
+   "title_it": "Il 21 novembre in Sudafrica si svolgeranno tre incontri per il titolo IBO",
+   "title_es": "El 21 de noviembre se celebrarán tres combates por el título de la IBO en Sudáfrica"
+  },
   {
    "title": "Tyson Fury vs Anthony Joshua tickets for £315pp with free drinks included in VIP fight night hospitality deal",
    "link": "https://www.thesun.co.uk/sport/40656203/tyson-fury-anthony-joshua-tickets-vip-hospitality-cardiff/",
@@ -123,8 +136,8 @@
    "date": "2026-11-14T07:00:29+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 39,
-   "sources_n": 2,
+   "score": 29,
+   "sources_n": 1,
    "title_it": "Sapone-Ferramosca, cambio di campione nei Supergallo: rivivi il match in live replay su Sportface TV - Sportface.it",
    "title_es": "Sapone-Ferramosca, cambio de campeón en el peso supergallo: revive el combate en repetición en directo en Sportface TV - Sportface.it"
   },
@@ -929,7 +942,7 @@
    "date": "2026-11-13T16:30:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 60,
+   "score": 59,
    "sources_n": 5,
    "title_it": "Carlos Adames: \"Metterò KO Gerome Warburton in tre round\": Riyadh Season Zuffa Boxing 13",
    "title_es": "Carlos Adames: «Voy a noquear a Gerome Warburton en tres asaltos»: Riyadh Season Zuffa Boxing 13"
@@ -942,7 +955,7 @@
    "date": "2026-11-13T16:28:16+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 97,
+   "score": 96,
    "sources_n": 10,
    "title_it": "Eddie Hearn ritiene che Terence Crawford interromperà il ritiro per un incontro da record",
    "title_es": "Eddie Hearn cree que Terence Crawford pondrá fin a su retirada para disputar un combate que batirá récords"
@@ -1449,7 +1462,7 @@
    "boxers": [
     "Canelo Alvarez"
    ],
-   "score": 104,
+   "score": 103,
    "sources_n": 6,
    "title_it": "Willy Hutchinson ha capito come stanno le cose, ma Canelo Álvarez è un'altra storia.",
    "title_es": "Willy Hutchinson se ha dado cuenta, pero Canelo Álvarez es otra historia completamente distinta."
@@ -1960,7 +1973,7 @@
    "date": "2026-11-12T22:28:12+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 13,
+   "score": 12,
    "sources_n": 1,
    "title_it": "Arnold Barboza Jr affronterà Oscar Duarte ad Anaheim a gennaio",
    "title_es": "Arnold Barboza Jr se enfrenta a Oscar Duarte en Anaheim en enero"
@@ -2132,7 +2145,7 @@
    "date": "2026-11-12T18:30:21+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 41,
+   "score": 40,
    "sources_n": 5,
    "title_it": "Floyd Mayweather riceve il via libera per lottare per il titolo a 49 anni - marchio usa",
    "title_es": "Floyd Mayweather recibe luz verde para pelear por el título con 49 años - marca usa"
@@ -2456,7 +2469,7 @@
    "date": "2026-11-12T12:27:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 18,
+   "score": 17,
    "sources_n": 2,
    "title_it": "Cosenza in maglia azzurra ai Campionati Europei Under 23 di pugilato: orgoglio per Maria Laura Perrotta - Corriere della Calabria",
    "title_es": "Cosenza con la «maglia azzurra» en el Campeonato Europeo Sub-23 de boxeo: orgullo por Maria Laura Perrotta - Corriere della Calabria"
@@ -2688,7 +2701,7 @@
    "date": "2026-11-12T04:30:29+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 39,
+   "score": 38,
    "sources_n": 1,
    "title_it": "\"Sta per accadere\": si dice che Zerafa AFFRONTERÀ un Tszyu... e per il titolo mondiale - Fox Sports",
    "title_es": "«Está sucediendo»: Se afirma que Zerafa SE ENFRENTARÁ a un Tszyu... y por el título mundial - Fox Sports"
@@ -3223,7 +3236,8 @@
    "boxers": [],
    "score": 0,
    "sources_n": 1,
-   "title_it": "Successo Pugilistica Lucchese ai tricolori under 15 di pugilato: un oro, un argento e due bronzi - LuccainDiretta"
+   "title_it": "Successo Pugilistica Lucchese ai tricolori under 15 di pugilato: un oro, un argento e due bronzi - LuccainDiretta",
+   "title_es": "Éxito del boxeo luqués en el Campeonato de España sub-15 de boxeo: un oro, una plata y dos bronces - LuccainDiretta"
   },
   {
    "title": "Tyson Fury vs Anthony Joshua winner urged to face 'hard done by' rival next",
@@ -3340,19 +3354,6 @@
    "sources_n": 13,
    "title_it": "Daniel Dubois ha detto di voler evitare il vincitore dell'incontro tra Anthony Joshua e Tyson Fury",
    "title_es": "A Daniel Dubois le han recomendado que evite al ganador del combate entre Anthony Joshua y Tyson Fury"
-  },
-  {
-   "title": "Boxe, Sapone-Ferramosca per il titolo italiano dei supergallo in diretta su Italia Boxe TV - Sportface.it",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZmN1ZGpveTFOSllIbzUtenFmdUFvLWVIQkkySjZNakF2bGdXdGZvY0xDNjNRUXd3MEtpWUZCbkpGOXoyZWFhMWpXeHB3WjJtUDBrdE0zbzZ6S3IwU09ud2hIYmdtRmlhS3dqQm1mTWtEZ01EZW5pYXRUUXFxdTJFRjQ4Ny0wWXktbmJqa0QySUxvcWFPMDM4WWwyOENSX0FXZ0tYMWZnaWt1VFFwdlE?oc=5",
-   "source": "Google News: boxe italiana",
-   "lang": "it",
-   "date": "2026-11-11T12:11:35+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 10,
-   "sources_n": 2,
-   "title_it": "Boxe, Sapone-Ferramosca per il titolo italiano dei supergallo in diretta su Italia Boxe TV - Sportface.it",
-   "title_es": "Boxeo, Sapone-Ferramosca por el título italiano del peso supergallo en directo en Italia Boxe TV - Sportface.it"
   },
   {
    "title": "Shock seven-fight card announced just one day before Tyson Fury vs Anthony Joshua and three miles down road",
