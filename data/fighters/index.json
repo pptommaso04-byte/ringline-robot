@@ -25664,7 +25664,7 @@
  },
  "Alejandra Jiménez": {
   "slug": "alejandra-jimenez",
-  "updated": "2026-11-11T18:35:42+00:00",
+  "updated": "2026-11-14T18:36:03+00:00",
   "total": 14,
   "verified": 0,
   "record": {
@@ -25679,7 +25679,7 @@
  },
  "Milton Núñez (boxer)": {
   "slug": "milton-nunez-boxer",
-  "updated": "2026-11-11T18:35:46+00:00",
+  "updated": "2026-11-14T18:36:09+00:00",
   "total": 80,
   "verified": 0,
   "record": {
@@ -25696,7 +25696,7 @@
  },
  "Oscar Negrete": {
   "slug": "oscar-negrete",
-  "updated": "2026-11-11T18:35:50+00:00",
+  "updated": "2026-11-14T18:36:13+00:00",
   "total": 23,
   "verified": 0,
   "record": {
@@ -25711,7 +25711,7 @@
  },
  "Muhammad Waseem": {
   "slug": "muhammad-waseem",
-  "updated": "2026-11-11T18:35:54+00:00",
+  "updated": "2026-11-14T18:36:16+00:00",
   "total": 17,
   "verified": 0,
   "record": {
@@ -52114,5 +52114,20 @@
  },
  "Anwar Oshana": {
   "tried": "2026-11-14T18:15:39+00:00"
+ },
+ "Enrique Sánchez (boxer)": {
+  "slug": "enrique-sanchez-boxer",
+  "updated": "2026-11-14T18:36:23+00:00",
+  "total": 37,
+  "verified": 0,
+  "record": {
+   "w": 30,
+   "l": 3,
+   "d": 4,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
