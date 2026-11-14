@@ -26301,7 +26301,7 @@
  },
  "Benjamin Kelleher": {
   "slug": "benjamin-kelleher",
-  "updated": "2026-11-11T19:31:08+00:00",
+  "updated": "2026-11-14T19:35:35+00:00",
   "total": 17,
   "verified": 0,
   "record": {
@@ -26317,7 +26317,7 @@
  },
  "Javier Prieto (boxer)": {
   "slug": "javier-prieto-boxer",
-  "updated": "2026-11-11T19:31:11+00:00",
+  "updated": "2026-11-14T19:35:38+00:00",
   "total": 7,
   "verified": 0,
   "record": {
@@ -26335,7 +26335,7 @@
  },
  "Jorge Sebastian Heiland": {
   "slug": "jorge-sebastian-heiland",
-  "updated": "2026-11-11T19:31:16+00:00",
+  "updated": "2026-11-14T19:35:41+00:00",
   "total": 36,
   "verified": 0,
   "record": {
@@ -26356,7 +26356,7 @@
  },
  "Julio César García": {
   "slug": "julio-cesar-garcia",
-  "updated": "2026-11-11T19:31:54+00:00",
+  "updated": "2026-11-14T19:35:45+00:00",
   "total": 66,
   "verified": 0,
   "record": {
@@ -52269,6 +52269,21 @@
   "langs": [
    "en",
    "pt"
+  ]
+ },
+ "Derrick Gainer": {
+  "slug": "derrick-gainer",
+  "updated": "2026-11-14T19:35:49+00:00",
+  "total": 51,
+  "verified": 0,
+  "record": {
+   "w": 43,
+   "l": 7,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
   ]
  }
 }
