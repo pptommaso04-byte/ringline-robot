@@ -24614,7 +24614,7 @@
  },
  "Nathan Cleverly": {
   "slug": "nathan-cleverly",
-  "updated": "2026-11-11T17:06:27+00:00",
+  "updated": "2026-11-14T17:10:49+00:00",
   "total": 34,
   "verified": 0,
   "record": {
@@ -24636,7 +24636,7 @@
  },
  "Chris van Heerden": {
   "slug": "chris-van-heerden",
-  "updated": "2026-11-11T17:06:35+00:00",
+  "updated": "2026-11-14T17:10:53+00:00",
   "total": 33,
   "verified": 0,
   "record": {
@@ -24652,7 +24652,7 @@
  },
  "Prince Arron": {
   "slug": "prince-arron",
-  "updated": "2026-11-11T17:06:39+00:00",
+  "updated": "2026-11-14T17:10:56+00:00",
   "total": 29,
   "verified": 0,
   "record": {
@@ -51918,5 +51918,23 @@
   "langs": [
    "en"
   ]
+ },
+ "Vadim Tokarev": {
+  "slug": "vadim-tokarev",
+  "updated": "2026-11-14T17:10:59+00:00",
+  "total": 29,
+  "verified": 0,
+  "record": {
+   "w": 27,
+   "l": 1,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Vitali Boot": {
+  "tried": "2026-11-14T17:10:44+00:00"
  }
 }
