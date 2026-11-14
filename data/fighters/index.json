@@ -26442,7 +26442,7 @@
  },
  "Yunieski Gonzalez": {
   "slug": "yunieski-gonzalez",
-  "updated": "2026-11-11T19:40:55+00:00",
+  "updated": "2026-11-14T19:43:27+00:00",
   "total": 25,
   "verified": 0,
   "record": {
@@ -26487,7 +26487,7 @@
  },
  "Lee Purdy": {
   "slug": "lee-purdy",
-  "updated": "2026-11-11T19:41:07+00:00",
+  "updated": "2026-11-14T19:43:20+00:00",
   "total": 26,
   "verified": 0,
   "record": {
@@ -26502,7 +26502,7 @@
  },
  "Tony Owen (boxer)": {
   "slug": "tony-owen-boxer",
-  "updated": "2026-11-11T19:41:12+00:00",
+  "updated": "2026-11-14T19:43:25+00:00",
   "total": 42,
   "verified": 0,
   "record": {
@@ -52279,6 +52279,24 @@
   "record": {
    "w": 43,
    "l": 7,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "David Vadim": {
+  "tried": "2026-11-14T19:43:16+00:00"
+ },
+ "Carlos González (boxer, born 1972)": {
+  "slug": "carlos-gonzalez-boxer-born-1972",
+  "updated": "2026-11-14T19:43:31+00:00",
+  "total": 64,
+  "verified": 0,
+  "record": {
+   "w": 55,
+   "l": 8,
    "d": 1,
    "nc": 0
   },
