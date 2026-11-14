@@ -18792,7 +18792,7 @@
  },
  "Batyr Akhmedov": {
   "slug": "batyr-akhmedov",
-  "updated": "2026-11-11T07:46:12+00:00",
+  "updated": "2026-11-14T07:50:48+00:00",
   "total": 14,
   "verified": 0,
   "record": {
@@ -18807,7 +18807,7 @@
  },
  "Ali Eren Demirezen": {
   "slug": "ali-eren-demirezen",
-  "updated": "2026-11-11T07:46:15+00:00",
+  "updated": "2026-11-14T07:50:51+00:00",
   "total": 18,
   "verified": 18,
   "record": {
@@ -18824,7 +18824,7 @@
  },
  "Julian Williams (boxer)": {
   "slug": "julian-williams-boxer",
-  "updated": "2026-11-11T07:46:18+00:00",
+  "updated": "2026-11-14T07:50:56+00:00",
   "total": 36,
   "verified": 0,
   "record": {
@@ -49640,5 +49640,36 @@
  },
  "Vadim Mezga": {
   "tried": "2026-11-14T07:45:46+00:00"
+ },
+ "Darnell Wilson": {
+  "slug": "darnell-wilson",
+  "updated": "2026-11-14T07:51:02+00:00",
+  "total": 49,
+  "verified": 0,
+  "record": {
+   "w": 25,
+   "l": 21,
+   "d": 3,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "George Arias (boxer)": {
+  "slug": "george-arias-boxer",
+  "updated": "2026-11-14T07:51:06+00:00",
+  "total": 72,
+  "verified": 0,
+  "record": {
+   "w": 56,
+   "l": 16,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "fr"
+  ]
  }
 }
