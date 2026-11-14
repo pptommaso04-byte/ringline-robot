@@ -26646,7 +26646,7 @@
  },
  "Luke Keeler": {
   "slug": "luke-keeler",
-  "updated": "2026-11-11T19:55:43+00:00",
+  "updated": "2026-11-14T20:01:13+00:00",
   "total": 23,
   "verified": 0,
   "record": {
@@ -26663,7 +26663,7 @@
  },
  "Andrea Scarpa": {
   "slug": "andrea-scarpa",
-  "updated": "2026-11-11T19:55:48+00:00",
+  "updated": "2026-11-14T20:01:18+00:00",
   "total": 33,
   "verified": 0,
   "record": {
@@ -26678,7 +26678,7 @@
  },
  "Usanakorn Thawilsuhannawang": {
   "slug": "usanakorn-thawilsuhannawang",
-  "updated": "2026-11-11T19:55:51+00:00",
+  "updated": "2026-11-14T20:01:23+00:00",
   "total": 31,
   "verified": 0,
   "record": {
@@ -26693,7 +26693,7 @@
  },
  "Alejandro Sanabria": {
   "slug": "alejandro-sanabria",
-  "updated": "2026-11-11T19:55:54+00:00",
+  "updated": "2026-11-14T20:01:26+00:00",
   "total": 37,
   "verified": 0,
   "record": {
@@ -52380,6 +52380,21 @@
    "l": 1,
    "d": 1,
    "nc": 1
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Don Diego Poeder": {
+  "slug": "don-diego-poeder",
+  "updated": "2026-11-14T20:01:30+00:00",
+  "total": 33,
+  "verified": 0,
+  "record": {
+   "w": 27,
+   "l": 6,
+   "d": 0,
+   "nc": 0
   },
   "langs": [
    "en"
