@@ -19979,7 +19979,7 @@
  },
  "Sergey Lipinets": {
   "slug": "sergey-lipinets",
-  "updated": "2026-11-11T09:17:04+00:00",
+  "updated": "2026-11-14T09:20:44+00:00",
   "total": 24,
   "verified": 0,
   "record": {
@@ -19994,7 +19994,7 @@
  },
  "Fatih Keleş": {
   "slug": "fatih-keles",
-  "updated": "2026-11-11T09:17:07+00:00",
+  "updated": "2026-11-14T09:20:47+00:00",
   "total": 15,
   "verified": 0,
   "record": {
@@ -20009,7 +20009,7 @@
  },
  "Victoria Bustos": {
   "slug": "victoria-bustos",
-  "updated": "2026-11-11T09:17:11+00:00",
+  "updated": "2026-11-14T09:20:51+00:00",
   "total": 36,
   "verified": 25,
   "record": {
@@ -20028,7 +20028,7 @@
  },
  "Simon Kean": {
   "slug": "simon-kean",
-  "updated": "2026-11-11T09:17:17+00:00",
+  "updated": "2026-11-14T09:20:54+00:00",
   "total": 25,
   "verified": 0,
   "record": {
@@ -49837,6 +49837,22 @@
   },
   "langs": [
    "en"
+  ]
+ },
+ "Sergey Khomitsky": {
+  "slug": "sergey-khomitsky",
+  "updated": "2026-11-14T09:20:57+00:00",
+  "total": 60,
+  "verified": 0,
+  "record": {
+   "w": 34,
+   "l": 23,
+   "d": 3,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "it"
   ]
  }
 }
