@@ -9916,7 +9916,7 @@
  },
  "Jesús Chávez": {
   "slug": "jesus-chavez",
-  "updated": "2026-11-10T18:27:00+00:00",
+  "updated": "2026-11-14T16:11:12+00:00",
   "total": 52,
   "verified": 0,
   "record": {
@@ -9926,7 +9926,8 @@
    "nc": 0
   },
   "langs": [
-   "en"
+   "en",
+   "it"
   ]
  },
  "Agapito Sánchez": {
@@ -51619,5 +51620,70 @@
  },
  "Aleksey Chudinov": {
   "tried": "2026-11-14T16:01:18+00:00"
+ },
+ "Reynante Jamili": {
+  "slug": "reynante-jamili",
+  "updated": "2026-11-14T16:10:53+00:00",
+  "total": 51,
+  "verified": 0,
+  "record": {
+   "w": 43,
+   "l": 8,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "it",
+   "fr"
+  ]
+ },
+ "Eric Harding": {
+  "slug": "eric-harding",
+  "updated": "2026-11-14T16:11:00+00:00",
+  "total": 28,
+  "verified": 0,
+  "record": {
+   "w": 24,
+   "l": 4,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Nate Jones (boxer)": {
+  "slug": "nate-jones-boxer",
+  "updated": "2026-11-14T16:11:06+00:00",
+  "total": 21,
+  "verified": 0,
+  "record": {
+   "w": 18,
+   "l": 2,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "it",
+   "fr"
+  ]
+ },
+ "Branko Sobot": {
+  "slug": "branko-sobot",
+  "updated": "2026-11-14T16:11:16+00:00",
+  "total": 30,
+  "verified": 0,
+  "record": {
+   "w": 19,
+   "l": 11,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "it"
+  ]
  }
 }
