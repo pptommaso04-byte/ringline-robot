@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-14T20:50:50+00:00",
- "feeds_ok": 48,
- "feeds_failed": 5,
+ "updated": "2026-11-14T20:55:34+00:00",
+ "feeds_ok": 49,
+ "feeds_failed": 4,
  "news": [
   {
    "title": "Boxer Zak Miller breaks silence after gruesome injury with 'blessed' message",
@@ -323,7 +323,7 @@
    "date": "2026-11-14T16:54:25+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 53,
+   "score": 52,
    "sources_n": 1,
    "title_it": "Pacheco mette in palio due cinture in un incontro di qualificazione WBA - Claro Sports",
    "title_es": "Pacheco expone dos cinturones en una eliminatoria AMB - Claro Sports"
@@ -336,7 +336,7 @@
    "date": "2026-11-14T16:54:16+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 28,
+   "score": 27,
    "sources_n": 1,
    "title_it": "Mike Coppinger prosegue il suo capriccio di 24 ore attaccando Enzo Maccarinelli",
    "title_es": "Mike Coppinger continúa su rabieta de 24 horas enfrentándose a Enzo Maccarinelli"
@@ -479,7 +479,7 @@
    "date": "2026-11-14T14:51:34+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 27,
+   "score": 26,
    "sources_n": 1,
    "title_it": "Il prossimo incontro di Itauma",
    "title_es": "Próxima pelea de Itauma"
@@ -518,8 +518,8 @@
    "date": "2026-11-14T14:32:31+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 36,
-   "sources_n": 1,
+   "score": 46,
+   "sources_n": 2,
    "title_it": "Pugile inglese, 18 anni, bandito dai Campionati del mondo dopo uno straordinario errore nei test sessuali: l'adolescente \"rotto\" rivela come il suo sogno sia andato in frantumi dopo che la squadra si è dimenticata di dimostrare che era un uomo",
    "title_es": "Boxeador inglés de 18 años, excluido del Campeonato Mundial después de una extraordinaria confusión en una prueba de sexo: un adolescente 'roto' revela cómo su sueño se hizo añicos después de que el equipo se olvidó de demostrar que era un hombre"
   },
@@ -954,7 +954,7 @@
    "date": "2026-11-14T08:54:24+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 24,
+   "score": 23,
    "sources_n": 1,
    "title_it": "Clemente Russo torna a 44 anni: perché la boxe punta sui campioni per conquistare nuovo pubblico - Forbes Italia",
    "title_es": "Clemente Russo vuelve a los 44 años: por qué el boxeo apuesta por los campeones para conquistar a un nuevo público - Forbes Italia"
@@ -1072,6 +1072,19 @@
    "sources_n": 1,
    "title_it": "Tyson Fury: il maestro del microfono!",
    "title_es": "Tyson Fury: ¡El maestro del micrófono!"
+  },
+  {
+   "title": "George Francis: Sex-test error meant boxer missed U19 World Championships - BBC",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kUW9IUHRJSFFMeGFMdlNaSlFUTlBpU3JXSWdxT0ZreU4zbjBjUGxzempwSTdxeWJxOVFXaHdoakRTSTRxUjllMm8xWEdxYTBob3d5RW9NWVRSX2hncEJhTjJCYWxTdw?oc=5",
+   "source": "Google News: boxing",
+   "lang": "en",
+   "date": "2026-11-14T07:43:44+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 43,
+   "sources_n": 2,
+   "title_it": "George Francis: un errore nel test sul sesso ha fatto sì che il pugile perdesse i Campionati del mondo U19 - BBC",
+   "title_es": "George Francis: un error en la prueba de sexo hizo que el boxeador se perdiera el Campeonato Mundial Sub-19 - BBC"
   },
   {
    "title": "Abdullah Mason Dares Schofield to Seek WBA Unification Permit",
@@ -1814,7 +1827,7 @@
    "date": "2026-11-13T16:52:42+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 91,
+   "score": 90,
    "sources_n": 8,
    "title_it": "Citazioni dalla conferenza stampa di Diego Pacheco vs Darius Fulghum e pronostico dell'incontro",
    "title_es": "Citas de la rueda de prensa y pronóstico del combate de Diego Pacheco contra Darius Fulghum"
@@ -2226,7 +2239,7 @@
     "Anthony Joshua",
     "Oleksandr Usyk"
    ],
-   "score": 98,
+   "score": 97,
    "sources_n": 12,
    "title_it": "Anthony Joshua spiega quale consiglio gli ha dato Oleksandr Usyk per l'incontro con Tyson Fury",
    "title_es": "Anthony Joshua explica qué consejo le dio Oleksandr Usyk para el combate contra Tyson Fury"
@@ -2802,7 +2815,7 @@
    "date": "2026-11-12T14:55:31+00:00",
    "status": "rumor",
    "boxers": [],
-   "score": 88,
+   "score": 87,
    "sources_n": 8,
    "title_it": "La WBA ordina l'incontro tra Teofimo Lopez e Jack Catterall mentre sono in corso le trattative con Ryan Garcia",
    "title_es": "La WBA ordena el combate entre Teófimo López y Jack Catterall en medio de las negociaciones con Ryan García"
@@ -4037,19 +4050,6 @@
    "sources_n": 2,
    "title_it": "Il WBC presenta le sue classifiche ufficiali dopo aver ascoltato pugili e promotori ad Acapulco - World Boxing Council",
    "title_es": "El WBC presenta sus ratings oficiales tras escuchar a boxeadores y promotores en Acapulco - World Boxing Council"
-  },
-  {
-   "title": "Diego Pacheco vs. Darius Fulghum full fight card, start time, odds, how to watch Saturday's fight",
-   "link": "https://sports.yahoo.com/boxing/article/diego-pacheco-vs-darius-fulghum-full-fight-card-start-time-odds-how-to-watch-saturdays-fight-003757668.html",
-   "source": "Yahoo Sports Boxing",
-   "lang": "en",
-   "date": "2026-11-11T01:39:07+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 65,
-   "sources_n": 8,
-   "title_it": "Scheda completa dell'incontro tra Diego Pacheco e Darius Fulghum, ora di inizio, quote, come guardare l'incontro di sabato",
-   "title_es": "Cartelera completa de Diego Pacheco vs.Darius Fulghum, hora de inicio, probabilidades, cómo ver la pelea del sábado"
   }
  ]
 }
