@@ -13724,7 +13724,7 @@
  },
  "Sam Hyde (boxer)": {
   "slug": "sam-hyde-boxer",
-  "updated": "2026-11-11T00:11:00+00:00",
+  "updated": "2026-11-14T00:16:11+00:00",
   "total": 18,
   "verified": 0,
   "record": {
@@ -13739,7 +13739,7 @@
  },
  "Eduardo Ramírez (boxer)": {
   "slug": "eduardo-ramirez-boxer",
-  "updated": "2026-11-11T00:11:07+00:00",
+  "updated": "2026-11-14T00:16:16+00:00",
   "total": 36,
   "verified": 0,
   "record": {
@@ -48709,5 +48709,39 @@
  },
  "Dairo Esalas": {
   "tried": "2026-11-14T00:01:10+00:00"
+ },
+ "Randie Carver": {
+  "tried": "2026-11-14T00:16:05+00:00"
+ },
+ "Rico Hoye": {
+  "slug": "rico-hoye",
+  "updated": "2026-11-14T00:16:22+00:00",
+  "total": 28,
+  "verified": 0,
+  "record": {
+   "w": 24,
+   "l": 4,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Leonard Bundu": {
+  "slug": "leonard-bundu",
+  "updated": "2026-11-14T00:16:29+00:00",
+  "total": 37,
+  "verified": 0,
+  "record": {
+   "w": 33,
+   "l": 2,
+   "d": 2,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "fr"
+  ]
  }
 }
