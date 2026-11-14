@@ -18777,7 +18777,7 @@
  },
  "Vladimir Nikitin (boxer)": {
   "slug": "vladimir-nikitin-boxer",
-  "updated": "2026-11-11T07:41:20+00:00",
+  "updated": "2026-11-14T07:45:54+00:00",
   "total": 9,
   "verified": 0,
   "record": {
@@ -49616,5 +49616,29 @@
   "langs": [
    "en"
   ]
+ },
+ "Jeyhun Abiyev": {
+  "tried": "2026-11-14T07:45:46+00:00"
+ },
+ "Fola Okesola": {
+  "tried": "2026-11-14T07:45:46+00:00"
+ },
+ "Riku Immonen": {
+  "slug": "riku-immonen",
+  "updated": "2026-11-14T07:46:02+00:00",
+  "total": 47,
+  "verified": 0,
+  "record": {
+   "w": 38,
+   "l": 5,
+   "d": 4,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Vadim Mezga": {
+  "tried": "2026-11-14T07:45:46+00:00"
  }
 }
