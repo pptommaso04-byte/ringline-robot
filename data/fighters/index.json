@@ -26796,7 +26796,7 @@
  },
  "Magomedrasul Majidov": {
   "slug": "magomedrasul-majidov",
-  "updated": "2026-11-11T20:16:01+00:00",
+  "updated": "2026-11-14T20:20:05+00:00",
   "total": 4,
   "verified": 0,
   "record": {
@@ -26816,7 +26816,7 @@
  },
  "Denis Boytsov": {
   "slug": "denis-boytsov",
-  "updated": "2026-11-11T20:16:05+00:00",
+  "updated": "2026-11-14T20:20:08+00:00",
   "total": 37,
   "verified": 37,
   "record": {
@@ -26832,7 +26832,7 @@
  },
  "Chris Evangelou": {
   "slug": "chris-evangelou",
-  "updated": "2026-11-11T20:16:09+00:00",
+  "updated": "2026-11-14T20:20:10+00:00",
   "total": 16,
   "verified": 0,
   "record": {
@@ -52522,5 +52522,23 @@
  },
  "Hasan Al": {
   "tried": "2026-11-14T20:15:50+00:00"
+ },
+ "Syd Vanderpool": {
+  "slug": "syd-vanderpool",
+  "updated": "2026-11-14T20:20:13+00:00",
+  "total": 11,
+  "verified": 0,
+  "record": {
+   "w": 8,
+   "l": 3,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Sendai Tanaka": {
+  "tried": "2026-11-14T20:20:00+00:00"
  }
 }
