@@ -23756,7 +23756,7 @@
  },
  "Jeff Horn": {
   "slug": "jeff-horn",
-  "updated": "2026-11-11T15:40:52+00:00",
+  "updated": "2026-11-14T15:45:49+00:00",
   "total": 24,
   "verified": 0,
   "record": {
@@ -23774,7 +23774,7 @@
  },
  "José Espinoza (boxer)": {
   "slug": "jose-espinoza-boxer",
-  "updated": "2026-11-11T15:40:59+00:00",
+  "updated": "2026-11-14T15:45:52+00:00",
   "total": 29,
   "verified": 0,
   "record": {
@@ -51476,5 +51476,26 @@
  },
  "Alexis Rubalcaba": {
   "tried": "2026-11-14T15:40:45+00:00"
+ },
+ "Ariel Hernández (boxer)": {
+  "tried": "2026-11-14T15:45:43+00:00"
+ },
+ "David Tua": {
+  "slug": "david-tua",
+  "updated": "2026-11-14T15:45:58+00:00",
+  "total": 59,
+  "verified": 0,
+  "record": {
+   "w": 52,
+   "l": 5,
+   "d": 2,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Dharmendra Singh Yadav": {
+  "tried": "2026-11-14T15:45:43+00:00"
  }
 }
