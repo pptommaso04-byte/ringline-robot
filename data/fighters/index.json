@@ -52540,5 +52540,69 @@
  },
  "Sendai Tanaka": {
   "tried": "2026-11-14T20:20:00+00:00"
+ },
+ "Samson Poʻuha": {
+  "slug": "samson-po-uha",
+  "updated": "2026-11-14T20:20:45+00:00",
+  "total": 26,
+  "verified": 0,
+  "record": {
+   "w": 20,
+   "l": 5,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Sonya Emery": {
+  "tried": "2026-11-14T20:20:41+00:00"
+ },
+ "Sumya Anani": {
+  "slug": "sumya-anani",
+  "updated": "2026-11-14T20:20:51+00:00",
+  "total": 29,
+  "verified": 0,
+  "record": {
+   "w": 25,
+   "l": 3,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "fr"
+  ]
+ },
+ "Tarick Salmaci": {
+  "slug": "tarick-salmaci",
+  "updated": "2026-11-14T20:20:55+00:00",
+  "total": 22,
+  "verified": 0,
+  "record": {
+   "w": 19,
+   "l": 3,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Julien Lorcy": {
+  "slug": "julien-lorcy",
+  "updated": "2026-11-14T20:21:00+00:00",
+  "total": 62,
+  "verified": 0,
+  "record": {
+   "w": 56,
+   "l": 4,
+   "d": 2,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
