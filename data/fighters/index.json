@@ -21112,7 +21112,7 @@
  },
  "Valentino Manfredonia": {
   "slug": "valentino-manfredonia",
-  "updated": "2026-11-11T10:50:52+00:00",
+  "updated": "2026-11-14T10:55:37+00:00",
   "total": 2,
   "verified": 0,
   "record": {
@@ -21128,7 +21128,7 @@
  },
  "Qamil Balla": {
   "slug": "qamil-balla",
-  "updated": "2026-11-11T10:50:56+00:00",
+  "updated": "2026-11-14T10:55:39+00:00",
   "total": 18,
   "verified": 0,
   "record": {
@@ -21143,7 +21143,7 @@
  },
  "Terry Flanagan (boxer)": {
   "slug": "terry-flanagan-boxer",
-  "updated": "2026-11-11T10:51:02+00:00",
+  "updated": "2026-11-14T10:55:42+00:00",
   "total": 38,
   "verified": 0,
   "record": {
@@ -21162,7 +21162,7 @@
  },
  "Jonathan Guzmán": {
   "slug": "jonathan-guzman",
-  "updated": "2026-11-11T10:51:10+00:00",
+  "updated": "2026-11-14T10:55:46+00:00",
   "total": 30,
   "verified": 0,
   "record": {
@@ -50139,5 +50139,21 @@
  },
  "Muhammad Abdullaev": {
   "tried": "2026-11-14T10:50:43+00:00"
+ },
+ "Cătălin Zmărăndescu": {
+  "slug": "catalin-zmarandescu",
+  "updated": "2026-11-14T10:55:49+00:00",
+  "total": 14,
+  "verified": 0,
+  "record": {
+   "w": 11,
+   "l": 1,
+   "d": 1,
+   "nc": 1
+  },
+  "langs": [
+   "en",
+   "fr"
+  ]
  }
 }
