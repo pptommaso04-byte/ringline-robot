@@ -20996,7 +20996,7 @@
  },
  "Mateo Handig": {
   "slug": "mateo-handig",
-  "updated": "2026-11-11T10:40:50+00:00",
+  "updated": "2026-11-14T10:45:48+00:00",
   "total": 42,
   "verified": 0,
   "record": {
@@ -21011,7 +21011,7 @@
  },
  "Sarah Mahfoud": {
   "slug": "sarah-mahfoud",
-  "updated": "2026-11-11T10:40:53+00:00",
+  "updated": "2026-11-14T10:45:51+00:00",
   "total": 16,
   "verified": 0,
   "record": {
@@ -21031,7 +21031,7 @@
  },
  "Herman Terrado": {
   "slug": "herman-terrado",
-  "updated": "2026-11-11T10:40:58+00:00",
+  "updated": "2026-11-14T10:45:54+00:00",
   "total": 1,
   "verified": 0,
   "record": {
@@ -50118,5 +50118,23 @@
   "langs": [
    "en"
   ]
+ },
+ "Volodymyr Virchis": {
+  "slug": "volodymyr-virchis",
+  "updated": "2026-11-14T10:45:56+00:00",
+  "total": 28,
+  "verified": 0,
+  "record": {
+   "w": 26,
+   "l": 2,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Ramaz Paliani": {
+  "tried": "2026-11-14T10:45:44+00:00"
  }
 }
