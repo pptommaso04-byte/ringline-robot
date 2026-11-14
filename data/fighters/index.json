@@ -21665,7 +21665,7 @@
  },
  "Apichet Petchmanee": {
   "slug": "apichet-petchmanee",
-  "updated": "2026-11-11T11:35:44+00:00",
+  "updated": "2026-11-14T11:40:54+00:00",
   "total": 17,
   "verified": 0,
   "record": {
@@ -21680,7 +21680,7 @@
  },
  "Dan Azeez": {
   "slug": "dan-azeez",
-  "updated": "2026-11-11T11:35:49+00:00",
+  "updated": "2026-11-14T11:40:56+00:00",
   "total": 26,
   "verified": 0,
   "record": {
@@ -21695,7 +21695,7 @@
  },
  "Haithem Laamouz": {
   "slug": "haithem-laamouz",
-  "updated": "2026-11-11T11:35:53+00:00",
+  "updated": "2026-11-14T11:40:59+00:00",
   "total": 18,
   "verified": 0,
   "record": {
@@ -21710,7 +21710,7 @@
  },
  "Luke Watkins": {
   "slug": "luke-watkins",
-  "updated": "2026-11-11T11:36:00+00:00",
+  "updated": "2026-11-14T11:41:03+00:00",
   "total": 19,
   "verified": 0,
   "record": {
@@ -50327,5 +50327,20 @@
  },
  "John Sem": {
   "tried": "2026-11-14T11:31:00+00:00"
+ },
+ "Héctor Javier Velazco": {
+  "slug": "hector-javier-velazco",
+  "updated": "2026-11-14T11:41:07+00:00",
+  "total": 47,
+  "verified": 0,
+  "record": {
+   "w": 37,
+   "l": 9,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
