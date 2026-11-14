@@ -25205,7 +25205,7 @@
  },
  "Tomomi Takano": {
   "slug": "tomomi-takano",
-  "updated": "2026-11-11T17:55:36+00:00",
+  "updated": "2026-11-14T18:01:15+00:00",
   "total": 23,
   "verified": 11,
   "record": {
@@ -25221,7 +25221,7 @@
  },
  "Mercito Gesta": {
   "slug": "mercito-gesta",
-  "updated": "2026-11-11T17:55:39+00:00",
+  "updated": "2026-11-14T18:01:20+00:00",
   "total": 41,
   "verified": 0,
   "record": {
@@ -52030,5 +52030,39 @@
   "langs": [
    "en"
   ]
+ },
+ "Juan Domingo Córdoba": {
+  "slug": "juan-domingo-cordoba",
+  "updated": "2026-11-14T18:01:25+00:00",
+  "total": 43,
+  "verified": 0,
+  "record": {
+   "w": 34,
+   "l": 6,
+   "d": 3,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Justin Juuko": {
+  "slug": "justin-juuko",
+  "updated": "2026-11-14T18:01:30+00:00",
+  "total": 58,
+  "verified": 0,
+  "record": {
+   "w": 45,
+   "l": 12,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "it"
+  ]
+ },
+ "Kerron Speid": {
+  "tried": "2026-11-14T18:01:10+00:00"
  }
 }
