@@ -23356,7 +23356,7 @@
  },
  "George Groves (boxer)": {
   "slug": "george-groves-boxer",
-  "updated": "2026-11-11T15:11:03+00:00",
+  "updated": "2026-11-14T15:15:03+00:00",
   "total": 32,
   "verified": 0,
   "record": {
@@ -23374,7 +23374,7 @@
  },
  "Nikolay Sazhin": {
   "slug": "nikolay-sazhin",
-  "updated": "2026-11-11T15:11:08+00:00",
+  "updated": "2026-11-14T15:15:06+00:00",
   "total": 4,
   "verified": 0,
   "record": {
@@ -23389,7 +23389,7 @@
  },
  "Cecilia Comunales": {
   "slug": "cecilia-comunales",
-  "updated": "2026-11-11T15:11:11+00:00",
+  "updated": "2026-11-14T15:15:10+00:00",
   "total": 15,
   "verified": 0,
   "record": {
@@ -23404,7 +23404,7 @@
  },
  "Yazmín Rivas": {
   "slug": "yazmin-rivas",
-  "updated": "2026-11-11T15:11:13+00:00",
+  "updated": "2026-11-14T15:15:14+00:00",
   "total": 58,
   "verified": 0,
   "record": {
@@ -51376,6 +51376,22 @@
   },
   "langs": [
    "en"
+  ]
+ },
+ "Arturo Gatti": {
+  "slug": "arturo-gatti",
+  "updated": "2026-11-14T15:15:20+00:00",
+  "total": 49,
+  "verified": 0,
+  "record": {
+   "w": 40,
+   "l": 9,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "es"
   ]
  }
 }
