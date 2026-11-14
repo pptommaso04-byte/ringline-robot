@@ -23020,7 +23020,7 @@
  },
  "Joseph Duffy (fighter)": {
   "slug": "joseph-duffy-fighter",
-  "updated": "2026-11-11T14:40:57+00:00",
+  "updated": "2026-11-14T14:41:03+00:00",
   "total": 7,
   "verified": 0,
   "record": {
@@ -51295,5 +51295,42 @@
  },
  "Richard Evatt": {
   "tried": "2026-11-14T14:36:14+00:00"
+ },
+ "Wayne Alexander (boxer)": {
+  "tried": "2026-11-14T14:40:57+00:00"
+ },
+ "Jason Smith (boxer)": {
+  "slug": "jason-smith-boxer",
+  "updated": "2026-11-14T14:41:10+00:00",
+  "total": 32,
+  "verified": 0,
+  "record": {
+   "w": 28,
+   "l": 4,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "es"
+  ]
+ },
+ "Paul Murdoch": {
+  "slug": "paul-murdoch",
+  "updated": "2026-11-14T14:41:15+00:00",
+  "total": 34,
+  "verified": 0,
+  "record": {
+   "w": 26,
+   "l": 7,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Ross Thompson (boxer)": {
+  "tried": "2026-11-14T14:40:57+00:00"
  }
 }
