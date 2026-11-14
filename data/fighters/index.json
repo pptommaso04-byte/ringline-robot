@@ -16419,7 +16419,7 @@
  },
  "Elhem Mekhaled": {
   "slug": "elhem-mekhaled",
-  "updated": "2026-11-11T04:10:51+00:00",
+  "updated": "2026-11-14T04:16:05+00:00",
   "total": 21,
   "verified": 0,
   "record": {
@@ -16434,7 +16434,7 @@
  },
  "Javier Mendoza (boxer)": {
   "slug": "javier-mendoza-boxer",
-  "updated": "2026-11-11T04:10:54+00:00",
+  "updated": "2026-11-14T04:16:11+00:00",
   "total": 30,
   "verified": 0,
   "record": {
@@ -48921,5 +48921,38 @@
  },
  "Dean Francis": {
   "tried": "2026-11-14T01:05:39+00:00"
+ },
+ "Michael Jones (boxer)": {
+  "slug": "michael-jones-boxer",
+  "updated": "2026-11-14T04:16:18+00:00",
+  "total": 27,
+  "verified": 0,
+  "record": {
+   "w": 24,
+   "l": 3,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Jon Thaxton": {
+  "slug": "jon-thaxton",
+  "updated": "2026-11-14T04:16:23+00:00",
+  "total": 45,
+  "verified": 0,
+  "record": {
+   "w": 34,
+   "l": 11,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Bobby Vanzie": {
+  "tried": "2026-11-14T04:15:59+00:00"
  }
 }
