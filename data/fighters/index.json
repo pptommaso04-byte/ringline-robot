@@ -24561,7 +24561,7 @@
  },
  "Thomas Williams Jr.": {
   "slug": "thomas-williams-jr",
-  "updated": "2026-11-11T17:01:55+00:00",
+  "updated": "2026-11-14T17:06:19+00:00",
   "total": 24,
   "verified": 0,
   "record": {
@@ -24582,7 +24582,7 @@
  },
  "Yoann Kongolo": {
   "slug": "yoann-kongolo",
-  "updated": "2026-11-11T17:02:01+00:00",
+  "updated": "2026-11-14T17:06:23+00:00",
   "total": 27,
   "verified": 0,
   "record": {
@@ -24597,7 +24597,7 @@
  },
  "Rau'shee Warren": {
   "slug": "rau-shee-warren",
-  "updated": "2026-11-11T17:02:05+00:00",
+  "updated": "2026-11-14T17:06:28+00:00",
   "total": 24,
   "verified": 0,
   "record": {
@@ -51886,5 +51886,37 @@
  },
  "Tommy Waite": {
   "tried": "2026-11-14T17:01:51+00:00"
+ },
+ "Antonio Davis (boxer)": {
+  "slug": "antonio-davis-boxer",
+  "updated": "2026-11-14T17:06:35+00:00",
+  "total": 55,
+  "verified": 0,
+  "record": {
+   "w": 49,
+   "l": 6,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "it",
+   "fr"
+  ]
+ },
+ "Tim Woolgar": {
+  "slug": "tim-woolgar",
+  "updated": "2026-11-14T17:06:38+00:00",
+  "total": 5,
+  "verified": 0,
+  "record": {
+   "w": 4,
+   "l": 1,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
