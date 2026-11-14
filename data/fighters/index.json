@@ -23798,7 +23798,7 @@
  },
  "Carlos Sánchez (boxer)": {
   "slug": "carlos-sanchez-boxer",
-  "updated": "2026-11-11T15:46:01+00:00",
+  "updated": "2026-11-14T15:51:34+00:00",
   "total": 28,
   "verified": 0,
   "record": {
@@ -23829,7 +23829,7 @@
  },
  "Thomas Oosthuizen": {
   "slug": "thomas-oosthuizen",
-  "updated": "2026-11-11T15:51:15+00:00",
+  "updated": "2026-11-14T15:51:38+00:00",
   "total": 34,
   "verified": 0,
   "record": {
@@ -23847,7 +23847,7 @@
  },
  "Sharif Bogere": {
   "slug": "sharif-bogere",
-  "updated": "2026-11-11T15:51:22+00:00",
+  "updated": "2026-11-14T15:51:42+00:00",
   "total": 33,
   "verified": 0,
   "record": {
@@ -51497,5 +51497,23 @@
  },
  "Dharmendra Singh Yadav": {
   "tried": "2026-11-14T15:45:43+00:00"
+ },
+ "Okello Peter": {
+  "tried": "2026-11-14T15:51:27+00:00"
+ },
+ "Daniel Reyes (boxer)": {
+  "slug": "daniel-reyes-boxer",
+  "updated": "2026-11-14T15:51:50+00:00",
+  "total": 48,
+  "verified": 0,
+  "record": {
+   "w": 40,
+   "l": 7,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
