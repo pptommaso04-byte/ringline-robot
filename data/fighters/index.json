@@ -26847,7 +26847,7 @@
  },
  "Brad Solomon": {
   "slug": "brad-solomon",
-  "updated": "2026-11-11T20:59:16+00:00",
+  "updated": "2026-11-14T21:01:28+00:00",
   "total": 34,
   "verified": 0,
   "record": {
@@ -26862,7 +26862,7 @@
  },
  "Robert Alfonso": {
   "slug": "robert-alfonso",
-  "updated": "2026-11-11T20:59:20+00:00",
+  "updated": "2026-11-14T21:01:21+00:00",
   "total": 21,
   "verified": 0,
   "record": {
@@ -26883,7 +26883,7 @@
  },
  "Alfonso Blanco (boxer)": {
   "slug": "alfonso-blanco-boxer",
-  "updated": "2026-11-11T20:59:27+00:00",
+  "updated": "2026-11-14T21:01:25+00:00",
   "total": 13,
   "verified": 0,
   "record": {
@@ -52897,6 +52897,36 @@
   "record": {
    "w": 43,
    "l": 8,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Vernon Forrest": {
+  "slug": "vernon-forrest",
+  "updated": "2026-11-14T21:01:32+00:00",
+  "total": 45,
+  "verified": 0,
+  "record": {
+   "w": 41,
+   "l": 3,
+   "d": 0,
+   "nc": 1
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Dale Brown (boxer)": {
+  "slug": "dale-brown-boxer",
+  "updated": "2026-11-14T21:01:36+00:00",
+  "total": 42,
+  "verified": 0,
+  "record": {
+   "w": 35,
+   "l": 6,
    "d": 1,
    "nc": 0
   },
