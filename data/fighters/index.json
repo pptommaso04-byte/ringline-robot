@@ -20735,7 +20735,7 @@
  },
  "Omar Figueroa Jr.": {
   "slug": "omar-figueroa-jr",
-  "updated": "2026-11-11T10:20:58+00:00",
+  "updated": "2026-11-14T10:24:13+00:00",
   "total": 32,
   "verified": 31,
   "record": {
@@ -20751,7 +20751,7 @@
  },
  "Jesse Hart": {
   "slug": "jesse-hart",
-  "updated": "2026-11-11T10:21:03+00:00",
+  "updated": "2026-11-14T10:24:20+00:00",
   "total": 31,
   "verified": 0,
   "record": {
@@ -20766,7 +20766,7 @@
  },
  "Jessie Vargas": {
   "slug": "jessie-vargas",
-  "updated": "2026-11-11T10:21:08+00:00",
+  "updated": "2026-11-14T10:24:26+00:00",
   "total": 35,
   "verified": 0,
   "record": {
@@ -50015,6 +50015,38 @@
    "en",
    "it",
    "fr"
+  ]
+ },
+ "Fres Oquendo": {
+  "slug": "fres-oquendo",
+  "updated": "2026-11-14T10:24:29+00:00",
+  "total": 45,
+  "verified": 0,
+  "record": {
+   "w": 37,
+   "l": 8,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "es",
+   "fr"
+  ]
+ },
+ "David Reid (boxer)": {
+  "slug": "david-reid-boxer",
+  "updated": "2026-11-14T10:24:33+00:00",
+  "total": 19,
+  "verified": 0,
+  "record": {
+   "w": 17,
+   "l": 2,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
   ]
  }
 }
