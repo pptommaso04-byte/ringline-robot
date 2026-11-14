@@ -17809,7 +17809,7 @@
  },
  "Josh Warrington": {
   "slug": "josh-warrington",
-  "updated": "2026-11-11T06:05:38+00:00",
+  "updated": "2026-11-14T06:11:19+00:00",
   "total": 38,
   "verified": 0,
   "record": {
@@ -17834,7 +17834,7 @@
  },
  "Demsey McKean": {
   "slug": "demsey-mckean",
-  "updated": "2026-11-11T06:05:45+00:00",
+  "updated": "2026-11-14T06:11:23+00:00",
   "total": 27,
   "verified": 0,
   "record": {
@@ -49232,5 +49232,39 @@
  },
  "Assuério Silva": {
   "tried": "2026-11-14T06:05:31+00:00"
+ },
+ "Emmanuel Nwodo": {
+  "slug": "emmanuel-nwodo",
+  "updated": "2026-11-14T06:11:26+00:00",
+  "total": 26,
+  "verified": 0,
+  "record": {
+   "w": 21,
+   "l": 5,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Miguel Hernandez (boxer)": {
+  "slug": "miguel-hernandez-boxer",
+  "updated": "2026-11-14T06:11:31+00:00",
+  "total": 52,
+  "verified": 0,
+  "record": {
+   "w": 43,
+   "l": 8,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "pt"
+  ]
+ },
+ "Mikey Burnett": {
+  "tried": "2026-11-14T06:11:11+00:00"
  }
 }
