@@ -2165,7 +2165,7 @@
  },
  "Beibis Mendoza": {
   "slug": "beibis-mendoza",
-  "updated": "2026-11-10T03:05:49+00:00",
+  "updated": "2026-11-14T07:16:03+00:00",
   "total": 34,
   "verified": 0,
   "record": {
@@ -18451,7 +18451,7 @@
  },
  "Byron Rojas": {
   "slug": "byron-rojas",
-  "updated": "2026-11-11T07:11:12+00:00",
+  "updated": "2026-11-14T07:15:55+00:00",
   "total": 36,
   "verified": 0,
   "record": {
@@ -49523,5 +49523,38 @@
  },
  "Eromosele Albert": {
   "tried": "2026-11-14T07:10:45+00:00"
+ },
+ "Cassius Baloyi": {
+  "slug": "cassius-baloyi",
+  "updated": "2026-11-14T07:15:58+00:00",
+  "total": 46,
+  "verified": 0,
+  "record": {
+   "w": 37,
+   "l": 8,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Serhiy Kovhanko": {
+  "tried": "2026-11-14T07:15:51+00:00"
+ },
+ "Sornpichai Kratingdaenggym": {
+  "slug": "sornpichai-kratingdaenggym",
+  "updated": "2026-11-14T07:16:06+00:00",
+  "total": 9,
+  "verified": 0,
+  "record": {
+   "w": 6,
+   "l": 3,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
