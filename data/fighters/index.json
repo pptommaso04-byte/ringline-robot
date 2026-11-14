@@ -22766,7 +22766,7 @@
  },
  "Chris Jenkins (boxer)": {
   "slug": "chris-jenkins-boxer",
-  "updated": "2026-11-11T13:21:04+00:00",
+  "updated": "2026-11-14T13:25:41+00:00",
   "total": 31,
   "verified": 0,
   "record": {
@@ -22781,7 +22781,7 @@
  },
  "Mario Rodríguez (boxer)": {
   "slug": "mario-rodriguez-boxer",
-  "updated": "2026-11-11T13:21:09+00:00",
+  "updated": "2026-11-14T13:25:46+00:00",
   "total": 46,
   "verified": 0,
   "record": {
@@ -22792,6 +22792,7 @@
   },
   "langs": [
    "en",
+   "fr",
    "pt"
   ]
  },
@@ -50726,5 +50727,26 @@
    "en",
    "fr"
   ]
+ },
+ "Jean-François Bergeron (boxer)": {
+  "slug": "jean-francois-bergeron-boxer",
+  "updated": "2026-11-14T13:25:50+00:00",
+  "total": 29,
+  "verified": 0,
+  "record": {
+   "w": 27,
+   "l": 2,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Daniel Guzmán (actor)": {
+  "tried": "2026-11-14T13:25:35+00:00"
+ },
+ "Roger Pettersson (boxer)": {
+  "tried": "2026-11-14T13:25:35+00:00"
  }
 }
