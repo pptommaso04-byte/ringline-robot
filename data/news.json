@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T03:01:22+00:00",
+ "updated": "2026-11-14T03:05:50+00:00",
  "feeds_ok": 48,
  "feeds_failed": 5,
  "news": [
@@ -89,8 +89,8 @@
    "date": "2026-11-14T00:00:48+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 28,
-   "sources_n": 1,
+   "score": 38,
+   "sources_n": 2,
    "title_it": "Pugilato giovanile: la saviglianese Nisrine Kerbal è vicecampionessa italiana Under 15 - Il Corriere di Alba Bra",
    "title_es": "Boxeo juvenil: la saviglianesa Nisrine Kerbal es subcampeona de Italia sub-15 - Il Corriere di Alba Bra"
   },
@@ -141,8 +141,8 @@
    "date": "2026-11-13T23:09:53+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 38,
-   "sources_n": 2,
+   "score": 48,
+   "sources_n": 3,
    "title_it": "Boxe, Antonio Moffa è campione italiano Under 15: trionfo a Foggia per il giovane atleta di Mercato San Severino - Salerno In Web",
    "title_es": "Boxeo, Antonio Moffa es campeón de Italia Sub 15: triunfo en Foggia para el joven atleta del Mercato San Severino - Salerno In Web"
   },
@@ -735,7 +735,7 @@
    "date": "2026-11-13T15:05:40+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 34,
+   "score": 33,
    "sources_n": 2,
    "title_it": "Pugilato. Il marcianisano Tommaso Valentino argento ai Campionati Italiani under 15 - Goldwebtv",
    "title_es": "Boxeo. El marcianisano Tommaso Valentino, plata en los Campeonatos de Italia sub-15 - Goldwebtv"
@@ -809,6 +809,19 @@
    "sources_n": 13,
    "title_it": "Il destino di Anthony Joshua contro Tyson Fury è nelle sue mani, non in quelle di Ben Davison",
    "title_es": "El destino de Anthony Joshua contra Tyson Fury está en sus manos, no en las de Ben Davison."
+  },
+  {
+   "title": "Every boxing fight we know about in December 2026",
+   "link": "https://britishboxingnews.co.uk/blogs/every-boxing-fight-we-know-about-in-december-2026/",
+   "source": "British Boxing News",
+   "lang": "en",
+   "date": "2026-11-13T13:28:15+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 23,
+   "sources_n": 1,
+   "title_it": "Ogni incontro di boxe di cui siamo a conoscenza nel dicembre 2026",
+   "title_es": "Cada pelea de boxeo que conocemos en diciembre de 2026"
   },
   {
    "title": "Eddie Hearn reveals Naoya Inoue demands regarding Bam Rodriguez showdown",
@@ -1039,7 +1052,7 @@
    "date": "2026-11-13T11:04:38+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 57,
+   "score": 56,
    "sources_n": 1,
    "title_it": "Sono iniziati i preparativi di Tim Tszyu in vista della sua sfida per il titolo dei pesi medi WBA 👀🇦🇺",
    "title_es": "Han comenzado los preparativos de Tim Tszyu de cara a su combate por el título del peso medio de la WBA 👀🇦🇺"
@@ -1073,6 +1086,19 @@
    "sources_n": 16,
    "title_it": "Anthony Joshua spiega quale consiglio gli ha dato Oleksandr Usyk per l'incontro con Tyson Fury",
    "title_es": "Anthony Joshua explica qué consejo le dio Oleksandr Usyk para el combate contra Tyson Fury"
+  },
+  {
+   "title": "Unbeaten Brit challenges for vacant IBO world flyweight title in November",
+   "link": "https://britishboxingnews.co.uk/ibo/unbeaten-brit-challenges-ibo-world/",
+   "source": "British Boxing News",
+   "lang": "en",
+   "date": "2026-11-13T10:40:02+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 39,
+   "sources_n": 1,
+   "title_it": "L'imbattibile sfida britannica per il vacante titolo mondiale dei pesi mosca IBO a novembre",
+   "title_es": "El británico invicto desafía el título vacante mundial peso mosca IBO en noviembre"
   },
   {
    "title": "Zelfa Barrett Sees Three-Fight Route To World Title, Starting With Gwynne - MiddleEasy",
@@ -1135,6 +1161,19 @@
    "title_es": "Entradas para el combate Tyson Fury vs. Anthony Joshua por 275 £ por persona, con bebidas gratis incluidas en el paquete VIP de la velada de boxeo"
   },
   {
+   "title": "The 10 greatest super middleweights of all time",
+   "link": "https://britishboxingnews.co.uk/blogs/the-10-greatest-super-middleweights-of-all-time/",
+   "source": "British Boxing News",
+   "lang": "en",
+   "date": "2026-11-13T10:18:57+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 21,
+   "sources_n": 1,
+   "title_it": "I 10 più grandi supermedi di tutti i tempi",
+   "title_es": "Los 10 mejores pesos súper medianos de todos los tiempos"
+  },
+  {
    "title": "Jake Paul agrees to winner-takes-all bet with kickboxing legend Cedric Doumbe ahead of Christmas Eve fight",
    "link": "https://www.thesun.co.uk/sport/41003691/jake-paul-agrees-winner-takes-all-bet-cedric-doumbe/",
    "source": "The Sun Boxing",
@@ -1146,6 +1185,19 @@
    "sources_n": 6,
    "title_it": "Jake Paul accetta una scommessa \"il vincitore prende tutto\" con la leggenda del kickboxing Cedric Doumbe prima dell'incontro della vigilia di Natale",
    "title_es": "Jake Paul acepta una apuesta de «el ganador se lo lleva todo» con la leyenda del kickboxing Cédric Doumbé antes del combate de Nochebuena"
+  },
+  {
+   "title": "British knockout artist added to Jake Paul-Cédric Doumbé card",
+   "link": "https://britishboxingnews.co.uk/news/british-ko-artist-paul-doumbe-card/",
+   "source": "British Boxing News",
+   "lang": "en",
+   "date": "2026-11-13T09:49:36+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 56,
+   "sources_n": 2,
+   "title_it": "L'artista britannico ad eliminazione diretta si è aggiunto alla card di Jake Paul-Cédric Doumbé",
+   "title_es": "Artista del nocaut británico añadido a la cartelera de Jake Paul-Cédric Doumbé"
   },
   {
    "title": "Former heavyweight champion Riddick Bowe sums up Anthony Joshua’s chances of beating Tyson Fury",
@@ -1184,7 +1236,7 @@
    "date": "2026-11-13T09:05:11+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 74,
+   "score": 73,
    "sources_n": 2,
    "title_it": "Deontay Wilder confronta la sua potenza di KO con quella di Jai Opetaia in vista dello scontro nei pesi massimi",
    "title_es": "Deontay Wilder compara su poder de «KO» con el de Jai Opetaia antes del combate de los pesos pesados"
@@ -1458,7 +1510,7 @@
    "date": "2026-11-13T03:04:51+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 38,
+   "score": 37,
    "sources_n": 1,
    "title_it": "Aggiunto un incontro speciale tra pesi massimi a \"Final Boss\": Kingsley Ibeh contro Andrii Novytskyi per il titolo WBC International",
    "title_es": "Se añade un atractivo combate especial de pesos pesados a «Final Boss»: Kingsley Ibeh contra Andrii Novytskyi por el título internacional del CMB"
@@ -1760,7 +1812,7 @@
    "date": "2026-11-12T21:01:50+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 100,
+   "score": 99,
    "sources_n": 9,
    "title_it": "Teofimo Lopez prevede di finalizzare un incontro con Ryan Garcia il 6 febbraio con o senza il titolo WBA.",
    "title_es": "Teófimo López planea finalizar una pelea con Ryan García el 6 de febrero con o sin el título de la AMB."
@@ -1786,8 +1838,8 @@
    "date": "2026-11-12T20:24:44+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 72,
-   "sources_n": 4,
+   "score": 62,
+   "sources_n": 3,
    "title_it": "In questo giorno del 1992, abbiamo visto l'incontro per il titolo indiscusso dei pesi massimi tra Evander Holyfield e Riddick Bowe, l'incontro sarebbe stato il primo della trilogia che avrebbe avuto luogo nel corso dei successivi 3 anni",
    "title_es": "Un día como hoy de 1992, vimos la pelea por el título indiscutible de peso pesado entre Evander Holyfield y Riddick Bowe, la pelea sería la primera de la trilogía que se llevaría a cabo en el transcurso de los siguientes 3 años."
   },
@@ -1799,8 +1851,8 @@
    "date": "2026-11-12T20:21:39+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 60,
-   "sources_n": 2,
+   "score": 50,
+   "sources_n": 1,
    "title_it": "In questo giorno del 1999, siamo stati testimoni della grandezza in quanto Lennox Lewis sarebbe diventato il campione indiscusso dei pesi massimi dopo aver sconfitto Evander Holyfield nella rivincita dopo un pareggio ampiamente controverso nel loro primo incontro avvenuto a marzo prima.",
    "title_es": "En este día de 1999, fuimos testigos de la grandeza cuando Lennox Lewis se convertiría en el campeón indiscutible de peso pesado después de derrotar a Evander Holyfield en la revancha después de un empate muy controvertido en su primer encuentro que había tenido lugar en marzo antes."
   },
@@ -1917,7 +1969,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 68,
-   "sources_n": 6,
+   "sources_n": 7,
    "title_it": "Programma dell'incontro Jake Paul vs. Cédric Doumbé: Alistair Overeem farà il suo debutto nel pugilato contro Jimi Manuwa",
    "title_es": "Cartelera de la pelea Jake Paul vs. Cédric Doumbé: Alistair Overeem debutará en el boxeo contra Jimi Manuwa"
   },
@@ -2062,8 +2114,8 @@
    "date": "2026-11-12T15:17:05+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 22,
-   "sources_n": 2,
+   "score": 32,
+   "sources_n": 3,
    "title_it": "Pugilato, Maria Laura Perrotta vola agli Europei Under 23: l’atleta cosentina vestirà la maglia azzurra in Croazia · LaC News24 - LaC News24",
    "title_es": "Boxeo, Maria Laura Perrotta vuela al Campeonato de Europa Sub 23: la atleta de Cosenza vestirá la camiseta azul en Croacia · LaC News24 - LaC News24"
   },
@@ -2162,6 +2214,19 @@
    "title_es": "Un vistazo más a la acción de #ZuffaBoxing12 🥊🔥"
   },
   {
+   "title": "KO, TKO, RTD, and technical decisions explained",
+   "link": "https://britishboxingnews.co.uk/blogs/ko-tko-rtd-and-technical-decisions-explained/",
+   "source": "British Boxing News",
+   "lang": "en",
+   "date": "2026-11-12T13:47:56+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 19,
+   "sources_n": 1,
+   "title_it": "KO, TKO, RTD e decisioni tecniche spiegate",
+   "title_es": "KO, TKO, RTD y decisiones técnicas explicadas"
+  },
+  {
    "title": "Jaron ‘Boots’ Ennis and British star Josh Kelly set for mouthwatering title fight",
    "link": "https://sports.yahoo.com/articles/jaron-boots-ennis-british-star-130233633.html",
    "source": "Yahoo Sports Boxing",
@@ -2169,7 +2234,7 @@
    "date": "2026-11-12T13:02:33+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 41,
+   "score": 40,
    "sources_n": 7,
    "title_it": "Jaron \"Boots\" Ennis e la stella britannica Josh Kelly si preparano per un incontro per il titolo da far venire l'acquolina in bocca",
    "title_es": "Jaron «Boots» Ennis y la estrella británica Josh Kelly se preparan para un combate por el título que promete ser apasionante"
@@ -2340,6 +2405,19 @@
    "sources_n": 2,
    "title_it": "Martin Bakole ritorna nella undercard Fury-Joshua insieme al nascente Da'Mazion Vanhouter",
    "title_es": "Martin Bakole regresa en la cartelera de Fury-Joshua junto al emergente Da'Mazion Vanhouter"
+  },
+  {
+   "title": "How much do women boxers earn? Price, Baumgardner, and the pay gap",
+   "link": "https://britishboxingnews.co.uk/blogs/how-much-do-women-boxers-earn-price-baumgardner-and-the-pay-gap/",
+   "source": "British Boxing News",
+   "lang": "en",
+   "date": "2026-11-12T11:23:11+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 10,
+   "sources_n": 1,
+   "title_it": "Quanto guadagnano le pugili? Prezzo, Baumgardner e il divario retributivo",
+   "title_es": "¿Cuánto ganan las boxeadoras? Price, Baumgardner y la brecha salarial"
   },
   {
    "title": "Eddie Hearn slams Tyson Fury vs Anthony Joshua fight card",
@@ -2668,7 +2746,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 99,
+   "score": 98,
    "sources_n": 15,
    "title_it": "Annunciati i combattimenti delle carte principali tra Tyson Fury e Anthony Joshua",
    "title_es": "Se anuncian las peleas principales de Tyson Fury vs. Anthony Joshua"
@@ -2843,6 +2921,19 @@
    "sources_n": 5,
    "title_it": "I tre migliori pugili britannici che non hanno mai vinto un titolo mondiale - talkSPORT",
    "title_es": "Los tres mejores boxeadores británicos que nunca ganaron un título mundial – talkSPORT"
+  },
+  {
+   "title": "Un memorial per Sandrino Scapecchi. L’amico d’infanzia: «Non ci siamo mai persi di vista» - MaremmaOggi",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5vVmNDVnE0YXV6akF4cjhXRzBOU2pLVXQ2Q0RUNnk0akVqZWhUYXVkcm5RUjVrVlNUVk11SVdkUTdUVzZBT3R4eHFkN2NkZEFTbTZtd3otdUdac2J5SVRLZWNVVzRaZXRiMFhfanFJRXVId2pRQ1E?oc=5",
+   "source": "Google News: pugilato",
+   "lang": "it",
+   "date": "2026-11-11T18:00:17+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 1,
+   "sources_n": 1,
+   "title_it": "Un memorial per Sandrino Scapecchi. L’amico d’infanzia: «Non ci siamo mai persi di vista» - MaremmaOggi",
+   "title_es": "Un monumento a Sandrino Scapecchi. La amiga de la infancia: «Nunca nos perdimos de vista» - MaremmaOggi"
   },
   {
    "title": "Dal Trentino al trono del pugilato mondiale, il 20enne Luis Vela è campione Wbc International: \"Una grande dimostrazione di classe, tecnica e temperamento\" - il Dolomiti",
@@ -3123,13 +3214,13 @@
   {
    "title": "Pugilato, Antonio Moffa si laurea campione italiano Under 15 - Ottopagine",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSkVmR1FYMGVSd3QtTGVIWElJa01uWkVEY1dSZzhxcGEzWHNRRWRkaHRWOWtzZFE4SEVMcGVHOFo5UFYyYjdiWDNqSVR5MDFyX0t2eEkyYml6cnI2N3hMM0hvZFhabnZocUxKYW4yZC12TC04Q2pwaEpZRW5tXzVhSVUtU3Q1QnBNQzBmTkFnbU5uN2VORWhSeXVWZ1MxSEp2azctT0RaeWlMamtMQ2o5dy1FYmxZbUFqV2fSAaQBQVVfeXFMTlRid09uU0lPSWhRMnRvY2RJemR4cW1WVHVyWmRNNVd0MjVaZF8tdTlHdTItZWNabXFrazU1NG9MU0t2SHhib2JFVjB5aGQ4aF90RnFTZnQ3SGdNcE1VQ0pfRnhvbktSOEZISjVCR0IyNk81VlA2NUk3bjM5aWQ4Wi1uRFRCMThsWUlXaVdlQWhQV29nWHdrbnFrTk1OX0g3RTNobmU?oc=5",
-   "source": "Google News: pugilato",
+   "source": "Google News: titolo italiano pugilato",
    "lang": "it",
    "date": "2026-11-11T14:31:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 0,
-   "sources_n": 1,
+   "score": 10,
+   "sources_n": 2,
    "title_it": "Pugilato, Antonio Moffa si laurea campione italiano Under 15 - Ottopagine",
    "title_es": "Pugilato, Antonio Moffa si laurea campione italiano Menor de 15 años - Ottopagina"
   },
@@ -3988,107 +4079,6 @@
    "sources_n": 1,
    "title_it": "A Chiarbola arrivano i migliori pugili del Fvg: è la Boxenight 10, ecco quando - TriestePrima",
    "title_es": "Los mejores boxeadores de Fvg llegan a Chiarbola: es Boxenight 10, ahí es cuando - TriestePrima"
-  },
-  {
-   "title": "Trieste Boxe Night 10, Sara Lombardi difende il titolo italiano femminile - Nordest24",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcVlNRjlIV1EtVVBXdHF1NHNJRm5NSTFUSkJlcmFfYjQ3dFRqU01pVnYzYV9NQ1l3UklIQ25ST25HcHMzX1Q3cHpJRDI0ZnItTnpjSEwxQUs4aTlzOXRjOUJCQjRqNlhXZTdlRlhaUXFCal9mNTltck5iY0ZOMkQxS1J4bFZDenpXd2VHVjdRbkItMGNWd3liazlPXzhfQQ?oc=5",
-   "source": "Google News: titolo italiano pugilato",
-   "lang": "it",
-   "date": "2026-11-10T12:57:00+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 0,
-   "sources_n": 1,
-   "title_it": "Trieste Boxe Night 10, Sara Lombardi difende il titolo italiano femminile - Nordest24",
-   "title_es": "Trieste Boxe Night 10, Sara Lombardi defiende el título femenino italiano - Nordest24"
-  },
-  {
-   "title": "Denzel Bentley willing to travel to Ireland for Aaron McKenna title shot",
-   "link": "https://www.boxingscene.com/articles/denzel-bentley-willing-to-travel-to-ireland-for-tyrone-mckenna-title-shot",
-   "source": "Boxing Scene",
-   "lang": "en",
-   "date": "2026-11-10T12:35:22+00:00",
-   "status": "unverified",
-   "boxers": [
-    "Denzel Bentley"
-   ],
-   "score": 35,
-   "sources_n": 1,
-   "title_it": "Denzel Bentley è disposto a recarsi in Irlanda per la corsa al titolo di Aaron McKenna",
-   "title_es": "Denzel Bentley dispuesto a viajar a Irlanda para la oportunidad por el título de Aaron McKenna"
-  },
-  {
-   "title": "Joe Joyce on the difference between sparring Tyson Fury and Anthony Joshua",
-   "link": "https://sports.yahoo.com/articles/joe-joyce-difference-between-sparring-120303991.html",
-   "source": "Yahoo Sports Boxing",
-   "lang": "en",
-   "date": "2026-11-10T12:03:03+00:00",
-   "status": "unverified",
-   "boxers": [
-    "Tyson Fury",
-    "Anthony Joshua"
-   ],
-   "score": 75,
-   "sources_n": 15,
-   "title_it": "Joe Joyce sulla differenza tra lo sparring di Tyson Fury e Anthony Joshua",
-   "title_es": "Joe Joyce sobre la diferencia entre entrenar a Tyson Fury y Anthony Joshua"
-  },
-  {
-   "title": "Anthony Joshua's BEST 'Gloves Are Off' appearances IN FULL",
-   "link": "https://www.youtube.com/watch?v=SmBwafobP8k",
-   "source": "YouTube Sky Sports Boxing",
-   "lang": "en",
-   "date": "2026-11-10T12:00:01+00:00",
-   "status": "unverified",
-   "boxers": [
-    "Anthony Joshua"
-   ],
-   "score": 55,
-   "sources_n": 3,
-   "title_it": "LE MIGLIORI apparizioni COMPLETE di Anthony Joshua in \"Gloves Are Off\".",
-   "title_es": "Las MEJORES apariciones de Anthony Joshua en 'Gloves Are Off' COMPLETAS"
-  },
-  {
-   "title": "Fury vs. Joshua Decision Costs Heavyweight Champion Title Status",
-   "link": "https://www.worldboxingnews.com/gassiev-fury-joshua-wba-title/",
-   "source": "World Boxing News",
-   "lang": "en",
-   "date": "2026-11-10T11:44:39+00:00",
-   "status": "unverified",
-   "boxers": [
-    "Tyson Fury",
-    "Anthony Joshua"
-   ],
-   "score": 50,
-   "sources_n": 14,
-   "title_it": "La decisione di Fury vs Joshua costa il titolo di campione dei pesi massimi",
-   "title_es": "La decisión de Fury vs. Joshua cuesta el estatus del título de campeón de peso pesado"
-  },
-  {
-   "title": "Pugilato, Sofia Longo vice campionessa italiana - liratv",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVUJvZUFmWXh4QkdvcHR5WXE4ZDloUWl1T2YwWDJncnpoSFVkQXNySDJOUW5vSG9XNFdYdUhkMUxzNFI2MDRiMXJMdXQzeE1HWFEzRmZyZEoyc01yYklkaUVqVVE1c3h5bzNoZUxvcWFCc1VpblZSTzgtTlV3WFR3cDlIN2RCU1U?oc=5",
-   "source": "Google News: pugilato",
-   "lang": "it",
-   "date": "2026-11-10T11:39:07+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 10,
-   "sources_n": 2,
-   "title_it": "Pugilato, Sofia Longo vice campionessa italiana - liratv",
-   "title_es": "Boxeo, Sofia Longo subcampeona italiana - liratv"
-  },
-  {
-   "title": "Medaglia di bronzo ai campionati italiani di pugilato Under 15 per Popa Cristiano Andrei - Il Piccolo Faenza",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1PYU51SThwdDlaNl9CcWNSRjVIdDVoNnJ6c2JOQVJnc1ZpQkU5NzJHbUd2NTdPWmd6R1hpNG93WTFxQmxkVzRzNTUwYWZPVUUwRnphMGdMazF3X2NQZTZhMkMxMVY0TDA3ZWdSdHBramtOam1nM1RYZDJB?oc=5",
-   "source": "Google News: pugilato",
-   "lang": "it",
-   "date": "2026-11-10T11:01:23+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 0,
-   "sources_n": 1,
-   "title_it": "Medaglia di bronzo ai campionati italiani di pugilato Under 15 per Popa Cristiano Andrei - Il Piccolo Faenza",
-   "title_es": "Medalla de bronce en el campeonato italiano de boxeo sub 15 para Popa Cristiano Andrei - Il Piccolo Faenza"
   }
  ]
 }
