@@ -51776,5 +51776,45 @@
  },
  "Dana Rosenblatt": {
   "tried": "2026-11-14T16:39:38+00:00"
+ },
+ "Víctor Baute": {
+  "tried": "2026-11-14T16:40:39+00:00"
+ },
+ "Willie Palms": {
+  "slug": "willie-palms",
+  "updated": "2026-11-14T16:40:45+00:00",
+  "total": 21,
+  "verified": 0,
+  "record": {
+   "w": 10,
+   "l": 10,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "it"
+  ]
+ },
+ "Mari Kaneko": {
+  "tried": "2026-11-14T16:40:39+00:00"
+ },
+ "Masashi Kawakami": {
+  "tried": "2026-11-14T16:40:39+00:00"
+ },
+ "Imamu Mayfield": {
+  "slug": "imamu-mayfield",
+  "updated": "2026-11-14T16:40:50+00:00",
+  "total": 39,
+  "verified": 0,
+  "record": {
+   "w": 26,
+   "l": 10,
+   "d": 3,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
