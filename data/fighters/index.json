@@ -20492,7 +20492,7 @@
  },
  "Yohana Alfonzo": {
   "slug": "yohana-alfonzo",
-  "updated": "2026-11-11T10:01:23+00:00",
+  "updated": "2026-11-14T10:05:35+00:00",
   "total": 20,
   "verified": 0,
   "record": {
@@ -20507,7 +20507,7 @@
  },
  "Hurshid Tojibaev": {
   "slug": "hurshid-tojibaev",
-  "updated": "2026-11-11T10:01:26+00:00",
+  "updated": "2026-11-14T10:05:38+00:00",
   "total": 6,
   "verified": 0,
   "record": {
@@ -20522,7 +20522,7 @@
  },
  "Adam Kownacki": {
   "slug": "adam-kownacki",
-  "updated": "2026-11-11T10:01:28+00:00",
+  "updated": "2026-11-14T10:05:41+00:00",
   "total": 25,
   "verified": 0,
   "record": {
@@ -20540,7 +20540,7 @@
  },
  "Maciej Sulęcki": {
   "slug": "maciej-sulecki",
-  "updated": "2026-11-11T10:01:33+00:00",
+  "updated": "2026-11-14T10:05:44+00:00",
   "total": 37,
   "verified": 0,
   "record": {
@@ -49950,5 +49950,20 @@
  },
  "Ghulam Shabbir": {
   "tried": "2026-11-14T10:01:10+00:00"
+ },
+ "Jason Parillo": {
+  "slug": "jason-parillo",
+  "updated": "2026-11-14T10:05:48+00:00",
+  "total": 8,
+  "verified": 0,
+  "record": {
+   "w": 8,
+   "l": 0,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
