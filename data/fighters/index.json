@@ -20669,7 +20669,7 @@
  },
  "Charles Manyuchi": {
   "slug": "charles-manyuchi",
-  "updated": "2026-11-11T10:16:06+00:00",
+  "updated": "2026-11-14T10:21:01+00:00",
   "total": 34,
   "verified": 0,
   "record": {
@@ -20684,7 +20684,7 @@
  },
  "Helen Joseph (boxer)": {
   "slug": "helen-joseph-boxer",
-  "updated": "2026-11-11T10:16:12+00:00",
+  "updated": "2026-11-14T10:21:06+00:00",
   "total": 24,
   "verified": 0,
   "record": {
@@ -20699,7 +20699,7 @@
  },
  "Takeshi Inoue (boxer)": {
   "slug": "takeshi-inoue-boxer",
-  "updated": "2026-11-11T10:16:18+00:00",
+  "updated": "2026-11-14T10:21:11+00:00",
   "total": 25,
   "verified": 0,
   "record": {
@@ -20717,7 +20717,7 @@
  },
  "Mikaël Zewski": {
   "slug": "mikael-zewski",
-  "updated": "2026-11-11T10:16:25+00:00",
+  "updated": "2026-11-14T10:21:15+00:00",
   "total": 38,
   "verified": 0,
   "record": {
@@ -49998,6 +49998,23 @@
   },
   "langs": [
    "en"
+  ]
+ },
+ "Oscar De La Hoya": {
+  "slug": "oscar-de-la-hoya",
+  "updated": "2026-11-14T10:21:19+00:00",
+  "total": 45,
+  "verified": 45,
+  "record": {
+   "w": 39,
+   "l": 6,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "it",
+   "fr"
   ]
  }
 }
