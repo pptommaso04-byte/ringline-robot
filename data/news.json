@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-14T13:30:56+00:00",
- "feeds_ok": 49,
- "feeds_failed": 4,
+ "updated": "2026-11-14T13:35:46+00:00",
+ "feeds_ok": 48,
+ "feeds_failed": 5,
  "news": [
   {
    "title": "Zuffa Boxing 13 Live Results: Adames vs. Warburton",
@@ -41,6 +41,19 @@
    "sources_n": 2,
    "title_it": "Biglietti IN VENDITA ORA per Devin Haney-Liam Paro Welterweight Unification Showdown al Chase Center di San Francisco",
    "title_es": "Boletos A LA VENTA AHORA para el enfrentamiento de unificación de peso welter entre Devin Haney y Liam Paro en el Chase Center de San Francisco"
+  },
+  {
+   "title": "DP World Tour Championship: Pairings and tee times for big final day",
+   "link": "https://www.skysports.com/golf/news/12040/13612182/dp-world-tour-championship-tee-times-full-r4-pairings-and-uk-start-times-for-final-round-of-race-to-dubai-finale",
+   "source": "Sky Sports Boxing",
+   "lang": "en",
+   "date": "2026-11-14T13:00:00+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 29,
+   "sources_n": 1,
+   "title_it": "DP World Tour Championship: abbinamenti e tee time per la grande giornata finale",
+   "title_es": "Campeonato DP World Tour: emparejamientos y horarios de salida para el gran día final"
   },
   {
    "title": "English boxer, 18, banned from World Championships after extraordinary sex test mix-up: 'Broken' teenager reveals how his dream was shattered after team forgot to prove he was a man",
@@ -496,7 +509,7 @@
    "date": "2026-11-14T07:31:05+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 55,
+   "score": 54,
    "sources_n": 1,
    "title_it": "Abdullah Mason sfida Schofield a richiedere l'autorizzazione all'unificazione dei titoli WBA",
    "title_es": "Abdullah Mason reta a Schofield a solicitar el permiso de unificación de la WBA"
@@ -782,19 +795,6 @@
    "title_es": "VIDEO | Un golpe y a dormir: el “Zurdo de Oro” fulmina a rival argentino en 19 segundos - Diario del Yaqui"
   },
   {
-   "title": "Diego Pacheco and Darius Fulghum are ALL BUSINESS at the final face-off! 😤",
-   "link": "https://www.saddoboxing.com/112300-diego-pacheco-and-darius-fulghum-are-all-business-at-the-final-face-off-%f0%9f%98%a4.html",
-   "source": "Saddo Boxing",
-   "lang": "en",
-   "date": "2026-11-14T02:47:06+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 99,
-   "sources_n": 7,
-   "title_it": "Diego Pacheco e Darius Fulghum sono TUTTI AFFARI allo scontro finale! 😤",
-   "title_es": "¡Diego Pacheco y Darius Fulghum son TODOS NEGOCIOS en el enfrentamiento final! 😤"
-  },
-  {
    "title": "Shakur Stevenson Leads Six Boxing Free Agents Up for Grabs",
    "link": "https://www.boxing247.com/boxing-news/shakur-leads-six-boxing-free-agents-up-for-grabs/311316",
    "source": "East Side Boxing",
@@ -948,9 +948,22 @@
    "status": "unverified",
    "boxers": [],
    "score": 67,
-   "sources_n": 9,
+   "sources_n": 10,
    "title_it": "Pesa di Boots Ennis contro Josh Kelly e Pacheco contro Fulghum | Matchroom Boxing",
    "title_es": "Presentación de Boots Ennis vs. Josh Kelly y pesaje de Pacheco vs. Fulghum | Matchroom Boxing"
+  },
+  {
+   "title": "Diego Pacheco and Darius Fulghum are ALL BUSINESS at the final face-off! 😤",
+   "link": "https://www.youtube.com/watch?v=AkVwVWczP5A",
+   "source": "YouTube DAZN Boxing",
+   "lang": "en",
+   "date": "2026-11-13T22:17:11+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 97,
+   "sources_n": 7,
+   "title_it": "Diego Pacheco e Darius Fulghum sono TUTTI AFFARI allo scontro finale! 😤",
+   "title_es": "¡Diego Pacheco y Darius Fulghum son TODOS NEGOCIOS en el enfrentamiento final! 😤"
   },
   {
    "title": "Jaron Boots Ennis Vs Josh Kelly Launch Press Conference | Matchroom Boxing",
@@ -1207,17 +1220,17 @@
    "title_es": "Eddie Hearn afirma que se ha reunido con las cadenas de televisión y con el equipo de Inoue en las últimas 24 horas y que está ultimando un acuerdo para un combate entre Naoya Inoue y Bam. Dice que, en última instancia, todo dependerá de Robert García y Bam para ver si aceptan."
   },
   {
-   "title": "Riley determined to prove himself a world champion in waiting",
-   "link": "https://www.skysports.com/boxing/news/12040/13612006/viddal-riley-determined-to-prove-himself-a-world-champion-in-waiting-in-european-title-fight-against-seydi-coupe",
-   "source": "Sky Sports Boxing",
-   "lang": "en",
-   "date": "2026-11-13T17:53:00+00:00",
+   "title": "Franco Falcinelli, da Assisi alla guida del pugilato europeo - UmbriaJournal",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcnVyMVQtcTVWb0hSNnA1OXQzcURSdFE4cmFUWGloTWZ4bWNxOUk1eFprTXpQWFctY3lkY2hYd3dfVTc4WlhRNENMZG1hMUZwWHRRclBtYWlXYVRGbDJSNldDMGZtMGVqcDdnb050MUpjelBHZ0htWlVUVU5UenFWcVQyZ3VtcGdtYkh4czNoYUY1bU9zdWtLUWZ3ZXVFSDAxTUtTV3RB?oc=5",
+   "source": "Google News: pugilato",
+   "lang": "it",
+   "date": "2026-11-13T17:21:36+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 30,
+   "score": 19,
    "sources_n": 1,
-   "title_it": "Riley è determinato a dimostrare di essere un futuro campione del mondo",
-   "title_es": "Riley está decidido a demostrar que es un futuro campeón del mundo"
+   "title_it": "Franco Falcinelli, da Assisi alla guida del pugilato europeo - UmbriaJournal",
+   "title_es": "Franco Falcinelli, de Asís al frente del boxeo europeo - UmbriaJournal"
   },
   {
    "title": "Concluye la 64.ª Convención del CMB con triunfo de Camila Zamorano en Acapulco - anews",
@@ -1710,7 +1723,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 110,
+   "score": 109,
    "sources_n": 13,
    "title_it": "Dove guardare Tyson Fury vs Anthony Joshua oltre alla copertura talkSPORT per un mega-incontro",
    "title_es": "Dónde ver Tyson Fury vs Anthony Joshua más cobertura de talkSPORT para la mega pelea"
@@ -1881,7 +1894,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 119,
+   "score": 118,
    "sources_n": 13,
    "title_it": "L'ex campione dei pesi massimi Riddick Bowe riassume le possibilità di Anthony Joshua di battere Tyson Fury",
    "title_es": "El ex campeón de los pesos pesados Riddick Bowe resume las posibilidades de Anthony Joshua de vencer a Tyson Fury"
@@ -1992,7 +2005,7 @@
    "date": "2026-11-13T07:30:58+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 45,
+   "score": 44,
    "sources_n": 6,
    "title_it": "Come Riley è passato dall'essere l'allenatore di KSI al sognare il titolo mondiale - BBC",
    "title_es": "Cómo Riley pasó de ser entrenador de KSI a soñar con el título mundial - BBC"
@@ -2376,7 +2389,7 @@
    "date": "2026-11-12T19:33:52+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 39,
+   "score": 38,
    "sources_n": 2,
    "title_it": "Floyd Schofield Jnr-Jose “Rayo” Valenzuela ordinato dalla WBA",
    "title_es": "Floyd Schofield Jr-José “Rayo” Valenzuela ordenado por la AMB"
@@ -2509,7 +2522,7 @@
    "date": "2026-11-12T15:34:52+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 7,
+   "score": 6,
    "sources_n": 1,
    "title_it": "Boxe, la palermitana Crystal Filardi trionfa ai campionati italiani under 15 e conquista l'oro - PalermoToday",
    "title_es": "Boxeo, Crystal Filardi de Palermo triunfa en el campeonato italiano sub 15 y gana el oro - PalermoToday"
@@ -4059,22 +4072,6 @@
    "sources_n": 1,
    "title_it": "Programma di boxe - ESPN Deportes",
    "title_es": "Calendario de boxeo - ESPN Deportes"
-  },
-  {
-   "title": "Anthony Joshua vs Tyson Fury could be cancelled after late objections",
-   "link": "https://www.mirror.co.uk/sport/boxing/anthony-joshua-vs-tyson-fury-37863763",
-   "source": "Daily Mirror Boxing",
-   "lang": "en",
-   "date": "2026-11-10T17:05:41+00:00",
-   "status": "rumor",
-   "boxers": [
-    "Tyson Fury",
-    "Anthony Joshua"
-   ],
-   "score": 85,
-   "sources_n": 13,
-   "title_it": "Anthony Joshua vs Tyson Fury potrebbe essere annullato dopo le obiezioni tardive",
-   "title_es": "Anthony Joshua vs Tyson Fury podría cancelarse tras objeciones tardías"
   }
  ]
 }

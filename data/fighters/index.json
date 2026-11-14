@@ -9811,7 +9811,7 @@
  },
  "Eliecer Castillo": {
   "slug": "eliecer-castillo",
-  "updated": "2026-11-10T17:40:53+00:00",
+  "updated": "2026-11-14T13:35:59+00:00",
   "total": 43,
   "verified": 0,
   "record": {
@@ -50788,5 +50788,43 @@
  },
  "Donnell Holmes": {
   "tried": "2026-11-14T13:30:56+00:00"
+ },
+ "Kelly Oliver (boxer)": {
+  "tried": "2026-11-14T13:35:46+00:00"
+ },
+ "Bobby Gunn": {
+  "slug": "bobby-gunn",
+  "updated": "2026-11-14T13:35:52+00:00",
+  "total": 32,
+  "verified": 0,
+  "record": {
+   "w": 23,
+   "l": 7,
+   "d": 1,
+   "nc": 1
+  },
+  "langs": [
+   "en",
+   "it",
+   "es"
+  ]
+ },
+ "Hideki Todaka": {
+  "slug": "hideki-todaka",
+  "updated": "2026-11-14T13:35:55+00:00",
+  "total": 26,
+  "verified": 0,
+  "record": {
+   "w": 21,
+   "l": 4,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Erle Wiltshire": {
+  "tried": "2026-11-14T13:35:46+00:00"
  }
 }
