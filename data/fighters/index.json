@@ -9826,7 +9826,7 @@
  },
  "Shannon Briggs": {
   "slug": "shannon-briggs",
-  "updated": "2026-11-10T17:40:56+00:00",
+  "updated": "2026-11-14T21:05:51+00:00",
   "total": 68,
   "verified": 68,
   "record": {
@@ -26901,7 +26901,7 @@
  },
  "Nicholas Walters": {
   "slug": "nicholas-walters",
-  "updated": "2026-11-11T21:01:34+00:00",
+  "updated": "2026-11-14T21:05:38+00:00",
   "total": 32,
   "verified": 0,
   "record": {
@@ -26916,7 +26916,7 @@
  },
  "Marie-Eve Dicaire": {
   "slug": "marie-eve-dicaire",
-  "updated": "2026-11-11T21:01:38+00:00",
+  "updated": "2026-11-14T21:05:41+00:00",
   "total": 20,
   "verified": 0,
   "record": {
@@ -26936,7 +26936,7 @@
  },
  "Keita Obara": {
   "slug": "keita-obara",
-  "updated": "2026-11-11T21:01:43+00:00",
+  "updated": "2026-11-14T21:05:44+00:00",
   "total": 32,
   "verified": 0,
   "record": {
@@ -52928,6 +52928,21 @@
    "w": 35,
    "l": 6,
    "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Daren Zenner": {
+  "slug": "daren-zenner",
+  "updated": "2026-11-14T21:05:47+00:00",
+  "total": 33,
+  "verified": 0,
+  "record": {
+   "w": 27,
+   "l": 4,
+   "d": 2,
    "nc": 0
   },
   "langs": [
