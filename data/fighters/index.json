@@ -25365,7 +25365,7 @@
  },
  "Adela Celeste Peralta": {
   "slug": "adela-celeste-peralta",
-  "updated": "2026-11-11T18:11:30+00:00",
+  "updated": "2026-11-14T18:15:41+00:00",
   "total": 10,
   "verified": 0,
   "record": {
@@ -25380,7 +25380,7 @@
  },
  "Franchón Crews-Dezurn": {
   "slug": "franchon-crews-dezurn",
-  "updated": "2026-11-11T18:11:33+00:00",
+  "updated": "2026-11-14T18:15:44+00:00",
   "total": 14,
   "verified": 0,
   "record": {
@@ -52090,5 +52090,29 @@
    "fr",
    "pt"
   ]
+ },
+ "Héctor Ávila": {
+  "slug": "hector-avila",
+  "updated": "2026-11-14T18:15:46+00:00",
+  "total": 41,
+  "verified": 0,
+  "record": {
+   "w": 24,
+   "l": 16,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "it",
+   "es",
+   "fr"
+  ]
+ },
+ "Anoushiravan Nourian": {
+  "tried": "2026-11-14T18:15:39+00:00"
+ },
+ "Anwar Oshana": {
+  "tried": "2026-11-14T18:15:39+00:00"
  }
 }
