@@ -1,8 +1,24 @@
 {
- "updated": "2026-11-14T06:55:39+00:00",
+ "updated": "2026-11-14T07:01:09+00:00",
  "feeds_ok": 49,
  "feeds_failed": 4,
  "news": [
+  {
+   "title": "Trainer Shane McGuigan picks a winner in Tyson Fury vs Anthony Joshua: “It won’t last 6”",
+   "link": "https://boxingnewsonline.net/news/shane-mcguigan-on-fury-vs-joshua/",
+   "source": "Boxing News (UK)",
+   "lang": "en",
+   "date": "2026-11-14T07:00:51+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Tyson Fury",
+    "Anthony Joshua"
+   ],
+   "score": 122,
+   "sources_n": 14,
+   "title_it": "L'allenatore Shane McGuigan sceglie un vincitore per l'incontro tra Tyson Fury e Anthony Joshua: \"Non durerà 6 round\"",
+   "title_es": "El entrenador Shane McGuigan elige a un ganador en el combate entre Tyson Fury y Anthony Joshua: «No durará 6 asaltos»."
+  },
   {
    "title": "The first FACE-OFF between Jaron Ennis & Josh Kelly! 🔥",
    "link": "https://www.saddoboxing.com/112315-the-first-face-off-between-jaron-ennis-josh-kelly-%f0%9f%94%a5.html",
@@ -63,7 +79,7 @@
    "date": "2026-11-14T05:01:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 104,
+   "score": 103,
    "sources_n": 7,
    "title_it": "Risultati in diretta: Diego Pacheco affronta Darius Fulghum a Carson",
    "title_es": "Resultados en directo: Diego Pacheco se enfrenta a Darius Fulghum en Carson"
@@ -76,7 +92,7 @@
    "date": "2026-11-14T05:00:51+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 29,
+   "score": 28,
    "sources_n": 1,
    "title_it": "Boxe: Luca D’Ortenzi ed Eros Seghetti si contendono l’Europeo dei mediomassimi a Guidonia",
    "title_es": "Boxeo: Luca D'Ortenzi y Eros Seghetti se disputan el Campeonato de Europa de peso semipesado en Guidonia"
@@ -89,7 +105,7 @@
    "date": "2026-11-14T05:00:46+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 29,
+   "score": 28,
    "sources_n": 1,
    "title_it": "Topic di discussione del giorno (14 novembre 2026)",
    "title_es": "Hilo de debate diario (14 de noviembre de 2026)"
@@ -102,7 +118,7 @@
    "date": "2026-11-14T05:00:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 29,
+   "score": 28,
    "sources_n": 1,
    "title_it": "UFC 334 risultati in diretta: Gane difende il titolo contro Hokit",
    "title_es": "Resultados en directo del UFC 334: Gane defiende el título contra Hokit"
@@ -195,7 +211,7 @@
    "date": "2026-11-14T03:00:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 18,
+   "score": 17,
    "sources_n": 1,
    "title_it": "VIDEO | Un golpe y a dormir: el “Zurdo de Oro” fulmina a rival argentino en 19 segundos - Diario del Yaqui",
    "title_es": "VIDEO | Un golpe y a dormir: el “Zurdo de Oro” fulmina a rival argentino en 19 segundos - Diario del Yaqui"
@@ -353,7 +369,7 @@
    "date": "2026-11-13T23:00:47+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 46,
+   "score": 45,
    "sources_n": 1,
    "title_it": "SCOPRI: Michal Cieslak, campione del mondo dei pesi massimi leggeri WBC 🇵🇱",
    "title_es": "CONOCE A: Michal Cieslak, campeón del mundo del peso crucero de la WBC 🇵🇱"
@@ -366,7 +382,7 @@
    "date": "2026-11-13T23:00:02+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 91,
+   "score": 90,
    "sources_n": 11,
    "title_it": "Eddie Hearn sulla decisione della WBA riguardo all'incontro tra Teofimo Lopez e Jack Catterall 👀",
    "title_es": "Eddie Hearn sobre la decisión de la AMB respecto al combate entre Teófimo López y Jack Catterall 👀"
@@ -475,7 +491,7 @@
    "boxers": [
     "Tyson Fury"
    ],
-   "score": 55,
+   "score": 54,
    "sources_n": 2,
    "title_it": "Fury e Wilder hanno dato vita a una trilogia EPICA nei pesi massimi 🍿 Ora i due rivali combatteranno nello stesso programma 🔜",
    "title_es": "Fury y Wilder protagonizaron una trilogía ÉPICA en los pesos pesados 🍿 Ahora, los rivales se enfrentarán en la misma velada 🔜"
@@ -698,7 +714,7 @@
    "date": "2026-11-13T16:58:28+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 23,
+   "score": 22,
    "sources_n": 1,
    "title_it": "[FIGHT THREAD] Bryan Flores contro Jose Nunez",
    "title_es": "[HILO DEL COMBATE] Bryan Flores vs. José Núñez"
@@ -923,7 +939,7 @@
    "boxers": [
     "Oleksandr Usyk"
    ],
-   "score": 107,
+   "score": 106,
    "sources_n": 8,
    "title_it": "Viddal Riley è sicuro di poter infliggere una prima sconfitta a Oleksandr Usyk 👀",
    "title_es": "Viddal Riley está seguro de que infligiría la primera derrota a Oleksandr Usyk 👀"
@@ -1058,7 +1074,7 @@
    "date": "2026-11-13T13:00:00+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 29,
+   "score": 28,
    "sources_n": 1,
    "title_it": "Chi vincerà le ATP Finals di Torino? Alcaraz favorito per conquistare il primo titolo",
    "title_es": "¿Quién ganará las ATP Finals de Turín? Alcaraz es el favorito para conseguir su primer título"
@@ -1238,7 +1254,7 @@
    "date": "2026-11-13T10:56:46+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 85,
+   "score": 84,
    "sources_n": 4,
    "title_it": "Chris Eubank Jr è sul punto di assicurarsi un'enorme lotta per la rimonta contro l'ex campione del mondo britannico nel febbraio 2027",
    "title_es": "Chris Eubank Jr a punto de conseguir una gran pelea de regreso contra el ex campeón mundial británico en febrero de 2027"
@@ -1736,7 +1752,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 69,
-   "sources_n": 9,
+   "sources_n": 8,
    "title_it": "Pensateci: Floyd Mayweather che torna a combattere contro Ryan Garcia all'età di 50 anni nel 2027 è come Joe Frazier a 50 anni che combatte contro Evander Holyfield nel 1994, o come Sugar Ray Leonard che torna a 50 anni per combattere contro Joe Calzaghe nel 2006.",
    "title_es": "Piénsenlo: que Floyd Mayweather vuelva a pelear contra Ryan García a los 50 años en 2027 es como si Joe Frazier se enfrentara a Evander Holyfield a los 50 años en 1994, o como si Sugar Ray Leonard volviera a los 50 años para pelear contra Joe Calzaghe en 2006."
   },
@@ -1947,7 +1963,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 98,
-   "sources_n": 9,
+   "sources_n": 8,
    "title_it": "Teofimo Lopez prevede di finalizzare un incontro con Ryan Garcia il 6 febbraio con o senza il titolo WBA.",
    "title_es": "Teófimo López planea finalizar una pelea con Ryan García el 6 de febrero con o sin el título de la AMB."
   },
@@ -1959,7 +1975,7 @@
    "date": "2026-11-12T20:59:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 38,
+   "score": 37,
    "sources_n": 1,
    "title_it": "Dalla vendita di pallet nei camion alla conquista del pugilato: così ha esordito Canelo Álvarez - Dibattito",
    "title_es": "De vender paletas en camiones a conquistar el boxeo: así empezó Canelo Álvarez - Debate"
@@ -2017,19 +2033,6 @@
    "title_es": "Floyd Schofield Jr-José “Rayo” Valenzuela ordenado por la AMB"
   },
   {
-   "title": "James Toney delivers ‘night night’ verdict on Ryan Garcia vs Floyd Mayweather fight",
-   "link": "https://boxingnewsonline.net/news/toney-verdict-on-garcia-vs-mayweather/",
-   "source": "Boxing News (UK)",
-   "lang": "en",
-   "date": "2026-11-12T19:12:59+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 67,
-   "sources_n": 9,
-   "title_it": "James Toney pronuncia il verdetto \"buonanotte\" sull'incontro tra Ryan Garcia e Floyd Mayweather",
-   "title_es": "James Toney pronostica un «buenas noches» para el combate entre Ryan García y Floyd Mayweather"
-  },
-  {
    "title": "Floyd Mayweather recibe luz verde para pelear por el título con 49 años - marca usa",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMTNvc3pGT2F5Zm5uR2JiWmNGTmhkMzFjVGNJbTlSVnBCWHR2MzEtR2ZTbTlXTnU0emRaOEVrRHJScXNjZnMtMThJMXNiVF93MkVLTWpyVm5VNnhHUnJGRDBGTWxTcklPSnZ4RGVObHc2akFhQWpLY0o4dTk0RjhvNUZ5NlVZZTRBUFZzY3djQmVDYnVybW5PRHByWHFmTTEzcmp5bEN5SWpvRndULTAxSEd2d0rSAboBQVVfeXFMTV9iRWlBRmQ1d1hqTXotbWswUkxqUlhlbklRTW8taTM3WU5wRWZ6d3hmRDlSY1V1dFZHeG9pV1pMSzhSX1VmUllCYXZudk1yMTd1QnJtSFBiUmhkZ1h5LUlBUHRpYnJqalgxYnpIU1o4TExTR204SjlHUWxNWFRYMTdxMHJFaGhzbHlpVEs0LUx0aWJsV3VHUldJdUQ2cWxTc2U1Tkd0ZHQxS0I3OUN0ZERSaVg0Wldkajln?oc=5",
    "source": "Google News: boxeo",
@@ -2038,7 +2041,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 41,
-   "sources_n": 6,
+   "sources_n": 5,
    "title_it": "Floyd Mayweather riceve il via libera per lottare per il titolo a 49 anni - marchio usa",
    "title_es": "Floyd Mayweather recibe luz verde para pelear por el título con 49 años - marca usa"
   },
@@ -2064,7 +2067,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 76,
-   "sources_n": 7,
+   "sources_n": 6,
    "title_it": "Il sogno del titolo mondiale di Floyd Mayweather rinasce dopo l'inaspettato annuncio di Ryan Garcia per il 2027 - RingSide24",
    "title_es": "El sueño de Floyd Mayweather por el título mundial revivió después del inesperado anuncio de Ryan García para 2027 - RingSide24"
   },
@@ -2105,7 +2108,7 @@
    "date": "2026-11-12T17:01:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 86,
+   "score": 85,
    "sources_n": 6,
    "title_it": "David Benavidez rivela il record che deve ancora battere nella boxe",
    "title_es": "David Benavidez revela el récord que aún le falta por batir en el boxeo"
@@ -2145,7 +2148,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 75,
-   "sources_n": 9,
+   "sources_n": 8,
    "title_it": "Floyd Mayweather ottiene il via libera per la lotta per il titolo mondiale dopo che Ryan Garcia ha lanciato la notizia bomba del 2027 - MARCA",
    "title_es": "Floyd Mayweather recibe luz verde para pelea por el título mundial después de que Ryan García soltara bomba en 2027 - MARCA"
   },
@@ -2183,7 +2186,7 @@
    "date": "2026-11-12T15:00:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 20,
+   "score": 19,
    "sources_n": 1,
    "title_it": "Un pugile di Wirral punta a diventare il primo campione del mondo della città - Wirral Globe",
    "title_es": "Un boxeador de Wirral aspira a convertirse en el primer campeón del mundo de la localidad - Wirral Globe"
@@ -2197,7 +2200,7 @@
    "status": "rumor",
    "boxers": [],
    "score": 94,
-   "sources_n": 9,
+   "sources_n": 8,
    "title_it": "La WBA ordina l'incontro tra Teofimo Lopez e Jack Catterall mentre sono in corso le trattative con Ryan Garcia",
    "title_es": "La WBA ordena el combate entre Teófimo López y Jack Catterall en medio de las negociaciones con Ryan García"
   },
@@ -2322,7 +2325,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 94,
+   "score": 93,
    "sources_n": 15,
    "title_it": "Eddie Hearn colpisce nella undercard Tyson Fury vs Anthony Joshua dopo due nuove aggiunte",
    "title_es": "Eddie Hearn ataca la cartelera de Tyson Fury vs Anthony Joshua después de dos nuevas incorporaciones"
@@ -2416,7 +2419,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 111,
-   "sources_n": 9,
+   "sources_n": 8,
    "title_it": "L'unificazione di Ryan Garcia contro Teofimo Lopez è in pericolo mentre la WBA prende la decisione di Jack Catterall",
    "title_es": "La unificación de Ryan García vs Teófimo López en peligro mientras la AMB dictamina a Jack Catterall"
   },
@@ -2513,7 +2516,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 72,
-   "sources_n": 11,
+   "sources_n": 10,
    "title_it": "Floyd Mayweather, 49 anni, ottiene l'autorizzazione per la lotta per il titolo mondiale nonostante il ritiro mentre Ryan Garcia rivela la data dell'incontro del 2027 – Notizie H24",
    "title_es": "Floyd Mayweather, de 49 años, obtiene autorización para la pelea por el título mundial a pesar de su retiro mientras Ryan García revela la fecha de la pelea en 2027 Loving Valencia"
   },
@@ -2567,7 +2570,7 @@
    "date": "2026-11-12T09:00:34+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 17,
+   "score": 16,
    "sources_n": 2,
    "title_it": "Ferramosca sfida Sapone per il titolo italiano: Prato sogna con il suo “Bulldozer” - Notizie di Prato",
    "title_es": "Ferramosca desafía a Sapone por el título italiano: Prato sueña con su «Bulldozer» - Noticias de Prato"
@@ -2763,7 +2766,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 97,
+   "score": 96,
    "sources_n": 14,
    "title_it": "La undercard Tyson Fury vs Anthony Joshua riceve altri due incontri dei pesi massimi, incluso il potenziale cliente Dana White",
    "title_es": "La cartelera de Tyson Fury vs Anthony Joshua recibe dos peleas más de peso pesado, incluido el prospecto de Dana White"
@@ -2880,7 +2883,7 @@
    "status": "rumor",
    "boxers": [],
    "score": 30,
-   "sources_n": 6,
+   "sources_n": 5,
    "title_it": "Ryan García annuncia un incontro contro Mayweather... e potrebbe cadere il record del campione più longevo",
    "title_es": "Ryan García anuncia un combate contra Mayweather... y podría caer el récord de campeón más longevo"
   },
@@ -3049,7 +3052,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 55,
-   "sources_n": 9,
+   "sources_n": 8,
    "title_it": "Floyd Mayweather ottiene il via libera per tornare alla boxe all'età di 49 anni e fare la storia contro Ryan Garcia",
    "title_es": "Floyd Mayweather recibe luz verde para regresar al boxeo a los 49 años y hacer historia ante Ryan García"
   },
@@ -3383,7 +3386,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 55,
-   "sources_n": 9,
+   "sources_n": 8,
    "title_it": "Ryan Garcia afferma che il prossimo incontro con Floyd Mayweather indica data e luogo",
    "title_es": "Ryan García afirma que peleará contra Floyd Mayweather a continuación mientras menciona la fecha y el lugar"
   },

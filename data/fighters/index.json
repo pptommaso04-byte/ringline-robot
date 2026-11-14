@@ -18272,7 +18272,7 @@
  },
  "Horacio García": {
   "slug": "horacio-garcia",
-  "updated": "2026-11-11T06:56:13+00:00",
+  "updated": "2026-11-14T07:01:16+00:00",
   "total": 42,
   "verified": 0,
   "record": {
@@ -18291,7 +18291,7 @@
  },
  "Kim Clavel": {
   "slug": "kim-clavel",
-  "updated": "2026-11-11T06:56:19+00:00",
+  "updated": "2026-11-14T07:01:20+00:00",
   "total": 24,
   "verified": 22,
   "record": {
@@ -18307,7 +18307,7 @@
  },
  "Ra'eese Aleem": {
   "slug": "ra-eese-aleem",
-  "updated": "2026-11-11T06:56:22+00:00",
+  "updated": "2026-11-14T07:01:12+00:00",
   "total": 24,
   "verified": 0,
   "record": {
@@ -49494,6 +49494,25 @@
   },
   "langs": [
    "en"
+  ]
+ },
+ "César Bazán": {
+  "tried": "2026-11-14T07:01:09+00:00"
+ },
+ "Ahmed Santos (boxer)": {
+  "slug": "ahmed-santos-boxer",
+  "updated": "2026-11-14T07:01:29+00:00",
+  "total": 38,
+  "verified": 0,
+  "record": {
+   "w": 32,
+   "l": 4,
+   "d": 1,
+   "nc": 1
+  },
+  "langs": [
+   "en",
+   "es"
   ]
  }
 }
