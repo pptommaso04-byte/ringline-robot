@@ -20621,7 +20621,7 @@
  },
  "Azriel Páez": {
   "slug": "azriel-paez",
-  "updated": "2026-11-11T10:10:50+00:00",
+  "updated": "2026-11-14T10:15:42+00:00",
   "total": 98,
   "verified": 0,
   "record": {
@@ -20636,7 +20636,7 @@
  },
  "Jorle Estrada": {
   "slug": "jorle-estrada",
-  "updated": "2026-11-11T10:10:53+00:00",
+  "updated": "2026-11-14T10:15:44+00:00",
   "total": 27,
   "verified": 0,
   "record": {
@@ -20651,7 +20651,7 @@
  },
  "Carlos Ortega (boxer)": {
   "slug": "carlos-ortega-boxer",
-  "updated": "2026-11-11T10:10:57+00:00",
+  "updated": "2026-11-14T10:15:48+00:00",
   "total": 25,
   "verified": 0,
   "record": {
@@ -49968,5 +49968,36 @@
  },
  "Ron Guerrero": {
   "tried": "2026-11-14T10:10:41+00:00"
+ },
+ "Kevin McBride": {
+  "slug": "kevin-mcbride",
+  "updated": "2026-11-14T10:15:52+00:00",
+  "total": 46,
+  "verified": 0,
+  "record": {
+   "w": 35,
+   "l": 10,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "pt"
+  ]
+ },
+ "Félix Trinidad": {
+  "slug": "felix-trinidad",
+  "updated": "2026-11-14T10:15:55+00:00",
+  "total": 45,
+  "verified": 0,
+  "record": {
+   "w": 42,
+   "l": 3,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
