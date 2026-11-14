@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T08:20:45+00:00",
+ "updated": "2026-11-14T08:25:35+00:00",
  "feeds_ok": 49,
  "feeds_failed": 4,
  "news": [
@@ -268,7 +268,7 @@
    "date": "2026-11-14T04:21:58+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 28,
+   "score": 27,
    "sources_n": 1,
    "title_it": "I pugili \"non appariscenti\" di maggior successo di tutti i tempi?",
    "title_es": "¿Los boxeadores «poco llamativos» con más éxito de todos los tiempos?"
@@ -1252,7 +1252,7 @@
    "boxers": [
     "Tyson Fury"
    ],
-   "score": 95,
+   "score": 94,
    "sources_n": 12,
    "title_it": "Pesi massimi, 61 anni, 86 posizioni sopra l'ultimo avversario di Tyson Fury",
    "title_es": "Peso pesado, 61 años, 86 puestos por encima del último rival de Tyson Fury"
@@ -1465,7 +1465,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 114,
+   "score": 113,
    "sources_n": 13,
    "title_it": "Derek Chisora sfida un peso massimo per risolvere la rivalità nell'incontro Tyson Fury contro Anthony Joshua",
    "title_es": "Derek Chisora reta a un peso pesado a zanjar su rivalidad en la velada de Tyson Fury contra Anthony Joshua"
@@ -1585,7 +1585,7 @@
    "date": "2026-11-13T08:25:22+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 18,
+   "score": 17,
    "sources_n": 1,
    "title_it": "Amir Khan riassume le possibilità di un ritorno con successo di Kell Brook, mentre viene riportato l'accordo per l'incontro con Eubank",
    "title_es": "Amir Khan resume las posibilidades de Kell Brook de lograr una reaparición con éxito tras conocerse el acuerdo para el combate con Eubank"
@@ -2213,7 +2213,7 @@
    "date": "2026-11-12T16:24:21+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 20,
+   "score": 19,
    "sources_n": 2,
    "title_it": "Youth Olympic Games 2026: Bronzo per l’Azzurra Michela Guglielmon nei 48 kg. - 2out.it - Seconds Out Sport Magazine",
    "title_es": "Juegos Olímpicos de la Juventud 2026: Bronce para la italiana Michela Guglielmon en la categoría de 48 kg. - 2out.it - Seconds Out Sport Magazine"
@@ -2226,7 +2226,7 @@
    "date": "2026-11-12T16:23:07+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 20,
+   "score": 19,
    "sources_n": 1,
    "title_it": "Pugilato, Michael Magnesi, il nuovo capitolo del campione WBC - TRC Giornale",
    "title_es": "Boxeo, Michael Magnesi, el nuevo capítulo del campeón del CMB - Periódico TRC"
@@ -2333,7 +2333,7 @@
    "date": "2026-11-12T14:25:21+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 62,
+   "score": 61,
    "sources_n": 1,
    "title_it": "Fabio Wardley prende la decisione definitiva sul ritiro dopo il KO di Daniel Dubois",
    "title_es": "Fabio Wardley toma la decisión final de retirarse después del KO de Daniel Dubois"
@@ -2581,8 +2581,8 @@
    "date": "2026-11-12T09:38:59+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 16,
-   "sources_n": 2,
+   "score": 6,
+   "sources_n": 1,
    "title_it": "Ferramosca sfida Sapone per il titolo italiano: Prato sogna con il suo \"Bulldozer\" - Sport di Prato",
    "title_es": "Ferramosca desafía a Sapone por el título italiano: Prato sueña con su «Bulldozer» - Sport di Prato"
   },
@@ -2636,8 +2636,8 @@
    "date": "2026-11-12T09:00:34+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 16,
-   "sources_n": 2,
+   "score": 6,
+   "sources_n": 1,
    "title_it": "Ferramosca sfida Sapone per il titolo italiano: Prato sogna con il suo “Bulldozer” - Notizie di Prato",
    "title_es": "Ferramosca desafía a Sapone por el título italiano: Prato sueña con su «Bulldozer» - Noticias de Prato"
   },
@@ -3212,6 +3212,18 @@
    "sources_n": 2,
    "title_it": "Dakar 2026: medaglia dal pugilato, Michela Guglielmon di bronzo nei 48 kg - Comitato Olimpico Nazionale",
    "title_es": "Dakar 2026: medalla en boxeo, Michela Guglielmon bronce en los 48 kg - Comité Olímpico Nacional"
+  },
+  {
+   "title": "Successo Pugilistica Lucchese ai tricolori under 15 di pugilato: un oro, un argento e due bronzi - LuccainDiretta",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNcmp6T0RVLUtlQnNQdnk4WjlhNnlHclZCYUg0SEZNcFp0bThxdFpWWFl4UWhvMW1uemdpaUVpc2FvOGhfOG1vOTJPempIX0hUUVRGWlMxOWpNZTJCZUhDZmdnUjZ3SlA1bDRJZDRaUW5sdEpHRlBGOWRmdmpQU3JKN01TRG1QZFVfTUFRWl9NbDlySUhid0NSdklXS1ZjcVBGbmM2cEdFcUVIaUhuZW5XWjRGbFVKTlNQa3c0Ti10ZGpSaGJGRTVVeDVsRE9mSEEtRUZfU0xVQ0I4SkJaRVZaVU43Y1oyVkk0Q3dBWWlpSQ?oc=5",
+   "source": "Google News: pugilato",
+   "lang": "it",
+   "date": "2026-11-11T14:52:00+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 0,
+   "sources_n": 1,
+   "title_it": "Successo Pugilistica Lucchese ai tricolori under 15 di pugilato: un oro, un argento e due bronzi - LuccainDiretta"
   },
   {
    "title": "Tyson Fury vs Anthony Joshua winner urged to face 'hard done by' rival next",
@@ -4071,19 +4083,6 @@
    "sources_n": 6,
    "title_it": "Willy Hutchinson viene \"analizzato\" come potenziale prossimo incontro per Canelo Alvarez",
    "title_es": "Willy Hutchinson siendo 'analizado' como posible próxima pelea de Canelo Álvarez"
-  },
-  {
-   "title": "Boxe Mugello, Alex Ferramosca sfida Dario Sapone per il titolo italiano professionisti Supergallo - OK!Mugello",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYzUwUkktN2tvNGRlMjQ5cUs2SlNHRC1QejZVWkx6RjI4dm1oQjczSm9lMHVFOENNY211SEkzdGFvYkhVVW8zVzN1dDlaUzBzNVhaOFp6cUY5SUwzRVh4cWZ4NzJlX3VTczhoMlgwMnI0U1FfaS12VWUzZ1lSSU13b196eVU0clBt?oc=5",
-   "source": "Google News: boxe italiana",
-   "lang": "it",
-   "date": "2026-11-10T13:10:10+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 10,
-   "sources_n": 2,
-   "title_it": "Boxe Mugello, Alex Ferramosca sfida Dario Sapone per il titolo italiano professionisti Supergallo - OK!Mugello",
-   "title_es": "Boxeo en Mugello: Alex Ferramosca se enfrenta a Dario Sapone por el título italiano profesional del peso supergallo - OK!Mugello"
   }
  ]
 }
