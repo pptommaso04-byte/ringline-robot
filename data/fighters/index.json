@@ -50608,5 +50608,56 @@
  },
  "Albert Guardado": {
   "tried": "2026-11-14T13:05:51+00:00"
+ },
+ "Alex Sánchez (boxer)": {
+  "tried": "2026-11-14T13:10:49+00:00"
+ },
+ "Mzonke Fana": {
+  "slug": "mzonke-fana",
+  "updated": "2026-11-14T13:10:56+00:00",
+  "total": 51,
+  "verified": 0,
+  "record": {
+   "w": 38,
+   "l": 13,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Mohamed Allalou": {
+  "tried": "2026-11-14T13:10:49+00:00"
+ },
+ "Ali Raymi": {
+  "slug": "ali-raymi",
+  "updated": "2026-11-14T13:11:03+00:00",
+  "total": 25,
+  "verified": 0,
+  "record": {
+   "w": 25,
+   "l": 0,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Alejandro González (boxer)": {
+  "slug": "alejandro-gonzalez-boxer",
+  "updated": "2026-11-14T13:11:08+00:00",
+  "total": 55,
+  "verified": 0,
+  "record": {
+   "w": 49,
+   "l": 5,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
