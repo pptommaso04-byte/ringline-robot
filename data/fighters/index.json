@@ -24010,7 +24010,7 @@
  },
  "Yessica Chávez": {
   "slug": "yessica-chavez",
-  "updated": "2026-11-11T16:15:53+00:00",
+  "updated": "2026-11-14T16:20:49+00:00",
   "total": 40,
   "verified": 0,
   "record": {
@@ -24025,7 +24025,7 @@
  },
  "Sam Maxwell (boxer)": {
   "slug": "sam-maxwell-boxer",
-  "updated": "2026-11-11T16:15:58+00:00",
+  "updated": "2026-11-14T16:20:54+00:00",
   "total": 20,
   "verified": 0,
   "record": {
@@ -24040,7 +24040,7 @@
  },
  "Zhan Kossobutskiy": {
   "slug": "zhan-kossobutskiy",
-  "updated": "2026-11-11T16:16:01+00:00",
+  "updated": "2026-11-14T16:20:57+00:00",
   "total": 20,
   "verified": 0,
   "record": {
@@ -24055,7 +24055,7 @@
  },
  "Ryan Farrag": {
   "slug": "ryan-farrag",
-  "updated": "2026-11-11T16:16:04+00:00",
+  "updated": "2026-11-14T16:21:00+00:00",
   "total": 29,
   "verified": 0,
   "record": {
@@ -51733,6 +51733,21 @@
    "l": 15,
    "d": 2,
    "nc": 1
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Daisy Lang": {
+  "slug": "daisy-lang",
+  "updated": "2026-11-14T16:21:05+00:00",
+  "total": 23,
+  "verified": 0,
+  "record": {
+   "w": 19,
+   "l": 3,
+   "d": 1,
+   "nc": 0
   },
   "langs": [
    "en"
