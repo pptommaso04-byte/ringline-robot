@@ -17984,7 +17984,7 @@
  },
  "Artem Harutyunyan (boxer)": {
   "slug": "artem-harutyunyan-boxer",
-  "updated": "2026-11-11T06:25:46+00:00",
+  "updated": "2026-11-14T06:26:05+00:00",
   "total": 14,
   "verified": 0,
   "record": {
@@ -18003,7 +18003,7 @@
  },
  "Patrick Teixeira": {
   "slug": "patrick-teixeira",
-  "updated": "2026-11-11T06:25:53+00:00",
+  "updated": "2026-11-14T06:26:10+00:00",
   "total": 39,
   "verified": 0,
   "record": {
@@ -49275,5 +49275,38 @@
  },
  "José Ricardo Rodrigues": {
   "tried": "2026-11-14T06:21:30+00:00"
+ },
+ "Neil Sinclair": {
+  "slug": "neil-sinclair",
+  "updated": "2026-11-14T06:26:16+00:00",
+  "total": 41,
+  "verified": 0,
+  "record": {
+   "w": 33,
+   "l": 8,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Georgi Kandelaki": {
+  "slug": "georgi-kandelaki",
+  "updated": "2026-11-14T06:26:21+00:00",
+  "total": 24,
+  "verified": 0,
+  "record": {
+   "w": 24,
+   "l": 0,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Hichem Blida": {
+  "tried": "2026-11-14T06:26:01+00:00"
  }
 }
