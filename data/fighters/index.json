@@ -17079,7 +17079,7 @@
  },
  "Aston Palicte": {
   "slug": "aston-palicte",
-  "updated": "2026-11-11T05:10:52+00:00",
+  "updated": "2026-11-14T05:11:01+00:00",
   "total": 35,
   "verified": 0,
   "record": {
@@ -17094,7 +17094,7 @@
  },
  "Jazza Dickens": {
   "slug": "jazza-dickens",
-  "updated": "2026-11-11T05:10:57+00:00",
+  "updated": "2026-11-14T05:11:05+00:00",
   "total": 43,
   "verified": 0,
   "record": {
@@ -49114,5 +49114,38 @@
  },
  "Kurt Sinette": {
   "tried": "2026-11-14T05:01:18+00:00"
+ },
+ "Yokthai Sithoar": {
+  "slug": "yokthai-sithoar",
+  "updated": "2026-11-14T05:11:08+00:00",
+  "total": 37,
+  "verified": 0,
+  "record": {
+   "w": 28,
+   "l": 6,
+   "d": 3,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "James Swan (boxer)": {
+  "tried": "2026-11-14T05:10:57+00:00"
+ },
+ "Sonya Lamonakis": {
+  "slug": "sonya-lamonakis",
+  "updated": "2026-11-14T05:11:13+00:00",
+  "total": 13,
+  "verified": 0,
+  "record": {
+   "w": 10,
+   "l": 0,
+   "d": 3,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
