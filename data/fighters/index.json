@@ -22369,7 +22369,7 @@
  },
  "Rogelio Medina": {
   "slug": "rogelio-medina",
-  "updated": "2026-11-11T12:25:53+00:00",
+  "updated": "2026-11-14T12:31:14+00:00",
   "total": 50,
   "verified": 0,
   "record": {
@@ -22387,7 +22387,7 @@
  },
  "Dmitry Varats": {
   "slug": "dmitry-varats",
-  "updated": "2026-11-11T12:31:03+00:00",
+  "updated": "2026-11-14T12:31:17+00:00",
   "total": 47,
   "verified": 0,
   "record": {
@@ -22406,7 +22406,7 @@
  },
  "Jessica Balogun": {
   "slug": "jessica-balogun",
-  "updated": "2026-11-11T12:31:07+00:00",
+  "updated": "2026-11-14T12:31:20+00:00",
   "total": 28,
   "verified": 0,
   "record": {
@@ -50397,6 +50397,37 @@
    "l": 3,
    "d": 1,
    "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Charles Shufford": {
+  "slug": "charles-shufford",
+  "updated": "2026-11-14T12:31:23+00:00",
+  "total": 29,
+  "verified": 0,
+  "record": {
+   "w": 20,
+   "l": 8,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "pt"
+  ]
+ },
+ "Cornelius Bundrage": {
+  "slug": "cornelius-bundrage",
+  "updated": "2026-11-14T12:31:26+00:00",
+  "total": 44,
+  "verified": 0,
+  "record": {
+   "w": 37,
+   "l": 6,
+   "d": 0,
+   "nc": 1
   },
   "langs": [
    "en"
