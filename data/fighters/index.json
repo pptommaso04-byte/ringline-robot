@@ -22153,7 +22153,7 @@
  },
  "Bernabe Concepcion": {
   "slug": "bernabe-concepcion",
-  "updated": "2026-11-11T12:10:51+00:00",
+  "updated": "2026-11-14T12:16:05+00:00",
   "total": 43,
   "verified": 0,
   "record": {
@@ -22168,7 +22168,7 @@
  },
  "Sho Kimura": {
   "slug": "sho-kimura",
-  "updated": "2026-11-11T12:10:54+00:00",
+  "updated": "2026-11-14T12:16:11+00:00",
   "total": 26,
   "verified": 0,
   "record": {
@@ -22183,7 +22183,7 @@
  },
  "Kenichi Ogawa": {
   "slug": "kenichi-ogawa",
-  "updated": "2026-11-11T12:10:57+00:00",
+  "updated": "2026-11-14T12:15:59+00:00",
   "total": 35,
   "verified": 0,
   "record": {
@@ -50369,5 +50369,37 @@
  },
  "Alan Moore (sports administrator)": {
   "tried": "2026-11-14T12:10:42+00:00"
+ },
+ "Lamon Brewster": {
+  "slug": "lamon-brewster",
+  "updated": "2026-11-14T12:16:16+00:00",
+  "total": 41,
+  "verified": 0,
+  "record": {
+   "w": 35,
+   "l": 6,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "es",
+   "pt"
+  ]
+ },
+ "Chi In-jin": {
+  "slug": "chi-in-jin",
+  "updated": "2026-11-14T12:16:21+00:00",
+  "total": 35,
+  "verified": 0,
+  "record": {
+   "w": 31,
+   "l": 3,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
