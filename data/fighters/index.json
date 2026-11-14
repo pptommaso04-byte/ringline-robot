@@ -24407,7 +24407,7 @@
  },
  "Christian Hammer": {
   "slug": "christian-hammer",
-  "updated": "2026-11-11T16:45:55+00:00",
+  "updated": "2026-11-14T16:50:54+00:00",
   "total": 40,
   "verified": 0,
   "record": {
@@ -24423,7 +24423,7 @@
  },
  "Joe Murray (British boxer)": {
   "slug": "joe-murray-british-boxer",
-  "updated": "2026-11-11T16:45:59+00:00",
+  "updated": "2026-11-14T16:50:57+00:00",
   "total": 23,
   "verified": 0,
   "record": {
@@ -24447,7 +24447,7 @@
  },
  "Bryan Vázquez": {
   "slug": "bryan-vazquez",
-  "updated": "2026-11-11T16:50:47+00:00",
+  "updated": "2026-11-14T16:51:00+00:00",
   "total": 41,
   "verified": 0,
   "record": {
@@ -24462,7 +24462,7 @@
  },
  "Thomas Essomba": {
   "slug": "thomas-essomba",
-  "updated": "2026-11-11T16:50:50+00:00",
+  "updated": "2026-11-14T16:51:03+00:00",
   "total": 26,
   "verified": 0,
   "record": {
@@ -51831,6 +51831,21 @@
   "langs": [
    "en",
    "it"
+  ]
+ },
+ "Gerry Peñalosa": {
+  "slug": "gerry-penalosa",
+  "updated": "2026-11-14T16:51:06+00:00",
+  "total": 65,
+  "verified": 0,
+  "record": {
+   "w": 55,
+   "l": 8,
+   "d": 2,
+   "nc": 0
+  },
+  "langs": [
+   "en"
   ]
  }
 }
