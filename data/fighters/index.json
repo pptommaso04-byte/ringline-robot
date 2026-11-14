@@ -21425,7 +21425,7 @@
  },
  "Jack Arnfield": {
   "slug": "jack-arnfield",
-  "updated": "2026-11-11T11:15:44+00:00",
+  "updated": "2026-11-14T11:20:52+00:00",
   "total": 30,
   "verified": 0,
   "record": {
@@ -21440,7 +21440,7 @@
  },
  "Junior Fa": {
   "slug": "junior-fa",
-  "updated": "2026-11-11T11:15:49+00:00",
+  "updated": "2026-11-14T11:20:58+00:00",
   "total": 23,
   "verified": 0,
   "record": {
@@ -50259,6 +50259,52 @@
    "it",
    "es",
    "fr"
+  ]
+ },
+ "Roman Bugaj": {
+  "slug": "roman-bugaj",
+  "updated": "2026-11-14T11:21:04+00:00",
+  "total": 25,
+  "verified": 0,
+  "record": {
+   "w": 16,
+   "l": 8,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "es"
+  ]
+ },
+ "Rubén Sánchez León": {
+  "slug": "ruben-sanchez-leon",
+  "updated": "2026-11-14T11:21:11+00:00",
+  "total": 51,
+  "verified": 0,
+  "record": {
+   "w": 33,
+   "l": 17,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Christopher Henry": {
+  "slug": "christopher-henry",
+  "updated": "2026-11-14T11:21:17+00:00",
+  "total": 52,
+  "verified": 0,
+  "record": {
+   "w": 45,
+   "l": 5,
+   "d": 2,
+   "nc": 0
+  },
+  "langs": [
+   "en"
   ]
  }
 }
