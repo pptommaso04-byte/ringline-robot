@@ -36,7 +36,7 @@
  },
  "Anthony Joshua": {
   "slug": "anthony-joshua",
-  "updated": "2026-11-14T01:16:25+00:00",
+  "updated": "2026-11-14T21:20:52+00:00",
   "total": 34,
   "verified": 34,
   "record": {
@@ -52981,5 +52981,55 @@
  },
  "Carlos Gerena": {
   "tried": "2026-11-14T21:11:20+00:00"
+ },
+ "Nurhan Süleymanoğlu": {
+  "tried": "2026-11-14T21:20:47+00:00"
+ },
+ "Audley Harrison": {
+  "slug": "audley-harrison",
+  "updated": "2026-11-14T21:20:58+00:00",
+  "total": 38,
+  "verified": 0,
+  "record": {
+   "w": 31,
+   "l": 7,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "es"
+  ]
+ },
+ "Markus Beyer": {
+  "slug": "markus-beyer",
+  "updated": "2026-11-14T21:21:02+00:00",
+  "total": 39,
+  "verified": 0,
+  "record": {
+   "w": 35,
+   "l": 3,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Luan Krasniqi": {
+  "slug": "luan-krasniqi",
+  "updated": "2026-11-14T21:21:05+00:00",
+  "total": 35,
+  "verified": 0,
+  "record": {
+   "w": 30,
+   "l": 4,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "es"
+  ]
  }
 }
