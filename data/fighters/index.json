@@ -19822,7 +19822,7 @@
  },
  "Carlos Góngora": {
   "slug": "carlos-gongora",
-  "updated": "2026-11-11T09:01:53+00:00",
+  "updated": "2026-11-14T09:06:26+00:00",
   "total": 25,
   "verified": 0,
   "record": {
@@ -19840,7 +19840,7 @@
  },
  "Regis Prograis": {
   "slug": "regis-prograis",
-  "updated": "2026-11-11T09:01:58+00:00",
+  "updated": "2026-11-14T09:06:32+00:00",
   "total": 34,
   "verified": 31,
   "record": {
@@ -49795,5 +49795,27 @@
  },
  "Brunet Zamora": {
   "tried": "2026-11-14T08:35:37+00:00"
+ },
+ "Ottavio Barone": {
+  "tried": "2026-11-14T09:06:20+00:00"
+ },
+ "Valdemir Pereira": {
+  "slug": "valdemir-pereira",
+  "updated": "2026-11-14T09:06:41+00:00",
+  "total": 25,
+  "verified": 0,
+  "record": {
+   "w": 24,
+   "l": 1,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "it"
+  ]
+ },
+ "Romāns Kukļins": {
+  "tried": "2026-11-14T09:06:20+00:00"
  }
 }
