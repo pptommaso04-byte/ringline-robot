@@ -23871,7 +23871,7 @@
  },
  "José Argumedo": {
   "slug": "jose-argumedo",
-  "updated": "2026-11-11T15:55:43+00:00",
+  "updated": "2026-11-14T15:55:57+00:00",
   "total": 30,
   "verified": 0,
   "record": {
@@ -23886,7 +23886,7 @@
  },
  "John Ryder (boxer)": {
   "slug": "john-ryder-boxer",
-  "updated": "2026-11-11T15:55:45+00:00",
+  "updated": "2026-11-14T15:55:59+00:00",
   "total": 39,
   "verified": 0,
   "record": {
@@ -51515,5 +51515,26 @@
   "langs": [
    "en"
   ]
+ },
+ "James Butler (boxer)": {
+  "tried": "2026-11-14T15:55:53+00:00"
+ },
+ "Michael Grant (boxer)": {
+  "slug": "michael-grant-boxer",
+  "updated": "2026-11-14T15:56:04+00:00",
+  "total": 55,
+  "verified": 0,
+  "record": {
+   "w": 48,
+   "l": 7,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Hovik Keuchkerian": {
+  "tried": "2026-11-14T15:55:53+00:00"
  }
 }
