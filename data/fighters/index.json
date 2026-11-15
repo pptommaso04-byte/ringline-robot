@@ -30937,7 +30937,7 @@
  },
  "Andre Gorges": {
   "slug": "andre-gorges",
-  "updated": "2026-11-12T03:50:10+00:00",
+  "updated": "2026-11-15T03:55:53+00:00",
   "total": 15,
   "verified": 0,
   "record": {
@@ -30953,7 +30953,7 @@
  },
  "Saemi Hanagata": {
   "slug": "saemi-hanagata",
-  "updated": "2026-11-12T03:50:52+00:00",
+  "updated": "2026-11-15T03:55:56+00:00",
   "total": 28,
   "verified": 0,
   "record": {
@@ -30977,7 +30977,7 @@
  },
  "Chris Algieri": {
   "slug": "chris-algieri",
-  "updated": "2026-11-12T03:51:09+00:00",
+  "updated": "2026-11-15T03:56:03+00:00",
   "total": 29,
   "verified": 0,
   "record": {
@@ -31002,7 +31002,7 @@
  },
  "Robert Helenius": {
   "slug": "robert-helenius",
-  "updated": "2026-11-12T03:55:43+00:00",
+  "updated": "2026-11-15T03:56:11+00:00",
   "total": 37,
   "verified": 0,
   "record": {
@@ -54119,6 +54119,21 @@
    "w": 39,
    "l": 2,
    "d": 2,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Emanuela Pantani": {
+  "slug": "emanuela-pantani",
+  "updated": "2026-11-15T03:56:16+00:00",
+  "total": 10,
+  "verified": 0,
+  "record": {
+   "w": 10,
+   "l": 0,
+   "d": 0,
    "nc": 0
   },
   "langs": [
