@@ -30785,7 +30785,7 @@
  },
  "Tom Dallas": {
   "slug": "tom-dallas",
-  "updated": "2026-11-12T03:41:13+00:00",
+  "updated": "2026-11-15T03:45:50+00:00",
   "total": 27,
   "verified": 0,
   "record": {
@@ -30800,7 +30800,7 @@
  },
  "Lisa Whiteside": {
   "slug": "lisa-whiteside",
-  "updated": "2026-11-12T03:41:18+00:00",
+  "updated": "2026-11-15T03:45:54+00:00",
   "total": 6,
   "verified": 0,
   "record": {
@@ -30815,7 +30815,7 @@
  },
  "Bob Ajisafe": {
   "slug": "bob-ajisafe",
-  "updated": "2026-11-12T03:41:22+00:00",
+  "updated": "2026-11-15T03:45:57+00:00",
   "total": 23,
   "verified": 0,
   "record": {
@@ -30830,7 +30830,7 @@
  },
  "Anthony Nelson (boxer)": {
   "slug": "anthony-nelson-boxer",
-  "updated": "2026-11-12T03:41:28+00:00",
+  "updated": "2026-11-15T03:46:04+00:00",
   "total": 14,
   "verified": 0,
   "record": {
@@ -54104,6 +54104,21 @@
    "w": 13,
    "l": 3,
    "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Takashi Koshimoto": {
+  "slug": "takashi-koshimoto",
+  "updated": "2026-11-15T03:46:09+00:00",
+  "total": 43,
+  "verified": 0,
+  "record": {
+   "w": 39,
+   "l": 2,
+   "d": 2,
    "nc": 0
   },
   "langs": [
