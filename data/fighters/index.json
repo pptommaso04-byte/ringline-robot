@@ -31388,7 +31388,7 @@
  },
  "Takahiro Ao": {
   "slug": "takahiro-ao",
-  "updated": "2026-11-12T04:35:50+00:00",
+  "updated": "2026-11-15T04:40:51+00:00",
   "total": 33,
   "verified": 0,
   "record": {
@@ -54323,5 +54323,43 @@
   "langs": [
    "en"
   ]
+ },
+ "Clifford Etienne": {
+  "slug": "clifford-etienne",
+  "updated": "2026-11-15T04:40:55+00:00",
+  "total": 35,
+  "verified": 0,
+  "record": {
+   "w": 29,
+   "l": 4,
+   "d": 2,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "es"
+  ]
+ },
+ "Jameel McCline": {
+  "slug": "jameel-mccline",
+  "updated": "2026-11-15T04:41:01+00:00",
+  "total": 57,
+  "verified": 0,
+  "record": {
+   "w": 41,
+   "l": 13,
+   "d": 3,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "pt"
+  ]
+ },
+ "Marco Rudolph": {
+  "tried": "2026-11-15T04:40:45+00:00"
+ },
+ "Oktay Urkal": {
+  "tried": "2026-11-15T04:40:45+00:00"
  }
 }
