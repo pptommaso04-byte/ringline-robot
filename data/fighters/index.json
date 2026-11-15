@@ -28649,7 +28649,7 @@
  },
  "Israel Vázquez": {
   "slug": "israel-vazquez",
-  "updated": "2026-11-12T00:05:48+00:00",
+  "updated": "2026-11-15T00:10:52+00:00",
   "total": 49,
   "verified": 0,
   "record": {
@@ -28664,7 +28664,7 @@
  },
  "Paul Edwards (boxer)": {
   "slug": "paul-edwards-boxer",
-  "updated": "2026-11-12T00:05:53+00:00",
+  "updated": "2026-11-15T00:10:46+00:00",
   "total": 11,
   "verified": 0,
   "record": {
@@ -53264,6 +53264,53 @@
   },
   "langs": [
    "en"
+  ]
+ },
+ "Winky Wright": {
+  "slug": "winky-wright",
+  "updated": "2026-11-15T00:10:55+00:00",
+  "total": 58,
+  "verified": 0,
+  "record": {
+   "w": 51,
+   "l": 6,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Chris Johnson (boxer)": {
+  "slug": "chris-johnson-boxer",
+  "updated": "2026-11-15T00:10:59+00:00",
+  "total": 30,
+  "verified": 0,
+  "record": {
+   "w": 26,
+   "l": 3,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Jeff Monson": {
+  "slug": "jeff-monson",
+  "updated": "2026-11-15T00:11:02+00:00",
+  "total": 13,
+  "verified": 0,
+  "record": {
+   "w": 6,
+   "l": 4,
+   "d": 3,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "it",
+   "es"
   ]
  }
 }
