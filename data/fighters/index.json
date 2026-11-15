@@ -30685,7 +30685,7 @@
  },
  "Andrew Hernandez": {
   "slug": "andrew-hernandez",
-  "updated": "2026-11-12T03:31:13+00:00",
+  "updated": "2026-11-15T03:31:47+00:00",
   "total": 22,
   "verified": 0,
   "record": {
@@ -30700,7 +30700,7 @@
  },
  "Tomasz Sarara": {
   "slug": "tomasz-sarara",
-  "updated": "2026-11-12T03:31:16+00:00",
+  "updated": "2026-11-15T03:31:49+00:00",
   "total": 51,
   "verified": 0,
   "record": {
@@ -30715,7 +30715,7 @@
  },
  "Cédric Vitu": {
   "slug": "cedric-vitu",
-  "updated": "2026-11-12T03:31:19+00:00",
+  "updated": "2026-11-15T03:31:52+00:00",
   "total": 53,
   "verified": 0,
   "record": {
@@ -54044,5 +54044,24 @@
  },
  "Chris Bessey": {
   "tried": "2026-11-15T03:27:00+00:00"
+ },
+ "Lehlo Ledwaba": {
+  "slug": "lehlo-ledwaba",
+  "updated": "2026-11-15T03:31:55+00:00",
+  "total": 43,
+  "verified": 43,
+  "record": {
+   "w": 36,
+   "l": 6,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "it"
+  ]
+ },
+ "Stefan Trendafilov": {
+  "tried": "2026-11-15T03:31:43+00:00"
  }
 }
