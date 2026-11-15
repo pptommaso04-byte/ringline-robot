@@ -33514,7 +33514,7 @@
  },
  "David Price (boxer)": {
   "slug": "david-price-boxer",
-  "updated": "2026-11-12T08:05:47+00:00",
+  "updated": "2026-11-15T08:10:47+00:00",
   "total": 32,
   "verified": 0,
   "record": {
@@ -33535,7 +33535,7 @@
  },
  "Ruslan Karaev": {
   "slug": "ruslan-karaev",
-  "updated": "2026-11-12T08:05:53+00:00",
+  "updated": "2026-11-15T08:10:50+00:00",
   "total": 24,
   "verified": 0,
   "record": {
@@ -55140,5 +55140,38 @@
   "langs": [
    "en"
   ]
+ },
+ "Israel Garcia (boxer)": {
+  "slug": "israel-garcia-boxer",
+  "updated": "2026-11-15T08:10:54+00:00",
+  "total": 37,
+  "verified": 0,
+  "record": {
+   "w": 34,
+   "l": 3,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Gilberto Serrano": {
+  "slug": "gilberto-serrano",
+  "updated": "2026-11-15T08:10:59+00:00",
+  "total": 27,
+  "verified": 0,
+  "record": {
+   "w": 20,
+   "l": 6,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Serhiy Horodnichov": {
+  "tried": "2026-11-15T08:10:41+00:00"
  }
 }
