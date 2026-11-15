@@ -33659,7 +33659,7 @@
  },
  "Ayaka Miyao": {
   "slug": "ayaka-miyao",
-  "updated": "2026-11-12T08:25:38+00:00",
+  "updated": "2026-11-15T08:27:56+00:00",
   "total": 37,
   "verified": 0,
   "record": {
@@ -33674,7 +33674,7 @@
  },
  "Mika Iwakawa": {
   "slug": "mika-iwakawa",
-  "updated": "2026-11-12T08:25:41+00:00",
+  "updated": "2026-11-15T08:27:58+00:00",
   "total": 22,
   "verified": 0,
   "record": {
@@ -55236,5 +55236,38 @@
   "langs": [
    "en"
   ]
+ },
+ "Jawaid Khaliq": {
+  "slug": "jawaid-khaliq",
+  "updated": "2026-11-15T08:28:01+00:00",
+  "total": 25,
+  "verified": 0,
+  "record": {
+   "w": 23,
+   "l": 1,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Freddie Norwood": {
+  "slug": "freddie-norwood",
+  "updated": "2026-11-15T08:28:04+00:00",
+  "total": 48,
+  "verified": 0,
+  "record": {
+   "w": 43,
+   "l": 4,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Grady Brewer": {
+  "tried": "2026-11-15T08:27:53+00:00"
  }
 }
