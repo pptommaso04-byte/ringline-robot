@@ -29007,7 +29007,7 @@
  },
  "Sergiy Derevyanchenko": {
   "slug": "sergiy-derevyanchenko",
-  "updated": "2026-11-12T00:26:03+00:00",
+  "updated": "2026-11-15T00:35:41+00:00",
   "total": 23,
   "verified": 0,
   "record": {
@@ -29029,7 +29029,7 @@
  },
  "Ben Edwards (kickboxer)": {
   "slug": "ben-edwards-kickboxer",
-  "updated": "2026-11-12T00:31:25+00:00",
+  "updated": "2026-11-15T00:35:47+00:00",
   "total": 36,
   "verified": 0,
   "record": {
@@ -29050,7 +29050,7 @@
  },
  "Giorgio Petrosyan": {
   "slug": "giorgio-petrosyan",
-  "updated": "2026-11-12T00:31:32+00:00",
+  "updated": "2026-11-15T00:35:53+00:00",
   "total": 94,
   "verified": 90,
   "record": {
@@ -53311,6 +53311,24 @@
    "en",
    "it",
    "es"
+  ]
+ },
+ "Aníbal Santiago Acevedo": {
+  "tried": "2026-11-15T00:35:35+00:00"
+ },
+ "Cliff Couser": {
+  "slug": "cliff-couser",
+  "updated": "2026-11-15T00:35:59+00:00",
+  "total": 52,
+  "verified": 0,
+  "record": {
+   "w": 26,
+   "l": 22,
+   "d": 2,
+   "nc": 2
+  },
+  "langs": [
+   "en"
   ]
  }
 }
