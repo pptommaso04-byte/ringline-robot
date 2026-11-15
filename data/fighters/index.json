@@ -31143,7 +31143,7 @@
  },
  "Phil Lo Greco": {
   "slug": "phil-lo-greco",
-  "updated": "2026-11-12T04:11:13+00:00",
+  "updated": "2026-11-15T04:11:51+00:00",
   "total": 32,
   "verified": 0,
   "record": {
@@ -31166,7 +31166,7 @@
  },
  "Lamont Peterson": {
   "slug": "lamont-peterson",
-  "updated": "2026-11-12T04:11:23+00:00",
+  "updated": "2026-11-15T04:11:55+00:00",
   "total": 42,
   "verified": 0,
   "record": {
@@ -54172,5 +54172,26 @@
  },
  "Mark Delaney (boxer)": {
   "tried": "2026-11-15T04:01:37+00:00"
+ },
+ "Andrew Murray (Guyanese boxer)": {
+  "tried": "2026-11-15T04:11:44+00:00"
+ },
+ "Juliette Winter": {
+  "slug": "juliette-winter",
+  "updated": "2026-11-15T04:12:00+00:00",
+  "total": 13,
+  "verified": 0,
+  "record": {
+   "w": 4,
+   "l": 8,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Paul Griffin (boxer)": {
+  "tried": "2026-11-15T04:11:44+00:00"
  }
 }
