@@ -32604,7 +32604,7 @@
  },
  "Juan Carlos Payano": {
   "slug": "juan-carlos-payano",
-  "updated": "2026-11-12T06:35:37+00:00",
+  "updated": "2026-11-15T06:40:48+00:00",
   "total": 28,
   "verified": 0,
   "record": {
@@ -32624,7 +32624,7 @@
  },
  "Sakaria Lukas": {
   "slug": "sakaria-lukas",
-  "updated": "2026-11-12T06:35:42+00:00",
+  "updated": "2026-11-15T06:40:51+00:00",
   "total": 28,
   "verified": 0,
   "record": {
@@ -54811,6 +54811,27 @@
   "langs": [
    "en",
    "it"
+  ]
+ },
+ "James Crayton": {
+  "tried": "2026-11-15T06:40:44+00:00"
+ },
+ "Noree Jockygym": {
+  "tried": "2026-11-15T06:40:44+00:00"
+ },
+ "Alimi Goitia": {
+  "slug": "alimi-goitia",
+  "updated": "2026-11-15T06:40:57+00:00",
+  "total": 20,
+  "verified": 0,
+  "record": {
+   "w": 16,
+   "l": 4,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
   ]
  }
 }
