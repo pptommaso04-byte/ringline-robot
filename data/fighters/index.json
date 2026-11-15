@@ -33460,7 +33460,7 @@
  },
  "Vittorio Parrinello": {
   "slug": "vittorio-parrinello",
-  "updated": "2026-11-12T08:01:26+00:00",
+  "updated": "2026-11-15T08:05:48+00:00",
   "total": 16,
   "verified": 0,
   "record": {
@@ -33478,7 +33478,7 @@
  },
  "Juan Díaz (boxer)": {
   "slug": "juan-diaz-boxer",
-  "updated": "2026-11-12T08:01:32+00:00",
+  "updated": "2026-11-15T08:05:54+00:00",
   "total": 46,
   "verified": 0,
   "record": {
@@ -33493,7 +33493,7 @@
  },
  "Rene Dettweiler": {
   "slug": "rene-dettweiler",
-  "updated": "2026-11-12T08:01:35+00:00",
+  "updated": "2026-11-15T08:05:58+00:00",
   "total": 28,
   "verified": 0,
   "record": {
@@ -55122,5 +55122,23 @@
  },
  "Tomasz Borowski": {
   "tried": "2026-11-15T08:01:10+00:00"
+ },
+ "Wiesław Małyszko": {
+  "tried": "2026-11-15T08:05:41+00:00"
+ },
+ "Bruno Girard": {
+  "slug": "bruno-girard",
+  "updated": "2026-11-15T08:06:05+00:00",
+  "total": 48,
+  "verified": 0,
+  "record": {
+   "w": 42,
+   "l": 4,
+   "d": 2,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
