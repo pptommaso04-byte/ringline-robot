@@ -1,8 +1,21 @@
 {
- "updated": "2026-11-15T17:41:06+00:00",
+ "updated": "2026-11-15T17:45:49+00:00",
  "feeds_ok": 49,
  "feeds_failed": 4,
  "news": [
+  {
+   "title": "Matchroom Faces a Serious Problem If David Adeleye’s Right Hand Never Recovers",
+   "link": "https://www.boxing247.com/boxing-news/matchroom-faces-a-serious-problem-if-david-adeleyes-right-hand-never-recovers/311352",
+   "source": "East Side Boxing",
+   "lang": "en",
+   "date": "2026-11-15T17:42:58+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 39,
+   "sources_n": 2,
+   "title_it": "Matchroom si trova di fronte a un serio problema se la mano destra di David Adeleye non dovesse mai guarire",
+   "title_es": "Matchroom se enfrenta a un grave problema si la mano derecha de David Adeleye no se recupera nunca"
+  },
   {
    "title": "Video: Anthony Olascuaga retains title by decision against Yuberjen Martinez",
    "link": "https://www.fightmag.com/video-anthony-olascuaga-retains-title-by-decision-against-yuberjen-martinez/",
@@ -132,6 +145,19 @@
    "sources_n": 6,
    "title_it": "Dana White è un bugiardo patologico?",
    "title_es": "¿Es Dana White un mentiroso patológico?"
+  },
+  {
+   "title": "Fisher wants fight with AJ dangerman Prenga early next year",
+   "link": "https://www.skysports.com/boxing/news/12040/13612527/johnny-fisher-wants-to-fight-kristian-prenga-the-man-who-almost-derailed-tyson-fury-vs-anthony-joshua-early-next-year",
+   "source": "Sky Sports Boxing",
+   "lang": "en",
+   "date": "2026-11-15T17:12:00+00:00",
+   "status": "rumor",
+   "boxers": [],
+   "score": 29,
+   "sources_n": 1,
+   "title_it": "Fisher vuole affrontare Prenga, il pericoloso avversario di AJ, all'inizio del prossimo anno",
+   "title_es": "Fisher quiere pelear con el peligroso AJ Prenga a principios del año que viene"
   },
   {
    "title": "Carlos Adames vs. Gerome Warburton: Riyadh Season Zuffa Boxing 13",
@@ -323,8 +349,8 @@
    "date": "2026-11-15T14:02:00+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 56,
-   "sources_n": 3,
+   "score": 46,
+   "sources_n": 2,
    "title_it": "Hatton vince il DP World Tour Championship mentre McIlroy rivendica il titolo della Race to Dubai",
    "title_es": "Hatton gana el Campeonato DP World Tour y McIlroy se adjudica el título de la Carrera a Dubái"
   },
@@ -336,7 +362,7 @@
    "date": "2026-11-15T13:43:20+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 66,
+   "score": 65,
    "sources_n": 9,
    "title_it": "Viddal Riley batte Seydi Coupe mentre Sauerland chiede la possibilità di vincere il titolo mondiale - Dave.Sport",
    "title_es": "Viddal Riley vence a Seydi Coupe mientras Sauerland exige una oportunidad por el título mundial - Dave.Sport"
@@ -531,8 +557,8 @@
    "date": "2026-11-15T11:36:06+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 54,
-   "sources_n": 3,
+   "score": 64,
+   "sources_n": 4,
    "title_it": "David Adeleye combatte nonostante l'infortunio e batte Flores | Matchroom Boxing",
    "title_es": "David Adeleye supera una lesión para vencer a Flores | Matchroom Boxing"
   },
@@ -682,7 +708,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 111,
+   "score": 110,
    "sources_n": 9,
    "title_it": "Biglietti Tyson Fury vs Anthony Joshua per £ 315 a persona con bevande gratuite incluse nell'offerta di ospitalità per la serata di combattimento VIP",
    "title_es": "Entradas para Tyson Fury vs Anthony Joshua por £ 315 por persona con bebidas gratis incluidas en la oferta de hospitalidad VIP para la noche de pelea"
@@ -823,7 +849,7 @@
    "date": "2026-11-15T07:41:29+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 100,
+   "score": 99,
    "sources_n": 10,
    "title_it": "[SPOILER] Diego Pacheco contro Darius Fulghum",
    "title_es": "[SPOILER] Diego Pacheco contra Darius Fulghum"
@@ -836,7 +862,7 @@
    "date": "2026-11-15T07:41:07+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 55,
+   "score": 54,
    "sources_n": 4,
    "title_it": "[Spoiler] Zelfa Barrett contro Gavin Gwynne",
    "title_es": "[Spoiler] Zelfa Barrett contra Gavin Gwynne"
@@ -1371,23 +1397,10 @@
    "date": "2026-11-14T17:33:48+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 47,
-   "sources_n": 3,
+   "score": 37,
+   "sources_n": 2,
    "title_it": "Un pugile adolescente rivela il suo dolore dopo essersi visto negare la possibilità di partecipare al Campionato del Mondo a causa di un errore amministrativo",
    "title_es": "Un boxeador adolescente revela su tristeza tras vérsele negada la oportunidad de disputar el Campeonato del Mundo debido a un error administrativo"
-  },
-  {
-   "title": "Teenage boxer reveals heartache after being denied World Championship shot over admin error - talkSPORT",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeDN2V2tqUG1MNVJKUVp1SEN2bDFBQ3d1eG5yam1uMnVqN3ZJa1dlaDZDVGthWDB6U25zMlU3Ui11MGdmaHNyQWRxaVoxaHhpVW9mOFVFNC1NalZvNFppLVh6M09ib2l0STQ5Zk95VTFLRGVrTjVidEpvR1JnWUtMTTVWUUUxQk5IRmthS29tOVNtRE91eW0tcjVEZUx0RU1rcktmaVp3?oc=5",
-   "source": "Google News: boxing",
-   "lang": "en",
-   "date": "2026-11-14T17:33:48+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 47,
-   "sources_n": 3,
-   "title_it": "Un pugile adolescente rivela il suo dolore dopo che gli è stato negato il tiro al Campionato del Mondo per un errore di amministrazione - talkSPORT",
-   "title_es": "Boxeador adolescente revela dolor después de que se le negara la oportunidad de ganar el Campeonato Mundial por error administrativo – talkSPORT"
   },
   {
    "title": "Aaron McKenna to defend IBF middleweight world title against Jevgenijs Aleksejevs live on Sky Sports on December 4 - Sky Sports",
@@ -1909,7 +1922,7 @@
    "date": "2026-11-14T09:40:43+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 24,
+   "score": 23,
    "sources_n": 2,
    "title_it": "Pugilato: Ferramosca riporta a Prato un titolo italiano dopo tredici anni di assenza - Notizie di Prato",
    "title_es": "Boxeo: Ferramosca devuelve un título italiano a Prato después de trece años de ausencia - Prato News"
@@ -1926,19 +1939,6 @@
    "sources_n": 2,
    "title_it": "Pugilato: Ferramosca nuovo campione italiano pro supergallo - Sportmediaset",
    "title_es": "Boxeo: Ferramosca nuevo campeón italiano de peso supergallo profesional - Sportmediaset"
-  },
-  {
-   "title": "Boxe Mugello, Alex Ferramosca è campione d’Italia dei supergallo - Radio Mugello",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQklGSW83X0U4dDNudUxqTlAxd2dvalRBckRzRDQ2d3hyeGRkUVd0TjZJT1MxUk5lSFl6TlhnaGg2UEExOUI1eTUwLS10ZFlfMVRxRWl6dHplZ0VOLWIwYW9iV3Z0czlFYW1NTUJac0hvWno5N0tNb21CWlUxN0xrTThVemdyN3gzZGVWNDItY3ZvVElpUkM3bDRZUFItUQ?oc=5",
-   "source": "Google News: boxe italiana",
-   "lang": "it",
-   "date": "2026-11-14T09:12:41+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 23,
-   "sources_n": 2,
-   "title_it": "Boxe Mugello, Alex Ferramosca è campione d’Italia dei supergallo - Radio Mugello",
-   "title_es": "Boxeo Mugello, Alex Ferramosca es campeón italiano de peso supergallo - Radio Mugello"
   },
   {
    "title": "Viddal Riley opens up on why he stuck with his dad instead of moving to Las Vegas to train with a Mayweather as he eyes fighting Oleksandr Usyk",
@@ -2349,7 +2349,7 @@
    "date": "2026-11-13T21:45:19+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 38,
+   "score": 37,
    "sources_n": 6,
    "title_it": "PRIMO FACE OFF: Jaron Boots Ennis contro Josh Kelly 👑👑👑",
    "title_es": "PRIMER ENFRENTAMIENTO: Jaron Boots Ennis Vs Josh Kelly 👑👑👑"
@@ -2429,7 +2429,7 @@
    "date": "2026-11-13T19:40:56+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 7,
+   "score": 6,
    "sources_n": 1,
    "title_it": "Arrestato allenatore di boxe e palestra chiusa per accuse di reato sessuale su minori",
    "title_es": "Entrenador de boxeo arrestado y gimnasio cerrado por delitos graves de sexo infantil"
@@ -2707,7 +2707,7 @@
    "date": "2026-11-13T13:43:50+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 4,
+   "score": 3,
    "sources_n": 1,
    "title_it": "Boxe, Marco Leonardi della Polisportiva Union 81 ricevuto e premiato in Municipio - ModenaToday",
    "title_es": "Boxeo, Marco Leonardi de Polisportiva Unión 81 recibido y premiado en el Ayuntamiento - ModenaToday"
