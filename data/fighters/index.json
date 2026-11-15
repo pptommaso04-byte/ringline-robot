@@ -53775,5 +53775,70 @@
  },
  "Chevelle Hallback": {
   "tried": "2026-11-15T02:31:17+00:00"
+ },
+ "James Page (boxer)": {
+  "slug": "james-page-boxer",
+  "updated": "2026-11-15T02:35:36+00:00",
+  "total": 30,
+  "verified": 0,
+  "record": {
+   "w": 25,
+   "l": 5,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "John Pearce (boxer)": {
+  "slug": "john-pearce-boxer",
+  "updated": "2026-11-15T02:35:41+00:00",
+  "total": 24,
+  "verified": 0,
+  "record": {
+   "w": 19,
+   "l": 4,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "José Luis Valbuena": {
+  "slug": "jose-luis-valbuena",
+  "updated": "2026-11-15T02:35:43+00:00",
+  "total": 30,
+  "verified": 0,
+  "record": {
+   "w": 24,
+   "l": 4,
+   "d": 1,
+   "nc": 1
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Jesús Pérez (boxer)": {
+  "tried": "2026-11-15T02:35:33+00:00"
+ },
+ "Martin Rogan": {
+  "slug": "martin-rogan",
+  "updated": "2026-11-15T02:35:49+00:00",
+  "total": 22,
+  "verified": 0,
+  "record": {
+   "w": 16,
+   "l": 6,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "fr",
+   "pt"
+  ]
  }
 }
