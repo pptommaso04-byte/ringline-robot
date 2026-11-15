@@ -31709,7 +31709,7 @@
  },
  "Carlos Zambrano (boxer)": {
   "slug": "carlos-zambrano-boxer",
-  "updated": "2026-11-12T05:05:58+00:00",
+  "updated": "2026-11-15T05:10:53+00:00",
   "total": 29,
   "verified": 0,
   "record": {
@@ -31727,7 +31727,7 @@
  },
  "Mónica Núñez": {
   "slug": "monica-nunez",
-  "updated": "2026-11-12T05:06:04+00:00",
+  "updated": "2026-11-15T05:10:58+00:00",
   "total": 13,
   "verified": 0,
   "record": {
@@ -54409,5 +54409,39 @@
  },
  "Emil Rizk": {
   "tried": "2026-11-15T05:01:08+00:00"
+ },
+ "Miguel Ángel González (boxer)": {
+  "slug": "miguel-angel-gonzalez-boxer",
+  "updated": "2026-11-15T05:11:03+00:00",
+  "total": 57,
+  "verified": 0,
+  "record": {
+   "w": 51,
+   "l": 5,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Jason Matthews (boxer)": {
+  "slug": "jason-matthews-boxer",
+  "updated": "2026-11-15T05:11:08+00:00",
+  "total": 23,
+  "verified": 0,
+  "record": {
+   "w": 21,
+   "l": 2,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "pt"
+  ]
+ },
+ "Jiang Tao (boxer)": {
+  "tried": "2026-11-15T05:10:47+00:00"
  }
 }
