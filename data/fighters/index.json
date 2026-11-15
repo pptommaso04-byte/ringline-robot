@@ -29568,7 +29568,7 @@
  },
  "Tyrone Spong": {
   "slug": "tyrone-spong",
-  "updated": "2026-11-12T01:31:06+00:00",
+  "updated": "2026-11-15T01:35:53+00:00",
   "total": 64,
   "verified": 60,
   "record": {
@@ -29594,7 +29594,7 @@
  },
  "Gegard Mousasi": {
   "slug": "gegard-mousasi",
-  "updated": "2026-11-12T01:31:18+00:00",
+  "updated": "2026-11-15T01:36:00+00:00",
   "total": 5,
   "verified": 0,
   "record": {
@@ -53577,5 +53577,26 @@
   "langs": [
    "en"
   ]
+ },
+ "Hermensen Ballo": {
+  "tried": "2026-11-15T01:35:46+00:00"
+ },
+ "Derek Bryant (boxer)": {
+  "slug": "derek-bryant-boxer",
+  "updated": "2026-11-15T01:36:09+00:00",
+  "total": 28,
+  "verified": 0,
+  "record": {
+   "w": 20,
+   "l": 7,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Derek Panza": {
+  "tried": "2026-11-15T01:35:46+00:00"
  }
 }
