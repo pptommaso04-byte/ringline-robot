@@ -55463,5 +55463,45 @@
    "en",
    "pt"
   ]
+ },
+ "Garry Delaney": {
+  "tried": "2026-11-15T09:20:41+00:00"
+ },
+ "Patrick Mullings": {
+  "tried": "2026-11-15T09:20:41+00:00"
+ },
+ "Ricky Quiles": {
+  "tried": "2026-11-15T09:20:41+00:00"
+ },
+ "Allan Ranada": {
+  "slug": "allan-ranada",
+  "updated": "2026-11-15T09:20:49+00:00",
+  "total": 41,
+  "verified": 0,
+  "record": {
+   "w": 18,
+   "l": 22,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Gianluca Branco": {
+  "slug": "gianluca-branco",
+  "updated": "2026-11-15T09:20:53+00:00",
+  "total": 53,
+  "verified": 0,
+  "record": {
+   "w": 49,
+   "l": 3,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "fr"
+  ]
  }
 }
