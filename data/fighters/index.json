@@ -32498,7 +32498,7 @@
  },
  "Samartlek Kokietgym": {
   "slug": "samartlek-kokietgym",
-  "updated": "2026-11-12T06:21:13+00:00",
+  "updated": "2026-11-15T06:22:54+00:00",
   "total": 59,
   "verified": 0,
   "record": {
@@ -54693,5 +54693,53 @@
  },
  "Michael Strange (boxer)": {
   "tried": "2026-11-15T06:21:02+00:00"
+ },
+ "Martha Salazar": {
+  "slug": "martha-salazar",
+  "updated": "2026-11-15T06:22:58+00:00",
+  "total": 13,
+  "verified": 0,
+  "record": {
+   "w": 13,
+   "l": 0,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Neil Simpson (boxer)": {
+  "slug": "neil-simpson-boxer",
+  "updated": "2026-11-15T06:23:03+00:00",
+  "total": 46,
+  "verified": 0,
+  "record": {
+   "w": 26,
+   "l": 19,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Ada Vélez": {
+  "slug": "ada-velez",
+  "updated": "2026-11-15T06:23:08+00:00",
+  "total": 28,
+  "verified": 0,
+  "record": {
+   "w": 20,
+   "l": 5,
+   "d": 3,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Adam Flores": {
+  "tried": "2026-11-15T06:22:50+00:00"
  }
 }
