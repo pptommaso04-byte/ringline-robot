@@ -32686,7 +32686,7 @@
  },
  "Jesús Jiménez (boxer)": {
   "slug": "jesus-jimenez-boxer",
-  "updated": "2026-11-12T06:46:03+00:00",
+  "updated": "2026-11-15T06:50:51+00:00",
   "total": 19,
   "verified": 0,
   "record": {
@@ -32701,7 +32701,7 @@
  },
  "Alexey Kudin": {
   "slug": "alexey-kudin",
-  "updated": "2026-11-12T06:46:06+00:00",
+  "updated": "2026-11-15T06:50:53+00:00",
   "total": 26,
   "verified": 0,
   "record": {
@@ -54839,5 +54839,26 @@
  },
  "Derrell Dixon": {
   "tried": "2026-11-15T06:45:52+00:00"
+ },
+ "Dino Wells": {
+  "tried": "2026-11-15T06:50:46+00:00"
+ },
+ "Edgardo Santos": {
+  "tried": "2026-11-15T06:50:46+00:00"
+ },
+ "Andy Green (boxer)": {
+  "slug": "andy-green-boxer",
+  "updated": "2026-11-15T06:50:59+00:00",
+  "total": 39,
+  "verified": 0,
+  "record": {
+   "w": 35,
+   "l": 3,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
