@@ -32443,7 +32443,7 @@
  },
  "Dmytro Kucher": {
   "slug": "dmytro-kucher",
-  "updated": "2026-11-12T06:16:07+00:00",
+  "updated": "2026-11-15T06:21:06+00:00",
   "total": 28,
   "verified": 0,
   "record": {
@@ -32459,7 +32459,7 @@
  },
  "Ronald Barrera": {
   "slug": "ronald-barrera",
-  "updated": "2026-11-12T06:16:11+00:00",
+  "updated": "2026-11-15T06:21:11+00:00",
   "total": 46,
   "verified": 0,
   "record": {
@@ -32474,7 +32474,7 @@
  },
  "Ikram Kerwat": {
   "slug": "ikram-kerwat",
-  "updated": "2026-11-12T06:16:14+00:00",
+  "updated": "2026-11-15T06:21:16+00:00",
   "total": 18,
   "verified": 0,
   "record": {
@@ -54674,5 +54674,24 @@
  },
  "Tomas Barrientes": {
   "tried": "2026-11-15T05:55:38+00:00"
+ },
+ "Will Grigsby": {
+  "slug": "will-grigsby",
+  "updated": "2026-11-15T06:21:21+00:00",
+  "total": 24,
+  "verified": 0,
+  "record": {
+   "w": 18,
+   "l": 4,
+   "d": 1,
+   "nc": 1
+  },
+  "langs": [
+   "en",
+   "pt"
+  ]
+ },
+ "Michael Strange (boxer)": {
+  "tried": "2026-11-15T06:21:02+00:00"
  }
 }
