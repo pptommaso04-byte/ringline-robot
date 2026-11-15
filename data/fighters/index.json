@@ -9932,7 +9932,7 @@
  },
  "Agapito Sánchez": {
   "slug": "agapito-sanchez",
-  "updated": "2026-11-10T18:27:04+00:00",
+  "updated": "2026-11-15T09:15:55+00:00",
   "total": 50,
   "verified": 0,
   "record": {
@@ -55414,5 +55414,54 @@
  },
  "Steve Suissa": {
   "tried": "2026-11-15T09:11:06+00:00"
+ },
+ "Howard Eastman": {
+  "slug": "howard-eastman",
+  "updated": "2026-11-15T09:15:47+00:00",
+  "total": 62,
+  "verified": 0,
+  "record": {
+   "w": 49,
+   "l": 13,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Peter Richardson (boxer)": {
+  "slug": "peter-richardson-boxer",
+  "updated": "2026-11-15T09:15:52+00:00",
+  "total": 47,
+  "verified": 0,
+  "record": {
+   "w": 31,
+   "l": 14,
+   "d": 2,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Charles Shepherd (boxer)": {
+  "tried": "2026-11-15T09:15:43+00:00"
+ },
+ "Ala Villamor": {
+  "slug": "ala-villamor",
+  "updated": "2026-11-15T09:15:58+00:00",
+  "total": 32,
+  "verified": 0,
+  "record": {
+   "w": 29,
+   "l": 2,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "pt"
+  ]
  }
 }
