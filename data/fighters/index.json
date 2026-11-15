@@ -29408,11 +29408,12 @@
   "langs": [
    "en",
    "it"
-  ]
+  ],
+  "tried": "2026-11-15T01:15:45+00:00"
  },
  "Frankie Gavin (boxer)": {
   "slug": "frankie-gavin-boxer",
-  "updated": "2026-11-12T01:11:00+00:00",
+  "updated": "2026-11-15T01:15:53+00:00",
   "total": 30,
   "verified": 0,
   "record": {
@@ -53468,5 +53469,26 @@
  },
  "Neil Swain": {
   "tried": "2026-11-15T01:10:43+00:00"
+ },
+ "Richard Williams (boxer)": {
+  "slug": "richard-williams-boxer",
+  "updated": "2026-11-15T01:16:01+00:00",
+  "total": 27,
+  "verified": 0,
+  "record": {
+   "w": 21,
+   "l": 5,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Alvin Manley": {
+  "tried": "2026-11-15T01:15:45+00:00"
+ },
+ "Mario Romero (Nicaraguan boxer)": {
+  "tried": "2026-11-15T01:15:45+00:00"
  }
 }
