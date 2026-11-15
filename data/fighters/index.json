@@ -33132,7 +33132,7 @@
  },
  "Kaoklai Kaennorsing": {
   "slug": "kaoklai-kaennorsing",
-  "updated": "2026-11-12T07:31:19+00:00",
+  "updated": "2026-11-15T07:31:37+00:00",
   "total": 63,
   "verified": 0,
   "record": {
@@ -33148,7 +33148,7 @@
  },
  "Félix Díaz (boxer)": {
   "slug": "felix-diaz-boxer",
-  "updated": "2026-11-12T07:31:23+00:00",
+  "updated": "2026-11-15T07:31:40+00:00",
   "total": 23,
   "verified": 0,
   "record": {
@@ -33163,7 +33163,7 @@
  },
  "Katsunari Takayama": {
   "slug": "katsunari-takayama",
-  "updated": "2026-11-12T07:31:26+00:00",
+  "updated": "2026-11-15T07:31:43+00:00",
   "total": 45,
   "verified": 0,
   "record": {
@@ -54942,6 +54942,36 @@
    "w": 57,
    "l": 9,
    "d": 3,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Norberto Bravo": {
+  "slug": "norberto-bravo",
+  "updated": "2026-11-15T07:31:47+00:00",
+  "total": 48,
+  "verified": 0,
+  "record": {
+   "w": 27,
+   "l": 18,
+   "d": 2,
+   "nc": 1
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Arkhom Chenglai": {
+  "slug": "arkhom-chenglai",
+  "updated": "2026-11-15T07:31:51+00:00",
+  "total": 14,
+  "verified": 0,
+  "record": {
+   "w": 14,
+   "l": 0,
+   "d": 0,
    "nc": 0
   },
   "langs": [
