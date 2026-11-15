@@ -32547,7 +32547,7 @@
  },
  "Naim Terbunja": {
   "slug": "naim-terbunja",
-  "updated": "2026-11-12T06:31:08+00:00",
+  "updated": "2026-11-15T06:35:39+00:00",
   "total": 13,
   "verified": 0,
   "record": {
@@ -32565,7 +32565,7 @@
  },
  "Shawn Hawk": {
   "slug": "shawn-hawk",
-  "updated": "2026-11-12T06:31:19+00:00",
+  "updated": "2026-11-15T06:35:45+00:00",
   "total": 27,
   "verified": 0,
   "record": {
@@ -32580,7 +32580,7 @@
  },
  "Łukasz Maszczyk": {
   "slug": "ukasz-maszczyk",
-  "updated": "2026-11-12T06:31:22+00:00",
+  "updated": "2026-11-15T06:35:49+00:00",
   "total": 5,
   "verified": 0,
   "record": {
@@ -54792,6 +54792,25 @@
   },
   "langs": [
    "en"
+  ]
+ },
+ "Alex Baba": {
+  "tried": "2026-11-15T06:35:35+00:00"
+ },
+ "Miguel Jiménez (boxer)": {
+  "slug": "miguel-jimenez-boxer",
+  "updated": "2026-11-15T06:35:57+00:00",
+  "total": 45,
+  "verified": 0,
+  "record": {
+   "w": 31,
+   "l": 12,
+   "d": 1,
+   "nc": 1
+  },
+  "langs": [
+   "en",
+   "it"
   ]
  }
 }
