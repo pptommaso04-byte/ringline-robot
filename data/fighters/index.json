@@ -29615,7 +29615,7 @@
  },
  "Anthony Peterson": {
   "slug": "anthony-peterson",
-  "updated": "2026-11-12T01:35:56+00:00",
+  "updated": "2026-11-15T01:41:10+00:00",
   "total": 42,
   "verified": 0,
   "record": {
@@ -29630,7 +29630,7 @@
  },
  "Mario Antonio Macias": {
   "slug": "mario-antonio-macias",
-  "updated": "2026-11-12T01:36:02+00:00",
+  "updated": "2026-11-15T01:41:15+00:00",
   "total": 52,
   "verified": 0,
   "record": {
@@ -29654,7 +29654,7 @@
  },
  "Tshifhiwa Munyai": {
   "slug": "tshifhiwa-munyai",
-  "updated": "2026-11-12T01:40:46+00:00",
+  "updated": "2026-11-15T01:41:18+00:00",
   "total": 41,
   "verified": 0,
   "record": {
@@ -29669,7 +29669,7 @@
  },
  "Alex Miskirtchian": {
   "slug": "alex-miskirtchian",
-  "updated": "2026-11-12T01:40:50+00:00",
+  "updated": "2026-11-15T01:41:20+00:00",
   "total": 34,
   "verified": 0,
   "record": {
@@ -53598,5 +53598,21 @@
  },
  "Derek Panza": {
   "tried": "2026-11-15T01:35:46+00:00"
+ },
+ "Melvin Foster": {
+  "slug": "melvin-foster",
+  "updated": "2026-11-15T01:41:23+00:00",
+  "total": 38,
+  "verified": 0,
+  "record": {
+   "w": 24,
+   "l": 13,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "it"
+  ]
  }
 }
