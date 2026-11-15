@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T15:40:47+00:00",
+ "updated": "2026-11-15T15:45:46+00:00",
  "feeds_ok": 49,
  "feeds_failed": 4,
  "news": [
@@ -141,7 +141,7 @@
    "date": "2026-11-15T13:43:20+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 67,
+   "score": 66,
    "sources_n": 9,
    "title_it": "Viddal Riley batte Seydi Coupe mentre Sauerland chiede la possibilità di vincere il titolo mondiale - Dave.Sport",
    "title_es": "Viddal Riley vence a Seydi Coupe mientras Sauerland exige una oportunidad por el título mundial - Dave.Sport"
@@ -513,7 +513,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 112,
+   "score": 111,
    "sources_n": 9,
    "title_it": "Biglietti Tyson Fury vs Anthony Joshua per £ 315 a persona con bevande gratuite incluse nell'offerta di ospitalità per la serata di combattimento VIP",
    "title_es": "Entradas para Tyson Fury vs Anthony Joshua por £ 315 por persona con bebidas gratis incluidas en la oferta de hospitalidad VIP para la noche de pelea"
@@ -654,7 +654,7 @@
    "date": "2026-11-15T07:41:29+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 101,
+   "score": 100,
    "sources_n": 10,
    "title_it": "[SPOILER] Diego Pacheco contro Darius Fulghum",
    "title_es": "[SPOILER] Diego Pacheco contra Darius Fulghum"
@@ -667,7 +667,7 @@
    "date": "2026-11-15T07:41:07+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 56,
+   "score": 55,
    "sources_n": 4,
    "title_it": "[Spoiler] Zelfa Barrett contro Gavin Gwynne",
    "title_es": "[Spoiler] Zelfa Barrett contra Gavin Gwynne"
@@ -1792,7 +1792,7 @@
    "date": "2026-11-14T09:40:43+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 25,
+   "score": 24,
    "sources_n": 2,
    "title_it": "Pugilato: Ferramosca riporta a Prato un titolo italiano dopo tredici anni di assenza - Notizie di Prato",
    "title_es": "Boxeo: Ferramosca devuelve un título italiano a Prato después de trece años de ausencia - Prato News"
@@ -1809,6 +1809,19 @@
    "sources_n": 2,
    "title_it": "Pugilato: Ferramosca nuovo campione italiano pro supergallo - Sportmediaset",
    "title_es": "Boxeo: Ferramosca nuevo campeón italiano de peso supergallo profesional - Sportmediaset"
+  },
+  {
+   "title": "Boxe Mugello, Alex Ferramosca è campione d’Italia dei supergallo - Radio Mugello",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQklGSW83X0U4dDNudUxqTlAxd2dvalRBckRzRDQ2d3hyeGRkUVd0TjZJT1MxUk5lSFl6TlhnaGg2UEExOUI1eTUwLS10ZFlfMVRxRWl6dHplZ0VOLWIwYW9iV3Z0czlFYW1NTUJac0hvWno5N0tNb21CWlUxN0xrTThVemdyN3gzZGVWNDItY3ZvVElpUkM3bDRZUFItUQ?oc=5",
+   "source": "Google News: boxe italiana",
+   "lang": "it",
+   "date": "2026-11-14T09:12:41+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 24,
+   "sources_n": 2,
+   "title_it": "Boxe Mugello, Alex Ferramosca è campione d’Italia dei supergallo - Radio Mugello",
+   "title_es": "Boxeo en Mugello: Alex Ferramosca es campeón de Italia del peso supergallo - Radio Mugello"
   },
   {
    "title": "Viddal Riley opens up on why he stuck with his dad instead of moving to Las Vegas to train with a Mayweather as he eyes fighting Oleksandr Usyk",
@@ -2273,7 +2286,7 @@
    "date": "2026-11-13T21:45:19+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 39,
+   "score": 38,
    "sources_n": 6,
    "title_it": "PRIMO FACE OFF: Jaron Boots Ennis contro Josh Kelly 👑👑👑",
    "title_es": "PRIMER ENFRENTAMIENTO: Jaron Boots Ennis Vs Josh Kelly 👑👑👑"
@@ -2353,7 +2366,7 @@
    "date": "2026-11-13T19:40:56+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 8,
+   "score": 7,
    "sources_n": 1,
    "title_it": "Arrestato allenatore di boxe e palestra chiusa per accuse di reato sessuale su minori",
    "title_es": "Entrenador de boxeo arrestado y gimnasio cerrado por delitos graves de sexo infantil"
@@ -2670,7 +2683,7 @@
    "date": "2026-11-13T13:43:50+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 5,
+   "score": 4,
    "sources_n": 1,
    "title_it": "Boxe, Marco Leonardi della Polisportiva Union 81 ricevuto e premiato in Municipio - ModenaToday",
    "title_es": "Boxeo, Marco Leonardi de Polisportiva Unión 81 recibido y premiado en el Ayuntamiento - ModenaToday"
@@ -4012,19 +4025,6 @@
    "sources_n": 1,
    "title_it": "Tor San Lorenzo sul tetto d'Italia: trionfo storico per la Polisportiva Sociale TSL nel pugilato giovanile - Canale 10",
    "title_es": "Tor San Lorenzo en el techo de Italia: triunfo histórico de la Polisportiva Sociale TSL en el boxeo juvenil - Canale 10"
-  },
-  {
-   "title": "The good, the bad, and the stupid from the WBC convention",
-   "link": "https://www.badlefthook.com/boxing-news/120291/the-good-the-bad-and-the-stupid-from-the-wbc-convention",
-   "source": "Bad Left Hook",
-   "lang": "en",
-   "date": "2026-11-11T15:24:30-05:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 10,
-   "sources_n": 1,
-   "title_it": "Il buono, il cattivo e lo stupido della convention WBC",
-   "title_es": "Lo bueno, lo malo y lo estúpido de la convención del WBC"
   }
  ]
 }
