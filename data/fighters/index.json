@@ -33957,7 +33957,7 @@
  },
  "Mickey Bey": {
   "slug": "mickey-bey",
-  "updated": "2026-11-12T08:50:55+00:00",
+  "updated": "2026-11-15T08:52:21+00:00",
   "total": 30,
   "verified": 0,
   "record": {
@@ -33972,7 +33972,7 @@
  },
  "José Alfaro (boxer)": {
   "slug": "jose-alfaro-boxer",
-  "updated": "2026-11-12T08:51:00+00:00",
+  "updated": "2026-11-15T08:52:24+00:00",
   "total": 48,
   "verified": 0,
   "record": {
@@ -55310,5 +55310,26 @@
  },
  "Shigeyuki Dobashi": {
   "tried": "2026-11-15T08:47:21+00:00"
+ },
+ "Shannon Hall": {
+  "tried": "2026-11-15T08:52:17+00:00"
+ },
+ "Saúl Montana": {
+  "slug": "saul-montana",
+  "updated": "2026-11-15T08:52:30+00:00",
+  "total": 72,
+  "verified": 0,
+  "record": {
+   "w": 53,
+   "l": 19,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Mohamed Ben Guesmia": {
+  "tried": "2026-11-15T08:52:17+00:00"
  }
 }
