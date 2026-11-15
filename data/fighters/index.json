@@ -29941,7 +29941,7 @@
  },
  "Patricio Manuel": {
   "slug": "patricio-manuel",
-  "updated": "2026-11-12T02:05:49+00:00",
+  "updated": "2026-11-15T02:06:04+00:00",
   "total": 4,
   "verified": 4,
   "record": {
@@ -53657,5 +53657,29 @@
  },
  "Pepe Reilly": {
   "tried": "2026-11-15T01:55:33+00:00"
+ },
+ "Wasesa Sabuni": {
+  "tried": "2026-11-15T02:05:57+00:00"
+ },
+ "Fabrizio De Chiara": {
+  "tried": "2026-11-15T02:05:57+00:00"
+ },
+ "Arkadiy Topayev": {
+  "tried": "2026-11-15T02:05:57+00:00"
+ },
+ "Bert Batawang": {
+  "slug": "bert-batawang",
+  "updated": "2026-11-15T02:06:14+00:00",
+  "total": 65,
+  "verified": 0,
+  "record": {
+   "w": 46,
+   "l": 16,
+   "d": 3,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
