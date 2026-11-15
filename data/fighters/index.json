@@ -29964,7 +29964,7 @@
  },
  "Abner Mares": {
   "slug": "abner-mares",
-  "updated": "2026-11-12T02:06:01+00:00",
+  "updated": "2026-11-15T02:11:57+00:00",
   "total": 36,
   "verified": 35,
   "record": {
@@ -29981,7 +29981,7 @@
  },
  "Chonlatarn Piriyapinyo": {
   "slug": "chonlatarn-piriyapinyo",
-  "updated": "2026-11-12T02:06:08+00:00",
+  "updated": "2026-11-15T02:12:02+00:00",
   "total": 69,
   "verified": 0,
   "record": {
@@ -53676,6 +53676,27 @@
    "w": 46,
    "l": 16,
    "d": 3,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Javier Calderón": {
+  "tried": "2026-11-15T02:11:52+00:00"
+ },
+ "Justin Rowsell": {
+  "tried": "2026-11-15T02:11:52+00:00"
+ },
+ "Carlette Ewell": {
+  "slug": "carlette-ewell",
+  "updated": "2026-11-15T02:12:09+00:00",
+  "total": 17,
+  "verified": 0,
+  "record": {
+   "w": 16,
+   "l": 0,
+   "d": 1,
    "nc": 0
   },
   "langs": [
