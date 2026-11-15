@@ -30626,7 +30626,7 @@
  },
  "Michael Wallisch": {
   "slug": "michael-wallisch",
-  "updated": "2026-11-12T03:25:36+00:00",
+  "updated": "2026-11-15T03:27:04+00:00",
   "total": 29,
   "verified": 0,
   "record": {
@@ -30649,7 +30649,7 @@
  },
  "Daniel Estrada (boxer)": {
   "slug": "daniel-estrada-boxer",
-  "updated": "2026-11-12T03:25:46+00:00",
+  "updated": "2026-11-15T03:27:09+00:00",
   "total": 42,
   "verified": 0,
   "record": {
@@ -30664,7 +30664,7 @@
  },
  "Joel Julio": {
   "slug": "joel-julio",
-  "updated": "2026-11-12T03:25:50+00:00",
+  "updated": "2026-11-15T03:27:15+00:00",
   "total": 63,
   "verified": 0,
   "record": {
@@ -54025,5 +54025,24 @@
  },
  "Tarvis Simms": {
   "tried": "2026-11-15T03:22:56+00:00"
+ },
+ "Manuel Medina (boxer)": {
+  "slug": "manuel-medina-boxer",
+  "updated": "2026-11-15T03:27:19+00:00",
+  "total": 84,
+  "verified": 0,
+  "record": {
+   "w": 67,
+   "l": 16,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "it"
+  ]
+ },
+ "Chris Bessey": {
+  "tried": "2026-11-15T03:27:00+00:00"
  }
 }
