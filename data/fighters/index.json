@@ -32086,7 +32086,7 @@
  },
  "Toshiyuki Igarashi": {
   "slug": "toshiyuki-igarashi",
-  "updated": "2026-11-12T05:50:55+00:00",
+  "updated": "2026-11-15T05:55:42+00:00",
   "total": 29,
   "verified": 0,
   "record": {
@@ -32101,7 +32101,7 @@
  },
  "Yota Sato (boxer)": {
   "slug": "yota-sato-boxer",
-  "updated": "2026-11-12T05:50:59+00:00",
+  "updated": "2026-11-15T05:55:46+00:00",
   "total": 30,
   "verified": 0,
   "record": {
@@ -54653,5 +54653,26 @@
   "langs": [
    "en"
   ]
+ },
+ "Trevor Shailer": {
+  "tried": "2026-11-15T05:55:38+00:00"
+ },
+ "Kali Meehan": {
+  "slug": "kali-meehan",
+  "updated": "2026-11-15T05:55:49+00:00",
+  "total": 48,
+  "verified": 0,
+  "record": {
+   "w": 42,
+   "l": 6,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Tomas Barrientes": {
+  "tried": "2026-11-15T05:55:38+00:00"
  }
 }
