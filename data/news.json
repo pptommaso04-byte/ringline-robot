@@ -1,8 +1,21 @@
 {
- "updated": "2026-11-15T12:50:41+00:00",
- "feeds_ok": 49,
- "feeds_failed": 4,
+ "updated": "2026-11-15T12:55:45+00:00",
+ "feeds_ok": 48,
+ "feeds_failed": 5,
  "news": [
+  {
+   "title": "Ex-British boxing champion scores brutal KO to win bare-knuckle boxing world title",
+   "link": "https://talksport.com/boxing/4708375/british-champion-matty-askin-ko-bare-knuckle-boxing/",
+   "source": "Talksport Boxing",
+   "lang": "en",
+   "date": "2026-11-15T12:50:42+00:00",
+   "status": "confirmed",
+   "boxers": [],
+   "score": 47,
+   "sources_n": 1,
+   "title_it": "L'ex campione britannico di boxe mette a segno un brutale KO e vince il titolo mondiale di boxe a mani nude",
+   "title_es": "El ex campeón de boxeo británico logra un brutal KO para ganar el título mundial de boxeo a puño limpio"
+  },
   {
    "title": "Deontay Wilder vs Jai Opetaia: George Groves makes knockout prediction for heavyweight clash",
    "link": "https://bigfightweekend.com/2026/11/15/deontay-wilder-vs-jai-opetaia-groves-pick/",
@@ -706,7 +719,7 @@
    "date": "2026-11-14T22:50:53+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 33,
+   "score": 32,
    "sources_n": 2,
    "title_it": "Boxe: Luca D’Ortenzi batte Eros Seghetti e si conferma Campione d’Europa dei mediomassimi",
    "title_es": "Boxeo: Luca D'Ortenzi vence a Eros Seghetti y se confirma como campeón europeo de peso semipesado"
@@ -736,19 +749,6 @@
    "sources_n": 2,
    "title_it": "Harlem Eubank affronta la star statunitense di fama mondiale al ritorno a casa di Brighton, in diretta su DAZN",
    "title_es": "Harlem Eubank se enfrenta a la estrella estadounidense de ranking mundial en Brighton Homecoming, en vivo por DAZN"
-  },
-  {
-   "title": "Reigning champion Littler 'unplayable' in emphatic win over Greaves",
-   "link": "https://www.skysports.com/watch/video/13612359/luke-littler-vs-beau-greaves-grand-slam-of-darts-highlights",
-   "source": "Sky Sports Boxing",
-   "lang": "en",
-   "date": "2026-11-14T22:08:00+00:00",
-   "status": "confirmed",
-   "boxers": [],
-   "score": 30,
-   "sources_n": 1,
-   "title_it": "Il campione in carica Littler \"immarcabile\" nella netta vittoria su Greaves",
-   "title_es": "El vigente campeón Littler, «imparable», consigue una contundente victoria sobre Greaves"
   },
   {
    "title": "Devin Haney wasn't surprised when the Keyshawn Davis fight fell through 👀",
@@ -1150,7 +1150,7 @@
    "date": "2026-11-14T16:54:25+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 45,
+   "score": 44,
    "sources_n": 1,
    "title_it": "Pacheco espone due cinture in un eliminatore WBA - Claro Sports",
    "title_es": "Pacheco expone dos cinturones en una eliminatoria AMB - Claro Sports"
@@ -1163,7 +1163,7 @@
    "date": "2026-11-14T16:54:16+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 20,
+   "score": 19,
    "sources_n": 1,
    "title_it": "Mike Coppinger prosegue il suo sfogo di 24 ore attaccando Enzo Maccarinelli",
    "title_es": "Mike Coppinger continúa su rabieta de 24 horas enfrentándose a Enzo Maccarinelli"
@@ -1267,7 +1267,7 @@
    "date": "2026-11-14T14:51:34+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 19,
+   "score": 18,
    "sources_n": 1,
    "title_it": "Prossimo incontro di Itauma",
    "title_es": "El próximo combate de Itauma"
@@ -1825,6 +1825,19 @@
    "title_es": "El entrenador Shane McGuigan elige a un ganador en el combate entre Tyson Fury y Anthony Joshua: «No durará 6 asaltos»."
   },
   {
+   "title": "Sapone-Ferramosca, cambio di campione nei Supergallo: rivivi il match in live replay su Sportface TV - Sportface.it",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSmFvTlBiNWJtS0FjeTFYdjdkanBYQy1YalZLajdsWGVwQ0NJNW0yTTItdzJxbHliekZuUDZrWnZmSWZnblA3TzlJQnVkT2kwcXl0aW9EXy1wTzRqbWlvMjF3OUpIdzhQZU52cEI1amVrZldvRGtQcnFGOWkxMHJDNEFsblhtMjZWcWxJQ1FuTWdZZVhnVG1GNHk2LWdsYm5xc2M5N3NUMDJaQWd2ZGlORFBndmZMdVJJUHMtM3FXckRKUHR4ZkdiWGMzWnFoRFltc2FBbEJ5aw?oc=5",
+   "source": "Google News: pugilato",
+   "lang": "it",
+   "date": "2026-11-14T07:00:29+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 15,
+   "sources_n": 1,
+   "title_it": "Sapone-Ferramosca, cambio di campione nei Supergallo: rivivi il match in live replay su Sportface TV - Sportface.it",
+   "title_es": "Sapone-Ferramosca, cambio de campeón en Supergallos: revive el partido en directo en Sportface TV - Sportface.it"
+  },
+  {
    "title": "Live results: Riley beats Coupe to retain European title – Video",
    "link": "https://www.fightmag.com/boxing-viddal-riley-vs-seydi-coupe-live-results/",
    "source": "Fightmag",
@@ -2345,7 +2358,7 @@
    "date": "2026-11-13T16:52:42+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 83,
+   "score": 82,
    "sources_n": 10,
    "title_it": "Citazioni dalla conferenza stampa di Diego Pacheco vs Darius Fulghum e pronostico dell'incontro",
    "title_es": "Citas de la rueda de prensa y pronóstico del combate de Diego Pacheco contra Darius Fulghum"
@@ -2705,7 +2718,7 @@
     "Anthony Joshua",
     "Oleksandr Usyk"
    ],
-   "score": 90,
+   "score": 89,
    "sources_n": 10,
    "title_it": "Anthony Joshua spiega quale consiglio gli ha dato Oleksandr Usyk per l'incontro con Tyson Fury",
    "title_es": "Anthony Joshua explica qué consejo le dio Oleksandr Usyk para el combate contra Tyson Fury"
@@ -2980,19 +2993,6 @@
    "sources_n": 11,
    "title_it": "Conferenza stampa Diego Pacheco contro Darius Fulghum | Boxe da incontro",
    "title_es": "Conferencia de prensa de Diego Pacheco vs Darius Fulghum | Boxeo en la sala de partidos"
-  },
-  {
-   "title": "Roy Jones Jr sums up Lomachenko’s chances of winning world titles at 38 - Boxing News Online",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TSE9zV2hJTHJfQ2JzVUpEaktPNVhNaGI4WFpvcEJtVmF1WC1aM1RwelRKbVJzVG5aTFU1Q2lBU3dVN01NZ3VNRWw3QWpnX2ZYYnJybmRvY3lTLUxKWmd2Q0ZYNHF2WjZkUHo4dTBYN19BY29tb2dOMTJYdVpoajg?oc=5",
-   "source": "Google News: boxing",
-   "lang": "en",
-   "date": "2026-11-12T23:22:32+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 18,
-   "sources_n": 1,
-   "title_it": "Roy Jones Jr riassume le possibilità di Lomachenko di vincere titoli mondiali a 38 anni - Boxing News Online",
-   "title_es": "Roy Jones Jr resume las posibilidades de Lomachenko de ganar títulos mundiales a los 38 años - Boxing News Online"
   },
   {
    "title": "BOXXER's Ben Shalom exploring legal action after Martin Bakole's Fury-Joshua fight announced",
