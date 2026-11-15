@@ -33233,7 +33233,7 @@
  },
  "Frida Wallberg": {
   "slug": "frida-wallberg",
-  "updated": "2026-11-12T07:40:49+00:00",
+  "updated": "2026-11-15T07:40:59+00:00",
   "total": 12,
   "verified": 10,
   "record": {
@@ -55022,5 +55022,29 @@
  },
  "Choi Ki-soo": {
   "tried": "2026-11-15T07:39:28+00:00"
+ },
+ "Jeong Seung-won (boxer)": {
+  "tried": "2026-11-15T07:40:54+00:00"
+ },
+ "Lotfi Missaoui": {
+  "tried": "2026-11-15T07:40:54+00:00"
+ },
+ "Dan Mathunjawa": {
+  "tried": "2026-11-15T07:40:54+00:00"
+ },
+ "Zoltán Béres": {
+  "slug": "zoltan-beres",
+  "updated": "2026-11-15T07:41:10+00:00",
+  "total": 99,
+  "verified": 0,
+  "record": {
+   "w": 44,
+   "l": 52,
+   "d": 3,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
