@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-15T10:25:40+00:00",
- "feeds_ok": 49,
- "feeds_failed": 4,
+ "updated": "2026-11-15T10:31:07+00:00",
+ "feeds_ok": 48,
+ "feeds_failed": 5,
  "news": [
   {
    "title": "David Adeleye Battles Through Injury To Beat Flores | Matchroom Boxing",
@@ -835,7 +835,7 @@
    "date": "2026-11-14T18:29:30+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 52,
+   "score": 51,
    "sources_n": 3,
    "title_it": "McKenna difenderà per la prima volta il titolo mondiale a Riad",
    "title_es": "McKenna defenderá por primera vez su título mundial en Riad"
@@ -848,7 +848,7 @@
    "date": "2026-11-14T18:29:26+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 62,
+   "score": 61,
    "sources_n": 10,
    "title_it": "Riyadh Season Zuffa Boxing 14: McKenna affronterà Aleksejevs nella prima difesa del titolo mondiale - BBC",
    "title_es": "Riyadh Season Zuffa Boxing 14: McKenna se enfrentará a Aleksejevs en su primera defensa del título mundial - BBC"
@@ -1575,7 +1575,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 102,
+   "score": 101,
    "sources_n": 9,
    "title_it": "Anthony Joshua indica due cose che lui ha e che Tyson Fury non ha",
    "title_es": "Anthony Joshua menciona dos cosas que él tiene y Tyson Fury no"
@@ -1588,7 +1588,7 @@
    "date": "2026-11-14T08:27:24+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 17,
+   "score": 16,
    "sources_n": 1,
    "title_it": "Il 21 novembre in Sudafrica si terranno tre incontri per il titolo IBO",
    "title_es": "El 21 de noviembre se celebran en Sudáfrica tres combates por el título de la IBO"
@@ -1716,6 +1716,19 @@
    "sources_n": 1,
    "title_it": "Canelo Álvarez vuole combattere 3 volte nel 2027: ecco i rivali che cerca - Bolavip México",
    "title_es": "Canelo Álvarez quiere pelear 3 veces en 2027: los rivales que busca - Bolavip México"
+  },
+  {
+   "title": "\"The Greatest\", la serie di Prime Video su Muhammad Ali - BergamoNews",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQ3lDMkpHZ2JFNnctMkNJMG5GVTZPNVoyem1TQWZ5U2xTMHBpaE5UUE1hS3pkSjgycWpKa05GV1NsN0tyUDBNTGQzZUhQRm9iYkdTR0xtMHVMTXlBanY4T1JWalpTQkgtdlFaNzJNMlMyQl85LXk2WDFJWmQyTXoyVE5yT0ItTi1aTkg0czh1bG9nXzZaNHRoaGRDbDBGaWc?oc=5",
+   "source": "Google News: pugilato",
+   "lang": "it",
+   "date": "2026-11-14T05:19:00+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 5,
+   "sources_n": 1,
+   "title_it": "\"The Greatest\", la serie di Prime Video su Muhammad Ali - BergamoNews",
+   "title_es": "«The Greatest», la serie de Prime Video sobre Muhammad Ali - BergamoNews"
   },
   {
    "title": "Live results: Riley beats Coupe to retain European title – Video",
@@ -2192,19 +2205,6 @@
    "title_es": "Eddie Hearn afirma que se ha reunido con las cadenas de televisión y con el equipo de Inoue en las últimas 24 horas y que está ultimando un acuerdo para un combate entre Naoya Inoue y Bam. Dice que, en última instancia, todo dependerá de Robert García y Bam, para ver si aceptan."
   },
   {
-   "title": "Franco Falcinelli, da Assisi alla guida del pugilato europeo - UmbriaJournal",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcnVyMVQtcTVWb0hSNnA1OXQzcURSdFE4cmFUWGloTWZ4bWNxOUk1eFprTXpQWFctY3lkY2hYd3dfVTc4WlhRNENMZG1hMUZwWHRRclBtYWlXYVRGbDJSNldDMGZtMGVqcDdnb050MUpjelBHZ0htWlVUVU5UenFWcVQyZ3VtcGdtYkh4czNoYUY1bU9zdWtLUWZ3ZXVFSDAxTUtTV3RB?oc=5",
-   "source": "Google News: pugilato",
-   "lang": "it",
-   "date": "2026-11-13T17:21:36+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 9,
-   "sources_n": 1,
-   "title_it": "Franco Falcinelli, da Assisi alla guida del pugilato europeo - UmbriaJournal",
-   "title_es": "Franco Falcinelli, de Asís al frente del boxeo europeo - UmbriaJournal"
-  },
-  {
    "title": "Concluye la 64.ª Convención del CMB con triunfo de Camila Zamorano en Acapulco - anews",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPS1VXczV2ZE5vMzVqMDdrcXJLcUMwVXdmVy1KR0plcm9WLVpKZUVFMERfcjN3bDJONDNfQUZJMzJDejFDNVY1eDVMYUdObHNwNm1PYWNhUVFoSTNLS25sTmcyZHlFMVpEbkpQXzVyYjB2OHhZbWw1UUdYaVYwdjdVU3k1SHV3QUt1dlM2ZjN0cTdFLVdRRXZ1MjczaFZyUVhTdVdEZVBaYUo?oc=5",
    "source": "Google News: boxeo",
@@ -2264,7 +2264,7 @@
    "date": "2026-11-13T16:30:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 47,
+   "score": 46,
    "sources_n": 10,
    "title_it": "Carlos Adames: \"Metterò KO Gerome Warburton in tre round\": Riyadh Season Zuffa Boxing 13",
    "title_es": "Carlos Adames: «Voy a noquear a Gerome Warburton en tres asaltos»: Riyadh Season Zuffa Boxing 13"
@@ -2639,7 +2639,7 @@
    "boxers": [
     "Canelo Alvarez"
    ],
-   "score": 81,
+   "score": 80,
    "sources_n": 3,
    "title_it": "Willy Hutchinson ha capito come stanno le cose, ma Canelo Álvarez è un'altra storia",
    "title_es": "Willy Hutchinson se ha dado cuenta, pero Canelo Álvarez es otra historia completamente distinta."
