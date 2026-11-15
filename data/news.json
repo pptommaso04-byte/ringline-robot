@@ -1,8 +1,21 @@
 {
- "updated": "2026-11-15T11:15:45+00:00",
+ "updated": "2026-11-15T11:20:48+00:00",
  "feeds_ok": 49,
  "feeds_failed": 4,
  "news": [
+  {
+   "title": "Pugilato, doppio oro per le sorelle palermitane Estella e Crystal Filardi - Quotidiano di Palermo",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdHF5RVZTYnIwT0RSNUdWTVpURUtKb1ZmOTAzWEJlZzJ3dlBOSG9NcU96aEhERDgzNmZENmptdm9CcTJCcG1oOTFMV2FFb0RZckNxZGdNVjIzNjVXVW16T2RIOUxmQWtoeGd3akNlUzQ0VTR1QjBoZ0tBdmsxbVE1bEZVNjA3N1B1MmhCZ3B4RnBLQmZUVjY2Sk82VzFsREFnLUpmeHZhTQ?oc=5",
+   "source": "Google News: pugilato",
+   "lang": "it",
+   "date": "2026-11-15T11:14:53+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 39,
+   "sources_n": 2,
+   "title_it": "Pugilato, doppio oro per le sorelle palermitane Estella e Crystal Filardi - Quotidiano di Palermo",
+   "title_es": "Boxeo: doble oro para las hermanas palermitanas Estella y Crystal Filardi - Quotidiano di Palermo"
+  },
   {
    "title": "Anthony Olascuaga vs. Yuberjen Martinez | Official Fight Highlights",
    "link": "https://www.youtube.com/watch?v=mb_qGz_ALRQ",
@@ -291,7 +304,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 58,
-   "sources_n": 5,
+   "sources_n": 4,
    "title_it": "[Spoiler] Zelfa Barrett contro Gavin Gwynne",
    "title_es": "[Spoiler] Zelfa Barrett contra Gavin Gwynne"
   },
@@ -342,7 +355,7 @@
    "date": "2026-11-15T07:19:42+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 93,
+   "score": 92,
    "sources_n": 10,
    "title_it": "Diego Pacheco contro Darius Fulghum: video con i momenti salienti dell'incontro",
    "title_es": "Diego Pacheco vs. Darius Fulghum: Vídeo con los momentos destacados del combate"
@@ -381,8 +394,8 @@
    "date": "2026-11-15T06:36:29+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 75,
-   "sources_n": 4,
+   "score": 65,
+   "sources_n": 3,
    "title_it": "Barrett ferma Gwynne per il titolo vacante dei pesi leggeri",
    "title_es": "Barrett detiene el título vacante del peso ligero de Gwynne"
   },
@@ -433,7 +446,7 @@
    "date": "2026-11-15T03:17:24+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 26,
+   "score": 25,
    "sources_n": 1,
    "title_it": "Quanto sono bravi i pugili in ogni reparto? Valutali",
    "title_es": "¿Cómo de buenos son los boxeadores en cada aspecto? Puntúalos"
@@ -502,19 +515,6 @@
    "sources_n": 7,
    "title_it": "Viddal Riley contro Seydi Coupe: momenti salienti del combattimento in video",
    "title_es": "Viddal Riley vs. Seydi Coupe: vídeo con los momentos destacados del combate"
-  },
-  {
-   "title": "Barrett vs. Gwynne | Fight Highlights",
-   "link": "https://www.youtube.com/watch?v=S1nnbW9CDvE",
-   "source": "YouTube DAZN Boxing",
-   "lang": "en",
-   "date": "2026-11-15T00:50:13+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 54,
-   "sources_n": 4,
-   "title_it": "Barrett contro Gwynne | Punti salienti della lotta",
-   "title_es": "Barrett contra Gwynne | Aspectos destacados de la pelea"
   },
   {
    "title": "Indian Star Nishant Dev Moves 8-0 After Impressive Win In LA | Matchroom Boxing",
@@ -823,7 +823,7 @@
    "date": "2026-11-14T19:19:04+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 52,
+   "score": 51,
    "sources_n": 9,
    "title_it": "Conferenza stampa post-combattimento: Riyadh Season Zuffa Boxing 13",
    "title_es": "Conferencia de prensa posterior a la pelea: Temporada de Riad Zuffa Boxing 13"
@@ -1400,7 +1400,7 @@
    "date": "2026-11-14T11:15:55+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 28,
+   "score": 27,
    "sources_n": 2,
    "title_it": "Alex Ferramosca, della Boxe Mugello, nuovo campione italiano dei pesi supergallo - Il Filo",
    "title_es": "Alex Ferramosca, de Boxe Mugello, nuevo campeón italiano del peso supergallo - Il Filo"
@@ -1701,6 +1701,19 @@
    "sources_n": 1,
    "title_it": "Tyson Fury: il maestro del microfono!",
    "title_es": "Tyson Fury: ¡El maestro del micrófono!"
+  },
+  {
+   "title": "George Francis: Sex-test error meant boxer missed U19 World Championships - BBC",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kUW9IUHRJSFFMeGFMdlNaSlFUTlBpU3JXSWdxT0ZreU4zbjBjUGxzempwSTdxeWJxOVFXaHdoakRTSTRxUjllMm8xWEdxYTBob3d5RW9NWVRSX2hncEJhTjJCYWxTdw?oc=5",
+   "source": "Google News: boxing",
+   "lang": "en",
+   "date": "2026-11-14T07:43:44+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 36,
+   "sources_n": 2,
+   "title_it": "George Francis: un errore nel test del sesso ha impedito al pugile di partecipare ai Campionati del Mondo Under 19 - BBC",
+   "title_es": "George Francis: Un error en la prueba de sexo hizo que el boxeador se perdiera el Campeonato del Mundo sub-19 - BBC"
   },
   {
    "title": "Boxing Tonight: Start times, TV channel stream and fight cards",
@@ -2107,7 +2120,7 @@
    "date": "2026-11-13T21:19:29+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 21,
+   "score": 20,
    "sources_n": 1,
    "title_it": "\"Sarà un osso duro\": Hearn è sorpreso dal potenziale incontro di Parker per il titolo mondiale - NZ Herald",
    "title_es": "«Va a ser un hueso duro de roer»: Hearn se sorprende por la posibilidad de que Parker opte al título mundial - NZ Herald"
@@ -2260,19 +2273,6 @@
    "title_es": "Eddie Hearn afirma que se ha reunido con las cadenas de televisión y con el equipo de Inoue en las últimas 24 horas y que está ultimando un acuerdo para un combate entre Naoya Inoue y Bam. Dice que, en última instancia, todo dependerá de Robert García y Bam para ver si aceptan."
   },
   {
-   "title": "Franco Falcinelli, da Assisi alla guida del pugilato europeo - UmbriaJournal",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcnVyMVQtcTVWb0hSNnA1OXQzcURSdFE4cmFUWGloTWZ4bWNxOUk1eFprTXpQWFctY3lkY2hYd3dfVTc4WlhRNENMZG1hMUZwWHRRclBtYWlXYVRGbDJSNldDMGZtMGVqcDdnb050MUpjelBHZ0htWlVUVU5UenFWcVQyZ3VtcGdtYkh4czNoYUY1bU9zdWtLUWZ3ZXVFSDAxTUtTV3RB?oc=5",
-   "source": "Google News: pugilato",
-   "lang": "it",
-   "date": "2026-11-13T17:21:36+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 9,
-   "sources_n": 1,
-   "title_it": "Franco Falcinelli, da Assisi alla guida del pugilato europeo - UmbriaJournal",
-   "title_es": "Franco Falcinelli, de Asís al frente del boxeo europeo - UmbriaJournal"
-  },
-  {
    "title": "Concluye la 64.ª Convención del CMB con triunfo de Camila Zamorano en Acapulco - anews",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPS1VXczV2ZE5vMzVqMDdrcXJLcUMwVXdmVy1KR0plcm9WLVpKZUVFMERfcjN3bDJONDNfQUZJMzJDejFDNVY1eDVMYUdObHNwNm1PYWNhUVFoSTNLS25sTmcyZHlFMVpEbkpQXzVyYjB2OHhZbWw1UUdYaVYwdjdVU3k1SHV3QUt1dlM2ZjN0cTdFLVdRRXZ1MjczaFZyUVhTdVdEZVBaYUo?oc=5",
    "source": "Google News: boxeo",
@@ -2280,7 +2280,7 @@
    "date": "2026-11-13T17:20:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 9,
+   "score": 8,
    "sources_n": 1,
    "title_it": "Si conclude la 64ª Convenzione del WBC con il trionfo di Camila Zamorano ad Acapulco - anews",
    "title_es": "Concluye la 64.ª Convención del CMB con triunfo de Camila Zamorano en Acapulco - anews"
@@ -2693,7 +2693,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 45,
-   "sources_n": 6,
+   "sources_n": 5,
    "title_it": "Zelfa Barrett vede un percorso di tre incontri verso il titolo mondiale, a partire da quello con Gwynne - MiddleEasy",
    "title_es": "Zelfa Barrett ve una trayectoria de tres combates hasta el título mundial, empezando por Gwynne - MiddleEasy"
   },
@@ -2859,7 +2859,7 @@
    "boxers": [
     "Naoya Inoue"
    ],
-   "score": 89,
+   "score": 88,
    "sources_n": 9,
    "title_it": "Sono in corso trattative tra Naoya Inoue e Bam Rodriguez, afferma Eddie Hearn",
    "title_es": "Eddie Hearn afirma que hay conversaciones en marcha entre Naoya Inoue y Bam Rodríguez"
@@ -3164,8 +3164,8 @@
    "date": "2026-11-12T15:34:52+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 0,
-   "sources_n": 1,
+   "score": 10,
+   "sources_n": 2,
    "title_it": "Boxe, la palermitana Crystal Filardi trionfa ai campionati italiani under 15 e conquista l'oro - PalermoToday",
    "title_es": "Boxeo: la palermitana Crystal Filardi triunfa en los campeonatos de Italia sub-15 y se hace con el oro - PalermoToday"
   },
