@@ -53988,5 +53988,58 @@
  },
  "Henry Martínez (boxer)": {
   "tried": "2026-11-15T03:17:07+00:00"
+ },
+ "Mark Johnson (boxer)": {
+  "slug": "mark-johnson-boxer",
+  "updated": "2026-11-15T03:21:04+00:00",
+  "total": 50,
+  "verified": 0,
+  "record": {
+   "w": 44,
+   "l": 5,
+   "d": 0,
+   "nc": 1
+  },
+  "langs": [
+   "en",
+   "de"
+  ]
+ },
+ "Raúl Márquez": {
+  "slug": "raul-marquez",
+  "updated": "2026-11-15T03:21:09+00:00",
+  "total": 47,
+  "verified": 0,
+  "record": {
+   "w": 41,
+   "l": 4,
+   "d": 1,
+   "nc": 1
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Fred Mutuweta": {
+  "tried": "2026-11-15T03:21:00+00:00"
+ },
+ "Tarvis Simms": {
+  "tried": "2026-11-15T03:21:00+00:00"
+ },
+ "Manuel Medina (boxer)": {
+  "slug": "manuel-medina-boxer",
+  "updated": "2026-11-15T03:21:16+00:00",
+  "total": 84,
+  "verified": 0,
+  "record": {
+   "w": 67,
+   "l": 16,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "it"
+  ]
  }
 }
