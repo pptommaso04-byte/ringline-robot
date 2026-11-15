@@ -29192,7 +29192,7 @@
  },
  "Lenroy Thomas": {
   "slug": "lenroy-thomas",
-  "updated": "2026-11-12T00:51:17+00:00",
+  "updated": "2026-11-15T00:55:41+00:00",
   "total": 32,
   "verified": 0,
   "record": {
@@ -29208,7 +29208,7 @@
  },
  "Dirceu Cabarca": {
   "slug": "dirceu-cabarca",
-  "updated": "2026-11-12T00:51:22+00:00",
+  "updated": "2026-11-15T00:55:47+00:00",
   "total": 28,
   "verified": 0,
   "record": {
@@ -29223,7 +29223,7 @@
  },
  "Teiru Kinoshita": {
   "slug": "teiru-kinoshita",
-  "updated": "2026-11-12T00:51:26+00:00",
+  "updated": "2026-11-15T00:55:51+00:00",
   "total": 30,
   "verified": 0,
   "record": {
@@ -53394,5 +53394,35 @@
  },
  "Mario Kindelán": {
   "tried": "2026-11-15T00:50:45+00:00"
+ },
+ "Ole Klemetsen": {
+  "slug": "ole-klemetsen",
+  "updated": "2026-11-15T00:55:55+00:00",
+  "total": 51,
+  "verified": 0,
+  "record": {
+   "w": 45,
+   "l": 6,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Travis Simms": {
+  "slug": "travis-simms",
+  "updated": "2026-11-15T00:56:00+00:00",
+  "total": 29,
+  "verified": 0,
+  "record": {
+   "w": 28,
+   "l": 1,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
