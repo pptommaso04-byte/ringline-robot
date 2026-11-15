@@ -29291,7 +29291,7 @@
  },
  "Vijender Singh": {
   "slug": "vijender-singh",
-  "updated": "2026-11-12T01:01:20+00:00",
+  "updated": "2026-11-15T01:05:38+00:00",
   "total": 14,
   "verified": 0,
   "record": {
@@ -29309,7 +29309,7 @@
  },
  "Delfine Persoon": {
   "slug": "delfine-persoon",
-  "updated": "2026-11-12T01:01:28+00:00",
+  "updated": "2026-11-15T01:05:42+00:00",
   "total": 56,
   "verified": 0,
   "record": {
@@ -29324,7 +29324,7 @@
  },
  "Yvan Mendy": {
   "slug": "yvan-mendy",
-  "updated": "2026-11-12T01:01:31+00:00",
+  "updated": "2026-11-15T01:05:46+00:00",
   "total": 58,
   "verified": 0,
   "record": {
@@ -29339,7 +29339,7 @@
  },
  "Abdon Mewoli": {
   "slug": "abdon-mewoli",
-  "updated": "2026-11-12T01:01:35+00:00",
+  "updated": "2026-11-15T01:05:50+00:00",
   "total": 3,
   "verified": 0,
   "record": {
@@ -53444,5 +53444,20 @@
  },
  "Lee Seung-bae": {
   "tried": "2026-11-15T01:01:13+00:00"
+ },
+ "David Tetteh (boxer)": {
+  "slug": "david-tetteh-boxer",
+  "updated": "2026-11-15T01:05:54+00:00",
+  "total": 22,
+  "verified": 0,
+  "record": {
+   "w": 20,
+   "l": 2,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
