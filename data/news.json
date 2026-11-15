@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T12:40:42+00:00",
+ "updated": "2026-11-15T12:45:48+00:00",
  "feeds_ok": 49,
  "feeds_failed": 4,
  "news": [
@@ -196,7 +196,7 @@
    "date": "2026-11-15T10:45:34+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 39,
+   "score": 38,
    "sources_n": 2,
    "title_it": "Boxe, D’Ortenzi vince e convince: è ancora lui il Campione d’Europa - RomaToday",
    "title_es": "Boxeo, D'Ortenzi gana y convence: sigue siendo campeón de Europa - RomaToday"
@@ -209,7 +209,7 @@
    "date": "2026-11-15T10:44:33+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 59,
+   "score": 58,
    "sources_n": 3,
    "title_it": "McKenna pronto a difendere il titolo mondiale contro Aleksejevs - RTE.ie",
    "title_es": "McKenna defenderá su título mundial contra Aleksejevs - RTE.ie"
@@ -628,7 +628,7 @@
    "date": "2026-11-15T00:45:09+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 42,
+   "score": 41,
    "sources_n": 2,
    "title_it": "La stella indiana Nishant Dev raggiunge l'8-0 dopo una vittoria impressionante a Los Angeles | Matchroom Boxing",
    "title_es": "El púgil indio Nishant Dev suma un 8-0 tras una impresionante victoria en Los Ángeles | Matchroom Boxing"
@@ -955,7 +955,7 @@
    "date": "2026-11-14T18:42:48+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 21,
+   "score": 20,
    "sources_n": 1,
    "title_it": "I giovani pugili messicani alzano la mano alla Coppa del mondo di boxe U-19 in Tailandia - Gob MX",
    "title_es": "Jóvenes pugilistas mexicanos levantan la mano en la Copa Mundial de Boxeo Sub-19 en Tailandia - Gob MX"
@@ -1280,7 +1280,7 @@
    "date": "2026-11-14T14:45:06+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 49,
+   "score": 48,
    "sources_n": 9,
    "title_it": "[FIGHT THREAD] Viddal Riley contro Seydi Coupe",
    "title_es": "[HILO DEL COMBATE] Viddal Riley vs. Seydi Coupe"
@@ -1371,7 +1371,7 @@
    "date": "2026-11-14T12:43:08+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 26,
+   "score": 25,
    "sources_n": 1,
    "title_it": "#ZuffaBoxing13 inizia alla grande con un KO strepitoso 🥊",
    "title_es": "#ZuffaBoxing13 empieza con fuerza con un gran KO 🥊"
@@ -1504,7 +1504,7 @@
    "date": "2026-11-14T10:44:05+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 27,
+   "score": 26,
    "sources_n": 2,
    "title_it": "Pugilato, Ferramosca è campione italiano nei pesi supergallo - Sport di Prato",
    "title_es": "Boxeo, Ferramosca es campeón italiano de peso súper gallo - Sport di Prato"
@@ -1642,19 +1642,6 @@
    "sources_n": 12,
    "title_it": "Viddal Riley spiega perché è rimasto con suo padre invece di trasferirsi a Las Vegas per allenarsi con Mayweather, mentre punta a combattere contro Oleksandr Usyk",
    "title_es": "Viddal Riley explica por qué se quedó con su padre en lugar de mudarse a Las Vegas para entrenar con Mayweather, mientras se plantea enfrentarse a Oleksandr Usyk."
-  },
-  {
-   "title": "Gym Boxe: Ardita over the top a Roma - Liguriasport",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWkZZbW5sdjlrNHNFbWY1aDhLb2pPTVBoODV6bXkwYk9LSXZ2QzVKSjl0NDJCbGRpMjgtQmxXVDZ1X0ZGcmRYaUlWdlJIa2NxX3M2aVFLUnpuTk9ZaHJlVi1jYnU5Q0VGOWxfVGRTbTh1c1UtZTM1RkFGVWNCd2hzUVJR?oc=5",
-   "source": "Google News: pugilato",
-   "lang": "it",
-   "date": "2026-11-14T08:57:06+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 16,
-   "sources_n": 1,
-   "title_it": "Gym Boxe: Ardita over the top a Roma - Liguriasport",
-   "title_es": "Gym Boxe: Ardita por encima de la Roma - Liguriasport"
   },
   {
    "title": "Terence Crawford delivers honest verdict on Oleksandr Usyk vs David Benavidez cruiserweight fight",
@@ -3754,8 +3741,8 @@
    "date": "2026-11-11T22:31:25+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 0,
-   "sources_n": 1,
+   "score": 10,
+   "sources_n": 2,
    "title_it": "Boxe, Michela Guglielmon sul podio alle Olimpiadi Giovanili",
    "title_es": "Boxeo, Michela Guglielmon en el podio de los Juegos Olímpicos de la Juventud"
   },
@@ -4030,6 +4017,19 @@
    "sources_n": 1,
    "title_it": "Leggere I Combattimenti",
    "title_es": "Leyendo las peleas"
+  },
+  {
+   "title": "Dakar 2026: medaglia dal pugilato, Michela Guglielmon di bronzo nei 48 kg - Comitato Olimpico Nazionale",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLWstQVRuZkVtY0Iwb1NHQ3BUcmE0X3BRdGstSnpXWm1kRm1qbDhuaUZEWTVISGJzT0FCcWRkRGJ0N1hUUWdPT1VSUlFrV21sZXA4TzVMS0pWYlg0NTM2Mk1QcjkyLVNJN2hsZFV5U09LMWtObjN0NGE1cHprZDVJMHZUaTF4blh4Q2lNcHpGUHVJQzluSllrMWxxNWt4UGtEdktGaTREUnA?oc=5",
+   "source": "Google News: pugilato",
+   "lang": "it",
+   "date": "2026-11-11T14:53:24+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 10,
+   "sources_n": 2,
+   "title_it": "Dakar 2026: medaglia dal pugilato, Michela Guglielmon di bronzo nei 48 kg - Comitato Olimpico Nazionale",
+   "title_es": "Dakar 2026: medalla en boxeo, Michela Guglielmon bronce en los 48 kg - Comité Olímpico Nacional"
   }
  ]
 }
