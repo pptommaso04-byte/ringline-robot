@@ -1,8 +1,21 @@
 {
- "updated": "2026-11-15T16:50:42+00:00",
+ "updated": "2026-11-15T16:55:18+00:00",
  "feeds_ok": 49,
  "feeds_failed": 4,
  "news": [
+  {
+   "title": "The Wolf went hunting early at #ZuffaBoxing13 🐺💥",
+   "link": "https://www.youtube.com/watch?v=L3RT8CWeROM",
+   "source": "YouTube Zuffa Boxing",
+   "lang": "en",
+   "date": "2026-11-15T16:54:26+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 29,
+   "sources_n": 1,
+   "title_it": "Il Lupo è andato presto a caccia allo #ZuffaBoxing13 🐺💥",
+   "title_es": "El Lobo salió a cazar temprano en #ZuffaBoxing13 🐺💥"
+  },
   {
    "title": "Viddal Riley locked in on a world title shot  😤 🔐",
    "link": "https://www.saddoboxing.com/112446-viddal-riley-locked-in-on-a-world-title-shot-%f0%9f%98%a4-%f0%9f%94%90.html",
@@ -186,19 +199,6 @@
    "title_es": "El equipo de Viddal Riley está listo para una pelea legal para garantizar que obtenga una oportunidad por el título mundial de peso crucero después de dominar la escena nacional."
   },
   {
-   "title": "Con nueve pugilistas, México subirá al cuadrilátero del Campeonato Mundial de Boxeo Sub-19 en Montenegro - Gob MX",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxObmhFenl1aXFEUjUyTi11SEhuM0l6X2tBdnFMZ3pLeUthdGRVTlp4bDE1d3lBMHJzdUxZcjBYaE1LaTdMbjdMRV94UGNrRU90TUJGSEFLWU5HMDRucEpyeTNvQ0tBdVdxMGJaZ1FpRUxsNDZmUENHZms5ek9NTkpBVVhjYW1HaVdGM2UxbVU0eWZxWFI5c255VzRURng0UXhtWnNaZ2Z0VjJIeGtFTHFnTVBMQm9tOWZ1RUx3MVdHRjgtYkU1MWlLVXduM2dDdWJORy13OHM1YW9iODliLW5KZVdLNW92NC1JM2c?oc=5",
-   "source": "Google News: boxeo",
-   "lang": "es",
-   "date": "2026-11-15T13:31:19+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 28,
-   "sources_n": 1,
-   "title_it": "Con nove pugili, il Messico salirà sul ring del Campionato mondiale di boxe U-19 in Montenegro - Gob MX",
-   "title_es": "Con nueve pugilistas, México subirá al cuadrilátero del Campeonato Mundial de Boxeo Sub-19 en Montenegro - Gob MX"
-  },
-  {
    "title": "Anthony Olascuaga vs. Yuberjen Martinez | Official Fight Highlights",
    "link": "https://www.reddit.com/r/Boxing/comments/1xwuxl4/anthony_olascuaga_vs_yuberjen_martinez_official/",
    "source": "Reddit r/Boxing",
@@ -219,7 +219,7 @@
    "date": "2026-11-15T12:50:42+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 46,
+   "score": 45,
    "sources_n": 1,
    "title_it": "L'ex campione britannico di boxe ottiene un brutale KO e vince il titolo mondiale di pugilato a mani nude",
    "title_es": "Un excampeón británico de boxeo consigue un brutal K. O. para ganar el título mundial de boxeo a puño limpio"
@@ -232,7 +232,7 @@
    "date": "2026-11-15T12:50:42+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 46,
+   "score": 45,
    "sources_n": 1,
    "title_it": "L'ex campione britannico di boxe ottiene un brutale KO e vince il titolo mondiale di boxe a mani nude - talkSPORT",
    "title_es": "El ex campeón de boxeo británico logra un KO brutal para ganar el título mundial de boxeo a puño limpio – talkSPORT"
@@ -953,7 +953,7 @@
    "date": "2026-11-14T22:50:53+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 31,
+   "score": 30,
    "sources_n": 2,
    "title_it": "Boxe: Luca D’Ortenzi batte Eros Seghetti e si conferma Campione d’Europa dei mediomassimi",
    "title_es": "Boxeo: Luca D'Ortenzi vence a Eros Seghetti y se confirma como campeón europeo de peso semipesado"
@@ -1332,7 +1332,7 @@
    "date": "2026-11-14T16:54:25+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 43,
+   "score": 42,
    "sources_n": 1,
    "title_it": "Pacheco espone due cinture in un eliminatore WBA - Claro Sports",
    "title_es": "Pacheco expone dos cinturones en una eliminatoria AMB - Claro Sports"
@@ -1345,7 +1345,7 @@
    "date": "2026-11-14T16:54:16+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 18,
+   "score": 17,
    "sources_n": 1,
    "title_it": "Mike Coppinger prosegue il suo sfogo di 24 ore attaccando Enzo Maccarinelli",
    "title_es": "Mike Coppinger continúa su rabieta de 24 horas enfrentándose a Enzo Maccarinelli"
@@ -1462,7 +1462,7 @@
    "date": "2026-11-14T14:51:34+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 17,
+   "score": 16,
    "sources_n": 1,
    "title_it": "Prossimo incontro di Itauma",
    "title_es": "El próximo combate de Itauma"
@@ -1809,19 +1809,6 @@
    "sources_n": 2,
    "title_it": "Pugilato: Ferramosca nuovo campione italiano pro supergallo - Sportmediaset",
    "title_es": "Boxeo: Ferramosca nuevo campeón italiano de peso supergallo profesional - Sportmediaset"
-  },
-  {
-   "title": "Boxe Mugello, Alex Ferramosca è campione d’Italia dei supergallo - Radio Mugello",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQklGSW83X0U4dDNudUxqTlAxd2dvalRBckRzRDQ2d3hyeGRkUVd0TjZJT1MxUk5lSFl6TlhnaGg2UEExOUI1eTUwLS10ZFlfMVRxRWl6dHplZ0VOLWIwYW9iV3Z0czlFYW1NTUJac0hvWno5N0tNb21CWlUxN0xrTThVemdyN3gzZGVWNDItY3ZvVElpUkM3bDRZUFItUQ?oc=5",
-   "source": "Google News: boxe italiana",
-   "lang": "it",
-   "date": "2026-11-14T09:12:41+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 24,
-   "sources_n": 2,
-   "title_it": "Boxe Mugello, Alex Ferramosca è campione d’Italia dei supergallo - Radio Mugello",
-   "title_es": "Boxeo en Mugello: Alex Ferramosca es campeón de Italia del peso supergallo - Radio Mugello"
   },
   {
    "title": "Viddal Riley opens up on why he stuck with his dad instead of moving to Las Vegas to train with a Mayweather as he eyes fighting Oleksandr Usyk",
@@ -2496,7 +2483,7 @@
    "date": "2026-11-13T16:52:42+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 81,
+   "score": 80,
    "sources_n": 10,
    "title_it": "Citazioni dalla conferenza stampa di Diego Pacheco vs Darius Fulghum e pronostico dell'incontro",
    "title_es": "Citas de la rueda de prensa y pronóstico del combate de Diego Pacheco contra Darius Fulghum"
@@ -2526,19 +2513,6 @@
    "sources_n": 8,
    "title_it": "Carlos Adames: \"Metterò KO Gerome Warburton in tre round\": Riyadh Season Zuffa Boxing 13",
    "title_es": "Carlos Adames: «Voy a noquear a Gerome Warburton en tres asaltos»: Riyadh Season Zuffa Boxing 13"
-  },
-  {
-   "title": "Marco Verde destaca el buen momento del boxeo mazatleco y celebra sus grandes logros - El Sol de México",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVjZzcTVsZXZlSnhORUlOeVpRSkEwWWstY2U2TVpOTU9vdG1tdU1MR0JRcjNCWktfb0VvTkZSQUQ3WktHdkpDNjJQTW1XYmVoQ01LVVBNOXIwblNoYkZYdXhIRk11X2xscU1NcUNlLWZLSzg5bERsWUZwc0FFejNFLU5LenNfaVlPNzJ5NkFXS3BncHhncHFKWEVOYVByLW5yTkxjbkwxSmlGMVNUMEZzdHJ1ME0yMlp5QnRQaUpmN2VMRDViNmp3TFZVcDJQZmpzbWZZ?oc=5",
-   "source": "Google News: boxeo",
-   "lang": "es",
-   "date": "2026-11-13T16:17:46+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 5,
-   "sources_n": 1,
-   "title_it": "Marco Verde sottolinea il bel momento della boxe Mazatlan e celebra i suoi grandi successi - El Sol de México",
-   "title_es": "Marco Verde destaca el buen momento del boxeo mazatleco y celebra sus grandes logros - El Sol de México"
   },
   {
    "title": "David Benavidez teaching some up and comers his masterful defensive techniques 🔥",
@@ -2869,7 +2843,7 @@
     "Anthony Joshua",
     "Oleksandr Usyk"
    ],
-   "score": 88,
+   "score": 87,
    "sources_n": 10,
    "title_it": "Anthony Joshua spiega quale consiglio gli ha dato Oleksandr Usyk per l'incontro con Tyson Fury",
    "title_es": "Anthony Joshua explica qué consejo le dio Oleksandr Usyk para el combate contra Tyson Fury"
@@ -4025,6 +3999,32 @@
    "sources_n": 1,
    "title_it": "Tor San Lorenzo sul tetto d'Italia: trionfo storico per la Polisportiva Sociale TSL nel pugilato giovanile - Canale 10",
    "title_es": "Tor San Lorenzo en el techo de Italia: triunfo histórico de la Polisportiva Sociale TSL en el boxeo juvenil - Canale 10"
+  },
+  {
+   "title": "The good, the bad, and the stupid from the WBC convention",
+   "link": "https://www.badlefthook.com/boxing-news/120291/the-good-the-bad-and-the-stupid-from-the-wbc-convention",
+   "source": "Bad Left Hook",
+   "lang": "en",
+   "date": "2026-11-11T15:24:30-05:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 10,
+   "sources_n": 1,
+   "title_it": "Il buono, il cattivo e lo stupido della convention WBC",
+   "title_es": "Lo bueno, lo malo y lo estúpido de la convención del WBC"
+  },
+  {
+   "title": "Jake Paul doubles down on retirement if he loses comeback fight to Cedric Doumbe… as it will end his world title hopes",
+   "link": "https://www.thesun.co.uk/sport/40992095/jake-paul-retires-losing-cedric-doumbe-fight/",
+   "source": "The Sun Boxing",
+   "lang": "en",
+   "date": "2026-11-11T15:21:23+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 73,
+   "sources_n": 4,
+   "title_it": "Jake Paul raddoppia il suo ritiro se perde la lotta per la rimonta contro Cedric Doumbe... poiché metterà fine alle sue speranze di titolo mondiale",
+   "title_es": "Jake Paul duplica su apuesta por el retiro si pierde la pelea de regreso ante Cedric Doumbe... ya que terminará con sus esperanzas de título mundial."
   }
  ]
 }
