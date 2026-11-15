@@ -34048,7 +34048,7 @@
  },
  "Arlene Blencowe": {
   "slug": "arlene-blencowe",
-  "updated": "2026-11-12T09:01:38+00:00",
+  "updated": "2026-11-15T09:06:08+00:00",
   "total": 8,
   "verified": 0,
   "record": {
@@ -34065,7 +34065,7 @@
  },
  "Derry Mathews": {
   "slug": "derry-mathews",
-  "updated": "2026-11-12T09:01:43+00:00",
+  "updated": "2026-11-15T09:06:10+00:00",
   "total": 52,
   "verified": 0,
   "record": {
@@ -34080,7 +34080,7 @@
  },
  "Carlos Molina (Mexican boxer)": {
   "slug": "carlos-molina-mexican-boxer",
-  "updated": "2026-11-12T09:01:49+00:00",
+  "updated": "2026-11-15T09:06:16+00:00",
   "total": 55,
   "verified": 0,
   "record": {
@@ -55364,5 +55364,37 @@
  },
  "Jason Rowland": {
   "tried": "2026-11-15T09:01:26+00:00"
+ },
+ "Kermin Guardia": {
+  "slug": "kermin-guardia",
+  "updated": "2026-11-15T09:06:19+00:00",
+  "total": 50,
+  "verified": 0,
+  "record": {
+   "w": 37,
+   "l": 12,
+   "d": 0,
+   "nc": 1
+  },
+  "langs": [
+   "en",
+   "pt"
+  ]
+ },
+ "Frank Toledo": {
+  "slug": "frank-toledo",
+  "updated": "2026-11-15T09:06:22+00:00",
+  "total": 51,
+  "verified": 0,
+  "record": {
+   "w": 43,
+   "l": 7,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "pt"
+  ]
  }
 }
