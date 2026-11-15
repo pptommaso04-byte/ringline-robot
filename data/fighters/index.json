@@ -28553,7 +28553,7 @@
  },
  "Reynaldo Bautista": {
   "slug": "reynaldo-bautista",
-  "updated": "2026-11-11T23:55:40+00:00",
+  "updated": "2026-11-15T00:01:16+00:00",
   "total": 39,
   "verified": 0,
   "record": {
@@ -28568,7 +28568,7 @@
  },
  "Rocky Fuentes": {
   "slug": "rocky-fuentes",
-  "updated": "2026-11-11T23:55:43+00:00",
+  "updated": "2026-11-15T00:01:22+00:00",
   "total": 47,
   "verified": 0,
   "record": {
@@ -28583,7 +28583,7 @@
  },
  "Dariusz Sęk": {
   "slug": "dariusz-sek",
-  "updated": "2026-11-11T23:55:46+00:00",
+  "updated": "2026-11-15T00:01:25+00:00",
   "total": 21,
   "verified": 0,
   "record": {
@@ -53188,6 +53188,37 @@
   "langs": [
    "en",
    "es"
+  ]
+ },
+ "Lovemore N'dou": {
+  "slug": "lovemore-n-dou",
+  "updated": "2026-11-15T00:01:30+00:00",
+  "total": 5,
+  "verified": 0,
+  "record": {
+   "w": 2,
+   "l": 2,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "es"
+  ]
+ },
+ "Rogério Lobo (boxer)": {
+  "slug": "rogerio-lobo-boxer",
+  "updated": "2026-11-15T00:01:35+00:00",
+  "total": 57,
+  "verified": 0,
+  "record": {
+   "w": 41,
+   "l": 16,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
   ]
  }
 }
