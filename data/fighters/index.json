@@ -29437,7 +29437,7 @@
  },
  "Chatchai-decha Butdee": {
   "slug": "chatchai-decha-butdee",
-  "updated": "2026-11-12T01:15:49+00:00",
+  "updated": "2026-11-15T01:20:58+00:00",
   "total": 5,
   "verified": 0,
   "record": {
@@ -29452,7 +29452,7 @@
  },
  "Mairis Briedis": {
   "slug": "mairis-briedis",
-  "updated": "2026-11-12T01:15:54+00:00",
+  "updated": "2026-11-15T01:21:05+00:00",
   "total": 31,
   "verified": 0,
   "record": {
@@ -53490,5 +53490,39 @@
  },
  "Mario Romero (Nicaraguan boxer)": {
   "tried": "2026-11-15T01:15:45+00:00"
+ },
+ "Alejandro Montiel": {
+  "slug": "alejandro-montiel",
+  "updated": "2026-11-15T01:21:10+00:00",
+  "total": 60,
+  "verified": 0,
+  "record": {
+   "w": 51,
+   "l": 8,
+   "d": 0,
+   "nc": 1
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Alexander Gurov (boxer)": {
+  "slug": "alexander-gurov-boxer",
+  "updated": "2026-11-15T01:21:15+00:00",
+  "total": 48,
+  "verified": 0,
+  "record": {
+   "w": 41,
+   "l": 6,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en",
+   "fr"
+  ]
+ },
+ "Julian Wheeler": {
+  "tried": "2026-11-15T01:20:54+00:00"
  }
 }
