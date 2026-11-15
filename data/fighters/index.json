@@ -33867,7 +33867,7 @@
  },
  "Ryu Myung-ok": {
   "slug": "ryu-myung-ok",
-  "updated": "2026-11-12T08:41:09+00:00",
+  "updated": "2026-11-15T08:42:15+00:00",
   "total": 6,
   "verified": 0,
   "record": {
@@ -33882,7 +33882,7 @@
  },
  "Javier Gallo": {
   "slug": "javier-gallo",
-  "updated": "2026-11-12T08:41:15+00:00",
+  "updated": "2026-11-15T08:42:18+00:00",
   "total": 44,
   "verified": 0,
   "record": {
@@ -55269,5 +55269,28 @@
  },
  "Grady Brewer": {
   "tried": "2026-11-15T08:27:53+00:00"
+ },
+ "Victor Ramos (boxer)": {
+  "tried": "2026-11-15T08:42:09+00:00"
+ },
+ "Johnson Tshuma": {
+  "tried": "2026-11-15T08:42:09+00:00"
+ },
+ "Fabio Moli": {
+  "slug": "fabio-moli",
+  "updated": "2026-11-15T08:42:27+00:00",
+  "total": 55,
+  "verified": 2,
+  "record": {
+   "w": 44,
+   "l": 9,
+   "d": 0,
+   "nc": 2
+  },
+  "langs": [
+   "en",
+   "fr",
+   "pt"
+  ]
  }
 }
