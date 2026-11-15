@@ -30174,7 +30174,7 @@
  },
  "Raquel Miller": {
   "slug": "raquel-miller",
-  "updated": "2026-11-12T02:35:56+00:00",
+  "updated": "2026-11-15T02:40:52+00:00",
   "total": 13,
   "verified": 0,
   "record": {
@@ -30195,7 +30195,7 @@
  },
  "Mike Perez (boxer)": {
   "slug": "mike-perez-boxer",
-  "updated": "2026-11-12T02:36:05+00:00",
+  "updated": "2026-11-15T02:40:59+00:00",
   "total": 37,
   "verified": 0,
   "record": {
@@ -53839,6 +53839,39 @@
    "en",
    "fr",
    "pt"
+  ]
+ },
+ "Muhammad Rachman": {
+  "slug": "muhammad-rachman",
+  "updated": "2026-11-15T02:41:02+00:00",
+  "total": 83,
+  "verified": 0,
+  "record": {
+   "w": 65,
+   "l": 13,
+   "d": 5,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Jo el Scott": {
+  "tried": "2026-11-15T02:40:44+00:00"
+ },
+ "Luis Alberto Lazarte": {
+  "slug": "luis-alberto-lazarte",
+  "updated": "2026-11-15T02:41:07+00:00",
+  "total": 67,
+  "verified": 0,
+  "record": {
+   "w": 52,
+   "l": 12,
+   "d": 2,
+   "nc": 1
+  },
+  "langs": [
+   "en"
   ]
  }
 }
