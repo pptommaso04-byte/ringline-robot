@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T05:10:47+00:00",
+ "updated": "2026-11-15T05:15:43+00:00",
  "feeds_ok": 49,
  "feeds_failed": 4,
  "news": [
@@ -388,7 +388,7 @@
    "date": "2026-11-14T21:15:19+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 64,
+   "score": 63,
    "sources_n": 3,
    "title_it": "Il campione dei pesi medi IBF Aaron McKenna effettuerà la prima difesa del suo titolo contro il lettone imbattuto Jevgenijs \"The Hurricane\" Aleksejevs",
    "title_es": "El campeón del peso medio de la IBF, Aaron McKenna, realizará la primera defensa de su título contra el invicto letón Jevgenijs «The Hurricane» Aleksejevs"
@@ -505,7 +505,7 @@
    "date": "2026-11-14T19:15:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 25,
+   "score": 24,
    "sources_n": 1,
    "title_it": "Judo, boxe e MMA: il Piemonte dei giovani atleti si allena lontano dai riflettori - Torino Top News",
    "title_es": "Judo, boxeo y MMA: los jóvenes atletas del Piamonte entrenan lejos de los focos - Turin Top News"
@@ -661,7 +661,7 @@
    "date": "2026-11-14T17:14:03+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 64,
+   "score": 63,
    "sources_n": 3,
    "title_it": "Aaron McKenna difenderà il titolo mondiale IBF dei pesi medi contro Jevgenijs Aleksejevs in diretta su Sky Sports il 4 dicembre - Sky Sports",
    "title_es": "Aaron McKenna defenderá el título mundial de peso mediano de la FIB contra Jevgenijs Aleksejevs en vivo por Sky Sports el 4 de diciembre - Sky Sports"
@@ -674,7 +674,7 @@
    "date": "2026-11-14T17:12:02+00:00",
    "status": "rumor",
    "boxers": [],
-   "score": 99,
+   "score": 98,
    "sources_n": 4,
    "title_it": "Devin Haney pone una condizione per combattere contro Shakur Stevenson dopo i recenti negoziati falliti",
    "title_es": "Devin Haney pone una condición para pelear con Shakur Stevenson tras las recientes negociaciones fallidas"
@@ -843,7 +843,7 @@
    "date": "2026-11-14T15:14:28+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 23,
+   "score": 22,
    "sources_n": 1,
    "title_it": "NEL 1° ROUND FINISCE #Zuffaboxing13",
    "title_es": "SE TERMINA EN LA 1ª RONDA #Zuffaboxing13"
@@ -856,7 +856,7 @@
    "date": "2026-11-14T15:11:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 23,
+   "score": 22,
    "sources_n": 1,
    "title_it": "Impatto: \"Sei un uomo o una donna?\" Il sogno olimpico del genio della boxe infranto dall'omissione dell'assurdo \"test sessuale\": \"La partnership mi ha rovinato la vita\" - 스타뉴스",
    "title_es": "Impacto: \"¿Eres hombre o mujer?\" El sueño olímpico de un genio del boxeo se desvaneció por la omisión de una \"prueba de sexo\" absurda: \"La asociación arruinó mi vida\" - 스타뉴스"
@@ -1238,7 +1238,7 @@
    "date": "2026-11-14T09:12:41+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 30,
+   "score": 29,
    "sources_n": 2,
    "title_it": "Boxe Mugello, Alex Ferramosca è campione d’Italia dei supergallo - Radio Mugello",
    "title_es": "Boxeo Mugello, Alex Ferramosca es campeón italiano de peso supergallo - Radio Mugello"
@@ -1419,7 +1419,7 @@
    "date": "2026-11-14T07:13:23+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 19,
+   "score": 18,
    "sources_n": 1,
    "title_it": "Fight Gym, il giovane Borghetti conquista il bronzo a Foggia - La Nazione",
    "title_es": "Fight Gym, el joven Borghetti gana el bronce en Foggia - La Nazione"
@@ -1963,7 +1963,7 @@
    "date": "2026-11-13T19:15:07+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 88,
+   "score": 87,
    "sources_n": 10,
    "title_it": "\"So che possiamo organizzargli gli incontri\": Eddie Hearn espone le sue ragioni per ingaggiare Shakur Stevenson",
    "title_es": "«Sé que podemos conseguirle los combates»: Eddie Hearn defiende sus argumentos para fichar a Shakur Stevenson"
@@ -1976,7 +1976,7 @@
    "date": "2026-11-13T19:12:52+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 43,
+   "score": 42,
    "sources_n": 11,
    "title_it": "Gerome Warburton è sempre lo sfavorito e riesce sempre a vincere: Riyadh Season Zuffa Boxing 13",
    "title_es": "Gerome Warburton siempre es el menos favorito y siempre acaba saliendo vencedor: Riyadh Season Zuffa Boxing 13"
@@ -3691,6 +3691,19 @@
    "title_es": "Del Trentino al trono del boxeo mundial, Luis Vela, de 20 años, es campeón internacional del Wbc: \"Una gran demostración de clase, técnica y temperamento\" - los Dolomitas"
   },
   {
+   "title": "Pugilato: Luis Vela è campione Wbc International - L'Adige",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYjNKeHdaaldPT1U3bzhVSzVja0FidjZ2RTJkbjNuZGF0VTVQUzM3UnhpbjRZWVpxT1JJYlRDU2x3elFkRUZFUWU5bDJrTGtia0dmS25sQzJ6cGdIRUdyczJqMXZQQ29pNU9HQnFxYmF3VVpYZkh5aW5XSmczXzhQMnIycEhrdW5LeXVSa1RxSklXMTYtOVBWSm9JQk9PUQ?oc=5",
+   "source": "Google News: pugilato",
+   "lang": "it",
+   "date": "2026-11-11T17:37:16+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 10,
+   "sources_n": 1,
+   "title_it": "Pugilato: Luis Vela è campione Wbc International - L'Adige",
+   "title_es": "Boxeo: Luis Vela es campeón internacional del WBC - L'Adige"
+  },
+  {
    "title": "David Benavidez on What's Changed Since He Became a World Champion",
    "link": "https://www.youtube.com/watch?v=26dMW7p3HG0",
    "source": "YouTube PBC",
@@ -3871,19 +3884,6 @@
    "sources_n": 2,
    "title_it": "Dakar 2026: medaglia dal pugilato, Michela Guglielmon di bronzo nei 48 kg - Comitato Olimpico Nazionale",
    "title_es": "Dakar 2026: medalla en boxeo, Michela Guglielmon bronce en los 48 kg - Comité Olímpico Nacional"
-  },
-  {
-   "title": "Successo Pugilistica Lucchese ai tricolori under 15 di pugilato: un oro, un argento e due bronzi - LuccainDiretta",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNcmp6T0RVLUtlQnNQdnk4WjlhNnlHclZCYUg0SEZNcFp0bThxdFpWWFl4UWhvMW1uemdpaUVpc2FvOGhfOG1vOTJPempIX0hUUVRGWlMxOWpNZTJCZUhDZmdnUjZ3SlA1bDRJZDRaUW5sdEpHRlBGOWRmdmpQU3JKN01TRG1QZFVfTUFRWl9NbDlySUhid0NSdklXS1ZjcVBGbmM2cEdFcUVIaUhuZW5XWjRGbFVKTlNQa3c0Ti10ZGpSaGJGRTVVeDVsRE9mSEEtRUZfU0xVQ0I4SkJaRVZaVU43Y1oyVkk0Q3dBWWlpSQ?oc=5",
-   "source": "Google News: pugilato",
-   "lang": "it",
-   "date": "2026-11-11T14:52:00+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 0,
-   "sources_n": 1,
-   "title_it": "Successo Pugilistica Lucchese ai tricolori under 15 di pugilato: un oro, un argento e due bronzi - LuccainDiretta",
-   "title_es": "Éxito del boxeo luqueso en el Campeonato de Italia sub-15 de boxeo: un oro, una plata y dos bronces - LuccainDiretta"
   },
   {
    "title": "Tyson Fury vs Anthony Joshua winner urged to face 'hard done by' rival next",
