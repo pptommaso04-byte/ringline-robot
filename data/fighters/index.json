@@ -31915,7 +31915,7 @@
  },
  "Justin Savi": {
   "slug": "justin-savi",
-  "updated": "2026-11-12T05:26:07+00:00",
+  "updated": "2026-11-15T05:32:03+00:00",
   "total": 51,
   "verified": 3,
   "record": {
@@ -31931,7 +31931,7 @@
  },
  "Yésica Bopp": {
   "slug": "yesica-bopp",
-  "updated": "2026-11-12T05:31:23+00:00",
+  "updated": "2026-11-15T05:32:06+00:00",
   "total": 42,
   "verified": 0,
   "record": {
@@ -31952,7 +31952,7 @@
  },
  "Stephen Simmons (boxer)": {
   "slug": "stephen-simmons-boxer",
-  "updated": "2026-11-12T05:31:34+00:00",
+  "updated": "2026-11-15T05:32:10+00:00",
   "total": 21,
   "verified": 0,
   "record": {
@@ -54461,5 +54461,23 @@
  },
  "Dillon Carew": {
   "tried": "2026-11-15T05:20:51+00:00"
+ },
+ "Ahmed Aboud": {
+  "tried": "2026-11-15T05:31:57+00:00"
+ },
+ "Chatchai Sasakul": {
+  "slug": "chatchai-sasakul",
+  "updated": "2026-11-15T05:32:16+00:00",
+  "total": 68,
+  "verified": 0,
+  "record": {
+   "w": 63,
+   "l": 4,
+   "d": 1,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
  }
 }
