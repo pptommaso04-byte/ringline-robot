@@ -33912,7 +33912,7 @@
  },
  "Chirawadee Srisuk": {
   "slug": "chirawadee-srisuk",
-  "updated": "2026-11-12T08:46:03+00:00",
+  "updated": "2026-11-15T08:47:24+00:00",
   "total": 10,
   "verified": 0,
   "record": {
@@ -33927,7 +33927,7 @@
  },
  "Cindy Serrano": {
   "slug": "cindy-serrano",
-  "updated": "2026-11-12T08:46:08+00:00",
+  "updated": "2026-11-15T08:47:29+00:00",
   "total": 36,
   "verified": 0,
   "record": {
@@ -33942,7 +33942,7 @@
  },
  "Rod Salka": {
   "slug": "rod-salka",
-  "updated": "2026-11-12T08:46:11+00:00",
+  "updated": "2026-11-15T08:47:33+00:00",
   "total": 30,
   "verified": 0,
   "record": {
@@ -55292,5 +55292,23 @@
    "fr",
    "pt"
   ]
+ },
+ "Felix Bwalya": {
+  "slug": "felix-bwalya",
+  "updated": "2026-11-15T08:47:38+00:00",
+  "total": 13,
+  "verified": 0,
+  "record": {
+   "w": 12,
+   "l": 1,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Shigeyuki Dobashi": {
+  "tried": "2026-11-15T08:47:21+00:00"
  }
 }
