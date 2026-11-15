@@ -34107,7 +34107,7 @@
  },
  "Olivier Lontchi": {
   "slug": "olivier-lontchi",
-  "updated": "2026-11-12T09:06:06+00:00",
+  "updated": "2026-11-15T09:11:10+00:00",
   "total": 23,
   "verified": 0,
   "record": {
@@ -34128,7 +34128,7 @@
  },
  "Mike Wilson (boxer)": {
   "slug": "mike-wilson-boxer",
-  "updated": "2026-11-12T09:11:00+00:00",
+  "updated": "2026-11-15T09:11:17+00:00",
   "total": 23,
   "verified": 0,
   "record": {
@@ -34148,7 +34148,7 @@
  },
  "Antz Nansen": {
   "slug": "antz-nansen",
-  "updated": "2026-11-12T09:11:06+00:00",
+  "updated": "2026-11-15T09:11:19+00:00",
   "total": 15,
   "verified": 0,
   "record": {
@@ -55396,5 +55396,23 @@
    "en",
    "pt"
   ]
+ },
+ "Junior Jones": {
+  "slug": "junior-jones",
+  "updated": "2026-11-15T09:11:24+00:00",
+  "total": 56,
+  "verified": 0,
+  "record": {
+   "w": 50,
+   "l": 6,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Steve Suissa": {
+  "tried": "2026-11-15T09:11:06+00:00"
  }
 }
