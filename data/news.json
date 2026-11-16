@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T17:16:03+00:00",
+ "updated": "2026-11-16T17:20:47+00:00",
  "feeds_ok": 49,
  "feeds_failed": 4,
  "news": [
@@ -282,7 +282,7 @@
    "date": "2026-11-16T15:18:39+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 39,
+   "score": 38,
    "sources_n": 1,
    "title_it": "L'ex campione WBA Takami ferma Kalib a Cebu, nelle Filippine",
    "title_es": "El excampeón de la WBA Takami detiene a Kalib en Cebú, Filipinas"
@@ -405,7 +405,7 @@
    "date": "2026-11-16T13:19:07+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 103,
+   "score": 102,
    "sources_n": 4,
    "title_it": "Terence Crawford nomina il suo pugile dell'anno 2026",
    "title_es": "Terence Crawford nombra a su boxeador del año 2026"
@@ -1065,19 +1065,6 @@
    "title_es": "Malik Scott ve un nocaut más salvaje sobre Opetaia, ignorando una estadística alarmante"
   },
   {
-   "title": "National Intermediate Championships Opening Weekend Results",
-   "link": "https://www.irish-boxing.com/national-intermediate-championships-opening-weekend-results/",
-   "source": "Irish Boxing",
-   "lang": "en",
-   "date": "2026-11-15T18:53:12+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 18,
-   "sources_n": 1,
-   "title_it": "Risultati del weekend di apertura dei Campionati nazionali di categoria intermedia",
-   "title_es": "Resultados del fin de semana inaugural de los Campeonatos Nacionales Intermedios"
-  },
-  {
    "title": "Aaron McKenna set for first World title defence - Northern Sound",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOX1E1X0RhWFZkSDAzeE1ZX2dhWDR3WHN1R0pweDRmSVhwMTZIa1ZwWEhWWTd5WGxaYXowRm9RYVRvVEVUNEJkLTlJUV95NVdvb0hocHhLS3ZVMFJZOTNXRnZoTGJvTG1NdWVEZ1pZX2g0bFV5RXJqdElpQUgzNUxzd2YtOHA2N2ZaUzRlNHZSOXNJcFUy?oc=5",
    "source": "Google News: boxing",
@@ -1358,7 +1345,7 @@
    "date": "2026-11-15T15:16:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 17,
+   "score": 16,
    "sources_n": 1,
    "title_it": "Max Kellerman inventa un altro titolo per Jai Opetaia",
    "title_es": "Max Kellerman inventa otro título para Jai Opetaia"
@@ -1839,7 +1826,7 @@
    "date": "2026-11-15T07:19:42+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 78,
+   "score": 77,
    "sources_n": 7,
    "title_it": "Diego Pacheco contro Darius Fulghum: video con i momenti salienti dell'incontro",
    "title_es": "Diego Pacheco vs. Darius Fulghum: Vídeo con los momentos destacados del combate"
@@ -2151,7 +2138,7 @@
    "date": "2026-11-14T19:19:04+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 37,
+   "score": 36,
    "sources_n": 9,
    "title_it": "Conferenza stampa post-incontro: Riyadh Season Zuffa Boxing 13",
    "title_es": "Rueda de prensa posterior al combate: Riyadh Season Zuffa Boxing 13"
@@ -2530,7 +2517,7 @@
    "date": "2026-11-14T11:15:55+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 13,
+   "score": 12,
    "sources_n": 2,
    "title_it": "Alex Ferramosca, della Boxe Mugello, nuovo campione italiano dei pesi supergallo - Il Filo",
    "title_es": "Alex Ferramosca, de Mugello Boxing, nuevo campeón italiano de peso supergallo - Il Filo"
@@ -3628,8 +3615,8 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 20,
-   "sources_n": 1,
+   "score": 30,
+   "sources_n": 2,
    "title_it": "Ben Shalom di BOXXER esplora un'azione legale dopo l'annuncio del combattimento Fury-Joshua di Martin Bakole",
    "title_es": "Ben Shalom de BOXXER explora acciones legales después de que se anunciara la pelea Fury-Joshua de Martin Bakole"
   },
@@ -4010,6 +3997,22 @@
    "sources_n": 11,
    "title_it": "Eddie Hearn accetta l'offerta di combattimento di Dana White a una condizione",
    "title_es": "Eddie Hearn acepta la oferta de combate de Dana White con una condición"
+  },
+  {
+   "title": "Martin Bakole returns on Fury-Joshua undercard alongside rising Da’Mazion Vanhouter",
+   "link": "https://www.boxingscene.com/articles/martin-bakole-returns-on-fury-joshua-undercard-alongside-rising-damazion-vanhouter",
+   "source": "Boxing Scene",
+   "lang": "en",
+   "date": "2026-11-12T11:28:38+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Tyson Fury",
+    "Anthony Joshua"
+   ],
+   "score": 20,
+   "sources_n": 2,
+   "title_it": "Martin Bakole torna nel sottoclou di Fury-Joshua insieme all'emergente Da'Mazion Vanhouter",
+   "title_es": "Martin Bakole vuelve en la velada previa al combate Fury-Joshua junto a la promesa Da'Mazion Vanhouter"
   }
  ]
 }
