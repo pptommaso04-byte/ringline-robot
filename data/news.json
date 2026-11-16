@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-16T17:55:35+00:00",
- "feeds_ok": 49,
- "feeds_failed": 4,
+ "updated": "2026-11-16T17:57:40+00:00",
+ "feeds_ok": 48,
+ "feeds_failed": 5,
  "news": [
   {
    "title": "PBC Face to Face: Vergil Ortiz Jr. vs. Keith Thurman | Full Episode Out Now",
@@ -15,6 +15,19 @@
    "sources_n": 2,
    "title_it": "PBC Face to Face: Vergil Ortiz Jr. vs. Keith Thurman | Episodio completo ora disponibile",
    "title_es": "PBC Face to Face: Vergil Ortiz Jr. vs. Keith Thurman | Episodio completo ya disponible"
+  },
+  {
+   "title": "Unbeaten Heavyweight Teremoana Teremoana | 12 Fights, 12 KOs | Matchroom Boxing",
+   "link": "https://www.youtube.com/watch?v=a3zjQ2JwAAc",
+   "source": "YouTube Matchroom Boxing",
+   "lang": "en",
+   "date": "2026-11-16T17:33:30+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 57,
+   "sources_n": 2,
+   "title_it": "Teremoana Teremoana, peso massimo imbattuto | 12 incontri, 12 KO | Matchroom Boxing",
+   "title_es": "Teremoana Teremoana, peso pesado invicto | 12 combates, 12 KO | Matchroom Boxing"
   },
   {
    "title": "Johnny Fisher eyeing fight with Anthony Joshua’s last foe as target date revealed",
@@ -215,7 +228,7 @@
    "date": "2026-11-16T15:56:41+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 59,
+   "score": 58,
    "sources_n": 6,
    "title_it": "Kalle Sauerland conferma che l'offerta per l'incontro tra Eddie Hearn e Dana White è ancora valida",
    "title_es": "Kalle Sauerland confirma que la oferta de combate entre Eddie Hearn y Dana White sigue en pie"
@@ -1111,8 +1124,8 @@
    "date": "2026-11-15T18:11:24+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 28,
-   "sources_n": 2,
+   "score": 18,
+   "sources_n": 1,
    "title_it": "Un truffatore condannato di 71 anni punta al record mondiale del pugile più anziano",
    "title_es": "Un estafador condenado de 71 años aspira al récord mundial del boxeador de más edad"
   },
@@ -1891,7 +1904,7 @@
    "date": "2026-11-15T01:57:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 10,
+   "score": 9,
    "sources_n": 1,
    "title_it": "Il panamense José “El Magnifico” Núñez ha sconfitto il messicano Bryan Flores e si avvicina alla lotta per il titolo mondiale - Infobae",
    "title_es": "El panameño José “El Magnífico” Núñez derrotó al mexicano Bryan Flores y se acerca a una pelea por el título mundial - Infobae"
@@ -2073,8 +2086,8 @@
    "date": "2026-11-14T19:37:48+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 54,
-   "sources_n": 4,
+   "score": 44,
+   "sources_n": 3,
    "title_it": "Notizie di boxe: Jkitou vince il titolo mondiale IBA battendo Corzo » 14 novembre 2026 - FightNews",
    "title_es": "Noticias de boxeo: Jkitou gana el título mundial de la IBA al noquear a Corzo » 14 de noviembre de 2026 - FightNews"
   },
@@ -2956,7 +2969,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 40,
-   "sources_n": 8,
+   "sources_n": 7,
    "title_it": "Jason Moloney sta pianificando il suo ritorno verso un titolo mondiale | Zuffa Boxing 13 - UFC.com",
    "title_es": "Jason Moloney está trazando su camino de regreso a un título mundial | Zuffa Boxing 13 - UFC.com"
   },
@@ -3223,7 +3236,7 @@
    "status": "rumor",
    "boxers": [],
    "score": 40,
-   "sources_n": 8,
+   "sources_n": 7,
    "title_it": "Viddal Riley parla della sua \"identità pugilistica\" e del legame con KSI mentre punta alla gloria del titolo mondiale - NDTV Sports",
    "title_es": "Viddal Riley habla sobre su «identidad como boxeador» y su relación con KSI mientras se dirige hacia la gloria del título mundial - NDTV Sports"
   },
@@ -4006,19 +4019,6 @@
    "sources_n": 10,
    "title_it": "Altri incontri dei pesi massimi aggiunti al programma degli incontri preliminari di Tyson Fury contro Anthony Joshua",
    "title_es": "Se añaden más combates de pesos pesados a la velada de Tyson Fury contra Anthony Joshua"
-  },
-  {
-   "title": "Kieran Molloy Eyes World Title Shot and Possible All-Irish Rematch",
-   "link": "https://www.irish-boxing.com/kieran-molloy-eyes-world-title-shot-and-possible-all-irish-rematch/",
-   "source": "Irish Boxing",
-   "lang": "en",
-   "date": "2026-11-12T04:47:00+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 30,
-   "sources_n": 3,
-   "title_it": "Kieran Molloy punta al titolo mondiale e a una possibile rivincita tutta irlandese",
-   "title_es": "Kieran Molloy tiene la vista puesta en la oportunidad por el título mundial y en una posible revancha entre irlandeses"
   }
  ]
 }
