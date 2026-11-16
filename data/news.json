@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T06:25:41+00:00",
+ "updated": "2026-11-16T06:31:00+00:00",
  "feeds_ok": 49,
  "feeds_failed": 4,
  "news": [
@@ -183,8 +183,8 @@
    "date": "2026-11-15T22:57:39+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 26,
-   "sources_n": 1,
+   "score": 36,
+   "sources_n": 2,
    "title_it": "Polizia di Stato - tre medaglie per i giovani delle Fiamme Oro ai Campionati Under 15 di pugilato - Polizia di Stato – Questure sul web",
    "title_es": "Policía del Estado - Tres medallas para los jóvenes de las Fiamme Oro en el Campeonato de Boxeo Sub-15 - Policía del Estado – Jefaturas de Policía en la web"
   },
@@ -443,8 +443,8 @@
    "date": "2026-11-15T17:31:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 23,
-   "sources_n": 1,
+   "score": 33,
+   "sources_n": 2,
    "title_it": "Due anni di duro allenamento e poi la medaglia: Nisrine Kerbal d'argento ai campionati di Foggia - Cuneo24",
    "title_es": "Dos años de duro entrenamiento y luego la medalla: Nisrine Kerbal consigue la plata en el campeonato de Foggia - Cuneo24"
   },
@@ -1686,7 +1686,7 @@
    "date": "2026-11-14T18:29:30+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 42,
+   "score": 41,
    "sources_n": 3,
    "title_it": "McKenna difenderà per la prima volta il titolo mondiale a Riad",
    "title_es": "McKenna defenderá por primera vez su título mundial en Riad"
@@ -1699,7 +1699,7 @@
    "date": "2026-11-14T18:29:26+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 52,
+   "score": 51,
    "sources_n": 7,
    "title_it": "Riyadh Season Zuffa Boxing 14: McKenna affronterà Aleksejevs nella prima difesa del titolo mondiale - BBC",
    "title_es": "Riyadh Season Zuffa Boxing 14: McKenna se enfrentará a Aleksejevs en su primera defensa del título mundial - BBC"
@@ -2185,8 +2185,8 @@
    "date": "2026-11-14T08:43:18+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 7,
-   "sources_n": 1,
+   "score": 17,
+   "sources_n": 2,
    "title_it": "Boxe, da Pontecagnano all'Argento tricolore: Sofia Longo è vicecampionessa italiana Under 15 - Salerno In Web",
    "title_es": "Boxeo: de Pontecagnano al oro tricolor. Sofia Longo es subcampeona de Italia sub-15 - Salerno In Web"
   },
@@ -2227,7 +2227,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 92,
+   "score": 91,
    "sources_n": 10,
    "title_it": "Anthony Joshua nomina due cose che ha e che Tyson Fury non ha",
    "title_es": "Anthony Joshua nombra dos cosas que tiene y Tyson Fury no"
@@ -2240,7 +2240,7 @@
    "date": "2026-11-14T08:27:24+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 7,
+   "score": 6,
    "sources_n": 1,
    "title_it": "Il 21 novembre in Sudafrica si terranno tre incontri per il titolo IBO",
    "title_es": "El 21 de noviembre se celebrarán tres combates por el título de la IBO en Sudáfrica"
@@ -2300,19 +2300,6 @@
    "title_es": "Tyson Fury: ¡El maestro del micrófono!"
   },
   {
-   "title": "Fight Gym il giovane Borghetti conquista il bronzo a Foggia - Zazoom Social News",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOR2xiMXJZdHN5WWhqVlctQXVma1ZrQktrd2d6SEhLV21HOGdheDYzZ3p2SE14Mld5c1lLM1JxUkhUOHJKdV9nWHlBOHFPTzZkYmFvWjU2a3QwOVlYbUh1MVRna1c2N1p4T09vcFp4VlNMRjBkYnpmdkVybzZYX3EteGZ6bDUwX0hVaE1ndmo3bkJrQXFqSzFrN0hpZ25nZFBiV2dGQw?oc=5",
-   "source": "Google News: pugilato",
-   "lang": "it",
-   "date": "2026-11-14T07:47:11+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 6,
-   "sources_n": 1,
-   "title_it": "Fight Gym il giovane Borghetti conquista il bronzo a Foggia - Zazoom Social News",
-   "title_es": "Gimnasio de lucha: El joven Borghetti conquista el bronce en Foggia - Zazoom Social News"
-  },
-  {
    "title": "Boxing Tonight: Start times, TV channel stream and fight cards",
    "link": "https://www.mirror.co.uk/sport/boxing/boxing-tonight-start-times-tv-37869844",
    "source": "Daily Mirror Boxing",
@@ -2324,19 +2311,6 @@
    "sources_n": 1,
    "title_it": "Boxing Tonight: orari di inizio, streaming dei canali TV e schede di combattimento",
    "title_es": "Boxing Tonight: horarios de inicio, transmisión de canales de televisión y carteleras de peleas"
-  },
-  {
-   "title": "Fight Gym, il giovane Borghetti conquista il bronzo a Foggia - La Nazione",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbU53SFFuN1labVRRVlhZbE5EWHYyd20wblZ3RFZpbk50R0E1MGdwN2hFWDBIcGZlUnFkU1ZRMnRoZnIzanVJaU9hcTdwSUpSdXVaampVZTkyalJBLWo4WDY5Z0pTdmlkNmFLWE05ZHhmSVk4WThlZS1tVkNCeDd4NHJOQ25SekFt?oc=5",
-   "source": "Google News: pugilato",
-   "lang": "it",
-   "date": "2026-11-14T07:13:23+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 6,
-   "sources_n": 1,
-   "title_it": "Fight Gym, il giovane Borghetti conquista il bronzo a Foggia - La Nazione",
-   "title_es": "Fight Gym, el joven Borghetti se hace con el bronce en Foggia - La Nazione"
   },
   {
    "title": "Carlos Adames fights Gerome Warburton as Denzel Bentley targets shot at WBC middleweight world champion next year - Sky Sports",
@@ -2387,10 +2361,23 @@
    "date": "2026-11-14T05:00:51+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 15,
-   "sources_n": 2,
+   "score": 25,
+   "sources_n": 3,
    "title_it": "Boxe: Luca D’Ortenzi ed Eros Seghetti si contendono l’Europeo dei mediomassimi a Guidonia - OA Sport",
    "title_es": "Boxeo: Luca D'Ortenzi y Eros Seghetti se disputan el Campeonato de Europa de peso semipesado en Guidonia - OA Sport"
+  },
+  {
+   "title": "Dove vedere in tv D’Ortenzi-Seghetti oggi, Europeo mediomassimi 2026: orario, canale, streaming - OA Sport",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZnRWa0g2V0hEMEZEdXpMWTFMVzU5MHpCQ0tvYmZiTVdzamNpQ0xoemJQT2FkVm9MQUNaZXJ6QUJnYTdNNVBxUUlhOTU1eW0xYWI0cGJmVmpYN0EwOHNjWWJMdkJ4QlV5SlMzWEVfMnJaVVREZUlWYVRsN012SzNZdnI1d2VTOTV2UzBBQlAwTVdDNjBCTGRqZTJSNTZTYUpGbkF4M05JT3NFeXdJc3ZWQkhoWmtLd2ZDYkRqN2YtZ9IBxAFBVV95cUxNaE9mNXdaWjdDUXMycGxuQ2FtbXdTdlpLVHNfMFVQSWViUi1rQTFkYmZwUnRWZk5oQXJyaDdscXNybGthcEVZMmtjbmYtTU1yeGRqVHNCb0J0c3BHZENFVmhxeXRiUUZ3MDg1VDZEcDZmZ0g3OE1xeUg5LTQyNjdzUWk5OHNuU3lQSkdFX1lYNjlPbmY2TmxpVHVCc3VuWHlZYmd4M1BMWkF6a1E1TFBEQm12X0RxY21YdHBCVk04c0dkdUdo?oc=5",
+   "source": "Google News: boxe italiana",
+   "lang": "it",
+   "date": "2026-11-14T03:45:34+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 14,
+   "sources_n": 2,
+   "title_it": "Dove vedere in tv D’Ortenzi-Seghetti oggi, Europeo mediomassimi 2026: orario, canale, streaming - OA Sport",
+   "title_es": "Dónde ver en televisión a D’Ortenzi-Seghetti hoy, Campeonato de Europa de peso superwélter 2026: horario, canal, «streaming» - OA Sport"
   },
   {
    "title": "A qué hora pelean y qué canal pasa Yuberjen Martínez vs. Anthony Olascuaga hoy: TV y streaming online - Sporting News",
@@ -2452,8 +2439,8 @@
    "date": "2026-11-13T23:09:53+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 2,
-   "sources_n": 1,
+   "score": 12,
+   "sources_n": 2,
    "title_it": "Boxe, Antonio Moffa è campione italiano Under 15: trionfo a Foggia per il giovane atleta di Mercato San Severino - Salerno In Web",
    "title_es": "Boxeo: Antonio Moffa es campeón de Italia sub-15. Triunfo en Foggia para el joven deportista de Mercato San Severino - Salerno In Web"
   },
@@ -2796,6 +2783,19 @@
    "sources_n": 7,
    "title_it": "Carlos Adames contro Gerome Warburton: pacchetto promozionale Zuffa Boxing 13 della Riyadh Season",
    "title_es": "Carlos Adames vs. Gerome Warburton: Paquete de promoción de Zuffa Boxing 13 de la temporada de Riad"
+  },
+  {
+   "title": "Boxe, la saviglianese Nisrine Kerbal seconda ai Campionati Italiani Under 15 a Foggia - Cuneodice.it",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbFNXMUxpdG9FdlFjSmlIak1WOEZZX2t3bkdIc09qSXlZeXFKWW42eldWOWd3azBnT1k4cVFhSHZUMlFWdUUzSWMtTk9PdGpUSzZuR3Nsc25ndV9XV1g4VFhYVjlub25DdERISWdTYllxUVo0TTVWelFOZmxraGxlcV9TcEJRNEhITThOZVJ6RlhDTkQzbFdJNjJ5THRpTDh1WTNHeXc0R1lUMEN4UWhEV1FiWXpDWnFQTlowUWZ4d01RLTBPY3lyRmtwUjNqS2lKQks2Q2NZTQ?oc=5",
+   "source": "Google News: boxe italiana",
+   "lang": "it",
+   "date": "2026-11-13T15:18:00+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 10,
+   "sources_n": 2,
+   "title_it": "Boxe, la saviglianese Nisrine Kerbal seconda ai Campionati Italiani Under 15 a Foggia - Cuneodice.it",
+   "title_es": "Boxeo: la saviglianesa Nisrine Kerbal, segunda en los Campeonatos de Italia sub-15 en Foggia - Cuneodice.it"
   },
   {
    "title": "Boxer Arjon Basi pays tribute to late uncle who refereed boxing greats after sad passing just days before his next fight",
@@ -3696,8 +3696,8 @@
    "date": "2026-11-12T12:27:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 0,
-   "sources_n": 1,
+   "score": 10,
+   "sources_n": 2,
    "title_it": "Cosenza in maglia azzurra ai Campionati Europei Under 23 di pugilato: orgoglio per Maria Laura Perrotta - Corriere della Calabria",
    "title_es": "Cosenza con la «maglia azzurra» en el Campeonato de Europa sub-23 de boxeo: orgullo por Maria Laura Perrotta - Corriere della Calabria"
   },
