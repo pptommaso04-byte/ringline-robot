@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T01:33:29+00:00",
+ "updated": "2026-11-16T01:37:42+00:00",
  "sources": {
   "WBA": {
    "divisions": {
@@ -1363,7 +1363,7 @@
    "p4p_F": [],
    "label": "WBA (classifica ufficiale)",
    "url": "https://www.wbaboxing.com/wba-ranking",
-   "read": "2026-11-16T01:32:10+00:00"
+   "read": "2026-11-16T01:36:23+00:00"
   },
   "WBC": {
    "divisions": {
@@ -5056,7 +5056,7 @@
    "p4p_F": [],
    "label": "WBC (via Box-Rank)",
    "url": "https://box-rank.com/rankings/org/wbc/heavyweight",
-   "read": "2026-11-16T01:32:31+00:00"
+   "read": "2026-11-16T01:36:46+00:00"
   },
   "IBF": {
    "divisions": {
@@ -6372,7 +6372,7 @@
    "p4p_F": [],
    "label": "IBF (via Box-Rank)",
    "url": "https://box-rank.com/rankings/org/ibf/heavyweight",
-   "read": "2026-11-16T01:32:50+00:00"
+   "read": "2026-11-16T01:37:04+00:00"
   },
   "WBO": {
    "divisions": {
@@ -7789,7 +7789,7 @@
    "p4p_F": [],
    "label": "WBO (via Box-Rank)",
    "url": "https://box-rank.com/rankings/org/wbo/heavyweight",
-   "read": "2026-11-16T01:33:09+00:00"
+   "read": "2026-11-16T01:37:23+00:00"
   },
   "RING": {
    "divisions": {
@@ -8754,7 +8754,1122 @@
    "p4p_F": [],
    "label": "RING (via Box-Rank)",
    "url": "https://box-rank.com/rankings/org/ring/heavyweight",
-   "read": "2026-11-16T01:33:29+00:00"
+   "read": "2026-11-16T01:37:42+00:00"
+  },
+  "WBO_F": {
+   "label": "WBO donne (classifica ufficiale)",
+   "url": "https://wboboxing.com/wborankings/report/cmFua2luZw==/ZmVtYWxl/b368b21ba1cee99fd0a978f4ac74e866/RankingReportFemale",
+   "date": "October 28, 2026",
+   "divisions": {
+    "Heavyweight": {
+     "champion": {
+      "name": "Claressa Shields",
+      "country": "USA"
+     },
+     "ranks": [
+      {
+       "rank": 1,
+       "name": "Giovanna Gonzalez",
+       "country": "MEX"
+      },
+      {
+       "rank": 2,
+       "name": "Blessing Chukwuede",
+       "country": "NGA"
+      },
+      {
+       "rank": 3,
+       "name": "Annie Mazerolle",
+       "country": "CAN"
+      },
+      {
+       "rank": 4,
+       "name": "Celina Agwu",
+       "country": "NGA"
+      },
+      {
+       "rank": 5,
+       "name": "Annabell Honert",
+       "country": "DEU"
+      },
+      {
+       "rank": 6,
+       "name": "Minellis Blanco",
+       "country": "COL"
+      },
+      {
+       "rank": 7,
+       "name": "Alrie Meleisea",
+       "country": "NZL"
+      },
+      {
+       "rank": 8,
+       "name": "Franchon Crews Dezurn",
+       "country": "USA"
+      }
+     ],
+     "holders": {
+      "WBA": "Claressa Shields",
+      "WBC": "Claressa Shields"
+     }
+    },
+    "Super Middleweight": {
+     "champion": {
+      "name": "Lani Daniels",
+      "country": "NZL"
+     },
+     "ranks": [
+      {
+       "rank": 1,
+       "name": "Savannah Marshall",
+       "country": "GBR"
+      },
+      {
+       "rank": 2,
+       "name": "Melinda Watpool",
+       "country": "CAN"
+      },
+      {
+       "rank": 3,
+       "name": "Lolita Muzeya",
+       "country": "ZMB"
+      },
+      {
+       "rank": 4,
+       "name": "Shadasia Green",
+       "country": "USA"
+      },
+      {
+       "rank": 5,
+       "name": "Raquel Miller",
+       "country": "USA"
+      },
+      {
+       "rank": 6,
+       "name": "Bolatito Oluwole",
+       "country": "NGA"
+      },
+      {
+       "rank": 7,
+       "name": "Vanessa Lepage Joanisse",
+       "country": "CAN"
+      },
+      {
+       "rank": 8,
+       "name": "Toyin Adejumola",
+       "country": "NGA"
+      },
+      {
+       "rank": 9,
+       "name": "Nisa Rodriguez",
+       "country": "USA"
+      }
+     ],
+     "holders": {
+      "WBA": "Franchon Crews Dezurn",
+      "IBF": "Lani Daniels",
+      "WBC": "Franchon Crews Dezurn"
+     }
+    },
+    "Middleweight": {
+     "champion": {
+      "name": "Tamm Thibeault",
+      "country": "CAN"
+     },
+     "ranks": [
+      {
+       "rank": 1,
+       "name": "April Hunter",
+       "country": "GBR"
+      },
+      {
+       "rank": 2,
+       "name": "Mary Spencer",
+       "country": "CAN"
+      },
+      {
+       "rank": 3,
+       "name": "Chloe Chaos",
+       "country": "AUS"
+      },
+      {
+       "rank": 4,
+       "name": "Desley Robinson",
+       "country": "AUS"
+      },
+      {
+       "rank": 5,
+       "name": "Kate Scott",
+       "country": "AUS"
+      },
+      {
+       "rank": 6,
+       "name": "Olivia Curry",
+       "country": "USA"
+      },
+      {
+       "rank": 7,
+       "name": "Mapule Ngubane",
+       "country": "ZAF"
+      },
+      {
+       "rank": 8,
+       "name": "Bree Burbeary",
+       "country": "GBR"
+      },
+      {
+       "rank": 9,
+       "name": "Logan Holler",
+       "country": "USA"
+      },
+      {
+       "rank": 10,
+       "name": "Ruth Chisale",
+       "country": "MWI"
+      }
+     ],
+     "holders": {
+      "WBA": "Claressa Shields",
+      "IBF": "Tamm Thibeault",
+      "WBC": "Claressa Shields"
+     }
+    },
+    "Junior Middleweight": {
+     "champion": {
+      "name": "Chantelle Cameron",
+      "country": "GBR"
+     },
+     "ranks": [
+      {
+       "rank": 1,
+       "name": "Michaela Kotaskova",
+       "country": "CZE"
+      },
+      {
+       "rank": 2,
+       "name": "Elia Carranza",
+       "country": "USA"
+      },
+      {
+       "rank": 3,
+       "name": "Natasha Spence",
+       "country": "CAN"
+      },
+      {
+       "rank": 4,
+       "name": "Mary Casamassa",
+       "country": "USA"
+      },
+      {
+       "rank": 5,
+       "name": "Paige Goodyear",
+       "country": "GBR"
+      },
+      {
+       "rank": 6,
+       "name": "Marine Beauchamp",
+       "country": "FRA"
+      },
+      {
+       "rank": 7,
+       "name": "Naomi Mannes",
+       "country": "DEU"
+      },
+      {
+       "rank": 8,
+       "name": "Marianne Ahlborg",
+       "country": "SWE"
+      },
+      {
+       "rank": 9,
+       "name": "Femke Hermans",
+       "country": "BEL"
+      },
+      {
+       "rank": 10,
+       "name": "Brigitte Mbabi",
+       "country": "COD"
+      },
+      {
+       "rank": 11,
+       "name": "Cris Cyborg",
+       "country": "BRA"
+      },
+      {
+       "rank": 12,
+       "name": "Sedem Ama",
+       "country": "GBR"
+      }
+     ],
+     "holders": {
+      "WBA": "Chantelle Cameron",
+      "IBF": "Ohsae Jones",
+      "WBC": "Chantelle Cameron"
+     }
+    },
+    "Welterweight": {
+     "champion": {
+      "name": "Mikaela Mayer",
+      "country": "USA"
+     },
+     "ranks": [
+      {
+       "rank": 1,
+       "name": "Emilie Sonvico",
+       "country": "FRA"
+      },
+      {
+       "rank": 2,
+       "name": "Jordan Barker Porter",
+       "country": "GBR"
+      },
+      {
+       "rank": 3,
+       "name": "Dee Allen",
+       "country": "GBR"
+      },
+      {
+       "rank": 4,
+       "name": "Omarah Taylor",
+       "country": "GBR"
+      },
+      {
+       "rank": 5,
+       "name": "Jessica Messina",
+       "country": "AUS"
+      },
+      {
+       "rank": 6,
+       "name": "Dilara Yucel",
+       "country": "TUR"
+      },
+      {
+       "rank": 7,
+       "name": "Jade Grierson",
+       "country": "GBR"
+      },
+      {
+       "rank": 8,
+       "name": "Stevie Jane Coleman",
+       "country": "USA"
+      },
+      {
+       "rank": 9,
+       "name": "Sara French",
+       "country": "USA"
+      },
+      {
+       "rank": 10,
+       "name": "Brianda Cruz",
+       "country": "MEX"
+      },
+      {
+       "rank": 11,
+       "name": "Fanny Galle",
+       "country": "FRA"
+      },
+      {
+       "rank": 12,
+       "name": "Oriance Lungu",
+       "country": "GBR"
+      }
+     ],
+     "holders": {}
+    },
+    "Junior Welterweight": {
+     "champion": null,
+     "ranks": [
+      {
+       "rank": 1,
+       "name": "Savannah Tini",
+       "country": "USA"
+      },
+      {
+       "rank": 2,
+       "name": "Albina Moldazhanova",
+       "country": "RUS"
+      },
+      {
+       "rank": 3,
+       "name": "Terri Harper",
+       "country": "GBR"
+      },
+      {
+       "rank": 4,
+       "name": "Maria Ines Ferreyra",
+       "country": "ARG"
+      },
+      {
+       "rank": 5,
+       "name": "Stephanie Pineiro",
+       "country": "PRI"
+      },
+      {
+       "rank": 6,
+       "name": "Hannah Robinson",
+       "country": "GBR"
+      },
+      {
+       "rank": 7,
+       "name": "Stephanie Simon",
+       "country": "USA"
+      },
+      {
+       "rank": 8,
+       "name": "Samantha Worthington",
+       "country": "USA"
+      },
+      {
+       "rank": 9,
+       "name": "Patricia Berghult",
+       "country": "SWE"
+      },
+      {
+       "rank": 10,
+       "name": "Carolyn Redmond",
+       "country": "CAN"
+      },
+      {
+       "rank": 11,
+       "name": "Nozipho Bell",
+       "country": "ZAF"
+      },
+      {
+       "rank": 12,
+       "name": "Anahi Sanchez",
+       "country": "ARG"
+      }
+     ],
+     "holders": {}
+    },
+    "Lightweight": {
+     "champion": {
+      "name": "Caroline Dubois",
+      "country": "GBR"
+     },
+     "ranks": [
+      {
+       "rank": 1,
+       "name": "Stevie Morgan",
+       "country": "USA"
+      },
+      {
+       "rank": 2,
+       "name": "Shauna Browne",
+       "country": "IRL"
+      },
+      {
+       "rank": 3,
+       "name": "Taylah Gentzen",
+       "country": "AUS"
+      },
+      {
+       "rank": 4,
+       "name": "Amelia Moore",
+       "country": "USA"
+      },
+      {
+       "rank": 5,
+       "name": "Sheila Yama",
+       "country": "NZL"
+      },
+      {
+       "rank": 6,
+       "name": "Katharina Thanderz",
+       "country": "NOR"
+      },
+      {
+       "rank": 7,
+       "name": "Jessica Camara",
+       "country": "CAN"
+      },
+      {
+       "rank": 8,
+       "name": "Miranda Reyes",
+       "country": "USA"
+      },
+      {
+       "rank": 9,
+       "name": "Kirstie Bavington",
+       "country": "GBR"
+      },
+      {
+       "rank": 10,
+       "name": "Samantha Quek",
+       "country": "SGP"
+      },
+      {
+       "rank": 11,
+       "name": "Jade Pearce",
+       "country": "GBR"
+      },
+      {
+       "rank": 12,
+       "name": "Alejandra Rojas Rivera",
+       "country": "MEX"
+      }
+     ],
+     "holders": {
+      "WBA": "Stephanie Han",
+      "IBF": "Elif Nur Turhan",
+      "WBC": "Caroline Dubois"
+     }
+    },
+    "Junior Lightweight": {
+     "champion": {
+      "name": "Alycia Baumgardner",
+      "country": "USA"
+     },
+     "ranks": [
+      {
+       "rank": 1,
+       "name": "Maira Moneo",
+       "country": "URY"
+      },
+      {
+       "rank": 2,
+       "name": "Elise Soto",
+       "country": "PRI"
+      },
+      {
+       "rank": 3,
+       "name": "Kiria Tapia",
+       "country": "PRI"
+      },
+      {
+       "rank": 4,
+       "name": "Shannel Butler",
+       "country": "GBR"
+      },
+      {
+       "rank": 5,
+       "name": "Lara Ochmann",
+       "country": "DEU"
+      },
+      {
+       "rank": 6,
+       "name": "Caroline Veyre",
+       "country": "CAN"
+      },
+      {
+       "rank": 7,
+       "name": "Kelsey Leonard",
+       "country": "IRL"
+      },
+      {
+       "rank": 8,
+       "name": "Amanda Chan",
+       "country": "SGP"
+      },
+      {
+       "rank": 9,
+       "name": "Jessica Barry",
+       "country": "GBR"
+      },
+      {
+       "rank": 10,
+       "name": "Mia Ellis",
+       "country": "USA"
+      },
+      {
+       "rank": 11,
+       "name": "Brisa Alfonzo",
+       "country": "ARG"
+      },
+      {
+       "rank": 12,
+       "name": "Julissa Alejandra Guzman",
+       "country": "MEX"
+      }
+     ],
+     "holders": {
+      "WBA": "Alycia Baumgardner",
+      "IBF": "Alycia Baumgardner",
+      "WBC": "Bernice Ferreira"
+     }
+    },
+    "Featherweight": {
+     "champion": {
+      "name": "Amanda Serrano",
+      "country": "PRI"
+     },
+     "ranks": [
+      {
+       "rank": 1,
+       "name": "Ellie Scotney",
+       "country": "GBR"
+      },
+      {
+       "rank": 2,
+       "name": "Amy Andrew",
+       "country": "USA"
+      },
+      {
+       "rank": 3,
+       "name": "Mariah Turner",
+       "country": "AUS"
+      },
+      {
+       "rank": 4,
+       "name": "Lucrecia Manzur",
+       "country": "ARG"
+      },
+      {
+       "rank": 5,
+       "name": "Reina Tellez",
+       "country": "USA"
+      },
+      {
+       "rank": 6,
+       "name": "Cheyenne Hanson",
+       "country": "DEU"
+      },
+      {
+       "rank": 7,
+       "name": "Anera Osawa",
+       "country": "JPN"
+      },
+      {
+       "rank": 8,
+       "name": "Sheila Martinez",
+       "country": "ESP"
+      },
+      {
+       "rank": 9,
+       "name": "Sarah Liegmann",
+       "country": "DEU"
+      },
+      {
+       "rank": 10,
+       "name": "Vivian Rodriguez",
+       "country": "DOM"
+      },
+      {
+       "rank": 11,
+       "name": "Elizabeth Oshoba",
+       "country": "NGA"
+      },
+      {
+       "rank": 12,
+       "name": "Lila Furtado",
+       "country": "BRA"
+      }
+     ],
+     "holders": {
+      "WBA": "Amanda Serrano",
+      "IBF": "Nina Meinke",
+      "WBC": "Tiara Brown"
+     }
+    },
+    "Junior Featherweight": {
+     "champion": null,
+     "ranks": [
+      {
+       "rank": 1,
+       "name": "Mikiah Kreps",
+       "country": "USA"
+      },
+      {
+       "rank": 2,
+       "name": "Ramla Ali",
+       "country": "GBR"
+      },
+      {
+       "rank": 3,
+       "name": "Mea Motu",
+       "country": "NZL"
+      },
+      {
+       "rank": 4,
+       "name": "Phannarai Netisri",
+       "country": "THA"
+      },
+      {
+       "rank": 5,
+       "name": "Erika Cruz Hernandez",
+       "country": "MEX"
+      },
+      {
+       "rank": 6,
+       "name": "Nazarena Romero",
+       "country": "ARG"
+      },
+      {
+       "rank": 7,
+       "name": "Melania Sorroche",
+       "country": "ESP"
+      },
+      {
+       "rank": 8,
+       "name": "Ashleyann Lozada",
+       "country": "PRI"
+      },
+      {
+       "rank": 9,
+       "name": "Mayelli Flores",
+       "country": "MEX"
+      },
+      {
+       "rank": 10,
+       "name": "Paulette Cuesta",
+       "country": "MEX"
+      },
+      {
+       "rank": 11,
+       "name": "Yamileth Mercado",
+       "country": "MEX"
+      },
+      {
+       "rank": 12,
+       "name": "Miyo Yosida",
+       "country": "JPN"
+      }
+     ],
+     "holders": {
+      "WBA": "Melissa Mortensen",
+      "WBC": "Skye Nicolson"
+     }
+    },
+    "Bantamweight": {
+     "champion": {
+      "name": "Dina Thorslund",
+      "country": "DNK"
+     },
+     "ranks": [
+      {
+       "rank": 1,
+       "name": "Diana Fernandez",
+       "country": "MEX"
+      },
+      {
+       "rank": 2,
+       "name": "Cherneka Johnson",
+       "country": "AUS"
+      },
+      {
+       "rank": 3,
+       "name": "Shera Mae Patricio",
+       "country": "USA"
+      },
+      {
+       "rank": 4,
+       "name": "Krystal Rosado-Ortiz",
+       "country": "PRI"
+      },
+      {
+       "rank": 5,
+       "name": "Monica Mikandla",
+       "country": "ZWE"
+      },
+      {
+       "rank": 6,
+       "name": "Francesca Hennessy",
+       "country": "GBR"
+      },
+      {
+       "rank": 7,
+       "name": "Terumi Nuki",
+       "country": "JPN"
+      },
+      {
+       "rank": 8,
+       "name": "Johanna Wonyou",
+       "country": "FRA"
+      },
+      {
+       "rank": 9,
+       "name": "Amanda Galle",
+       "country": "CAN"
+      },
+      {
+       "rank": 10,
+       "name": "Brittany Sims",
+       "country": "USA"
+      },
+      {
+       "rank": 11,
+       "name": "Ebanie Bridges",
+       "country": "GBR"
+      },
+      {
+       "rank": 12,
+       "name": "Shanell Dargan",
+       "country": "AUS"
+      }
+     ],
+     "holders": {
+      "WBA": "Dina Thorslund",
+      "IBF": "Dina Thorslund",
+      "WBC": "Dina Thorslund"
+     }
+    },
+    "Junior Bantamweight": {
+     "champion": {
+      "name": "Mizuki Hiruta",
+      "country": "JPN"
+     },
+     "ranks": [
+      {
+       "rank": 1,
+       "name": "Shannon Ryan",
+       "country": "GBR"
+      },
+      {
+       "rank": 2,
+       "name": "Natalie Dove",
+       "country": "USA"
+      },
+      {
+       "rank": 3,
+       "name": "Lauryne Brankaer",
+       "country": "FRA"
+      },
+      {
+       "rank": 4,
+       "name": "Roxana Mendoza",
+       "country": "NIC"
+      },
+      {
+       "rank": 5,
+       "name": "Debora Lopez",
+       "country": "ARG"
+      },
+      {
+       "rank": 6,
+       "name": "Chaoz Minowa",
+       "country": "JPN"
+      },
+      {
+       "rank": 7,
+       "name": "Jasmine Artiga",
+       "country": "USA"
+      },
+      {
+       "rank": 8,
+       "name": "Olga Julio",
+       "country": "COL"
+      },
+      {
+       "rank": 9,
+       "name": "Mai Soliman",
+       "country": "AUS"
+      },
+      {
+       "rank": 10,
+       "name": "Emma Dolan",
+       "country": "GBR"
+      },
+      {
+       "rank": 11,
+       "name": "Gloria Gallardo",
+       "country": "MEX"
+      },
+      {
+       "rank": 12,
+       "name": "Adriana Thalia Pineiro",
+       "country": "URY"
+      }
+     ],
+     "holders": {
+      "WBA": "Nataly Delgado",
+      "IBF": "Irma Garcia",
+      "WBC": "Adelaida Ruiz"
+     }
+    },
+    "Flyweight": {
+     "champion": {
+      "name": "Gabriela Fundora",
+      "country": "USA"
+     },
+     "ranks": [
+      {
+       "rank": 1,
+       "name": "Gabriela Alaniz",
+       "country": "ARG"
+      },
+      {
+       "rank": 2,
+       "name": "Micaela Lujan",
+       "country": "ARG"
+      },
+      {
+       "rank": 3,
+       "name": "Cecilia Nino Rodriguez",
+       "country": "MEX"
+      },
+      {
+       "rank": 4,
+       "name": "Yohandri Rondon",
+       "country": "VEN"
+      },
+      {
+       "rank": 5,
+       "name": "Sibulele Soboois",
+       "country": "ZAF"
+      },
+      {
+       "rank": 6,
+       "name": "Kenia Enriquez",
+       "country": "MEX"
+      },
+      {
+       "rank": 7,
+       "name": "Viviana Ruiz",
+       "country": "AUS"
+      },
+      {
+       "rank": 8,
+       "name": "Leanna Cruz",
+       "country": "USA"
+      },
+      {
+       "rank": 9,
+       "name": "Jasmina Zapotoczna",
+       "country": "POL"
+      },
+      {
+       "rank": 10,
+       "name": "Leonela Yudica",
+       "country": "ARG"
+      },
+      {
+       "rank": 11,
+       "name": "Chloe Watson",
+       "country": "GBR"
+      },
+      {
+       "rank": 12,
+       "name": "Alexas Kubicki",
+       "country": "CAN"
+      }
+     ],
+     "holders": {
+      "WBA": "Gabriela Fundora",
+      "IBF": "Gabriela Fundora",
+      "WBC": "Gabriela Fundora"
+     }
+    },
+    "Junior Flyweight": {
+     "champion": {
+      "name": "Estefany Alegria Osorio",
+      "country": "MEX"
+     },
+     "ranks": [
+      {
+       "rank": 1,
+       "name": "Evelin Bermudez",
+       "country": "ARG"
+      },
+      {
+       "rank": 2,
+       "name": "Aldana Lopez",
+       "country": "ARG"
+      },
+      {
+       "rank": 3,
+       "name": "Eveling Junieth Ortega",
+       "country": "NIC"
+      },
+      {
+       "rank": 4,
+       "name": "Yesica Nery Plata",
+       "country": "MEX"
+      },
+      {
+       "rank": 5,
+       "name": "Naomy Valle",
+       "country": "CRI"
+      },
+      {
+       "rank": 6,
+       "name": "Emma Nesbitt",
+       "country": "NZL"
+      },
+      {
+       "rank": 7,
+       "name": "Tenkai Tsunami",
+       "country": "JPN"
+      },
+      {
+       "rank": 8,
+       "name": "Maria Guadalupe Bautista",
+       "country": "MEX"
+      },
+      {
+       "rank": 9,
+       "name": "Silvia Torres",
+       "country": "MEX"
+      },
+      {
+       "rank": 10,
+       "name": "Tania D'Almeida",
+       "country": "FRA"
+      },
+      {
+       "rank": 11,
+       "name": "Hye Su Jang",
+       "country": "KOR"
+      },
+      {
+       "rank": 12,
+       "name": "Yumemi Ikemoto",
+       "country": "JPN"
+      }
+     ],
+     "holders": {
+      "WBA": "Estefany Alegria Osorio",
+      "IBF": "Estefany Alegria Osorio",
+      "WBC": "Lourdes Juarez"
+     }
+    },
+    "Strawweight": {
+     "champion": {
+      "name": "Sarah Bormann",
+      "country": "DEU"
+     },
+     "ranks": [
+      {
+       "rank": 1,
+       "name": "Riyuna Yoshikawa",
+       "country": "JPN"
+      },
+      {
+       "rank": 2,
+       "name": "Brook Sibrian",
+       "country": "USA"
+      },
+      {
+       "rank": 3,
+       "name": "Andrea Del Muro",
+       "country": "MEX"
+      },
+      {
+       "rank": 4,
+       "name": "Sol Cudos",
+       "country": "ARG"
+      },
+      {
+       "rank": 5,
+       "name": "Maria Luz Peral",
+       "country": "ESP"
+      },
+      {
+       "rank": 6,
+       "name": "Ye Kyeng Seo",
+       "country": "KOR"
+      },
+      {
+       "rank": 7,
+       "name": "Yuko Kuroki",
+       "country": "JPN"
+      },
+      {
+       "rank": 8,
+       "name": "Guadalupe Medina",
+       "country": "USA"
+      },
+      {
+       "rank": 9,
+       "name": "Federica Macri",
+       "country": "ITA"
+      },
+      {
+       "rank": 10,
+       "name": "Vittoria Parigi Bini",
+       "country": "ITA"
+      },
+      {
+       "rank": 11,
+       "name": "Madoka Wada",
+       "country": "JPN"
+      },
+      {
+       "rank": 12,
+       "name": "Chaima Bounouar",
+       "country": "ESP"
+      }
+     ],
+     "holders": {
+      "WBA": "Sarah Bormann",
+      "IBF": "Kim Clavel",
+      "WBC": "Yokasta Valle"
+     }
+    },
+    "Atomweight": {
+     "champion": {
+      "name": "Gabrela Timar",
+      "country": "ROM"
+     },
+     "ranks": [
+      {
+       "rank": 1,
+       "name": "Jennifer Sabrina Meza",
+       "country": "ARG"
+      },
+      {
+       "rank": 2,
+       "name": "Esneidy Rodriguez",
+       "country": "MEX"
+      },
+      {
+       "rank": 3,
+       "name": "Eri Matsuda",
+       "country": "JPN"
+      },
+      {
+       "rank": 4,
+       "name": "Mercedes Reyna",
+       "country": "ARG"
+      },
+      {
+       "rank": 5,
+       "name": "Shiori Yotsumoto",
+       "country": "JPN"
+      },
+      {
+       "rank": 6,
+       "name": "Honoka Kano",
+       "country": "JPN"
+      },
+      {
+       "rank": 7,
+       "name": "Jadalie Carolina Medeiros",
+       "country": "USA"
+      },
+      {
+       "rank": 8,
+       "name": "Gipsy Diaz",
+       "country": "CRI"
+      },
+      {
+       "rank": 9,
+       "name": "Marina Loreto",
+       "country": "JPN"
+      },
+      {
+       "rank": 10,
+       "name": "Watcharaporn Namphon",
+       "country": "THA"
+      },
+      {
+       "rank": 11,
+       "name": "Mao Kamada",
+       "country": "JPN"
+      },
+      {
+       "rank": 12,
+       "name": "Nao Ugawa",
+       "country": "JPN"
+      }
+     ],
+     "holders": {
+      "WBA": "Isabel Rivero",
+      "IBF": "Sumire Yamanaka",
+      "WBC": "Camila Zamorano"
+     }
+    }
+   },
+   "read": "2026-11-16T01:36:26+00:00"
   }
  }
 }
