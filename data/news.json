@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T12:15:46+00:00",
+ "updated": "2026-11-16T12:20:43+00:00",
  "feeds_ok": 49,
  "feeds_failed": 4,
  "news": [
@@ -389,7 +389,7 @@
    "date": "2026-11-16T04:16:50+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 36,
+   "score": 35,
    "sources_n": 2,
    "title_it": "Il Kronk di Cardiff? La palestra dove si allenano i campioni gallesi - BBC",
    "title_es": "¿El Kronk de Cardiff? El gimnasio donde entrenan los campeones galeses - BBC"
@@ -580,6 +580,19 @@
    "title_es": "Futura estrella Katerina Kouts Campeona intercontinental de la UBO"
   },
   {
+   "title": "National Intermediate Championships Opening Weekend Results",
+   "link": "https://www.irish-boxing.com/national-intermediate-championships-opening-weekend-results/",
+   "source": "Irish Boxing",
+   "lang": "en",
+   "date": "2026-11-15T18:53:12+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 21,
+   "sources_n": 1,
+   "title_it": "Risultati del weekend di apertura dei Campionati Nazionali Intermedi",
+   "title_es": "Resultados del fin de semana de inauguración de los Campeonatos Nacionales Intermedios"
+  },
+  {
    "title": "Aaron McKenna set for first World title defence - Northern Sound",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOX1E1X0RhWFZkSDAzeE1ZX2dhWDR3WHN1R0pweDRmSVhwMTZIa1ZwWEhWWTd5WGxaYXowRm9RYVRvVEVUNEJkLTlJUV95NVdvb0hocHhLS3ZVMFJZOTNXRnZoTGJvTG1NdWVEZ1pZX2g0bFV5RXJqdElpQUgzNUxzd2YtOHA2N2ZaUzRlNHZSOXNJcFUy?oc=5",
    "source": "Google News: boxing",
@@ -613,7 +626,7 @@
    "date": "2026-11-15T18:18:26+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 21,
+   "score": 20,
    "sources_n": 1,
    "title_it": "Pugilato, la licatese Gloria Peritone si conferma campionessa europea EBU dei pesi gallo - GrandangoloAgrigento",
    "title_es": "Boxeo, Gloria Peritone de Licate se confirma campeona europea de peso gallo de la EBU - GrandangoloAgrigento"
@@ -1042,7 +1055,7 @@
    "date": "2026-11-15T13:16:12-05:00",
    "status": "unverified",
    "boxers": [],
-   "score": 51,
+   "score": 50,
    "sources_n": 5,
    "title_it": "Teremoana contro Hemi Ahio, Amari Jones e altri: calendario e anteprime degli incontri di boxe dal 18 al 21 novembre 2026",
    "title_es": "Teremoana contra Hemi Ahio, Amari Jones y más: calendario de boxeo y avances para el 18-21 de noviembre de 2026"
@@ -1656,7 +1669,7 @@
    "date": "2026-11-15T00:17:41+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 87,
+   "score": 86,
    "sources_n": 9,
    "title_it": "Diego Pacheco Vs Darius Fulghum Preliminari | 4 combattimenti dal vivo | Boxe da incontro",
    "title_es": "Preliminares Diego Pacheco Vs Darío Fulghum | 4 peleas en vivo | Boxeo en la sala de partidos"
@@ -2521,7 +2534,7 @@
    "date": "2026-11-14T08:17:01+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 4,
+   "score": 3,
    "sources_n": 1,
    "title_it": "Il pugile iraniano nel braccio della morte vince il Magnitsky Human Rights Award 2026 - National Council of Resistance of Iran - NCRI",
    "title_es": "El boxeador iraní condenado a muerte gana el Premio Magnitsky de Derechos Humanos 2026 - Consejo Nacional de la Resistencia Iraní - CNRI"
@@ -3116,7 +3129,7 @@
     "Anthony Joshua"
    ],
    "score": 85,
-   "sources_n": 8,
+   "sources_n": 7,
    "title_it": "Il destino di Anthony Joshua contro Tyson Fury è nelle sue mani, non in quelle di Ben Davison",
    "title_es": "El destino de Anthony Joshua contra Tyson Fury está en sus manos, no en las de Ben Davison."
   },
@@ -3185,7 +3198,7 @@
     "Tyson Fury"
    ],
    "score": 75,
-   "sources_n": 8,
+   "sources_n": 7,
    "title_it": "Pesi massimi, 61 anni, 86 posizioni sopra l'ultimo avversario di Tyson Fury",
    "title_es": "Peso pesado, 61 años, 86 puestos por encima del último rival de Tyson Fury"
   },
@@ -3989,22 +4002,6 @@
    "sources_n": 6,
    "title_it": "Kelly affronterà Ennis nel match di unificazione di febbraio",
    "title_es": "Kelly se enfrentará a Ennis en el combate de unificación de febrero"
-  },
-  {
-   "title": "More heavyweight fights added to Tyson Fury vs Anthony Joshua undercard",
-   "link": "https://sports.yahoo.com/articles/more-heavyweight-fights-added-tyson-092316050.html",
-   "source": "Yahoo Sports Boxing",
-   "lang": "en",
-   "date": "2026-11-12T09:23:16+00:00",
-   "status": "unverified",
-   "boxers": [
-    "Tyson Fury",
-    "Anthony Joshua"
-   ],
-   "score": 95,
-   "sources_n": 9,
-   "title_it": "Altri combattimenti dei pesi massimi aggiunti alla undercard Tyson Fury vs Anthony Joshua",
-   "title_es": "Se agregaron más peleas de peso pesado a la cartelera de Tyson Fury vs Anthony Joshua"
   }
  ]
 }
