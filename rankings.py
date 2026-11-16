@@ -246,7 +246,8 @@ def parse_wbo_text(page):
 
 def run_wbo_female(res, log):
     try:
-        d = parse_wbo_text(fetch(WBO_F_URL, timeout=40))
+        raw = fetch(WBO_F_URL, timeout=40)
+        d = parse_wbo_text(raw)
         nd = len(d["divisions"]); nr = sum(len(v["ranks"]) for v in d["divisions"].values())
         if nd < 8: raise ValueError("pochi dati: %d divisioni" % nd)
         res["WBO_F"] = {"label": "WBO donne (classifica ufficiale)", "url": WBO_F_URL, "date": d["date"], "divisions": d["divisions"],
@@ -254,6 +255,11 @@ def run_wbo_female(res, log):
         log(f"CLASSIFICHE OK WBO donne: {nd} divisioni, {nr} posizioni, data {d['date']}")
     except Exception as e:
         log(f"CLASSIFICHE FAIL WBO donne: {type(e).__name__} {e}")
+        try:
+            ls = html_to_lines(raw)
+            log("WBO donne DIAGNOSI: ricevuti %d caratteri, %d righe; prime righe: %s" % (len(raw), len(ls), " | ".join(x[:40] for x in ls[:14])))
+        except Exception as e2:
+            log("WBO donne DIAGNOSI: nessun testo ricevuto (%s)" % type(e2).__name__)
 
 
 def run_step(data_dir, log, max_age_h=6):
