@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T14:31:11+00:00",
+ "updated": "2026-11-16T14:35:39+00:00",
  "feeds_ok": 49,
  "feeds_failed": 4,
  "news": [
@@ -12,7 +12,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 59,
-   "sources_n": 10,
+   "sources_n": 9,
    "title_it": "Eddie Hearn può tenere a mente gli interessi di entrambi i pugili quando si affrontano? 👀",
    "title_es": "¿Puede Eddie Hearn tener en cuenta los intereses de ambos púgiles cuando se enfrenten entre sí? 👀"
   },
@@ -28,6 +28,19 @@
    "sources_n": 1,
    "title_it": "Calendario NAZIONALE Pugilato Olimpico 2027 - FPI",
    "title_es": "Calendario NACIONAL de Boxeo Olímpico 2027 - FPI"
+  },
+  {
+   "title": "Notizie dalla Giunta - Regione Friuli Venezia Giulia",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTHlZUXJyMUMxcnBCenlkRU1wa1JnUlg5QnlEREY5b3lpWXp1Y3FMTlZSVUU0LVZqcGVielBnTVlkWG8zazdqeUF1c1ozaU5uU0h5Z3JqdmFTVWRmLUVOZ3FXaHE3YVd0SklnbTFSOHJmQVRZOUo2MnU3c3lqVXlZTE4zeHp2TW5jWDNHdURvSFFvRTdwZW1rVU0yOUFhaFJjVnRkVXFWQWh1UDRlVFhmUmlxVFpMMzk5SHJUeg?oc=5",
+   "source": "Google News: pugilato",
+   "lang": "it",
+   "date": "2026-11-16T14:01:00+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 29,
+   "sources_n": 1,
+   "title_it": "Notizie dalla Giunta - Regione Friuli Venezia Giulia",
+   "title_es": "Noticias de la Junta - Región de Friul-Venecia Julia"
   },
   {
    "title": "Abdulaziz Alotaibi had him off balance at #ZuffaBoxing13 🥊👀",
@@ -102,7 +115,7 @@
    "date": "2026-11-16T12:34:42+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 37,
+   "score": 36,
    "sources_n": 1,
    "title_it": "\"È sconvolgente\": l'errore di England Boxing pone fine al sogno da dilettante del diciottenne George Francis, che diventa professionista",
    "title_es": "«Es frustrante»: un error de England Boxing acaba con el sueño amateur de George Francis, de 18 años, cuando se pasa al boxeo profesional"
@@ -360,7 +373,7 @@
    "date": "2026-11-16T08:31:30+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 27,
+   "score": 26,
    "sources_n": 1,
    "title_it": "Cesare Costa della Scuola Kokorozashi sul tetto d'Italia nella chess boxing - Citysport",
    "title_es": "Cesare Costa de la Escuela Kokorozashi en el techo de Italia en ajedrez boxeo - Citysport"
@@ -373,7 +386,7 @@
    "date": "2026-11-16T08:31:15+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 27,
+   "score": 26,
    "sources_n": 1,
    "title_it": "Risultati di pugilato: luglio | agosto 2026",
    "title_es": "Resultados de boxeo: julio | agosto de 2026"
@@ -558,8 +571,8 @@
    "date": "2026-11-16T02:55:03+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 70,
-   "sources_n": 1,
+   "score": 80,
+   "sources_n": 2,
    "title_it": "Oggi, nel 2010: Manny Pacquiao ha inflitto una brutale sconfitta in 12 riprese ad Antonio Margarito, conquistando il titolo WBC dei superwelter ed entrando nella storia come campione del mondo in 8 categorie di peso; consolidando così il suo status di re del pugilato pound-for-pound.",
    "title_es": "Tal día como hoy en 2010: Manny Pacquiao propinó una brutal paliza de 12 asaltos a Antonio Margarito para ganar el título superwélter del CMB y convertirse en el primer campeón del mundo en 8 categorías de peso de la historia, lo que reforzó su estatus como el mejor boxeador libra por libra."
   },
@@ -639,7 +652,7 @@
    "date": "2026-11-15T22:34:39+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 97,
+   "score": 96,
    "sources_n": 4,
    "title_it": "La classifica P4P Top 5 più recente di David Benavidez!!!",
    "title_es": "¡¡¡La lista más reciente del Top 5 P4P de David Benavidez!!!"
@@ -652,7 +665,7 @@
    "date": "2026-11-15T22:33:27+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 52,
+   "score": 51,
    "sources_n": 7,
    "title_it": "2 minuti di Boots Ennis e Josh Kelly che si scambiano insulti durante il loro faccia a faccia. Preparatevi a scintille il 27 febbraio!",
    "title_es": "2 minutos de Boots Ennis y Josh Kelly intercambiando provocaciones durante su cara a cara. ¡El 27 de febrero habrá fuegos artificiales!"
@@ -721,19 +734,6 @@
    "sources_n": 1,
    "title_it": "La futura stella Katerina Kouts Campionessa intercontinentale UBO",
    "title_es": "Futura estrella Katerina Kouts Campeona intercontinental de la UBO"
-  },
-  {
-   "title": "National Intermediate Championships Opening Weekend Results",
-   "link": "https://www.irish-boxing.com/national-intermediate-championships-opening-weekend-results/",
-   "source": "Irish Boxing",
-   "lang": "en",
-   "date": "2026-11-15T18:53:12+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 20,
-   "sources_n": 1,
-   "title_it": "Risultati del weekend di apertura dei Campionati nazionali di categoria intermedia",
-   "title_es": "Resultados del fin de semana inaugural de los Campeonatos Nacionales Intermedios"
   },
   {
    "title": "Aaron McKenna set for first World title defence - Northern Sound",
@@ -926,7 +926,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 49,
-   "sources_n": 5,
+   "sources_n": 4,
    "title_it": "Dana White è una bugiarda patologica?",
    "title_es": "¿Es Dana White un mentiroso patológico?"
   },
@@ -1224,7 +1224,7 @@
    "date": "2026-11-15T12:32:32+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 45,
+   "score": 44,
    "sources_n": 2,
    "title_it": "Gane sconfigge Hokit e conserva il campionato dei pesi massimi UFC",
    "title_es": "Gane derrota a Hokit y retiene el campeonato de peso pesado de UFC"
@@ -1357,7 +1357,7 @@
    "date": "2026-11-15T10:34:14+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 89,
+   "score": 88,
    "sources_n": 3,
    "title_it": "Deontay Wilder nutre ancora la speranza di disputare un mega incontro nei pesi massimi prima del ritiro",
    "title_es": "Deontay Wilder aún tiene esperanzas de disputar un gran combate en el peso pesado antes de retirarse"
@@ -1721,7 +1721,7 @@
    "date": "2026-11-15T00:33:26+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 41,
+   "score": 40,
    "sources_n": 6,
    "title_it": "Pre-show e primo incontro preliminare: Riyadh Season Zuffa Boxing 13",
    "title_es": "Previa y primer combate preliminar: Riyadh Season Zuffa Boxing 13"
@@ -1838,7 +1838,7 @@
    "date": "2026-11-14T20:31:40+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 17,
+   "score": 16,
    "sources_n": 1,
    "title_it": "I MIGLIORI momenti della vittoria di Adames su Warburton! 💥 #ZuffaBoxing13",
    "title_es": "¡LOS MEJORES momentos de la victoria de Adames sobre Warburton! 💥 #ZuffaBoxing13"
@@ -2075,7 +2075,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 37,
-   "sources_n": 10,
+   "sources_n": 9,
    "title_it": "‼️ Eddie Hearn ha RIVELATO che Ray Ford non è più sotto contratto con Matchroom.",
    "title_es": "‼️ Eddie Hearn ha REVELADO que Ray Ford ya no tiene contrato con Matchroom."
   },
@@ -2114,7 +2114,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 45,
-   "sources_n": 7,
+   "sources_n": 6,
    "title_it": "IL PROSSIMO AVVERSARIO DI BOOTS ENNIS! Josh Kelly contro Caoimhín Agyarko | INCONTRO COMPLETO",
    "title_es": "¡EL PRÓXIMO RIVAL DE BOOTS ENNIS! Josh Kelly vs. Caoimhín Agyarko | COMBATE COMPLETO"
   },
@@ -2139,7 +2139,7 @@
    "date": "2026-11-14T16:33:23+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 35,
+   "score": 34,
    "sources_n": 2,
    "title_it": "Il pugile Zak Miller pubblica per la prima volta dopo aver subito un enorme ematoma che ha portato all'interruzione dell'incontro per il titolo mondiale",
    "title_es": "El boxeador Zak Miller publica por primera vez tras sufrir un enorme hematoma que provocó la suspensión de su combate por el título mundial"
@@ -2179,7 +2179,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 81,
-   "sources_n": 5,
+   "sources_n": 4,
    "title_it": "Terence Crawford insegna alla prossima generazione di pugili al pressore Boots vs Kelly 🔥",
    "title_es": "Terence Crawford enseñando a la próxima generación de boxeadores en la prensa de Boots vs Kelly 🔥"
   },
@@ -2217,7 +2217,7 @@
    "date": "2026-11-14T14:32:31+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 16,
+   "score": 15,
    "sources_n": 1,
    "title_it": "Un pugile inglese di 18 anni è stato escluso dai Campionati del Mondo a causa di un incredibile errore nel test di genere: il giovane \"distrutto\" rivela come il suo sogno sia andato in frantumi dopo che la squadra ha dimenticato di dimostrare che era un uomo",
    "title_es": "Un boxeador inglés de 18 años es excluido de los Campeonatos del Mundo tras una increíble confusión con una prueba de sexo: el adolescente «destrozado» revela cómo se hizo añicos su sueño después de que el equipo olvidara demostrar que era un hombre."
@@ -2399,7 +2399,7 @@
    "date": "2026-11-14T10:34:59+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 14,
+   "score": 13,
    "sources_n": 1,
    "title_it": "\"Ero distrutta\": la giovane stella del pugilato inglese squalificata dai campionati mondiali dopo che la squadra ha dimenticato di farle sostenere il test di genere obbligatorio",
    "title_es": "«Me sentí destrozada»: una joven estrella del boxeo inglés es expulsada de los campeonatos del mundo después de que su equipo se olvidara de la prueba de sexo obligatoria"
@@ -2786,7 +2786,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 65,
-   "sources_n": 10,
+   "sources_n": 9,
    "title_it": "Eddie Hearn sulla decisione della WBA riguardo all'incontro tra Teofimo Lopez e Jack Catterall 👀",
    "title_es": "Eddie Hearn sobre la decisión de la AMB respecto al combate entre Teófimo López y Jack Catterall 👀"
   },
@@ -2903,7 +2903,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 75,
-   "sources_n": 10,
+   "sources_n": 9,
    "title_it": "\"So che possiamo organizzargli gli incontri\": Eddie Hearn espone le sue ragioni per ingaggiare Shakur Stevenson",
    "title_es": "«Sé que podemos conseguirle los combates»: Eddie Hearn defiende sus argumentos para fichar a Shakur Stevenson"
   },
@@ -3113,7 +3113,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 75,
-   "sources_n": 10,
+   "sources_n": 9,
    "title_it": "Eddie Hearn fa una proposta a Shakur Stevenson per il suo futuro nel pugilato",
    "title_es": "Eddie Hearn le hace una propuesta a Shakur Stevenson sobre su futuro en el boxeo"
   },
@@ -3157,7 +3157,7 @@
     "Naoya Inoue"
    ],
    "score": 85,
-   "sources_n": 10,
+   "sources_n": 9,
    "title_it": "Eddie Hearn rivela le richieste di Naoya Inoue in merito all'incontro con Bam Rodriguez",
    "title_es": "Eddie Hearn revela las exigencias de Naoya Inoue para el enfrentamiento con Bam Rodríguez"
   },
@@ -3200,8 +3200,8 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 10,
-   "sources_n": 1,
+   "score": 20,
+   "sources_n": 2,
    "title_it": "È improbabile che Cordina compaia sulla carta Joshua-Fury",
    "title_es": "Es poco probable que Cordina aparezca en la cartelera Joshua-Fury"
   },
@@ -3482,7 +3482,7 @@
     "Naoya Inoue"
    ],
    "score": 85,
-   "sources_n": 10,
+   "sources_n": 9,
    "title_it": "Sono in corso trattative tra Naoya Inoue e Bam Rodriguez, afferma Eddie Hearn",
    "title_es": "Eddie Hearn afirma que hay conversaciones en marcha entre Naoya Inoue y Bam Rodríguez"
   },
@@ -3659,22 +3659,6 @@
    "title_es": "El campeón interino del CMB «no está al nivel de Canelo»"
   },
   {
-   "title": "Eddie Hearn slates Fury vs Joshua undercard and claims Dana White involvement",
-   "link": "https://sports.yahoo.com/articles/eddie-hearn-slates-fury-vs-170734513.html",
-   "source": "Yahoo Sports Boxing",
-   "lang": "en",
-   "date": "2026-11-12T17:07:34+00:00",
-   "status": "unverified",
-   "boxers": [
-    "Tyson Fury",
-    "Anthony Joshua"
-   ],
-   "score": 40,
-   "sources_n": 12,
-   "title_it": "Eddie Hearn critica il programma degli incontri preliminari di Fury-Joshua e sostiene il coinvolgimento di Dana White",
-   "title_es": "Eddie Hearn anuncia la velada preliminar de Fury vs. Joshua y afirma que Dana White está involucrado"
-  },
-  {
    "title": "David Benavidez Reveals the Record He's Still Yet to Break in Boxing",
    "link": "https://www.youtube.com/watch?v=1UmP7Ye3oYo",
    "source": "YouTube PBC",
@@ -3808,19 +3792,6 @@
    "title_es": "Fabio Wardley toma la decisión definitiva de retirarse tras el K. O. de Daniel Dubois"
   },
   {
-   "title": "Jaron ‘Boots’ Ennis and British star Josh Kelly set for mouthwatering title fight",
-   "link": "https://sports.yahoo.com/articles/jaron-boots-ennis-british-star-130233633.html",
-   "source": "Yahoo Sports Boxing",
-   "lang": "en",
-   "date": "2026-11-12T13:02:33+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 30,
-   "sources_n": 7,
-   "title_it": "Jaron \"Boots\" Ennis e la stella britannica Josh Kelly si preparano per un incontro per il titolo da far venire l'acquolina in bocca",
-   "title_es": "Jaron «Boots» Ennis y la estrella británica Josh Kelly se preparan para un combate por el título que promete ser apasionante"
-  },
-  {
    "title": "Eddie Hearn slams Tyson Fury vs Anthony Joshua undercard and says Dana White ‘doesn’t know boxing’",
    "link": "https://www.thesun.co.uk/sport/41002176/joshua-fury-fight-undercard-hearn-dana/",
    "source": "The Sun Boxing",
@@ -3928,7 +3899,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 30,
-   "sources_n": 10,
+   "sources_n": 9,
    "title_it": "Eddie Hearn accetta l'offerta di combattimento di Dana White a una condizione",
    "title_es": "Eddie Hearn acepta la oferta de combate de Dana White con una condición"
   },
@@ -4005,6 +3976,35 @@
    "sources_n": 3,
    "title_it": "Kieran Molloy punta al titolo mondiale e a una possibile rivincita tutta irlandese",
    "title_es": "Kieran Molloy tiene la vista puesta en la oportunidad por el título mundial y en una posible revancha entre irlandeses"
+  },
+  {
+   "title": "They Said He Had Ring Rust. He Answered With a TKO.",
+   "link": "https://www.youtube.com/watch?v=ktKts7Hwoyc",
+   "source": "YouTube PBC",
+   "lang": "en",
+   "date": "2026-11-12T03:46:31+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 8,
+   "sources_n": 1,
+   "title_it": "Dicevano che era arrugginito. Lui ha risposto con un KO tecnico.",
+   "title_es": "Decían que estaba oxidado. Él respondió con un nocaut técnico."
+  },
+  {
+   "title": "Manny Pacquiao definitely off the Joshua-Fury Netflix card",
+   "link": "https://www.boxingscene.com/articles/manny-pacquiao-definitely-off-the-joshua-fury-netflix-card",
+   "source": "Boxing Scene",
+   "lang": "en",
+   "date": "2026-11-12T00:31:10+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Tyson Fury",
+    "Anthony Joshua"
+   ],
+   "score": 30,
+   "sources_n": 3,
+   "title_it": "Manny Pacquiao decisamente fuori dalla card Netflix di Joshua-Fury",
+   "title_es": "Manny Pacquiao definitivamente fuera de la velada Joshua-Fury de Netflix"
   }
  ]
 }
