@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T15:50:46+00:00",
+ "updated": "2026-11-16T15:55:42+00:00",
  "feeds_ok": 49,
  "feeds_failed": 4,
  "news": [
@@ -748,8 +748,8 @@
    "date": "2026-11-15T19:44:17+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 39,
-   "sources_n": 3,
+   "score": 29,
+   "sources_n": 2,
    "title_it": "Risultati da Brick City Fight Night Rd. 7",
    "title_es": "Resultados de Brick City Fight Night Rd. 7"
   },
@@ -791,19 +791,6 @@
    "sources_n": 1,
    "title_it": "La futura stella Katerina Kouts Campionessa intercontinentale UBO",
    "title_es": "Futura estrella Katerina Kouts Campeona intercontinental de la UBO"
-  },
-  {
-   "title": "National Intermediate Championships Opening Weekend Results",
-   "link": "https://www.irish-boxing.com/national-intermediate-championships-opening-weekend-results/",
-   "source": "Irish Boxing",
-   "lang": "en",
-   "date": "2026-11-15T18:53:12+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 19,
-   "sources_n": 1,
-   "title_it": "Risultati del fine settimana di apertura dei Campionati Nazionali Intermedi",
-   "title_es": "Resultados del fin de semana de apertura del Campeonato Nacional Intermedio"
   },
   {
    "title": "Aaron McKenna set for first World title defence - Northern Sound",
@@ -1060,7 +1047,7 @@
    "date": "2026-11-15T15:55:25+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 58,
+   "score": 57,
    "sources_n": 7,
    "title_it": "Viddal Riley ha ottenuto l'accesso a un incontro per il titolo mondiale  😤 🔐",
    "title_es": "Viddal Riley se ha asegurado una oportunidad por el título mundial  😤 🔐"
@@ -1320,7 +1307,7 @@
    "date": "2026-11-15T11:53:50+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 46,
+   "score": 45,
    "sources_n": 7,
    "title_it": "Tony Bellew spiega una cosa che Viddal Riley ha e che nessun altro peso leggero attualmente fa 🔥",
    "title_es": "Tony Bellew explica una cosa que tiene Viddal Riley y que ningún otro peso crucero tiene actualmente 🔥"
@@ -2848,6 +2835,19 @@
    "title_es": "Conferencia de prensa de lanzamiento de Jaron Boots Ennis Vs Josh Kelly | Boxeo en la sala de partidos"
   },
   {
+   "title": "Diego Pacheco stars on TNT, Zuffa heads to Saudi Arabia and more: 5 things for the boxing weekend",
+   "link": "https://sports.yahoo.com/boxing/article/diego-pacheco-vs-darius-fulghum-zuffa-boxing-13-carlos-adames-gerome-warburton-viddal-riley-weekend-preview-220154358.html",
+   "source": "Yahoo Sports Boxing",
+   "lang": "en",
+   "date": "2026-11-13T22:01:54+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 75,
+   "sources_n": 8,
+   "title_it": "Diego Pacheco è la star di TNT, Zuffa va in Arabia Saudita e altro ancora: 5 cose da sapere sul weekend della boxe",
+   "title_es": "Diego Pacheco protagoniza TNT, Zuffa se dirige a Arabia Saudí y mucho más: 5 cosas para el fin de semana del boxeo"
+  },
+  {
    "title": "FIRST FACE OFF: Jaron Boots Ennis Vs Josh Kelly 👑👑👑",
    "link": "https://www.youtube.com/watch?v=IdvSqbLrpt0",
    "source": "YouTube Matchroom Boxing",
@@ -2976,19 +2976,6 @@
    "sources_n": 1,
    "title_it": "Campioni di pugilato 2026: attuali campioni del mondo per categoria di peso - BoxingScene",
    "title_es": "Campeones de boxeo 2026: Campeones del mundo actuales por categoría de peso - BoxingScene"
-  },
-  {
-   "title": "Concluye la 64.ª Convención del CMB con triunfo de Camila Zamorano en Acapulco - anews",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPS1VXczV2ZE5vMzVqMDdrcXJLcUMwVXdmVy1KR0plcm9WLVpKZUVFMERfcjN3bDJONDNfQUZJMzJDejFDNVY1eDVMYUdObHNwNm1PYWNhUVFoSTNLS25sTmcyZHlFMVpEbkpQXzVyYjB2OHhZbWw1UUdYaVYwdjdVU3k1SHV3QUt1dlM2ZjN0cTdFLVdRRXZ1MjczaFZyUVhTdVdEZVBaYUo?oc=5",
-   "source": "Google News: boxeo",
-   "lang": "es",
-   "date": "2026-11-13T17:20:00+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 0,
-   "sources_n": 1,
-   "title_it": "Si conclude la 64ª Convenzione del WBC con il trionfo di Camila Zamorano ad Acapulco - anews",
-   "title_es": "Concluye la 64.ª Convención del CMB con triunfo de Camila Zamorano en Acapulco - anews"
   },
   {
    "title": "Winless Heavyweight KO’d 14 Times in Round 1 Is 0-18 in MMA",
@@ -3160,7 +3147,7 @@
     "Anthony Joshua"
    ],
    "score": 85,
-   "sources_n": 7,
+   "sources_n": 8,
    "title_it": "Il destino di Anthony Joshua contro Tyson Fury è nelle sue mani, non in quelle di Ben Davison",
    "title_es": "El destino de Anthony Joshua contra Tyson Fury está en sus manos, no en las de Ben Davison."
   },
@@ -3216,7 +3203,7 @@
     "Tyson Fury"
    ],
    "score": 75,
-   "sources_n": 7,
+   "sources_n": 8,
    "title_it": "Pesi massimi, 61 anni, 86 posizioni sopra l'ultimo avversario di Tyson Fury",
    "title_es": "Peso pesado, 61 años, 86 puestos por encima del último rival de Tyson Fury"
   },
@@ -3570,32 +3557,6 @@
    "title_es": "Conferencia de prensa de Diego Pacheco vs Darius Fulghum | Boxeo en la sala de partidos"
   },
   {
-   "title": "Weigh-In Results: All Seven Fights Official for Friday Night at Tropicana Atlantic City",
-   "link": "https://www.boxinginsider.com/headlines/weigh-in-results-all-seven-fights-official-for-friday-night-at-tropicana-atlantic-city/",
-   "source": "Boxing Insider",
-   "lang": "en",
-   "date": "2026-11-12T23:49:27+00:00",
-   "status": "confirmed",
-   "boxers": [],
-   "score": 10,
-   "sources_n": 2,
-   "title_it": "Risultati del peso: tutti e sette i combattimenti ufficiali per venerdì sera al Tropicana Atlantic City",
-   "title_es": "Resultados del pesaje: las siete peleas oficiales del viernes por la noche en Tropicana Atlantic City"
-  },
-  {
-   "title": "Seven Fights, Seven Cleared: What Weigh-In Day Really Looks Like in Atlantic City",
-   "link": "https://www.boxinginsider.com/headlines/seven-fights-seven-cleared-what-weigh-in-day-really-looks-like-in-atlantic-city/",
-   "source": "Boxing Insider",
-   "lang": "en",
-   "date": "2026-11-12T22:45:47+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 0,
-   "sources_n": 1,
-   "title_it": "Sette scontri, sette superati: come appare davvero il giorno della pesatura ad Atlantic City",
-   "title_es": "Siete peleas, siete aclaradas: cómo es realmente el día de pesaje en Atlantic City"
-  },
-  {
    "title": "BOXXER's Ben Shalom exploring legal action after Martin Bakole's Fury-Joshua fight announced",
    "link": "https://sports.yahoo.com/boxing/article/boxxers-ben-shalom-exploring-legal-action-after-martin-bakoles-fury-joshua-fight-announced-182220828.html",
    "source": "Yahoo Sports Boxing",
@@ -3610,6 +3571,19 @@
    "sources_n": 2,
    "title_it": "Ben Shalom di BOXXER esplora un'azione legale dopo l'annuncio del combattimento Fury-Joshua di Martin Bakole",
    "title_es": "Ben Shalom de BOXXER explora acciones legales después de que se anunciara la pelea Fury-Joshua de Martin Bakole"
+  },
+  {
+   "title": "De vender paletas en camiones a conquistar el boxeo: así empezó Canelo Álvarez - Debate",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaVZYX25LTEcxQ2pzMTdxc1hQb01qTHpDYkQyTERBVXdZeS1kdjFzMnFhbkwyMjY0Sk4xdXl6UjZyZm5iSUhHaThrN015TWtFNzN1Ri1rb0U2RHFxX3RsMHNqSVBvTGx2dmk5b2IzcEhZTUxSZEdjQUxKZERfX1AwU05Sb3NLVVFtd0JYdWt4Z2VUMVBNSFhVLWR1SHZWQUhIN0oyYkxBNmNYczFuQXEtQm9FaVJTanFSMTFJTTJVYw?oc=5",
+   "source": "Google News: boxeo",
+   "lang": "es",
+   "date": "2026-11-12T20:59:00+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 25,
+   "sources_n": 1,
+   "title_it": "Dalla vendita di ghiaccioli sui camion alla conquista del pugilato: così è iniziato il percorso di Canelo Álvarez - Debate",
+   "title_es": "De vender paletas en camiones a conquistar el boxeo: así empezó Canelo Álvarez - Debate"
   },
   {
    "title": "Román \"Chocolatito\" González confirma su regreso al boxeo en 2027: \"Tenemos las ganas y el deseo\" - Izquierdazo",
@@ -4007,6 +3981,35 @@
    "sources_n": 12,
    "title_it": "Eddie Hearn critica la card del combattimento tra Tyson Fury e Anthony Joshua",
    "title_es": "Eddie Hearn critica el cartel del combate entre Tyson Fury y Anthony Joshua"
+  },
+  {
+   "title": "Kelly to face Ennis in February unification bout",
+   "link": "https://sports.yahoo.com/articles/kelly-face-ennis-february-unification-082950242.html",
+   "source": "Yahoo Sports Boxing",
+   "lang": "en",
+   "date": "2026-11-12T09:23:40+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 48,
+   "sources_n": 6,
+   "title_it": "Kelly affronterà Ennis nel match di unificazione di febbraio",
+   "title_es": "Kelly se enfrentará a Ennis en el combate de unificación de febrero"
+  },
+  {
+   "title": "More heavyweight fights added to Tyson Fury vs Anthony Joshua undercard",
+   "link": "https://sports.yahoo.com/articles/more-heavyweight-fights-added-tyson-092316050.html",
+   "source": "Yahoo Sports Boxing",
+   "lang": "en",
+   "date": "2026-11-12T09:23:16+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Tyson Fury",
+    "Anthony Joshua"
+   ],
+   "score": 95,
+   "sources_n": 9,
+   "title_it": "Altri incontri dei pesi massimi aggiunti al programma degli incontri preliminari di Tyson Fury contro Anthony Joshua",
+   "title_es": "Se añaden más combates de pesos pesados a la velada de Tyson Fury contra Anthony Joshua"
   }
  ]
 }
