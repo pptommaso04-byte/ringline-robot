@@ -7,7 +7,6 @@ from pathlib import Path
 
 UA = "RinglineBot/0.1 (https://github.com/pptommaso04-byte/ringline-robot; public boxing facts, small volume)"
 SOURCES = [
-    {"id": "TBRB", "label": "TBRB (via BoxingNews24)", "url": "https://www.boxingnews24.com/boxing-ratings-rankings-wbo-wbc-ibf/"},
     {"id": "WBA", "label": "WBA (classifica ufficiale)", "url": "https://www.wbaboxing.com/wba-ranking"},
 ]
 # (parola cercata nel titolo, nome standard) - dal piu' lungo al piu' corto
@@ -192,6 +191,71 @@ def run_boxrank(data_dir, log, res):
     sp.write_text(json.dumps(slugs, indent=1), encoding="utf-8")
 
 
+# ---------- WBO donne: pagina ufficiale in testo semplice (classifica 1-12 + campionesse WBA/IBF/WBC/WBO) ----------
+WBO_F_URL = "https://wboboxing.com/wborankings/report/cmFua2luZw==/ZmVtYWxl/b368b21ba1cee99fd0a978f4ac74e866/RankingReportFemale"
+WBO_DIVS = {"heavyweight": "Heavyweight", "super middleweight": "Super Middleweight", "sup. middleweight": "Super Middleweight", "middleweight": "Middleweight",
+            "jr. middleweight": "Junior Middleweight", "welterweight": "Welterweight", "jr. welterweight": "Junior Welterweight", "lightweight": "Lightweight",
+            "jr. lightweight": "Junior Lightweight", "featherweight": "Featherweight", "jr. featherweight": "Junior Featherweight", "bantamweight": "Bantamweight",
+            "jr. bantamweight": "Junior Bantamweight", "flyweight": "Flyweight", "jr. flyweight": "Junior Flyweight", "mini-flyweight": "Strawweight",
+            "mini flyweight": "Strawweight", "atom": "Atomweight", "atomweight": "Atomweight", "lt. heavyweight": "Light Heavyweight", "light heavyweight": "Light Heavyweight",
+            "jr. heavyweight": "Cruiserweight", "cruiserweight": "Cruiserweight"}
+
+
+def html_to_lines(page):
+    t = re.sub(r"(?is)<(script|style).*?</\1>", " ", page)
+    t = re.sub(r"(?i)<br\s*/?>|</(p|div|li|tr|h\d|pre)>", "\n", t)
+    t = html.unescape(re.sub(r"<[^>]+>", " ", t))
+    return [re.sub(r"\s+", " ", l).strip() for l in t.split("\n") if l.strip()]
+
+
+def parse_wbo_text(page):
+    lines = html_to_lines(page)
+    divs, cur, expect_champ = {}, None, False
+    date = ""
+    for ln in lines:
+        m = re.match(r"(?i)^as of (.+)$", ln)
+        if m and not date: date = m.group(1).strip(); continue
+        low = ln.lower()
+        if low in WBO_DIVS:
+            cur = WBO_DIVS[low]; divs[cur] = {"champion": None, "ranks": [], "holders": {}}; expect_champ = False; continue
+        if cur is None: continue
+        d = divs[cur]
+        if re.match(r"^\(.*(lbs|kgs?).*\)", ln, re.I): continue
+        m = re.match(r"^(\d{1,2})\.\s+(.+)$", ln)
+        if m:
+            body = m.group(2).strip()
+            if re.search(r"(?i)\b(not|nor) rated\b", body): continue
+            nm = re.split(r"\s*[(*]", body, 1)[0].strip(" *")
+            parens = re.findall(r"\(([^)]*)\)", body)
+            ctry = parens[-1] if parens and re.fullmatch(r"[A-Z]{3}", parens[-1]) else ""
+            if len(nm.split()) >= 2: d["ranks"].append({"rank": int(m.group(1)), "name": nice(nm), "country": ctry})
+            continue
+        if low.startswith("champions"): expect_champ = True; continue
+        if expect_champ:
+            expect_champ = False
+            nm = re.split(r"\s*[(*]", ln, 1)[0].strip(" *")
+            if nm and nm.upper() != "VACANT" and len(nm.split()) >= 2:
+                ps = re.findall(r"\(([^)]*)\)", ln)
+                d["champion"] = {"name": nice(nm), "country": ps[-1] if ps and re.fullmatch(r"[A-Z]{3}", ps[-1]) else ""}
+            continue
+        m = re.match(r"^(.+?)\s+(WBA|IBF|WBC)$", ln)
+        if m and m.group(1).upper() != "VACANT" and "(" not in m.group(1) and len(m.group(1).split()) >= 2:
+            d["holders"][m.group(2)] = nice(m.group(1).strip(" *"))
+    return {"date": date, "divisions": {k: v for k, v in divs.items() if v["ranks"] or v["champion"] or v["holders"]}}
+
+
+def run_wbo_female(res, log):
+    try:
+        d = parse_wbo_text(fetch(WBO_F_URL, timeout=40))
+        nd = len(d["divisions"]); nr = sum(len(v["ranks"]) for v in d["divisions"].values())
+        if nd < 8: raise ValueError("pochi dati: %d divisioni" % nd)
+        res["WBO_F"] = {"label": "WBO donne (classifica ufficiale)", "url": WBO_F_URL, "date": d["date"], "divisions": d["divisions"],
+                        "read": datetime.now(timezone.utc).isoformat(timespec="seconds")}
+        log(f"CLASSIFICHE OK WBO donne: {nd} divisioni, {nr} posizioni, data {d['date']}")
+    except Exception as e:
+        log(f"CLASSIFICHE FAIL WBO donne: {type(e).__name__} {e}")
+
+
 def run_step(data_dir, log, max_age_h=6):
     p = Path(data_dir) / "rankings.json"
     cur = {}
@@ -199,7 +263,7 @@ def run_step(data_dir, log, max_age_h=6):
     except Exception: pass
     if cur.get("updated"):
         age = (datetime.now(timezone.utc) - datetime.fromisoformat(cur["updated"])).total_seconds() / 3600
-        if age < max_age_h: return cur
+        if age < max_age_h and "WBO_F" in cur.get("sources", {}): return cur
     res = cur.get("sources", {})
     for s in SOURCES:
         try:
@@ -212,6 +276,7 @@ def run_step(data_dir, log, max_age_h=6):
             log(f"CLASSIFICHE OK {s['id']}: {nd} divisioni, {nr} posizioni, p4p {len(d['p4p_M'])}+{len(d['p4p_F'])}")
         except Exception as e:
             log(f"CLASSIFICHE FAIL {s['id']}: {type(e).__name__} {e}")
+    run_wbo_female(res, log)
     try: run_boxrank(data_dir, log, res)
     except Exception as e: log(f"CLASSIFICHE FAIL box-rank: {type(e).__name__} {e}")
     cur = {"updated": datetime.now(timezone.utc).isoformat(timespec="seconds"), "sources": res}
