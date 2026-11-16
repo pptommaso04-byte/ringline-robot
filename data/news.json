@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T12:04:21+00:00",
+ "updated": "2026-11-16T12:05:52+00:00",
  "feeds_ok": 49,
  "feeds_failed": 4,
  "news": [
@@ -282,7 +282,7 @@
    "date": "2026-11-16T08:05:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 28,
+   "score": 27,
    "sources_n": 1,
    "title_it": "Ottant’anni sul ring: pugni, cuore e gloria - La Provincia di Cremona",
    "title_es": "Ochenta años en el ring: puños, corazón y gloria - La Provincia de Cremona"
@@ -1146,7 +1146,7 @@
    "date": "2026-11-15T12:04:35+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 48,
+   "score": 47,
    "sources_n": 3,
    "title_it": "Aaron McKenna difenderà il titolo IBF contro Yevgenijs Alekseevs a Riyadh",
    "title_es": "Aaron McKenna defenderá el título de la FIB contra Yevgenijs Alekseevs en Riad"
@@ -1800,7 +1800,9 @@
    "status": "unverified",
    "boxers": [],
    "score": 9,
-   "sources_n": 1
+   "sources_n": 1,
+   "title_it": "La promessa di Zuffa in merito agli abbinamenti dei combattimenti viene smascherata da un incontro \"imbarazzante\"",
+   "title_es": "La promesa de Zuffa sobre los emparejamientos queda en evidencia con un combate «vergonzoso»"
   },
   {
    "title": "Full Event: Riyadh Season Zuffa Boxing 13",
@@ -1972,18 +1974,6 @@
    "sources_n": 4,
    "title_it": "Devin Haney pone una condizione per combattere contro Shakur Stevenson dopo i recenti negoziati falliti",
    "title_es": "Devin Haney pone una condición para pelear con Shakur Stevenson tras las recientes negociaciones fallidas"
-  },
-  {
-   "title": "Calendario de boxeo - ESPN Deportes",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1LeHh6UndnSzdlLU9MQ2s5RklvMU1lTHJIT29yVUh5ZkkzY2ltZGEwQzIwdy1QejM0LUpYRWhiTnR1a1gtV2VLYjBJamdWZ3NPbnJRRmJIVThLc1BfNFhQaDEtbnkxY3NnZElfYjNXMy1lNUFvUEpSbFNOOTQ?oc=5",
-   "source": "Google News: boxeo",
-   "lang": "es",
-   "date": "2026-11-14T17:10:00+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 8,
-   "sources_n": 1,
-   "title_es": "Calendario de boxeo - ESPN Deportes"
   },
   {
    "title": "‼️ Eddie Hearn has REVEALED that Ray Ford is no longer under contract with Matchroom.",
@@ -2519,7 +2509,9 @@
    "status": "unverified",
    "boxers": [],
    "score": 4,
-   "sources_n": 1
+   "sources_n": 1,
+   "title_it": "Il 21 novembre in Sudafrica si svolgeranno tre incontri per il titolo IBO",
+   "title_es": "El 21 de noviembre se celebrarán tres combates por el título de la IBO en Sudáfrica"
   },
   {
    "title": "Il pugile iraniano nel braccio della morte vince il Magnitsky Human Rights Award 2026 - National Council of Resistance of Iran - NCRI",
@@ -2665,7 +2657,8 @@
    "boxers": [],
    "score": 12,
    "sources_n": 2,
-   "title_it": "Boxe: Luca D’Ortenzi ed Eros Seghetti si contendono l’Europeo dei mediomassimi a Guidonia"
+   "title_it": "Boxe: Luca D’Ortenzi ed Eros Seghetti si contendono l’Europeo dei mediomassimi a Guidonia",
+   "title_es": "Boxeo: Luca D'Ortenzi y Eros Seghetti se disputan el Campeonato de Europa del peso semipesado en Guidonia"
   },
   {
    "title": "A qué hora pelean y qué canal pasa Yuberjen Martínez vs. Anthony Olascuaga hoy: TV y streaming online - Sporting News",
@@ -2871,7 +2864,9 @@
    "status": "unverified",
    "boxers": [],
    "score": 0,
-   "sources_n": 1
+   "sources_n": 1,
+   "title_it": "Allenatore di boxe arrestato, palestra chiusa per accuse di reati sessuali a danno di minori",
+   "title_es": "Detenido un entrenador de boxeo y cerrado un gimnasio por delitos sexuales con menores"
   },
   {
    "title": "‘I know we can deliver the fights for him’: Eddie Hearn makes his case to sign Shakur Stevenson",
@@ -3121,7 +3116,7 @@
     "Anthony Joshua"
    ],
    "score": 85,
-   "sources_n": 7,
+   "sources_n": 8,
    "title_it": "Il destino di Anthony Joshua contro Tyson Fury è nelle sue mani, non in quelle di Ben Davison",
    "title_es": "El destino de Anthony Joshua contra Tyson Fury está en sus manos, no en las de Ben Davison."
   },
@@ -3147,7 +3142,9 @@
    "status": "unverified",
    "boxers": [],
    "score": 0,
-   "sources_n": 1
+   "sources_n": 1,
+   "title_it": "Tutti gli incontri di boxe che sappiamo si terranno a dicembre 2026",
+   "title_es": "Todos los combates de boxeo que conocemos para diciembre de 2026"
   },
   {
    "title": "Eddie Hearn reveals Naoya Inoue demands regarding Bam Rodriguez showdown",
@@ -3423,6 +3420,19 @@
    "title_es": "Cuba despidió con seis coronas el Abierto internacional de boxeo - TV Yumurí"
   },
   {
+   "title": "EA annuncia il ritorno di Fight Night: la saga di boxe riparte - GamingPark | Il meglio dal mondo dei videogiochi",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZDRSZWRaenFac3l2VHlwR0dZOUJTdDdjbkh1SjRvaHZ2dFlSYnAzN2VqN29GcXJ3VXFPRE42emhWY3ZnaTV4SjJCY3ZBOWdhQ3V6YjVlRnNvZE50Y01WY3lVc3FJWWF4QUZkM0NfMFBWLUJtR2V4RnNKVHFHR0hINEdlNnU0U1dhcEg5WWZIV0I4azQ2MG5jTw?oc=5",
+   "source": "Google News: pugilato",
+   "lang": "it",
+   "date": "2026-11-13T07:59:56+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 10,
+   "sources_n": 2,
+   "title_it": "EA annuncia il ritorno di Fight Night: la saga di boxe riparte - GamingPark | Il meglio dal mondo dei videogiochi",
+   "title_es": "EA anuncia el regreso de Fight Night: la saga de boxeo vuelve a empezar - GamingPark | Lo mejor del mundo de los videojuegos"
+  },
+  {
    "title": "How Riley went from KSI's trainer to world-title dream",
    "link": "https://sports.yahoo.com/articles/riley-went-ksis-trainer-world-073102656.html",
    "source": "Yahoo Sports Boxing",
@@ -3606,7 +3616,8 @@
    "boxers": [],
    "score": 10,
    "sources_n": 2,
-   "title_it": "Boxe: concluse le finali alle Olimpiadi Giovanili, tanti Paesi guadagnano medaglie"
+   "title_it": "Boxe: concluse le finali alle Olimpiadi Giovanili, tanti Paesi guadagnano medaglie",
+   "title_es": "Boxeo: concluyen las finales de los Juegos Olímpicos de la Juventud, muchos países se llevan medallas"
   },
   {
    "title": "Heavyweight KO’d 14 Times in 14 Minutes, Never Sees Round 2",
@@ -3618,7 +3629,8 @@
    "boxers": [],
    "score": 18,
    "sources_n": 1,
-   "title_it": "Peso massimo messo KO 14 volte in 14 minuti, non arriva mai al secondo round"
+   "title_it": "Peso massimo messo KO 14 volte in 14 minuti, non arriva mai al secondo round",
+   "title_es": "Un peso pesado noqueado 14 veces en 14 minutos, sin llegar nunca al segundo asalto"
   },
   {
    "title": "Floyd Schofield Jnr-Jose 'Rayo' Valenzuela ordered by WBA",
