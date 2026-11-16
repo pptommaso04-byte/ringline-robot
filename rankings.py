@@ -1,6 +1,6 @@
 """Classifiche pubbliche (fatti: nomi e posizioni). Fonti: TBRB (letto da BoxingNews24) e WBA (pagina ufficiale).
 Poche richieste (una pagina per fonte, ogni 6 ore). Scrive data/rankings.json."""
-import json, re, html, time, urllib.request
+import json, re, html, time, sys, subprocess, tempfile, urllib.request
 from html.parser import HTMLParser
 from datetime import datetime, timezone
 from pathlib import Path
@@ -208,6 +208,35 @@ def html_to_lines(page):
     return [re.sub(r"\s+", " ", l).strip() for l in t.split("\n") if l.strip()]
 
 
+def fetch_bytes(url, timeout=40):
+    req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "*/*", "Accept-Language": "en"})
+    with urllib.request.urlopen(req, timeout=timeout) as r:
+        return r.read()
+
+
+def pdf_to_text(raw):
+    """Legge il testo di un PDF: prima pypdf (se manca lo installa), poi pdftotext."""
+    try:
+        import pypdf
+    except Exception:
+        for extra in ([], ["--break-system-packages"]):
+            try:
+                subprocess.run([sys.executable, "-m", "pip", "install", "--quiet", "pypdf"] + extra, check=True, timeout=120,
+                               stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+                break
+            except Exception:
+                pass
+        try: import pypdf
+        except Exception: pypdf = None
+    if pypdf:
+        import io
+        rd = pypdf.PdfReader(io.BytesIO(raw))
+        return "\n".join((pg.extract_text() or "") for pg in rd.pages)
+    with tempfile.NamedTemporaryFile(suffix=".pdf") as f:
+        f.write(raw); f.flush()
+        return subprocess.run(["pdftotext", "-layout", f.name, "-"], capture_output=True, timeout=60).stdout.decode("utf-8", "replace")
+
+
 def parse_wbo_text(page):
     lines = html_to_lines(page)
     divs, cur, expect_champ = {}, None, False
@@ -246,7 +275,8 @@ def parse_wbo_text(page):
 
 def run_wbo_female(res, log):
     try:
-        raw = fetch(WBO_F_URL, timeout=40)
+        raw = fetch_bytes(WBO_F_URL, timeout=40)
+        raw = pdf_to_text(raw) if raw[:4] == b"%PDF" else raw.decode("utf-8", "replace")
         d = parse_wbo_text(raw)
         nd = len(d["divisions"]); nr = sum(len(v["ranks"]) for v in d["divisions"].values())
         if nd < 8: raise ValueError("pochi dati: %d divisioni" % nd)
