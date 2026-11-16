@@ -1,8 +1,34 @@
 {
- "updated": "2026-11-16T04:25:34+00:00",
+ "updated": "2026-11-16T04:31:03+00:00",
  "feeds_ok": 49,
  "feeds_failed": 4,
  "news": [
+  {
+   "title": "Teremoana Teremoana & Hemi Ahio Face Off In Melbourne 👀",
+   "link": "https://www.youtube.com/watch?v=zj5H0ef7YHk",
+   "source": "YouTube Matchroom Boxing",
+   "lang": "en",
+   "date": "2026-11-16T04:27:54+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 49,
+   "sources_n": 3,
+   "title_it": "Teremoana Teremoana e Hemi Ahio si affrontano a Melbourne 👀",
+   "title_es": "Teremoana Teremoana y Hemi Ahio se enfrentan en Melbourne 👀"
+  },
+  {
+   "title": "Cardiff's Kronk? The gym where Welsh champions train",
+   "link": "https://sports.yahoo.com/articles/cardiffs-kronk-gym-where-welsh-041655848.html",
+   "source": "Yahoo Sports Boxing",
+   "lang": "en",
+   "date": "2026-11-16T04:16:55+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 29,
+   "sources_n": 1,
+   "title_it": "Il Kronk di Cardiff: la palestra dove si allenano i campioni gallesi",
+   "title_es": "¿El Kronk de Cardiff? El gimnasio donde entrenan los campeones galeses"
+  },
   {
    "title": "Teremoana Teremoana Vs Hemi Ahio Press Conference | Matchroom Boxing",
    "link": "https://www.saddoboxing.com/112502-teremoana-teremoana-vs-hemi-ahio-press-conference-matchroom-boxing.html",
@@ -189,19 +215,6 @@
    "title_es": "¡Nuevo rival! Canelo tendría en la mira a campeón británico - Soy Referee"
   },
   {
-   "title": "Jason Moloney vs. Andres Teran: Riyadh Season Zuffa Boxing 13",
-   "link": "https://www.saddoboxing.com/112473-jason-moloney-vs-andres-teran-riyadh-season-zuffa-boxing-13.html",
-   "source": "Saddo Boxing",
-   "lang": "en",
-   "date": "2026-11-15T21:09:09+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 56,
-   "sources_n": 7,
-   "title_it": "Jason Moloney contro Andres Teran: Riyadh Season Zuffa Boxing 13",
-   "title_es": "Jason Moloney vs. Andrés Terán: Temporada de Riad Zuffa Boxing 13"
-  },
-  {
    "title": "EURO U23 BOXING CHAMPIONSHIPS POREC 2026 - SORTEGGI ITALIA BOXING TEAM - FPI",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ1E1cGRsQ0pZcnRobXdsRndMQU1TcmZQS2hkR3p6QkVkNVBPOGV3NVRuMUYzQzBQd09Bc0VXcHBLNW81bmJEeHc3MUFXeklPeUFlMlljWWVZZUtOaEJsOFB6cllxWE9BeHVxVHJVQzdfaUl3WFh4cE9RN2NiLWZhOVppTmJQWlRJYkhBNVkyRVZnTkVzN0VaaWdvTXJPWGk4SGdGdjBxTFlPa1Q1?oc=5",
    "source": "Google News: pugilato",
@@ -327,7 +340,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 54,
-   "sources_n": 7,
+   "sources_n": 6,
    "title_it": "Bruno Surace contro Kamil Bednarek: Riyadh Season Zuffa Boxing 13",
    "title_es": "Bruno Surace contra Kamil Bednarek: Riyadh Season Zuffa Boxing 13"
   },
@@ -395,6 +408,19 @@
    "sources_n": 1,
    "title_it": "Due anni di duro allenamento e poi la medaglia: Nisrine Kerbal d'argento ai campionati di Foggia - Cuneo24",
    "title_es": "Dos años de duro entrenamiento y luego la medalla: Nisrine Kerbal consigue la plata en el campeonato de Foggia - Cuneo24"
+  },
+  {
+   "title": "Jason Moloney vs. Andres Teran: Riyadh Season Zuffa Boxing 13",
+   "link": "https://www.youtube.com/watch?v=LlyYMQVd83s",
+   "source": "YouTube Zuffa Boxing",
+   "lang": "en",
+   "date": "2026-11-15T17:30:11+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 54,
+   "sources_n": 6,
+   "title_it": "Jason Moloney contro Andres Teran: Riyadh Season Zuffa Boxing 13",
+   "title_es": "Jason Moloney contra Andrés Terán: Riyadh Season Zuffa Boxing 13"
   },
   {
    "title": "Floyd Mayweather (age 49) doing road work at 3am!! Comeback fight imminent?",
@@ -509,7 +535,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 54,
-   "sources_n": 8,
+   "sources_n": 7,
    "title_it": "Carlos Adames contro Gerome Warburton: Riyadh Season Zuffa Boxing 13",
    "title_es": "Carlos Adames contra Gerome Warburton: Riyadh Season Zuffa Boxing 13"
   },
@@ -541,7 +567,7 @@
   },
   {
    "title": "Watch highlights of Olascuaga vs Martinez - DAZN",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWmdKRURmdWpTbHNRbWVjdFhzRlRUN25OTXdqZF9qeU4ycnU0eERzSHhWUU16YzZ2cHo1ZFplRDNWNWJnTW5vaFh2Q01IeG43Ry1UNy1fUzJYa2p1bDBxYmI4T2p3enpYOE9zcEVjN0x0ZzlqMDI5ejZEc0FKUnVRamZ5MmJVMTBfVEFCc3ZGeGlEckNGS0lIYzhBcHBUR3RtWUlhX1k2a293MFJvUS00VUVGaWlndlQ0dXVKVzZveERoRFRtdi1hZnhEa0Fwdw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONXlCSTN3RjZULTJVNmNRbWZiSlNJc1F5OGpMNkNBTVQzVjR4eDBpUDlUaXd6U3VmdzUzZ1lkeDcwRmZ1ZHNLTWtqam8wYjdxaU91RFFPZkFTRHhEcTJOV0hncUhUR3F6ek9VU3RRa2o2UjMtNGRQSWV2TjN1U2xzYkU3WFpQV1dRMVZJc1F3VEk0V3l6Y09LbXVfZUtkX1NPVVIzX3BDZFQ2T1AwWTFRMHk4bkxVOEhNQUxSVmcwdXhZWi1sNzdZSnBRcWxPZw?oc=5",
    "source": "Google News: boxing",
    "lang": "en",
    "date": "2026-11-15T15:26:36+00:00",
@@ -1131,6 +1157,19 @@
    "title_es": "[Spoiler] Zelfa Barrett contra Gavin Gwynne"
   },
   {
+   "title": "D'Ortenzi da campione, il titolo resta suo. Bene Sarchioto ed El Moeti - BoxeRingWeb",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxON3NyalFuYU10U0x4Szl4eFFHaE56T1doanhJelYxUkhrVjRzLWMzSWRsV2txczdXVWo5WEFCV0hKd05Md0VVVjVmNG1qeDhhalpPamdQOEgwY29ORGVPSXlDVDFmSzBkeXVPOUFrSlY4dW85UmZvQnIzWTA4NjItQlpYZkR6cGlZVEx4SWNrdEdjeW5xaEdGUmJNWUI3emEtRW5VNFpHNFVRaVoyYmY5d0RXa0xmOFVnb1dUTnY3X1QzLWd1SmxOb0FqVVdpZmlyNEtTclhB?oc=5",
+   "source": "Google News: pugilato",
+   "lang": "it",
+   "date": "2026-11-15T07:39:33+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 19,
+   "sources_n": 1,
+   "title_it": "D'Ortenzi da campione, il titolo resta suo. Bene Sarchioto ed El Moeti - BoxeRingWeb",
+   "title_es": "D'Ortenzi, campeón: el título sigue siendo suyo. Bien por Sarchioto y El Moeti - BoxeRingWeb"
+  },
+  {
    "title": "HIGHLIGHTS | VIddal Riley vs. Seydi Coupe",
    "link": "https://www.reddit.com/r/Boxing/comments/1xwpjtt/highlights_viddal_riley_vs_seydi_coupe/",
    "source": "Reddit r/Boxing",
@@ -1269,7 +1308,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 46,
-   "sources_n": 7,
+   "sources_n": 6,
    "title_it": "Pre-show e due incontri preliminari: Riyadh Season Zuffa Boxing 13",
    "title_es": "Previa y dos combates preliminares: Riyadh Season Zuffa Boxing 13"
   },
@@ -1308,7 +1347,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 46,
-   "sources_n": 7,
+   "sources_n": 6,
    "title_it": "Pre-show e primo incontro preliminare: Riyadh Season Zuffa Boxing 13",
    "title_es": "Previa y primer combate preliminar: Riyadh Season Zuffa Boxing 13"
   },
@@ -1386,7 +1425,7 @@
    "status": "confirmed",
    "boxers": [],
    "score": 53,
-   "sources_n": 8,
+   "sources_n": 7,
    "title_it": "Zuffa Boxing 13: risultati e momenti salienti. Carlos Adames vince contro Gerome Warburton al suo debutto nella promozione",
    "title_es": "Resultados y momentos destacados de Zuffa Boxing 13: Carlos Adames se impone a Gerome Warburton en su debut en la promotora"
   },
@@ -1464,7 +1503,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 43,
-   "sources_n": 7,
+   "sources_n": 6,
    "title_it": "Evento completo: Riyadh Season Zuffa Boxing 13",
    "title_es": "Evento completo: Riyadh Season Zuffa Boxing 13"
   },
@@ -1556,7 +1595,7 @@
    "date": "2026-11-14T18:29:30+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 43,
+   "score": 42,
    "sources_n": 3,
    "title_it": "McKenna difenderà per la prima volta il titolo mondiale a Riad",
    "title_es": "McKenna defenderá por primera vez su título mundial en Riad"
@@ -1569,8 +1608,8 @@
    "date": "2026-11-14T18:29:26+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 53,
-   "sources_n": 8,
+   "score": 52,
+   "sources_n": 7,
    "title_it": "Riyadh Season Zuffa Boxing 14: McKenna affronterà Aleksejevs nella prima difesa del titolo mondiale - BBC",
    "title_es": "Riyadh Season Zuffa Boxing 14: McKenna se enfrentará a Aleksejevs en su primera defensa del título mundial - BBC"
   },
@@ -1739,7 +1778,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 31,
-   "sources_n": 8,
+   "sources_n": 7,
    "title_it": "Orario di inizio di Zuffa Boxing 13, scheda dell'incontro, pronostici e dove guardare Carlos Adames contro Gerome Warburton",
    "title_es": "Hora de inicio de Zuffa Boxing 13, cartelera, predicciones y dónde ver a Carlos Adames contra Gerome Warburton"
   },
@@ -1781,19 +1820,6 @@
    "sources_n": 1,
    "title_it": "È FINITA AL 1° ROUND #Zuffaboxing13",
    "title_es": "SE ACABA EN EL PRIMER ASALTO #Zuffaboxing13"
-  },
-  {
-   "title": "Impacto: \"¿Eres hombre o mujer?\" El sueño olímpico de un genio del boxeo se desvaneció por la omisión de una \"prueba de sexo\" absurda: \"La asociación arruinó mi vida\" - 스타뉴스",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ORXBLVFJFN3JGcENGMGxZYmZsS2d4MThKXzBNaVVCY3BYNnJsZ1QzVjNOdVpHZ1FtcGE1Z1RyaFltOWkyX1RFMlQtVWlKb3NrRWllbDdmUTNkVUJkOUdvSlBOLTYwWWk3MGJyWUJiQ0VPelZ3eDUwZVNB?oc=5",
-   "source": "Google News: boxeo",
-   "lang": "es",
-   "date": "2026-11-14T15:11:00+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 11,
-   "sources_n": 1,
-   "title_it": "Impacto: \"¿Eres hombre o mujer?\" Il sogno olimpico di un genio della boxe è svanito a causa dell'omissione di un assurdo \"test di genere\": \"La federazione mi ha rovinato la vita\" - 스타뉴스",
-   "title_es": "Impacto: \"¿Eres hombre o mujer?\" El sueño olímpico de un genio del boxeo se desvaneció por la omisión de una \"prueba de sexo\" absurda: \"La asociación arruinó mi vida\" - 스타뉴스"
   },
   {
    "title": "English boxer, 18, banned from World Championships after extraordinary sex test mix-up: 'Broken' teenager reveals how his dream was shattered after team forgot to prove he was a man",
@@ -1843,7 +1869,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 40,
-   "sources_n": 8,
+   "sources_n": 7,
    "title_it": "Risultati di Zuffa Boxing 13: Adames contro Warburton",
    "title_es": "Resultados de Zuffa Boxing 13: Adames vs. Warburton"
   },
@@ -1989,7 +2015,7 @@
    "status": "confirmed",
    "boxers": [],
    "score": 46,
-   "sources_n": 8,
+   "sources_n": 7,
    "title_it": "Zuffa Boxing 13 risultati dal vivo, aggiornamenti round-by-round, passeggiate sul ring per Carlos Adames vs. Gerome Warburton",
    "title_es": "Resultados en vivo de Zuffa Boxing 13, actualizaciones ronda por ronda, caminatas en el ring para Carlos Adames contra Gerome Warburton"
   },
@@ -2069,7 +2095,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 40,
-   "sources_n": 7,
+   "sources_n": 6,
    "title_it": "Intorno al tavolo: giudicare il primo anno di Zuffa Boxing",
    "title_es": "Alrededor de la mesa: evaluación del primer año de Zuffa Boxing"
   },
@@ -2084,7 +2110,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 93,
+   "score": 92,
    "sources_n": 10,
    "title_it": "Anthony Joshua nomina due cose che ha e che Tyson Fury non ha",
    "title_es": "Anthony Joshua nombra dos cosas que tiene y Tyson Fury no"
@@ -2097,7 +2123,7 @@
    "date": "2026-11-14T08:27:24+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 8,
+   "score": 7,
    "sources_n": 1,
    "title_it": "Il 21 novembre in Sudafrica si svolgeranno tre incontri per il titolo IBO",
    "title_es": "El 21 de noviembre se celebrarán tres combates por el título de la IBO en Sudáfrica"
@@ -2479,7 +2505,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 31,
-   "sources_n": 8,
+   "sources_n": 7,
    "title_it": "Gerome Warburton è sempre lo sfavorito e vince sempre: Riyadh Season Zuffa Boxing 13",
    "title_es": "Gerome Warburton siempre es el menos favorito y siempre acaba ganando: Riyadh Season Zuffa Boxing 13"
   },
@@ -2583,7 +2609,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 38,
-   "sources_n": 8,
+   "sources_n": 7,
    "title_it": "Carlos Adames: \"Metterò al tappeto Gerome Warburton in tre round\": Riyadh Season Zuffa Boxing 13",
    "title_es": "Carlos Adames: «Voy a noquear a Gerome Warburton en tres asaltos»: Riyadh Season Zuffa Boxing 13"
   },
@@ -2637,7 +2663,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 38,
-   "sources_n": 7,
+   "sources_n": 6,
    "title_it": "Tre scontri travolgenti si abbattono sull'Arabia Saudita: apertura a freddo di Riyadh Season Zuffa Boxing 13",
    "title_es": "Tres enfrentamientos trepidantes llegan a Arabia Saudí: «cold open» de Zuffa Boxing 13 de la Riyadh Season"
   },
@@ -2650,7 +2676,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 30,
-   "sources_n": 8,
+   "sources_n": 7,
    "title_it": "Carlos Adames contro Gerome Warburton: pacchetto promozionale Zuffa Boxing 13 della Riyadh Season",
    "title_es": "Carlos Adames vs. Gerome Warburton: Paquete de promoción de Zuffa Boxing 13 de la temporada de Riad"
   },
@@ -3149,7 +3175,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 30,
-   "sources_n": 7,
+   "sources_n": 6,
    "title_it": "Il volto della boxe dominicana, Carlos Adames, è il protagonista di Riyadh Season #ZuffaBoxing13 🇩🇴🥊",
    "title_es": "El rostro del boxeo dominicano, Carlos Adames, encabeza la Riyadh Season #ZuffaBoxing13 🇩🇴🥊"
   },
@@ -3994,32 +4020,6 @@
    "sources_n": 1,
    "title_it": "Pugilato: Luis Vela è campione Wbc International - Ufficio Stampa della Provincia autonoma di Trento",
    "title_es": "Boxeo: Luis Vela es campeón internacional del WBC - Gabinete de prensa de la Provincia Autónoma de Trento"
-  },
-  {
-   "title": "Eddie Hearn teases announcement of huge title unification involving American star and British world champ",
-   "link": "https://www.thesun.co.uk/sport/40993070/eddie-hearn-teases-title-unification-fight/",
-   "source": "The Sun Boxing",
-   "lang": "en",
-   "date": "2026-11-11T16:28:33+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 48,
-   "sources_n": 10,
-   "title_it": "Eddie Hearn anticipa l'annuncio di un importante incontro di unificazione dei titoli che vedrà protagonisti una star americana e il campione del mondo britannico",
-   "title_es": "Eddie Hearn bromea con el anuncio de una gran unificación de títulos en la que participarían una estrella estadounidense y un campeón mundial británico"
-  },
-  {
-   "title": "“IF HE SAYS THAT TO MY FACE I AIN’T TAKING THAT S***” - ADAM AZIM FIRES BACK AT DALTON SMITH",
-   "link": "https://www.youtube.com/watch?v=DqygVjl24jQ",
-   "source": "YouTube Pro Boxing Fans",
-   "lang": "en",
-   "date": "2026-11-11T16:28:18+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 0,
-   "sources_n": 1,
-   "title_it": "\"SE ME LO DICE IN FACCIA, NON ME LO FACCIO DIRE\" - ADAM AZIM RISPONDE A DALTON SMITH",
-   "title_es": "«SI ME DICE ESO A LA CARA, NO ME LO VOY A TRAGAR» - ADAM AZIM RESPONDE A DALTON SMITH"
   }
  ]
 }
