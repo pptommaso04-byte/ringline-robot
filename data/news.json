@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-16T12:05:52+00:00",
- "feeds_ok": 49,
- "feeds_failed": 4,
+ "updated": "2026-11-16T12:10:56+00:00",
+ "feeds_ok": 48,
+ "feeds_failed": 5,
  "news": [
   {
    "title": "Teremoana Teremoana is a true knockout artist 🎨",
@@ -94,7 +94,7 @@
    "date": "2026-11-16T10:08:40+00:00",
    "status": "rumor",
    "boxers": [],
-   "score": 29,
+   "score": 28,
    "sources_n": 1,
    "title_it": "Lauren Price e i tre incontri che potrebbero portare la boxe femminile a un nuovo livello nel 2027",
    "title_es": "Lauren Price y los tres combates que podrían llevar el boxeo femenino a un nuevo nivel en 2027"
@@ -269,7 +269,7 @@
    "date": "2026-11-16T08:06:10+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 28,
+   "score": 27,
    "sources_n": 1,
    "title_it": "Erislandy Lara, 43 anni, mette a segno un KO sensazionale",
    "title_es": "Erislandy Lara, de 43 años, consigue un impresionante nocaut"
@@ -578,6 +578,19 @@
    "sources_n": 1,
    "title_it": "La futura stella Katerina Kouts Campionessa intercontinentale UBO",
    "title_es": "Futura estrella Katerina Kouts Campeona intercontinental de la UBO"
+  },
+  {
+   "title": "National Intermediate Championships Opening Weekend Results",
+   "link": "https://www.irish-boxing.com/national-intermediate-championships-opening-weekend-results/",
+   "source": "Irish Boxing",
+   "lang": "en",
+   "date": "2026-11-15T18:53:12+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 21,
+   "sources_n": 1,
+   "title_it": "Risultati del weekend di apertura dei Campionati Nazionali Intermedi",
+   "title_es": "Resultados del fin de semana inaugural de los Campeonatos Nacionales Intermedios"
   },
   {
    "title": "Aaron McKenna set for first World title defence - Northern Sound",
@@ -1126,19 +1139,6 @@
    "title_es": "Gane derrota a Hokit y retiene el campeonato de peso pesado de UFC"
   },
   {
-   "title": "Top 12 All-Time Greatest Heavyweight Punchers",
-   "link": "https://www.thefightcity.com/best-heavyweight-punchers/",
-   "source": "The Fight City",
-   "lang": "en",
-   "date": "2026-11-15T12:07:51+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 28,
-   "sources_n": 1,
-   "title_it": "I 12 migliori pugili di tutti i tempi nella categoria dei pesi massimi",
-   "title_es": "Los 12 mejores pegadores de peso pesado de todos los tiempos"
-  },
-  {
    "title": "Aaron McKenna to defend IBF title against Jevgenijs Aleksejevs in Riyadh",
    "link": "https://www.boxingscene.com/articles/aaron-mckenna-to-defend-ibf-title-against-jevgenijs-aleksejevs-in-riyadh",
    "source": "Boxing Scene",
@@ -1364,7 +1364,7 @@
    "date": "2026-11-15T08:08:19+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 16,
+   "score": 15,
    "sources_n": 1,
    "title_it": "\"In casa famiglia venivo trattato male, ho scelto di vivere per strada. Dormivo in stazione e risolvevo ogni scontro a botte per sopravvivenza\": così Romero - Il Fatto Quotidiano",
    "title_es": "\"En casa familiar me trataron mal, elegí vivir en la calle. Dormí en la estación y resolví cada lucha por la supervivencia\": así Romero - Il Fatto Quotidiano"
@@ -1565,7 +1565,7 @@
    "date": "2026-11-15T04:07:02+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 14,
+   "score": 13,
    "sources_n": 1,
    "title_it": "Discussione quotidiana (15 novembre 2026)",
    "title_es": "Hilo de discusión diario (15 de noviembre de 2026)"
@@ -2087,7 +2087,7 @@
    "date": "2026-11-14T16:10:09+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 28,
+   "score": 27,
    "sources_n": 7,
    "title_it": "Orario di inizio di Zuffa Boxing 13, scheda dell'incontro, pronostici e dove guardare Carlos Adames contro Gerome Warburton",
    "title_es": "Hora de inicio de Zuffa Boxing 13, cartelera, predicciones y dónde ver a Carlos Adames contra Gerome Warburton"
@@ -2534,7 +2534,7 @@
    "date": "2026-11-14T08:10:43+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 4,
+   "score": 3,
    "sources_n": 1,
    "title_it": "La pugile inglese ha perso i Mondiali a causa di un errore nel test del sesso",
    "title_es": "Una boxeadora inglesa se perdió el Mundial por una confusión en la prueba de sexo"
