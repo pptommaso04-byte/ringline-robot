@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-17T19:45:51+00:00",
- "feeds_ok": 48,
- "feeds_failed": 5,
+ "updated": "2026-11-17T19:50:55+00:00",
+ "feeds_ok": 47,
+ "feeds_failed": 6,
  "news": [
   {
    "title": "Title fights from around the world: Camila Zamorano makes third world title defence of 2026",
@@ -347,7 +347,7 @@
    "date": "2026-11-17T15:49:09+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 28,
+   "score": 27,
    "sources_n": 1,
    "title_it": "L'ultimo avversario di Lee Reeves pubblica un commovente tributo di 95 parole dopo la morte del pugile a 31 anni",
    "title_es": "El último oponente de Lee Reeves publica un emotivo homenaje de 95 palabras tras la muerte del boxeador a los 31 años"
@@ -741,7 +741,7 @@
    "date": "2026-11-17T11:47:58+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 56,
+   "score": 55,
    "sources_n": 4,
    "title_it": "Il pugile Lee Reeves muore a 31 anni dopo tre mesi di coma, in seguito a un knock-out sul ring",
    "title_es": "El boxeador Lee Reeves fallece a los 31 años tras tres meses en coma, después de haber sido noqueado en el ring."
@@ -932,7 +932,7 @@
    "date": "2026-11-17T09:48:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 33,
+   "score": 32,
    "sources_n": 1,
    "title_it": "Lee Reeves muore a 31 anni dopo tre mesi in coma: fatale il ko sul ring - RaiNews",
    "title_es": "Lee Reeves muere a los 31 años tras tres meses en coma: fatal el nocaut en el ring - RaiNews"
@@ -945,7 +945,7 @@
    "date": "2026-11-17T09:47:49+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 65,
+   "score": 64,
    "sources_n": 5,
    "title_it": "Ex campione del mondo di boxe arrestato dall'ICE",
    "title_es": "Un expúgil campeón del mundo detenido por el ICE"
@@ -1406,7 +1406,7 @@
    "date": "2026-11-16T23:50:02+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 50,
+   "score": 49,
    "sources_n": 4,
    "title_it": "Il pugile irlandese Lee Reeves muore a 31 anni a causa di lesioni subite durante un incontro",
    "title_es": "El boxeador irlandés Lee Reeves fallece a los 31 años a causa de lesiones relacionadas con los combates"
@@ -1419,7 +1419,7 @@
    "date": "2026-11-16T23:48:19+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 20,
+   "score": 19,
    "sources_n": 1,
    "title_it": "Percorso per diventare pugili professionisti per LA28",
    "title_es": "Ruta hacia los boxeadores profesionales para LA28"
@@ -1616,7 +1616,7 @@
    "date": "2026-11-16T17:49:38+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 17,
+   "score": 16,
    "sources_n": 2,
    "title_it": "Lauren Price vs Michaela Kotaskova: ora di inizio, undercard e come guardare il combattimento questo fine settimana",
    "title_es": "Lauren Price vs Michaela Kotaskova: hora de inicio, cartelera y cómo ver la pelea este fin de semana"
@@ -2046,7 +2046,7 @@
    "date": "2026-11-16T09:45:44+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 3,
+   "score": 2,
    "sources_n": 1,
    "title_it": "Clemente Russo tra boxe e moto: lo Scarabeo, la Buell e il ritorno sul ring [VIDEO] - Moto.it",
    "title_es": "Clemente Russo entre el boxeo y las motos: la Scarabeo, la Buell y el regreso al ring [VÍDEO] - Moto.it"
@@ -2274,19 +2274,6 @@
    "sources_n": 1,
    "title_it": "¡Nuevo rival! Canelo tendría en la mira a campeón británico - Soy Referee",
    "title_es": "¡Nuevo rival! Canelo tendría en la mira a campeón británico - Soy Referee"
-  },
-  {
-   "title": "National Intermediate Championships Opening Weekend Results",
-   "link": "https://www.irish-boxing.com/national-intermediate-championships-opening-weekend-results/",
-   "source": "Irish Boxing",
-   "lang": "en",
-   "date": "2026-11-15T18:53:12+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 5,
-   "sources_n": 1,
-   "title_it": "Risultati del weekend di apertura dei Campionati Nazionali Intermedi",
-   "title_es": "Resultados del fin de semana inaugural de los Campeonatos Nacionales Intermedios"
   },
   {
    "title": "Aaron McKenna set for first World title defence - Northern Sound",
@@ -2569,7 +2556,7 @@
    "date": "2026-11-15T11:48:51+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 42,
+   "score": 41,
    "sources_n": 5,
    "title_it": "Kalle Sauerland minaccia di adire alle vie legali se a Viddal Riley verrà negata la possibilità di contendere il titolo IBF",
    "title_es": "Kalle Sauerland amenaza con emprender acciones legales si a Viddal Riley se le niega la oportunidad de disputar el título de la IBF"
@@ -4021,6 +4008,22 @@
    "sources_n": 5,
    "title_it": "Sottocarta di Viddal Riley contro Seydi Coupe: chi altro combatterà nell'attesissimo incontro di Wembley?",
    "title_es": "Combates previos a Viddal Riley vs. Seydi Coupe: ¿Quién más pelea en el gran programa de Wembley?"
+  },
+  {
+   "title": "DEV SAHNI REACTS TO TYSON FURY VS ANTHONY JOSHUA LICENCE DRAMA, DEONTAY WILDER VS JAI OPETAIA",
+   "link": "https://www.youtube.com/watch?v=Sby7fFEI7Zo",
+   "source": "YouTube Pro Boxing Fans",
+   "lang": "en",
+   "date": "2026-11-13T08:00:04+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Tyson Fury",
+    "Anthony Joshua"
+   ],
+   "score": 55,
+   "sources_n": 1,
+   "title_it": "DEV SAHNI COMMENTA LA VICENDA DELLA LICENZA PER TYSON FURY CONTRO ANTHONY JOSHUA, DEONTAY WILDER CONTRO JAI OPETAIA",
+   "title_es": "DEV SAHNI REACCIONA AL DRAMA DE LA LICENCIA DE TYSON FURY CONTRA ANTHONY JOSHUA, DEONTAY WILDER CONTRA JAI OPETAIA"
   }
  ]
 }
