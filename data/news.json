@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-17T00:32:15+00:00",
- "feeds_ok": 47,
- "feeds_failed": 6,
+ "updated": "2026-11-17T00:35:58+00:00",
+ "feeds_ok": 48,
+ "feeds_failed": 5,
  "news": [
   {
    "title": "On This Day in 2009: Manny Pacquiao beat Miguel Cotto by TKO in round 12 to win the WBO welterweight title and become a 7-division world champion; establishing his position as the pound-for-pound king of boxing.",
@@ -103,7 +103,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 92,
-   "sources_n": 8,
+   "sources_n": 7,
    "title_it": "Shawn Porter vede solo un vincitore nell'incontro tra Ryan Garcia e Floyd Mayweather",
    "title_es": "Shawn Porter solo ve a un ganador en el combate entre Ryan García y Floyd Mayweather"
   },
@@ -144,7 +144,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 131,
-   "sources_n": 6,
+   "sources_n": 5,
    "title_it": "La WBA ha comunicato a tutte le parti interessate, incluso il detentore secondario del titolo Jack Catterall, che Teofimo Lopez ha il diritto di richiedere un permesso speciale per affrontare Ryan Garcia in un incontro di unificazione dei titoli WBA e WBC dei pesi welter, previsto per il 6 febbraio e trasmesso in diretta su DAZN [Ring Magazine]",
    "title_es": "La WBA ha notificado a todas las partes pertinentes, incluido el titular secundario del cinturón, Jack Catterall, que Teófimo López tiene derecho a solicitar un permiso especial para enfrentarse a Ryan García en un combate de unificación de los títulos del peso wélter de la WBA y del WBC previsto para el 6 de febrero, que se retransmitirá en directo en DAZN [Ring Magazine]."
   },
@@ -208,7 +208,7 @@
    "date": "2026-11-16T20:33:12+00:00",
    "status": "rumor",
    "boxers": [],
-   "score": 93,
+   "score": 92,
    "sources_n": 3,
    "title_it": "Chris Eubank Jr in trattativa per affrontare Kell Brook nel primo incontro dopo la sconfitta contro Conor Benn, con \"Special K\" che tornerà sul ring dopo il ritiro",
    "title_es": "Chris Eubank Jr. está negociando para enfrentarse a Kell Brook en su primer combate desde la derrota ante Conor Benn, con «Special K» saliendo de su retirada."
@@ -672,8 +672,8 @@
    "date": "2026-11-16T15:34:34+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 55,
-   "sources_n": 4,
+   "score": 45,
+   "sources_n": 3,
    "title_it": "Rispetto a Floyd Mayweather nel pugilato, Blinded nel pugilato a mani nude",
    "title_es": "Comparado con Floyd Mayweather en el boxeo, cegado en el boxeo a puño limpio"
   },
@@ -837,7 +837,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 99,
-   "sources_n": 5,
+   "sources_n": 4,
    "title_it": "Terence Crawford nomina il suo pugile dell'anno 2026",
    "title_es": "Terence Crawford nombra a su boxeador del año 2026"
   },
@@ -888,7 +888,7 @@
    "date": "2026-11-16T12:34:42+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 32,
+   "score": 31,
    "sources_n": 1,
    "title_it": "\"È sconvolgente\": l'errore di England Boxing pone fine al sogno da dilettante del diciottenne George Francis, che diventa professionista",
    "title_es": "«Es frustrante»: un error de England Boxing acaba con el sueño amateur de George Francis, de 18 años, cuando se pasa al boxeo profesional"
@@ -959,7 +959,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 98,
-   "sources_n": 6,
+   "sources_n": 5,
    "title_it": "Jack Catterall critica Teofimo Lopez, definendolo \"imbarazzante\", mentre cerca di ottenere l'incontro con Ryan Garcia",
    "title_es": "Jack Catterall critica a Teófimo López por su «vergonzoso» comportamiento mientras intenta conseguir un combate con Ryan García"
   },
@@ -1107,8 +1107,8 @@
    "date": "2026-11-16T08:50:04+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 22,
-   "sources_n": 1,
+   "score": 32,
+   "sources_n": 2,
    "title_it": "Cus Molise, a Roma la squadra di Gym Boxe e Settore Giovanile ottiene buoni risultati nella \"Cintura d’Italia\" - Informamolise",
    "title_es": "Cus Molise: en Roma, el equipo de Gym Boxe y el Sector Juvenil obtienen buenos resultados en la «Cintura d’Italia» - Informamolise"
   },
@@ -1120,7 +1120,7 @@
    "date": "2026-11-16T08:31:30+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 22,
+   "score": 21,
    "sources_n": 1,
    "title_it": "Cesare Costa della Scuola Kokorozashi sul tetto d'Italia nella chess boxing - Citysport",
    "title_es": "Cesare Costa de la Escuela Kokorozashi en la cima de Italia en el ajedrez-boxeo - Citysport"
@@ -1133,7 +1133,7 @@
    "date": "2026-11-16T08:31:15+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 22,
+   "score": 21,
    "sources_n": 1,
    "title_it": "Risultati del pugilato: luglio | agosto 2026",
    "title_es": "Resultados de boxeo: julio | agosto de 2026"
@@ -1156,7 +1156,7 @@
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLW9HRHFFYzdkeEVVS0g5Z3RKYnZkdTc4dkh1V0ZLNVJObjk3dnBZRTFDUG04ZnA2c2pQR19jbkdpSi1kTGcyVWlwOVQzV2pFV0NqSFlwU2E0d0VGQ2RyN2NRTV9La19RMVA3bjJTYVVnUXVKN3U2YUtKWXlqdElCSjFTcWhaQ0NlOFN4bDd6cGJmU1hRYWZJ?oc=5",
    "source": "Google News: pugilato",
    "lang": "it",
-   "date": "2026-11-16T08:05:00+00:00",
+   "date": "2026-11-16T08:06:36+00:00",
    "status": "unverified",
    "boxers": [],
    "score": 21,
@@ -1334,7 +1334,7 @@
    "date": "2026-11-15T22:34:39+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 92,
+   "score": 91,
    "sources_n": 5,
    "title_it": "L'ultima lista dei 5 P4P più recenti di David Benavidez !!!",
    "title_es": "David Benavidez Lista Top 5 P4P más reciente!!!"
@@ -1347,7 +1347,7 @@
    "date": "2026-11-15T22:33:27+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 47,
+   "score": 46,
    "sources_n": 6,
    "title_it": "2 minuti di Boots Ennis e Josh Kelly che parlano tra loro durante il loro Face Off. Aspettatevi i fuochi d'artificio il 27 febbraio!",
    "title_es": "2 minutos de Boots Ennis y Josh Kelly hablando entre sí durante su enfrentamiento. ¡Espere fuegos artificiales el 27 de febrero!"
@@ -1477,8 +1477,8 @@
    "date": "2026-11-15T17:25:19+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 44,
-   "sources_n": 4,
+   "score": 34,
+   "sources_n": 3,
    "title_it": "Floyd Mayweather (49 anni) si allena sulla strada alle 3 del mattino!! Il suo ritorno sul ring è imminente?",
    "title_es": "¡¡Floyd Mayweather (49 años) entrenando en la calle a las 3 de la madrugada!! ¿Se acerca su regreso al ring?"
   },
@@ -1756,6 +1756,19 @@
    "title_es": "Un oro, una plata y dos bronces en los Campeonatos de Italia sub-15 - NoiTV"
   },
   {
+   "title": "Pugilato, doppio oro per le sorelle palermitane Estella e Crystal Filardi - Quotidiano di Palermo",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdHF5RVZTYnIwT0RSNUdWTVpURUtKb1ZmOTAzWEJlZzJ3dlBOSG9NcU96aEhERDgzNmZENmptdm9CcTJCcG1oOTFMV2FFb0RZckNxZGdNVjIzNjVXVW16T2RIOUxmQWtoeGd3akNlUzQ0VTR1QjBoZ0tBdmsxbVE1bEZVNjA3N1B1MmhCZ3B4RnBLQmZUVjY2Sk82VzFsREFnLUpmeHZhTQ?oc=5",
+   "source": "Google News: pugilato",
+   "lang": "it",
+   "date": "2026-11-15T11:14:00+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 21,
+   "sources_n": 2,
+   "title_it": "Pugilato, doppio oro per le sorelle palermitane Estella e Crystal Filardi - Quotidiano di Palermo",
+   "title_es": "Boxeo: doble oro para las hermanas palermitanas Estella y Crystal Filardi - Quotidiano di Palermo"
+  },
+  {
    "title": "“TYSON FURY IS QUIET BECAUSE…” - DAVE COLDWELL ON ANTHONY JOSHUA, DEONTAY WILDER VS JAI OPETAIA",
    "link": "https://www.youtube.com/watch?v=JLZuBLRKtZo",
    "source": "YouTube Pro Boxing Fans",
@@ -1953,7 +1966,7 @@
    "date": "2026-11-15T00:33:26+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 36,
+   "score": 35,
    "sources_n": 6,
    "title_it": "Pre-show e primo incontro preliminare: Riyadh Season Zuffa Boxing 13",
    "title_es": "Previa y primer combate preliminar: Riyadh Season Zuffa Boxing 13"
@@ -2070,7 +2083,7 @@
    "date": "2026-11-14T20:31:40+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 12,
+   "score": 11,
    "sources_n": 1,
    "title_it": "I MIGLIORI momenti della vittoria di Adames su Warburton! 💥 #ZuffaBoxing13",
    "title_es": "¡LOS MEJORES momentos de la victoria de Adames sobre Warburton! 💥 #ZuffaBoxing13"
@@ -2267,7 +2280,7 @@
    "date": "2026-11-14T16:33:23+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 30,
+   "score": 29,
    "sources_n": 2,
    "title_it": "Il pugile Zak Miller pubblica per la prima volta dopo aver subito un enorme ematoma che ha portato all'interruzione dell'incontro per il titolo mondiale",
    "title_es": "El boxeador Zak Miller publica por primera vez tras sufrir un enorme hematoma que provocó la suspensión de su combate por el título mundial"
@@ -2306,7 +2319,7 @@
    "date": "2026-11-14T14:32:31+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 11,
+   "score": 10,
    "sources_n": 1,
    "title_it": "Un pugile inglese di 18 anni è stato escluso dai Campionati del Mondo a causa di un incredibile errore nel test di genere: il giovane \"distrutto\" rivela come il suo sogno sia andato in frantumi dopo che la squadra ha dimenticato di dimostrare che era un uomo",
    "title_es": "Un boxeador inglés de 18 años es excluido de los Campeonatos del Mundo tras una increíble confusión con una prueba de sexo: el adolescente «destrozado» revela cómo se hizo añicos su sueño después de que el equipo olvidara demostrar que era un hombre."
@@ -2397,8 +2410,8 @@
    "date": "2026-11-14T11:46:37+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 10,
-   "sources_n": 2,
+   "score": 20,
+   "sources_n": 3,
    "title_it": "Pugilato, il pratese Alex Ferramosca conquista il titolo italiano pesi supergallo - Tv Prato",
    "title_es": "Boxeo: el pratese Alex Ferramosca se proclama campeón de Italia del peso supergallo - Tv Prato"
   },
@@ -2416,6 +2429,19 @@
    "title_es": "Todos los detalles del combate entre Diego Pacheco y Darius Fulghum"
   },
   {
+   "title": "Alex Ferramosca, della Boxe Mugello, nuovo campione italiano dei pesi supergallo - Il Filo",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUThjQ3FuaVlqVTl4SndxaEtTT19sMldfcVdXYUxFRm1fdkxZeVUyR0ZGLWpUZW9mMFh0ZUFYTXp6SXFHcENRdnNtNVVZRVlXcWdWeVV2VFRRZjBaaFJzQklvemFCUG0yN3hQRlV6QWZ2UGpHMV9UaWFua3dHNGVpY3VtQUJXMFVGTDR1Y1BHbndyTlZnWlJ5aGF5ZWl5Q09L?oc=5",
+   "source": "Google News: boxe italiana",
+   "lang": "it",
+   "date": "2026-11-14T11:15:55+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 10,
+   "sources_n": 2,
+   "title_it": "Alex Ferramosca, della Boxe Mugello, nuovo campione italiano dei pesi supergallo - Il Filo",
+   "title_es": "Alex Ferramosca, de Boxe Mugello, nuevo campeón italiano del peso supergallo - Il Filo"
+  },
+  {
    "title": "Dónde y cómo ver en vivo y gratis Yuberjen Martínez vs. Anthony Olascuaga hoy: TV y streaming online de la pelea - Yahoo",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcXd2Zm9XUTZlMWp4SGlsbzhsWkk3V1RNZGRrRjdRN2RmVS1vX2wtZEFZT1hSMi1SUEhYcVlFa1R5am80ZFFvV0k4akxQV3pTcFZYZ0JkYlM1aFFXV3JMVnctRF9MVzNidFhUNzVLTWpQYmlaZVdoVG5sNW9QdU1KbGVhdWp6WWdzQzFEY3dnMXNibzhxeTVjaHdRNDQyTkxHMERScg?oc=5",
    "source": "Google News: boxeo",
@@ -2427,6 +2453,19 @@
    "sources_n": 2,
    "title_it": "Dove e come vedere in diretta e gratuitamente Yuberjen Martínez contro Anthony Olascuaga oggi: TV e streaming online dell'incontro - Yahoo",
    "title_es": "Dónde y cómo ver en vivo y gratis Yuberjen Martínez vs. Anthony Olascuaga hoy: TV y streaming online de la pelea - Yahoo"
+  },
+  {
+   "title": "Boxe, Alex Ferramosca è il nuovo campione italiano professionisti dei supergallo - Firenze e dintorni",
+   "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxQTjlwdnRHelh2WmM0SmlxMU83ZVFKUV83QzljSWk5UFlOV1pLR0pQUkZ3bm0wNHFKZ0lNSTlTaFZoVG92Y0xobmwtSTM3X08xdVB0eklMck9ySjBTem9vMzVxbTJ2WldzUjZSN29YY0J6bVEtcUdGa1FpMzI0cEpRUnEyODJ4NUpNOFVISUxHT2Z6ai1JU3gwMjFQZE11NUZzYWpYU0lDZ2xncUtGak5RYjNJd0ZvYXdwb29nUG1ITzlMcWJwc18wY0thZkR3X0FDTURpQVI4SHZHOG9CX1RDUDh4QW5jaU5Td3RYeEpPMUtlbFlDZTByQXdTTWFHTVFhRDRBRXIzcF9XTUZrcmFEYUhWbjVEUF9USkpVOHA5Z3g4eDNha0J0R3FXdG95WkFOaHhQR29FUWEtdTZCX2dHZkN4R1hRUkktSjVZWkoyQUJicFJvbHJ2MkhFeUdXYS02NEJHZGNXeUVwUUlSSVpPQUJsSXFSVjcx?oc=5",
+   "source": "Google News: boxe italiana",
+   "lang": "it",
+   "date": "2026-11-14T10:47:00+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 10,
+   "sources_n": 2,
+   "title_it": "Boxe, Alex Ferramosca è il nuovo campione italiano professionisti dei supergallo - Firenze e dintorni",
+   "title_es": "Boxeo: Alex Ferramosca es el nuevo campeón italiano profesional del peso supergallo - Florencia y alrededores"
   },
   {
    "title": "Pugilato, Ferramosca è campione italiano nei pesi supergallo - Sport di Prato",
@@ -2475,10 +2514,23 @@
    "date": "2026-11-14T09:59:59+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 10,
-   "sources_n": 2,
+   "score": 20,
+   "sources_n": 3,
    "title_it": "Pugilato, il toscano Alex Ferramosca è il nuovo campione italiano dei supergallo - FirenzeToday",
    "title_es": "Boxeo: el toscano Alex Ferramosca es el nuevo campeón italiano del peso supergallo - FirenzeToday"
+  },
+  {
+   "title": "Alex Ferramosca nuovo campione italiano pro dei pesi supergallo: esulta la Boxe Mugello - gonews.it",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOFVwUmx6WHF0eDdCSWJwRzE2WWJYd0w1UTlBTGhycDB5b2JncHA0Qm1LRnlWWlYxdl9ta1NNVW1tR3lZU0p0Y2o0UnFPUzN3WUJHamI3OFBWN1hCbUpsNEgxNmQ4UmhHZzBpRVRWQ19SVDJpV0czakJxSUw3VHJxaF96R1E3Y3k5RmI3SVpvUC04RVNUN0lUSjhLWl_SAaQBQVVfeXFMUFVuTy1kV0h1RXJrU1gwMmFlcXFKQlloR0N3ZUhrMlVBX2xzV09OVlZ2YTNjV3BTcGNoN3c1bktncVdvUFB2ck01Qzc3cmEzbllHS21xaFlIXy04SWVKNnFObnlFcXVXZWt2T1JDS0FJUktkMS1wenY3ak9yclR5TkdrZFZTN0ltU2V3dU9WOWo1SUc3aFVjcHhzY1BNX2NXbU1scFQ?oc=5",
+   "source": "Google News: boxe italiana",
+   "lang": "it",
+   "date": "2026-11-14T09:58:23+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 10,
+   "sources_n": 2,
+   "title_it": "Alex Ferramosca nuovo campione italiano pro dei pesi supergallo: esulta la Boxe Mugello - gonews.it",
+   "title_es": "Alex Ferramosca, nuevo campeón italiano profesional del peso supergallo: celebra el Boxe Mugello - gonews.it"
   },
   {
    "title": "Pugilato | Ferramosca nuovo campione italiano pro supergallo - Zazoom Social News",
@@ -2518,6 +2570,19 @@
    "sources_n": 2,
    "title_it": "Pugilato: Ferramosca nuovo campione italiano pro supergallo - Sportmediaset",
    "title_es": "Boxeo: Ferramosca, nuevo campeón italiano del peso supergallo profesional - Sportmediaset"
+  },
+  {
+   "title": "Boxe Mugello, Alex Ferramosca è campione d’Italia dei supergallo - Radio Mugello",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQklGSW83X0U4dDNudUxqTlAxd2dvalRBckRzRDQ2d3hyeGRkUVd0TjZJT1MxUk5lSFl6TlhnaGg2UEExOUI1eTUwLS10ZFlfMVRxRWl6dHplZ0VOLWIwYW9iV3Z0czlFYW1NTUJac0hvWno5N0tNb21CWlUxN0xrTThVemdyN3gzZGVWNDItY3ZvVElpUkM3bDRZUFItUQ?oc=5",
+   "source": "Google News: boxe italiana",
+   "lang": "it",
+   "date": "2026-11-14T09:12:41+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 10,
+   "sources_n": 2,
+   "title_it": "Boxe Mugello, Alex Ferramosca è campione d’Italia dei supergallo - Radio Mugello",
+   "title_es": "Boxeo en Mugello: Alex Ferramosca es campeón de Italia del peso supergallo - Radio Mugello"
   },
   {
    "title": "Viddal Riley opens up on why he stuck with his dad instead of moving to Las Vegas to train with a Mayweather as he eyes fighting Oleksandr Usyk",
@@ -2707,19 +2772,6 @@
    "sources_n": 2,
    "title_it": "Ha battuto Shawn Porter in un combattimento dell'anno",
    "title_es": "Venció a Shawn Porter en la pelea del año"
-  },
-  {
-   "title": "Pugilato giovanile: la saviglianese Nisrine Kerbal è vicecampionessa italiana Under 15 - Il Corriere di Alba Bra",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOFBadGlPSmI1T0d4eExpOWNSUmx2TklxSzFabVlzS3FoSmdfSU8zUWRWZ2tmajlmUWY4bGljdGMwTElSOEJ1ZnZMNEhSMXE3YmZzb3BfZGNpY1BfOHRtZTBlV2s5TDZ1UUQ5UjVtMHBYMnBWUExqbjlXLU9OTGJxTW4wTUpOX1dfUTJsNlo4b3NqOGItdmpDcmJEWGg3dDJPblEzVU9pR0ltMjRuWFE?oc=5",
-   "source": "Google News: pugilato",
-   "lang": "it",
-   "date": "2026-11-14T00:00:48+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 0,
-   "sources_n": 1,
-   "title_it": "Pugilato giovanile: la saviglianese Nisrine Kerbal è vicecampionessa italiana Under 15 - Il Corriere di Alba Bra",
-   "title_es": "Boxeo juvenil: la saviglianesa Nisrine Kerbal es subcampeona de Italia sub-15 - Il Corriere di Alba Bra"
   },
   {
    "title": "Cartelera Olascuaga vs Martínez: orden de las peleas que se disputan este sábado | Box 2026 - Diario AS",
@@ -3201,6 +3253,19 @@
    "title_es": "Diego Pacheco ya no quiere esperar más: su ambicioso plan para llegar hasta Canelo Álvarez - DAZN"
   },
   {
+   "title": "Maria Laura Perrotta, orgoglio cosentino agli Euro U23 di boxe - il Dot",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTURVQU1YT2p5WmhZc3BWY1VyWTRnZ0gtdTdlaS1PQjgwZHFTaFVtYjRKS0VSWDhHaHN5LUk1M0VtaENRak84MXFGMUxfSUdCaVNSYllIdjlDMmdsemhQMlFzR1JQWmRTQ1pJT3RVU0U4OVJBQUZKQmN0d3lTZnZGckNHQUJyeUVneHBvZm50Qk54dw?oc=5",
+   "source": "Google News: boxe italiana",
+   "lang": "it",
+   "date": "2026-11-13T09:22:40+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 10,
+   "sources_n": 2,
+   "title_it": "Maria Laura Perrotta, orgoglio cosentino agli Euro U23 di boxe - il Dot",
+   "title_es": "Maria Laura Perrotta, orgullo cosentino en el Europeo sub-23 de boxeo - il Dot"
+  },
+  {
    "title": "Viddal Riley vs Seydi Coupe undercard: Who else is fighting on huge Wembley bill?",
    "link": "https://www.thesun.co.uk/sport/40984322/viddal-riley-vs-seydi-coupe-full-undercard/",
    "source": "The Sun Boxing",
@@ -3325,6 +3390,32 @@
    "sources_n": 9,
    "title_it": "Conferenza stampa Diego Pacheco contro Darius Fulghum | Boxe da incontro",
    "title_es": "Conferencia de prensa de Diego Pacheco vs Darius Fulghum | Boxeo en la sala de partidos"
+  },
+  {
+   "title": "Weigh-In Results: All Seven Fights Official for Friday Night at Tropicana Atlantic City",
+   "link": "https://www.boxinginsider.com/headlines/weigh-in-results-all-seven-fights-official-for-friday-night-at-tropicana-atlantic-city/",
+   "source": "Boxing Insider",
+   "lang": "en",
+   "date": "2026-11-12T23:49:27+00:00",
+   "status": "confirmed",
+   "boxers": [],
+   "score": 0,
+   "sources_n": 1,
+   "title_it": "Risultati della pesatura: tutti e sette gli incontri sono ufficiali per venerdì sera al Tropicana di Atlantic City",
+   "title_es": "Resultados del pesaje: Los siete combates son oficiales para el viernes por la noche en el Tropicana de Atlantic City"
+  },
+  {
+   "title": "Seven Fights, Seven Cleared: What Weigh-In Day Really Looks Like in Atlantic City",
+   "link": "https://www.boxinginsider.com/headlines/seven-fights-seven-cleared-what-weigh-in-day-really-looks-like-in-atlantic-city/",
+   "source": "Boxing Insider",
+   "lang": "en",
+   "date": "2026-11-12T22:45:47+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 0,
+   "sources_n": 1,
+   "title_it": "Sette incontri, sette vittorie: com'è davvero il giorno del peso ad Atlantic City",
+   "title_es": "Siete combates, siete victorias: cómo es realmente el día del pesaje en Atlantic City"
   },
   {
    "title": "BOXXER's Ben Shalom exploring legal action after Martin Bakole's Fury-Joshua fight announced",
@@ -3476,6 +3567,19 @@
    "title_es": "Juegos Olímpicos de la Juventud 2026: Bronce para la italiana Michela Guglielmon en la categoría de 48 kg. - 2out.it - Seconds Out Sport Magazine"
   },
   {
+   "title": "Boxe, la palermitana Crystal Filardi trionfa ai campionati italiani under 15 e conquista l'oro - PalermoToday",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcUFSQThKM2NXM2FNeFNydTRaa09vRlFqQ3duRU02bEYtcmFMSjMwTmxCWUVHOS1fTEJSTFBySkZNSHh6bVdGYXlnbW4zQU9DbktRZk1iMmlGYUw3TmZnYkhKd0FLXzRuekpFUjIyUEpQRTNGcWFwTkpKbmlYM3ZpVFJVaEdjbUMtSjBrSWNXSmJyRGVBVG9TdlVBWndfQQ?oc=5",
+   "source": "Google News: boxe italiana",
+   "lang": "it",
+   "date": "2026-11-12T15:34:52+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 10,
+   "sources_n": 2,
+   "title_it": "Boxe, la palermitana Crystal Filardi trionfa ai campionati italiani under 15 e conquista l'oro - PalermoToday",
+   "title_es": "Boxeo: la palermitana Crystal Filardi triunfa en los campeonatos de Italia sub-15 y se hace con el oro - PalermoToday"
+  },
+  {
    "title": "WBA orders Teofimo Lopez vs Jack Catterall amid Ryan Garcia talks",
    "link": "https://www.boxingscene.com/articles/wba-orders-teofimo-lopez-vs-jack-catterall-amid-ryan-garcia-talks",
    "source": "Boxing Scene",
@@ -3484,7 +3588,7 @@
    "status": "rumor",
    "boxers": [],
    "score": 85,
-   "sources_n": 6,
+   "sources_n": 5,
    "title_it": "La WBA ordina l'incontro tra Teofimo Lopez e Jack Catterall mentre sono in corso le trattative con Ryan Garcia",
    "title_es": "La WBA ordena el combate entre Teófimo López y Jack Catterall en medio de las negociaciones con Ryan García"
   },
@@ -3596,8 +3700,8 @@
    "date": "2026-11-12T12:27:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 0,
-   "sources_n": 1,
+   "score": 10,
+   "sources_n": 2,
    "title_it": "Cosenza in maglia azzurra ai Campionati Europei Under 23 di pugilato: orgoglio per Maria Laura Perrotta - Corriere della Calabria",
    "title_es": "Cosenza con la «maglia azzurra» en el Campeonato de Europa sub-23 de boxeo: orgullo por Maria Laura Perrotta - Corriere della Calabria"
   },
@@ -3638,7 +3742,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 103,
-   "sources_n": 6,
+   "sources_n": 5,
    "title_it": "L'unificazione tra Ryan Garcia e Teofimo Lopez a rischio dopo la decisione della WBA su Jack Catterall",
    "title_es": "La unificación de Ryan García y Teófimo López está en peligro tras la decisión de la WBA sobre Jack Catterall"
   },
@@ -3874,8 +3978,8 @@
    "date": "2026-11-11T18:51:13+00:00",
    "status": "rumor",
    "boxers": [],
-   "score": 20,
-   "sources_n": 3,
+   "score": 10,
+   "sources_n": 2,
    "title_it": "Ryan García annuncia un incontro contro Mayweather... e potrebbe cadere il record del campione più longevo",
    "title_es": "Ryan García anuncia un combate contra Mayweather... y podría caer el récord de campeón más longevo"
   },
@@ -3930,108 +4034,6 @@
    "sources_n": 1,
    "title_it": "Pugilato: Luis Vela è campione Wbc International - Ufficio Stampa della Provincia autonoma di Trento",
    "title_es": "Boxeo: Luis Vela es campeón internacional del WBC - Gabinete de prensa de la Provincia Autónoma de Trento"
-  },
-  {
-   "title": "Eddie Hearn teases announcement of huge title unification involving American star and British world champ",
-   "link": "https://www.thesun.co.uk/sport/40993070/eddie-hearn-teases-title-unification-fight/",
-   "source": "The Sun Boxing",
-   "lang": "en",
-   "date": "2026-11-11T16:28:33+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 48,
-   "sources_n": 9,
-   "title_it": "Eddie Hearn anticipa l'annuncio di un importante incontro per l'unificazione dei titoli, che vedrà protagonisti una stella americana e un campione del mondo britannico",
-   "title_es": "Eddie Hearn bromea con el anuncio de una gran unificación de títulos en la que participarán una estrella estadounidense y un campeón mundial británico"
-  },
-  {
-   "title": "“IF HE SAYS THAT TO MY FACE I AIN’T TAKING THAT S***” - ADAM AZIM FIRES BACK AT DALTON SMITH",
-   "link": "https://www.youtube.com/watch?v=DqygVjl24jQ",
-   "source": "YouTube Pro Boxing Fans",
-   "lang": "en",
-   "date": "2026-11-11T16:28:18+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 0,
-   "sources_n": 1,
-   "title_it": "\"SE ME LO DICE IN FACCIA, NON ME LO FACCIO DIRE\" - ADAM AZIM RISPONDE A DALTON SMITH",
-   "title_es": "«SI ME DICE ESO A LA CARA, NO ME LO VOY A TRAGAR» - ADAM AZIM RESPONDE A DALTON SMITH"
-  },
-  {
-   "title": "Floyd Mayweather gets green light to return to boxing aged 49 and make history against Ryan Garcia",
-   "link": "https://www.thesun.co.uk/sport/40993554/floyd-mayweather-returns-box-ryan-garcia/",
-   "source": "The Sun Boxing",
-   "lang": "en",
-   "date": "2026-11-11T16:26:41+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 55,
-   "sources_n": 7,
-   "title_it": "Floyd Mayweather ottiene il via libera per tornare sul ring a 49 anni e fare la storia contro Ryan Garcia",
-   "title_es": "Floyd Mayweather recibe luz verde para volver al boxeo a los 49 años y hacer historia contra Ryan García"
-  },
-  {
-   "title": "Borghetti sale sul podio al debutto: bronzo agli Italiani Under 15 di pugilato - MaremmaOggi",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQX0lDMGZ2eEl0Y1dYQW00SldrN1RwbTFadE1HMHFRS2gwajZsNzNteEVPbnl3cFlmb00tNC10S2liTnJERTZnUWk0S1VTNTZhVjVSbFhydkx6YmlmMEU5WnFvU2lxUXJmRGpObzY4dWRudUZtUWVValNtX1BQbnhuNU1fSnJ1aG15XzZj?oc=5",
-   "source": "Google News: pugilato",
-   "lang": "it",
-   "date": "2026-11-11T16:01:40+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 0,
-   "sources_n": 1,
-   "title_it": "Borghetti sale sul podio al debutto: bronzo agli Italiani Under 15 di pugilato - MaremmaOggi",
-   "title_es": "Borghetti sube al podio en su debut: bronce en el Campeonato de Italia sub-15 de boxeo - MaremmaOggi"
-  },
-  {
-   "title": "\"DANA WHITE IS NOT A PROMOTER\" - BEN SHALOM UNLEASHES SCATHING RANT ON 'IDIOTS' IN BRITISH BOXING",
-   "link": "https://www.youtube.com/watch?v=4oS4-4xwGqM",
-   "source": "YouTube Pro Boxing Fans",
-   "lang": "en",
-   "date": "2026-11-11T16:00:25+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 0,
-   "sources_n": 1,
-   "title_it": "\"DANA WHITE NON È UN PROMOTER\" - BEN SHALOM SCATENA UN'ACRIDA INVETTIVA CONTRO GLI \"IDIOTI\" DELLA PUGILISTICA BRITANNICA",
-   "title_es": "«DANA WHITE NO ES UN PROMOTOR» - BEN SHALOM LANZA UN ATAQUE CONTRA LOS «IDIOTAS» DEL BOXEO BRITÁNICO"
-  },
-  {
-   "title": "Jake Paul doubles down on retirement if he loses comeback fight to Cedric Doumbe… as it will end his world title hopes",
-   "link": "https://www.thesun.co.uk/sport/40992095/jake-paul-retires-losing-cedric-doumbe-fight/",
-   "source": "The Sun Boxing",
-   "lang": "en",
-   "date": "2026-11-11T15:21:23+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 63,
-   "sources_n": 3,
-   "title_it": "Jake Paul raddoppia la posta in gioco per il suo ritiro se dovesse perdere il combattimento di ritorno contro Cedric Doumbe... poiché ciò porrebbe fine alle sue speranze di conquistare il titolo mondiale",
-   "title_es": "Jake Paul insiste en que se retirará si pierde el combate de regreso contra Cédric Doumbé... ya que eso acabaría con sus esperanzas de conseguir el título mundial."
-  },
-  {
-   "title": "Reading The Fights",
-   "link": "https://www.thefightcity.com/reading-fights/",
-   "source": "The Fight City",
-   "lang": "en",
-   "date": "2026-11-11T15:06:03+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 0,
-   "sources_n": 1
-  },
-  {
-   "title": "Dakar 2026: medaglia dal pugilato, Michela Guglielmon di bronzo nei 48 kg - Comitato Olimpico Nazionale",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLWstQVRuZkVtY0Iwb1NHQ3BUcmE0X3BRdGstSnpXWm1kRm1qbDhuaUZEWTVISGJzT0FCcWRkRGJ0N1hUUWdPT1VSUlFrV21sZXA4TzVMS0pWYlg0NTM2Mk1QcjkyLVNJN2hsZFV5U09LMWtObjN0NGE1cHprZDVJMHZUaTF4blh4Q2lNcHpGUHVJQzluSllrMWxxNWt4UGtEdktGaTREUnA?oc=5",
-   "source": "Google News: pugilato",
-   "lang": "it",
-   "date": "2026-11-11T14:53:24+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 10,
-   "sources_n": 2,
-   "title_it": "Dakar 2026: medaglia dal pugilato, Michela Guglielmon di bronzo nei 48 kg - Comitato Olimpico Nazionale",
-   "title_es": "Dakar 2026: medalla de boxeo, Michela Guglielmon, bronce en la categoría de 48 kg - Comité Olímpico Nacional"
   }
  ]
 }
