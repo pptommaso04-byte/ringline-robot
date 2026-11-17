@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T15:04:27+00:00",
+ "updated": "2026-11-17T21:07:27+00:00",
  "sources": {
   "WBA": {
    "divisions": {
@@ -1363,7 +1363,7 @@
    "p4p_F": [],
    "label": "WBA (classifica ufficiale)",
    "url": "https://www.wbaboxing.com/wba-ranking",
-   "read": "2026-11-17T15:02:59+00:00"
+   "read": "2026-11-17T21:05:37+00:00"
   },
   "WBC": {
    "divisions": {
@@ -5056,7 +5056,7 @@
    "p4p_F": [],
    "label": "WBC (via Box-Rank)",
    "url": "https://box-rank.com/rankings/org/wbc/heavyweight",
-   "read": "2026-11-17T15:03:24+00:00"
+   "read": "2026-11-17T21:06:06+00:00"
   },
   "IBF": {
    "divisions": {
@@ -6372,7 +6372,7 @@
    "p4p_F": [],
    "label": "IBF (via Box-Rank)",
    "url": "https://box-rank.com/rankings/org/ibf/heavyweight",
-   "read": "2026-11-17T15:03:45+00:00"
+   "read": "2026-11-17T21:06:33+00:00"
   },
   "WBO": {
    "divisions": {
@@ -6701,89 +6701,6 @@
       {
        "name": "Wilkens Mathieu",
        "country": "Canada",
-       "rank": 15
-      }
-     ]
-    },
-    "Middleweight": {
-     "champion": {
-      "name": "VacantVacant: the WBO withdrew recognition and declared the title vacant after Bentley failed to comply with mandatory championship obligations against Yoenli Hernandez. Event date: 30 October 2026. First shown in the October 2026 rankings.Official source",
-      "country": ""
-     },
-     "ranks": [
-      {
-       "name": "Yoenli Hernandez",
-       "country": "Cuba",
-       "rank": 1
-      },
-      {
-       "name": "Vito Mielnicki Jr",
-       "country": "United States",
-       "rank": 2
-      },
-      {
-       "name": "Tim Tszyu",
-       "country": "Australia",
-       "rank": 3
-      },
-      {
-       "name": "Michael Zerafa",
-       "country": "Australia",
-       "rank": 4
-      },
-      {
-       "name": "Fiodor Czerkaszyn",
-       "country": "Poland",
-       "rank": 5
-      },
-      {
-       "name": "Shane Mosley Jr",
-       "country": "United States",
-       "rank": 6
-      },
-      {
-       "name": "Jahi Tucker",
-       "country": "United States",
-       "rank": 7
-      },
-      {
-       "name": "Giovanni Sarchioto",
-       "country": "Italy",
-       "rank": 8
-      },
-      {
-       "name": "Ismael Flores",
-       "country": "Argentina",
-       "rank": 9
-      },
-      {
-       "name": "Callum Walsh",
-       "country": "Ireland",
-       "rank": 10
-      },
-      {
-       "name": "Euri Cedeno",
-       "country": "Dominican Republic",
-       "rank": 11
-      },
-      {
-       "name": "Troy Isley+1",
-       "country": "United States",
-       "rank": 12
-      },
-      {
-       "name": "Brad Pauls-1",
-       "country": "United Kingdom",
-       "rank": 13
-      },
-      {
-       "name": "Stephen McKenna",
-       "country": "Ireland",
-       "rank": 14
-      },
-      {
-       "name": "George Liddard",
-       "country": "United Kingdom",
        "rank": 15
       }
      ]
@@ -7789,7 +7706,7 @@
    "p4p_F": [],
    "label": "WBO (via Box-Rank)",
    "url": "https://box-rank.com/rankings/org/wbo/heavyweight",
-   "read": "2026-11-17T15:04:05+00:00"
+   "read": "2026-11-17T21:06:58+00:00"
   },
   "RING": {
    "divisions": {
@@ -8754,12 +8671,12 @@
    "p4p_F": [],
    "label": "RING (via Box-Rank)",
    "url": "https://box-rank.com/rankings/org/ring/heavyweight",
-   "read": "2026-11-17T15:04:27+00:00"
+   "read": "2026-11-17T21:07:27+00:00"
   },
   "WBO_F": {
    "label": "WBO donne (classifica ufficiale)",
    "url": "https://wboboxing.com/wborankings/report/cmFua2luZw==/ZmVtYWxl/b368b21ba1cee99fd0a978f4ac74e866/RankingReportFemale",
-   "date": "October 28, 2026",
+   "date": "November 28, 2026",
    "divisions": {
     "Heavyweight": {
      "champion": {
@@ -8769,8 +8686,8 @@
      "ranks": [
       {
        "rank": 1,
-       "name": "Giovanna Gonzalez",
-       "country": "MEX"
+       "name": "Annabell Honert",
+       "country": "DEU"
       },
       {
        "rank": 2,
@@ -8789,8 +8706,8 @@
       },
       {
        "rank": 5,
-       "name": "Annabell Honert",
-       "country": "DEU"
+       "name": "Giovanna Gonzalez",
+       "country": "MEX"
       },
       {
        "rank": 6,
@@ -8821,46 +8738,41 @@
      "ranks": [
       {
        "rank": 1,
-       "name": "Savannah Marshall",
-       "country": "GBR"
-      },
-      {
-       "rank": 2,
-       "name": "Melinda Watpool",
-       "country": "CAN"
-      },
-      {
-       "rank": 3,
        "name": "Lolita Muzeya",
        "country": "ZMB"
       },
       {
-       "rank": 4,
+       "rank": 2,
+       "name": "Savannah Marshall",
+       "country": "GBR"
+      },
+      {
+       "rank": 3,
        "name": "Shadasia Green",
        "country": "USA"
       },
       {
-       "rank": 5,
+       "rank": 4,
        "name": "Raquel Miller",
        "country": "USA"
       },
       {
-       "rank": 6,
+       "rank": 5,
        "name": "Bolatito Oluwole",
        "country": "NGA"
       },
       {
-       "rank": 7,
+       "rank": 6,
        "name": "Vanessa Lepage Joanisse",
        "country": "CAN"
       },
       {
-       "rank": 8,
+       "rank": 7,
        "name": "Toyin Adejumola",
        "country": "NGA"
       },
       {
-       "rank": 9,
+       "rank": 8,
        "name": "Nisa Rodriguez",
        "country": "USA"
       }
@@ -8879,8 +8791,8 @@
      "ranks": [
       {
        "rank": 1,
-       "name": "April Hunter",
-       "country": "GBR"
+       "name": "Melinda Watpool",
+       "country": "CAN"
       },
       {
        "rank": 2,
@@ -8904,28 +8816,38 @@
       },
       {
        "rank": 6,
-       "name": "Olivia Curry",
-       "country": "USA"
-      },
-      {
-       "rank": 7,
-       "name": "Mapule Ngubane",
-       "country": "ZAF"
-      },
-      {
-       "rank": 8,
        "name": "Bree Burbeary",
        "country": "GBR"
       },
       {
+       "rank": 7,
+       "name": "April Hunter",
+       "country": "GBR"
+      },
+      {
+       "rank": 8,
+       "name": "Olivia Curry",
+       "country": "USA"
+      },
+      {
        "rank": 9,
+       "name": "Mapule Ngubane",
+       "country": "ZAF"
+      },
+      {
+       "rank": 10,
        "name": "Logan Holler",
        "country": "USA"
       },
       {
-       "rank": 10,
+       "rank": 11,
        "name": "Ruth Chisale",
        "country": "MWI"
+      },
+      {
+       "rank": 12,
+       "name": "Clarida Sarabia",
+       "country": "NLD"
       }
      ],
      "holders": {
@@ -8942,12 +8864,12 @@
      "ranks": [
       {
        "rank": 1,
-       "name": "Michaela Kotaskova",
-       "country": "CZE"
+       "name": "Elia Carranza",
+       "country": "USA"
       },
       {
        "rank": 2,
-       "name": "Elia Carranza",
+       "name": "Mikaela Mayer",
        "country": "USA"
       },
       {
@@ -8957,33 +8879,33 @@
       },
       {
        "rank": 4,
-       "name": "Mary Casamassa",
-       "country": "USA"
-      },
-      {
-       "rank": 5,
-       "name": "Paige Goodyear",
-       "country": "GBR"
-      },
-      {
-       "rank": 6,
-       "name": "Marine Beauchamp",
-       "country": "FRA"
-      },
-      {
-       "rank": 7,
-       "name": "Naomi Mannes",
-       "country": "DEU"
-      },
-      {
-       "rank": 8,
        "name": "Marianne Ahlborg",
        "country": "SWE"
       },
       {
-       "rank": 9,
+       "rank": 5,
        "name": "Femke Hermans",
        "country": "BEL"
+      },
+      {
+       "rank": 6,
+       "name": "Mary Casamassa",
+       "country": "USA"
+      },
+      {
+       "rank": 7,
+       "name": "Paige Goodyear",
+       "country": "GBR"
+      },
+      {
+       "rank": 8,
+       "name": "Marine Beauchamp",
+       "country": "FRA"
+      },
+      {
+       "rank": 9,
+       "name": "Naomi Mannes",
+       "country": "DEU"
       },
       {
        "rank": 10,
@@ -8992,13 +8914,13 @@
       },
       {
        "rank": 11,
-       "name": "Cris Cyborg",
-       "country": "BRA"
+       "name": "Sedem Ama",
+       "country": "GBR"
       },
       {
        "rank": 12,
-       "name": "Sedem Ama",
-       "country": "GBR"
+       "name": "Cris Cyborg",
+       "country": "BRA"
       }
      ],
      "holders": {
@@ -9008,10 +8930,7 @@
      }
     },
     "Welterweight": {
-     "champion": {
-      "name": "Mikaela Mayer",
-      "country": "USA"
-     },
+     "champion": null,
      "ranks": [
       {
        "rank": 1,
@@ -9020,58 +8939,58 @@
       },
       {
        "rank": 2,
+       "name": "Michaela Kotaskova",
+       "country": "CZE"
+      },
+      {
+       "rank": 3,
        "name": "Jordan Barker Porter",
        "country": "GBR"
       },
       {
-       "rank": 3,
+       "rank": 4,
        "name": "Dee Allen",
        "country": "GBR"
       },
       {
-       "rank": 4,
+       "rank": 5,
        "name": "Omarah Taylor",
        "country": "GBR"
       },
       {
-       "rank": 5,
+       "rank": 6,
        "name": "Jessica Messina",
        "country": "AUS"
       },
       {
-       "rank": 6,
-       "name": "Dilara Yucel",
-       "country": "TUR"
-      },
-      {
        "rank": 7,
-       "name": "Jade Grierson",
-       "country": "GBR"
-      },
-      {
-       "rank": 8,
-       "name": "Stevie Jane Coleman",
-       "country": "USA"
-      },
-      {
-       "rank": 9,
-       "name": "Sara French",
-       "country": "USA"
-      },
-      {
-       "rank": 10,
-       "name": "Brianda Cruz",
-       "country": "MEX"
-      },
-      {
-       "rank": 11,
        "name": "Fanny Galle",
        "country": "FRA"
       },
       {
-       "rank": 12,
-       "name": "Oriance Lungu",
+       "rank": 8,
+       "name": "Dilara Yucel",
+       "country": "TUR"
+      },
+      {
+       "rank": 9,
+       "name": "Jade Grierson",
        "country": "GBR"
+      },
+      {
+       "rank": 10,
+       "name": "Stevie Jane Coleman",
+       "country": "USA"
+      },
+      {
+       "rank": 11,
+       "name": "Sara French",
+       "country": "USA"
+      },
+      {
+       "rank": 12,
+       "name": "Brianda Cruz",
+       "country": "MEX"
       }
      ],
      "holders": {}
@@ -9081,13 +9000,13 @@
      "ranks": [
       {
        "rank": 1,
-       "name": "Savannah Tini",
-       "country": "USA"
+       "name": "Albina Moldazhanova",
+       "country": "RUS"
       },
       {
        "rank": 2,
-       "name": "Albina Moldazhanova",
-       "country": "RUS"
+       "name": "Savannah Tini",
+       "country": "USA"
       },
       {
        "rank": 3,
@@ -9101,32 +9020,32 @@
       },
       {
        "rank": 5,
-       "name": "Stephanie Pineiro",
-       "country": "PRI"
-      },
-      {
-       "rank": 6,
        "name": "Hannah Robinson",
        "country": "GBR"
       },
       {
+       "rank": 6,
+       "name": "Gemma Paige",
+       "country": "GBR"
+      },
+      {
        "rank": 7,
+       "name": "Stephanie Pineiro",
+       "country": "PRI"
+      },
+      {
+       "rank": 8,
        "name": "Stephanie Simon",
        "country": "USA"
       },
       {
-       "rank": 8,
-       "name": "Samantha Worthington",
-       "country": "USA"
-      },
-      {
        "rank": 9,
-       "name": "Patricia Berghult",
-       "country": "SWE"
+       "name": "Marie Pier Houle",
+       "country": "CAN"
       },
       {
        "rank": 10,
-       "name": "Carolyn Redmond",
+       "name": "Jessica Camara",
        "country": "CAN"
       },
       {
@@ -9180,38 +9099,38 @@
       },
       {
        "rank": 7,
-       "name": "Jessica Camara",
-       "country": "CAN"
-      },
-      {
-       "rank": 8,
        "name": "Miranda Reyes",
        "country": "USA"
       },
       {
-       "rank": 9,
-       "name": "Kirstie Bavington",
-       "country": "GBR"
-      },
-      {
-       "rank": 10,
+       "rank": 8,
        "name": "Samantha Quek",
        "country": "SGP"
       },
       {
-       "rank": 11,
+       "rank": 9,
        "name": "Jade Pearce",
        "country": "GBR"
       },
       {
+       "rank": 10,
+       "name": "Chiara Dituri",
+       "country": "USA"
+      },
+      {
+       "rank": 11,
+       "name": "Kirstie Bavington",
+       "country": "GBR"
+      },
+      {
        "rank": 12,
-       "name": "Alejandra Rojas Rivera",
-       "country": "MEX"
+       "name": "Elif Nur Turhan",
+       "country": "TUR"
       }
      ],
      "holders": {
       "WBA": "Stephanie Han",
-      "IBF": "Elif Nur Turhan",
+      "IBF": "Alycia Baumgardner",
       "WBC": "Caroline Dubois"
      }
     },
@@ -9263,23 +9182,23 @@
       },
       {
        "rank": 9,
+       "name": "Bo Mi Re Shin",
+       "country": "KOR"
+      },
+      {
+       "rank": 10,
        "name": "Jessica Barry",
        "country": "GBR"
       },
       {
-       "rank": 10,
+       "rank": 11,
        "name": "Mia Ellis",
        "country": "USA"
       },
       {
-       "rank": 11,
+       "rank": 12,
        "name": "Brisa Alfonzo",
        "country": "ARG"
-      },
-      {
-       "rank": 12,
-       "name": "Julissa Alejandra Guzman",
-       "country": "MEX"
       }
      ],
      "holders": {
@@ -9306,28 +9225,28 @@
       },
       {
        "rank": 3,
-       "name": "Mariah Turner",
-       "country": "AUS"
-      },
-      {
-       "rank": 4,
        "name": "Lucrecia Manzur",
        "country": "ARG"
       },
       {
-       "rank": 5,
+       "rank": 4,
        "name": "Reina Tellez",
        "country": "USA"
       },
       {
-       "rank": 6,
+       "rank": 5,
        "name": "Cheyenne Hanson",
        "country": "DEU"
       },
       {
+       "rank": 6,
+       "name": "Lila Furtado",
+       "country": "BRA"
+      },
+      {
        "rank": 7,
-       "name": "Anera Osawa",
-       "country": "JPN"
+       "name": "Mariah Turner",
+       "country": "AUS"
       },
       {
        "rank": 8,
@@ -9336,23 +9255,23 @@
       },
       {
        "rank": 9,
-       "name": "Sarah Liegmann",
-       "country": "DEU"
-      },
-      {
-       "rank": 10,
        "name": "Vivian Rodriguez",
        "country": "DOM"
       },
       {
+       "rank": 10,
+       "name": "Sarah Liegmann",
+       "country": "DEU"
+      },
+      {
        "rank": 11,
-       "name": "Elizabeth Oshoba",
-       "country": "NGA"
+       "name": "Anera Osawa",
+       "country": "JPN"
       },
       {
        "rank": 12,
-       "name": "Lila Furtado",
-       "country": "BRA"
+       "name": "Skye Falzon",
+       "country": "USA"
       }
      ],
      "holders": {
@@ -9362,42 +9281,45 @@
      }
     },
     "Junior Featherweight": {
-     "champion": null,
+     "champion": {
+      "name": "Ramla Ali",
+      "country": "GBR"
+     },
      "ranks": [
       {
        "rank": 1,
-       "name": "Mikiah Kreps",
-       "country": "USA"
-      },
-      {
-       "rank": 2,
-       "name": "Ramla Ali",
-       "country": "GBR"
-      },
-      {
-       "rank": 3,
        "name": "Mea Motu",
        "country": "NZL"
       },
       {
-       "rank": 4,
+       "rank": 2,
        "name": "Phannarai Netisri",
        "country": "THA"
       },
       {
-       "rank": 5,
+       "rank": 3,
        "name": "Erika Cruz Hernandez",
        "country": "MEX"
       },
       {
-       "rank": 6,
+       "rank": 4,
        "name": "Nazarena Romero",
        "country": "ARG"
       },
       {
-       "rank": 7,
+       "rank": 5,
        "name": "Melania Sorroche",
        "country": "ESP"
+      },
+      {
+       "rank": 6,
+       "name": "Mikiah Kreps",
+       "country": "USA"
+      },
+      {
+       "rank": 7,
+       "name": "Tysie Gallagher",
+       "country": "GBR"
       },
       {
        "rank": 8,
@@ -9468,8 +9390,8 @@
       },
       {
        "rank": 7,
-       "name": "Terumi Nuki",
-       "country": "JPN"
+       "name": "Brittany Sims",
+       "country": "USA"
       },
       {
        "rank": 8,
@@ -9483,13 +9405,13 @@
       },
       {
        "rank": 10,
-       "name": "Brittany Sims",
-       "country": "USA"
+       "name": "Anahit Aroyan",
+       "country": "ARM"
       },
       {
        "rank": 11,
-       "name": "Ebanie Bridges",
-       "country": "GBR"
+       "name": "Terumi Nuki",
+       "country": "JPN"
       },
       {
        "rank": 12,
@@ -9516,58 +9438,58 @@
       },
       {
        "rank": 2,
-       "name": "Natalie Dove",
-       "country": "USA"
-      },
-      {
-       "rank": 3,
-       "name": "Lauryne Brankaer",
-       "country": "FRA"
-      },
-      {
-       "rank": 4,
        "name": "Roxana Mendoza",
        "country": "NIC"
       },
       {
-       "rank": 5,
+       "rank": 3,
        "name": "Debora Lopez",
        "country": "ARG"
       },
       {
-       "rank": 6,
-       "name": "Chaoz Minowa",
-       "country": "JPN"
+       "rank": 4,
+       "name": "Natalie Dove",
+       "country": "USA"
       },
       {
-       "rank": 7,
+       "rank": 5,
+       "name": "Lauryne Brankaer",
+       "country": "FRA"
+      },
+      {
+       "rank": 6,
        "name": "Jasmine Artiga",
        "country": "USA"
       },
       {
-       "rank": 8,
+       "rank": 7,
        "name": "Olga Julio",
        "country": "COL"
       },
       {
-       "rank": 9,
+       "rank": 8,
        "name": "Mai Soliman",
        "country": "AUS"
       },
       {
+       "rank": 9,
+       "name": "Adriana Thalia Pineiro",
+       "country": "URY"
+      },
+      {
        "rank": 10,
-       "name": "Emma Dolan",
-       "country": "GBR"
+       "name": "Teresa Makinen",
+       "country": "FIN"
       },
       {
        "rank": 11,
-       "name": "Gloria Gallardo",
-       "country": "MEX"
+       "name": "Chaoz Minowa",
+       "country": "JPN"
       },
       {
        "rank": 12,
-       "name": "Adriana Thalia Pineiro",
-       "country": "URY"
+       "name": "Emma Dolan",
+       "country": "GBR"
       }
      ],
      "holders": {
@@ -9594,18 +9516,18 @@
       },
       {
        "rank": 3,
-       "name": "Cecilia Nino Rodriguez",
-       "country": "MEX"
+       "name": "Sibulele Soboois",
+       "country": "ZAF"
       },
       {
        "rank": 4,
-       "name": "Yohandri Rondon",
-       "country": "VEN"
+       "name": "Viviana Ruiz",
+       "country": "AUS"
       },
       {
        "rank": 5,
-       "name": "Sibulele Soboois",
-       "country": "ZAF"
+       "name": "Leanna Cruz",
+       "country": "USA"
       },
       {
        "rank": 6,
@@ -9614,23 +9536,23 @@
       },
       {
        "rank": 7,
-       "name": "Viviana Ruiz",
-       "country": "AUS"
+       "name": "Leonela Yudica",
+       "country": "ARG"
       },
       {
        "rank": 8,
-       "name": "Leanna Cruz",
-       "country": "USA"
+       "name": "Cecilia Nino Rodriguez",
+       "country": "MEX"
       },
       {
        "rank": 9,
-       "name": "Jasmina Zapotoczna",
-       "country": "POL"
+       "name": "Yohandri Rondon",
+       "country": "VEN"
       },
       {
        "rank": 10,
-       "name": "Leonela Yudica",
-       "country": "ARG"
+       "name": "Jasmina Zapotoczna",
+       "country": "POL"
       },
       {
        "rank": 11,
@@ -9667,38 +9589,38 @@
       },
       {
        "rank": 3,
-       "name": "Eveling Junieth Ortega",
-       "country": "NIC"
-      },
-      {
-       "rank": 4,
        "name": "Yesica Nery Plata",
        "country": "MEX"
       },
       {
-       "rank": 5,
+       "rank": 4,
        "name": "Naomy Valle",
        "country": "CRI"
       },
       {
-       "rank": 6,
+       "rank": 5,
        "name": "Emma Nesbitt",
        "country": "NZL"
       },
       {
-       "rank": 7,
+       "rank": 6,
        "name": "Tenkai Tsunami",
        "country": "JPN"
       },
       {
-       "rank": 8,
+       "rank": 7,
        "name": "Maria Guadalupe Bautista",
        "country": "MEX"
       },
       {
-       "rank": 9,
+       "rank": 8,
        "name": "Silvia Torres",
        "country": "MEX"
+      },
+      {
+       "rank": 9,
+       "name": "Jemma Peart",
+       "country": "AUS"
       },
       {
        "rank": 10,
@@ -9750,13 +9672,13 @@
       },
       {
        "rank": 5,
-       "name": "Maria Luz Peral",
-       "country": "ESP"
+       "name": "Ye Kyeng Seo",
+       "country": "KOR"
       },
       {
        "rank": 6,
-       "name": "Ye Kyeng Seo",
-       "country": "KOR"
+       "name": "Maria Luz Peral",
+       "country": "ESP"
       },
       {
        "rank": 7,
@@ -9785,8 +9707,8 @@
       },
       {
        "rank": 12,
-       "name": "Chaima Bounouar",
-       "country": "ESP"
+       "name": "Erika Bolivar",
+       "country": "VEN"
       }
      ],
      "holders": {
@@ -9828,8 +9750,8 @@
       },
       {
        "rank": 6,
-       "name": "Honoka Kano",
-       "country": "JPN"
+       "name": "Gipsy Diaz",
+       "country": "CRI"
       },
       {
        "rank": 7,
@@ -9838,8 +9760,8 @@
       },
       {
        "rank": 8,
-       "name": "Gipsy Diaz",
-       "country": "CRI"
+       "name": "Honoka Kano",
+       "country": "JPN"
       },
       {
        "rank": 9,
@@ -9869,7 +9791,7 @@
      }
     }
    },
-   "read": "2026-11-17T09:01:19+00:00"
+   "read": "2026-11-17T21:05:40+00:00"
   }
  }
 }
