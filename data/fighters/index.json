@@ -14587,7 +14587,7 @@
  },
  "Daniele Scardina": {
   "slug": "daniele-scardina",
-  "updated": "2026-11-14T02:01:47+00:00",
+  "updated": "2026-11-17T02:02:54+00:00",
   "total": 20,
   "verified": 17,
   "record": {
@@ -14603,7 +14603,7 @@
  },
  "Emmanuel Rodríguez": {
   "slug": "emmanuel-rodriguez",
-  "updated": "2026-11-14T02:01:53+00:00",
+  "updated": "2026-11-17T02:02:38+00:00",
   "total": 27,
   "verified": 0,
   "record": {
@@ -14621,7 +14621,7 @@
  },
  "Erik Ruiz": {
   "slug": "erik-ruiz",
-  "updated": "2026-11-14T02:01:59+00:00",
+  "updated": "2026-11-17T02:02:47+00:00",
   "total": 29,
   "verified": 0,
   "record": {
@@ -55627,5 +55627,23 @@
  },
  "Roberto Navarro (boxer)": {
   "tried": "2026-11-17T01:57:02+00:00"
+ },
+ "Tom Little (boxer)": {
+  "slug": "tom-little-boxer",
+  "updated": "2026-11-17T02:02:59+00:00",
+  "total": 19,
+  "verified": 0,
+  "record": {
+   "w": 10,
+   "l": 9,
+   "d": 0,
+   "nc": 0
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ "Benjamín Flores (boxer)": {
+  "tried": "2026-11-17T02:02:32+00:00"
  }
 }
