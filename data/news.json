@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-17T17:55:35+00:00",
- "feeds_ok": 47,
- "feeds_failed": 6,
+ "updated": "2026-11-17T17:58:30+00:00",
+ "feeds_ok": 48,
+ "feeds_failed": 5,
  "news": [
   {
    "title": "DAN RAFAEL REVEALS SHOCK DETAILS ON WHY JAI OPETAIA PULLED OUT OF DEONTAY WILDER FIGHT",
@@ -214,7 +214,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 122,
+   "score": 121,
    "sources_n": 12,
    "title_it": "Tyson Fury contro Anthony Joshua perde il co-evento principale poiché Jai Opetaia si ritira dall'incontro con Deontay Wilder",
    "title_es": "Tyson Fury contra Anthony Joshua pierde el coprincipal combate, ya que Jai Opetaia se retira del combate contra Deontay Wilder"
@@ -942,7 +942,7 @@
    "date": "2026-11-17T07:58:18+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 55,
+   "score": 54,
    "sources_n": 4,
    "title_it": "Il pugile irlandese Reeves muore all'età di 31 anni dopo tre mesi di coma",
    "title_es": "Muere el boxeador irlandés Reeves a los 31 años tras tres meses en coma"
@@ -1645,7 +1645,7 @@
    "date": "2026-11-16T15:56:41+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 27,
+   "score": 26,
    "sources_n": 2,
    "title_it": "Kalle Sauerland conferma che l'offerta per l'incontro tra Eddie Hearn e Dana White è ancora valida",
    "title_es": "Kalle Sauerland confirma que la oferta de combate entre Eddie Hearn y Dana White sigue en pie"
@@ -2157,19 +2157,6 @@
    "sources_n": 1,
    "title_it": "¡Nuevo rival! Canelo tendría en la mira a campeón británico - Soy Referee",
    "title_es": "¡Nuevo rival! Canelo tendría en la mira a campeón británico - Soy Referee"
-  },
-  {
-   "title": "National Intermediate Championships Opening Weekend Results",
-   "link": "https://www.irish-boxing.com/national-intermediate-championships-opening-weekend-results/",
-   "source": "Irish Boxing",
-   "lang": "en",
-   "date": "2026-11-15T18:53:12+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 6,
-   "sources_n": 1,
-   "title_it": "Risultati del fine settimana di apertura dei Campionati Nazionali Intermedi",
-   "title_es": "Resultados del fin de semana inaugural de los Campeonatos Nacionales Intermedios"
   },
   {
    "title": "Aaron McKenna set for first World title defence - Northern Sound",
@@ -4030,6 +4017,19 @@
    "sources_n": 7,
    "title_it": "Conferenza stampa Diego Pacheco vs Darius Fulghum | Matchroom Boxing",
    "title_es": "Rueda de prensa de Diego Pacheco vs. Darius Fulghum | Matchroom Boxing"
+  },
+  {
+   "title": "Weekend di incontri: doppio appuntamento tra Gallarate e Gravellona Toce con il ritorno di Fabian Lafratta - La Prealpina",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRmNzRWNNOUhyVENEMm9iR0xiQURjUXdvY0FtSEM2ZWlkLUMxVlI3Qi1Rbl9CRzlBbmFaUVlzd05ERFNfOFhnTFhGLXZxcmtwYV9mbnlZaHhrRTZrZXFwSFdHVk5lUmZweFRoNHNOZlRIMWU1R3lkU3JjOHUyMlhXaUFMV05EM3pPRGpSSDJvQndfOWZmQmVlTWI3bmFMQmRfXzRqUHN2YzhWRXQ1ZzA0ajdjZjhnVVlHdVBxcVdISnhuQ2xBSU5PX3BFeklEb3hFUlhtek1HNzIxMktpSG1YZzhtOTJsb3RL?oc=5",
+   "source": "Google News: pugilato",
+   "lang": "it",
+   "date": "2026-11-12T23:52:00+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 0,
+   "sources_n": 1,
+   "title_it": "Weekend di incontri: doppio appuntamento tra Gallarate e Gravellona Toce con il ritorno di Fabian Lafratta - La Prealpina",
+   "title_es": "Fin de semana de encuentros: doble cita entre Gallarate y Gravellona Toce con el regreso de Fabián Lafratta - La Prealpina"
   }
  ]
 }
