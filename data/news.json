@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T19:20:47+00:00",
+ "updated": "2026-11-17T19:25:35+00:00",
  "feeds_ok": 48,
  "feeds_failed": 5,
  "news": [
@@ -134,7 +134,7 @@
    "date": "2026-11-17T17:22:03+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 94,
+   "score": 93,
    "sources_n": 9,
    "title_it": "Il campione britannico dei pesi massimi si offre di affrontare Deontay Wilder con 4 settimane di preavviso dopo il ritiro di Opetaia",
    "title_es": "El campeón británico de peso pesado se ofrece a enfrentarse a Deontay Wilder con 4 semanas de antelación tras la retirada de Opetaia"
@@ -369,7 +369,7 @@
    "date": "2026-11-17T15:22:56+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 28,
+   "score": 27,
    "sources_n": 1,
    "title_it": "L'ex calciatore della Premier League che ha sfidato le probabilità nel pugilato e punta a farlo di nuovo",
    "title_es": "El exjugador de la Premier League que desafió las probabilidades en el boxeo y pretende volver a hacerlo"
@@ -551,7 +551,7 @@
    "date": "2026-11-17T13:24:26+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 72,
+   "score": 71,
    "sources_n": 1,
    "title_it": "Julio Cesar Chavez esprime il suo parere sul fatto che la sconfitta di Canelo contro Crawford possa influire sulla sua eredità",
    "title_es": "Julio César Chávez opina sobre si la derrota de Canelo ante Crawford afectará a su legado"
@@ -734,7 +734,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 111,
+   "score": 110,
    "sources_n": 9,
    "title_it": "Johnny Fisher vuole affrontare il pugile che ha quasi fatto saltare l'incontro tra Tyson Fury e Anthony Joshua",
    "title_es": "Johnny Fisher quiere enfrentarse al boxeador que casi frustró el combate entre Tyson Fury y Anthony Joshua"
@@ -747,7 +747,7 @@
    "date": "2026-11-17T11:21:14+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 26,
+   "score": 25,
    "sources_n": 1,
    "title_it": "Boxe, Lee Reeves morto a 31 anni: il pugile irlandese era in coma da 3 mesi - Sky TG24",
    "title_es": "Boxeo, Lee Reeves fallece a los 31 años: el boxeador irlandés llevaba 3 meses en coma - Sky TG24"
@@ -2033,7 +2033,7 @@
    "date": "2026-11-16T09:24:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 13,
+   "score": 12,
    "sources_n": 1,
    "title_it": "EURO U23 BOXING CHAMPIONSHIPS POREC 2026 - MATCH DAY 1 | 16/11 - INFO MATCH ITABOXING - FPI",
    "title_es": "CAMPEONATO DE EUROPA DE BOXEO SUB-23 POREČ 2026 - JORNADA 1 | 16/11 - INFORMACIÓN DEL COMBATE ITABOXING - FPI"
@@ -2222,19 +2222,6 @@
    "sources_n": 1,
    "title_it": "¡Nuevo rival! Canelo tendría en la mira a campeón británico - Soy Referee",
    "title_es": "¡Nuevo rival! Canelo tendría en la mira a campeón británico - Soy Referee"
-  },
-  {
-   "title": "National Intermediate Championships Opening Weekend Results",
-   "link": "https://www.irish-boxing.com/national-intermediate-championships-opening-weekend-results/",
-   "source": "Irish Boxing",
-   "lang": "en",
-   "date": "2026-11-15T18:53:12+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 5,
-   "sources_n": 1,
-   "title_it": "Risultati del weekend di apertura dei Campionati Nazionali Intermedi",
-   "title_es": "Resultados del fin de semana inaugural de los Campeonatos Nacionales Intermedios"
   },
   {
    "title": "Aaron McKenna set for first World title defence - Northern Sound",
@@ -4028,6 +4015,19 @@
    "sources_n": 10,
    "title_it": "Anthony Joshua rivela il consiglio di Oleksandr Usyk per l'incontro con Tyson Fury",
    "title_es": "Anthony Joshua revela el consejo de Oleksandr Usyk para el combate contra Tyson Fury"
+  },
+  {
+   "title": "How Riley went from KSI's trainer to world-title dream",
+   "link": "https://sports.yahoo.com/articles/riley-went-ksis-trainer-world-073102656.html",
+   "source": "Yahoo Sports Boxing",
+   "lang": "en",
+   "date": "2026-11-13T07:31:02+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 0,
+   "sources_n": 1,
+   "title_it": "Come Riley è passato dall'essere l'allenatore di KSI al sognare il titolo mondiale",
+   "title_es": "Cómo Riley pasó de ser el entrenador de KSI a soñar con un título mundial"
   }
  ]
 }
