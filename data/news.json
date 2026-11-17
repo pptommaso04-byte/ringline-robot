@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T01:26:56+00:00",
+ "updated": "2026-11-17T01:31:41+00:00",
  "feeds_ok": 47,
  "feeds_failed": 6,
  "news": [
@@ -11,8 +11,8 @@
    "date": "2026-11-17T00:59:51+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 69,
-   "sources_n": 3,
+   "score": 79,
+   "sources_n": 4,
    "title_it": "L'ex campione del mondo WBA di boxe Jorge Linares viene arrestato dall'ICE e detenuto in Texas",
    "title_es": "El exboxeador campeón mundial de la WBA, Jorge Linares, es detenido por el ICE y encarcelado en Texas"
   },
@@ -108,6 +108,18 @@
    "title_es": "Ruta hacia los boxeadores profesionales para LA28"
   },
   {
+   "title": "El boxeador venezolano Jorge Linares permanece bajo custodia del ICE en un centro de detención de Texas - El Diario Venezuela",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9xeUJkYXY4T3VNTVFLbjZlcUxmYmNqOHphUlBpajZ3cHI4aDhqWlVMUjlmOEl3S0xfWjBWS3duV01nTHdqbTVtRElSS3BKOWhaYk9yRzZubUUyNllRak9j?oc=5",
+   "source": "Google News: boxeo",
+   "lang": "es",
+   "date": "2026-11-16T23:45:07+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 49,
+   "sources_n": 3,
+   "title_es": "El boxeador venezolano Jorge Linares permanece bajo custodia del ICE en un centro de detención de Texas - El Diario Venezuela"
+  },
+  {
    "title": "Shawn Porter sees only one winner in Ryan Garcia vs Floyd Mayweather fight",
    "link": "https://boxingnewsonline.net/news/porter-predicts-garcia-vs-mayweather/",
    "source": "Boxing News (UK)",
@@ -116,7 +128,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 92,
-   "sources_n": 6,
+   "sources_n": 8,
    "title_it": "Shawn Porter vede solo un vincitore nell'incontro tra Ryan Garcia e Floyd Mayweather",
    "title_es": "Shawn Porter solo ve a un ganador en el combate entre Ryan García y Floyd Mayweather"
   },
@@ -143,8 +155,8 @@
    "date": "2026-11-16T22:15:05+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 58,
-   "sources_n": 2,
+   "score": 68,
+   "sources_n": 3,
    "title_it": "Il presidente della WBA, Gilberto J. Mendoza, ha confermato che l'ex campione del mondo in 3 categorie, Jorge Linares, è attualmente detenuto dall'ICE.",
    "title_es": "El presidente de la AMB, Gilberto J. Mendoza, ha confirmado que el excampeón mundial de 3 categorías Jorge Linares se encuentra actualmente bajo custodia del ICE."
   },
@@ -157,7 +169,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 131,
-   "sources_n": 5,
+   "sources_n": 6,
    "title_it": "La WBA ha comunicato a tutte le parti interessate, incluso il detentore secondario del titolo Jack Catterall, che Teofimo Lopez ha il diritto di richiedere un permesso speciale per affrontare Ryan Garcia in un incontro di unificazione dei titoli WBA e WBC dei pesi welter, previsto per il 6 febbraio e trasmesso in diretta su DAZN [Ring Magazine]",
    "title_es": "La WBA ha notificado a todas las partes pertinentes, incluido el titular secundario del cinturón, Jack Catterall, que Teófimo López tiene derecho a solicitar un permiso especial para enfrentarse a Ryan García en un combate de unificación de los títulos del peso wélter de la WBA y del WBC previsto para el 6 de febrero, que se retransmitirá en directo en DAZN [Ring Magazine]."
   },
@@ -175,17 +187,16 @@
    "title_es": "El campeón en dos categorías afirma que estaba entrenando para enfrentarse a Manny Pacquiao antes del cambio de última hora: «Siempre estoy preparado»."
   },
   {
-   "title": "Fase Finali Campionati Italiani Elite 2026 - A Cuneo presentazione degli Assoluti M/F 2026 - FPI",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPM3RBczVCU1ZZRU9SN3UzTGVGTkVVUzFZaUdxYWhfUzhjdEUxdmZQTmkzcnlDcWdvcllWTlFJMmVtdDBNdzU5Q1Myc1U0N3RtR3p5RFgwQkpORlVPVUQ1MjJ6VDhLaDJnV3FIVEU2VEhuWmljbndXLTh2dlU2bkdHSXBYMVpFSVY4a2QtT2UteE95c2diQ0xHZENyZFlQYndVa0thRmpnZjFVb1gweFdWNWx6N1lhWnYxTGtqSld3d3hlT3podEozY3l0dC1rYlVR?oc=5",
-   "source": "Google News: pugilato",
-   "lang": "it",
-   "date": "2026-11-16T20:41:06+00:00",
+   "title": "Excampeón mundial de boxeo Jorge Linares está bajo custodia de ICE en El Paso - Telemundo El Paso",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSzBrLXNxQnRJMkhoZnNLVFUweWFOZU9aa3VhREpuSURaWFBlT3dXOVBNZEw5eTVKbTR2RVh6LXJNRW1tMkV3WUV4VkZsdlZQaGlWUG5RbVdHazB1WU9vMVBLQlhncHZMbXhPdHdxSjJBTzZLd2hoX0NMeWhaaWJzUmJPaUtXTXpKZEtIaXZVRnprdnVYc0EtdWZ1ZGgyUXFXb0lISDZuRHJwN1Mz0gG0AUFVX3lxTE4tbV9XZVcxZU01WHNQLTJYTHJvcXV0a2N5S09RSTNZQVJ3Y0ZCNUlFQ1kwMjBvOXRyMW8wQ2VwbE9BZTRlTEtodjJRTEVmd1JMUFlCUll4cXFtcjBWQTFWejlwY1FvWFhNNEUwckVLU0M5S1BZeHZlMld0aEZlY0g0UzZSYVNtRkdVLU40Qnk2bGhrOUZaMWluU3BTRUZ2UzhVSE9LWFFkalAySHJjSk0zWm9sOA?oc=5",
+   "source": "Google News: boxeo",
+   "lang": "es",
+   "date": "2026-11-16T20:36:36+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 27,
-   "sources_n": 1,
-   "title_it": "Fase Finali Campionati Italiani Elite 2026 - A Cuneo presentazione degli Assoluti M/F 2026 - FPI",
-   "title_es": "Fase final de los Campeonatos de Italia Élite 2026 - Presentación en Cúneo de los Campeonatos Absolutos M/F 2026 - FPI"
+   "score": 47,
+   "sources_n": 3,
+   "title_es": "Excampeón mundial de boxeo Jorge Linares está bajo custodia de ICE en El Paso - Telemundo El Paso"
   },
   {
    "title": "One is fighting to establish his reign. The other is determined to protect hers.",
@@ -208,23 +219,10 @@
    "date": "2026-11-16T20:33:12+00:00",
    "status": "rumor",
    "boxers": [],
-   "score": 82,
-   "sources_n": 2,
+   "score": 92,
+   "sources_n": 3,
    "title_it": "Chris Eubank Jr in trattativa per affrontare Kell Brook nel primo incontro dopo la sconfitta contro Conor Benn, con \"Special K\" che tornerà sul ring dopo il ritiro",
    "title_es": "Chris Eubank Jr. está negociando para enfrentarse a Kell Brook en su primer combate desde la derrota ante Conor Benn, con «Special K» saliendo de su retirada."
-  },
-  {
-   "title": "L’angolo del Presidente e Boxe Ring Live: Flavio D’Ambrosi e Francesco De Rosa aprono il sipario sul pugilato italiano - Sportface.it",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQaThtVnI2dXdVSHMwOFU2cmJYSDUzeWNqbXk1SkdwUnFoMGppTmJRMUIxNDd6eGh1c3A1OGNHcDY2SUwxZmduMS10VUJjSE84bFVVa3MtaTk5eGNVMmdzMjBYYzhBbkFXVG1kbkdqQ2xUclpsUnlDUEllNEZVUnlmNS1tWXlpck1yWEFESTNVamRHdElSbVVJbVhVaG9YSHBReXg2VmdScFdBclU3NW9sRTczYm10U25sUXJwMEdTYzM5S3l2SjdacXdyX1hjSUZlYWdjeGpwZ2hDRkUyMWZEQy1QcHFoOXlsbnRYakR3?oc=5",
-   "source": "Google News: pugilato",
-   "lang": "it",
-   "date": "2026-11-16T20:30:05+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 27,
-   "sources_n": 1,
-   "title_it": "L’angolo del Presidente e Boxe Ring Live: Flavio D’Ambrosi e Francesco De Rosa aprono il sipario sul pugilato italiano - Sportface.it",
-   "title_es": "L’angolo del Presidente e Boxe Ring Live: Flavio D’Ambrosi e Francesco De Rosa aprono il sipario sul pugilato italiano - Sportface.it"
   },
   {
    "title": "Lauren Price vs Michaela Kotaskova: Prediction and fight card for November 20",
@@ -260,23 +258,22 @@
    "date": "2026-11-16T19:38:07+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 35,
-   "sources_n": 1,
+   "score": 45,
+   "sources_n": 2,
    "title_it": "Tony Yoka TORNA in un INCONTRO duro e combattuto 💥 Yoka vs Dovbyshchenko INCONTRO COMPLETO",
    "title_es": "Tony Yoka REGRESA en un COMBATE de golpes contundentes 💥 Yoka vs. Dovbyshchenko: EL COMBATE COMPLETO"
   },
   {
-   "title": "Salerno, il pugile Francesco De Rosa premiato dall’associazione Torrione Eventi - SalernoToday",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWkFZQVZDWld2YUhhUFRjS1hnRnhBZXB3ZmUyTFFyOWlDUnJxX3JaSDNzUnhxSngtREFQcm9zT2xCbWFFS0V1dS1fQ0tVN2pDcndOa2d4dXp4Wms5aXpZTnlmdkxRbGpyS3Zudi1GU3B6bURsV0tIUmNmc2lDZU5vdDI3Z25YR3dzWnc?oc=5",
-   "source": "Google News: pugilato",
-   "lang": "it",
-   "date": "2026-11-16T19:35:08+00:00",
+   "title": "Jorge Linares, excampeón mundial de boxeo venezolano, figura bajo custodia del ICE en Estados Unidos - Primera Edición Col",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTTdqUTF5S2UyUXJ3WmZmaS1kUEVOYVVhTWk1SGxJNjBQTDUtOUlNY3R4dWRSdS0ySTJjQ2ItV2pxOXBpNTlBby1Da3Uzak1vQk1TLVdxSXByR1FIUVZQRGs0R1NpcEtpeDVoMHdsMmpFNllYWndSaGV0YU56VkREVnh5S3VJbFcwY1NmRmhBN1FEeUZNTE83ZUpaV2Job2pydlpYSnBXNXlyc2F2cEFwRnE3dDQtSTRWV2hvMXVHWEkyaDJWdmJleA?oc=5",
+   "source": "Google News: boxeo",
+   "lang": "es",
+   "date": "2026-11-16T19:29:30+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 27,
-   "sources_n": 1,
-   "title_it": "Salerno, il pugile Francesco De Rosa premiato dall’associazione Torrione Eventi - SalernoToday",
-   "title_es": "Salerno, el boxeador Francesco De Rosa premiado por la asociación Torrione Eventi - SalernoToday"
+   "score": 46,
+   "sources_n": 3,
+   "title_es": "Jorge Linares, excampeón mundial de boxeo venezolano, figura bajo custodia del ICE en Estados Unidos - Primera Edición Col"
   },
   {
    "title": "‘That’s when I know the fight is mine’: Keith Thurman discusses his approach to fighting Vergil Ortiz",
@@ -514,7 +511,7 @@
     "Tyson Fury"
    ],
    "score": 90,
-   "sources_n": 11,
+   "sources_n": 10,
    "title_it": "Eddie Hearn PARLA ONESTAMENTE del litigio con Dana White, di Boots vs Canelo, Fury vs AJ | Podcast di Mr Verzace | EP. 43",
    "title_es": "Eddie Hearn HABLA SIN TAPUJOS sobre su disputa con Dana White, Boots vs. Canelo, Fury vs. AJ | Podcast de Mr. Verzace | EP. 43"
   },
@@ -572,32 +569,6 @@
    "sources_n": 10,
    "title_it": "Anthony Joshua evidenzia una palese debolezza nel curriculum di Tyson Fury",
    "title_es": "Anthony Joshua señala una debilidad evidente en el palmarés de Tyson Fury"
-  },
-  {
-   "title": "Marco Bocci: \"Il pugilato è il mio allenamento e ho corda e scarpe da running sempre in valigia\" - La Gazzetta dello Sport",
-   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSUR3a21jWjlZY3VxN0RFaU93YlNPYVpFb3ZqcDA5UFF5eVNaUE1kZ0JfM3c4a2U0M25ITHNoalFUZXRCcHc5RmZOaHJFX1ZWaWxleWxPbnYwVFJGZDh4SFNUOU5GeEZzQS03eWZHQ1V0cFh3MnRBczJaVncxY3JXc3JFb0lsbFBVSmZSNjdHYnlRazl1bHlFMWV5UmxJZFhkZTNleHg5MkhKUkdGX1JaOXBDdVgxSE1JRV9fdVUtYUhJaGNTUFFoeTJ4R1BTcXFHb0ZvWTQ2SDNqRGU2d3dHYU9wZDlmS3JIZUVFS2Q3TnBadlg2a1BFVtIBvgFBVV95cUxOQXRBajVPR0xsSEFzaUU3dXkydjgzWS16RmluUnhOaDJMWmROaVRnaGRRS2lOV0d5eE1pdkJJNUxKSVp6TFdCaktpZHhXNl9fVlNhTnMzcXdqWnZMUjJxc2M4dndWQzRXZ3Nfb1RkQldnRlp2UGFZOFhuZlYyWGF4OFZfX0NFWU50YU5FM1kyWWx2WWFXRXg2U0xNeVdFbXI4azl3SWdCNldiRFBEUG5jZGRjRUotTS13Vmg2ZUpn?oc=5",
-   "source": "Google News: pugilato",
-   "lang": "it",
-   "date": "2026-11-16T16:06:00+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 25,
-   "sources_n": 1,
-   "title_it": "Marco Bocci: \"Il pugilato è il mio allenamento e ho corda e scarpe da running sempre in valigia\" - La Gazzetta dello Sport",
-   "title_es": "Marco Bocci: «El boxeo es mi entrenamiento y siempre llevo cuerda y zapatillas de running en la maleta» - La Gazzetta dello Sport"
-  },
-  {
-   "title": "Nino Greco in finale di Coppa Piemonte - Il Biellese",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNlNDWVB5ODdQUVpTU2RpeXV1TUNRdVlpNll0MFE3SWVLd2tXTmdCUWNCQ1dGWjJtVnZBN3R4WnhYbjNra25DZmJRREJMUXBjSDhrVnQ1VzFXdEFnRVlOTE41cjFpSUxvRktleWJaUVM1dzhIRWpvOXZXS25WangwRFItTTkzSGk5anFRYS16M2NEaDU4b3hod2lELWVOd2dWbzcwLXFn?oc=5",
-   "source": "Google News: pugilato",
-   "lang": "it",
-   "date": "2026-11-16T16:01:49+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 25,
-   "sources_n": 1,
-   "title_it": "Nino Greco in finale di Coppa Piemonte - Il Biellese",
-   "title_es": "Nino Greco en la final de la Copa Piamonte - Il Biellese"
   },
   {
    "title": "Josh Kelly vs. Boots Ennis will present a whole new challenge for BOTH fighters 👀",
@@ -659,8 +630,8 @@
    "date": "2026-11-16T15:34:34+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 45,
-   "sources_n": 3,
+   "score": 55,
+   "sources_n": 4,
    "title_it": "Rispetto a Floyd Mayweather nel pugilato, Blinded nel pugilato a mani nude",
    "title_es": "Comparado con Floyd Mayweather en el boxeo, cegado en el boxeo a puño limpio"
   },
@@ -701,22 +672,9 @@
    "status": "unverified",
    "boxers": [],
    "score": 54,
-   "sources_n": 5,
+   "sources_n": 4,
    "title_it": "Confronto tra Teremoana e Hemi Ahio alla conferenza stampa",
    "title_es": "Enfrentamiento entre Teremoana y Hemi Ahio en la rueda de prensa"
-  },
-  {
-   "title": "A year of Zuffa Boxing: what Dana White’s boxing has changed",
-   "link": "https://britishboxingnews.co.uk/blogs/a-year-of-zuffa-boxing-what-dana-whites-boxing-has-changed/",
-   "source": "British Boxing News",
-   "lang": "en",
-   "date": "2026-11-16T14:49:45+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 54,
-   "sources_n": 12,
-   "title_it": "Un anno di Zuffa Boxing: cosa è cambiato nel pugilato di Dana White",
-   "title_es": "Un año de Zuffa Boxing: lo que ha cambiado el boxeo de Dana White"
   },
   {
    "title": "Top trainer Adam Booth sums up Anthony Joshua’s chances of beating Tyson Fury to become champion again",
@@ -764,45 +722,6 @@
    "title_es": "¿Puede Eddie Hearn tener en cuenta los intereses de ambos púgiles cuando se enfrenten entre sí? 👀"
   },
   {
-   "title": "Calendario NAZIONALE Pugilato Olimpico 2027 - FPI",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTmpIRGd0XzMtbmhlTEZ0NmFCdHV5elVpZlVOSGxabkdYLXBMcmlVNGdlU0lLOEtsVXVOamdhYjQ4VklEQU45Wlp6TzVCYWJHQ2RYNE5tX0VZdTFrOXpSNjY1b3J1OFhxYXRlZFo1X1RDNkdiUWtadTBNbXg4cmJvMGJ0eVNwaDZpRWJmelM4eWU0dFRo?oc=5",
-   "source": "Google News: pugilato",
-   "lang": "it",
-   "date": "2026-11-16T14:11:36+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 24,
-   "sources_n": 1,
-   "title_it": "Calendario NAZIONALE Pugilato Olimpico 2027 - FPI",
-   "title_es": "Calendario NACIONAL de Boxeo Olímpico 2027 - FPI"
-  },
-  {
-   "title": "mappa - Regione Friuli Venezia Giulia",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPUWxEa0lzY3VFaG5kQUVYZmJGRnpkSTJ3YkRHREk4NGI2R0RlMlN2NENKNGwxZUNPNlE5Z2poQ0RWNFJNUUZYN25fQVNrWDVjM2E3NXB3LUlRZkxJQUxyWnhtMHlCM2FBMVVpNXJRbXo1M2xqRllSWWFQc1VPYzZkQVlNaDFCWjBKWXg5WUtaYmxlN1hGUllqM3I0NEVVN3dfVzRHNF8wTWpHcEczUW5pSXFWT2lsVUE2VHc3WGhaXzJtbkl0RnozdjJpR0VfYzlicmlaaVFWTExZYmdwemMybWJFMEFodw?oc=5",
-   "source": "Google News: pugilato",
-   "lang": "it",
-   "date": "2026-11-16T14:01:00+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 24,
-   "sources_n": 1,
-   "title_it": "mappa - Regione Friuli Venezia Giulia",
-   "title_es": "Región de Friul-Venecia Julia"
-  },
-  {
-   "title": "BOXE : LA NOBLE ART LUCANA PUGILATO FEMMINILE IN BASILICATA AI VERTICI NAZIONALI CAMPIONATI ITALIANI “UNDER 15” - Le Cronache Lucane",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPRGczOTc2MzE4cVo2ZFFNek9oaHFfQzhaZGZjYTJvRkpzSFNveUNsZkN2bXFqeTBESFBNUWRuNVRwMFdUeFR4czRSbkI2T0VTTTM4Vm1pd3lXby1vRlVQQ3F0Y0xmMnE2V2ZZZmtsNTBaSHpFZHdMUDd4UEIwZmtwM2ZWVVJqNlJaSndPQUY0Ym1JOUl1VXUtN2FXd1JnWVAyV240amYyUXd4WUpqXzNwMnFpWFktdmtSRTNZeEhFbzNxaG44M3ladUxpTHQ0QlIyTVl2NnRvaG0tdnBlNm5ITDFrSENKQQ?oc=5",
-   "source": "Google News: pugilato",
-   "lang": "it",
-   "date": "2026-11-16T13:29:46+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 24,
-   "sources_n": 1,
-   "title_it": "BOXE : LA NOBLE ART LUCANA PUGILATO FEMMINILE IN BASILICATA AI VERTICI NAZIONALI CAMPIONATI ITALIANI “UNDER 15” - Le Cronache Lucane",
-   "title_es": "BOXEO: EL NOBLE ARTE LUCANO BOXEO FEMENINO EN BASILICATA EN LA CÚSPIDE NACIONAL CAMPEONATOS DE ITALIA «SUB-15» - Le Cronache Lucane"
-  },
-  {
    "title": "Terence Crawford names his 2026 fighter of the year after Ryan Garcia claims he deserves it",
    "link": "https://boxingnewsonline.net/news/crawford-names-his-2026-fighter-of-year/",
    "source": "Boxing News (UK)",
@@ -811,7 +730,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 98,
-   "sources_n": 4,
+   "sources_n": 5,
    "title_it": "Terence Crawford nomina il suo pugile dell'anno 2026",
    "title_es": "Terence Crawford nombra a su boxeador del año 2026"
   },
@@ -917,7 +836,7 @@
     "Naoya Inoue",
     "Oleksandr Usyk"
    ],
-   "score": 78,
+   "score": 77,
    "sources_n": 1,
    "title_it": "Inoue-Rodriguez, Usyk-Benavidez e la grande ripresa della boxe",
    "title_es": "Inoue-Rodríguez, Usyk-Benavidez y la gran remontada del boxeo"
@@ -959,22 +878,9 @@
    "status": "unverified",
    "boxers": [],
    "score": 97,
-   "sources_n": 5,
+   "sources_n": 6,
    "title_it": "Jack Catterall critica Teofimo Lopez, definendolo \"imbarazzante\", mentre cerca di ottenere l'incontro con Ryan Garcia",
    "title_es": "Jack Catterall critica a Teófimo López por su «vergonzoso» comportamiento mientras intenta conseguir un combate con Ryan García"
-  },
-  {
-   "title": "Riley outpoints Coupe to retain his European title and demands an IBF world title fight",
-   "link": "https://britishboxingnews.co.uk/news/riley-outpoints-coupe-to-retain-his-european-title-and-demands-an-ibf-world-title-fight/",
-   "source": "British Boxing News",
-   "lang": "en",
-   "date": "2026-11-16T10:28:08+00:00",
-   "status": "confirmed",
-   "boxers": [],
-   "score": 80,
-   "sources_n": 4,
-   "title_it": "Riley batte Coupe ai punti e mantiene il titolo europeo, chiedendo un incontro per il titolo mondiale IBF",
-   "title_es": "Riley vence a Coupe a los puntos y retiene su título europeo, y exige un combate por el título mundial de la IBF."
   },
   {
    "title": "Lauren Price and the three fights that could take women’s boxing to a new level in 2027",
@@ -1006,71 +912,6 @@
    "title_es": "Tim Bradley solo ve a un ganador en el combate entre Tyson Fury y Anthony Joshua: «Se lo va a comer»."
   },
   {
-   "title": "Clemente Russo tra boxe e moto: lo Scarabeo, la Buell e il ritorno sul ring [VIDEO] - Moto.it",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdGpkNEpGaDFicUlmZHFPaHhXZS1ERWlBMEJ3RzN6a2hxWVhzeVRna0p1cUo4X19JYUNsemdKX3dhbldPQ21WQl9URWJOdE1fR3F3RmwxbkRUeXFkZzg3aGthM3lMdmd0VnBmNGhhQlNoLVZuQ1dXMFc1bXFxc1Z6MjVNZFFELVg2OUJxRmROemJTNGllTTNONFJMZ3JZbTFiLWQ4NTctSC1XRVBualE?oc=5",
-   "source": "Google News: pugilato",
-   "lang": "it",
-   "date": "2026-11-16T09:45:44+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 12,
-   "sources_n": 1,
-   "title_it": "Clemente Russo tra boxe e moto: lo Scarabeo, la Buell e il ritorno sul ring [VIDEO] - Moto.it",
-   "title_es": "Clemente Russo entre el boxeo y las motos: la Scarabeo, la Buell y el regreso al ring [VÍDEO] - Moto.it"
-  },
-  {
-   "title": "Manerbio, il 21 novembre arriva il Primo Trofeo Città di Manerbio: una serata dedicata alla boxe - Radio Bruno Brescia",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRkJCTnRHb0xESkpvcUR0bldjUFFKY0IzdmlQbUl0SERhT0lkUTdIdnByWUQtT3NBeHNwTHB2SDNwQ1d1RWZaWm5ZZmtwWDd3b1RrOGg5N0hod2lObURreG9lTnFOR0ZDMDROLVZGcUNqR1FyMlRJUTFWamRnRkpyS0c3Q0pFZERsWHJrMFNvY1A3bC0yeV8wbUdwSVlyckI2ZXc0TTVneXBVVjJucHBXbWxBei1rNFBQQ0Qzd3pjUGxXSTVMZEwydS1FaTNZUjJGMV8wYzdPdnc4ZUlmZVo3TmtFRXY5N0JISmc?oc=5",
-   "source": "Google News: pugilato",
-   "lang": "it",
-   "date": "2026-11-16T09:40:36+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 22,
-   "sources_n": 1,
-   "title_it": "Manerbio, il 21 novembre arriva il Primo Trofeo Città di Manerbio: una serata dedicata alla boxe - Radio Bruno Brescia",
-   "title_es": "Manerbio, el 21 de noviembre llega el Primer Trofeo Ciudad de Manerbio: una velada dedicada al boxeo - Radio Bruno Brescia"
-  },
-  {
-   "title": "Two former British champions win their BKB bouts",
-   "link": "https://britishboxingnews.co.uk/news/two-british-champions-win-bkb-fights/",
-   "source": "British Boxing News",
-   "lang": "en",
-   "date": "2026-11-16T09:32:08+00:00",
-   "status": "confirmed",
-   "boxers": [],
-   "score": 30,
-   "sources_n": 1,
-   "title_it": "Due ex campioni britannici vincono i loro incontri di BKB",
-   "title_es": "Dos ex campeones británicos ganan sus combates de BKB"
-  },
-  {
-   "title": "EURO U23 BOXING CHAMPIONSHIPS POREC 2026 - MATCH DAY 1 | 16/11 - INFO MATCH ITABOXING - FPI",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxON0kxZW5ULWZLdGoxdF93N2hNN3hqbDFNaEdxVlFhUGRKOFJWalp5V1ZwYkEzM1EySTJlNWozeVhRUkNuZkhFYTRtWUYtaFYtWHkwM1FURGczR0hfRjF5S3V1Z0tpUUhsaWxnTndUcmdVYmRsMFI5c3RMMFJVZFJrSzYxVDdJUzg4T2lYVVotX2tZQTBTS1FQRHlVd0RNaGZzbkFQWUtKbXp1ekpMZk5yVVdmZENrMzQzZEVr?oc=5",
-   "source": "Google News: pugilato",
-   "lang": "it",
-   "date": "2026-11-16T09:24:00+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 21,
-   "sources_n": 1,
-   "title_it": "EURO U23 BOXING CHAMPIONSHIPS POREC 2026 - MATCH DAY 1 | 16/11 - INFO MATCH ITABOXING - FPI",
-   "title_es": "CAMPEONATO DE EUROPA DE BOXEO SUB-23 POREČ 2026 - JORNADA 1 | 16/11 - INFORMACIÓN DEL COMBATE ITABOXING - FPI"
-  },
-  {
-   "title": "Lorenzo De Pasquale e Alex Fiorentino protagonisti in Toscana alla fase interregionale dei Campionati italiani di boxe - AnconaToday",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTHVTLWtIaW10MGFOcU5jQzFEVzhIc2pBd1RmajIwUFJQQnNPQ0RaWjBnSlVIaWl5b1pob0Y4a2I5QWtzX3h3UVNZc2V1RDk3T0JVN2dHV3pTMy1fbmFfSTMweE9MWVg1cVdha1g5VDJQRy0zWGdzSlp3VHFhZVRtN3pZVlZNV2dxb2dqdkxMREZhT21vUkF4Mng4TWtyOHJJSExFSF9wMUo1ZVhpS3VSZWJXRQ?oc=5",
-   "source": "Google News: pugilato",
-   "lang": "it",
-   "date": "2026-11-16T09:12:00+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 21,
-   "sources_n": 1,
-   "title_it": "Lorenzo De Pasquale e Alex Fiorentino protagonisti in Toscana alla fase interregionale dei Campionati italiani di boxe - AnconaToday",
-   "title_es": "Lorenzo De Pasquale y Alex Fiorentino, protagonistas en Toscana de la fase interregional de los Campeonatos de Italia de Boxeo - AnconaToday"
-  },
-  {
    "title": "Tyson Fury vs Anthony Joshua tickets for £315pp with free beers included in VIP fight night hospitality offer",
    "link": "https://www.thesun.co.uk/sport/40656203/tyson-fury-anthony-joshua-tickets-vip-hospitality-cardiff/",
    "source": "The Sun Boxing",
@@ -1085,45 +926,6 @@
    "sources_n": 10,
    "title_it": "Biglietti per Tyson Fury vs Anthony Joshua a 315 £ a persona con birre gratuite incluse nell'offerta di ospitalità VIP per la serata del combattimento",
    "title_es": "Entradas para Tyson Fury vs. Anthony Joshua por 315 £ por persona con cervezas gratis incluidas en la oferta de atención VIP para la noche del combate"
-  },
-  {
-   "title": "Heavyweights Teremoana Teremoana and Hemi Ahio preview their November 18 fight",
-   "link": "https://britishboxingnews.co.uk/news/teremoana-and-hemi-ahio-preview-fight/",
-   "source": "British Boxing News",
-   "lang": "en",
-   "date": "2026-11-16T08:58:16+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 61,
-   "sources_n": 4,
-   "title_it": "I pesi massimi Teremoana Teremoana e Hemi Ahio presentano il loro incontro dell'18 novembre",
-   "title_es": "Los pesos pesados Teremoana Teremoana y Hemi Ahio presentan su combate del 18 de noviembre"
-  },
-  {
-   "title": "Cus Molise, a Roma la squadra di Gym Boxe e Settore Giovanile ottiene buoni risultati nella \"Cintura d’Italia\" - Informamolise",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPd3NYeU1YNDlEdUJEVHQ4X2g1TVhlYW02dWpTSDUzMHhqendESE1maEpVRmJnSk1QQ2poTzd1Xy1LMXlCczZKSWtjZlBTcFdON1NGYWZvU3A4M2lYODFmMHQ2dGJWZWRpaFpkOUwtYTVjX1BzVWNzemtmTjVqazZMY1dLOVJqeV9KMnNOXzFEdkFmbjFHQ2ZMS08zSHc5a08yZkdGY1BLaU9IY1lNNVR5QmJNR2dPM3JlMmZtanA2QVNTeTc0S3ZSNnUzMVl3QQ?oc=5",
-   "source": "Google News: pugilato",
-   "lang": "it",
-   "date": "2026-11-16T08:50:04+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 31,
-   "sources_n": 2,
-   "title_it": "Cus Molise, a Roma la squadra di Gym Boxe e Settore Giovanile ottiene buoni risultati nella \"Cintura d’Italia\" - Informamolise",
-   "title_es": "Cus Molise: en Roma, el equipo de Gym Boxe y el Sector Juvenil obtienen buenos resultados en la «Cintura d’Italia» - Informamolise"
-  },
-  {
-   "title": "Cesare Costa della Scuola Kokorozashi sul tetto d'Italia nella chess boxing - Citysport",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTGNBNWJrSWdraWJYZUtNVFJuLWJPYXJjVmlQTDQxdTFPcmV0WU90eUtZYTN6TXRhLUFxUTBIekdDd0I1Mml4OXVjT2N4Z043eVZ5WlpWdzMxc1NvUVhuYUtOVGEzVEUxSFVqZGVFbVFHczJ3TjVxdElhMksxYUpOR2VyQUR3UWQyMG1qdERTZkx1azRtdm8zUGpodDRCM1VuNVp5Y3RFcTZ1cDBHWHppQS1PT1gybWJ4OGRzQUZ1MElFUkl2XzdKaHZ6Z1labWxKMDVIQ0pzRUh1Zw?oc=5",
-   "source": "Google News: pugilato",
-   "lang": "it",
-   "date": "2026-11-16T08:31:30+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 21,
-   "sources_n": 1,
-   "title_it": "Cesare Costa della Scuola Kokorozashi sul tetto d'Italia nella chess boxing - Citysport",
-   "title_es": "Cesare Costa de la Escuela Kokorozashi en la cima de Italia en el ajedrez-boxeo - Citysport"
   },
   {
    "title": "Boxing Results: July | August 2026",
@@ -1146,23 +948,10 @@
    "date": "2026-11-16T08:26:12-05:00",
    "status": "unverified",
    "boxers": [],
-   "score": 24,
+   "score": 23,
    "sources_n": 1,
    "title_it": "\"La categoria 160 libbre è il prossimo passo\": Xander Zayas conferma il passaggio ai pesi medi",
    "title_es": "«El siguiente paso es el peso medio (160 libras)»: Xander Zayas confirma su paso al peso medio"
-  },
-  {
-   "title": "Ottant’anni sul ring: pugni, cuore e gloria - La Provincia di Cremona",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLW9HRHFFYzdkeEVVS0g5Z3RKYnZkdTc4dkh1V0ZLNVJObjk3dnBZRTFDUG04ZnA2c2pQR19jbkdpSi1kTGcyVWlwOVQzV2pFV0NqSFlwU2E0d0VGQ2RyN2NRTV9La19RMVA3bjJTYVVnUXVKN3U2YUtKWXlqdElCSjFTcWhaQ0NlOFN4bDd6cGJmU1hRYWZJ?oc=5",
-   "source": "Google News: pugilato",
-   "lang": "it",
-   "date": "2026-11-16T08:06:36+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 21,
-   "sources_n": 1,
-   "title_it": "Ottant’anni sul ring: pugni, cuore e gloria - La Provincia di Cremona",
-   "title_es": "Ottant'anni sul ring: pugni, cuore e gloria - La Provincia di Cremona"
   },
   {
    "title": "Tyson Fury blames Anthony Joshua for mega-fight delay",
@@ -1220,19 +1009,6 @@
    "title_es": "¿El Kronk de Cardiff? El gimnasio donde entrenan los campeones galeses"
   },
   {
-   "title": "Gym Boxe: Ardita over the top a Roma - Liguriasport",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWkZZbW5sdjlrNHNFbWY1aDhLb2pPTVBoODV6bXkwYk9LSXZ2QzVKSjl0NDJCbGRpMjgtQmxXVDZ1X0ZGcmRYaUlWdlJIa2NxX3M2aVFLUnpuTk9ZaHJlVi1jYnU5Q0VGOWxfVGRTbTh1c1UtZTM1RkFGVWNCd2hzUVJR?oc=5",
-   "source": "Google News: pugilato",
-   "lang": "it",
-   "date": "2026-11-16T05:09:52+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 19,
-   "sources_n": 1,
-   "title_it": "Gym Boxe: Ardita over the top a Roma - Liguriasport",
-   "title_es": "Gym Boxe: Ardita se supera en Roma - Liguriasport"
-  },
-  {
    "title": "Daily Discussion Thread (November 16th, 2026)",
    "link": "https://www.reddit.com/r/Boxing/comments/1xxgqn5/daily_discussion_thread_november_16th_2026/",
    "source": "Reddit r/Boxing",
@@ -1253,8 +1029,8 @@
    "date": "2026-11-16T04:27:54+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 49,
-   "sources_n": 4,
+   "score": 39,
+   "sources_n": 3,
    "title_it": "Teremona Teremona e Hemi Ahio si affrontano a Melbourne 👀",
    "title_es": "Teremona Teremona y Hemi Ahio se enfrentan en Melbourne 👀"
   },
@@ -1293,7 +1069,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 49,
-   "sources_n": 5,
+   "sources_n": 4,
    "title_it": "Conferenza stampa Teremoana Teremoana vs Hemi Ahio | Matchroom Boxing",
    "title_es": "Rueda de prensa de Teremoana Teremoana contra Hemi Ahio | Matchroom Boxing"
   },
@@ -1392,6 +1168,18 @@
    "title_es": "2 minutos de Boots Ennis y Josh Kelly hablando entre sí durante su enfrentamiento. ¡Espere fuegos artificiales el 27 de febrero!"
   },
   {
+   "title": "¡Nuevo rival! Canelo tendría en la mira a campeón británico - Soy Referee",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORUQ3MTlpbm1qZlJyTWIxOEFZaDd4VTM3dmhxS2F6TUR1eEtWWDdlUzF1eEFDQkpzYmc1QzF4Y0dteXBtVTFoTERjeVRuY1dlRXVUSzJURW1TcVNHLUtKUU1fcW41eDdyQnk5ZUN6VEpPQ0RwRDdIQ0pBX0doc2NSM1hFQVpUNHZkVFRleXlsZU9LSDFvanVoZk01NlhYUFZwTUtNR1I0RHNfSWRjajJzVw?oc=5",
+   "source": "Google News: boxeo",
+   "lang": "es",
+   "date": "2026-11-15T21:45:00+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 41,
+   "sources_n": 1,
+   "title_es": "¡Nuevo rival! Canelo tendría en la mira a campeón británico - Soy Referee"
+  },
+  {
    "title": "Malik Scott Sees a Wilder Knockout Over Opetaia, Ignoring One Alarming Stat",
    "link": "https://www.boxing247.com/boxing-news/malik-scott-sees-a-wilder-knockout-over-opetaia-ignoring-one-alarming-stat/311354",
    "source": "East Side Boxing",
@@ -1444,19 +1232,6 @@
    "title_es": "Catterall sigue esperando el combate por el título, ya que la WBA rechaza el recurso de su rival - Lancashire Evening Post"
   },
   {
-   "title": "Pugilato, la licatese Gloria Peritone si conferma campionessa europea EBU dei pesi gallo - GrandangoloAgrigento",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcEZpV08xQXpwaUxId2VKNHhwMW01Tl9rdmFEMVZqWjBDeEFheXkzRzBBZjNzd3hhcEtzZ1Vob3A0Qm13NEhfWEVoOFVZcThJendoektoZHJYZHpGaDRYSm95bl9Gc1lWcGVJZGd4WlBpVy1famJSLWtrNG9JM2RDODJFSDd4YlR5aFJRbkxmMzZqWUV5a1RvTldEMXhqa1Iwc0lfUlo1cTFmaFFiR0VoajFjbHdORmZoX0hWR09vOHgydS1BbzV5TA?oc=5",
-   "source": "Google News: pugilato",
-   "lang": "it",
-   "date": "2026-11-15T18:18:26+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 14,
-   "sources_n": 1,
-   "title_it": "Pugilato, la licatese Gloria Peritone si conferma campionessa europea EBU dei pesi gallo - GrandangoloAgrigento",
-   "title_es": "Boxeo: Gloria Peritone, de Licata, se confirma como campeona de Europa de peso gallo de la EBU - GrandangoloAgrigento"
-  },
-  {
    "title": "Convicted Con Man, 71, Eyes Oldest Boxer World Record",
    "link": "https://www.worldboxingnews.com/con-man-oldest-boxer-world-record/",
    "source": "World Boxing News",
@@ -1478,7 +1253,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 44,
-   "sources_n": 7,
+   "sources_n": 6,
    "title_it": "Bruno Surace contro Kamil Bednarek: Riyadh Season Zuffa Boxing 13",
    "title_es": "Bruno Surace contra Kamil Bednarek: Riyadh Season Zuffa Boxing 13"
   },
@@ -1503,8 +1278,8 @@
    "date": "2026-11-15T17:39:31+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 22,
-   "sources_n": 2,
+   "score": 32,
+   "sources_n": 3,
    "title_it": "Video: Anthony Olascuaga mantiene il titolo per decisione contro Yuberjen Martinez",
    "title_es": "Vídeo: Anthony Olascuaga retiene el título por decisión frente a Yuberjen Martínez"
   },
@@ -1529,8 +1304,8 @@
    "date": "2026-11-15T17:30:11+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 44,
-   "sources_n": 7,
+   "score": 43,
+   "sources_n": 6,
    "title_it": "Jason Moloney contro Andres Teran: Riyadh Season Zuffa Boxing 13",
    "title_es": "Jason Moloney contra Andrés Terán: Riyadh Season Zuffa Boxing 13"
   },
@@ -1542,8 +1317,8 @@
    "date": "2026-11-15T17:25:19+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 33,
-   "sources_n": 3,
+   "score": 43,
+   "sources_n": 4,
    "title_it": "Floyd Mayweather (49 anni) si allena sulla strada alle 3 del mattino!! Il suo ritorno sul ring è imminente?",
    "title_es": "¡¡Floyd Mayweather (49 años) entrenando en la calle a las 3 de la madrugada!! ¿Se acerca su regreso al ring?"
   },
@@ -1582,9 +1357,21 @@
    "status": "unverified",
    "boxers": [],
    "score": 43,
-   "sources_n": 8,
+   "sources_n": 7,
    "title_it": "Dana White è una bugiarda patologica?",
    "title_es": "¿Es Dana White un mentiroso patológico?"
+  },
+  {
+   "title": "Chávez Jr. cuestiona quién puede tomar el lugar de Canelo Álvarez: “No hay mucha tela de donde cortar” - Infobae",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPV0RuY1F5YngtSVJ0ai1ZOS03eG9uLXRlYkpmWGlpX2REZDNZdmpHUVNWTzZfOEVuWmdxdU5KYlhfazZjTWN0UVM0U0pTS3F5Z3h5WmlKRV9yMUtUY0xfSVNLeXhMMnhwY1JGRGpwMGpPdUpjRXFib1FQRzBaeVd3SDZuSV9uTGlFdmUzX2ljMFVsSEx0UmJPOTJqOUFsbmp2d21STmpYVk9zY0Nral9rUzhGWWJfLUd0VmdXUkhqcVNOY1dvUDdwektYd3c4a0pTNU9HYjNfdG1SNnBuVnlSZ1NXa0fSAf8BQVVfeXFMT0Z5VkllTGYwOEpGVzJ0OXZ6cXU2aXpBOWhrNms3djg3d0VWZ2UxdWNkbk9Cbm5zaVhLLVBzd3hHMVVQLThiall0aXB3UVJfWUZ1dzVuUnVRbWthdWVmNlV3dFpncnhKUUZiUXJZUEZGWGw1R0xSU202c2JieVU4OWp3RFNxWXo5RTBxaXBDb1FxVkdaQ0V4Y2toQ1NVSjFkYlU0emVLNExsZFZYVmI3ZHdXR3NjQ2FvSWNLQ1RNY3ZqV3JYQVBJSE5DVzRrYmZCR0RoY3BjYWlpU2l0Z0tiYkZZbFFHVXlyYmhCVG9OMjBfa0NJd3o4aWlfRzZqX3FF?oc=5",
+   "source": "Google News: boxeo",
+   "lang": "es",
+   "date": "2026-11-15T17:04:00+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 38,
+   "sources_n": 1,
+   "title_es": "Chávez Jr. cuestiona quién puede tomar el lugar de Canelo Álvarez: “No hay mucha tela de donde cortar” - Infobae"
   },
   {
    "title": "Carlos Adames vs. Gerome Warburton: Riyadh Season Zuffa Boxing 13",
@@ -1595,7 +1382,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 43,
-   "sources_n": 8,
+   "sources_n": 7,
    "title_it": "Carlos Adames contro Gerome Warburton: Riyadh Season Zuffa Boxing 13",
    "title_es": "Carlos Adames contra Gerome Warburton: Riyadh Season Zuffa Boxing 13"
   },
@@ -1633,8 +1420,8 @@
    "date": "2026-11-15T15:26:36+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 13,
-   "sources_n": 2,
+   "score": 22,
+   "sources_n": 3,
    "title_it": "Guarda i momenti salienti di Olascuaga-Martinez - DAZN",
    "title_es": "Mira los momentos destacados de Olascuaga vs. Martínez - DAZN"
   },
@@ -1646,8 +1433,8 @@
    "date": "2026-11-15T15:21:17+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 32,
-   "sources_n": 4,
+   "score": 22,
+   "sources_n": 3,
    "title_it": "Teremona Teremona contro Hemi Ahio pesa | Boxe da incontro",
    "title_es": "Teremona Teremona vs Hemi Ahio pesan | Boxeo en la sala de partidos"
   },
@@ -1712,7 +1499,7 @@
    "status": "confirmed",
    "boxers": [],
    "score": 50,
-   "sources_n": 6,
+   "sources_n": 5,
    "title_it": "Viddal Riley batte Seydi Coupe mentre Sauerland chiede un incontro per il titolo mondiale - Dave.Sport",
    "title_es": "Viddal Riley vence a Seydi Coupe mientras Sauerland exige una oportunidad por el título mundial - Dave.Sport"
   },
@@ -1743,6 +1530,18 @@
    "title_es": "El equipo de Viddal Riley está preparado para una batalla legal con el fin de garantizar que consiga una oportunidad por el título mundial del peso crucero tras dominar el panorama nacional."
   },
   {
+   "title": "Con nueve pugilistas, México subirá al cuadrilátero del Campeonato Mundial de Boxeo Sub-19 en Montenegro - Gob MX",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxObmhFenl1aXFEUjUyTi11SEhuM0l6X2tBdnFMZ3pLeUthdGRVTlp4bDE1d3lBMHJzdUxZcjBYaE1LaTdMbjdMRV94UGNrRU90TUJGSEFLWU5HMDRucEpyeTNvQ0tBdVdxMGJaZ1FpRUxsNDZmUENHZms5ek9NTkpBVVhjYW1HaVdGM2UxbVU0eWZxWFI5c255VzRURng0UXhtWnNaZ2Z0VjJIeGtFTHFnTVBMQm9tOWZ1RUx3MVdHRjgtYkU1MWlLVXduM2dDdWJORy13OHM1YW9iODliLW5KZVdLNW92NC1JM2c?oc=5",
+   "source": "Google News: boxeo",
+   "lang": "es",
+   "date": "2026-11-15T13:31:19+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 12,
+   "sources_n": 1,
+   "title_es": "Con nueve pugilistas, México subirá al cuadrilátero del Campeonato Mundial de Boxeo Sub-19 en Montenegro - Gob MX"
+  },
+  {
    "title": "Teremoana vs Hemi Ahio, Amari Jones, and more: Boxing schedule and previews for November 18-21, 2026",
    "link": "https://www.badlefthook.com/boxing-schedule/120429/how-to-watch-teremoana-hemi-ahio-amari-jones-streaming-tv-schedule-boxing-news-2026",
    "source": "Bad Left Hook",
@@ -1751,7 +1550,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 44,
-   "sources_n": 5,
+   "sources_n": 4,
    "title_it": "Teremoana contro Hemi Ahio, Amari Jones e altri: calendario e anteprime degli incontri di boxe dal 18 al 21 novembre 2026",
    "title_es": "Teremoana contra Hemi Ahio, Amari Jones y más: calendario de boxeo y avances para el 18-21 de noviembre de 2026"
   },
@@ -1834,32 +1633,6 @@
    "title_es": "Kalle Sauerland amenaza con emprender acciones legales si a Viddal Riley se le niega la oportunidad de disputar el título de la IBF"
   },
   {
-   "title": "Un oro, un argento e due bronzi ai campionati italiani under 15 - NoiTV",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMDB4ZkhSWm5Fd0VmbFZsalB2NHctUnFBdWZZck9uWThWMmZiM3ZEVmpUdnp2Q0plQWFKRVpLMUs0V2ozZlJmYWhyTUlyV0tTd1dnTnpNX3Q0VVdqczV3cXB2YmRNSDM0SDFvSlh1UlJ1V2JqVlBFVzBuc3RDWmNBa215WWQ3VkxSX3dNMjBXZ2MzRkZCTVJSQlRNNzFJczMtWGc?oc=5",
-   "source": "Google News: pugilato",
-   "lang": "it",
-   "date": "2026-11-15T11:14:24+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 10,
-   "sources_n": 1,
-   "title_it": "Un oro, un argento e due bronzi ai campionati italiani under 15 - NoiTV",
-   "title_es": "Un oro, una plata y dos bronces en los Campeonatos de Italia sub-15 - NoiTV"
-  },
-  {
-   "title": "Pugilato, doppio oro per le sorelle palermitane Estella e Crystal Filardi - Quotidiano di Palermo",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdHF5RVZTYnIwT0RSNUdWTVpURUtKb1ZmOTAzWEJlZzJ3dlBOSG9NcU96aEhERDgzNmZENmptdm9CcTJCcG1oOTFMV2FFb0RZckNxZGdNVjIzNjVXVW16T2RIOUxmQWtoeGd3akNlUzQ0VTR1QjBoZ0tBdmsxbVE1bEZVNjA3N1B1MmhCZ3B4RnBLQmZUVjY2Sk82VzFsREFnLUpmeHZhTQ?oc=5",
-   "source": "Google News: pugilato",
-   "lang": "it",
-   "date": "2026-11-15T11:14:00+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 20,
-   "sources_n": 2,
-   "title_it": "Pugilato, doppio oro per le sorelle palermitane Estella e Crystal Filardi - Quotidiano di Palermo",
-   "title_es": "Boxeo: doble oro para las hermanas palermitanas Estella y Crystal Filardi - Quotidiano di Palermo"
-  },
-  {
    "title": "“TYSON FURY IS QUIET BECAUSE…” - DAVE COLDWELL ON ANTHONY JOSHUA, DEONTAY WILDER VS JAI OPETAIA",
    "link": "https://www.youtube.com/watch?v=JLZuBLRKtZo",
    "source": "YouTube Pro Boxing Fans",
@@ -1878,7 +1651,7 @@
   {
    "title": "Boxe, D’Ortenzi vince e convince: è ancora lui il Campione d’Europa - RomaToday",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNloxcTRhS1JFY0t0OVV5SlNISW4zalRrM3J6a01KeDRQb3d4S3AwQ0VLVFVtWDJlTzYydDhvMlZWY09QU0o0WmVVS1JHMWRDNVprcC1ua0dhT25UV1J3dHg5Mkt5OEJVdTJEQ2ZBaDJEMXdjV1MwdXk3ZkdLVl9TbWxWZ1ZKRWk4WHdTWHVxVkY?oc=5",
-   "source": "Google News: pugilato",
+   "source": "Google News: boxe italiana",
    "lang": "it",
    "date": "2026-11-15T10:45:00+00:00",
    "status": "confirmed",
@@ -1945,7 +1718,7 @@
   {
    "title": "\"In casa famiglia venivo trattato male, ho scelto di vivere per strada. Dormivo in stazione e risolvevo ogni scontro a botte per sopravvivenza\": così Romero - Il Fatto Quotidiano",
    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbzlsNExCWmJGazdsakI5cWdMYUIzMnZLa0Q4M0JUd2hGSm83OGs1Nmk1OUV0X1BwaU9oWGtVTlBGOHRSWFdwQnlJLTh5bUtvMXN5eHhtVGV4bTNJWVp1c3NCQkZoSnNZQnJ4VEdoZ2hCNmxpUTFtdDAzRU5xU2RKU2hCVnBYMmo0WF8xMmNyT3R5S0taNXR3Tkx6Q3E5WXJBbzZTb2RveUZUZTA2enFFMi1SMzFLZU4wcDREa1dnVnBtR2hVb0xHUk9WbDQ1U3QzVXpPYTNlRjh3VDBQdWg4em13U1JnTWVZNy1Jd2d6Yzg?oc=5",
-   "source": "Google News: pugilato",
+   "source": "Google News: boxe italiana",
    "lang": "it",
    "date": "2026-11-15T08:08:19+00:00",
    "status": "unverified",
@@ -2078,6 +1851,18 @@
    "title_it": "Le prime impressioni di Moloney tracciano la strada per il ritorno al titolo - The Canberra Times"
   },
   {
+   "title": "El panameño José “El Magnífico” Núñez derrotó al mexicano Bryan Flores y se acerca a una pelea por el título mundial - Infobae",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOQm01SGJuVWVJM3BUWnpCVy1URkNiN2ZfNVcyczVUQlhuWjA2UjF6YjZQV0RWNkhfS1g3TFdmNElObU1aQlB6Wk5FN3VTTDRWVWR3bHI4MnBPaTR4RGtQM2Z6NHFVNFpOREpZa1NuazNIeU82bm1IU3VyX1kwenNtVGo2WXE0WjFxWm1TeWFjSUQzZ0Q2YUdIMEZ3OUhmbFE4d0xFV3FGVGpHazlNMEpJbGlMZ3R6OF9aTGM3dl9SRFpWM1Zic1BPUFJnWDRtSFhncEN3QlJ5SmhJSkhOSkR5NDI2NTFyc3JxbFZpOHdB0gGIAkFVX3lxTE5WNGR6VnpVSjQtczhRcFlkUlNkd3NHOHZNRFFTUUc5UEZBc1Y4dE93QzNaYnMxeEF4d1N1dE9rZjFOY2JyV1NGbFZGN1lMNDBqVFRaamwzbG45Yk9tSnotWUdSTWtGN0Vkclo3NnpQcFRmYkJGS0phZkhoWkFyMFl5OG5jenpReS1vaWlldGdLTVFNYTQ0OS1SLTZvWTNYSkFlUHpELUNsMDE5VExSZGVWRlgtVElWVGdlOUxfZHl3am1SWnpVQlI1dFdpcVprWU96VXJSVzZIcDV3SU5IdjMwVG5HN1dndTR2c2tScVFGNUt1WTgxNENIVnJZS0lKUmloVW5UdjdLOA?oc=5",
+   "source": "Google News: boxeo",
+   "lang": "es",
+   "date": "2026-11-15T01:57:00+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 6,
+   "sources_n": 1,
+   "title_es": "El panameño José “El Magnífico” Núñez derrotó al mexicano Bryan Flores y se acerca a una pelea por el título mundial - Infobae"
+  },
+  {
    "title": "Pre-Show and two preliminary matches: Riyadh Season Zuffa Boxing 13",
    "link": "https://www.youtube.com/watch?v=7aOv6cXAH_M",
    "source": "YouTube Zuffa Boxing",
@@ -2086,7 +1871,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 35,
-   "sources_n": 7,
+   "sources_n": 6,
    "title_it": "Pre-show e due incontri preliminari: Riyadh Season Zuffa Boxing 13",
    "title_es": "Previa y dos combates preliminares: Riyadh Season Zuffa Boxing 13"
   },
@@ -2112,7 +1897,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 35,
-   "sources_n": 7,
+   "sources_n": 6,
    "title_it": "Pre-show e primo incontro preliminare: Riyadh Season Zuffa Boxing 13",
    "title_es": "Previa y primer combate preliminar: Riyadh Season Zuffa Boxing 13"
   },
@@ -2151,22 +1936,9 @@
    "status": "unverified",
    "boxers": [],
    "score": 53,
-   "sources_n": 6,
+   "sources_n": 5,
    "title_it": "Viddal Riley festeggia con KSI dopo aver mantenuto la cintura europea contro Seydi Coupe, aprendosi la strada verso l'incontro per il titolo mondiale",
    "title_es": "Viddal Riley celebra con KSI tras retener el cinturón europeo frente a Seydi Coupe y conseguir una oportunidad por el título mundial"
-  },
-  {
-   "title": "Eventi: Scoccimarro, prova della boxeur Lombardi di classe e orgoglio - TriestePrima",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOc1VDZ2tYU2hjeGFOOGtnMkRqTE8zenQwUHhSUExHZ0o0bnU5aXVyN3BtT2dQdzQ3dWVSNVRWNnNoa0psWEpSYTRxa2ljWENNNmRhaXFPQzVCNGVwSjUzRE1kWV9zQWFWS3RNbGhmd1NHYmpxbkhXdm1LSl9fQ1JsZzQ0NWFmdVdGeVJubTRVbjBPNEFabmVtZzN3TjRQdk1LY3dZaUNpUGxGMEJCRFlqSXhkVVJKbVZCaHh4MkFINEV6cC1NMnNLOEJFaDdkcVl3UlRkVkMzbkZVSzhGdWk0?oc=5",
-   "source": "Google News: pugilato",
-   "lang": "it",
-   "date": "2026-11-14T23:00:00+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 4,
-   "sources_n": 1,
-   "title_it": "Eventi: Scoccimarro, prova della boxeur Lombardi di classe e orgoglio - TriestePrima",
-   "title_es": "Eventos: Scoccimarro, prueba de la clase y el orgullo de la boxeadora Lombardi - TriestePrima"
   },
   {
    "title": "Boxe: Luca D’Ortenzi batte Eros Seghetti e si conferma Campione d’Europa dei mediomassimi",
@@ -2190,7 +1962,7 @@
    "status": "confirmed",
    "boxers": [],
    "score": 42,
-   "sources_n": 8,
+   "sources_n": 7,
    "title_it": "Zuffa Boxing 13: risultati e momenti salienti. Carlos Adames vince contro Gerome Warburton al suo debutto nella promozione",
    "title_es": "Resultados y momentos destacados de Zuffa Boxing 13: Carlos Adames se impone a Gerome Warburton en su debut en la promotora"
   },
@@ -2280,8 +2052,8 @@
    "date": "2026-11-14T19:30:33+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 33,
-   "sources_n": 8,
+   "score": 32,
+   "sources_n": 7,
    "title_it": "Evento completo: Riyadh Season Zuffa Boxing 13",
    "title_es": "Evento completo: Riyadh Season Zuffa Boxing 13"
   },
@@ -2294,9 +2066,21 @@
    "status": "unverified",
    "boxers": [],
    "score": 32,
-   "sources_n": 9,
+   "sources_n": 8,
    "title_it": "Conferenza stampa post-incontro: Riyadh Season Zuffa Boxing 13",
    "title_es": "Rueda de prensa posterior al combate: Riyadh Season Zuffa Boxing 13"
+  },
+  {
+   "title": "Diego Pacheco vs Darius Fulghum: cuándo es, fecha, a qué hora es, canal, TV y dónde ver online boxeo - DAZN",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOdzZoN2ZseXEwQ1B4THpVWlJ2M0hsOTZDeERhdWFNM29hdmkxQTNnd1RXSU5NTEstRGhpZHJ0elZxcVFGQ3cxTDNyUzRfTFdES2VRMklLS2dTNFgxbXJZNXZZV2ZvRkRHbUJxbFBQcXk5Y29CSkw5a2VyR3BBeW8xNVdRY21DMzQtY1JOZnVjV0FOeElnb2lPQ2tlSUs4aTlHajlDbFRvVlQxOWhtYktiWllnV0ZJRzBQN3ZwbzFVdXg1aEN2TnZVUzNSNVhTQm9YcWQ2NUZ5SktPLTFmVXp3Y2puRnItMGhCemRFY0FzQ1c?oc=5",
+   "source": "Google News: boxeo",
+   "lang": "es",
+   "date": "2026-11-14T19:05:15+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 77,
+   "sources_n": 6,
+   "title_es": "Diego Pacheco vs Darius Fulghum: cuándo es, fecha, a qué hora es, canal, TV y dónde ver online boxeo - DAZN"
   },
   {
    "title": "Darius Fulghum stuns Diego Pacheco in major upset, derails potential Canelo Alvarez showdown",
@@ -2314,17 +2098,16 @@
    "title_es": "Resultados en directo de Diego Pacheco contra Darius Fulghum, actualizaciones asalto a asalto, salidas al ring para el combate de esta noche en TNT"
   },
   {
-   "title": "Il campione di pugilato iraniano condannato a morte onorato con il prestigioso premio Magnitsky per i diritti umani del 2026 - National Council of Resistance of Iran - NCRI",
-   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNYk5LclpuNk4wYlVJS3lSMS1EalFzZEFxNTZZbFpjOWVfNS1rNlVoRktXdVhJcmpzUk5zQWRHQUZrUm5TSkh3bUozMWxPVDV1U0VteHhjaXphR0Z6SGtwSGpNWFFfZ2lwWGhzUXRORU1SZndOcmJtdHUxb1R3dXB1bTFFb3BZXzVxNFVEamtHT01Qa0xsTV9YT1d6VGxGekZyTWtBLU9mRjNHOWZ3LUM0aXdESVZhT2RnQ3BpdzJKR09aa0VOQlk5YjRoVlhHOVV2MFBvRzBTZlp3U2stUjE0aXNtaGVPU0xzSnFwbGJHb3Jlc2pnSlllMm00aXFoeUJiYzFlZElPRXPSAY4CQVVfeXFMT3BLdTdGMW5jN21YM3RVbjdVelBzRjd6RzZsNGNqaGt2WVEwRi1tdVI1WTRlSzlkOTAyVXhPeFFWX1BsbjZ3TkNWUUliY1lveEV0ZnVheWlYOEJZWE80c0NaMzJ2R29yWVhBSUJjaTJFd0dyemhTVWstWlZXWUNEUWw3UDQ2aFA4S2NtMjhYd1pQQTlKOFdnam1WNFZYOURhUFJ6RlZlMUNfbHg1TnppdDl0N3pYSG40NkI4SzhlS0ttT18wdGVjZi1WYVNiSDFrS0tVUnJTN3ozaGJSWXl3eVVHSm9EUHlUTFlrdXh6VkxBQ2ppV01GLVA5S2xoLTJSZjdhQWZ4V1Q2dDdFWnlB?oc=5",
-   "source": "Google News: pugilato",
-   "lang": "it",
-   "date": "2026-11-14T18:48:03+00:00",
+   "title": "Jóvenes pugilistas mexicanos levantan la mano en la Copa Mundial de Boxeo Sub-19 en Tailandia - Gob MX",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWnA0UGQ2TWRkVnMzVWhXSDFseVR1VzJBT2RoVlhIUFY5c2pQbUgxNGlKb0JpRHNxRllVWW1ZQlB3czFKZVNiZ0NZTmpjQXAxR3JoT1FwaVEwYm9vaGZ1cXo5dktfMk9LcUdoY1pXUk1MSFZRSHJ1NUFrTGsxWHVFQ0JoLVU2UC10OE9xdTlCN3VLR3RUaHdnNHNtZTdwazk2d3pNUnA4R3lSU0N4ay1yaEliX3loZFZuVXZRXzNHYjVKUjRENm14QWxudk44VUxZUFl5RmhB?oc=5",
+   "source": "Google News: boxeo",
+   "lang": "es",
+   "date": "2026-11-14T18:42:48+00:00",
    "status": "unverified",
    "boxers": [],
    "score": 2,
    "sources_n": 1,
-   "title_it": "Il campione di pugilato iraniano condannato a morte onorato con il prestigioso premio Magnitsky per i diritti umani del 2026 - National Council of Resistance of Iran - NCRI",
-   "title_es": "El campeón de boxeo iraní condenado a muerte es galardonado con el prestigioso Premio Magnitsky de Derechos Humanos 2026 - Consejo Nacional de la Resistencia Iraní - CNRI"
+   "title_es": "Jóvenes pugilistas mexicanos levantan la mano en la Copa Mundial de Boxeo Sub-19 en Tailandia - Gob MX"
   },
   {
    "title": "McKenna to make first world title defence in Riyadh",
@@ -2348,7 +2131,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 42,
-   "sources_n": 8,
+   "sources_n": 7,
    "title_it": "Riyadh Season Zuffa Boxing 14: McKenna affronterà Aleksejevs nella prima difesa del titolo mondiale - BBC",
    "title_es": "Riyadh Season Zuffa Boxing 14: McKenna se enfrentará a Aleksejevs en su primera defensa del título mundial - BBC"
   },
@@ -2392,6 +2175,54 @@
    "title_es": "Aaron McKenna defenderá el título mundial del peso medio de la IBF contra Jevgenijs Aleksejevs en directo por Sky Sports el 4 de diciembre - Sky Sports"
   },
   {
+   "title": "Calendario de boxeo - ESPN Deportes",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1LeHh6UndnSzdlLU9MQ2s5RklvMU1lTHJIT29yVUh5ZkkzY2ltZGEwQzIwdy1QejM0LUpYRWhiTnR1a1gtV2VLYjBJamdWZ3NPbnJRRmJIVThLc1BfNFhQaDEtbnkxY3NnZElfYjNXMy1lNUFvUEpSbFNOOTQ?oc=5",
+   "source": "Google News: boxeo",
+   "lang": "es",
+   "date": "2026-11-14T17:10:00+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 1,
+   "sources_n": 1,
+   "title_es": "Calendario de boxeo - ESPN Deportes"
+  },
+  {
+   "title": "Diego Pacheco vs Darius Fulghum: A qué hora es, cartelera y dónde ver la pelea de box hoy - MARCA",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZmpQQndGdzNnaFc1OGQ0ZTFOR2daMHdjTlU1N1Q5RzhBRnFwek45bDZLUDVfUWgxRXVNU1pySFIwSzhqMzNCRlZZSEUxVUhlZE9UbHZNVWFDQzFZVXByZTRBZno3T19hY1g0ekNJaTZlaG1EZWtHbjhDbHNvQkxoSmV1S2NzQjQ2LXFHNXBKQ18yelg3c2ZHcnhwaGZmc1hzQ2Vna3M0X2g5Tjhhd3VjLdIBsAFBVV95cUxOa25tSkdyeGlQa1BVa21sN0ZwckEtUzA3ZXNaaTdqQVhnRjFlNDdDQVVpODRuOHFYZ0ZIYlYtY013elRnVG9VcXNYMl9aNVFSY0hwU29iYW5Ba3gySDBEWFlMc05ISk9OQkNTd0tUcWRBMGVObzNHVFNjQnJEVHlObHdlOE5pMTZkS2luV1Jnc3h5d2VQcFhnX0xoT0s1bGJORmJTRmQxQkwzbmZxbkFDbw?oc=5",
+   "source": "Google News: boxeo",
+   "lang": "es",
+   "date": "2026-11-14T17:03:00+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 76,
+   "sources_n": 6,
+   "title_es": "Diego Pacheco vs Darius Fulghum: A qué hora es, cartelera y dónde ver la pelea de box hoy - MARCA"
+  },
+  {
+   "title": "Anthony Olascuaga vs Yuberjen Martinez dónde ver: a qué hora pelean y en qué canal mirar la función de box 202 - Diario AS",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNXzFSZkpqdGNaQnA5RzZRNkU3TElOQlZRQkt5cXVfdENKZ08yZEVVaml0LUFHMHF0NUd6VTlqZ3QtakFUel9QcUwtUkN1Tk9JTjVZVXFtenBTWkxrZTF6LUpqMmtabEFYWnZTUkZqNHNNaEcxRVY0ck1OXzhUMUNndmJqX3Rxc0tmNnVFX0x1U2gydzNjSUtrY2RGQUVZdWNLXzlpVTNGRjBzVXB0VE9HOW5qYzJuN0tYMHZmV3JlbE5TTUUyRnM2V3NrQU5RMl8yVG81QmtQM0tLYkt5cmlyUlY2aDDSAfgBQVVfeXFMUEdTcnhJejRJd1BFWEVmODZmTk1IVDJwckw4T3J2N0VXY1ptQ2ZLMUV0Y0tRLUItcDZvVmZLbDh1QU5fMmp3ME4xN3dVWDNGeDIxcnQtenF6amp3dC0xOXJFV2xXVllGQVpTSFQ3WTE4WTNCeDNOSFhGd25QUEZiV1RZeTNSSU1ZUnlUaWtJVTBrWG1yX3g5Vi1wUnc3bFZxdDU4aERKYnhybHFseVBVNXpIMXJtQmhrVXl1LWVTVFBBekFUUXY5bkctVnhZS1ZtZGRTbnR3bm1JUXUyRzBQZWtGbkx0aGhkS3RJZzZSMjkzWVFIZE9tUDk?oc=5",
+   "source": "Google News: boxeo",
+   "lang": "es",
+   "date": "2026-11-14T17:00:00+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 21,
+   "sources_n": 3,
+   "title_es": "Anthony Olascuaga vs Yuberjen Martinez dónde ver: a qué hora pelean y en qué canal mirar la función de box 202 - Diario AS"
+  },
+  {
+   "title": "Pacheco expone dos cinturones en una eliminatoria AMB - Claro Sports",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXS2sxYU4wSkVsVjVIQkdUS3FyZ09RVUJSMWs2bHFSUzBwMVRoZmlUT2t5M2xTUEpoYWNWdGxLOWZnZXNVZmJwTzlhcFF3WUpEdFM5UkJEMklXX01OMHp6cWJHMjhYcGdtNmlLcnVSTUI?oc=5",
+   "source": "Google News: boxeo",
+   "lang": "es",
+   "date": "2026-11-14T16:54:25+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 26,
+   "sources_n": 1,
+   "title_es": "Pacheco expone dos cinturones en una eliminatoria AMB - Claro Sports"
+  },
+  {
    "title": "Boxer Zak Miller posts for first time after suffering enormous haematoma which saw world title fight stopped",
    "link": "https://www.thesun.co.uk/sport/41024290/boxer-zak-miller-posts-after-hematoma-stops-fight/",
    "source": "The Sun Boxing",
@@ -2413,7 +2244,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 21,
-   "sources_n": 8,
+   "sources_n": 7,
    "title_it": "Orario di inizio di Zuffa Boxing 13, scheda dell'incontro, pronostici e dove guardare Carlos Adames contro Gerome Warburton",
    "title_es": "Hora de inicio de Zuffa Boxing 13, cartelera, predicciones y dónde ver a Carlos Adames contra Gerome Warburton"
   },
@@ -2444,17 +2275,16 @@
    "title_es": "Un boxeador inglés de 18 años es excluido de los Campeonatos del Mundo tras una increíble confusión con una prueba de sexo: el adolescente «destrozado» revela cómo se hizo añicos su sueño después de que el equipo olvidara demostrar que era un hombre."
   },
   {
-   "title": "Team Boxe Mesagne, orgoglio della città. Una giornata di riconoscimenti e soddisfazioni - Qui Mesagne",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdU15QloxM0V6aGZUcUl5WGN5SHBESmFuLWozaEJ0SHFtZXBKY21NdDRNbG9QMkgxR3MxZDdIRElZcy1yMkpYVENmdXI3WDVEMlY3VXgtTGRBZG5lbUlfVUg3dHVSWDNyOFd1NzluTjlIMDRwcUY1TGlVc2ZkWVlpajBHZzZ0Z1dIT2VJdlAtdXo0d0dlazBxMlRRd1JENDE3UFlXMFhrbmtSWEZS?oc=5",
-   "source": "Google News: pugilato",
-   "lang": "it",
-   "date": "2026-11-14T13:58:31+00:00",
+   "title": "Peleas de boxeo EN VIVO HOY sábado 14 de noviembre de 2026: Horarios y dónde VER cartelera completa desde Méxi - Milenio",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdkpZVUNINkswS01QRjZFZEwtS3lyWk9SekZDdk1TN0prdG02clNnTjdyTlotVzVBNTlRamY1Z2hHcWtQVk0zbHIzd1lDMmk4dmtiRnZqWndmQlJPMkNWc2cybVNKcGVidTF1RlZ3ZmNtemhMdGZFZ29QaDZTUXJEZUNITWJ0M3FFbVBNQzg0Q1B5SzU3dnNqOU04YktMbGhTODJZ0gGjAUFVX3lxTFA4WXloMG9aM1RsWUoyeHFYaTNadmgxYjVCN1R5OHd2blZxaHo2azZSVG9iUHBId2h3OUxfYk5pVUgwWXlTRVM3S1VQR1V6YjFKZlpDem5ucjU4TW0wYTd5azBKeUMyczlLS2tNM3NKLThrWDZPYjZST2VvWl81dkhSZUtxZGxUU1hnTVhjRDJfclFkWmNNbXlRLWVKS01yTnAwNnM?oc=5",
+   "source": "Google News: boxeo",
+   "lang": "es",
+   "date": "2026-11-14T14:22:00+00:00",
    "status": "unverified",
    "boxers": [],
    "score": 0,
    "sources_n": 1,
-   "title_it": "Team Boxe Mesagne, orgoglio della città. Una giornata di riconoscimenti e soddisfazioni - Qui Mesagne",
-   "title_es": "Team Boxe Mesagne, orgullo de la ciudad. Una jornada de reconocimientos y satisfacciones - Qui Mesagne"
+   "title_es": "Peleas de boxeo EN VIVO HOY sábado 14 de noviembre de 2026: Horarios y dónde VER cartelera completa desde Méxi - Milenio"
   },
   {
    "title": "Zuffa Boxing 13 Results: Adames vs. Warburton",
@@ -2465,22 +2295,9 @@
    "status": "unverified",
    "boxers": [],
    "score": 30,
-   "sources_n": 8,
+   "sources_n": 7,
    "title_it": "Risultati di Zuffa Boxing 13: Adames contro Warburton",
    "title_es": "Resultados de Zuffa Boxing 13: Adames vs. Warburton"
-  },
-  {
-   "title": "EURO U23 BOXING CHAMPIONSHIPS POREC 2026 - ITALIA BOXING TEAM IN CROAZIA - FPI",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcWtacFZjQlNqRjBUd19ndTZHVl9lYkpVUlp2Z08zZVdnejhaZ0tmWlVlWngyY1VtRGpVOTNxalR4RkdVb0s3YVBRZFFkdjlabGxycHU4SkVqWEVmZXRpaWdMcE9XNDBRZ3ZUVE04ZkFxeW1RUlZUVVF5RVRNc2dlbHFGM001TkNZMHR6MmVQbV9Ba1A2b0E4MXE0QkdwMHpVNlhtdlhueFVuaTNlX1BZ?oc=5",
-   "source": "Google News: pugilato",
-   "lang": "it",
-   "date": "2026-11-14T13:05:22+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 0,
-   "sources_n": 1,
-   "title_it": "EURO U23 BOXING CHAMPIONSHIPS POREC 2026 - ITALIA BOXING TEAM IN CROAZIA - FPI",
-   "title_es": "CAMPEONATO DE EUROPA DE BOXEO SUB-23 POREČ 2026 - EQUIPO DE BOXEO DE ITALIA EN CROACIA - FPI"
   },
   {
    "title": "#ZuffaBoxing13 starting off strong with a huge KO 🥊",
@@ -2511,7 +2328,7 @@
   {
    "title": "Pugilato, il pratese Alex Ferramosca conquista il titolo italiano pesi supergallo - Tv Prato",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOR1hnLTRYMENtMU1ZZ3dHRjFoZ0JhRDZjYUhJT0JXa3ZsNWpmTEJOd0ZFVEM0VENYN29vWktkRzBLV1p1eUc1QjE0bmhOSHJJcWpZTXFNN0pWd2VCSDJtUS1HM0Nhbno0TWRILTZpT2JuTjZyYS1QRHc5Tm9iWE5qdVNEd1p1VEp0TEZlUmJfNldzYmxIdzFVb0NSclFmYllJUWtVZjdDTQ?oc=5",
-   "source": "Google News: pugilato",
+   "source": "Google News: titolo italiano pugilato",
    "lang": "it",
    "date": "2026-11-14T11:46:37+00:00",
    "status": "unverified",
@@ -2522,30 +2339,16 @@
    "title_es": "Boxeo: el pratese Alex Ferramosca se proclama campeón de Italia del peso supergallo - Tv Prato"
   },
   {
-   "title": "Diego Pacheco vs Darius Fulghum full fight details",
-   "link": "https://britishboxingnews.co.uk/news/pacheco-vs-fulghum-full-fight-details/",
-   "source": "British Boxing News",
-   "lang": "en",
-   "date": "2026-11-14T11:28:40+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 75,
-   "sources_n": 6,
-   "title_it": "Dettagli completi dell'incontro tra Diego Pacheco e Darius Fulghum",
-   "title_es": "Todos los detalles del combate entre Diego Pacheco y Darius Fulghum"
-  },
-  {
-   "title": "Alex Ferramosca, della Boxe Mugello, nuovo campione italiano dei pesi supergallo - Il Filo",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUThjQ3FuaVlqVTl4SndxaEtTT19sMldfcVdXYUxFRm1fdkxZeVUyR0ZGLWpUZW9mMFh0ZUFYTXp6SXFHcENRdnNtNVVZRVlXcWdWeVV2VFRRZjBaaFJzQklvemFCUG0yN3hQRlV6QWZ2UGpHMV9UaWFua3dHNGVpY3VtQUJXMFVGTDR1Y1BHbndyTlZnWlJ5aGF5ZWl5Q09L?oc=5",
-   "source": "Google News: boxe italiana",
-   "lang": "it",
-   "date": "2026-11-14T11:15:55+00:00",
+   "title": "Dónde y cómo ver en vivo y gratis Yuberjen Martínez vs. Anthony Olascuaga hoy: TV y streaming online de la pelea - Yahoo",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcXd2Zm9XUTZlMWp4SGlsbzhsWkk3V1RNZGRrRjdRN2RmVS1vX2wtZEFZT1hSMi1SUEhYcVlFa1R5am80ZFFvV0k4akxQV3pTcFZYZ0JkYlM1aFFXV3JMVnctRF9MVzNidFhUNzVLTWpQYmlaZVdoVG5sNW9QdU1KbGVhdWp6WWdzQzFEY3dnMXNibzhxeTVjaHdRNDQyTkxHMERScg?oc=5",
+   "source": "Google News: boxeo",
+   "lang": "es",
+   "date": "2026-11-14T11:10:01+00:00",
    "status": "unverified",
    "boxers": [],
    "score": 10,
    "sources_n": 2,
-   "title_it": "Alex Ferramosca, della Boxe Mugello, nuovo campione italiano dei pesi supergallo - Il Filo",
-   "title_es": "Alex Ferramosca, de Boxe Mugello, nuevo campeón italiano del peso supergallo - Il Filo"
+   "title_es": "Dónde y cómo ver en vivo y gratis Yuberjen Martínez vs. Anthony Olascuaga hoy: TV y streaming online de la pelea - Yahoo"
   },
   {
    "title": "Boxe, Alex Ferramosca è il nuovo campione italiano professionisti dei supergallo - Firenze e dintorni",
@@ -2559,19 +2362,6 @@
    "sources_n": 2,
    "title_it": "Boxe, Alex Ferramosca è il nuovo campione italiano professionisti dei supergallo - Firenze e dintorni",
    "title_es": "Boxeo: Alex Ferramosca es el nuevo campeón italiano profesional del peso supergallo - Florencia y alrededores"
-  },
-  {
-   "title": "Pugilato, Ferramosca è campione italiano nei pesi supergallo - Sport di Prato",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNjVWTHZlUGhudXRyandnWlR1UEl1djdhWlpPZkM0WG9lS0xlcE1mMHhVcFBtdzNHbVRtTW44UmJ0Z2pyRUcyLUM4a0ZNOGlkOVowQWY2dXQyM1NuX1ZBN3ZGSXpidnpzSEM3Zk9JVTVQQklEMEs0aE5QdUZpR0hkVkluSDcydDdZdktxOUtPX0k4NzlPOXFBQXZmRnZROEZRaEtMTUh6S3BYcDd5N0E?oc=5",
-   "source": "Google News: pugilato",
-   "lang": "it",
-   "date": "2026-11-14T10:44:05+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 0,
-   "sources_n": 1,
-   "title_it": "Pugilato, Ferramosca è campione italiano nei pesi supergallo - Sport di Prato",
-   "title_es": "Boxeo: Ferramosca es campeón de Italia del peso supergallo - Sport di Prato"
   },
   {
    "title": "‘I was broken’- Teenage English boxing star banned from world championships after team forgot mandatory sex test",
@@ -2595,14 +2385,14 @@
    "status": "confirmed",
    "boxers": [],
    "score": 38,
-   "sources_n": 8,
+   "sources_n": 7,
    "title_it": "Zuffa Boxing 13 risultati dal vivo, aggiornamenti round-by-round, passeggiate sul ring per Carlos Adames vs. Gerome Warburton",
    "title_es": "Resultados en vivo de Zuffa Boxing 13, actualizaciones ronda por ronda, caminatas en el ring para Carlos Adames contra Gerome Warburton"
   },
   {
    "title": "Pugilato, il toscano Alex Ferramosca è il nuovo campione italiano dei supergallo - FirenzeToday",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcVhSQlhFdHo2MzRUOHA0MzRBOUx3TWxwZ2VEUV9Ea3kzNkk2TWxFVHdKTTlIUTRzaEJVTDk2UnVRXzgyN3VqRTdmcHVwTnRHT3hRX3FqOW5UUTJfQV8yTUwxT25SY1V3cXJ1QXhPbXZMSjNfR1h1cEMtenZZaXBFLTRaQ2Y?oc=5",
-   "source": "Google News: pugilato",
+   "source": "Google News: boxe italiana",
    "lang": "it",
    "date": "2026-11-14T09:59:59+00:00",
    "status": "unverified",
@@ -2613,43 +2403,17 @@
    "title_es": "Boxeo: el toscano Alex Ferramosca es el nuevo campeón italiano del peso supergallo - FirenzeToday"
   },
   {
-   "title": "Alex Ferramosca nuovo campione italiano pro dei pesi supergallo: esulta la Boxe Mugello - gonews.it",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOFVwUmx6WHF0eDdCSWJwRzE2WWJYd0w1UTlBTGhycDB5b2JncHA0Qm1LRnlWWlYxdl9ta1NNVW1tR3lZU0p0Y2o0UnFPUzN3WUJHamI3OFBWN1hCbUpsNEgxNmQ4UmhHZzBpRVRWQ19SVDJpV0czakJxSUw3VHJxaF96R1E3Y3k5RmI3SVpvUC04RVNUN0lUSjhLWl_SAaQBQVVfeXFMUFVuTy1kV0h1RXJrU1gwMmFlcXFKQlloR0N3ZUhrMlVBX2xzV09OVlZ2YTNjV3BTcGNoN3c1bktncVdvUFB2ck01Qzc3cmEzbllHS21xaFlIXy04SWVKNnFObnlFcXVXZWt2T1JDS0FJUktkMS1wenY3ak9yclR5TkdrZFZTN0ltU2V3dU9WOWo1SUc3aFVjcHhzY1BNX2NXbU1scFQ?oc=5",
-   "source": "Google News: boxe italiana",
-   "lang": "it",
-   "date": "2026-11-14T09:58:23+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 10,
-   "sources_n": 2,
-   "title_it": "Alex Ferramosca nuovo campione italiano pro dei pesi supergallo: esulta la Boxe Mugello - gonews.it",
-   "title_es": "Alex Ferramosca, nuevo campeón italiano profesional del peso supergallo: celebra el Boxe Mugello - gonews.it"
-  },
-  {
    "title": "Pugilato: Ferramosca riporta a Prato un titolo italiano dopo tredici anni di assenza - Notizie di Prato",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdEZaN0Qtd1djRnZXNllsNG5ZcE42Tzl6NVFnQ0ZMLU9xeE9OTFFGUTFQdHFmMnNvY1VwbmdOcTYxQzhKbmwzb3BYZFdHcHNHY3BQNzBFNF9fckduRjd0b2dyYy0zTzI0ZlE0Y1VMbVRaYmczX0tjY0s3eUkxZWJwT0FKNUlJWThkQ3JlaF8xaS1MOE05R2szSE1sR0V4TGtlYmRhZ3g0bVFoeDJNaDVzcmRDOWlYX0dRaVlYZw?oc=5",
-   "source": "Google News: pugilato",
+   "source": "Google News: titolo italiano pugilato",
    "lang": "it",
    "date": "2026-11-14T09:40:43+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 0,
-   "sources_n": 1,
+   "score": 10,
+   "sources_n": 2,
    "title_it": "Pugilato: Ferramosca riporta a Prato un titolo italiano dopo tredici anni di assenza - Notizie di Prato",
    "title_es": "Boxeo: Ferramosca devuelve a Prato un título italiano tras trece años de ausencia - Noticias de Prato"
-  },
-  {
-   "title": "Pugilato: Ferramosca nuovo campione italiano pro supergallo - Sportmediaset",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUHFmS1AzZ084ZEpOZVlyUGRjRTVmM1g2NXhKcFlCVE5oLTFwNl9IakUwT3NqUlVYUGhiNlQ0c0lYQklGM25zcmNnd0FSNGE5a1R5bGU2NEtnUW1YZTZFcEpjblhmdzI1SXEtYW83ZDQzR2RKb0ZwQ0lvR3h2NHlyYkRJdGVZRWpKVkE0UlpEYWhMQWNCMUNrNjVHOU9Ka3RWWEI0SGxFZ3RyNkQ2SGswZE5hUHpxd3NZRHVjSlhIN1VZY1VT?oc=5",
-   "source": "Google News: pugilato",
-   "lang": "it",
-   "date": "2026-11-14T09:40:09+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 0,
-   "sources_n": 1,
-   "title_it": "Pugilato: Ferramosca nuovo campione italiano pro supergallo - Sportmediaset",
-   "title_es": "Boxeo: Ferramosca, nuevo campeón italiano del peso supergallo profesional - Sportmediaset"
   },
   {
    "title": "Boxe Mugello, Alex Ferramosca è campione d’Italia dei supergallo - Radio Mugello",
@@ -2682,7 +2446,7 @@
   {
    "title": "Boxe, da Pontecagnano all'Argento tricolore: Sofia Longo è vicecampionessa italiana Under 15 - Salerno In Web",
    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQREVmME52N3U0bmwyVVFyVjVCRjl5MVNaTGpMOWZmRld2RU9tR1pWU3RXQ1VXYmFkWlVLNDVYZ042WFE2WjZDNEZTSUNVWTFWRlRuanN0blhVYXp5cnhwYXVsX2l6a2RselNJdGNEWGdObXZ5WEMtTHBFc3FpeXRFa2hkc21Zdk1UOTZEUkswbmtZSk5WdWM5OE5jMWtFOHR1b3NCV3l1TmgzeFVwSmoyODVXVlJCdGliUE5wNVpjR1R5UVptaF9LUk9xeENyWXZzaW9oS2JId01SMkZj?oc=5",
-   "source": "Google News: pugilato",
+   "source": "Google News: boxe italiana",
    "lang": "it",
    "date": "2026-11-14T08:43:18+00:00",
    "status": "unverified",
@@ -2693,19 +2457,6 @@
    "title_es": "Boxeo: de Pontecagnano al oro tricolor. Sofia Longo es subcampeona de Italia sub-15 - Salerno In Web"
   },
   {
-   "title": "Clemente Russo torna a 44 anni: perché la boxe punta sui campioni per conquistare nuovo pubblico - Forbes Italia",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdUNRRjhPdUgwanZfMXBBcFl5eVJFX2NXV01Ka01GNnNqeG43aE9VSzhaNjByYWdFMGdrRFdZUGpxQXVPLUc2VlNOS2MxTmJfeWhxalp6d3dVM3d1RE9yeGZ6ejBCYm4wYUZQak9TUU96WGdwcFp0c3laX0hqZWQ2QmhqQWI1VU44ck5QaDRvdXZlbDdqeGd3?oc=5",
-   "source": "Google News: pugilato",
-   "lang": "it",
-   "date": "2026-11-14T08:39:47+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 0,
-   "sources_n": 1,
-   "title_it": "Clemente Russo torna a 44 anni: perché la boxe punta sui campioni per conquistare nuovo pubblico - Forbes Italia",
-   "title_es": "Clemente Russo vuelve a los 44 años: por qué el boxeo apuesta por los campeones para conquistar a un nuevo público - Forbes Italia"
-  },
-  {
    "title": "Around the Table: Judging Zuffa Boxing’s first year",
    "link": "https://www.badlefthook.com/boxing-commentary-opinion/120323/around-the-table-judging-zuffa-boxings-first-year",
    "source": "Bad Left Hook",
@@ -2714,7 +2465,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 30,
-   "sources_n": 7,
+   "sources_n": 6,
    "title_it": "Intorno al tavolo: giudicare il primo anno di Zuffa Boxing",
    "title_es": "Alrededor de la mesa: evaluación del primer año de Zuffa Boxing"
   },
@@ -2750,7 +2501,7 @@
   {
    "title": "Oggi appuntamento con la Road to Glory Fight Night Al Palasport di Guidonia si assegneranno quattro titoli - Corriere dello Sport",
    "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPejJVVFByendic0F2MkpLR3NxaXY2eVpjdkt2QXBqSnN3b1ZQb1oxeFNkbUE2WGNwUWhReHVLM0RHVFVOblVfR0dJZ3JDRWM2dGx3R3dIZDVNeU0yR2gyT0RfS2hnRUhrUGNNRjI3Y2dmcGxGYl9RM1ltZ3plYTJZeGtyc21PMGNjaVNWNHd0VDFCZ05LbnJCX2llbnpmSDZkeHlCdS15TE1VT2hOVnVESlhEdnpXeVh3UGhtdjlFc2RzWmlKR0wzbDMxcjNYdmFaUXR4Qjh6SkpxYmJVc0F6ZVRtdW5ITVVZNUpxZHIzTGJJMkxacko3RXFQNmJBd3Ata3RmVVV6S1NUbGVfdlR1LXlCSF84Z9IBmAJBVV95cUxQdGxja08wYXU5MUViNTVhelBLVlB1OWF6NHJlVGlrN1hvRV81STRsZlBTSG9yR2tTQldHbVVYWmYtZGxLT2hlWHZXNk1jYVFIRkxqUWlUV1VNQW9XWElCS3NSZ29zZTFUM2VxR2tmcmpteHNwQS1MNTlYZW5hNWVrM000ODE3NENrZFNQQ0IzYWo0aW1za1NWT2xCRURDQlV2UThNQ3lQMnA2ZEZiRDlOX1FpMmdPVkhBZlNKX1J2WFZ5R0RoX0M0RkRUMGUxUGlFVEZBaWUyLTVGNzRpcHpvU2NLUUZVUndrY0FKaks2VmhXNDJPUmdZSU1lNFdsWldBSFRqRzh0aWFlbHo4RTVUVkFxSmVqeFF3?oc=5",
-   "source": "Google News: pugilato",
+   "source": "Google News: boxe italiana",
    "lang": "it",
    "date": "2026-11-14T08:01:00+00:00",
    "status": "unverified",
@@ -2789,19 +2540,6 @@
    "title_es": "Boxeo esta noche: horarios de comienzo, canal de televisión y carteleras de combates"
   },
   {
-   "title": "Fight Gym, il giovane Borghetti conquista il bronzo a Foggia - La Nazione",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbU53SFFuN1labVRRVlhZbE5EWHYyd20wblZ3RFZpbk50R0E1MGdwN2hFWDBIcGZlUnFkU1ZRMnRoZnIzanVJaU9hcTdwSUpSdXVaampVZTkyalJBLWo4WDY5Z0pTdmlkNmFLWE05ZHhmSVk4WThlZS1tVkNCeDd4NHJOQ25SekFt?oc=5",
-   "source": "Google News: pugilato",
-   "lang": "it",
-   "date": "2026-11-14T07:13:23+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 0,
-   "sources_n": 1,
-   "title_it": "Fight Gym, il giovane Borghetti conquista il bronzo a Foggia - La Nazione",
-   "title_es": "Fight Gym, el joven Borghetti se hace con el bronce en Foggia - La Nazione"
-  },
-  {
    "title": "Carlos Adames fights Gerome Warburton as Denzel Bentley targets shot at WBC middleweight world champion next year - Sky Sports",
    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQWUlJd1M5bzlrUVpuTFBvMEhxUFBZMkU5WGRMdi1sX1lOODZBc2tPb2lfVFR6VFJpNURWWjJvQkY0cUxyZEFHeXVnTk5BNVBmRHM3cmJYZklQYUlvRnZUR2djSkZBaEVydnhXeHVISUszXzRRbXJhdlVZZy1jXzVCMlVnazVSdHpqRzBRWnBBdGNqSUE1ZzNmUjUxaVJzNEF5cnBCN3Mwajl2SFB1dlNKVk5mMUdrS3hCdFE4bjN5R1FHZWJzb3V3TlFzanJoX3FnM0RoZVB4RHhsYVhmSUlaRTFJODlMQWZwRUFwMmJsOWV6QQ?oc=5",
    "source": "Google News: boxing",
@@ -2830,6 +2568,18 @@
    "title_es": "Boxeo: Luca D'Ortenzi y Eros Seghetti se disputan el Campeonato de Europa de peso semipesado en Guidonia"
   },
   {
+   "title": "A qué hora pelean y qué canal pasa Yuberjen Martínez vs. Anthony Olascuaga hoy: TV y streaming online - Sporting News",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWExHOXhUU3d3MDJpWFdfS2FxWXV0ZUY3QmZ4dVVaZ1FUSWRGalRGM2hPRzNVMlk3Mm9xSFZmRy02Tl9KWlNVTzE3X1BaUnQxak1VSHlfZ1NLT3pVLXRUQ2RjeVdVejdDZWtJcEFqaThWZllFLTFRanI3OE1MSWhHZlFMaTFpeUdTcXRhYVNRdVNTOUhQNGM1by1Hb2xKemNIeWdwN1VoNEpicnEzVzVZcVJvUEZHa3h2bWdfeWFtNEliYk5lU3dHVXhR?oc=5",
+   "source": "Google News: boxeo",
+   "lang": "es",
+   "date": "2026-11-14T01:50:01+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 10,
+   "sources_n": 2,
+   "title_es": "A qué hora pelean y qué canal pasa Yuberjen Martínez vs. Anthony Olascuaga hoy: TV y streaming online - Sporting News"
+  },
+  {
    "title": "He Beat Shawn Porter in a Fight of the Year",
    "link": "https://www.youtube.com/watch?v=hE79MO6__l8",
    "source": "YouTube PBC",
@@ -2843,15 +2593,27 @@
    "title_es": "Venció a Shawn Porter en la pelea del año"
   },
   {
-   "title": "Boxe, Antonio Moffa è campione italiano Under 15: trionfo a Foggia per il giovane atleta di Mercato San Severino - Salerno In Web",
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPeVNvTVh0MzFCcDNFNERzWS02ZnM5czF1Y0l5Y2tjRzRVbWlfUG1xQXBDQVpDSmR3d0l1Sld4RFJJSzNwN18zOUh0OV93bjEwYjhCWnRSRlltUjFUM1dBZFBuRElMLXZoWWFjOHBhWXRYb2dKaG5DZWhRcEZ0TjYwNk45amo3cUdRTmZWUDBoYVN5OGgwZm45UXNBWk1JaFBzS2prZ3JDajFGV2l4MHhIaWl1VERiRThVUFN2T2lxZ0dMakJmZloyNV9tazFKTDVVREgwcWRkQkQ2ZkxFYjl6bXRXMy1JOThjVHZINDJHMUxJbEFN?oc=5",
-   "source": "Google News: pugilato",
-   "lang": "it",
-   "date": "2026-11-13T23:09:53+00:00",
+   "title": "Cartelera Olascuaga vs Martínez: orden de las peleas que se disputan este sábado | Box 2026 - Diario AS",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLUhvTkhkYlVLU3NITUxMamVIeFZpazQxLVUxV3FBSzNQV3c4dEVaTGktdml1UzRRRTdZaWxpRUtTWjRLdnJDZ0tnZDFrR2Z5WnJncWV1VldZYWxHdjZRNXZRQm4wU2VlWVFjcjMyVVV4TnVrNFZiTVVpbDAtcEZ3Y0FMbEZrTDlrSXhhVkx1Q0EzdW5QWnFpWFBpNVZESWpwZ3htcWdybk1Wak9ETHBSMXoyYzV0a3R20gHMAUFVX3lxTFAwSVA3cjg0M2VxR0ZCM29rSl9pbDBDX0J0WjFsWXFXVjkwUWotTWgtOXNESzlfN2NHYVZBZU9xZ2JpZXE0ZHZrVVBpb3FScEV2QWNmNnFGc1lGNUZDTWtNUE1OQm5sMnZ6c1FyQ1VPeDdxdUtqYm9iVWZJcVhWRnlVdk5xbHFtYWN0OGE0MnowUlZaOFRXUkMtNGFkV1ZwY1kxNHZ3YmZQNEZ6Y2tGTk41OWJOTEFzMjNJTWc4REdRQ3I3WDhLeUVVNVQ3ZA?oc=5",
+   "source": "Google News: boxeo",
+   "lang": "es",
+   "date": "2026-11-13T23:29:56+00:00",
    "status": "unverified",
    "boxers": [],
    "score": 0,
    "sources_n": 1,
+   "title_es": "Cartelera Olascuaga vs Martínez: orden de las peleas que se disputan este sábado | Box 2026 - Diario AS"
+  },
+  {
+   "title": "Boxe, Antonio Moffa è campione italiano Under 15: trionfo a Foggia per il giovane atleta di Mercato San Severino - Salerno In Web",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPeVNvTVh0MzFCcDNFNERzWS02ZnM5czF1Y0l5Y2tjRzRVbWlfUG1xQXBDQVpDSmR3d0l1Sld4RFJJSzNwN18zOUh0OV93bjEwYjhCWnRSRlltUjFUM1dBZFBuRElMLXZoWWFjOHBhWXRYb2dKaG5DZWhRcEZ0TjYwNk45amo3cUdRTmZWUDBoYVN5OGgwZm45UXNBWk1JaFBzS2prZ3JDajFGV2l4MHhIaWl1VERiRThVUFN2T2lxZ0dMakJmZloyNV9tazFKTDVVREgwcWRkQkQ2ZkxFYjl6bXRXMy1JOThjVHZINDJHMUxJbEFN?oc=5",
+   "source": "Google News: boxe italiana",
+   "lang": "it",
+   "date": "2026-11-13T23:09:53+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 10,
+   "sources_n": 2,
    "title_it": "Boxe, Antonio Moffa è campione italiano Under 15: trionfo a Foggia per il giovane atleta di Mercato San Severino - Salerno In Web",
    "title_es": "Boxeo: Antonio Moffa es campeón de Italia sub-15. Triunfo en Foggia para el joven deportista de Mercato San Severino - Salerno In Web"
   },
@@ -2942,7 +2704,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 40,
-   "sources_n": 8,
+   "sources_n": 7,
    "title_it": "Jason Moloney sta pianificando il suo ritorno verso un titolo mondiale | Zuffa Boxing 13 - UFC.com",
    "title_es": "Jason Moloney está trazando su camino de vuelta a un título mundial | Zuffa Boxing 13 - UFC.com"
   },
@@ -2981,7 +2743,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 30,
-   "sources_n": 8,
+   "sources_n": 7,
    "title_it": "Gerome Warburton è sempre lo sfavorito e vince sempre: Riyadh Season Zuffa Boxing 13",
    "title_es": "Gerome Warburton siempre es el menos favorito y siempre acaba ganando: Riyadh Season Zuffa Boxing 13"
   },
@@ -2994,7 +2756,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 40,
-   "sources_n": 6,
+   "sources_n": 5,
    "title_it": "Viddal Riley è determinato a dimostrare di essere un futuro campione del mondo nel match per il titolo europeo contro Seydi Coupe - Sky Sports",
    "title_es": "Viddal Riley está decidido a demostrar que es un futuro campeón del mundo en el combate por el título europeo contra Seydi Coupe - Sky Sports"
   },
@@ -3007,7 +2769,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 30,
-   "sources_n": 6,
+   "sources_n": 5,
    "title_it": "Citazioni della conferenza stampa e pronostico dell'incontro tra Viddal Riley e Seydi Coupe",
    "title_es": "Citas de la rueda de prensa de Viddal Riley vs. Seydi Coupe y pronóstico del combate"
   },
@@ -3059,22 +2821,9 @@
    "status": "unverified",
    "boxers": [],
    "score": 38,
-   "sources_n": 8,
+   "sources_n": 7,
    "title_it": "Carlos Adames: \"Metterò al tappeto Gerome Warburton in tre round\": Riyadh Season Zuffa Boxing 13",
    "title_es": "Carlos Adames: «Voy a noquear a Gerome Warburton en tres asaltos»: Riyadh Season Zuffa Boxing 13"
-  },
-  {
-   "title": "\"ROAD TO GLORY FIGHT NIGHT\" - OPI 82 - DOMANI CON DIRETTA DAZN LA GRANDE SERATA DI BOXE PRO A GUIDONIA - FPI",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZHRXUFAtVWc3QndYNUFyeEgyYkstUmZzbmMtTTkxc0c2alRTdDExMXZZeFNaNmhDRUF0dkhNb3BsOGR1ajZFMHctZndhOFBCLUg4S0ZDRnhPWktxRmVvbHo1WHhOZUNsTnBBMlRRSGJyMHVJRmtsemZ4QmlNMFlBQktoSmlQZUdURF9fZTJlSWZRU2pKeUFINzBnTG03TlNYdl9kbVdUY1RuT0w2Slk3Zm03SkZ4V2swSmtHNWRMNzZZVzRQZ3N4cE9QRkZva3c?oc=5",
-   "source": "Google News: pugilato",
-   "lang": "it",
-   "date": "2026-11-13T16:08:55+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 0,
-   "sources_n": 1,
-   "title_it": "\"ROAD TO GLORY FIGHT NIGHT\" - OPI 82 - DOMANI CON DIRETTA DAZN LA GRANDE SERATA DI BOXE PRO A GUIDONIA - FPI",
-   "title_es": "«ROAD TO GLORY FIGHT NIGHT» - OPI 82 - MAÑANA, CON RETRANSMISIÓN EN DIRECTO EN DAZN, LA GRAN VELADA DE BOXEO PROFESIONAL EN GUIDONIA - FPI"
   },
   {
    "title": "Oleksandr Usyk and David Benavidez in Viddal Riley’s sights as he closes in on world title ahead of his ‘riskiest’ fight",
@@ -3100,7 +2849,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 38,
-   "sources_n": 7,
+   "sources_n": 6,
    "title_it": "Tre scontri travolgenti si abbattono sull'Arabia Saudita: apertura a freddo di Riyadh Season Zuffa Boxing 13",
    "title_es": "Tres enfrentamientos trepidantes llegan a Arabia Saudí: «cold open» de Zuffa Boxing 13 de la Riyadh Season"
   },
@@ -3113,7 +2862,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 30,
-   "sources_n": 8,
+   "sources_n": 7,
    "title_it": "Carlos Adames contro Gerome Warburton: pacchetto promozionale Zuffa Boxing 13 della Riyadh Season",
    "title_es": "Carlos Adames vs. Gerome Warburton: Paquete de promoción de Zuffa Boxing 13 de la temporada de Riad"
   },
@@ -3310,8 +3059,8 @@
    "date": "2026-11-13T10:56:46+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 55,
-   "sources_n": 3,
+   "score": 65,
+   "sources_n": 4,
    "title_it": "Chris Eubank Jr. è sul punto di ottenere un grande incontro di ritorno contro l'ex campione del mondo britannico nel febbraio 2027",
    "title_es": "Chris Eubank Jr. está a punto de conseguir un gran combate de regreso contra un ex campeón del mundo británico en febrero de 2027"
   },
@@ -3361,6 +3110,18 @@
    "title_es": "Jake Paul acepta una apuesta de «el ganador se lo lleva todo» con la leyenda del kickboxing Cédric Doumbé antes del combate de Nochebuena"
   },
   {
+   "title": "Diego Pacheco ya no quiere esperar más: su ambicioso plan para llegar hasta Canelo Álvarez - DAZN",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVWJQN2cxeVAtNkNvb1NaSWx5bTJLOEVfWExfSy04YTZRM2cxYnEyLXZ3TDlkeWRzTjFvOUJCZVdtZmxZS0ZnZHZMa3dRRE9yZUc5ZkVEQWhmaGlKLXJuTXdyY1ZHbFV4Q2Fqc3oySnNVNFNmMGlXbDRhekFaWmZfM3hFc0FXTUl0SlNLMW5EMFBKMlhuMEYyaTVqc25McjlFZ3FXbk1HeER4RHRnci1ZTTBVZExSMDEzaHJqMWVJemw2dThw?oc=5",
+   "source": "Google News: boxeo",
+   "lang": "es",
+   "date": "2026-11-13T10:05:34+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 75,
+   "sources_n": 6,
+   "title_es": "Diego Pacheco ya no quiere esperar más: su ambicioso plan para llegar hasta Canelo Álvarez - DAZN"
+  },
+  {
    "title": "Maria Laura Perrotta, orgoglio cosentino agli Euro U23 di boxe - il Dot",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTURVQU1YT2p5WmhZc3BWY1VyWTRnZ0gtdTdlaS1PQjgwZHFTaFVtYjRKS0VSWDhHaHN5LUk1M0VtaENRak84MXFGMUxfSUdCaVNSYllIdjlDMmdsemhQMlFzR1JQWmRTQ1pJT3RVU0U4OVJBQUZKQmN0d3lTZnZGckNHQUJyeUVneHBvZm50Qk54dw?oc=5",
    "source": "Google News: boxe italiana",
@@ -3368,8 +3129,8 @@
    "date": "2026-11-13T09:22:40+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 10,
-   "sources_n": 2,
+   "score": 0,
+   "sources_n": 1,
    "title_it": "Maria Laura Perrotta, orgoglio cosentino agli Euro U23 di boxe - il Dot",
    "title_es": "Maria Laura Perrotta, orgullo cosentino en el Europeo sub-23 de boxeo - il Dot"
   },
@@ -3382,7 +3143,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 30,
-   "sources_n": 6,
+   "sources_n": 5,
    "title_it": "Sottocarta di Viddal Riley contro Seydi Coupe: chi altro combatterà nell'attesissimo incontro di Wembley?",
    "title_es": "Combates previos a Viddal Riley vs. Seydi Coupe: ¿Quién más pelea en el gran programa de Wembley?"
   },
@@ -3461,6 +3222,30 @@
    "title_es": "Eddie Hearn afirma que hay conversaciones en marcha entre Naoya Inoue y Bam Rodríguez"
   },
   {
+   "title": "Yo soy Rocky y el boxeo mexicano: campeones, legado y cultura - CineMedios",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DZnlqdjRKYW8zRjY2ZHZ1QlhSRzBnYVJCdGxyNVRlT2ItN2FTSkRISU03ZVVNeUlueG5NTnQwYnZTY2RfYWNVUUx4YnJldDI4RlRtLVJ6ZVQxbnVCemVOSWQzZ1p4ZW9FdU1oVlhFQkZWQ3JxOFhXbS1faW5XWms?oc=5",
+   "source": "Google News: boxeo",
+   "lang": "es",
+   "date": "2026-11-13T04:31:11+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 0,
+   "sources_n": 1,
+   "title_es": "Yo soy Rocky y el boxeo mexicano: campeones, legado y cultura - CineMedios"
+  },
+  {
+   "title": "CMB anuncia regreso del boxeo mundial a México en 2027 - Sociedad Noticias",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNWl3SkZEdVphT0ltZ3FmYzRjcnk0T1JhMlJwS2xoMVZVeXFhOVd5Z0phYndjajhRQzdUNnpSek45WmZxNWUzSHJmd0plbUVnakhQLTJQNklGRGNYcHlULUhhcHMxR1BpOUNLZFJGUDVPTUs4aXRmVDV3UjNGcFNraUJ3ZjFJb0VBdUxrdDRiTGZ2X3RyaUZuUmluZV8?oc=5",
+   "source": "Google News: boxeo",
+   "lang": "es",
+   "date": "2026-11-13T03:40:06+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 0,
+   "sources_n": 1,
+   "title_es": "CMB anuncia regreso del boxeo mundial a México en 2027 - Sociedad Noticias"
+  },
+  {
    "title": "Undefeated Diego Pacheco's Greatest Knockouts | Matchroom Boxing",
    "link": "https://www.youtube.com/watch?v=afpfx2dMjGk",
    "source": "YouTube Matchroom Boxing",
@@ -3514,6 +3299,18 @@
    "sources_n": 3,
    "title_it": "Vergil Ortiz Jr. spiega perché sta salendo a 160 per affrontare Keith Thurman",
    "title_es": "Vergil Ortiz Jr. explica por qué subirá a 160 para enfrentar a Keith Thurman"
+  },
+  {
+   "title": "Diego Pacheco vs Darius Fulghum y RWS 221: las grandes citas de boxeo y muay thai en DAZN - DAZN",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVllxTWI5M2FLUlpPd2hHZ2FnZHZocDFDS296U1YyMXNfMy1IOHd2Q3NUeHEwcGFXY2owZS02TXBBWFZLR1otSllQSll1REtteHRxRXRiaE5qVEJzSU1vU1pVdjFqRVVZaFU0YkY5N0cxd1dmSENtRWplbTRFaVc2NFZMUDc5VTJXcDAzYVl1bmdEcDk4ZVotemxJTjdOOXo5NjlYbTN6Z3EyOEpzbE5HdDQzVzNEMUVUMnFqLW9mUEowZ0xYOVo0VVJkbjVseDFzRFAzY1NoV2QxZw?oc=5",
+   "source": "Google News: boxeo",
+   "lang": "es",
+   "date": "2026-11-12T19:39:26+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 75,
+   "sources_n": 6,
+   "title_es": "Diego Pacheco vs Darius Fulghum y RWS 221: las grandes citas de boxeo y muay thai en DAZN - DAZN"
   },
   {
    "title": "Boxe: concluse le finali alle Olimpiadi Giovanili, tanti Paesi guadagnano medaglie",
@@ -3592,7 +3389,7 @@
     "Anthony Joshua"
    ],
    "score": 40,
-   "sources_n": 13,
+   "sources_n": 12,
    "title_it": "Eddie Hearn elenca Fury vs Joshua undercard e rivendica il coinvolgimento di Dana White",
    "title_es": "Eddie Hearn programa la cartelera de Fury vs Joshua y afirma la participación de Dana White"
   },
@@ -3610,19 +3407,6 @@
    "title_es": "David Benavidez revela el récord que aún le falta por batir en el boxeo"
   },
   {
-   "title": "Youth Olympic Games 2026: Bronzo per l’Azzurra Michela Guglielmon nei 48 kg. - 2out.it - Seconds Out Sport Magazine",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOFAzd0xuYkphVTRRZjg3cXo4eGFXekFxUjdlaEo0VnRQb1VpZTBDWTlVVmcyQVg4aWVHRjRDdktDUm5lTm5ENG1HV3VjeVNadHNlb3hlMlhnbVNINGRySEQwNDN6WFdiUzRsdzZQMW5YdFlQWkxBeU1aS0dyeGRJX1RWX0VMT2stcUhlaldJR2FudXVkQVRoeUJSQXZBZw?oc=5",
-   "source": "Google News: pugilato",
-   "lang": "it",
-   "date": "2026-11-12T16:24:21+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 10,
-   "sources_n": 2,
-   "title_it": "Youth Olympic Games 2026: Bronzo per l’Azzurra Michela Guglielmon nei 48 kg. - 2out.it - Seconds Out Sport Magazine",
-   "title_es": "Juegos Olímpicos de la Juventud 2026: Bronce para la italiana Michela Guglielmon en la categoría de 48 kg. - 2out.it - Seconds Out Sport Magazine"
-  },
-  {
    "title": "Boxe, la palermitana Crystal Filardi trionfa ai campionati italiani under 15 e conquista l'oro - PalermoToday",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcUFSQThKM2NXM2FNeFNydTRaa09vRlFqQ3duRU02bEYtcmFMSjMwTmxCWUVHOS1fTEJSTFBySkZNSHh6bVdGYXlnbW4zQU9DbktRZk1iMmlGYUw3TmZnYkhKd0FLXzRuekpFUjIyUEpQRTNGcWFwTkpKbmlYM3ZpVFJVaEdjbUMtSjBrSWNXSmJyRGVBVG9TdlVBWndfQQ?oc=5",
    "source": "Google News: boxe italiana",
@@ -3630,23 +3414,10 @@
    "date": "2026-11-12T15:34:52+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 10,
-   "sources_n": 2,
+   "score": 0,
+   "sources_n": 1,
    "title_it": "Boxe, la palermitana Crystal Filardi trionfa ai campionati italiani under 15 e conquista l'oro - PalermoToday",
    "title_es": "Boxeo: la palermitana Crystal Filardi triunfa en los campeonatos de Italia sub-15 y se hace con el oro - PalermoToday"
-  },
-  {
-   "title": "Pugilato, Maria Laura Perrotta vola agli Europei Under 23: l’atleta cosentina vestirà la maglia azzurra in Croazia · LaC News24 - LaC News24",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNM1JpZVFpaWlRRzRnQzBtdTNMOG02RkJYUjJHZnUyOGtkNGN5dU1YeDB4Vl9XRGZxUnRCcXpmUWRqY3BxS0RCUS03T3h4QWF4YThreDQ3OVZKOW1nSV82bFdsQlVlZWlNNlZyay1hWHhNTGZNRzcxLVdoQ2hXeDZ0MDV1Q0dCdVdRNWw2QzM3TWtEWkZ3d2VtT2hVUUFRdGloQUxxQXdKSkRHNERwUHBwaUhSeGFTdjNiQkxIS2gtWndldGt0VDBJM3NvZHZ6aVZsSDA3SEVkNmduaUw2M0xLMk40M1ZrZ9IB6wFBVV95cUxOd0ozNk1TV3dIQ0l6NVhjcmhNN0dqWUYtVXh2SmZ4SzQwRGQxd3pYQmFUX21id3JkQ0s3ckdpTU00MTl2Q3d1Mk03cXZpeFMtcFdGQzc5ZktJaHhvenpkM2ZBcHFiVW1wRF9oZWt4TjlGdE5DTkFEWU83UWVEUEtUZ2puMDR6Uk44Vlc2RG9EMnJyR0JYRnVhT3c5NEpBcnVwbkhtRDZTRHA1cHY0a29UUmFBTXRoQ0czVTVGWW1iWVIzU0l0djZSWnlGQjJZRlQwRHpsQk01TF9sd21SQ2xyQzJuOUlLX3QyVVJZ?oc=5",
-   "source": "Google News: pugilato",
-   "lang": "it",
-   "date": "2026-11-12T15:17:05+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 10,
-   "sources_n": 2,
-   "title_it": "Pugilato, Maria Laura Perrotta vola agli Europei Under 23: l’atleta cosentina vestirà la maglia azzurra in Croazia · LaC News24 - LaC News24",
-   "title_es": "Pugilato, Maria Laura Perrotta vola agli Europei Under 23: l’atleta cosentina vestirà la maglia azzurra in Croazia · LaC News24 - LaC News24"
   },
   {
    "title": "WBA orders Teofimo Lopez vs Jack Catterall amid Ryan Garcia talks",
@@ -3657,7 +3428,7 @@
    "status": "rumor",
    "boxers": [],
    "score": 85,
-   "sources_n": 5,
+   "sources_n": 6,
    "title_it": "La WBA ordina l'incontro tra Teofimo Lopez e Jack Catterall mentre sono in corso le trattative con Ryan Garcia",
    "title_es": "La WBA ordena el combate entre Teófimo López y Jack Catterall en medio de las negociaciones con Ryan García"
   },
@@ -3686,7 +3457,7 @@
     "Anthony Joshua"
    ],
    "score": 40,
-   "sources_n": 13,
+   "sources_n": 12,
    "title_it": "Dana White si aggiudica gli incontri di sottofondo di Fury vs Joshua, Eddie Hearn escluso",
    "title_es": "Dana White se hace con la velada preliminar de Fury vs. Joshua, Eddie Hearn fuera"
   },
@@ -3728,7 +3499,7 @@
     "Anthony Joshua"
    ],
    "score": 85,
-   "sources_n": 13,
+   "sources_n": 12,
    "title_it": "Eddie Hearn critica il sottoclou di Tyson Fury contro Anthony Joshua e afferma che Dana White \"non conosce la boxe\"",
    "title_es": "Eddie Hearn critica la velada preliminar de Tyson Fury contra Anthony Joshua y dice que Dana White «no sabe nada de boxeo»"
   },
@@ -3762,19 +3533,6 @@
    "title_es": "Eddie Hearn anuncia una gran unificación de títulos entre el campeón mundial británico Josh Kelly y la estrella estadounidense Jaron Ennis"
   },
   {
-   "title": "Cosenza in maglia azzurra ai Campionati Europei Under 23 di pugilato: orgoglio per Maria Laura Perrotta - Corriere della Calabria",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdnlGUjdaY3U1NHhfZDdDZU4wX1VFam4tQzZuUVhvS2cxdTJrZnlUZnNNcHZOMndkUHRaWHpkWmtlT2k1TWVUZlhvVzBESWlITGNWYXlDenNBV0FRMmdsazhkem1VWUd5SUxRYVdyS01yV0FwdHRpMDRzR1hTQU9OejdENVpldU14ZUFULW16OTIzMklKcnIzdkt1QnRQdS1FOThRNkpQdmRCWkY3WGs0LVphajZIR2NMVEZLZ2E2WEJJckk0M19SLWlBUGxyR1RQWDJHV2dQZTZzaHRvcjFpV0VVUWlCQQ?oc=5",
-   "source": "Google News: pugilato",
-   "lang": "it",
-   "date": "2026-11-12T12:27:00+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 10,
-   "sources_n": 2,
-   "title_it": "Cosenza in maglia azzurra ai Campionati Europei Under 23 di pugilato: orgoglio per Maria Laura Perrotta - Corriere della Calabria",
-   "title_es": "Cosenza con la «maglia azzurra» en el Campeonato de Europa sub-23 de boxeo: orgullo por Maria Laura Perrotta - Corriere della Calabria"
-  },
-  {
    "title": "Bam Rodriguez Looks Huge as WBC Confirms Naoya Inoue Talks",
    "link": "https://www.worldboxingnews.com/bam-rodriguez-weight-inoue-wbc-talks/",
    "source": "World Boxing News",
@@ -3790,19 +3548,6 @@
    "title_es": "Bam Rodríguez parece enorme mientras el WBC confirma las conversaciones con Naoya Inoue"
   },
   {
-   "title": "Cavarzere ha un suo baby campione italiano - Chioggia Notizie",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUWtRSDJoZDU3Y3NZaDNBNkhNQU9RY1liOGlJSlN0TTZPc19Ga1dPVlNJdmRqOExNM2FwRzI3VXNmVm90V1dZcXE1UnBJVFNZRV9XZUk2MzVaY3JnNUVVV0ZWOVhaZXZJVVdHM2d0MFhHZ3hSWGNrcjJGSlRyZDNRVE9ldXFFVllwYTVQZXdHUXVNb0FhVElWN09CUkRQUDQtMWJMdjFpLVk?oc=5",
-   "source": "Google News: pugilato",
-   "lang": "it",
-   "date": "2026-11-12T11:59:18+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 0,
-   "sources_n": 1,
-   "title_it": "Cavarzere ha un suo baby campione italiano - Chioggia Notizie",
-   "title_es": "Cavarzere tiene su propio bebé campeón de Italia - Chioggia Notizie"
-  },
-  {
    "title": "Ryan Garcia vs Teofimo Lopez unification in jeopardy as WBA make Jack Catterall ruling",
    "link": "https://talksport.com/boxing/4703203/ryan-garcia-teofimo-lopez-wba-jack-catterall/",
    "source": "Talksport Boxing",
@@ -3811,7 +3556,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 103,
-   "sources_n": 5,
+   "sources_n": 6,
    "title_it": "L'unificazione tra Ryan Garcia e Teofimo Lopez è a rischio dopo la decisione della WBA su Jack Catterall",
    "title_es": "La unificación de Ryan García y Teófimo López está en peligro tras la decisión de la WBA sobre Jack Catterall"
   },
@@ -3824,7 +3569,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 30,
-   "sources_n": 11,
+   "sources_n": 10,
    "title_it": "Eddie Hearn accetta l'offerta di combattimento di Dana White a una condizione",
    "title_es": "Eddie Hearn acepta la oferta de combate de Dana White con una condición"
   },
@@ -3958,7 +3703,7 @@
     "Anthony Joshua"
    ],
    "score": 95,
-   "sources_n": 12,
+   "sources_n": 11,
    "title_it": "Il programma degli incontri preliminari di Tyson Fury contro Anthony Joshua si arricchisce di altri due combattimenti nei pesi massimi, tra cui quello di un promettente pugile segnalato da Dana White",
    "title_es": "La velada preliminar de Tyson Fury contra Anthony Joshua contará con dos combates más de pesos pesados, incluido un púgil prometedor de Dana White"
   },
@@ -3970,8 +3715,8 @@
    "date": "2026-11-11T22:31:25+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 10,
-   "sources_n": 2,
+   "score": 0,
+   "sources_n": 1,
    "title_it": "Boxe, Michela Guglielmon sul podio alle Olimpiadi Giovanili",
    "title_es": "Boxeo: Michela Guglielmo sube al podio en los Juegos Olímpicos de la Juventud"
   },
@@ -4038,6 +3783,221 @@
    "sources_n": 10,
    "title_it": "I tifosi sono \"in delirio\" per la rivelazione del programma completo degli incontri preliminari di Tyson Fury contro Anthony Joshua per il \"Boxing's Biggest Night\" di Netflix",
    "title_es": "Se desvela que los «diabólicos» The Fumez serán los teloneros de la velada Tyson Fury - Anthony Joshua en la «Noche más grande del boxeo» de Netflix"
+  },
+  {
+   "title": "Ryan García anuncia un combate contra Mayweather... y podría caer el récord de campeón más longevo",
+   "link": "https://www.marca.com/boxeo/2026/11/11/ryan-garcia-anuncia-combate-mayweather-podria-caer-recor-campeon-longevo.html",
+   "source": "Marca Boxeo 2",
+   "lang": "es",
+   "date": "2026-11-11T18:51:13+00:00",
+   "status": "rumor",
+   "boxers": [],
+   "score": 20,
+   "sources_n": 3,
+   "title_es": "Ryan García anuncia un combate contra Mayweather... y podría caer el récord de campeón más longevo"
+  },
+  {
+   "title": "Three best British boxers to never win a world title including Chris Eubank rival who had career tragically cut short",
+   "link": "https://talksport.com/boxing/4696660/michael-watson-chris-eubank-herol-graham-jim-driscoll/",
+   "source": "Talksport Boxing",
+   "lang": "en",
+   "date": "2026-11-11T18:05:10+00:00",
+   "status": "confirmed",
+   "boxers": [],
+   "score": 63,
+   "sources_n": 3
+  },
+  {
+   "title": "Viddal Riley vs Seydi Coupe: Date, time, live stream, TV channel and card as Brit defends European cruiserweight title",
+   "link": "https://www.thesun.co.uk/sport/40983185/viddal-riley-vs-seydi-coupe-date-time-live-stream-card/",
+   "source": "The Sun Boxing",
+   "lang": "en",
+   "date": "2026-11-11T16:47:00+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 30,
+   "sources_n": 5
+  },
+  {
+   "title": "Where to watch Lee Selby’s second bare-knuckle boxing bout as Welshman chases history",
+   "link": "https://talksport.com/boxing/4701672/where-to-watch-lee-selby-bkb-61-time-undercard/",
+   "source": "Talksport Boxing",
+   "lang": "en",
+   "date": "2026-11-11T16:45:34+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 0,
+   "sources_n": 1
+  },
+  {
+   "title": "Eddie Hearn teases announcement of huge title unification involving American star and British world champ",
+   "link": "https://www.thesun.co.uk/sport/40993070/eddie-hearn-teases-title-unification-fight/",
+   "source": "The Sun Boxing",
+   "lang": "en",
+   "date": "2026-11-11T16:28:33+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 48,
+   "sources_n": 9
+  },
+  {
+   "title": "“IF HE SAYS THAT TO MY FACE I AIN’T TAKING THAT S***” - ADAM AZIM FIRES BACK AT DALTON SMITH",
+   "link": "https://www.youtube.com/watch?v=DqygVjl24jQ",
+   "source": "YouTube Pro Boxing Fans",
+   "lang": "en",
+   "date": "2026-11-11T16:28:18+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 0,
+   "sources_n": 1
+  },
+  {
+   "title": "Floyd Mayweather gets green light to return to boxing aged 49 and make history against Ryan Garcia",
+   "link": "https://www.thesun.co.uk/sport/40993554/floyd-mayweather-returns-box-ryan-garcia/",
+   "source": "The Sun Boxing",
+   "lang": "en",
+   "date": "2026-11-11T16:26:41+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 55,
+   "sources_n": 7
+  },
+  {
+   "title": "\"DANA WHITE IS NOT A PROMOTER\" - BEN SHALOM UNLEASHES SCATHING RANT ON 'IDIOTS' IN BRITISH BOXING",
+   "link": "https://www.youtube.com/watch?v=4oS4-4xwGqM",
+   "source": "YouTube Pro Boxing Fans",
+   "lang": "en",
+   "date": "2026-11-11T16:00:25+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 0,
+   "sources_n": 1
+  },
+  {
+   "title": "Jake Paul doubles down on retirement if he loses comeback fight to Cedric Doumbe… as it will end his world title hopes",
+   "link": "https://www.thesun.co.uk/sport/40992095/jake-paul-retires-losing-cedric-doumbe-fight/",
+   "source": "The Sun Boxing",
+   "lang": "en",
+   "date": "2026-11-11T15:21:23+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 73,
+   "sources_n": 4
+  },
+  {
+   "title": "Reading The Fights",
+   "link": "https://www.thefightcity.com/reading-fights/",
+   "source": "The Fight City",
+   "lang": "en",
+   "date": "2026-11-11T15:06:03+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 0,
+   "sources_n": 1
+  },
+  {
+   "title": "Tyson Fury vs Anthony Joshua winner urged to face 'hard done by' rival next",
+   "link": "https://www.mirror.co.uk/sport/boxing/anthony-joshua-tyson-fury-fight-37866797",
+   "source": "Daily Mirror Boxing",
+   "lang": "en",
+   "date": "2026-11-11T14:46:22+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Tyson Fury",
+    "Anthony Joshua"
+   ],
+   "score": 93,
+   "sources_n": 10
+  },
+  {
+   "title": "Jarrell Miller set to box Olympic champion Tony Yoka as title fight taken off table",
+   "link": "https://talksport.com/boxing/4701490/jarrell-miller-tony-yoka-olympics/",
+   "source": "Talksport Boxing",
+   "lang": "en",
+   "date": "2026-11-11T14:40:35+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 35,
+   "sources_n": 2
+  },
+  {
+   "title": "Pugilato, Antonio Moffa si laurea campione italiano Under 15 - Ottopagine",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSkVmR1FYMGVSd3QtTGVIWElJa01uWkVEY1dSZzhxcGEzWHNRRWRkaHRWOWtzZFE4SEVMcGVHOFo5UFYyYjdiWDNqSVR5MDFyX0t2eEkyYml6cnI2N3hMM0hvZFhabnZocUxKYW4yZC12TC04Q2pwaEpZRW5tXzVhSVUtU3Q1QnBNQzBmTkFnbU5uN2VORWhSeXVWZ1MxSEp2azctT0RaeWlMamtMQ2o5dy1FYmxZbUFqV2fSAaQBQVVfeXFMTlRid09uU0lPSWhRMnRvY2RJemR4cW1WVHVyWmRNNVd0MjVaZF8tdTlHdTItZWNabXFrazU1NG9MU0t2SHhib2JFVjB5aGQ4aF90RnFTZnQ3SGdNcE1VQ0pfRnhvbktSOEZISjVCR0IyNk81VlA2NUk3bjM5aWQ4Wi1uRFRCMThsWUlXaVdlQWhQV29nWHdrbnFrTk1OX0g3RTNobmU?oc=5",
+   "source": "Google News: titolo italiano pugilato",
+   "lang": "it",
+   "date": "2026-11-11T14:31:00+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 10,
+   "sources_n": 2,
+   "title_it": "Pugilato, Antonio Moffa si laurea campione italiano Under 15 - Ottopagine"
+  },
+  {
+   "title": "Tyson Fury-Anthony Joshua 1am start hinges on Cardiff Council decision",
+   "link": "https://www.boxingscene.com/articles/tyson-fury-anthony-joshua-1am-start-hinges-on-cardiff-council-decision",
+   "source": "Boxing Scene",
+   "lang": "en",
+   "date": "2026-11-11T13:09:05+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Tyson Fury",
+    "Anthony Joshua"
+   ],
+   "score": 85,
+   "sources_n": 8
+  },
+  {
+   "title": "Tyson Fury vs Anthony Joshua set to land third undercard fight set with new heavyweight addition to blockbuster bout",
+   "link": "https://www.thesun.co.uk/sport/40990153/tyson-fury-anthony-joshua-undercard-heavyweight-bout/",
+   "source": "The Sun Boxing",
+   "lang": "en",
+   "date": "2026-11-11T12:37:27+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Tyson Fury",
+    "Anthony Joshua"
+   ],
+   "score": 95,
+   "sources_n": 10
+  },
+  {
+   "title": "Filip Hrgovic gives insight into aftermath of brutal Moses Itauma fight: ‘Headache for days’",
+   "link": "https://talksport.com/boxing/4701154/filip-hrgovic-moses-itauma-fight-aftermath/",
+   "source": "Talksport Boxing",
+   "lang": "en",
+   "date": "2026-11-11T12:31:42+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 45,
+   "sources_n": 1
+  },
+  {
+   "title": "Daniel Dubois told to avoid Anthony Joshua vs Tyson Fury winner",
+   "link": "https://www.mirror.co.uk/sport/boxing/daniel-dubois-fury-joshua-fight-37865199",
+   "source": "Daily Mirror Boxing",
+   "lang": "en",
+   "date": "2026-11-11T12:20:33+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Tyson Fury",
+    "Anthony Joshua"
+   ],
+   "score": 93,
+   "sources_n": 10
+  },
+  {
+   "title": "Shock seven-fight card announced just one day before Tyson Fury vs Anthony Joshua and three miles down road",
+   "link": "https://www.thesun.co.uk/sport/40988172/tyson-fury-anthony-joshua-shock-fight-card/",
+   "source": "The Sun Boxing",
+   "lang": "en",
+   "date": "2026-11-11T12:08:11+00:00",
+   "status": "confirmed",
+   "boxers": [
+    "Tyson Fury",
+    "Anthony Joshua"
+   ],
+   "score": 95,
+   "sources_n": 10
   }
  ]
 }
