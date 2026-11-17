@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T19:16:28+00:00",
+ "updated": "2026-11-17T19:20:47+00:00",
  "feeds_ok": 48,
  "feeds_failed": 5,
  "news": [
@@ -382,7 +382,7 @@
    "date": "2026-11-17T15:15:47+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 18,
+   "score": 17,
    "sources_n": 1,
    "title_it": "La settimana del combattimento giorno per giorno: dalla conferenza stampa di lancio alla cerimonia del peso e alla serata del combattimento",
    "title_es": "La semana del combate, día a día: desde la rueda de prensa de presentación hasta el pesaje y la noche del combate"
@@ -945,7 +945,7 @@
    "date": "2026-11-17T09:16:53+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 43,
+   "score": 42,
    "sources_n": 1,
    "title_it": "Azariah Cottrell, imbattuto nei pesi piuma: \"Sono disposto a impegnarmi per diventare campione del mondo\"",
    "title_es": "Azariah Cottrell, invicto en el peso pluma: «Estoy dispuesto a esforzarme para convertirme en campeón del mundo»"
@@ -1107,7 +1107,7 @@
    "date": "2026-11-17T07:17:39+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 52,
+   "score": 51,
    "sources_n": 3,
    "title_it": "L'ultimo avversario di Lee Reeves, Gary Cully, rende un commovente omaggio al pugile tragicamente deceduto dopo il KO che lo aveva fatto entrare in coma",
    "title_es": "Gary Cully, el último oponente del fallecido Lee Reeves, rinde un emotivo homenaje al boxeador tras el KO que le provocó el coma"
@@ -2224,6 +2224,19 @@
    "title_es": "¡Nuevo rival! Canelo tendría en la mira a campeón británico - Soy Referee"
   },
   {
+   "title": "National Intermediate Championships Opening Weekend Results",
+   "link": "https://www.irish-boxing.com/national-intermediate-championships-opening-weekend-results/",
+   "source": "Irish Boxing",
+   "lang": "en",
+   "date": "2026-11-15T18:53:12+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 5,
+   "sources_n": 1,
+   "title_it": "Risultati del weekend di apertura dei Campionati Nazionali Intermedi",
+   "title_es": "Resultados del fin de semana inaugural de los Campeonatos Nacionales Intermedios"
+  },
+  {
    "title": "Aaron McKenna set for first World title defence - Northern Sound",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOX1E1X0RhWFZkSDAzeE1ZX2dhWDR3WHN1R0pweDRmSVhwMTZIa1ZwWEhWWTd5WGxaYXowRm9RYVRvVEVUNEJkLTlJUV95NVdvb0hocHhLS3ZVMFJZOTNXRnZoTGJvTG1NdWVEZ1pZX2g0bFV5RXJqdElpQUgzNUxzd2YtOHA2N2ZaUzRlNHZSOXNJcFUy?oc=5",
    "source": "Google News: boxing",
@@ -2361,7 +2374,7 @@
    "date": "2026-11-15T15:16:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 4,
+   "score": 3,
    "sources_n": 1,
    "title_it": "Max Kellerman inventa un altro titolo per Jai Opetaia",
    "title_es": "Max Kellerman inventa otro título para Jai Opetaia"
@@ -4015,19 +4028,6 @@
    "sources_n": 10,
    "title_it": "Anthony Joshua rivela il consiglio di Oleksandr Usyk per l'incontro con Tyson Fury",
    "title_es": "Anthony Joshua revela el consejo de Oleksandr Usyk para el combate contra Tyson Fury"
-  },
-  {
-   "title": "How Riley went from KSI's trainer to world-title dream",
-   "link": "https://sports.yahoo.com/articles/riley-went-ksis-trainer-world-073102656.html",
-   "source": "Yahoo Sports Boxing",
-   "lang": "en",
-   "date": "2026-11-13T07:31:02+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 0,
-   "sources_n": 1,
-   "title_it": "Come Riley è passato dall'essere l'allenatore di KSI al sognare il titolo mondiale",
-   "title_es": "Cómo Riley pasó de ser el entrenador de KSI a soñar con un título mundial"
   }
  ]
 }
