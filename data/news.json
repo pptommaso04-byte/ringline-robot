@@ -1,8 +1,21 @@
 {
- "updated": "2026-11-17T15:16:19+00:00",
- "feeds_ok": 47,
- "feeds_failed": 6,
+ "updated": "2026-11-17T15:21:44+00:00",
+ "feeds_ok": 49,
+ "feeds_failed": 4,
  "news": [
+  {
+   "title": "Fight week day by day: from the launch press conference to the weigh-in and fight night",
+   "link": "https://britishboxingnews.co.uk/blogs/fight-week-day-by-day-from-the-launch-press-conference-to-the-weigh-in-and-fight-night/",
+   "source": "British Boxing News",
+   "lang": "en",
+   "date": "2026-11-17T15:15:47+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 19,
+   "sources_n": 1,
+   "title_it": "La settimana del combattimento giorno per giorno: dalla conferenza stampa di lancio alla cerimonia del peso e alla serata del combattimento",
+   "title_es": "La semana del combate, día a día: desde la rueda de prensa de presentación hasta el pesaje y la noche del combate"
+  },
   {
    "title": "The KO dilemma: Teremoana’s team is searching for ‘deeper waters’ after 12 wins inside 2 rounds",
    "link": "https://boxingnewsonline.net/features/teremoana-deeper-waters-feature/",
@@ -63,8 +76,8 @@
    "date": "2026-11-17T14:32:28+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 29,
-   "sources_n": 1,
+   "score": 39,
+   "sources_n": 2,
    "title_it": "Il campione di tre categorie di peso Linares è stato arrestato dall'ICE",
    "title_es": "El campeón de tres pesos Linares detenido por el ICE"
   },
@@ -180,10 +193,23 @@
    "date": "2026-11-17T12:52:57+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 18,
-   "sources_n": 1,
+   "score": 28,
+   "sources_n": 2,
    "title_it": "Risultati del peso e ordine delle sfide della Fight Night di Melbourne",
    "title_es": "Resultados del pesaje y orden de los combates de la velada de Melbourne"
+  },
+  {
+   "title": "Boxing styles explained with 2026 examples: boxer, puncher, swarmer, counter-puncher",
+   "link": "https://britishboxingnews.co.uk/blogs/boxing-styles-explained-with-2026-examples-boxer-puncher-swarmer-counter-puncher/",
+   "source": "British Boxing News",
+   "lang": "en",
+   "date": "2026-11-17T12:45:52+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 28,
+   "sources_n": 1,
+   "title_it": "Spiegazione degli stili di boxe con 2026 esempi: boxer, puncher, swarmer, counter-puncher",
+   "title_es": "Explicación de los estilos de boxeo con 2026 ejemplos: boxeador, pegador, enjambre, contragolpeador"
   },
   {
    "title": "GB Boxing back 'Night of Solidarity' event for Grenfell Tower tragedy",
@@ -237,8 +263,8 @@
    "date": "2026-11-17T11:47:58+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 48,
-   "sources_n": 3,
+   "score": 58,
+   "sources_n": 4,
    "title_it": "Il pugile Lee Reeves muore a 31 anni dopo tre mesi di coma, in seguito a un knock-out sul ring",
    "title_es": "El boxeador Lee Reeves fallece a los 31 años tras tres meses en coma, después de haber sido noqueado en el ring."
   },
@@ -283,6 +309,45 @@
    "sources_n": 1,
    "title_it": "Boxe, Lee Reeves morto a 31 anni: il pugile irlandese era in coma da 3 mesi - Sky TG24",
    "title_es": "Boxeo, Lee Reeves fallece a los 31 años: el boxeador irlandés llevaba 3 meses en coma - Sky TG24"
+  },
+  {
+   "title": "How a fight card is built: running order, prelims, and why the main event goes last",
+   "link": "https://britishboxingnews.co.uk/blogs/how-a-fight-card-is-built-running-order-prelims-and-why-the-main-event-goes-last/",
+   "source": "British Boxing News",
+   "lang": "en",
+   "date": "2026-11-17T11:15:03+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 27,
+   "sources_n": 1,
+   "title_it": "Come si compone una fight card: ordine di svolgimento, incontri preliminari e perché l'evento principale è l'ultimo",
+   "title_es": "Cómo se elabora un programa de combates: orden de aparición, combates preliminares y por qué el combate estelar va al final"
+  },
+  {
+   "title": "Hagler vs Hearns round 1 known as the greatest round in boxing history",
+   "link": "https://www.reddit.com/r/Boxing/comments/1xyhkwo/hagler_vs_hearns_round_1_known_as_the_greatest/",
+   "source": "Reddit r/Boxing",
+   "lang": "en",
+   "date": "2026-11-17T11:00:19+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 27,
+   "sources_n": 1,
+   "title_it": "Hagler contro Hearns, 1° round, noto come il più grande round nella storia della boxe",
+   "title_es": "El primer asalto de Hagler contra Hearns, conocido como el mejor asalto de la historia del boxeo"
+  },
+  {
+   "title": "Boxer Lee Reeves dies from fight injuries at just 31",
+   "link": "https://britishboxingnews.co.uk/news/boxer-lee-reeves-dies-fight-injuries/",
+   "source": "British Boxing News",
+   "lang": "en",
+   "date": "2026-11-17T10:36:10+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 57,
+   "sources_n": 4,
+   "title_it": "Il pugile Lee Reeves muore a soli 31 anni per le ferite riportate durante un incontro",
+   "title_es": "El boxeador Lee Reeves muere a los 31 años a causa de las lesiones sufridas en un combate"
   },
   {
    "title": "Derek Chisora offers to ‘save’ Fury vs Joshua card by facing former heavyweight champion",
@@ -400,9 +465,22 @@
    "status": "unverified",
    "boxers": [],
    "score": 67,
-   "sources_n": 5,
+   "sources_n": 6,
    "title_it": "Ex campione del mondo di boxe arrestato dall'ICE",
    "title_es": "Un expúgil campeón del mundo detenido por el ICE"
+  },
+  {
+   "title": "Kabayel vs Hysa preview: the WBC champion’s first defence, in front of a crowd of 60,000",
+   "link": "https://britishboxingnews.co.uk/world-news/kabayel-vs-hysa-preview-the-wbc-champions-first-defence-in-front-of-a-crowd-of-60000/",
+   "source": "British Boxing News",
+   "lang": "en",
+   "date": "2026-11-17T09:45:17+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 37,
+   "sources_n": 1,
+   "title_it": "Anteprima di Kabayel vs Hysa: la prima difesa del titolo del campione WBC, davanti a un pubblico di 60.000 persone",
+   "title_es": "Avance de Kabayel vs. Hysa: la primera defensa del título del campeón del CMB, ante 60 000 espectadores"
   },
   {
    "title": "Lee Reeves morto a 31 anni, il pugile era finito in coma dopo l'incontro con Gary Cully: fatale un'infezione - Virgilio",
@@ -429,6 +507,19 @@
    "sources_n": 3,
    "title_it": "L'ex campione del mondo Linares è stato fermato dall'ICE in Texas",
    "title_es": "El excampeón del mundo Linares detenido por el ICE en Texas"
+  },
+  {
+   "title": "Undefeated featherweight Azariah Cottrell: “I’m willing to put in the work to become a world champion”",
+   "link": "https://britishboxingnews.co.uk/news/azariah-cottrell-world-champion-plans/",
+   "source": "British Boxing News",
+   "lang": "en",
+   "date": "2026-11-17T09:16:53+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 44,
+   "sources_n": 1,
+   "title_it": "Azariah Cottrell, imbattuto nei pesi piuma: \"Sono disposto a impegnarmi per diventare campione del mondo\"",
+   "title_es": "Azariah Cottrell, invicta en el peso pluma: «Estoy dispuesta a esforzarme para convertirme en campeona del mundo»"
   },
   {
    "title": "Irish boxer Lee Reeves dies at age 31, three months after Dublin title fight injury",
@@ -512,6 +603,19 @@
    "title_es": "Entradas para Tyson Fury vs. Anthony Joshua por 315 £ por persona con cervezas gratis incluidas en la oferta de atención VIP para la noche del combate"
   },
   {
+   "title": "Yabuki vs Fajardo preview: Japan’s three-time champion defends the IBF flyweight title in Tokyo",
+   "link": "https://britishboxingnews.co.uk/world-news/yabuki-vs-fajardo-preview-japans-three-time-champion-defends-the-ibf-flyweight-title-in-tokyo/",
+   "source": "British Boxing News",
+   "lang": "en",
+   "date": "2026-11-17T08:17:40+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 36,
+   "sources_n": 1,
+   "title_it": "Anteprima Yabuki vs Fajardo: il tre volte campione giapponese difende il titolo IBF dei pesi mosca a Tokyo",
+   "title_es": "Avance de Yabuki vs. Fajardo: El tricampeón japonés defiende el título del peso mosca de la IBF en Tokio"
+  },
+  {
    "title": "Unbeaten Heavyweight Teremoana Teremoana | 12 Fights, 12 KOs | Matchroom Boxing",
    "link": "https://www.saddoboxing.com/112577-unbeaten-heavyweight-teremoana-teremoana-12-fights-12-kos-matchroom-boxing.html",
    "source": "Saddo Boxing",
@@ -536,6 +640,19 @@
    "sources_n": 4,
    "title_it": "Il pugile irlandese Reeves muore all'età di 31 anni dopo tre mesi di coma",
    "title_es": "Muere el boxeador irlandés Reeves a los 31 años tras tres meses en coma"
+  },
+  {
+   "title": "Prime Michael Moorer vs. 1977 Muhammad Ali (Shavers fight) — Who wins?",
+   "link": "https://www.reddit.com/r/Boxing/comments/1xyel9q/prime_michael_moorer_vs_1977_muhammad_ali_shavers/",
+   "source": "Reddit r/Boxing",
+   "lang": "en",
+   "date": "2026-11-17T07:53:15+00:00",
+   "status": "confirmed",
+   "boxers": [],
+   "score": 44,
+   "sources_n": 2,
+   "title_it": "Michael Moorer al top della forma contro Muhammad Ali del 1977 (incontro con Shavers): chi vince?",
+   "title_es": "Michael Moorer en su mejor momento contra Muhammad Ali en 1977 (combate con Shavers): ¿quién gana?"
   },
   {
    "title": "Brixton boxing champion Bernice Ferrera honours the roots behind her world title success - The Citizen",
@@ -575,7 +692,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 56,
-   "sources_n": 4,
+   "sources_n": 5,
    "title_it": "Il pugile Lee Reeves muore a 31 anni dopo un brutale knock-out a Dublino",
    "title_es": "El boxeador Lee Reeves fallece a los 31 años tras un brutal «nocaut» en Dublín"
   },
@@ -587,7 +704,7 @@
    "date": "2026-11-17T07:17:39+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 54,
+   "score": 53,
    "sources_n": 3,
    "title_it": "L'ultimo avversario del tragico Lee Reeves, Gary Cully, pubblica un tributo emotivo al pugile dopo il KO che lo ha portato al coma",
    "title_es": "El último oponente del trágico Lee Reeves, Gary Cully, publica un emotivo homenaje al boxeador después del KO que lo llevó al coma"
@@ -666,7 +783,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 54,
-   "sources_n": 4,
+   "sources_n": 5,
    "title_it": "L'ICE arresta in Texas Jorge Linares, ex campione del mondo di boxe venezuelano - Medios OBSON",
    "title_es": "ICE detiene en Texas a Jorge Linares, excampeón mundial de boxeo venezolano - Medios OBSON"
   },
@@ -743,8 +860,8 @@
    "date": "2026-11-17T02:35:11+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 33,
-   "sources_n": 1,
+   "score": 43,
+   "sources_n": 2,
    "title_it": "42 anni fa Meldrick Taylor fece il suo debutto da professionista. \"The Kid\" finì per la prima volta sulle prime pagine dei giornali quando, all'età di 15 anni, vinse i Campionati Nazionali degli Stati Uniti nella categoria open. A 17 anni era campione olimpico. Campione del mondo in 2 categorie di peso, il suo controverso incontro contro Chavez è stato definito l'incontro del decennio.",
    "title_es": "Hace 42 años, Meldrick Taylor hizo su debut como profesional. «The Kid» apareció por primera vez en los titulares cuando ganó el Campeonato Nacional de Estados Unidos en la categoría abierta con 15 años. A los 17 años era campeón olímpico. Campeón del mundo en 2 categorías de peso, su controvertido combate contra Chávez fue nombrado el Combate de la Década."
   },
@@ -796,7 +913,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 53,
-   "sources_n": 4,
+   "sources_n": 5,
    "title_it": "L'ICE ha arrestato l'ex pugile venezuelano Jorge Linares e lo trattiene in un centro per migranti in Texas - El Carabobeño",
    "title_es": "ICE detuvo al exboxeador venezolano Jorge Linares y lo retiene en un centro migratorio de Texas - El Carabobeño"
   },
@@ -835,7 +952,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 72,
-   "sources_n": 5,
+   "sources_n": 6,
    "title_it": "L'ex campione del mondo WBA di boxe Jorge Linares viene arrestato dall'ICE e detenuto in Texas",
    "title_es": "El exboxeador campeón mundial de la WBA, Jorge Linares, es detenido por el ICE y encarcelado en Texas"
   },
@@ -847,8 +964,8 @@
    "date": "2026-11-17T00:41:32+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 52,
-   "sources_n": 3,
+   "score": 62,
+   "sources_n": 4,
    "title_it": "Linares, ex campione del mondo venezuelano di boxe, è stato fermato dall'immigrazione statunitense",
    "title_es": "El exboxeador venezolano campeón del mundo Linares detenido por Inmigración de EE. UU."
   },
@@ -860,8 +977,8 @@
    "date": "2026-11-17T00:41:32+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 52,
-   "sources_n": 3,
+   "score": 62,
+   "sources_n": 4,
    "title_it": "L'ex pugile venezuelano campione del mondo Linares è stato fermato dall'Immigrazione statunitense - Yahoo Sports",
    "title_es": "El exboxeador venezolano campeón del mundo Linares detenido por Inmigración de EE. UU. - Yahoo Sports"
   },
@@ -900,7 +1017,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 52,
-   "sources_n": 8,
+   "sources_n": 9,
    "title_it": "Il pugile irlandese Lee Reeves muore a 31 anni",
    "title_es": "El boxeador irlandés Lee Reeves fallece a los 31 años"
   },
@@ -939,7 +1056,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 52,
-   "sources_n": 4,
+   "sources_n": 5,
    "title_it": "Il pugile venezuelano Jorge Linares rimane sotto la custodia dell'ICE in un centro di detenzione in Texas - El Diario Venezuela",
    "title_es": "El boxeador venezolano Jorge Linares permanece bajo custodia del ICE en un centro de detención de Texas - El Diario Venezuela"
   },
@@ -966,8 +1083,8 @@
    "boxers": [
     "Oleksandr Usyk"
    ],
-   "score": 115,
-   "sources_n": 5,
+   "score": 105,
+   "sources_n": 3,
    "title_it": "Emanuel Odiase, imbattuto nei pesi massimi, parla dell'incontro di sparring con Oleksandr Usyk e del futuro incontro con Agit Kabayel",
    "title_es": "El invicto peso pesado Emanuel Odiase habla sobre su combate de sparring con Oleksandr Usyk y su futuro combate con Agit Kabayel"
   },
@@ -980,9 +1097,22 @@
    "status": "confirmed",
    "boxers": [],
    "score": 71,
-   "sources_n": 4,
+   "sources_n": 5,
    "title_it": "Il presidente della WBA Gilberto J Mendoza ha conferito che l'ex campione del mondo in 3 categorie, Jorge Linares, è attualmente detenuto dall'ICE.",
    "title_es": "El presidente de la WBA, Gilberto J. Mendoza, ha confirmado que el excampeón del mundo en 3 categorías, Jorge Linares, se encuentra actualmente bajo custodia del ICE."
+  },
+  {
+   "title": "Former Three Division Champion Jorge Linares in ICE Custody in El Paso",
+   "link": "https://www.boxinginsider.com/headlines/former-three-division-champion-jorge-linares-in-ice-custody-in-el-paso/",
+   "source": "Boxing Insider",
+   "lang": "en",
+   "date": "2026-11-16T21:54:26+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 51,
+   "sources_n": 7,
+   "title_it": "L'ex campione di tre categorie Jorge Linares è detenuto dall'ICE a El Paso",
+   "title_es": "El excampeón de tres divisiones Jorge Linares está bajo custodia del ICE en El Paso"
   },
   {
    "title": "The WBA has notified all relevant parties, including secondary belt-holder Jack Catterall, that Teofimo Lopez has the right to apply for a special permit to face Ryan Garcia in a WBA & WBC welterweight title unification fight planned for February 6th, live on DAZN [Ring Magazine]",
@@ -1044,8 +1174,8 @@
    "date": "2026-11-16T20:33:12+00:00",
    "status": "rumor",
    "boxers": [],
-   "score": 75,
-   "sources_n": 2,
+   "score": 65,
+   "sources_n": 1,
    "title_it": "Chris Eubank Jr in trattativa per affrontare Kell Brook nel primo incontro dopo la sconfitta contro Conor Benn, con \"Special K\" che tornerà sul ring dopo il ritiro",
    "title_es": "Chris Eubank Jr. está negociando para enfrentarse a Kell Brook en su primer combate desde la derrota ante Conor Benn, con «Special K» saliendo de su retirada."
   },
@@ -1084,7 +1214,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 50,
-   "sources_n": 4,
+   "sources_n": 5,
    "title_it": "Jorge Linares, ex campione mondiale di boxe venezuelano, è sotto la custodia dell'ICE negli Stati Uniti - Primera Edición Col",
    "title_es": "Jorge Linares, excampeón mundial de boxeo venezolano, figura bajo custodia del ICE en Estados Unidos - Primera Edición Col"
   },
@@ -1244,7 +1374,7 @@
     "Canelo Alvarez"
    ],
    "score": 83,
-   "sources_n": 11,
+   "sources_n": 10,
    "title_it": "Eddie Hearn afferma di non escludere un futuro incontro tra Canelo Álvarez e Jaron \"Boots\" Ennis 👀",
    "title_es": "Eddie Hearn afirma que no descarta un futuro combate entre Canelo Álvarez y Jaron «Boots» Ennis 👀"
   },
@@ -1269,8 +1399,8 @@
    "date": "2026-11-16T17:07:36+00:00",
    "status": "rumor",
    "boxers": [],
-   "score": 83,
-   "sources_n": 3,
+   "score": 93,
+   "sources_n": 4,
    "title_it": "Il prossimo incontro di Shakur Stevenson potrebbe costargli la cintura",
    "title_es": "El próximo combate de Shakur Stevenson podría costarle su cinturón"
   },
@@ -1477,6 +1607,19 @@
    "title_es": "El rapero británico aceptó pelear con Tommy Fury, pero nunca recibió respuesta"
   },
   {
+   "title": "A year of Zuffa Boxing: what Dana White’s boxing has changed",
+   "link": "https://britishboxingnews.co.uk/blogs/a-year-of-zuffa-boxing-what-dana-whites-boxing-has-changed/",
+   "source": "British Boxing News",
+   "lang": "en",
+   "date": "2026-11-16T14:49:45+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 47,
+   "sources_n": 9,
+   "title_it": "Un anno di Zuffa Boxing: cosa è cambiato nel pugilato di Dana White",
+   "title_es": "Un año de Zuffa Boxing: lo que ha cambiado el boxeo de Dana White"
+  },
+  {
    "title": "Top trainer Adam Booth sums up Anthony Joshua’s chances of beating Tyson Fury to become champion again",
    "link": "https://boxingnewsonline.net/news/adam-booth-on-joshua-chances-vs-fury/",
    "source": "Boxing News (UK)",
@@ -1594,7 +1737,7 @@
    "date": "2026-11-16T13:19:07+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 82,
+   "score": 81,
    "sources_n": 3,
    "title_it": "Terence Crawford nomina il suo pugile dell'anno 2026",
    "title_es": "Terence Crawford nombra a su boxeador del año 2026"
@@ -1716,8 +1859,8 @@
    "boxers": [
     "Oleksandr Usyk"
    ],
-   "score": 100,
-   "sources_n": 5,
+   "score": 90,
+   "sources_n": 3,
    "title_it": "Oleksandr Usyk ha chiesto un incontro sui ring degli stadi nella categoria dei pesi massimi leggeri prima di affrontare Benavidez: \"Ci siamo\"",
    "title_es": "Oleksandr Usyk pidió un combate en el peso crucero en un estadio antes de enfrentarse a Benavidez: «Allá vamos»."
   },
@@ -1846,8 +1989,8 @@
    "date": "2026-11-16T08:31:15+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 14,
-   "sources_n": 1,
+   "score": 24,
+   "sources_n": 2,
    "title_it": "Risultati di inscatolamento: luglio | Agosto 2026",
    "title_es": "Resultados de Boxeo: julio | agosto 2026"
   },
@@ -1944,19 +2087,6 @@
    "sources_n": 2,
    "title_it": "Il Kronk di Cardiff: la palestra dove si allenano i campioni gallesi",
    "title_es": "¿El Kronk de Cardiff? El gimnasio donde entrenan los campeones galeses"
-  },
-  {
-   "title": "Daily Discussion Thread (November 16th, 2026)",
-   "link": "https://www.reddit.com/r/Boxing/comments/1xxgqn5/daily_discussion_thread_november_16th_2026/",
-   "source": "Reddit r/Boxing",
-   "lang": "en",
-   "date": "2026-11-16T05:01:38+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 12,
-   "sources_n": 1,
-   "title_it": "Discussione quotidiana (16 novembre 2026)",
-   "title_es": "Hilo de discusión diario (16 de noviembre de 2026)"
   },
   {
    "title": "Teremoana Teremoana & Hemi Ahio Face Off In Melbourne 👀",
@@ -2092,6 +2222,19 @@
    "title_es": "Boxeo: Gloria Peritone, de Licata, se confirma como campeona de Europa de peso gallo de la EBU - Canicatti Web Notizie"
   },
   {
+   "title": "National Intermediate Championships Opening Weekend Results",
+   "link": "https://www.irish-boxing.com/national-intermediate-championships-opening-weekend-results/",
+   "source": "Irish Boxing",
+   "lang": "en",
+   "date": "2026-11-15T18:53:12+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 17,
+   "sources_n": 2,
+   "title_it": "Risultati del weekend di apertura dei Campionati Nazionali Intermedi",
+   "title_es": "Resultados del fin de semana inaugural de los Campeonatos Nacionales Intermedios"
+  },
+  {
    "title": "Aaron McKenna set for first World title defence - Northern Sound",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOX1E1X0RhWFZkSDAzeE1ZX2dhWDR3WHN1R0pweDRmSVhwMTZIa1ZwWEhWWTd5WGxaYXowRm9RYVRvVEVUNEJkLTlJUV95NVdvb0hocHhLS3ZVMFJZOTNXRnZoTGJvTG1NdWVEZ1pZX2g0bFV5RXJqdElpQUgzNUxzd2YtOHA2N2ZaUzRlNHZSOXNJcFUy?oc=5",
    "source": "Google News: boxing",
@@ -2139,7 +2282,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 37,
-   "sources_n": 6,
+   "sources_n": 8,
    "title_it": "Bruno Surace contro Kamil Bednarek: Riyadh Season Zuffa Boxing 13",
    "title_es": "Bruno Surace contra Kamil Bednarek: Riyadh Season Zuffa Boxing 13"
   },
@@ -2165,7 +2308,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 37,
-   "sources_n": 6,
+   "sources_n": 8,
    "title_it": "Jason Moloney contro Andres Teran: Riyadh Season Zuffa Boxing 13",
    "title_es": "Jason Moloney contra Andrés Terán: Riyadh Season Zuffa Boxing 13"
   },
@@ -2181,19 +2324,6 @@
    "sources_n": 3,
    "title_it": "Floyd Mayweather (49 anni) mentre fa dei lavori stradali alle 3 del mattino!! Lotta per il ritorno imminente?",
    "title_es": "¡¡Floyd Mayweather (49 años) entrenando en la calle a las 3 de la madrugada!! ¿Se acerca su regreso al ring?"
-  },
-  {
-   "title": "Is Dana White a pathological liar?",
-   "link": "https://www.reddit.com/r/Boxing/comments/1xx0yx5/is_dana_white_a_pathological_liar/",
-   "source": "Reddit r/Boxing",
-   "lang": "en",
-   "date": "2026-11-15T17:15:32+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 16,
-   "sources_n": 2,
-   "title_it": "Dana White è una bugiarda patologica?",
-   "title_es": "¿Es Dana White un mentiroso patológico?"
   },
   {
    "title": "Chávez Jr. cuestiona quién puede tomar el lugar de Canelo Álvarez: “No hay mucha tela de donde cortar” - Infobae",
@@ -2217,7 +2347,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 36,
-   "sources_n": 7,
+   "sources_n": 9,
    "title_it": "Carlos Adames contro Gerome Warburton: Riyadh Season Zuffa Boxing 13",
    "title_es": "Carlos Adames contra Gerome Warburton: Riyadh Season Zuffa Boxing 13"
   },
@@ -2255,7 +2385,7 @@
    "date": "2026-11-15T15:16:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 6,
+   "score": 5,
    "sources_n": 1,
    "title_it": "Max Kellerman inventa un altro titolo per Jai Opetaia",
    "title_es": "Max Kellerman inventa otro título para Jai ​​Opetaia"
@@ -2565,8 +2695,8 @@
    "date": "2026-11-15T07:48:27+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 12,
-   "sources_n": 2,
+   "score": 2,
+   "sources_n": 1,
    "title_it": "Harlem Eubank affronterà Greg Outlaw a Brighton, in Inghilterra, a febbraio",
    "title_es": "Harlem Eubank se enfrentará a Greg Outlaw en Brighton, Inglaterra, en febrero"
   },
@@ -2578,7 +2708,7 @@
    "date": "2026-11-15T07:19:42+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 67,
+   "score": 66,
    "sources_n": 6,
    "title_it": "Diego Pacheco contro Darius Fulghum: video con i momenti salienti dell'incontro",
    "title_es": "Diego Pacheco vs. Darius Fulghum: Vídeo con los momentos destacados del combate"
@@ -2644,7 +2774,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 30,
-   "sources_n": 6,
+   "sources_n": 8,
    "title_it": "Pre-show e due incontri preliminari: Riyadh Season Zuffa Boxing 13",
    "title_es": "Previa y dos combates preliminares: Riyadh Season Zuffa Boxing 13"
   },
@@ -2670,9 +2800,22 @@
    "status": "unverified",
    "boxers": [],
    "score": 30,
-   "sources_n": 6,
+   "sources_n": 8,
    "title_it": "Pre-show e primo incontro preliminare: Riyadh Season Zuffa Boxing 13",
    "title_es": "Previa y primer combate preliminar: Riyadh Season Zuffa Boxing 13"
+  },
+  {
+   "title": "Zuffa Boxing 13 Results: Adames Outpoints Warburton in Riyadh, Castro Upsets Butaev",
+   "link": "https://www.boxinginsider.com/headlines/zuffa-boxing-13-results-adames-outpoints-warburton-in-riyadh-castro-upsets-butaev/",
+   "source": "Boxing Insider",
+   "lang": "en",
+   "date": "2026-11-15T00:24:22+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 38,
+   "sources_n": 9,
+   "title_it": "Risultati di Zuffa Boxing 13: Adames batte Warburton ai punti a Riad, Castro sconfigge Butaev",
+   "title_es": "Resultados de Zuffa Boxing 13: Adames vence a Warburton a los puntos en Riad, Castro da la sorpresa frente a Butaev"
   },
   {
    "title": "Diego Pacheco Vs Darius Fulghum Prelims | 4 Live Fights | Matchroom Boxing",
@@ -2735,7 +2878,7 @@
    "status": "confirmed",
    "boxers": [],
    "score": 38,
-   "sources_n": 7,
+   "sources_n": 9,
    "title_it": "Zuffa Boxing 13: risultati e momenti salienti. Carlos Adames vince contro Gerome Warburton al suo debutto nella promozione",
    "title_es": "Resultados y momentos destacados de Zuffa Boxing 13: Carlos Adames se impone a Gerome Warburton en su debut en la promotora"
   },
@@ -2800,7 +2943,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 30,
-   "sources_n": 5,
+   "sources_n": 6,
    "title_it": "Un DOMINIO di 10 round | Carlos Adames contro Gerome Warburton | Incontro completo",
    "title_es": "Un DOMINIO de 10 asaltos | Carlos Adames vs. Gerome Warburton | Combate completo"
   },
@@ -2826,7 +2969,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 30,
-   "sources_n": 7,
+   "sources_n": 9,
    "title_it": "Evento completo: Riyadh Season Zuffa Boxing 13",
    "title_es": "Evento completo: Riyadh Season Zuffa Boxing 13"
   },
@@ -2839,7 +2982,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 30,
-   "sources_n": 7,
+   "sources_n": 9,
    "title_it": "Conferenza stampa post-incontro: Riyadh Season Zuffa Boxing 13",
    "title_es": "Rueda de prensa posterior al combate: Riyadh Season Zuffa Boxing 13"
   },
@@ -2867,7 +3010,7 @@
     "Canelo Alvarez"
    ],
    "score": 93,
-   "sources_n": 8,
+   "sources_n": 7,
    "title_it": "Risultati in diretta di Diego Pacheco contro Darius Fulghum, aggiornamenti round per round, ingressi sul ring per l'incontro di stasera su TNT",
    "title_es": "Resultados en directo de Diego Pacheco contra Darius Fulghum, actualizaciones asalto a asalto, salidas al ring para el combate de esta noche en TNT"
   },
@@ -2906,7 +3049,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 40,
-   "sources_n": 7,
+   "sources_n": 9,
    "title_it": "Riyadh Season Zuffa Boxing 14: McKenna affronterà Aleksejevs nella prima difesa del titolo mondiale - BBC",
    "title_es": "Riyadh Season Zuffa Boxing 14: McKenna se enfrentará a Aleksejevs en su primera defensa del título mundial - BBC"
   },
@@ -3010,9 +3153,22 @@
    "status": "unverified",
    "boxers": [],
    "score": 20,
-   "sources_n": 7,
+   "sources_n": 9,
    "title_it": "Orario di inizio di Zuffa Boxing 13, scheda dell'incontro, pronostici e dove guardare Carlos Adames contro Gerome Warburton",
    "title_es": "Hora de inicio de Zuffa Boxing 13, cartelera, predicciones y dónde ver a Carlos Adames contra Gerome Warburton"
+  },
+  {
+   "title": "Boxing Insider Results: Figueroa Stops Caraballo Ramos in Rematch, Four Stoppages at Tropicana Atlantic City",
+   "link": "https://www.boxinginsider.com/headlines/boxing-insider-results-figueroa-stops-caraballo-ramos-in-rematch-four-stoppages-at-tropicana-atlantic-city/",
+   "source": "Boxing Insider",
+   "lang": "en",
+   "date": "2026-11-14T16:01:53+00:00",
+   "status": "confirmed",
+   "boxers": [],
+   "score": 18,
+   "sources_n": 2,
+   "title_it": "Risultati di Boxing Insider: Figueroa ferma Caraballo Ramos nella rivincita, quattro incontri interrotti al Tropicana di Atlantic City",
+   "title_es": "Resultados de Boxing Insider: Figueroa noquea a Caraballo Ramos en la revancha, cuatro combates por nocaut en el Tropicana de Atlantic City"
   },
   {
    "title": "IT'S OVER IN THE 1ST ROUND #Zuffaboxing13",
@@ -3062,7 +3218,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 30,
-   "sources_n": 7,
+   "sources_n": 9,
    "title_it": "Risultati di Zuffa Boxing 13: Adames contro Warburton",
    "title_es": "Resultados de Zuffa Boxing 13: Adames vs. Warburton"
   },
@@ -3153,7 +3309,7 @@
    "status": "confirmed",
    "boxers": [],
    "score": 38,
-   "sources_n": 7,
+   "sources_n": 9,
    "title_it": "Zuffa Boxing 13 risultati dal vivo, aggiornamenti round-by-round, passeggiate sul ring per Carlos Adames vs. Gerome Warburton",
    "title_es": "Resultados en vivo de Zuffa Boxing 13, actualizaciones ronda por ronda, caminatas en el ring para Carlos Adames contra Gerome Warburton"
   },
@@ -3207,7 +3363,7 @@
     "Oleksandr Usyk"
    ],
    "score": 85,
-   "sources_n": 8,
+   "sources_n": 6,
    "title_it": "Viddal Riley spiega perché è rimasto con suo padre invece di trasferirsi a Las Vegas per allenarsi con Mayweather, mentre punta a combattere contro Oleksandr Usyk",
    "title_es": "Viddal Riley explica por qué se quedó con su padre en lugar de mudarse a Las Vegas para entrenar con Mayweather, mientras se plantea enfrentarse a Oleksandr Usyk."
   },
@@ -3246,7 +3402,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 30,
-   "sources_n": 6,
+   "sources_n": 8,
    "title_it": "Intorno al tavolo: giudicare il primo anno di Zuffa Boxing",
    "title_es": "Alrededor de la mesa: evaluación del primer año de Zuffa Boxing"
   },
@@ -3342,7 +3498,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 0,
-   "sources_n": 1,
+   "sources_n": 2,
    "title_it": "\"The Greatest\", la serie di Prime Video su Muhammad Ali - BergamoNews",
    "title_es": "«The Greatest», la serie de Prime Video sobre Muhammad Ali - BergamoNews"
   },
@@ -3498,7 +3654,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 40,
-   "sources_n": 6,
+   "sources_n": 8,
    "title_it": "Jason Moloney sta pianificando il suo ritorno verso un titolo mondiale | Zuffa Boxing 13 - UFC.com",
    "title_es": "Jason Moloney está trazando su camino de regreso a un título mundial | Zuffa Boxing 13 - UFC.com"
   },
@@ -3537,9 +3693,35 @@
    "status": "unverified",
    "boxers": [],
    "score": 30,
-   "sources_n": 7,
+   "sources_n": 9,
    "title_it": "Gerome Warburton è sempre lo sfavorito e vince sempre: Riyadh Season Zuffa Boxing 13",
    "title_es": "Gerome Warburton siempre es el menos favorito y siempre acaba ganando: Riyadh Season Zuffa Boxing 13"
+  },
+  {
+   "title": "Tonight in Atlantic City: Fight Order, Free Stream and Everything You Need",
+   "link": "https://www.boxinginsider.com/headlines/fight-night-tropicana-atlantic-city-guide/",
+   "source": "Boxing Insider",
+   "lang": "en",
+   "date": "2026-11-13T18:47:44+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 10,
+   "sources_n": 2,
+   "title_it": "Stasera ad Atlantic City: ordine degli incontri, streaming gratuito e tutto ciò di cui hai bisogno",
+   "title_es": "Esta noche en Atlantic City: orden de los combates, retransmisión gratuita y todo lo que necesitas"
+  },
+  {
+   "title": "Fight Day in Atlantic City: The Rematch Nobody Could Walk Away From",
+   "link": "https://www.boxinginsider.com/headlines/fight-day-in-atlantic-city-the-rematch-nobody-could-walk-away-from/",
+   "source": "Boxing Insider",
+   "lang": "en",
+   "date": "2026-11-13T18:26:30+00:00",
+   "status": "rumor",
+   "boxers": [],
+   "score": 10,
+   "sources_n": 2,
+   "title_it": "Giorno dell'incontro ad Atlantic City: la rivincita da cui nessuno poteva tirarsi indietro",
+   "title_es": "Día de la pelea en Atlantic City: la revancha de la que nadie podía escapar"
   },
   {
    "title": "Viddal Riley vs. Seydi Coupe press conference quotes and fight prediction",
@@ -3602,7 +3784,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 38,
-   "sources_n": 7,
+   "sources_n": 9,
    "title_it": "Carlos Adames: \"Metterò al tappeto Gerome Warburton in tre round\": Riyadh Season Zuffa Boxing 13",
    "title_es": "Carlos Adames: «Voy a noquear a Gerome Warburton en tres asaltos»: Riyadh Season Zuffa Boxing 13"
   },
@@ -3617,7 +3799,7 @@
     "Oleksandr Usyk"
    ],
    "score": 103,
-   "sources_n": 9,
+   "sources_n": 7,
    "title_it": "Oleksandr Usyk e David Benavidez nel mirino di Viddal Riley, mentre si avvicina al titolo mondiale prima del suo incontro \"più rischioso\"",
    "title_es": "Oleksandr Usyk y David Benavidez en el punto de mira de Viddal Riley, que se acerca al título mundial antes de su combate «más arriesgado»"
   },
@@ -3630,7 +3812,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 38,
-   "sources_n": 6,
+   "sources_n": 8,
    "title_it": "Tre scontri travolgenti si abbattono sull'Arabia Saudita: apertura a freddo di Riyadh Season Zuffa Boxing 13",
    "title_es": "Tres enfrentamientos trepidantes llegan a Arabia Saudí: «cold open» de Zuffa Boxing 13 de la Riyadh Season"
   },
@@ -3756,8 +3938,8 @@
    "date": "2026-11-13T12:07:13+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 63,
-   "sources_n": 2,
+   "score": 53,
+   "sources_n": 1,
    "title_it": "L'evento di ritorno di Jake Paul è stato potenziato dall'aggiunta della rivincita del titolo mondiale unificato e dell'olimpionico statunitense",
    "title_es": "El evento de regreso de Jake Paul impulsado por la incorporación de la revancha por el título mundial unificado y el atleta olímpico de EE. UU."
   },
@@ -3802,206 +3984,6 @@
    "sources_n": 10,
    "title_it": "Dove guardare Tyson Fury vs Anthony Joshua oltre alla copertura talkSPORT per un mega-incontro",
    "title_es": "Dónde ver Tyson Fury vs Anthony Joshua más cobertura de talkSPORT para la mega pelea"
-  },
-  {
-   "title": "Tyson Fury vs Anthony Joshua date and start time plus confirmed venue for December showdown",
-   "link": "https://talksport.com/boxing/4522107/tyson-fury-vs-anthony-joshua-fight-date-venue-confirmed/",
-   "source": "Talksport Boxing",
-   "lang": "en",
-   "date": "2026-11-13T11:29:03+00:00",
-   "status": "confirmed",
-   "boxers": [
-    "Tyson Fury",
-    "Anthony Joshua"
-   ],
-   "score": 95,
-   "sources_n": 10,
-   "title_it": "Data e ora di inizio di Tyson Fury vs Anthony Joshua più sede confermata per lo showdown di dicembre",
-   "title_es": "Fecha y hora de inicio de Tyson Fury vs Anthony Joshua, además del lugar confirmado para el enfrentamiento de diciembre"
-  },
-  {
-   "title": "Chris Eubank Jr on brink of securing huge comeback fight against British former world champion in February 2027",
-   "link": "https://www.thesun.co.uk/sport/41012499/chris-eubank-jr-comeback-fight-february-2027-kell-brook/",
-   "source": "The Sun Boxing",
-   "lang": "en",
-   "date": "2026-11-13T10:56:46+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 55,
-   "sources_n": 3,
-   "title_it": "Chris Eubank Jr. è sul punto di ottenere un grande incontro di ritorno contro l'ex campione del mondo britannico nel febbraio 2027",
-   "title_es": "Chris Eubank Jr. está a punto de conseguir un gran combate de regreso contra un ex campeón del mundo británico en febrero de 2027"
-  },
-  {
-   "title": "Anthony Joshua explains what advice Oleksandr Usyk gave him for Tyson Fury fight",
-   "link": "https://talksport.com/boxing/4705507/anthony-joshua-oleksandr-usyk-tyson-fury-fight/",
-   "source": "Talksport Boxing",
-   "lang": "en",
-   "date": "2026-11-13T10:52:10+00:00",
-   "status": "unverified",
-   "boxers": [
-    "Tyson Fury",
-    "Anthony Joshua",
-    "Oleksandr Usyk"
-   ],
-   "score": 85,
-   "sources_n": 11,
-   "title_it": "Anthony Joshua spiega quale consiglio gli ha dato Oleksandr Usyk per il combattimento con Tyson Fury",
-   "title_es": "Anthony Joshua explica qué consejo le dio Oleksandr Usyk para la pelea con Tyson Fury"
-  },
-  {
-   "title": "The penny's dropped for Willy Hutchinson but Canelo Alvarez is a whole different ball game",
-   "link": "https://www.mirror.co.uk/sport/boxing/willy-hutchinson-canelo-alvarez-fight-37873634",
-   "source": "Daily Mirror Boxing",
-   "lang": "en",
-   "date": "2026-11-13T10:27:08+00:00",
-   "status": "unverified",
-   "boxers": [
-    "Canelo Alvarez"
-   ],
-   "score": 75,
-   "sources_n": 3,
-   "title_it": "Willy Hutchinson ha capito come stanno le cose, ma Canelo Álvarez è un'altra storia.",
-   "title_es": "Willy Hutchinson se ha dado cuenta, pero Canelo Álvarez es otra historia completamente distinta."
-  },
-  {
-   "title": "Jake Paul agrees to winner-takes-all bet with kickboxing legend Cedric Doumbe ahead of Christmas Eve fight",
-   "link": "https://www.thesun.co.uk/sport/41003691/jake-paul-agrees-winner-takes-all-bet-cedric-doumbe/",
-   "source": "The Sun Boxing",
-   "lang": "en",
-   "date": "2026-11-13T10:11:04+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 43,
-   "sources_n": 2,
-   "title_it": "Jake Paul accetta una scommessa \"il vincitore prende tutto\" con la leggenda del kickboxing Cedric Doumbe prima dell'incontro della vigilia di Natale",
-   "title_es": "Jake Paul acepta una apuesta de «el ganador se lo lleva todo» con la leyenda del kickboxing Cédric Doumbé antes del combate de Nochebuena"
-  },
-  {
-   "title": "Diego Pacheco ya no quiere esperar más: su ambicioso plan para llegar hasta Canelo Álvarez - DAZN",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVWJQN2cxeVAtNkNvb1NaSWx5bTJLOEVfWExfSy04YTZRM2cxYnEyLXZ3TDlkeWRzTjFvOUJCZVdtZmxZS0ZnZHZMa3dRRE9yZUc5ZkVEQWhmaGlKLXJuTXdyY1ZHbFV4Q2Fqc3oySnNVNFNmMGlXbDRhekFaWmZfM3hFc0FXTUl0SlNLMW5EMFBKMlhuMEYyaTVqc25McjlFZ3FXbk1HeER4RHRnci1ZTTBVZExSMDEzaHJqMWVJemw2dThw?oc=5",
-   "source": "Google News: boxeo",
-   "lang": "es",
-   "date": "2026-11-13T10:05:34+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 75,
-   "sources_n": 6,
-   "title_it": "Diego Pacheco non vuole più aspettare: il suo ambizioso piano per arrivare a Canelo Álvarez - DAZN",
-   "title_es": "Diego Pacheco ya no quiere esperar más: su ambicioso plan para llegar hasta Canelo Álvarez - DAZN"
-  },
-  {
-   "title": "Maria Laura Perrotta, orgoglio cosentino agli Euro U23 di boxe - il Dot",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTURVQU1YT2p5WmhZc3BWY1VyWTRnZ0gtdTdlaS1PQjgwZHFTaFVtYjRKS0VSWDhHaHN5LUk1M0VtaENRak84MXFGMUxfSUdCaVNSYllIdjlDMmdsemhQMlFzR1JQWmRTQ1pJT3RVU0U4OVJBQUZKQmN0d3lTZnZGckNHQUJyeUVneHBvZm50Qk54dw?oc=5",
-   "source": "Google News: boxe italiana",
-   "lang": "it",
-   "date": "2026-11-13T09:22:40+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 0,
-   "sources_n": 1,
-   "title_it": "Maria Laura Perrotta, orgoglio cosentino agli Euro U23 di boxe - il Dot",
-   "title_es": "Maria Laura Perrotta, orgullo de Cosenza en la Eurocopa U23 de boxeo - El Punto"
-  },
-  {
-   "title": "Viddal Riley vs Seydi Coupe undercard: Who else is fighting on huge Wembley bill?",
-   "link": "https://www.thesun.co.uk/sport/40984322/viddal-riley-vs-seydi-coupe-full-undercard/",
-   "source": "The Sun Boxing",
-   "lang": "en",
-   "date": "2026-11-13T08:47:00+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 30,
-   "sources_n": 5,
-   "title_it": "Sottocarta di Viddal Riley contro Seydi Coupe: chi altro combatterà nell'attesissimo incontro di Wembley?",
-   "title_es": "Combates previos a Viddal Riley vs. Seydi Coupe: ¿Quién más pelea en el gran programa de Wembley?"
-  },
-  {
-   "title": "DEV SAHNI REACTS TO TYSON FURY VS ANTHONY JOSHUA LICENCE DRAMA, DEONTAY WILDER VS JAI OPETAIA",
-   "link": "https://www.youtube.com/watch?v=Sby7fFEI7Zo",
-   "source": "YouTube Pro Boxing Fans",
-   "lang": "en",
-   "date": "2026-11-13T08:00:04+00:00",
-   "status": "unverified",
-   "boxers": [
-    "Tyson Fury",
-    "Anthony Joshua"
-   ],
-   "score": 55,
-   "sources_n": 1,
-   "title_it": "DEV SAHNI COMMENTA LA VICENDA DELLA LICENZA PER TYSON FURY CONTRO ANTHONY JOSHUA, DEONTAY WILDER CONTRO JAI OPETAIA",
-   "title_es": "DEV SAHNI REACCIONA AL DRAMA DE LA LICENCIA DE TYSON FURY CONTRA ANTHONY JOSHUA, DEONTAY WILDER CONTRA JAI OPETAIA"
-  },
-  {
-   "title": "Anthony Joshua reveals Oleksandr Usyk advice for Tyson Fury fight",
-   "link": "https://www.mirror.co.uk/sport/boxing/anthony-joshua-tyson-fury-fight-37871083",
-   "source": "Daily Mirror Boxing",
-   "lang": "en",
-   "date": "2026-11-13T08:00:00+00:00",
-   "status": "unverified",
-   "boxers": [
-    "Tyson Fury",
-    "Anthony Joshua",
-    "Oleksandr Usyk"
-   ],
-   "score": 85,
-   "sources_n": 11,
-   "title_it": "Anthony Joshua rivela il consiglio di Oleksandr Usyk per l'incontro con Tyson Fury",
-   "title_es": "Anthony Joshua revela el consejo de Oleksandr Usyk para el combate contra Tyson Fury"
-  },
-  {
-   "title": "How Riley went from KSI's trainer to world-title dream",
-   "link": "https://sports.yahoo.com/articles/riley-went-ksis-trainer-world-073102656.html",
-   "source": "Yahoo Sports Boxing",
-   "lang": "en",
-   "date": "2026-11-13T07:31:02+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 10,
-   "sources_n": 2,
-   "title_it": "Come Riley è passato dall'essere l'allenatore di KSI al sognare il titolo mondiale",
-   "title_es": "Cómo Riley pasó de ser el entrenador de KSI a soñar con un título mundial"
-  },
-  {
-   "title": "Viddal Riley: How Briton went from KSI's trainer to brink of world-title shot - BBC",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE16TmtzMFRvVUxrcTJCLVYxTlpMY1BYbmQ1NjByT0IxOHVVd18zczFsZ3I4QmlwNFJqUlhWTWFfcVNrcEJJeXNiUFBvUW84MU5vMmxrNWdTd2FTZnpiMzRHTnNEaG9Rdw?oc=5",
-   "source": "Google News: boxing",
-   "lang": "en",
-   "date": "2026-11-13T07:30:58+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 30,
-   "sources_n": 6,
-   "title_it": "Viddal Riley: come il britannico è passato dall'essere l'allenatore di KSI all'essere a un passo dal titolo mondiale - BBC",
-   "title_es": "Viddal Riley: cómo el británico pasó de ser el entrenador de KSI a estar a punto de disputar el título mundial - BBC"
-  },
-  {
-   "title": "Naoya Inoue-Bam Rodriguez talks underway, says Eddie Hearn",
-   "link": "https://www.boxingscene.com/articles/naoya-inoue-bam-rodriguez-talks-underway-says-eddie-hearn",
-   "source": "Boxing Scene",
-   "lang": "en",
-   "date": "2026-11-13T07:17:03+00:00",
-   "status": "rumor",
-   "boxers": [
-    "Naoya Inoue"
-   ],
-   "score": 85,
-   "sources_n": 6,
-   "title_it": "Sono in corso trattative tra Naoya Inoue e Bam Rodriguez, afferma Eddie Hearn",
-   "title_es": "Eddie Hearn afirma que hay conversaciones en marcha entre Naoya Inoue y Bam Rodríguez"
-  },
-  {
-   "title": "Undefeated Diego Pacheco's Greatest Knockouts | Matchroom Boxing",
-   "link": "https://www.youtube.com/watch?v=afpfx2dMjGk",
-   "source": "YouTube Matchroom Boxing",
-   "lang": "en",
-   "date": "2026-11-13T01:30:07+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 63,
-   "sources_n": 2,
-   "title_it": "I più grandi knockout di Diego Pacheco, imbattuto | Matchroom Boxing",
-   "title_es": "Los mejores nocauts del invicto Diego Pacheco | Matchroom Boxing"
   }
  ]
 }
