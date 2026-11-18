@@ -1,8 +1,24 @@
 {
- "updated": "2026-11-18T19:02:37+00:00",
- "feeds_ok": 48,
- "feeds_failed": 5,
+ "updated": "2026-11-18T19:07:10+00:00",
+ "feeds_ok": 47,
+ "feeds_failed": 6,
  "news": [
+  {
+   "title": "Former Anthony Joshua trainer Tony Sims predicts Tyson Fury fight: “You’ve got to favour him”",
+   "link": "https://boxingnewsonline.net/news/former-joshua-trainer-sims-on-fury-fight/",
+   "source": "Boxing News (UK)",
+   "lang": "en",
+   "date": "2026-11-18T19:01:50+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Tyson Fury",
+    "Anthony Joshua"
+   ],
+   "score": 114,
+   "sources_n": 7,
+   "title_it": "L'ex allenatore di Anthony Joshua, Tony Sims, fa le sue previsioni sull'incontro con Tyson Fury: \"Bisogna puntare su di lui\"",
+   "title_es": "Tony Sims, exentrenador de Anthony Joshua, hace su pronóstico para el combate de Tyson Fury: «Hay que apostar por él»."
+  },
   {
    "title": "NO SOFT FIGHTS for Keith \"One Time\" Thurman",
    "link": "https://www.youtube.com/watch?v=FnWSIk_8zX0",
@@ -26,7 +42,8 @@
    "boxers": [],
    "score": 29,
    "sources_n": 1,
-   "title_it": "Pugilato, il campione d’Italia Ferramosca ospite a TV Prato: “Coronato un sogno” - Tv Prato"
+   "title_it": "Pugilato, il campione d’Italia Ferramosca ospite a TV Prato: “Coronato un sogno” - Tv Prato",
+   "title_es": "Boxeo, el campeón de Italia Ferramosca, invitado en TV Prato: «Se ha cumplido un sueño» - TV Prato"
   },
   {
    "title": "Zaquin Moses Backs Mayweather Against Today’s Champions",
@@ -80,7 +97,8 @@
    "boxers": [],
    "score": 29,
    "sources_n": 1,
-   "title_it": "Boxe, la Quero-Chiloiro protagonista in Sardegna: successi e crescita al torneo “Oltre il ring” - Giornale RossoBlu"
+   "title_it": "Boxe, la Quero-Chiloiro protagonista in Sardegna: successi e crescita al torneo “Oltre il ring” - Giornale RossoBlu",
+   "title_es": "El boxeo, con la protagonista Quero-Chiloiro en Cerdeña: éxitos y crecimiento en el torneo «Oltre il ring» - Giornale RossoBlu"
   },
   {
    "title": "Win December 5th. Get the Jai Opetaia fight. Conquer the cruiserweight division.",
@@ -142,8 +160,9 @@
    "date": "2026-11-18T17:02:58+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 29,
+   "score": 28,
    "sources_n": 1,
+   "title_it": "¡Il Messico è una potenza della boxe! È leader nel mondo con oltre 5.000 pugili professionisti attivi - Viva la Noticia",
    "title_es": "¡México es potencia del boxeo! Lidera el mundo con más de 5 mil peleadores profesionales activos - Viva la Noticia"
   },
   {
@@ -221,6 +240,7 @@
    "boxers": [],
    "score": 28,
    "sources_n": 1,
+   "title_it": "Il Messico è il Paese con il maggior numero di pugili professionisti al mondo - Infobae",
    "title_es": "México es el país con más boxeadores profesionales en el mundo - Infobae"
   },
   {
@@ -352,7 +372,8 @@
    "boxers": [],
    "score": 28,
    "sources_n": 1,
-   "title_it": "Pugilato, Bruno Bernasconi è campione svizzero élite: il titolo torna in Ticino - Corriere del Ticino"
+   "title_it": "Pugilato, Bruno Bernasconi è campione svizzero élite: il titolo torna in Ticino - Corriere del Ticino",
+   "title_es": "Boxeo: Bruno Bernasconi es campeón suizo élite; el título vuelve al Tesino - Corriere del Ticino"
   },
   {
    "title": "Jorge Linares, excampeón mundial de boxeo, enfrenta un proceso de deportación tras ser detenido por el ICE en Texas - EL PAÍS",
@@ -363,7 +384,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 58,
-   "sources_n": 6,
+   "sources_n": 7,
    "title_it": "Jorge Linares, ex campione del mondo di pugilato, rischia l'espulsione dopo essere stato arrestato dall'ICE in Texas - EL PAÍS",
    "title_es": "Jorge Linares, excampeón mundial de boxeo, enfrenta un proceso de deportación tras ser detenido por el ICE en Texas - EL PAÍS"
   },
@@ -432,7 +453,8 @@
    "boxers": [],
    "score": 27,
    "sources_n": 1,
-   "title_it": "Donare sangue, un gesto da campioni: Patrizio Oliva ad Aversa per una mattinata di donazioni - Corriere dello Sport"
+   "title_it": "Donare sangue, un gesto da campioni: Patrizio Oliva ad Aversa per una mattinata di donazioni - Corriere dello Sport",
+   "title_es": "Donar sangre, un gesto de campeones: Patrizio Oliva en Aversa para una mañana de donaciones - Corriere dello Sport"
   },
   {
    "title": "Boxe, bene Fabian Lafratta nel match di ritorno dopo un anno lontano dal ring - VCO Azzurra TV",
@@ -444,7 +466,8 @@
    "boxers": [],
    "score": 27,
    "sources_n": 1,
-   "title_it": "Boxe, bene Fabian Lafratta nel match di ritorno dopo un anno lontano dal ring - VCO Azzurra TV"
+   "title_it": "Boxe, bene Fabian Lafratta nel match di ritorno dopo un anno lontano dal ring - VCO Azzurra TV",
+   "title_es": "Boxeo: buen regreso de Fabián Lafratta al ring tras un año de ausencia - VCO Azzurra TV"
   },
   {
    "title": "Teremoana Teremoana Calls For World Title Shot After Stopping Ahio - Boxing News 24",
@@ -587,9 +610,10 @@
    "date": "2026-11-18T13:04:42+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 27,
+   "score": 26,
    "sources_n": 1,
-   "title_it": "Bruno Bernasconi è campione svizzero élite nei 65 kg - Ticinonline"
+   "title_it": "Bruno Bernasconi è campione svizzero élite nei 65 kg - Ticinonline",
+   "title_es": "Bruno Bernasconi es campeón suizo élite en 65 kg - Ticinonline"
   },
   {
    "title": "L'eleganza sul ring: Bruno Visintin, il gentiluomo che conquistò l'Europa - La Gazzetta dello Sport",
@@ -601,7 +625,8 @@
    "boxers": [],
    "score": 26,
    "sources_n": 1,
-   "title_it": "L'eleganza sul ring: Bruno Visintin, il gentiluomo che conquistò l'Europa - La Gazzetta dello Sport"
+   "title_it": "L'eleganza sul ring: Bruno Visintin, il gentiluomo che conquistò l'Europa - La Gazzetta dello Sport",
+   "title_es": "L'eleganza sul ring: Bruno Visintin, il gentiluomo che conquistò l'Europa - La Gazzetta dello Sport"
   },
   {
    "title": "Lauren Price Vs Michaela Kotaskova Upgraded To Historic Undisputed World Title Showdown - FightNews",
@@ -815,7 +840,7 @@
    "date": "2026-11-18T11:03:42+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 36,
+   "score": 35,
    "sources_n": 1,
    "title_it": "Grandi momenti: nove anni fa Zolani Tete conquistava la difesa del titolo mondiale più veloce - Sowetan",
    "title_es": "Grandes momentos: nueve años desde que Zolani Tete consiguió la defensa de un título mundial más rápida - Sowetan"
@@ -845,7 +870,9 @@
    "status": "unverified",
    "boxers": [],
    "score": 25,
-   "sources_n": 1
+   "sources_n": 1,
+   "title_it": "Categoria dei pesi massimi leggeri 2027: perché improvvisamente attira l'attenzione di tutti",
+   "title_es": "Peso crucero 2027: por qué la división ha captado de repente la atención de todo el mundo"
   },
   {
    "title": "Jarrell Miller contacted about facing Deontay Wilder on Joshua-Fury undercard",
@@ -872,7 +899,9 @@
    "status": "unverified",
    "boxers": [],
    "score": 25,
-   "sources_n": 1
+   "sources_n": 1,
+   "title_it": "Il primo incontro di boxe maschile per il titolo mondiale si terrà in Kenya: Javan Buyu affronterà un avversario pakistano - TV47 Digital",
+   "title_es": "Kenia acogerá el primer combate masculino por el título mundial de boxeo, en el que Javan Buyu se enfrentará a un púgil paquistaní - TV47 Digital"
   },
   {
    "title": "MOUT COLD WITH ONE PUNCH 😤A vicious KO in Australia from 21-year-old Omar El-Abdallah today 💥",
@@ -923,7 +952,8 @@
    "boxers": [],
    "score": 25,
    "sources_n": 1,
-   "title_it": "Pugilato come disciplina di intelligenza: la serata Panathlon di Fano - Vivere Fano"
+   "title_it": "Pugilato come disciplina di intelligenza: la serata Panathlon di Fano - Vivere Fano",
+   "title_es": "El boxeo como disciplina de inteligencia: la velada Panathlon de Fano - Vivere Fano"
   },
   {
    "title": "Reason behind Aussie world champ’s shock withdrawal revealed - Nine.com.au",
@@ -934,7 +964,9 @@
    "status": "unverified",
    "boxers": [],
    "score": 25,
-   "sources_n": 1
+   "sources_n": 1,
+   "title_it": "Rivelato il motivo del ritiro shock della campionessa del mondo australiana - Nine.com.au",
+   "title_es": "Se revela el motivo de la sorprendente retirada del campeón del mundo australiano - Nine.com.au"
   },
   {
    "title": "Wladimir Klitschko ‘staying ready for boxing comeback’ with one target in mind",
@@ -985,7 +1017,8 @@
    "boxers": [],
    "score": 25,
    "sources_n": 1,
-   "title_it": "Dario Morello dopo la morte di Lee Reeves: \"La stampa italiana parla di boxe solo quando ci sono disgrazie\" - The Shield Of Sports"
+   "title_it": "Dario Morello dopo la morte di Lee Reeves: \"La stampa italiana parla di boxe solo quando ci sono disgrazie\" - The Shield Of Sports",
+   "title_es": "Dario Morello tras la muerte de Lee Reeves: «La prensa italiana solo habla de boxeo cuando hay desgracias» - The Shield Of Sports"
   },
   {
    "title": "Tyson Fury vs Anthony Joshua fans warned about FIVE HOUR taxi queues with locals snubbing ‘mental’ ticket prices",
@@ -1071,7 +1104,8 @@
    "boxers": [],
    "score": 24,
    "sources_n": 1,
-   "title_it": "Boxe, Clemente Russo-Mohamed Elmaghraby sabato 21 novembre a Milano per TAF 14: orario, card completa e diretta tv in chiaro su Italia1 - sport2u.tv"
+   "title_it": "Boxe, Clemente Russo-Mohamed Elmaghraby sabato 21 novembre a Milano per TAF 14: orario, card completa e diretta tv in chiaro su Italia1 - sport2u.tv",
+   "title_es": "Boxeo, Clemente Russo-Mohamed Elmaghraby, sábado 21 de noviembre en Milán para TAF 14: horario, cartel completo y retransmisión en abierto por Italia1 - sport2u.tv"
   },
   {
    "title": "Masuda vs Tsutsumi II preview: a rematch for the WBA bantamweight title in Tokyo",
@@ -1082,7 +1116,9 @@
    "status": "unverified",
    "boxers": [],
    "score": 34,
-   "sources_n": 1
+   "sources_n": 1,
+   "title_it": "Anteprima di Masuda vs Tsutsumi II: la rivincita per il titolo WBA dei pesi gallo a Tokyo",
+   "title_es": "Avance de Masuda vs. Tsutsumi II: una revancha por el título del peso gallo de la WBA en Tokio"
   },
   {
    "title": "Dillian Whyte says Tyson Fury vs Anthony Joshua ends in 5 rounds and might not even make it out the first",
@@ -1110,7 +1146,8 @@
    "boxers": [],
    "score": 23,
    "sources_n": 1,
-   "title_it": "Boxe: quei bravi ragazzi (e gli altri) - Il Corriere Nazionale"
+   "title_it": "Boxe: quei bravi ragazzi (e gli altri) - Il Corriere Nazionale",
+   "title_es": "Boxeo: esos buenos chicos (y los demás) - Il Corriere Nazionale"
   },
   {
    "title": "Kekko, pugni dolci per Pietro. Il più giovane boxeur tra i prof omaggia l’amico scomparso - Il Resto del Carlino",
@@ -1122,7 +1159,8 @@
    "boxers": [],
    "score": 31,
    "sources_n": 1,
-   "title_it": "Kekko, pugni dolci per Pietro. Il più giovane boxeur tra i prof omaggia l’amico scomparso - Il Resto del Carlino"
+   "title_it": "Kekko, pugni dolci per Pietro. Il più giovane boxeur tra i prof omaggia l’amico scomparso - Il Resto del Carlino",
+   "title_es": "Kekko, puños suaves para Pietro. El boxeador profesional más joven rinde homenaje a su amigo fallecido - Il Resto del Carlino"
   },
   {
    "title": "Schofield and Mason Open Lightweight Unification Talks",
@@ -1147,7 +1185,8 @@
    "boxers": [],
    "score": 32,
    "sources_n": 2,
-   "title_it": "Blood & Canvas Bareknuckle Boxing Recensione: pugni duri, ma non basta - Italia Top Games"
+   "title_it": "Blood & Canvas Bareknuckle Boxing Recensione: pugni duri, ma non basta - Italia Top Games",
+   "title_es": "Reseña de Blood & Canvas Bareknuckle Boxing: puños duros, pero no es suficiente - Italia Top Games"
   },
   {
    "title": "Gervonta Davis' comeback fight not a rush job",
@@ -1196,7 +1235,7 @@
    "date": "2026-11-18T03:02:41+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 32,
+   "score": 31,
    "sources_n": 2,
    "title_it": "Oscar Collazo affronta Joey Canoy nell'incontro di supporto a Serrano-Falzon",
    "title_es": "Oscar Collazo se enfrenta a Joey Canoy en el combate previo a Serrano-Falzon"
@@ -1210,7 +1249,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 50,
-   "sources_n": 6,
+   "sources_n": 7,
    "title_it": "L'ICE arresta Jorge Linares, \"El Niño de Oro\", ex pugile venezuelano: cosa sappiamo del caso? - El Financiero",
    "title_es": "ICE arresta a Jorge Linares, ‘El Niño de Oro’, exboxeador venezolano: ¿Qué es lo que sabemos del caso? - El Financiero"
   },
@@ -1275,7 +1314,9 @@
    "status": "unverified",
    "boxers": [],
    "score": 20,
-   "sources_n": 1
+   "sources_n": 1,
+   "title_it": "\"Deve odiare il terzo round\": continua la FOLLIA della stella australiana... mentre si avvicinano gli incontri per il titolo - Fox Sports",
+   "title_es": "«Debe odiar el tercer asalto»: la INCREÍBLE racha de la estrella australiana continúa... a medida que se acercan las peleas por el título - Fox Sports"
   },
   {
    "title": "Why was Jorge Linares detained by ICE? Former three-division boxing world champion held in Texas custody - The Times of India",
@@ -1286,7 +1327,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 59,
-   "sources_n": 6,
+   "sources_n": 7,
    "title_it": "Perché Jorge Linares è stato detenuto dall'ICE? L'ex campione del mondo di boxe in tre categorie è detenuto in Texas - The Times of India",
    "title_es": "¿Por qué detuvo el ICE a Jorge Linares? El excampeón mundial de boxeo en tres categorías está detenido en Texas - The Times of India"
   },
@@ -1312,7 +1353,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 49,
-   "sources_n": 6,
+   "sources_n": 7,
    "title_it": "L'ex campione di boxe in tre categorie di peso Jorge Linares è stato arrestato dall'ICE in Texas",
    "title_es": "El ex campeón de boxeo en tres categorías Jorge Linares detenido por el ICE en Texas"
   },
@@ -1354,7 +1395,8 @@
    "boxers": [],
    "score": 19,
    "sources_n": 1,
-   "title_it": "Alla Camera di Commercio di Cuneo il lancio dei Campionati Italiani Assoluti Elite 2026 - 2out.it - Seconds Out Sport Magazine"
+   "title_it": "Alla Camera di Commercio di Cuneo il lancio dei Campionati Italiani Assoluti Elite 2026 - 2out.it - Seconds Out Sport Magazine",
+   "title_es": "En la Cámara de Comercio de Cúneo, la presentación de los Campeonatos de Italia Absolutos Élite 2026 - 2out.it - Seconds Out Sport Magazine"
   },
   {
    "title": "Detienen al excampeón mundial de boxeo, Jorge Linares: ¿qué se sabe de su situación? - Periódico Correo",
@@ -1365,7 +1407,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 49,
-   "sources_n": 6,
+   "sources_n": 7,
    "title_it": "Arrestato l'ex campione del mondo di boxe Jorge Linares: cosa si sa della sua situazione? - Periódico Correo",
    "title_es": "Detienen al excampeón mundial de boxeo, Jorge Linares: ¿qué se sabe de su situación? - Periódico Correo"
   },
@@ -1379,7 +1421,8 @@
    "boxers": [],
    "score": 19,
    "sources_n": 1,
-   "title_it": "Vittorio Ferri, il pugile e Maestro di Quattrostrade: nel 2027 un Memorial per ricordarlo - Format Rieti"
+   "title_it": "Vittorio Ferri, il pugile e Maestro di Quattrostrade: nel 2027 un Memorial per ricordarlo - Format Rieti",
+   "title_es": "Vittorio Ferri, el boxeador y maestro de Quattrostrade: en 2027, un memorial para recordarlo - Format Rieti"
   },
   {
    "title": "Canelo’s trainer Eddy Reynoso delivers honest verdict on Usyk vs Benavidez: “He’s looked very strong”",
@@ -1433,7 +1476,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 49,
-   "sources_n": 6,
+   "sources_n": 7,
    "title_it": "Chi è Jorge Linares? L'ex campione del mondo di boxe arrestato dall'ICE in Texas - Luz Noticias",
    "title_es": "¿Quién es Jorge Linares? El excampeón mundial de boxeo arrestado por el ICE en Texas - Luz Noticias"
   },
@@ -1447,7 +1490,8 @@
    "boxers": [],
    "score": 29,
    "sources_n": 1,
-   "title_it": "Sport, Capolei (FI): congratulazioni a Giovanni Sarchioto per trionfo Wbo pugilato - The Dailycases"
+   "title_it": "Sport, Capolei (FI): congratulazioni a Giovanni Sarchioto per trionfo Wbo pugilato - The Dailycases",
+   "title_es": "Deporte, Capolei (FI): felicitaciones a Giovanni Sarchioto por su triunfo en boxeo de la OMB - The Dailycases"
   },
   {
    "title": "“Real war is coming”: Former champion appears to confirm Gervonta Davis fight",
@@ -1472,7 +1516,8 @@
    "boxers": [],
    "score": 18,
    "sources_n": 1,
-   "title_it": "Dalla Val Camonica ai vertici europei di kickboxing: Giulia Baffelli porta a casa due medaglie: \"L'orgoglio d'Italia sul tetto d'Europa\" - il Dolomiti"
+   "title_it": "Dalla Val Camonica ai vertici europei di kickboxing: Giulia Baffelli porta a casa due medaglie: \"L'orgoglio d'Italia sul tetto d'Europa\" - il Dolomiti",
+   "title_es": "Del valle de Camonica a las cumbres europeas del kickboxing: Giulia Baffelli se lleva a casa dos medallas: «El orgullo de Italia en lo más alto de Europa» - il Dolomiti"
   },
   {
    "title": "Adeleye defeats Flores to capture WBA International heavyweight title - World Boxing Association",
@@ -1582,19 +1627,6 @@
    "title_es": "Terence Crawford resume las posibilidades de Jaron Ennis de convertirse en campeón indiscutible en el peso superwélter (154 libras)."
   },
   {
-   "title": "Hall of Famer who lost a split decision to Mayweather warns Ryan Garcia on fight: “He could play with you”",
-   "link": "https://boxingnewsonline.net/news/hof-who-lost-to-mayweather-on-garcia/",
-   "source": "Boxing News (UK)",
-   "lang": "en",
-   "date": "2026-11-17T18:28:47+00:00",
-   "status": "rumor",
-   "boxers": [],
-   "score": 52,
-   "sources_n": 2,
-   "title_it": "Un membro della Hall of Fame, sconfitto da Mayweather per decisione non unanime, avverte Ryan Garcia in merito all'incontro: \"Potrebbe giocarti uno scherzo\"",
-   "title_es": "Un miembro del Salón de la Fama que perdió por decisión dividida ante Mayweather advierte a Ryan García sobre el combate: «Podría jugar contigo»."
-  },
-  {
    "title": "Amari Jones vs DeAundre Pettus: Prediction and fight card for November 20",
    "link": "https://bigfightweekend.com/2026/11/17/amari-jones-vs-deaundre-pettus/",
    "source": "Big Fight Weekend",
@@ -1617,6 +1649,7 @@
    "boxers": [],
    "score": 17,
    "sources_n": 1,
+   "title_it": "Excampeón mundial de boxeo es arrestado en Estados Unidos y sus abo... - Contraparte | Giornalismo in equilibrio",
    "title_es": "Excampeón mundial de boxeo es arrestado en Estados Unidos y sus abo... - Contraparte | Periodismo en Equilibrio"
   },
   {
@@ -1628,7 +1661,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 47,
-   "sources_n": 6,
+   "sources_n": 7,
    "title_it": "L'ex campione mondiale di pugilato venezuelano Jorge Linares è stato arrestato dalle autorità per l'immigrazione degli Stati Uniti - Extra News Mundo",
    "title_es": "Ex campeón mundial de boxeo venezolano Jorge Linares, fue detenido por las autoridades migratorias de Estados Unidos - Extra News Mundo"
   },
@@ -1684,6 +1717,7 @@
    "boxers": [],
    "score": 17,
    "sources_n": 1,
+   "title_it": "\"Me tiene el ICE\": ex campione del mondo di boxe arrestato negli Stati Uniti - Juanfutbol",
    "title_es": "\"Me tiene el ICE\": excampeón mundial de boxeo es arrestado en Estados Unidos - Juanfutbol"
   },
   {
@@ -1727,7 +1761,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 46,
-   "sources_n": 6,
+   "sources_n": 7,
    "title_it": "\"Me tiene el ICE\": Jorge Linares, ex campione mondiale di boxe venezuelano, è stato arrestato in Texas, Stati Uniti - NTN24",
    "title_es": "“Me tiene el ICE”: Jorge Linares, excampeón mundial de boxeo venezolano, fue detenido en Texas, Estados Unidos - NTN24"
   },
@@ -1871,8 +1905,9 @@
    "date": "2026-11-17T15:04:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 16,
+   "score": 15,
    "sources_n": 1,
+   "title_it": "Ex campione mondiale di boxe venezuelano arrestato dall'ICE - La Prensa - Notizie dal Nicaragua e dal mondo",
    "title_es": "Excampeón mundial de boxeo de Venezuela es detenido por ICE - La Prensa - Noticias de Nicaragua y el mundo"
   },
   {
@@ -1883,9 +1918,10 @@
    "date": "2026-11-17T15:03:38+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 16,
+   "score": 15,
    "sources_n": 1,
-   "title_it": "Lee Reeves è morto, il pugile era in coma da tre mesi dopo un incontro - Spazio50"
+   "title_it": "Lee Reeves è morto, il pugile era in coma da tre mesi dopo un incontro - Spazio50",
+   "title_es": "Lee Reeves ha fallecido; el boxeador llevaba tres meses en coma tras un combate - Spazio50"
   },
   {
    "title": "El venezolano Jorge “El Niño de Oro” Linares, extricampeón mundial de boxeo, se encuentra bajo custodia del Servicio de Inmigración y Control de Aduanas de Estados Unidos (ICE, por sus siglas en inglés), confirmó Gilberto Jesús Mendoza, presidente de l - Instagram",
@@ -1896,7 +1932,8 @@
    "status": "unverified",
    "boxers": [],
    "score": 35,
-   "sources_n": 6,
+   "sources_n": 7,
+   "title_it": "Il venezuelano Jorge \"El Niño de Oro\" Linares, ex campione del mondo di boxe, è sotto la custodia del Servizio di immigrazione e controllo doganale degli Stati Uniti (ICE, acronimo inglese), ha confermato Gilberto Jesús Mendoza, presidente della - Instagram",
    "title_es": "El venezolano Jorge “El Niño de Oro” Linares, extricampeón mundial de boxeo, se encuentra bajo custodia del Servicio de Inmigración y Control de Aduanas de Estados Unidos (ICE, por sus siglas en inglés), confirmó Gilberto Jesús Mendoza, presidente de l - Instagram"
   },
   {
@@ -1922,7 +1959,8 @@
    "boxers": [],
    "score": 15,
    "sources_n": 1,
-   "title_it": "Lee Reeves, morto il pugile irlandese di 31 anni: era in coma da 3 mesi - la Repubblica"
+   "title_it": "Lee Reeves, morto il pugile irlandese di 31 anni: era in coma da 3 mesi - la Repubblica",
+   "title_es": "Muere Lee Reeves, el boxeador irlandés de 31 años: llevaba 3 meses en coma - la Repubblica"
   },
   {
    "title": "0-32 Boxer Has ‘HARDCORE’ Tattoo, Nine KO Losses Under 60s",
@@ -1947,7 +1985,8 @@
    "boxers": [],
    "score": 15,
    "sources_n": 1,
-   "title_it": "EURO U23 BOXING CHAMPIONSHIPS POREC 2026 - MATCH DAY 2 | 17/11 - RISULTATI ITABOXING - FPI"
+   "title_it": "EURO U23 BOXING CHAMPIONSHIPS POREC 2026 - MATCH DAY 2 | 17/11 - RISULTATI ITABOXING - FPI",
+   "title_es": "CAMPEONATO DE EUROPA DE BOXEO SUB-23 POREC 2026 - JORNADA 2 | 17/11 - RESULTADOS ITABOXING - FPI"
   },
   {
    "title": "Richard Riakporhe offers to fight Deontay Wilder on Fury-Joshua card",
@@ -1987,7 +2026,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 57,
-   "sources_n": 6,
+   "sources_n": 7,
    "title_it": "L'ex campione del mondo in tre categorie Jorge Linares è stato arrestato dall'ICE",
    "title_es": "El ex campeón mundial de tres divisiones Jorge Linares detenido por el ICE"
   },
@@ -2087,7 +2126,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 54,
-   "sources_n": 6,
+   "sources_n": 7,
    "title_it": "\"È una follia\": l'ex campione del mondo di boxe Jorge Linares arrestato dall'ICE - Metro.co.uk",
    "title_es": "«Esto es una locura»: el exboxeador campeón del mundo Jorge Linares, detenido por el ICE - Metro.co.uk"
   },
@@ -2101,7 +2140,8 @@
    "boxers": [],
    "score": 14,
    "sources_n": 1,
-   "title_it": "Boxe, Lee Reeves morto a 31 anni: il pugile irlandese era in coma da 3 mesi - Sky TG24"
+   "title_it": "Boxe, Lee Reeves morto a 31 anni: il pugile irlandese era in coma da 3 mesi - Sky TG24",
+   "title_es": "Boxeo, Lee Reeves fallece a los 31 años: el boxeador irlandés llevaba 3 meses en coma - Sky TG24"
   },
   {
    "title": "Irish boxer Lee Reeves dies aged 31, three months after suffering injuries in fight",
@@ -2126,7 +2166,8 @@
    "boxers": [],
    "score": 13,
    "sources_n": 1,
-   "title_it": "Morto Lee Reeves: il pugile era finito in coma dopo un incontro. L'ultimo avversario: \"Fatico a scrivere\" - Il Fatto Quotidiano"
+   "title_it": "Morto Lee Reeves: il pugile era finito in coma dopo un incontro. L'ultimo avversario: \"Fatico a scrivere\" - Il Fatto Quotidiano",
+   "title_es": "Muere Lee Reeves: el boxeador había quedado en coma tras un combate. Su último adversario: «Me cuesta escribir» - Il Fatto Quotidiano"
   },
   {
    "title": "Lee Reeves è morto a 31 anni, tre mesi dopo aver riportato gravi ferite in un incontro di boxe - Informat.ro",
@@ -2138,7 +2179,8 @@
    "boxers": [],
    "score": 13,
    "sources_n": 1,
-   "title_it": "Lee Reeves è morto a 31 anni, tre mesi dopo aver riportato gravi ferite in un incontro di boxe - Informat.ro"
+   "title_it": "Lee Reeves è morto a 31 anni, tre mesi dopo aver riportato gravi ferite in un incontro di boxe - Informat.ro",
+   "title_es": "Lee Reeves ha fallecido a los 31 años, tres meses después de sufrir graves lesiones en un combate de boxeo - Informat.ro"
   },
   {
    "title": "Lee Reeves Dies at 31, Boxing’s Tragic Death Toll Grows",
@@ -2163,7 +2205,8 @@
    "boxers": [],
    "score": 13,
    "sources_n": 1,
-   "title_it": "Lee Reeves è morto a 31 anni dopo tre mesi di coma: il pugile guerriero che salvava vite fuori dal ring - Fanpage"
+   "title_it": "Lee Reeves è morto a 31 anni dopo tre mesi di coma: il pugile guerriero che salvava vite fuori dal ring - Fanpage",
+   "title_es": "Lee Reeves ha fallecido a los 31 años tras tres meses en coma: el boxeador guerrero que salvaba vidas fuera del ring - Fanpage"
   },
   {
    "title": "Lee Reeves muore a 31 anni dopo tre mesi in coma: fatale il ko sul ring - RaiNews",
@@ -2175,7 +2218,8 @@
    "boxers": [],
    "score": 21,
    "sources_n": 1,
-   "title_it": "Lee Reeves muore a 31 anni dopo tre mesi in coma: fatale il ko sul ring - RaiNews"
+   "title_it": "Lee Reeves muore a 31 anni dopo tre mesi in coma: fatale il ko sul ring - RaiNews",
+   "title_es": "Lee Reeves muere a los 31 años tras tres meses en coma: fatal el nocaut en el ring - RaiNews"
   },
   {
    "title": "Former world champion boxer Jorge Linares detained by ICE",
@@ -2186,7 +2230,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 53,
-   "sources_n": 6,
+   "sources_n": 7,
    "title_it": "Ex campione del mondo di boxe arrestato dall'ICE",
    "title_es": "Un expúgil campeón del mundo detenido por el ICE"
   },
@@ -2200,7 +2244,8 @@
    "boxers": [],
    "score": 23,
    "sources_n": 2,
-   "title_it": "Lee Reeves morto a 31 anni, il pugile era finito in coma dopo l'incontro con Gary Cully: fatale un'infezione - Virgilio"
+   "title_it": "Lee Reeves morto a 31 anni, il pugile era finito in coma dopo l'incontro con Gary Cully: fatale un'infezione - Virgilio",
+   "title_es": "Lee Reeves muere a los 31 años. El boxeador había entrado en coma tras su combate con Gary Cully: una infección le provocó la muerte - Virgilio"
   },
   {
    "title": "Ex-world champion Linares detained by ICE in Texas",
@@ -2238,7 +2283,8 @@
    "boxers": [],
    "score": 12,
    "sources_n": 1,
-   "title_it": "Boxe: dopo tre mesi in coma è morto a 31 anni il pugile irlandese Lee Reeves - Sportmediaset"
+   "title_it": "Boxe: dopo tre mesi in coma è morto a 31 anni il pugile irlandese Lee Reeves - Sportmediaset",
+   "title_es": "Boxeo: tras tres meses en coma, fallece a los 31 años el boxeador irlandés Lee Reeves - Sportmediaset"
   },
   {
    "title": "Irish boxer Lee Reeves tragically dies aged 31 after three months in coma",
@@ -2313,7 +2359,7 @@
    "date": "2026-11-17T07:01:42+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 12,
+   "score": 11,
    "sources_n": 1,
    "title_it": "Nino Greco in finale di Coppa Piemonte - Il Biellese"
   },
@@ -2378,7 +2424,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 40,
-   "sources_n": 6,
+   "sources_n": 7,
    "title_it": "L'ICE arresta in Texas Jorge Linares, ex campione del mondo di pugilato venezuelano - Medios OBSON",
    "title_es": "ICE detiene en Texas a Jorge Linares, excampeón mundial de boxeo venezolano - Medios OBSON"
   },
@@ -2452,7 +2498,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 39,
-   "sources_n": 6,
+   "sources_n": 7,
    "title_it": "L'ICE ha arrestato l'ex pugile venezuelano Jorge Linares e lo trattiene in un centro per migranti in Texas - El Carabobeño",
    "title_es": "ICE detuvo al exboxeador venezolano Jorge Linares y lo retiene en un centro migratorio de Texas - El Carabobeño"
   },
@@ -2465,7 +2511,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 58,
-   "sources_n": 6,
+   "sources_n": 7,
    "title_it": "L'ex pugile campione del mondo WBA Jorge Linares viene arrestato dall'ICE e trattenuto in Texas",
    "title_es": "El ex boxeador campeón mundial AMB Jorge Linares es arrestado por ICE y retenido en Texas"
   },
@@ -2478,7 +2524,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 48,
-   "sources_n": 5,
+   "sources_n": 6,
    "title_it": "Linares, ex campione del mondo venezuelano di boxe, è stato fermato dall'immigrazione statunitense",
    "title_es": "El exboxeador venezolano campeón del mundo Linares detenido por Inmigración de EE. UU."
   },
@@ -2491,7 +2537,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 48,
-   "sources_n": 5,
+   "sources_n": 6,
    "title_it": "L'ex campione del mondo venezuelano di boxe Linares è stato fermato dall'Immigrazione statunitense - Yahoo Sports",
    "title_es": "El exboxeador venezolano campeón del mundo Linares detenido por Inmigración de EE. UU. - Yahoo Sports"
   },
@@ -2543,7 +2589,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 38,
-   "sources_n": 6,
+   "sources_n": 7,
    "title_it": "Il pugile venezuelano Jorge Linares rimane sotto la custodia dell'ICE in un centro di detenzione in Texas - El Diario Venezuela",
    "title_es": "El boxeador venezolano Jorge Linares permanece bajo custodia del ICE en un centro de detención de Texas - El Diario Venezuela"
   },
@@ -2556,7 +2602,22 @@
    "status": "unverified",
    "boxers": [],
    "score": 32,
-   "sources_n": 1
+   "sources_n": 1,
+   "title_it": "Le sconfitte \"indimenticabili\" di Tszyu alimentano la sfida con Lara - Fox Sports",
+   "title_es": "Las derrotas «traumáticas» de Tszyu alimentan el combate contra Lara - Fox Sports"
+  },
+  {
+   "title": "Former Three Division Champion Jorge Linares in ICE Custody in El Paso",
+   "link": "https://www.boxinginsider.com/headlines/former-three-division-champion-jorge-linares-in-ice-custody-in-el-paso/",
+   "source": "Boxing Insider",
+   "lang": "en",
+   "date": "2026-11-16T21:54:26+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 37,
+   "sources_n": 7,
+   "title_it": "L'ex campione di tre categorie Jorge Linares è detenuto dall'ICE a El Paso",
+   "title_es": "El excampeón de tres divisiones Jorge Linares está bajo custodia del ICE en El Paso"
   },
   {
    "title": "Chris Eubank Jr in talks to fight Kell Brook in first bout since Conor Benn loss - with 'Special K' to come out of retirement",
@@ -2593,7 +2654,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 36,
-   "sources_n": 6,
+   "sources_n": 7,
    "title_it": "Jorge Linares, ex campione mondiale di boxe venezuelano, è sotto la custodia dell'ICE negli Stati Uniti - Primera Edición Col",
    "title_es": "Jorge Linares, excampeón mundial de boxeo venezolano, figura bajo custodia del ICE en Estados Unidos - Primera Edición Col"
   },
@@ -2687,7 +2748,7 @@
    "date": "2026-11-16T17:01:18+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 50,
+   "score": 49,
    "sources_n": 3,
    "title_it": "PBC Face to Face: Vergil Ortiz Jr. contro Keith Thurman | Episodio completo ora disponibile",
    "title_es": "PBC Face to Face: Vergil Ortiz Jr. vs. Keith Thurman | Episodio completo ya disponible"
@@ -2848,7 +2909,9 @@
    "status": "unverified",
    "boxers": [],
    "score": 23,
-   "sources_n": 1
+   "sources_n": 1,
+   "title_it": "Il promotore minaccia di citare in giudizio l'IBF se il campione europeo non ottiene l'opportunità di contendersi il titolo mondiale - DAZN",
+   "title_es": "Un promotor amenaza con demandar a la IBF si el campeón de Europa no opta al título mundial - DAZN"
   },
   {
    "title": "Bellizzi, Matteo Squillante campione italiano di pugilato a 14 anni - SUD TV |114",
@@ -2858,7 +2921,7 @@
    "date": "2026-11-16T13:04:11+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 3,
+   "score": 2,
    "sources_n": 1,
    "title_it": "Bellizzi, Matteo Squillante campione italiano di pugilato a 14 anni - SUD TV |114"
   },
@@ -2938,8 +3001,8 @@
    "date": "2026-11-16T10:44:48+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 56,
-   "sources_n": 2,
+   "score": 46,
+   "sources_n": 1,
    "title_it": "Jack Catterall critica Teofimo Lopez, definendolo \"imbarazzante\", mentre cerca di ottenere l'incontro con Ryan Garcia",
    "title_es": "Jack Catterall critica a Teófimo López por su «vergonzoso» comportamiento mientras intenta conseguir un combate con Ryan García"
   },
@@ -2999,23 +3062,10 @@
    "date": "2026-11-16T08:31:15+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 0,
-   "sources_n": 1,
+   "score": 10,
+   "sources_n": 2,
    "title_it": "Risultati di pugilato: luglio | agosto 2026",
    "title_es": "Resultados de boxeo: julio | agosto de 2026"
-  },
-  {
-   "title": "‘160 is the next move’: Xander Zayas confirms move to middleweight",
-   "link": "https://www.badlefthook.com/boxing-news/120439/xander-zayas-confirms-move-to-middleweight-boxing-news-2026",
-   "source": "Bad Left Hook",
-   "lang": "en",
-   "date": "2026-11-16T08:26:12-05:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 3,
-   "sources_n": 1,
-   "title_it": "\"La categoria dei 160 libbre è la prossima mossa\": Xander Zayas conferma il passaggio ai pesi medi",
-   "title_es": "«El siguiente paso es el peso medio (160 libras)»: Xander Zayas confirma su paso al peso medio"
   },
   {
    "title": "Ottant’anni sul ring: pugni, cuore e gloria - La Provincia di Cremona",
@@ -3117,6 +3167,7 @@
    "boxers": [],
    "score": 25,
    "sources_n": 1,
+   "title_it": "¡Nuevo rival! Canelo tendría en la mira a campeón británico - Soy Referee",
    "title_es": "¡Nuevo rival! Canelo tendría en la mira a campeón británico - Soy Referee"
   },
   {
@@ -3140,8 +3191,8 @@
    "date": "2026-11-15T18:00:35+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 20,
-   "sources_n": 3,
+   "score": 30,
+   "sources_n": 4,
    "title_it": "Bruno Surace contro Kamil Bednarek: Riyadh Season Zuffa Boxing 13",
    "title_es": "Bruno Surace contra Kamil Bednarek: Riyadh Season Zuffa Boxing 13"
   },
@@ -3166,8 +3217,8 @@
    "date": "2026-11-15T17:30:11+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 20,
-   "sources_n": 3,
+   "score": 30,
+   "sources_n": 4,
    "title_it": "Jason Moloney contro Andres Teran: Riyadh Season Zuffa Boxing 13",
    "title_es": "Jason Moloney contra Andrés Terán: Riyadh Season Zuffa Boxing 13"
   },
@@ -3180,7 +3231,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 30,
-   "sources_n": 4,
+   "sources_n": 5,
    "title_it": "Carlos Adames contro Gerome Warburton: Riyadh Season Zuffa Boxing 13",
    "title_es": "Carlos Adames contra Gerome Warburton: Riyadh Season Zuffa Boxing 13"
   },
@@ -3292,7 +3343,9 @@
    "status": "confirmed",
    "boxers": [],
    "score": 18,
-   "sources_n": 1
+   "sources_n": 1,
+   "title_it": "L'ex campione britannico di boxe ottiene un brutale KO e vince il titolo mondiale di pugilato a mani nude - talkSPORT",
+   "title_es": "Un ex campeón británico de boxeo consigue un brutal KO para ganar el título mundial de boxeo a puño limpio - talkSPORT"
   },
   {
    "title": "Deontay Wilder vs Jai Opetaia: George Groves makes knockout prediction for heavyweight clash",
@@ -3359,6 +3412,18 @@
    "title_it": "Un oro, un argento e due bronzi ai campionati italiani under 15 - NoiTV"
   },
   {
+   "title": "Boxe, D’Ortenzi vince e convince: è ancora lui il Campione d’Europa - RomaToday",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNloxcTRhS1JFY0t0OVV5SlNISW4zalRrM3J6a01KeDRQb3d4S3AwQ0VLVFVtWDJlTzYydDhvMlZWY09QU0o0WmVVS1JHMWRDNVprcC1ua0dhT25UV1J3dHg5Mkt5OEJVdTJEQ2ZBaDJEMXdjV1MwdXk3ZkdLVl9TbWxWZ1ZKRWk4WHdTWHVxVkY?oc=5",
+   "source": "Google News: pugilato",
+   "lang": "it",
+   "date": "2026-11-15T11:03:32+00:00",
+   "status": "confirmed",
+   "boxers": [],
+   "score": 10,
+   "sources_n": 2,
+   "title_it": "Boxe, D’Ortenzi vince e convince: è ancora lui il Campione d’Europa - RomaToday"
+  },
+  {
    "title": "“TYSON FURY IS QUIET BECAUSE…” - DAVE COLDWELL ON ANTHONY JOSHUA, DEONTAY WILDER VS JAI OPETAIA",
    "link": "https://www.youtube.com/watch?v=JLZuBLRKtZo",
    "source": "YouTube Pro Boxing Fans",
@@ -3375,18 +3440,6 @@
    "title_es": "«A NADIE LE IMPORTA UNA M***»: DAVE COLDWELL CRITICA LA CARTELERA SECUNDARIA DE TYSON FURY CONTRA ANTHONY JOSHUA"
   },
   {
-   "title": "Boxe, D’Ortenzi vince e convince: è ancora lui il Campione d’Europa - RomaToday",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNloxcTRhS1JFY0t0OVV5SlNISW4zalRrM3J6a01KeDRQb3d4S3AwQ0VLVFVtWDJlTzYydDhvMlZWY09QU0o0WmVVS1JHMWRDNVprcC1ua0dhT25UV1J3dHg5Mkt5OEJVdTJEQ2ZBaDJEMXdjV1MwdXk3ZkdLVl9TbWxWZ1ZKRWk4WHdTWHVxVkY?oc=5",
-   "source": "Google News: pugilato",
-   "lang": "it",
-   "date": "2026-11-15T10:45:00+00:00",
-   "status": "confirmed",
-   "boxers": [],
-   "score": 10,
-   "sources_n": 2,
-   "title_it": "Boxe, D’Ortenzi vince e convince: è ancora lui il Campione d’Europa - RomaToday"
-  },
-  {
    "title": "McKenna set to defend world title against Aleksejevs - RTE.ie",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOVVrU3YzQ1BJMG43MUp1MU9BRGVKTzdKdWU1YUNYUUdpaE9yVGRQRTlyRDhaNEwxeDlhel9ZRUZxZjBhenJwbm9aNmpPTzRuZ1BlZnRMdDRRcENOR3dDNkd0MDhpYnNrSUdUamV4UGk2eTJJM2ltNnUxam9GU1pHLWdHZGpBVnQ2c2JZeFRXVS04UlVXaXMzdHJJZmhCVUlyV2h3UnNR?oc=5",
    "source": "Google News: boxing",
@@ -3395,7 +3448,9 @@
    "status": "unverified",
    "boxers": [],
    "score": 20,
-   "sources_n": 2
+   "sources_n": 2,
+   "title_it": "McKenna pronto a difendere il titolo mondiale contro Aleksejevs - RTE.ie",
+   "title_es": "McKenna se prepara para defender el título mundial contra Aleksejevs - RTE.ie"
   },
   {
    "title": "Ramla Ali Wins IBF and WBO Titles to Become Somalia’s First Boxing World Champion - BellaNaija",
@@ -3474,8 +3529,8 @@
    "date": "2026-11-15T08:00:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 0,
-   "sources_n": 1
+   "score": 10,
+   "sources_n": 2
   },
   {
    "title": "Diego Pacheco Vs Darius Fulghum Post-Fight Presser | Matchroom Boxing",
@@ -3524,8 +3579,8 @@
    "date": "2026-11-15T01:23:09+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 20,
-   "sources_n": 3,
+   "score": 30,
+   "sources_n": 4,
    "title_it": "Pre-show e due incontri preliminari: Riyadh Season Zuffa Boxing 13",
    "title_es": "Previa y dos combates preliminares: Riyadh Season Zuffa Boxing 13"
   },
@@ -3550,10 +3605,23 @@
    "date": "2026-11-15T00:33:26+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 20,
-   "sources_n": 3,
+   "score": 30,
+   "sources_n": 4,
    "title_it": "Pre-show e primo incontro preliminare: Riyadh Season Zuffa Boxing 13",
    "title_es": "Previa y primer combate preliminar: Riyadh Season Zuffa Boxing 13"
+  },
+  {
+   "title": "Zuffa Boxing 13 Results: Adames Outpoints Warburton in Riyadh, Castro Upsets Butaev",
+   "link": "https://www.boxinginsider.com/headlines/zuffa-boxing-13-results-adames-outpoints-warburton-in-riyadh-castro-upsets-butaev/",
+   "source": "Boxing Insider",
+   "lang": "en",
+   "date": "2026-11-15T00:24:22+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 38,
+   "sources_n": 5,
+   "title_it": "Risultati di Zuffa Boxing 13: Adames batte Warburton ai punti a Riad, Castro sconfigge Butaev",
+   "title_es": "Resultados de Zuffa Boxing 13: Adames vence a Warburton a los puntos en Riad, Castro sorprende a Butaev"
   },
   {
    "title": "Diego Pacheco Vs Darius Fulghum Prelims | 4 Live Fights | Matchroom Boxing",
@@ -3616,7 +3684,7 @@
    "status": "confirmed",
    "boxers": [],
    "score": 38,
-   "sources_n": 4,
+   "sources_n": 5,
    "title_it": "Zuffa Boxing 13: risultati e momenti salienti. Carlos Adames vince contro Gerome Warburton al suo debutto nella promozione",
    "title_es": "Resultados y momentos destacados de Zuffa Boxing 13: Carlos Adames se impone a Gerome Warburton en su debut en la promotora"
   },
@@ -3667,7 +3735,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 30,
-   "sources_n": 4,
+   "sources_n": 5,
    "title_it": "Un DOMINIO di 10 round | Carlos Adames contro Gerome Warburton | Incontro completo",
    "title_es": "Un DOMINIO de 10 asaltos | Carlos Adames vs. Gerome Warburton | Combate completo"
   },
@@ -3692,8 +3760,8 @@
    "date": "2026-11-14T19:30:33+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 20,
-   "sources_n": 3,
+   "score": 30,
+   "sources_n": 4,
    "title_it": "Evento completo: Riyadh Season Zuffa Boxing 13",
    "title_es": "Evento completo: Riyadh Season Zuffa Boxing 13"
   },
@@ -3706,7 +3774,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 30,
-   "sources_n": 4,
+   "sources_n": 5,
    "title_it": "Conferenza stampa post-incontro: Riyadh Season Zuffa Boxing 13",
    "title_es": "Rueda de prensa posterior al combate: Riyadh Season Zuffa Boxing 13"
   },
@@ -3811,9 +3879,22 @@
    "status": "unverified",
    "boxers": [],
    "score": 20,
-   "sources_n": 4,
+   "sources_n": 5,
    "title_it": "Orario di inizio di Zuffa Boxing 13, scheda dell'incontro, pronostici e dove guardare Carlos Adames contro Gerome Warburton",
    "title_es": "Hora de inicio de Zuffa Boxing 13, cartelera, predicciones y dónde ver a Carlos Adames contra Gerome Warburton"
+  },
+  {
+   "title": "Boxing Insider Results: Figueroa Stops Caraballo Ramos in Rematch, Four Stoppages at Tropicana Atlantic City",
+   "link": "https://www.boxinginsider.com/headlines/boxing-insider-results-figueroa-stops-caraballo-ramos-in-rematch-four-stoppages-at-tropicana-atlantic-city/",
+   "source": "Boxing Insider",
+   "lang": "en",
+   "date": "2026-11-14T16:01:53+00:00",
+   "status": "confirmed",
+   "boxers": [],
+   "score": 18,
+   "sources_n": 2,
+   "title_it": "Risultati di Boxing Insider: Figueroa ferma Caraballo Ramos nella rivincita, quattro incontri interrotti al Tropicana di Atlantic City",
+   "title_es": "Resultados de Boxing Insider: Figueroa noquea a Caraballo Ramos en la revancha, cuatro combates por nocaut en el Tropicana de Atlantic City"
   },
   {
    "title": "IT'S OVER IN THE 1ST ROUND #Zuffaboxing13",
@@ -3862,7 +3943,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 30,
-   "sources_n": 4,
+   "sources_n": 5,
    "title_it": "Risultati di Zuffa Boxing 13: Adames vs. Warburton",
    "title_es": "Resultados de Zuffa Boxing 13: Adames vs. Warburton"
   },
@@ -3903,30 +3984,6 @@
    "sources_n": 1,
    "title_it": "Messo KO da Mike Tyson in 39 secondi, in seguito ha sparato e ucciso un uomo",
    "title_es": "Noqueado por Mike Tyson en 39 segundos, más tarde disparó y mató a un hombre"
-  },
-  {
-   "title": "Boxe, Alex Ferramosca è il nuovo campione italiano professionisti dei supergallo - Firenze e dintorni",
-   "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxQTjlwdnRHelh2WmM0SmlxMU83ZVFKUV83QzljSWk5UFlOV1pLR0pQUkZ3bm0wNHFKZ0lNSTlTaFZoVG92Y0xobmwtSTM3X08xdVB0eklMck9ySjBTem9vMzVxbTJ2WldzUjZSN29YY0J6bVEtcUdGa1FpMzI0cEpRUnEyODJ4NUpNOFVISUxHT2Z6ai1JU3gwMjFQZE11NUZzYWpYU0lDZ2xncUtGak5RYjNJd0ZvYXdwb29nUG1ITzlMcWJwc18wY0thZkR3X0FDTURpQVI4SHZHOG9CX1RDUDh4QW5jaU5Td3RYeEpPMUtlbFlDZTByQXdTTWFHTVFhRDRBRXIzcF9XTUZrcmFEYUhWbjVEUF9USkpVOHA5Z3g4eDNha0J0R3FXdG95WkFOaHhQR29FUWEtdTZCX2dHZkN4R1hRUkktSjVZWkoyQUJicFJvbHJ2MkhFeUdXYS02NEJHZGNXeUVwUUlSSVpPQUJsSXFSVjcx?oc=5",
-   "source": "Google News: boxe italiana",
-   "lang": "it",
-   "date": "2026-11-14T10:47:00+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 0,
-   "sources_n": 1,
-   "title_it": "Boxe, Alex Ferramosca è il nuovo campione italiano professionisti dei supergallo - Firenze e dintorni"
-  },
-  {
-   "title": "Pugilato, Ferramosca è campione italiano nei pesi supergallo - Sport di Prato",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNjVWTHZlUGhudXRyandnWlR1UEl1djdhWlpPZkM0WG9lS0xlcE1mMHhVcFBtdzNHbVRtTW44UmJ0Z2pyRUcyLUM4a0ZNOGlkOVowQWY2dXQyM1NuX1ZBN3ZGSXpidnpzSEM3Zk9JVTVQQklEMEs0aE5QdUZpR0hkVkluSDcydDdZdktxOUtPX0k4NzlPOXFBQXZmRnZROEZRaEtMTUh6S3BYcDd5N0E?oc=5",
-   "source": "Google News: pugilato",
-   "lang": "it",
-   "date": "2026-11-14T10:44:05+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 0,
-   "sources_n": 1,
-   "title_it": "Pugilato, Ferramosca è campione italiano nei pesi supergallo - Sport di Prato"
   }
  ]
 }
