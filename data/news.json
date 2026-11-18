@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T22:50:41+00:00",
+ "updated": "2026-11-18T22:55:41+00:00",
  "feeds_ok": 48,
  "feeds_failed": 5,
  "news": [
@@ -246,8 +246,8 @@
    "date": "2026-11-18T21:26:11+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 47,
-   "sources_n": 2,
+   "score": 37,
+   "sources_n": 1,
    "title_it": "AWSN: evento maratona di boxe femminile LIVE questo venerdì, le migliori prospettive imbattute",
    "title_es": "AWSN: Evento de maratón de boxeo femenino EN VIVO este viernes, principales prospectos invictos"
   },
@@ -435,6 +435,19 @@
    "sources_n": 1,
    "title_it": "Zaquin Moses sostiene Mayweather contro i campioni di oggi",
    "title_es": "Zaquin Moses apuesta por Mayweather frente a los campeones actuales"
+  },
+  {
+   "title": "Former world boxing champion Jorge Linares held in ICE custody in Texas - USA Today",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOc1o4bmFLelgtQ3RMRDZiQlpKQmdXa01tRTVtNlhiSExGUHUyVkNTenlmYWZuM3RLOHZ4MlRNSmJxSGJjejYzckk5MDJ0TUJhZFhISGNjNVlad3lLNUVhTnpNdWJxbnlTVWJydTBqZ3JBenF1VFdIUEJVYVA2Si1zbm1KTkZ4OWRwejMwS283MmFVOUdESkU4d2xITURmem12TnVSTVFQNmJZbXhtdGJneWhxVFFWTnEyeFE?oc=5",
+   "source": "Google News: boxing",
+   "lang": "en",
+   "date": "2026-11-18T18:23:00+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 57,
+   "sources_n": 6,
+   "title_it": "L'ex campione del mondo di pugilato Jorge Linares è detenuto dall'ICE in Texas - USA Today",
+   "title_es": "El ex campeón mundial de boxeo Jorge Linares está bajo custodia del ICE en Texas - USA Today"
   },
   {
    "title": "Controversial US heavyweight contacted to be Deontay Wilder’s replacement opponent",
@@ -1470,7 +1483,7 @@
    "date": "2026-11-18T04:52:14+00:00",
    "status": "rumor",
    "boxers": [],
-   "score": 49,
+   "score": 48,
    "sources_n": 2,
    "title_it": "Schofield e Mason avviano i colloqui per l'unificazione dei titoli dei pesi leggeri",
    "title_es": "Schofield y Mason inician conversaciones para unificar el título del peso ligero"
@@ -1814,7 +1827,7 @@
    "date": "2026-11-17T20:51:27+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 17,
+   "score": 16,
    "sources_n": 1,
    "title_it": "Diego Lenzi, intervista esclusiva a DAZN: \"Voglio diventare campione del mondo di boxe\" | DAZN News Italia - DAZN",
    "title_es": "Diego Lenzi, entrevista exclusiva con DAZN: «Quiero ser campeón del mundo de boxeo» | DAZN News Italia - DAZN"
@@ -2594,7 +2607,7 @@
    "date": "2026-11-17T08:52:19+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 11,
+   "score": 10,
    "sources_n": 1,
    "title_it": "Boxe: dopo tre mesi in coma è morto a 31 anni il pugile irlandese Lee Reeves - Sportmediaset",
    "title_es": "Boxeo: tras tres meses en coma, fallece a los 31 años el boxeador irlandés Lee Reeves - Sportmediaset"
@@ -3457,7 +3470,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 30,
-   "sources_n": 7,
+   "sources_n": 6,
    "title_it": "Conferenza stampa Teremoana Teremoana vs Hemi Ahio | Matchroom Boxing",
    "title_es": "Rueda de prensa de Teremoana Teremoana contra Hemi Ahio | Matchroom Boxing"
   },
@@ -3473,6 +3486,19 @@
    "sources_n": 1,
    "title_it": "¡Nuevo rival! Canelo tendría en la mira a campeón británico - Soy Referee",
    "title_es": "¡Nuevo rival! Canelo tendría en la mira a campeón británico - Soy Referee"
+  },
+  {
+   "title": "National Intermediate Championships Opening Weekend Results",
+   "link": "https://www.irish-boxing.com/national-intermediate-championships-opening-weekend-results/",
+   "source": "Irish Boxing",
+   "lang": "en",
+   "date": "2026-11-15T18:53:12+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 0,
+   "sources_n": 1,
+   "title_it": "Risultati del weekend di apertura dei Campionati Nazionali Intermedi",
+   "title_es": "Resultados del fin de semana de inauguración de los Campeonatos Nacionales Intermedios"
   },
   {
    "title": "Convicted Con Man, 71, Eyes Oldest Boxer World Record",
@@ -3815,8 +3841,8 @@
    "date": "2026-11-15T06:53:43+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 55,
-   "sources_n": 2,
+   "score": 45,
+   "sources_n": 1,
    "title_it": "Presser post-combattimento Diego Pacheco contro Darius Fulghum | Boxe da incontro",
    "title_es": "Rueda de prensa posterior al combate de Diego Pacheco contra Darius Fulghum | Matchroom Boxing"
   },
@@ -4014,32 +4040,6 @@
    "sources_n": 1,
    "title_it": "La promessa di Zuffa in merito agli abbinamenti dei combattimenti viene smascherata da un incontro \"imbarazzante\"",
    "title_es": "La promesa de Zuffa sobre los emparejamientos queda al descubierto por un combate «vergonzoso»"
-  },
-  {
-   "title": "Full Event: Riyadh Season Zuffa Boxing 13",
-   "link": "https://www.youtube.com/watch?v=u1q00iPEJv0",
-   "source": "YouTube Zuffa Boxing",
-   "lang": "en",
-   "date": "2026-11-14T19:30:33+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 20,
-   "sources_n": 3,
-   "title_it": "Evento completo: Riyadh Season Zuffa Boxing 13",
-   "title_es": "Evento completo: Riyadh Season Zuffa Boxing 13"
-  },
-  {
-   "title": "Post-Fight Press Conference: Riyadh Season Zuffa Boxing 13",
-   "link": "https://www.youtube.com/watch?v=dUO5xkvg-eU",
-   "source": "YouTube Zuffa Boxing",
-   "lang": "en",
-   "date": "2026-11-14T19:19:04+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 20,
-   "sources_n": 3,
-   "title_it": "Conferenza stampa post-incontro: Riyadh Season Zuffa Boxing 13",
-   "title_es": "Rueda de prensa posterior al combate: Riyadh Season Zuffa Boxing 13"
   }
  ]
 }
