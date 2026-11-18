@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T15:22:33+00:00",
+ "updated": "2026-11-18T21:27:25+00:00",
  "sources": {
   "WBA": {
    "divisions": {
@@ -1363,7 +1363,7 @@
    "p4p_F": [],
    "label": "WBA (classifica ufficiale)",
    "url": "https://www.wbaboxing.com/wba-ranking",
-   "read": "2026-11-18T15:20:50+00:00"
+   "read": "2026-11-18T21:25:50+00:00"
   },
   "WBC": {
    "divisions": {
@@ -5056,7 +5056,7 @@
    "p4p_F": [],
    "label": "WBC (via Box-Rank)",
    "url": "https://box-rank.com/rankings/org/wbc/heavyweight",
-   "read": "2026-11-18T15:21:19+00:00"
+   "read": "2026-11-18T21:26:17+00:00"
   },
   "IBF": {
    "divisions": {
@@ -5516,84 +5516,6 @@
       {
        "name": "Richard JohnsonNEW",
        "country": "United States",
-       "rank": 15
-      }
-     ]
-    },
-    "Welterweight": {
-     "champion": {
-      "name": "Liam ParoWorld",
-      "country": "Australia"
-     },
-     "ranks": [
-      {
-       "name": "Paddy Donovan",
-       "country": "Ireland",
-       "rank": 1
-      },
-      {
-       "name": "Richardson Hitchins",
-       "country": "United States",
-       "rank": 3
-      },
-      {
-       "name": "Lewis Crocker+1",
-       "country": "United Kingdom",
-       "rank": 4
-      },
-      {
-       "name": "Brian Norman Jr+1",
-       "country": "United States",
-       "rank": 5
-      },
-      {
-       "name": "Conah Walker+1",
-       "country": "United Kingdom",
-       "rank": 6
-      },
-      {
-       "name": "Rohan Polanco+1",
-       "country": "Dominican Republic",
-       "rank": 7
-      },
-      {
-       "name": "Delante Johnson+1",
-       "country": "United States",
-       "rank": 8
-      },
-      {
-       "name": "David Papot+1",
-       "country": "France",
-       "rank": 9
-      },
-      {
-       "name": "Vadim Musaev+1",
-       "country": "Russia",
-       "rank": 10
-      },
-      {
-       "name": "Karen Chukhadzhian+2",
-       "country": "Ukraine",
-       "rank": 11
-      },
-      {
-       "name": "Kieran Molloy+2",
-       "country": "Ireland",
-       "rank": 12
-      },
-      {
-       "name": "Jack Rafferty+2",
-       "country": "United Kingdom",
-       "rank": 13
-      },
-      {
-       "name": "Jin SasakiNEW",
-       "country": "Japan",
-       "rank": 14
-      },
-      {
-       "name": "Michael Ramirez SantosNEW",
-       "country": "Dominican Republic",
        "rank": 15
       }
      ]
@@ -6372,7 +6294,7 @@
    "p4p_F": [],
    "label": "IBF (via Box-Rank)",
    "url": "https://box-rank.com/rankings/org/ibf/heavyweight",
-   "read": "2026-11-18T15:21:44+00:00"
+   "read": "2026-11-18T21:26:40+00:00"
   },
   "WBO": {
    "divisions": {
@@ -7789,7 +7711,7 @@
    "p4p_F": [],
    "label": "WBO (via Box-Rank)",
    "url": "https://box-rank.com/rankings/org/wbo/heavyweight",
-   "read": "2026-11-18T15:22:09+00:00"
+   "read": "2026-11-18T21:27:03+00:00"
   },
   "RING": {
    "divisions": {
@@ -8754,7 +8676,7 @@
    "p4p_F": [],
    "label": "RING (via Box-Rank)",
    "url": "https://box-rank.com/rankings/org/ring/heavyweight",
-   "read": "2026-11-18T15:22:33+00:00"
+   "read": "2026-11-18T21:27:25+00:00"
   },
   "WBO_F": {
    "label": "WBO donne (classifica ufficiale)",
@@ -9874,7 +9796,7 @@
      }
     }
    },
-   "read": "2026-11-18T15:20:53+00:00"
+   "read": "2026-11-18T21:25:53+00:00"
   }
  }
 }
