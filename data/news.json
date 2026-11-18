@@ -1,8 +1,21 @@
 {
- "updated": "2026-11-18T01:01:24+00:00",
- "feeds_ok": 47,
- "feeds_failed": 6,
+ "updated": "2026-11-18T01:05:38+00:00",
+ "feeds_ok": 48,
+ "feeds_failed": 5,
  "news": [
+  {
+   "title": "David Benavidez Saw Victory Over Zurdo Before the Fight Happened",
+   "link": "https://www.saddoboxing.com/112639-david-benavidez-saw-victory-over-zurdo-before-the-fight-happened.html",
+   "source": "Saddo Boxing",
+   "lang": "en",
+   "date": "2026-11-18T01:03:05+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 94,
+   "sources_n": 3,
+   "title_it": "David Benavidez aveva previsto la sua vittoria su Zurdo prima che l'incontro avesse luogo",
+   "title_es": "David Benavidez vio su victoria sobre Zurdo antes de que se celebrara el combate"
+  },
   {
    "title": "Tim Tszyu chasing middleweight title dream against Lara - Fox Sports",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbWRsekJDdzZ5ZHB6X2RYMUJMT2RDMkcxcElta1FzcHJIbWRXSkRzSUE4Qzd5a1FhOUxIczJBdm82U3pEczN4MWNIQ1ZxSXd3OF9SVXI4MlFNVmVVS05Uc1hfSzl0elFGZnExaHhqZThfVnJUZWxnNk40TkVwVmxreW9yZm4tRGcwU1hYTkdxYWpwLWtFTGw5QVcwNnpKbERqZGVURjFDLUdaNXczMktFdXRnWHVsMnhCektoV1hhc3pVQXV2S1d3?oc=5",
@@ -15,19 +28,6 @@
    "sources_n": 1,
    "title_it": "Tim Tszyu insegue il sogno del titolo dei pesi medi contro Lara - Fox Sports",
    "title_es": "Tim Tszyu persigue su sueño de conseguir el título del peso medio contra Lara - Fox Sports"
-  },
-  {
-   "title": "David Benavidez Saw Victory Over Zurdo Before the Fight Happened",
-   "link": "https://www.youtube.com/watch?v=5QgB0nS5PVE",
-   "source": "YouTube PBC",
-   "lang": "en",
-   "date": "2026-11-18T00:30:31+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 94,
-   "sources_n": 3,
-   "title_it": "David Benavidez aveva previsto la sua vittoria su Zurdo prima ancora che l'incontro avesse luogo",
-   "title_es": "David Benavidez vio su victoria sobre Zurdo antes de que se celebrara el combate"
   },
   {
    "title": "Mikaela Mayer unpacks feisty post-fight Cameron interview ahead of rematch! 😡",
@@ -662,7 +662,7 @@
     "Anthony Joshua"
    ],
    "score": 110,
-   "sources_n": 8,
+   "sources_n": 7,
    "title_it": "Otto Wallin ha affrontato Tyson Fury e Anthony Joshua: ecco le sue chiavi per la vittoria di entrambi i pugili",
    "title_es": "Otto Wallin se enfrentó a Tyson Fury y a Anthony Joshua. Estas son sus claves para la victoria de ambos púgiles."
   },
@@ -749,7 +749,7 @@
     "Anthony Joshua"
    ],
    "score": 110,
-   "sources_n": 8,
+   "sources_n": 7,
    "title_it": "L'incontro di riscaldamento tra Tyson Fury e Anthony Joshua è stato annullato con poco preavviso",
    "title_es": "El combate de la velada Tyson Fury vs. Anthony Joshua se cancela con poca antelación"
   },
@@ -781,7 +781,7 @@
     "Anthony Joshua"
    ],
    "score": 110,
-   "sources_n": 8,
+   "sources_n": 7,
    "title_it": "L'incontro di riscaldamento tra Tyson Fury e Anthony Joshua è STATO ANNULLATO a poche settimane dall'evento e Chisora potrebbe subentrare",
    "title_es": "El combate de la velada de Tyson Fury contra Anthony Joshua se CANCELA a solo unas semanas del evento, y Chisora podría sustituirle."
   },
@@ -832,7 +832,7 @@
    "date": "2026-11-17T15:04:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 25,
+   "score": 24,
    "sources_n": 1,
    "title_it": "Ex campione mondiale di boxe venezuelano arrestato dall'ICE - La Prensa - Notizie dal Nicaragua e dal mondo",
    "title_es": "Excampeón mundial de boxeo de Venezuela es detenido por ICE - La Prensa - Noticias de Nicaragua y el mundo"
@@ -845,7 +845,7 @@
    "date": "2026-11-17T15:03:38+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 25,
+   "score": 24,
    "sources_n": 1,
    "title_it": "Lee Reeves è morto, il pugile era in coma da tre mesi dopo un incontro - Spazio50",
    "title_es": "Lee Reeves ha fallecido; el boxeador llevaba tres meses en coma tras un combate - Spazio50"
@@ -888,6 +888,19 @@
    "sources_n": 1,
    "title_it": "Il campione di tre categorie di peso Linares è stato arrestato dall'ICE",
    "title_es": "El campeón de tres pesos Linares detenido por el ICE"
+  },
+  {
+   "title": "Boxe, Acatullo-Loli per il titolo italiano dei pesi leggeri il 20 dicembre ad Amatrice - Sportface.it",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPekR1eklBSXBCcW9TdEFrenVfQ0E4amp6QzZsaGgxZGdDMVp5aVNUcUppQzVaS0pJMUd3Y0l1em5RUnVfbERnbFVaeHY5TVVpOUZ0RnJNd1JkY3U4OXNuakVuMjZ1dDlwVXVmS3doUFRab2Z5SFdlRDVXSFpTalhqRFJuZzRiSkFHVDhjT0ltY204TzYwdkd0NlZ0WWE?oc=5",
+   "source": "Google News: pugilato",
+   "lang": "it",
+   "date": "2026-11-17T14:30:20+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 24,
+   "sources_n": 1,
+   "title_it": "Boxe, Acatullo-Loli per il titolo italiano dei pesi leggeri il 20 dicembre ad Amatrice - Sportface.it",
+   "title_es": "Boxeo, Acatullo-Loli por el título italiano del peso ligero el 20 de diciembre en Amatrice - Sportface.it"
   },
   {
    "title": "Tragic boxer's heartbroken final opponent pays tribute to 31-year-old rival in emotional Instagram statement after Irish fighter lost his life following three-month coma",
@@ -1004,7 +1017,7 @@
    "date": "2026-11-17T13:03:08+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 24,
+   "score": 23,
    "sources_n": 1,
    "title_it": "Incontri co-principali e di sottocategoria in programma per The Last Walk di MVP: Serrano contro Falzon",
    "title_es": "Programados los combates coprincipales y de la cartelera preliminar de The Last Walk de MVP: Serrano contra Falzon"
@@ -1185,7 +1198,7 @@
     "Anthony Joshua"
    ],
    "score": 108,
-   "sources_n": 8,
+   "sources_n": 7,
    "title_it": "Johnny Fisher vuole affrontare il pugile che ha quasi fatto saltare l'incontro tra Tyson Fury e Anthony Joshua",
    "title_es": "Johnny Fisher quiere enfrentarse al boxeador que casi frustró el combate entre Tyson Fury y Anthony Joshua"
   },
@@ -1421,7 +1434,7 @@
    "date": "2026-11-17T09:01:52+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 32,
+   "score": 31,
    "sources_n": 2,
    "title_it": "Il mondo della boxe rende omaggio a Lee Reeves, scomparso prematuramente all'età di 31 anni",
    "title_es": "El mundo del boxeo rinde homenaje a Lee Reeves, que tristemente ha fallecido a los 31 años"
@@ -1464,7 +1477,7 @@
     "Anthony Joshua"
    ],
    "score": 106,
-   "sources_n": 8,
+   "sources_n": 7,
    "title_it": "Biglietti per Tyson Fury vs Anthony Joshua a 315 £ a persona con bevande gratuite incluse nell'offerta di ospitalità VIP a Cardiff",
    "title_es": "Entradas para el combate Tyson Fury vs. Anthony Joshua por 315 £ por persona con bebidas gratuitas incluidas en la oferta VIP de Cardiff Hospitality"
   },
@@ -1506,7 +1519,7 @@
     "Anthony Joshua"
    ],
    "score": 106,
-   "sources_n": 8,
+   "sources_n": 7,
    "title_it": "Otto Wallin paragona l'incontro con Anthony Joshua a quello con Tyson Fury: \"Mi sembrava di essere stato investito da un'auto\"",
    "title_es": "Otto Wallin compara pelear contra Anthony Joshua con pelear contra Tyson Fury: «Me sentí como si me hubiera atropellado un coche»."
   },
@@ -1557,7 +1570,7 @@
    "date": "2026-11-17T07:01:42+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 21,
+   "score": 20,
    "sources_n": 1,
    "title_it": "Nino Greco in finale di Coppa Piemonte - Il Biellese",
    "title_es": "Nino Greco en la final de la Copa Piemonte - Il Biellese"
@@ -2057,7 +2070,7 @@
    "date": "2026-11-16T17:02:26+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 32,
+   "score": 31,
    "sources_n": 2,
    "title_it": "HIT N MOVE utilizza i test in galleria del vento e le immagini radiografiche in tempo reale per sviluppare un nuovo design di guantoni da boxe",
    "title_es": "HIT N MOVE utiliza pruebas en túneles de viento e imágenes de rayos X en tiempo real para desarrollar un nuevo diseño de guantes de boxeo"
@@ -2070,7 +2083,7 @@
    "date": "2026-11-16T17:01:18+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 49,
+   "score": 48,
    "sources_n": 2,
    "title_it": "PBC Face to Face: Vergil Ortiz Jr. contro Keith Thurman | Episodio completo ora disponibile",
    "title_es": "PBC Face to Face: Vergil Ortiz Jr. vs. Keith Thurman | Episodio completo ya disponible"
@@ -2115,7 +2128,7 @@
     "Anthony Joshua"
    ],
    "score": 98,
-   "sources_n": 8,
+   "sources_n": 7,
    "title_it": "Anthony Joshua evidenzia una palese debolezza nel curriculum di Tyson Fury",
    "title_es": "Anthony Joshua señala una debilidad evidente en el palmarés de Tyson Fury"
   },
@@ -2259,7 +2272,7 @@
    "date": "2026-11-16T13:04:11+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 12,
+   "score": 11,
    "sources_n": 1,
    "title_it": "Bellizzi, Matteo Squillante campione italiano di pugilato a 14 anni - SUD TV |114",
    "title_es": "Bellizzi, Matteo Squillante, campeón italiano de boxeo a los 14 años - SUD TV |114"
@@ -2461,7 +2474,7 @@
     "Anthony Joshua"
    ],
    "score": 112,
-   "sources_n": 8,
+   "sources_n": 7,
    "title_it": "Tyson Fury incolpa Anthony Joshua per il rinvio del mega-incontro",
    "title_es": "Tyson Fury culpa a Anthony Joshua del retraso del supercombate"
   },
@@ -2668,7 +2681,7 @@
    "date": "2026-11-15T17:04:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 27,
+   "score": 26,
    "sources_n": 1,
    "title_it": "Chávez Jr. si chiede chi possa prendere il posto di Canelo Álvarez: \"Non c'è molta scelta\" - Infobae",
    "title_es": "Chávez Jr. cuestiona quién puede tomar el lugar de Canelo Álvarez: “No hay mucha tela de donde cortar” - Infobae"
@@ -2976,7 +2989,7 @@
     "Anthony Joshua"
    ],
    "score": 95,
-   "sources_n": 8,
+   "sources_n": 7,
    "title_it": "Anthony Joshua fa una confessione sincera sul titolo mondiale per l'incontro con Tyson Fury",
    "title_es": "Anthony Joshua hace una confesión sincera sobre el título mundial para el combate contra Tyson Fury"
   },
@@ -3005,7 +3018,7 @@
     "Anthony Joshua"
    ],
    "score": 95,
-   "sources_n": 8,
+   "sources_n": 7,
    "title_it": "Anthony Joshua fa una sincera ammissione sul titolo mondiale per l'incontro con Tyson Fury - The Mirror",
    "title_es": "Anthony Joshua hace una confesión sincera sobre el título mundial en la pelea contra Tyson Fury - The Mirror"
   },
@@ -3636,7 +3649,7 @@
     "Anthony Joshua"
    ],
    "score": 85,
-   "sources_n": 8,
+   "sources_n": 7,
    "title_it": "Anthony Joshua indica due cose che lui ha e Tyson Fury no",
    "title_es": "Anthony Joshua menciona dos cosas que él tiene y Tyson Fury no"
   },
@@ -3994,22 +4007,6 @@
    "sources_n": 6,
    "title_it": "Eddie Hearn fa una proposta a Shakur Stevenson per il suo futuro nel pugilato",
    "title_es": "Eddie Hearn le hace una propuesta a Shakur Stevenson sobre su futuro en el boxeo"
-  },
-  {
-   "title": "Anthony Joshua's destiny against Tyson Fury is in his hands, not Ben Davison's",
-   "link": "https://www.boxingscene.com/articles/anthony-joshuas-destiny-against-tyson-fury-is-in-his-hands-not-ben-davisons",
-   "source": "Boxing Scene",
-   "lang": "en",
-   "date": "2026-11-13T13:47:43+00:00",
-   "status": "unverified",
-   "boxers": [
-    "Tyson Fury",
-    "Anthony Joshua"
-   ],
-   "score": 85,
-   "sources_n": 7,
-   "title_it": "Il destino di Anthony Joshua contro Tyson Fury è nelle sue mani, non in quelle di Ben Davison",
-   "title_es": "El destino de Anthony Joshua contra Tyson Fury está en sus manos, no en las de Ben Davison."
   }
  ]
 }
