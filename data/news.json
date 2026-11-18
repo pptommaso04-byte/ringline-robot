@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-18T13:51:22+00:00",
- "feeds_ok": 47,
- "feeds_failed": 6,
+ "updated": "2026-11-18T13:55:43+00:00",
+ "feeds_ok": 48,
+ "feeds_failed": 5,
  "news": [
   {
    "title": "Chris Billam-Smith next fight: options after the Clarke defeat",
@@ -212,7 +212,7 @@
    "date": "2026-11-18T11:55:05+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 29,
+   "score": 28,
    "sources_n": 1,
    "title_it": "Le leggende lo hanno detto loro stesse... i combattenti ritirati NON si ritireranno MAI \"davvero\" nella loro testa 🤣",
    "title_es": "Las leyendas lo decían… Los luchadores retirados NUNCA se retirarán «de verdad» en su mente 🤣"
@@ -445,7 +445,7 @@
    "date": "2026-11-18T09:52:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 28,
+   "score": 27,
    "sources_n": 1,
    "title_it": "Pugilato come disciplina di intelligenza: la serata Panathlon di Fano - Vivere Fano",
    "title_es": "El boxeo como disciplina de la inteligencia: la velada del Panathlon en Fano - Vivere Fano"
@@ -1183,7 +1183,7 @@
    "date": "2026-11-17T17:53:35+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 45,
+   "score": 44,
    "sources_n": 1,
    "title_it": "DAN RAFAEL RIVELA DETTAGLI SHOCK SUL MOTIVO PER CUI JAI OPETAIA SI È RITIRATO DALL'INCONTRO CON DEONTAY WILDER",
    "title_es": "DAN RAFAEL REVELA DETALLES SORPRENDENTES SOBRE POR QUÉ JAI OPETAIA SE RETIRÓ DEL COMBATE CONTRA DEONTAY WILDER"
@@ -2226,7 +2226,7 @@
    "date": "2026-11-16T23:55:28+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 21,
+   "score": 20,
    "sources_n": 2,
    "title_it": "Ortiz contro Thurman: il tipo di incontro di cui la boxe ha bisogno",
    "title_es": "Ortiz vs. Thurman: el tipo de combate que necesita el boxeo"
@@ -2734,8 +2734,8 @@
    "date": "2026-11-16T08:31:15+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 3,
-   "sources_n": 1,
+   "score": 13,
+   "sources_n": 2,
    "title_it": "Risultati di pugilato: luglio | agosto 2026",
    "title_es": "Resultados de boxeo: julio | agosto de 2026"
   },
@@ -2894,7 +2894,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 30,
-   "sources_n": 4,
+   "sources_n": 5,
    "title_it": "Bruno Surace contro Kamil Bednarek: Riyadh Season Zuffa Boxing 13",
    "title_es": "Bruno Surace contra Kamil Bednarek: Riyadh Season Zuffa Boxing 13"
   },
@@ -2920,7 +2920,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 30,
-   "sources_n": 4,
+   "sources_n": 5,
    "title_it": "Jason Moloney contro Andres Teran: Riyadh Season Zuffa Boxing 13",
    "title_es": "Jason Moloney contra Andrés Terán: Riyadh Season Zuffa Boxing 13"
   },
@@ -2933,7 +2933,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 30,
-   "sources_n": 5,
+   "sources_n": 6,
    "title_it": "Carlos Adames contro Gerome Warburton: Riyadh Season Zuffa Boxing 13",
    "title_es": "Carlos Adames contra Gerome Warburton: Riyadh Season Zuffa Boxing 13"
   },
@@ -3318,7 +3318,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 30,
-   "sources_n": 4,
+   "sources_n": 5,
    "title_it": "Pre-show e due incontri preliminari: Riyadh Season Zuffa Boxing 13",
    "title_es": "Previa y dos combates preliminares: Riyadh Season Zuffa Boxing 13"
   },
@@ -3344,9 +3344,22 @@
    "status": "unverified",
    "boxers": [],
    "score": 30,
-   "sources_n": 4,
+   "sources_n": 5,
    "title_it": "Pre-show e primo incontro preliminare: Riyadh Season Zuffa Boxing 13",
    "title_es": "Previa y primer combate preliminar: Riyadh Season Zuffa Boxing 13"
+  },
+  {
+   "title": "Zuffa Boxing 13 Results: Adames Outpoints Warburton in Riyadh, Castro Upsets Butaev",
+   "link": "https://www.boxinginsider.com/headlines/zuffa-boxing-13-results-adames-outpoints-warburton-in-riyadh-castro-upsets-butaev/",
+   "source": "Boxing Insider",
+   "lang": "en",
+   "date": "2026-11-15T00:24:22+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 38,
+   "sources_n": 6,
+   "title_it": "Risultati di Zuffa Boxing 13: Adames batte Warburton ai punti a Riad, Castro sconfigge Butaev",
+   "title_es": "Resultados de Zuffa Boxing 13: Adames vence a Warburton a los puntos en Riad, Castro sorprende a Butaev"
   },
   {
    "title": "Diego Pacheco Vs Darius Fulghum Prelims | 4 Live Fights | Matchroom Boxing",
@@ -3422,7 +3435,7 @@
    "status": "confirmed",
    "boxers": [],
    "score": 38,
-   "sources_n": 5,
+   "sources_n": 6,
    "title_it": "Zuffa Boxing 13: risultati e momenti salienti. Carlos Adames vince contro Gerome Warburton al suo debutto nella promozione",
    "title_es": "Resultados y momentos destacados de Zuffa Boxing 13: Carlos Adames se impone a Gerome Warburton en su debut en la promotora"
   },
@@ -3474,7 +3487,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 30,
-   "sources_n": 5,
+   "sources_n": 6,
    "title_it": "Un DOMINIO di 10 round | Carlos Adames contro Gerome Warburton | Incontro completo",
    "title_es": "Un DOMINIO de 10 asaltos | Carlos Adames vs. Gerome Warburton | Combate completo"
   },
@@ -3500,7 +3513,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 30,
-   "sources_n": 4,
+   "sources_n": 5,
    "title_it": "Evento completo: Riyadh Season Zuffa Boxing 13",
    "title_es": "Evento completo: Riyadh Season Zuffa Boxing 13"
   },
@@ -3513,7 +3526,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 30,
-   "sources_n": 5,
+   "sources_n": 6,
    "title_it": "Conferenza stampa post-incontro: Riyadh Season Zuffa Boxing 13",
    "title_es": "Rueda de prensa posterior al combate: Riyadh Season Zuffa Boxing 13"
   },
@@ -3619,9 +3632,22 @@
    "status": "unverified",
    "boxers": [],
    "score": 20,
-   "sources_n": 5,
+   "sources_n": 6,
    "title_it": "Orario di inizio di Zuffa Boxing 13, scheda dell'incontro, pronostici e dove guardare Carlos Adames contro Gerome Warburton",
    "title_es": "Hora de inicio de Zuffa Boxing 13, cartelera, predicciones y dónde ver a Carlos Adames contra Gerome Warburton"
+  },
+  {
+   "title": "Boxing Insider Results: Figueroa Stops Caraballo Ramos in Rematch, Four Stoppages at Tropicana Atlantic City",
+   "link": "https://www.boxinginsider.com/headlines/boxing-insider-results-figueroa-stops-caraballo-ramos-in-rematch-four-stoppages-at-tropicana-atlantic-city/",
+   "source": "Boxing Insider",
+   "lang": "en",
+   "date": "2026-11-14T16:01:53+00:00",
+   "status": "confirmed",
+   "boxers": [],
+   "score": 18,
+   "sources_n": 2,
+   "title_it": "Risultati di Boxing Insider: Figueroa ferma Caraballo Ramos nella rivincita, quattro incontri terminati per KO al Tropicana di Atlantic City",
+   "title_es": "Resultados de Boxing Insider: Figueroa vence a Caraballo Ramos por nocaut en la revancha, cuatro combates terminan por nocaut en el Tropicana de Atlantic City"
   },
   {
    "title": "IT'S OVER IN THE 1ST ROUND #Zuffaboxing13",
@@ -3658,7 +3684,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 30,
-   "sources_n": 5,
+   "sources_n": 6,
    "title_it": "Risultati di Zuffa Boxing 13: Adames contro Warburton",
    "title_es": "Resultados de Zuffa Boxing 13: Adames vs. Warburton"
   },
@@ -3723,7 +3749,7 @@
    "status": "confirmed",
    "boxers": [],
    "score": 38,
-   "sources_n": 5,
+   "sources_n": 6,
    "title_it": "Zuffa Boxing 13 risultati dal vivo, aggiornamenti round-by-round, passeggiate sul ring per Carlos Adames vs. Gerome Warburton",
    "title_es": "Resultados en vivo de Zuffa Boxing 13, actualizaciones ronda por ronda, caminatas en el ring para Carlos Adames contra Gerome Warburton"
   },
@@ -3977,48 +4003,22 @@
    "status": "unverified",
    "boxers": [],
    "score": 30,
-   "sources_n": 5,
+   "sources_n": 6,
    "title_it": "Gerome Warburton è sempre lo sfavorito e riesce sempre a vincere: Riyadh Season Zuffa Boxing 13",
    "title_es": "Gerome Warburton siempre es el menos favorito y siempre acaba ganando: Riyadh Season Zuffa Boxing 13"
   },
   {
-   "title": "Boxing Champions 2026: Current World Champions by Weight Class - BoxingScene",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02U19uX0lfRkhTM0p0QVB5bF9RTU5oWXpnX0oxR0l0MFgweUNDQXEyel9VTHZiWDhYWjRtMDdTMUNfVjZiR0xCcWVFbGFsUXB3WkxMTzdZY0JyZw?oc=5",
-   "source": "Google News: boxing",
+   "title": "Tonight in Atlantic City: Fight Order, Free Stream and Everything You Need",
+   "link": "https://www.boxinginsider.com/headlines/fight-night-tropicana-atlantic-city-guide/",
+   "source": "Boxing Insider",
    "lang": "en",
-   "date": "2026-11-13T17:32:59+00:00",
+   "date": "2026-11-13T18:47:44+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 30,
-   "sources_n": 3,
-   "title_it": "Campioni di pugilato 2026: attuali campioni del mondo per categoria di peso - BoxingScene",
-   "title_es": "Campeones de boxeo 2026: Campeones del mundo actuales por categoría de peso - BoxingScene"
-  },
-  {
-   "title": "Winless Heavyweight KO’d 14 Times in Round 1 Is 0-18 in MMA",
-   "link": "https://www.worldboxingnews.com/winless-heavyweight-14-kos-18-mma-losses/",
-   "source": "World Boxing News",
-   "lang": "en",
-   "date": "2026-11-13T17:08:13+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 18,
+   "score": 0,
    "sources_n": 1,
-   "title_it": "Un peso massimo senza vittorie, messo KO 14 volte al 1° round, ha un record di 0-18 nelle MMA",
-   "title_es": "Un peso pesado sin victorias, noqueado 14 veces en el primer asalto, tiene un récord de 0-18 en MMA"
-  },
-  {
-   "title": "Carlos Adames: “I’ll knock out Gerome Warburton in three rounds”: Riyadh Season Zuffa Boxing 13",
-   "link": "https://www.youtube.com/watch?v=jVnWB_qipvk",
-   "source": "YouTube Zuffa Boxing",
-   "lang": "en",
-   "date": "2026-11-13T16:30:00+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 38,
-   "sources_n": 5,
-   "title_it": "Carlos Adames: \"Metterò KO Gerome Warburton in tre round\": Riyadh Season Zuffa Boxing 13",
-   "title_es": "Carlos Adames: «Voy a noquear a Gerome Warburton en tres asaltos»: Riyadh Season Zuffa Boxing 13"
+   "title_it": "Stasera ad Atlantic City: ordine degli incontri, streaming gratuito e tutto ciò che ti serve",
+   "title_es": "Esta noche en Atlantic City: orden de los combates, retransmisión gratuita y todo lo que necesitas"
   }
  ]
 }
