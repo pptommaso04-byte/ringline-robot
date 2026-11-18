@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T10:22:13+00:00",
+ "updated": "2026-11-18T10:25:33+00:00",
  "feeds_ok": 48,
  "feeds_failed": 5,
  "news": [
@@ -727,7 +727,7 @@
    "date": "2026-11-17T20:21:27+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 33,
+   "score": 32,
    "sources_n": 1,
    "title_it": "Zizic difende il titolo WBO I-C contro Narvaez",
    "title_es": "Zizic defiende el título internacional de la OMB contra Narváez"
@@ -740,7 +740,7 @@
    "date": "2026-11-17T20:21:01+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 81,
+   "score": 80,
    "sources_n": 4,
    "title_it": "Adeleye batte Flores e conquista il titolo dei pesi massimi WBA International - World Boxing Association",
    "title_es": "Adeleye derrota a Flores y se proclama campeón internacional del peso pesado de la WBA - Asociación Mundial de Boxeo"
@@ -1507,7 +1507,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 104,
+   "score": 103,
    "sources_n": 8,
    "title_it": "Derek Chisora chiede la rivincita nell'incontro tra Tyson Fury e Anthony Joshua dopo l'avvertimento di Eddie Hearn",
    "title_es": "Derek Chisora exige una revancha en la velada de Tyson Fury contra Anthony Joshua tras la advertencia de Eddie Hearn"
@@ -1661,7 +1661,7 @@
    "date": "2026-11-17T10:23:37+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 48,
+   "score": 47,
    "sources_n": 4,
    "title_it": "Il pugile irlandese Lee Reeves muore a 31 anni, tre mesi dopo aver subito degli infortuni durante un incontro",
    "title_es": "El boxeador irlandés Lee Reeves fallece a los 31 años, tres meses después de sufrir lesiones en un combate"
@@ -2787,6 +2787,19 @@
    "sources_n": 1,
    "title_it": "¡Nuevo rival! Canelo tendría en la mira a campeón británico - Soy Referee",
    "title_es": "¡Nuevo rival! Canelo tendría en la mira a campeón británico - Soy Referee"
+  },
+  {
+   "title": "National Intermediate Championships Opening Weekend Results",
+   "link": "https://www.irish-boxing.com/national-intermediate-championships-opening-weekend-results/",
+   "source": "Irish Boxing",
+   "lang": "en",
+   "date": "2026-11-15T18:53:12+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 0,
+   "sources_n": 1,
+   "title_it": "Risultati del weekend di apertura dei Campionati Nazionali Intermedi",
+   "title_es": "Resultados del fin de semana inaugural de los Campeonatos Nacionales Intermedios"
   },
   {
    "title": "Aaron McKenna set for first World title defence - Northern Sound",
@@ -4003,19 +4016,6 @@
    "sources_n": 3,
    "title_it": "Diego Pacheco protagonista su TNT, Zuffa si dirige in Arabia Saudita e altro ancora: 5 cose da sapere per il weekend della boxe",
    "title_es": "Diego Pacheco protagoniza TNT, Zuffa se dirige a Arabia Saudí y mucho más: 5 cosas para el fin de semana del boxeo"
-  },
-  {
-   "title": "FIRST FACE OFF: Jaron Boots Ennis Vs Josh Kelly 👑👑👑",
-   "link": "https://www.youtube.com/watch?v=IdvSqbLrpt0",
-   "source": "YouTube Matchroom Boxing",
-   "lang": "en",
-   "date": "2026-11-13T21:45:19+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 30,
-   "sources_n": 5,
-   "title_it": "PRIMO FACE OFF: Jaron Boots Ennis contro Josh Kelly 👑👑👑",
-   "title_es": "PRIMER ENFRENTAMIENTO: Jaron Boots Ennis Vs Josh Kelly 👑👑👑"
   }
  ]
 }
