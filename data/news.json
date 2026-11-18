@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T22:10:24+00:00",
+ "updated": "2026-11-18T22:11:04+00:00",
  "feeds_ok": 43,
  "feeds_failed": 10,
  "news": [
@@ -520,7 +520,7 @@
    "date": "2026-11-18T16:10:50+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 55,
+   "score": 54,
    "sources_n": 1,
    "title_it": "Price ora lotta per diventare il primo campione del mondo indiscusso del Galles",
    "title_es": "Price ahora lucha por ser el primer campeón mundial indiscutible de Gales"
@@ -3207,19 +3207,6 @@
    "title_es": "¡Nuevo rival! Canelo tendría en la mira a campeón británico - Soy Referee"
   },
   {
-   "title": "National Intermediate Championships Opening Weekend Results",
-   "link": "https://www.irish-boxing.com/national-intermediate-championships-opening-weekend-results/",
-   "source": "Irish Boxing",
-   "lang": "en",
-   "date": "2026-11-15T18:53:12+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 0,
-   "sources_n": 1,
-   "title_it": "Risultati del fine settimana di apertura dei Campionati Nazionali Intermedi",
-   "title_es": "Resultados del fin de semana inaugural de los Campeonatos Nacionales Intermedios"
-  },
-  {
    "title": "Bruno Surace vs. Kamil Bednarek: Riyadh Season Zuffa Boxing 13",
    "link": "https://www.youtube.com/watch?v=trhjPm-Q0lE",
    "source": "YouTube Zuffa Boxing",
@@ -4036,6 +4023,22 @@
    "sources_n": 1,
    "title_it": "Clemente Russo torna a 44 anni: perché la boxe punta sui campioni per conquistare nuovo pubblico - Forbes Italia",
    "title_es": "Clemente Russo regresa a los 44 años: por qué el boxeo se centra en los campeones para conquistar nuevas audiencias - Forbes Italia"
+  },
+  {
+   "title": "Anthony Joshua names two things he has which Tyson Fury does not",
+   "link": "https://www.mirror.co.uk/sport/boxing/anthony-joshua-tyson-fury-fight-37871696",
+   "source": "Daily Mirror Boxing",
+   "lang": "en",
+   "date": "2026-11-14T08:30:00+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Tyson Fury",
+    "Anthony Joshua"
+   ],
+   "score": 85,
+   "sources_n": 6,
+   "title_it": "Anthony Joshua nomina due cose che ha e che Tyson Fury non ha",
+   "title_es": "Anthony Joshua nombra dos cosas que tiene y Tyson Fury no"
   }
  ]
 }
