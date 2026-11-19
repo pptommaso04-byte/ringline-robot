@@ -1,8 +1,21 @@
 {
- "updated": "2026-11-19T02:36:03+00:00",
+ "updated": "2026-11-19T02:40:52+00:00",
  "feeds_ok": 47,
  "feeds_failed": 6,
  "news": [
+  {
+   "title": "Keith Thurman Out-Boxed an Undefeated Champ",
+   "link": "https://www.youtube.com/watch?v=yp0THMQKYYo",
+   "source": "YouTube PBC",
+   "lang": "en",
+   "date": "2026-11-19T02:37:20+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 82,
+   "sources_n": 3,
+   "title_it": "Keith Thurman ha eliminato un campione imbattuto",
+   "title_es": "Keith Thurman superó a un campeón invicto"
+  },
   {
    "title": "Jaron “Boots” Ennis vs Eimantas Stanionis | Full World Title Match | Matchroom Boxing",
    "link": "https://www.saddoboxing.com/112761-jaron-boots-ennis-vs-eimantas-stanionis-full-world-title-match-matchroom-boxing.html",
@@ -909,7 +922,7 @@
    "date": "2026-11-18T14:36:18+00:00",
    "status": "rumor",
    "boxers": [],
-   "score": 64,
+   "score": 63,
    "sources_n": 8,
    "title_it": "Teremoana Teremoana sconfigge Hemi Ahio e punta al titolo mondiale",
    "title_es": "Teremoana Teremoana noquea a Hemi Ahio y ahora va a por el título mundial"
@@ -922,7 +935,7 @@
    "date": "2026-11-18T14:36:18+00:00",
    "status": "rumor",
    "boxers": [],
-   "score": 64,
+   "score": 63,
    "sources_n": 9,
    "title_it": "Teremoana Teremoana sconfigge Hemi Ahio e punta al titolo mondiale - Notizie di pugilato 24 ore su 24, 7 giorni su 7",
    "title_es": "Teremoana Teremoana noquea a Hemi Ahio y ahora va a por el título mundial - Boxing News 24/7"
@@ -1120,7 +1133,7 @@
    "date": "2026-11-18T12:39:57+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 23,
+   "score": 22,
    "sources_n": 1,
    "title_it": "Gs-Tv torna in diretta giovedì con “Fuori i Secondi” la trasmissione realizzata in collaborazione con l’Organizzazione della Promoter Internazionale di pugilato, Rosanna Conti Cavini - Grosseto Sport",
    "title_es": "Gs-Tv vuelve en directo el jueves con \"Fuori i Secondi\", la retransmisión creada en colaboración con la Organización de la Promotora Internacional de Boxeo, Rosanna Conti Cavini - Grosseto Sport"
@@ -1133,7 +1146,7 @@
    "date": "2026-11-18T12:37:10+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 88,
+   "score": 87,
    "sources_n": 11,
    "title_it": "Il sottoclou di Fury vs Joshua subisce un duro colpo: Jai Opetaia sarebbe fuori dal combattimento contro Deontay Wilder",
    "title_es": "La velada preliminar de Fury vs. Joshua sufre un duro golpe, ya que, según se informa, Jai Opetaia no se enfrentará a Deontay Wilder"
@@ -1327,7 +1340,7 @@
    "date": "2026-11-18T10:40:34+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 22,
+   "score": 21,
    "sources_n": 1,
    "title_it": "Cruiserweight 2027: perché la divisione ha improvvisamente attirato l'attenzione di tutti",
    "title_es": "Peso crucero 2027: por qué la división de repente llama la atención de todos"
@@ -3087,7 +3100,7 @@
    "date": "2026-11-16T18:40:41+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 10,
+   "score": 9,
    "sources_n": 1,
    "title_it": "La squadra senior spagnola conquista 16 medaglie nel Campionato Europeo WAKO",
    "title_es": "La selección española senior logra 16 medallas en el Europeo WAKO"
@@ -3217,6 +3230,19 @@
    "sources_n": 1,
    "title_it": "Chi sono gli attuali campioni del mondo di boxe nel 2026? Elenco completo e aggiornato delle Olimpiadi WBC, WBO, WBA e IBF",
    "title_es": "¿Quiénes son los campeones mundiales actuales de boxeo en 2026? Lista completa y actualizada del CMB, OMB, AMB y FIB - Olympics"
+  },
+  {
+   "title": "Marco Bocci: \"Il pugilato è il mio allenamento e ho corda e scarpe da running sempre in valigia\" - La Gazzetta dello Sport",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSUR3a21jWjlZY3VxN0RFaU93YlNPYVpFb3ZqcDA5UFF5eVNaUE1kZ0JfM3c4a2U0M25ITHNoalFUZXRCcHc5RmZOaHJFX1ZWaWxleWxPbnYwVFJGZDh4SFNUOU5GeEZzQS03eWZHQ1V0cFh3MnRBczJaVncxY3JXc3JFb0lsbFBVSmZSNjdHYnlRazl1bHlFMWV5UmxJZFhkZTNleHg5MkhKUkdGX1JaOXBDdVgxSE1JRV9fdVUtYUhJaGNTUFFoeTJ4R1BTcXFHb0ZvWTQ2SDNqRGU2d3dHYU9wZDlmS3JIZUVFS2Q3TnBadlg2a1BFVtIBvgFBVV95cUxOQXRBajVPR0xsSEFzaUU3dXkydjgzWS16RmluUnhOaDJMWmROaVRnaGRRS2lOV0d5eE1pdkJJNUxKSVp6TFdCaktpZHhXNl9fVlNhTnMzcXdqWnZMUjJxc2M4dndWQzRXZ3Nfb1RkQldnRlp2UGFZOFhuZlYyWGF4OFZfX0NFWU50YU5FM1kyWWx2WWFXRXg2U0xNeVdFbXI4azl3SWdCNldiRFBEUG5jZGRjRUotTS13Vmg2ZUpn?oc=5",
+   "source": "Google News: pugilato",
+   "lang": "it",
+   "date": "2026-11-16T16:06:00+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 0,
+   "sources_n": 1,
+   "title_it": "Marco Bocci: \"Il pugilato è il mio allenamento e ho corda e scarpe da running sempre in valigia\" - La Gazzetta dello Sport",
+   "title_es": "Marco Bocci: \"El boxeo es mi entrenamiento y siempre tengo cuerdas y zapatillas para correr en mi maleta\" - La Gazzetta dello Sport"
   },
   {
    "title": "Josh Kelly vs. Boots Ennis will present a whole new challenge for BOTH fighters 👀",
@@ -3576,19 +3602,6 @@
    "sources_n": 1,
    "title_it": "Nuovo rivale! Canelo avrebbe messo gli occhi sul campione britannico - Soy Referee",
    "title_es": "¡Nuevo rival! Canelo tendría en la mira a campeón británico - Soy Referee"
-  },
-  {
-   "title": "National Intermediate Championships Opening Weekend Results",
-   "link": "https://www.irish-boxing.com/national-intermediate-championships-opening-weekend-results/",
-   "source": "Irish Boxing",
-   "lang": "en",
-   "date": "2026-11-15T18:53:12+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 0,
-   "sources_n": 1,
-   "title_it": "Risultati del fine settimana di apertura dei Campionati Nazionali Intermedi",
-   "title_es": "Resultados del fin de semana inaugural del Campeonato Nacional Intermedio"
   },
   {
    "title": "Convicted Con Man, 71, Eyes Oldest Boxer World Record",
@@ -4026,19 +4039,6 @@
    "sources_n": 1,
    "title_it": "MESSAGGIO SHOCK DI KSI A JAKE PAUL SUL COMBATTO CON CEDRIC DOUMBE: \"FINALMENTE È...\"",
    "title_es": "MENSAJE DE IMPACTO DE KSI A JAKE PAUL SOBRE LA PELEA DE CEDRIC DOUMBE: \"FINALMENTE ESTÁ...\""
-  },
-  {
-   "title": "Viddal Riley celebrates with KSI after retaining European belt against Seydi Coupe to set up world title shot",
-   "link": "https://www.thesun.co.uk/sport/41027606/viddal-riley-celebrates-ksi-european-title-win/",
-   "source": "The Sun Boxing",
-   "lang": "en",
-   "date": "2026-11-14T23:58:23+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 28,
-   "sources_n": 2,
-   "title_it": "Viddal Riley festeggia con KSI dopo aver mantenuto la cintura europea contro Seydi Coupe per organizzare la corsa al titolo mondiale",
-   "title_es": "Viddal Riley celebra con KSI después de retener el cinturón europeo contra Seydi Coupe para preparar la oportunidad por el título mundial"
   }
  ]
 }
