@@ -1,8 +1,21 @@
 {
- "updated": "2026-11-19T04:20:57+00:00",
+ "updated": "2026-11-19T04:25:43+00:00",
  "feeds_ok": 47,
  "feeds_failed": 6,
  "news": [
+  {
+   "title": "Keith Thurman Out-Boxed an Undefeated Champ",
+   "link": "https://www.saddoboxing.com/112768-keith-thurman-out-boxed-an-undefeated-champ.html",
+   "source": "Saddo Boxing",
+   "lang": "en",
+   "date": "2026-11-19T04:25:05+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 92,
+   "sources_n": 4,
+   "title_it": "Keith Thurman ha eliminato un campione imbattuto",
+   "title_es": "Keith Thurman superó a un campeón invicto"
+  },
   {
    "title": "La boxe che piace e quei riti tutti da rivedere - Giornale di Brescia",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVEJhaDVNa090LTZXeGpubUZRdHItdzVFZjlOdVV2N0pPU0hyWXVfcVFqTXdTSlB6Q0pZRjY3NVYzemtyeDRiU01jZ0ZrT1J3US1MM3p0MGdPQTI5TThEOThYMWZhNDlvSGJDYnlQcllhSGI3UUQ2QmxWdGhwNkxST3lSMDlSTDBtSXhheFJ3c01EZ0xZY185Z1pTWjVzaGppeEkwaUtnX05hMFZ0VzRR?oc=5",
@@ -30,19 +43,6 @@
    "title_es": "Jones vs Pettus: cartelera completa y orden de pelea"
   },
   {
-   "title": "Keith Thurman Out-Boxed an Undefeated Champ",
-   "link": "https://www.youtube.com/watch?v=yp0THMQKYYo",
-   "source": "YouTube PBC",
-   "lang": "en",
-   "date": "2026-11-19T02:37:20+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 82,
-   "sources_n": 3,
-   "title_it": "Keith Thurman ha eliminato un campione imbattuto",
-   "title_es": "Keith Thurman superó a un campeón invicto"
-  },
-  {
    "title": "Jaron “Boots” Ennis vs Eimantas Stanionis | Full World Title Match | Matchroom Boxing",
    "link": "https://www.saddoboxing.com/112761-jaron-boots-ennis-vs-eimantas-stanionis-full-world-title-match-matchroom-boxing.html",
    "source": "Saddo Boxing",
@@ -50,7 +50,7 @@
    "date": "2026-11-19T02:21:08+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 69,
+   "score": 68,
    "sources_n": 7,
    "title_it": "Jaron “Boots” Ennis vs Eimantas Stanionis | Partita per il titolo mondiale completo | Boxe da incontro",
    "title_es": "Jaron “Boots” Ennis contra Eimantas Stanionis | Lucha por el título mundial completo | Boxeo en la sala de partidos"
@@ -469,8 +469,8 @@
    "date": "2026-11-18T19:56:05+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 70,
-   "sources_n": 3,
+   "score": 80,
+   "sources_n": 4,
    "title_it": "Oscar De La Hoya rivela chi sta cercando Vergil Ortiz Jr dopo l'incontro con Keith Thurman",
    "title_es": "Óscar de la Hoya revela a quién persigue Vergil Ortiz Jr. tras el combate contra Keith Thurman"
   },
@@ -537,8 +537,8 @@
    "date": "2026-11-18T18:51:09+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 45,
-   "sources_n": 3,
+   "score": 55,
+   "sources_n": 4,
    "title_it": "NESSUNA LOTTA SOFT per Keith \"One Time\" Thurman",
    "title_es": "NO HAY PELEAS BLANDAS para Keith \"One Time\" Thurman"
   },
@@ -974,7 +974,7 @@
    "date": "2026-11-18T14:24:28+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 71,
+   "score": 70,
    "sources_n": 9,
    "title_it": "Teremoana Teremoana chiede un incontro per il titolo mondiale dopo aver battuto Ahio - Boxing News 24",
    "title_es": "Teremoana Teremoana pide una oportunidad por el título mundial tras vencer a Ahio - Boxing News 24"
@@ -1521,7 +1521,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 115,
+   "score": 114,
    "sources_n": 12,
    "title_it": "‘Salva lo spettacolo’ – I pesi massimi britannici ammettono di voler combattere Deontay Wilder su Tyson Fury vs Anthony Joshua undercard",
    "title_es": "'Salva el espectáculo': el peso pesado británico admite que quiere pelear contra Deontay Wilder en la cartelera de Tyson Fury vs Anthony Joshua"
@@ -1946,7 +1946,7 @@
    "date": "2026-11-17T20:21:05+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 54,
+   "score": 53,
    "sources_n": 6,
    "title_it": "L'ex campione del mondo di boxe Jorge Linares è stato fermato dagli agenti dell'ICE in Texas - The Athletic - The New York Times",
    "title_es": "El ex campeón mundial de boxeo Jorge Linares detenido por agentes del ICE en Texas - The Athletic - The New York Times"
@@ -2137,7 +2137,7 @@
    "date": "2026-11-17T16:25:41+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 42,
+   "score": 41,
    "sources_n": 6,
    "title_it": "“L’ICE mi ha”: Jorge Linares, ex campione del mondo di boxe venezuelano, è stato arrestato in Texas, Stati Uniti - NTN24",
    "title_es": "“Me tiene el ICE”: Jorge Linares, excampeón mundial de boxeo venezolano, fue detenido en Texas, Estados Unidos - NTN24"
@@ -2153,7 +2153,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 97,
+   "score": 96,
    "sources_n": 7,
    "title_it": "Otto Wallin ha affrontato Tyson Fury e Anthony Joshua: ecco le sue chiavi per la vittoria di entrambi",
    "title_es": "Otto Wallin se enfrentó a Tyson Fury y a Anthony Joshua. Estas son sus claves para la victoria de ambos púgiles."
@@ -2444,7 +2444,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 95,
+   "score": 94,
    "sources_n": 8,
    "title_it": "Derek Chisora chiede la rivincita nell'incontro tra Tyson Fury e Anthony Joshua dopo l'avvertimento di Eddie Hearn",
    "title_es": "Derek Chisora exige una revancha en la velada de Tyson Fury contra Anthony Joshua tras la advertencia de Eddie Hearn"
@@ -2541,7 +2541,7 @@
    "date": "2026-11-17T10:23:37+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 29,
+   "score": 28,
    "sources_n": 3,
    "title_it": "Il pugile irlandese Lee Reeves muore a 31 anni, tre mesi dopo aver subito degli infortuni durante un incontro",
    "title_es": "El boxeador irlandés Lee Reeves fallece a los 31 años, tres meses después de sufrir lesiones en un combate"
@@ -3035,8 +3035,8 @@
    "date": "2026-11-16T19:06:31-05:00",
    "status": "unverified",
    "boxers": [],
-   "score": 48,
-   "sources_n": 3,
+   "score": 58,
+   "sources_n": 4,
    "title_it": "\"È allora che so che l'incontro è mio\": Keith Thurman parla del suo approccio all'incontro con Vergil Ortiz",
    "title_es": "«Ahí es cuando sé que el combate es mío»: Keith Thurman habla sobre su planteamiento para enfrentarse a Vergil Ortiz"
   },
@@ -3117,8 +3117,8 @@
    "date": "2026-11-16T17:01:18+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 45,
-   "sources_n": 3,
+   "score": 55,
+   "sources_n": 4,
    "title_it": "PBC Face to Face: Vergil Ortiz Jr. contro Keith Thurman | Episodio completo ora disponibile",
    "title_es": "PBC Face to Face: Vergil Ortiz Jr. vs. Keith Thurman | Episodio completo ya disponible"
   },
@@ -3145,8 +3145,8 @@
    "date": "2026-11-16T17:00:06+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 45,
-   "sources_n": 3,
+   "score": 55,
+   "sources_n": 4,
    "title_it": "PBC Face to Face: Vergil Ortiz Jr. contro Keith Thurman",
    "title_es": "Enfrentamiento cara a cara de PBC: Vergil Ortiz Jr. vs. Keith Thurman"
   },
@@ -3563,19 +3563,6 @@
    "sources_n": 1,
    "title_it": "Nuovo rivale! Canelo avrebbe messo gli occhi sul campione britannico - Soy Referee",
    "title_es": "¡Nuevo rival! Canelo tendría en la mira a campeón británico - Soy Referee"
-  },
-  {
-   "title": "National Intermediate Championships Opening Weekend Results",
-   "link": "https://www.irish-boxing.com/national-intermediate-championships-opening-weekend-results/",
-   "source": "Irish Boxing",
-   "lang": "en",
-   "date": "2026-11-15T18:53:12+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 0,
-   "sources_n": 1,
-   "title_it": "Risultati del fine settimana di apertura dei Campionati Nazionali Intermedi",
-   "title_es": "Resultados del fin de semana inaugural del Campeonato Nacional Intermedio"
   },
   {
    "title": "Convicted Con Man, 71, Eyes Oldest Boxer World Record",
@@ -4039,6 +4026,19 @@
    "sources_n": 2,
    "title_it": "Risultati Zuffa Boxing 13, highlights: Carlos Adames vince su Gerome Warburton al debutto promozionale",
    "title_es": "Resultados de Zuffa Boxing 13, aspectos destacados: Carlos Adames logra una victoria sobre Gerome Warburton en su debut promocional"
+  },
+  {
+   "title": "Pugilato: Ferramosca riporta a Prato un titolo italiano dopo tredici anni di assenza - Notizie di Prato",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdEZaN0Qtd1djRnZXNllsNG5ZcE42Tzl6NVFnQ0ZMLU9xeE9OTFFGUTFQdHFmMnNvY1VwbmdOcTYxQzhKbmwzb3BYZFdHcHNHY3BQNzBFNF9fckduRjd0b2dyYy0zTzI0ZlE0Y1VMbVRaYmczX0tjY0s3eUkxZWJwT0FKNUlJWThkQ3JlaF8xaS1MOE05R2szSE1sR0V4TGtlYmRhZ3g0bVFoeDJNaDVzcmRDOWlYX0dRaVlYZw?oc=5",
+   "source": "Google News: pugilato",
+   "lang": "it",
+   "date": "2026-11-14T20:40:43+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 0,
+   "sources_n": 1,
+   "title_it": "Pugilato: Ferramosca riporta a Prato un titolo italiano dopo tredici anni di assenza - Notizie di Prato",
+   "title_es": "Boxeo: Ferramosca devuelve un título italiano a Prato después de trece años de ausencia - Prato News"
   }
  ]
 }
