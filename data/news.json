@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T02:10:50+00:00",
+ "updated": "2026-11-19T02:15:51+00:00",
  "feeds_ok": 47,
  "feeds_failed": 6,
  "news": [
@@ -537,7 +537,7 @@
    "date": "2026-11-18T18:13:22+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 91,
+   "score": 90,
    "sources_n": 11,
    "title_it": "Il controverso peso massimo statunitense è stato contattato per sostituire Deontay Wilder come avversario",
    "title_es": "Un controvertido peso pesado estadounidense ha sido contactado para ser el rival sustituto de Deontay Wilder"
@@ -683,7 +683,7 @@
    "date": "2026-11-18T16:15:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 25,
+   "score": 24,
    "sources_n": 1,
    "title_it": "Il Messico è il Paese con il maggior numero di pugili professionisti al mondo - Infobae",
    "title_es": "México es el país con más boxeadores profesionales en el mundo - Infobae"
@@ -696,7 +696,7 @@
    "date": "2026-11-18T16:12:10+00:00",
    "status": "rumor",
    "boxers": [],
-   "score": 53,
+   "score": 52,
    "sources_n": 2,
    "title_it": "Abdullah Mason e Floyd Schofield in \"trattative preliminari\" per l'unificazione dei titoli dei pesi leggeri",
    "title_es": "Abdullah Mason y Floyd Schofield en «conversaciones iniciales» para la unificación del peso ligero"
@@ -1149,7 +1149,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 116,
+   "score": 115,
    "sources_n": 8,
    "title_it": "‘Lontano dalla verità’ – Jai Opetaia rilascia una dichiarazione dopo essersi ritirato dalla undercard Tyson Fury vs Anthony Joshua",
    "title_es": "‘Lejos de la verdad’ – Jai Opetaia emite declaración después de retirarse de la cartelera de Tyson Fury vs Anthony Joshua"
@@ -1534,7 +1534,7 @@
    "date": "2026-11-18T08:14:15+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 76,
+   "score": 75,
    "sources_n": 5,
    "title_it": "Lauren Price ritiene che l'incontro con Claressa Shields \"avverrà sicuramente\": \"Bisogna avere il coraggio di essere grandi\"",
    "title_es": "Lauren Price cree que el combate contra Claressa Shields «se celebrará sin duda»: «Hay que atreverse a ser grande»"
@@ -2066,7 +2066,7 @@
    "date": "2026-11-17T18:13:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 14,
+   "score": 13,
    "sources_n": 1,
    "title_it": "Excampeón mundial de boxeo es arrestado en Estados Unidos y sus abo... - Contraparte | Giornalismo in equilibrio",
    "title_es": "Excampeón mundial de boxeo es arrestado en Estados Unidos y sus abo... - Contraparte | Periodismo en Equilibrio"
@@ -2237,7 +2237,7 @@
    "date": "2026-11-17T16:12:48+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 43,
+   "score": 42,
    "sources_n": 4,
    "title_it": "Italia alle Finali della World Boxing Cup: 5 azzurri in gara a Tashkent",
    "title_es": "Italia en la final del Mundial de Boxeo: 5 italianos compitiendo en Tashkent"
@@ -2921,7 +2921,7 @@
    "date": "2026-11-17T02:11:57+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 24,
+   "score": 23,
    "sources_n": 2,
    "title_it": "Lee Reeves muore all'età di 31 anni: il pugile tragico perde la lotta per la vita dopo tre mesi di coma in seguito alla brutale sconfitta per KO",
    "title_es": "Lee Reeves muere a los 31 años: el trágico boxeador pierde la pelea por su vida después de tres meses en coma luego de una brutal derrota por nocaut"
@@ -2986,7 +2986,7 @@
    "date": "2026-11-17T00:15:19+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 15,
+   "score": 14,
    "sources_n": 2,
    "title_it": "Tank Davis e Kambosos Jr pubblicano poster finti per stuzzicare in vista dell'incontro di primavera",
    "title_es": "Tank Davis y Kambosos Jr. publican carteles simulados para anunciar su combate de primavera"
@@ -3620,19 +3620,6 @@
    "title_es": "¡Nuevo rival! Canelo tendría en la mira a campeón británico - Soy Referee"
   },
   {
-   "title": "National Intermediate Championships Opening Weekend Results",
-   "link": "https://www.irish-boxing.com/national-intermediate-championships-opening-weekend-results/",
-   "source": "Irish Boxing",
-   "lang": "en",
-   "date": "2026-11-15T18:53:12+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 0,
-   "sources_n": 1,
-   "title_it": "Risultati del fine settimana di apertura dei Campionati Nazionali Intermedi",
-   "title_es": "Resultados del fin de semana inaugural del Campeonato Nacional Intermedio"
-  },
-  {
    "title": "Convicted Con Man, 71, Eyes Oldest Boxer World Record",
    "link": "https://www.worldboxingnews.com/con-man-oldest-boxer-world-record/",
    "source": "World Boxing News",
@@ -4042,6 +4029,19 @@
    "sources_n": 3,
    "title_it": "Risultati Zuffa Boxing 13: Adames batte Warburton a Riad, Castro sconvolge Butaev",
    "title_es": "Resultados de Zuffa Boxing 13: Adames supera a Warburton en Riad, Castro sorprende a Butaev"
+  },
+  {
+   "title": "Diego Pacheco Vs Darius Fulghum Prelims | 4 Live Fights | Matchroom Boxing",
+   "link": "https://www.youtube.com/watch?v=BlBeppo1IDU",
+   "source": "YouTube Matchroom Boxing",
+   "lang": "en",
+   "date": "2026-11-15T00:17:41+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 45,
+   "sources_n": 1,
+   "title_it": "Diego Pacheco Vs Darius Fulghum Preliminari | 4 combattimenti dal vivo | Boxe da incontro",
+   "title_es": "Preliminares Diego Pacheco Vs Darío Fulghum | 4 peleas en vivo | Boxeo en la sala de partidos"
   }
  ]
 }
