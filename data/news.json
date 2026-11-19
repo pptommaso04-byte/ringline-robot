@@ -1,20 +1,33 @@
 {
- "updated": "2026-11-19T14:06:56+00:00",
+ "updated": "2026-11-19T14:10:48+00:00",
  "feeds_ok": 48,
  "feeds_failed": 5,
  "news": [
   {
    "title": "Edwards' world title aim to join Welsh boxing greats",
-   "link": "https://www.bbc.co.uk/sport/boxing/articles/ckr5g3ql2mdlo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport Boxing",
+   "link": "https://sports.yahoo.com/articles/edwards-world-title-aim-join-135907708.html",
+   "source": "Yahoo Sports Boxing",
    "lang": "en",
-   "date": "2026-11-19T13:54:42+00:00",
+   "date": "2026-11-19T13:59:07+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 39,
-   "sources_n": 1,
+   "score": 49,
+   "sources_n": 2,
    "title_it": "L'obiettivo del titolo mondiale di Edwards è quello di unirsi ai grandi del pugilato gallese",
    "title_es": "El objetivo de Edwards de conseguir el título mundial es unirse a los grandes del boxeo galés"
+  },
+  {
+   "title": "Edwards' world title aim to join Welsh boxing greats - Yahoo Sports",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa2U2WGZEdXRURXNybmFtRlRsSnVXUTJaRzdibkppOTdQdlhlU01kd1RlbnVNUVVTOEgwazc2UFpDTFFRY0lJbk5XVFc5SlZCT0xqcWNkcUZkTGVMNzBOemRSeEpHcXRlOFV3Y2VGNGFTRDEyc0ZCWUo4RVhuUGw4UzZVOA?oc=5",
+   "source": "Google News: boxing",
+   "lang": "en",
+   "date": "2026-11-19T13:59:07+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 49,
+   "sources_n": 2,
+   "title_it": "L'obiettivo di Edwards di conquistare il titolo mondiale per unirsi ai grandi del pugilato gallese - Yahoo Sports",
+   "title_es": "El objetivo de Edwards de conseguir el título mundial para unirse a los grandes del boxeo galés - Yahoo Sports"
   },
   {
    "title": "Crawford’s Bitter WBC Feud Hangs Over Martinez’s Canelo Shot",
@@ -254,7 +267,7 @@
    "date": "2026-11-19T10:09:43+00:00",
    "status": "rumor",
    "boxers": [],
-   "score": 76,
+   "score": 75,
    "sources_n": 4,
    "title_it": "Lauren Price indica due grandi nomi con cui vorrebbe combattere se diventasse campionessa indiscussa",
    "title_es": "Lauren Price nombra a dos grandes nombres contra las que quiere pelear si se convierte en campeona indiscutible"
@@ -267,8 +280,8 @@
    "date": "2026-11-19T10:08:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 58,
-   "sources_n": 8,
+   "score": 57,
+   "sources_n": 7,
    "title_it": "L’ICE arresta Jorge Linares: l'ex campione di pugilato rischia l’espulsione - RaiNews",
    "title_es": "La Policía de Extranjería e Inmigración detiene a Jorge Linares: el exboxeador campeón se enfrenta a la expulsión - RaiNews"
   },
@@ -283,7 +296,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 94,
+   "score": 93,
    "sources_n": 11,
    "title_it": "Chi vincerà l'incontro Fury-Joshua? I giornalisti dell'Independent pronosticano l'esito del super-incontro britannico",
    "title_es": "¿Quién ganará el combate Fury vs. Joshua? Los redactores de The Independent pronostican el resultado del supercombate británico"
@@ -507,7 +520,7 @@
    "boxers": [
     "Oleksandr Usyk"
    ],
-   "score": 80,
+   "score": 79,
    "sources_n": 1,
    "title_it": "Carl Froch indica \"il miglior peso massimo al mondo\" mentre Usyk si avvicina al ritiro: \"Chi lo batterà?\"",
    "title_es": "Carl Froch considera a Usyk «el mejor peso pesado del mundo» cuando se acerca su retirada: «¿Quién le gana?»"
@@ -797,7 +810,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 63,
-   "sources_n": 8,
+   "sources_n": 7,
    "title_it": "Jorge Linares: ex pugile campione del mondo arrestato dall'ICE - Nine.com.au",
    "title_es": "Jorge Linares: ex boxeador campeón mundial arrestado por ICE - Nine.com.au"
   },
@@ -862,7 +875,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 52,
-   "sources_n": 10,
+   "sources_n": 9,
    "title_it": "Jorge Linares, tre volte campione mondiale di pugilato, arrestato dall'ICE in Texas - CubaHeadlines",
    "title_es": "Jorge Linares, tricampeón mundial de boxeo, detenido por ICE en Texas - CubaHeadlines"
   },
@@ -1271,7 +1284,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 50,
+   "score": 49,
    "sources_n": 11,
    "title_it": "Fury vs Joshua: orario di inizio, incontri di apertura e come assistere all'incontro",
    "title_es": "Fury vs. Joshua: hora de comienzo, combates previos y cómo ver el combate"
@@ -1440,7 +1453,7 @@
    "date": "2026-11-18T16:08:05+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 29,
+   "score": 28,
    "sources_n": 1,
    "title_it": "La rivincita di Santiago-Iwata vale l'unificazione dei titoli WBC, WBA e WBO l'11 gennaio a Tokyo",
    "title_es": "La revancha de Santiago-Iwata es por la unificación de los campeonatos WBC, AMB y OMB el 11 de enero en Tokio"
@@ -1560,7 +1573,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 48,
-   "sources_n": 8,
+   "sources_n": 7,
    "title_it": "Jorge Linares, ex campione del mondo di boxe, rischia la deportazione dopo essere stato detenuto dall'ICE in Texas - EL PAÍS",
    "title_es": "Jorge Linares, excampeón mundial de boxeo, enfrenta un proceso de deportación tras ser detenido por el ICE en Texas - EL PAÍS"
   },
@@ -1918,19 +1931,6 @@
    "title_es": "La velada preliminar de Fury vs. Joshua de Netflix va de mal en peor"
   },
   {
-   "title": "Great moments: nine years since Zolani Tete made fastest world title defence - Sowetan",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdUx1TTlNdkl0WlBJRUNCdFQ2cnRKU0VkQkxWYnJrbzRBTWFqak45S3AxYzdwTTdQQmJTM2gtdUhFSWlFMkxsZU5ZU3FSM3BwbW1iSGZETWNsLUw0NDBRSmlNdnpNT2haYnkyRlBvck1WcWFIWGFxM3FIbHRYY3dhR3ZIZ2xuYzBFVWJoRDlNS0hsOUl5NUt3NlVjeThqRllIWGZCcDY4NVBTeEpZdXNERE0tTzNQT1NQQnY0Q1VVcmI1akFH?oc=5",
-   "source": "Google News: boxing",
-   "lang": "en",
-   "date": "2026-11-18T11:03:42+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 26,
-   "sources_n": 1,
-   "title_it": "Grandi momenti: nove anni fa Zolani Tete conquistava la difesa del titolo mondiale più veloce - Sowetan",
-   "title_es": "Grandes momentos: nueve años desde que Zolani Tete consiguió la defensa de un título mundial más rápida - Sowetan"
-  },
-  {
    "title": "Opetaia out of Wilder fight on Fury-Joshua card",
    "link": "https://sports.yahoo.com/articles/opetaia-wilder-fight-fury-joshua-101539276.html",
    "source": "Yahoo Sports Boxing",
@@ -2227,7 +2227,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 41,
-   "sources_n": 8,
+   "sources_n": 7,
    "title_it": "L'ICE arresta Jorge Linares, 'El Niño de Oro', ex pugile venezuelano: cosa sappiamo del caso? - Il Finanziere",
    "title_es": "ICE arresta a Jorge Linares, ‘El Niño de Oro’, exboxeador venezolano: ¿Qué es lo que sabemos del caso? - El Financiero"
   },
@@ -2265,8 +2265,8 @@
    "date": "2026-11-17T23:42:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 20,
-   "sources_n": 2,
+   "score": 10,
+   "sources_n": 1,
    "title_it": "L'ex campione del mondo di boxe detenuto dall'ICE a El Paso - El Paso Times",
    "title_es": "Ex campeón mundial de boxeo detenido bajo custodia de ICE en El Paso - El Paso Times"
   },
@@ -2305,7 +2305,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 50,
-   "sources_n": 8,
+   "sources_n": 7,
    "title_it": "Perché Jorge Linares è stato arrestato dall'ICE? Ex campione del mondo di boxe in tre divisioni detenuto in custodia in Texas - The Times of India",
    "title_es": "¿Por qué Jorge Linares fue detenido por ICE? Ex campeón mundial de boxeo en tres divisiones detenido bajo custodia en Texas - The Times of India"
   },
@@ -2318,7 +2318,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 40,
-   "sources_n": 8,
+   "sources_n": 7,
    "title_it": "L'ex campione di boxe in tre categorie di peso Jorge Linares è stato arrestato dall'ICE in Texas",
    "title_es": "El ex campeón de boxeo en tres categorías Jorge Linares detenido por el ICE en Texas"
   },
@@ -2356,7 +2356,7 @@
    "date": "2026-11-17T22:10:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 10,
+   "score": 9,
    "sources_n": 1,
    "title_it": "Calendario del pugilato - ESPN Deportes",
    "title_es": "Calendario de boxeo - ESPN Deportes"
@@ -2370,7 +2370,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 39,
-   "sources_n": 8,
+   "sources_n": 7,
    "title_it": "Arrestato l'ex campione del mondo di boxe Jorge Linares: cosa si sa della sua situazione? - Giornale postale",
    "title_es": "Detienen al excampeón mundial de boxeo, Jorge Linares: ¿qué se sabe de su situación? - Periódico Correo"
   },
@@ -2411,7 +2411,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 39,
-   "sources_n": 8,
+   "sources_n": 7,
    "title_it": "Chi è Jorge Linares? Ex campione del mondo di boxe arrestato dall'ICE in Texas - Luz Noticias",
    "title_es": "¿Quién es Jorge Linares? El excampeón mundial de boxeo arrestado por el ICE en Texas - Luz Noticias"
   },
@@ -2450,7 +2450,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 49,
-   "sources_n": 8,
+   "sources_n": 7,
    "title_it": "L'ex campione del mondo di boxe Jorge Linares arrestato dai funzionari dell'ICE in Texas - The Athletic - The New York Times",
    "title_es": "El ex campeón mundial de boxeo Jorge Linares detenido por funcionarios de ICE en Texas - The Athletic - The New York Times"
   },
@@ -2570,7 +2570,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 37,
-   "sources_n": 8,
+   "sources_n": 7,
    "title_it": "L'ex campione mondiale di boxe venezuelano Jorge Linares è stato arrestato dalle autorità statunitensi per l'immigrazione - Extra News Mundo",
    "title_es": "Ex campeón mundial de boxeo venezolano Jorge Linares, fue detenido por las autoridades migratorias de Estados Unidos - Extra News Mundo"
   },
@@ -2641,7 +2641,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 37,
-   "sources_n": 8,
+   "sources_n": 7,
    "title_it": "“L’ICE mi ha”: Jorge Linares, ex campione del mondo di boxe venezuelano, è stato arrestato in Texas, Stati Uniti - NTN24",
    "title_es": "“Me tiene el ICE”: Jorge Linares, excampeón mundial de boxeo venezolano, fue detenido en Texas, Estados Unidos - NTN24"
   },
@@ -2825,7 +2825,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 26,
-   "sources_n": 8,
+   "sources_n": 7,
    "title_it": "Il venezuelano Jorge “El Niño de Oro” Linares, ex tre volte campione del mondo di boxe, è sotto la custodia dell'ICE degli Stati Uniti per l'immigrazione e la dogana, ha confermato Gilberto Jesús Mendoza, presidente dell'Ice - Instagram",
    "title_es": "El venezolano Jorge “El Niño de Oro” Linares, extricampeón mundial de boxeo, se encuentra bajo custodia del Servicio de Inmigración y Control de Aduanas de Estados Unidos (ICE, por sus siglas en inglés), confirmó Gilberto Jesús Mendoza, presidente de l - Instagram"
   },
@@ -2879,7 +2879,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 73,
+   "score": 72,
    "sources_n": 11,
    "title_it": "Richard Riakporhe si offre di combattere contro Deontay Wilder nell'undercard di Fury-Joshua",
    "title_es": "Richard Riakporhe se ofrece a pelear contra Deontay Wilder en la velada Fury-Joshua"
@@ -2906,7 +2906,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 47,
-   "sources_n": 8,
+   "sources_n": 7,
    "title_it": "L'ex campione del mondo in tre categorie Jorge Linares è stato arrestato dall'ICE",
    "title_es": "El ex campeón mundial de tres divisiones Jorge Linares detenido por el ICE"
   },
@@ -3006,7 +3006,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 44,
-   "sources_n": 8,
+   "sources_n": 7,
    "title_it": "\"Questo è pazzesco\" - l'ex pugile campione del mondo Jorge Linares arrestato dall'ICE - Metro.co.uk",
    "title_es": "'Esto es una locura': el ex campeón mundial de boxeo Jorge Linares arrestado por ICE - Metro.co.uk"
   },
@@ -3070,7 +3070,7 @@
    "date": "2026-11-17T10:08:30+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 14,
+   "score": 13,
    "sources_n": 2,
    "title_it": "Lee Reeves muore a 31 anni, il tragico bilancio delle vittime della boxe aumenta",
    "title_es": "Lee Reeves fallece a los 31 años: aumenta el trágico número de víctimas mortales en el boxeo"
@@ -3097,7 +3097,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 43,
-   "sources_n": 8,
+   "sources_n": 7,
    "title_it": "Ex campione del mondo di boxe arrestato dall'ICE",
    "title_es": "Un expúgil campeón del mundo detenido por el ICE"
   },
@@ -3305,7 +3305,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 31,
-   "sources_n": 8,
+   "sources_n": 7,
    "title_it": "L'ICE detiene Jorge Linares, ex campione del mondo di boxe venezuelano, in Texas - OBSON Media",
    "title_es": "ICE detiene en Texas a Jorge Linares, excampeón mundial de boxeo venezolano - Medios OBSON"
   },
@@ -3370,7 +3370,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 50,
-   "sources_n": 8,
+   "sources_n": 7,
    "title_it": "L'ex pugile campione del mondo WBA Jorge Linares viene arrestato dall'ICE e trattenuto in Texas",
    "title_es": "El ex boxeador campeón mundial AMB Jorge Linares es arrestado por ICE y retenido en Texas"
   },
@@ -3383,7 +3383,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 40,
-   "sources_n": 6,
+   "sources_n": 5,
    "title_it": "Linares, ex campione del mondo venezuelano di boxe, è stato fermato dall'immigrazione statunitense",
    "title_es": "El exboxeador venezolano campeón del mundo Linares detenido por Inmigración de EE. UU."
   },
@@ -3396,7 +3396,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 40,
-   "sources_n": 6,
+   "sources_n": 5,
    "title_it": "L'ex pugile venezuelano campione del mondo Linares arrestato dall'immigrazione statunitense - Yahoo Sports",
    "title_es": "Linares, excampeón mundial del boxeo venezolano, detenido por inmigración de EE.UU. - Yahoo Deportes"
   },
@@ -3435,22 +3435,9 @@
    "status": "unverified",
    "boxers": [],
    "score": 30,
-   "sources_n": 8,
+   "sources_n": 7,
    "title_it": "Il pugile venezuelano Jorge Linares rimane in custodia dell'ICE in un centro di detenzione del Texas - El Diario Venezuela",
    "title_es": "El boxeador venezolano Jorge Linares permanece bajo custodia del ICE en un centro de detención de Texas - El Diario Venezuela"
-  },
-  {
-   "title": "Former Three Division Champion Jorge Linares in ICE Custody in El Paso",
-   "link": "https://www.boxinginsider.com/headlines/former-three-division-champion-jorge-linares-in-ice-custody-in-el-paso/",
-   "source": "Boxing Insider",
-   "lang": "en",
-   "date": "2026-11-16T21:54:26+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 30,
-   "sources_n": 8,
-   "title_it": "L'ex campione di tre categorie Jorge Linares è detenuto dall'ICE a El Paso",
-   "title_es": "El excampeón de tres divisiones Jorge Linares está bajo custodia del ICE en El Paso"
   },
   {
    "title": "Fase Finali Campionati Italiani Elite 2026 - A Cuneo presentazione degli Assoluti M/F 2026 - FPI",
@@ -3500,7 +3487,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 30,
-   "sources_n": 8,
+   "sources_n": 7,
    "title_it": "Jorge Linares, ex campione del mondo di boxe venezuelano, è in custodia ICE negli Stati Uniti - Prima Edizione Col",
    "title_es": "Jorge Linares, excampeón mundial de boxeo venezolano, figura bajo custodia del ICE en Estados Unidos - Primera Edición Col"
   },
@@ -4066,6 +4053,19 @@
    "sources_n": 3,
    "title_it": "Carlos Adames vs. Gerome Warburton: Riyadh Season Zuffa Boxing 13",
    "title_es": "Carlos Adames vs. Gerome Warburton: Temporada de Riad Zuffa Boxing 13"
+  },
+  {
+   "title": "The Wolf went hunting early at #ZuffaBoxing13 🐺💥",
+   "link": "https://www.youtube.com/watch?v=L3RT8CWeROM",
+   "source": "YouTube Zuffa Boxing",
+   "lang": "en",
+   "date": "2026-11-15T16:54:26+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 0,
+   "sources_n": 1,
+   "title_it": "Il Lupo è andato a caccia presto al #ZuffaBoxing13 🐺💥",
+   "title_es": "El Lobo salió de caza temprano en #ZuffaBoxing13 🐺💥"
   }
  ]
 }
