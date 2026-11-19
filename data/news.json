@@ -1,8 +1,21 @@
 {
- "updated": "2026-11-19T19:15:44+00:00",
+ "updated": "2026-11-19T19:20:42+00:00",
  "feeds_ok": 48,
  "feeds_failed": 5,
  "news": [
+  {
+   "title": "KO’d by Mike Tyson in One, Murdered 3 People 3 Months Later",
+   "link": "https://www.worldboxingnews.com/mike-tyson-reggie-gross-triple-murder/",
+   "source": "World Boxing News",
+   "lang": "en",
+   "date": "2026-11-19T19:17:41+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 47,
+   "sources_n": 2,
+   "title_it": "Messo KO da Mike Tyson in One, assassinato 3 persone 3 mesi dopo",
+   "title_es": "Noqueado por Mike Tyson en uno, asesinado a 3 personas 3 meses después"
+  },
   {
    "title": "Mike Tyson says one current world champion stands out as the ‘baddest monster on the planet’",
    "link": "https://boxingnewsonline.net/news/mike-tyson-names-baddest-on-planet/",
@@ -177,7 +190,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 114,
+   "score": 113,
    "sources_n": 11,
    "title_it": "Anthony Joshua si allena specificamente per \"mettere fuori gioco\" Tyson Fury",
    "title_es": "Anthony Joshua se entrena específicamente para «dejar fuera de juego» a Tyson Fury"
@@ -866,7 +879,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 110,
+   "score": 109,
    "sources_n": 11,
    "title_it": "Anthony Joshua diventa padre: la star della boxe accoglie una bambina nata in segreto poche settimane prima dello scontro con Tyson Fury",
    "title_es": "Anthony Joshua se convierte en padre: la estrella del boxeo da la bienvenida a una niña nacida en secreto semanas antes del combate contra Tyson Fury"
@@ -1261,7 +1274,7 @@
    "date": "2026-11-19T01:16:42+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 61,
+   "score": 60,
    "sources_n": 7,
    "title_it": "Jaron “Boots” Ennis vs Eimantas Stanionis | Partita per il titolo mondiale completo | Boxe da incontro",
    "title_es": "Jaron “Boots” Ennis contra Eimantas Stanionis | Lucha por el título mundial completo | Boxeo en la sala de partidos"
@@ -1759,7 +1772,7 @@
    "date": "2026-11-18T17:19:02+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 62,
+   "score": 61,
    "sources_n": 2,
    "title_it": "Erislandy \"The American Dream\" Lara anticipa la difesa del titolo dei pesi medi WBA a Tim Tszyu",
    "title_es": "Erislandy “The American Dream” Lara adelanta la defensa del título de peso mediano de la AMB ante Tim Tszyu"
@@ -1889,8 +1902,8 @@
    "date": "2026-11-18T15:35:21+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 36,
-   "sources_n": 3,
+   "score": 26,
+   "sources_n": 2,
    "title_it": "PRIMO TEASER: Face-off tra Jaron Boots Ennis e Josh Kelly 🍿",
    "title_es": "PRIMER AVANCE: Enfrentamiento entre Jaron «Boots» Ennis y Josh Kelly 🍿"
   },
@@ -2390,7 +2403,7 @@
    "date": "2026-11-18T09:17:53+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 13,
+   "score": 12,
    "sources_n": 1,
    "title_it": "Dario Morello dopo la morte di Lee Reeves: \"La stampa italiana parla di boxe solo quando ci sono disgrazie\" - The Shield Of Sports",
    "title_es": "Dario Morello tras la muerte de Lee Reeves: \"La prensa italiana sólo habla de boxeo cuando hay desgracias\" - The Shield Of Sports"
@@ -3830,7 +3843,7 @@
     "Canelo Alvarez"
    ],
    "score": 65,
-   "sources_n": 6,
+   "sources_n": 5,
    "title_it": "Eddie Hearn afferma di non escludere un futuro incontro tra Canelo Álvarez e Jaron \"Boots\" Ennis 👀",
    "title_es": "Eddie Hearn afirma que no descarta un futuro combate entre Canelo Álvarez y Jaron «Boots» Ennis 👀"
   },
@@ -3912,8 +3925,8 @@
    "date": "2026-11-16T16:00:27+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 20,
-   "sources_n": 3,
+   "score": 10,
+   "sources_n": 2,
    "title_it": "Josh Kelly contro Boots Ennis rappresenterà una sfida completamente nuova per ENTRAMBI i pugili 👀",
    "title_es": "Josh Kelly contra Boots Ennis supondrá un reto completamente nuevo para AMBOS púgiles 👀"
   },
@@ -4064,19 +4077,6 @@
    "sources_n": 1,
    "title_it": "Inoue-Rodriguez, Usyk-Benavidez e la grande ripresa della boxe",
    "title_es": "Inoue-Rodríguez, Usyk-Benavidez y el gran rebote del boxeo"
-  },
-  {
-   "title": "Jaron Ennis and Josh Kelly clash ahead of world title fight as Ciryl Gane defeats Josh Hokit: Your daily combat sports news roundup - DAZN",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORjZxTkhBbjg0WWVjQkIzOWVBSTRybHVoSFp2QmcyeTVRZVdtSEtMZ0pJT281dTk2TmN6YUhwX3B5N0dDN0hwblZSSzBfUkZJTXp4eDVsV0h2cXM5cW1xTl9CVFRWZFd5UUNnSkYtd1RmX0pYbG4xS1RuVUJ2dEM3eTRSekJzVTIyRURNSjk1Zy1YcVJ5eVVEWUhmVGxraHNFblBPcXlLM1ktYmxUQjZlOGloQnNIdE1LMndteGdqT3JLSnZIWXA1ckF3?oc=5",
-   "source": "Google News: boxing",
-   "lang": "en",
-   "date": "2026-11-16T11:08:24+00:00",
-   "status": "confirmed",
-   "boxers": [],
-   "score": 63,
-   "sources_n": 3,
-   "title_it": "Jaron Ennis e Josh Kelly si scontrano prima della lotta per il titolo mondiale mentre Ciryl Gane sconfigge Josh Hokit: la vostra raccolta quotidiana di notizie sugli sport da combattimento - DAZN",
-   "title_es": "Jaron Ennis y Josh Kelly chocan antes de la pelea por el título mundial cuando Ciryl Gane derrota a Josh Hokit: su resumen diario de noticias sobre deportes de combate - DAZN"
   }
  ]
 }
