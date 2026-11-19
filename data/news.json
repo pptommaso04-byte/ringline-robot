@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-19T03:38:50+00:00",
- "feeds_ok": 48,
- "feeds_failed": 5,
+ "updated": "2026-11-19T03:40:48+00:00",
+ "feeds_ok": 47,
+ "feeds_failed": 6,
  "news": [
   {
    "title": "Jones vs Pettus: Full card and fight order",
@@ -618,7 +618,7 @@
    "date": "2026-11-18T17:39:26+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 25,
+   "score": 24,
    "sources_n": 1,
    "title_it": "L'ex campione del mondo di boxe è detenuto dall'ICE mentre si moltiplicano le richieste per la sua liberazione - NBC News",
    "title_es": "El ex campeón mundial de boxeo está bajo custodia del ICE mientras se piden su liberación - NBC News"
@@ -2282,7 +2282,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 97,
+   "score": 96,
    "sources_n": 7,
    "title_it": "Il combattimento undercard tra Tyson Fury e Anthony Joshua ANNULLATO poche settimane prima dello spettacolo e Chisora ​​potrebbe intervenire",
    "title_es": "La pelea preliminar de Tyson Fury vs Anthony Joshua CANCELADA pocas semanas antes del show y Chisora ​​podría intervenir"
@@ -2496,7 +2496,7 @@
    "date": "2026-11-17T11:39:49+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 10,
+   "score": 9,
    "sources_n": 1,
    "title_it": "Il pugile che ha perso 45 kg e ha combattuto contro la depressione per inseguire un sogno",
    "title_es": "El boxeador que perdió 45 kg y luchó contra la depresión para perseguir un sueño"
@@ -2736,7 +2736,7 @@
    "date": "2026-11-17T07:40:46+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 28,
+   "score": 27,
    "sources_n": 3,
    "title_it": "Il pugile Lee Reeves muore a 31 anni dopo un brutale knock-out a Dublino",
    "title_es": "El boxeador Lee Reeves fallece a los 31 años tras un brutal «nocaut» en Dublín"
@@ -3799,19 +3799,6 @@
    "title_es": "Deontay Wilder contra Jai Opetaia: George Groves predice un nocaut en el combate de pesos pesados"
   },
   {
-   "title": "Top 12 All-Time Greatest Heavyweight Punchers",
-   "link": "https://www.thefightcity.com/best-heavyweight-punchers/",
-   "source": "The Fight City",
-   "lang": "en",
-   "date": "2026-11-15T12:07:51+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 10,
-   "sources_n": 1,
-   "title_it": "I 12 migliori pugili dei pesi massimi di tutti i tempi",
-   "title_es": "Los 12 mejores pegadores de peso pesado de todos los tiempos"
-  },
-  {
    "title": "Aaron McKenna to defend IBF title against Jevgenijs Aleksejevs in Riyadh",
    "link": "https://www.boxingscene.com/articles/aaron-mckenna-to-defend-ibf-title-against-jevgenijs-aleksejevs-in-riyadh",
    "source": "Boxing Scene",
@@ -3861,8 +3848,8 @@
    "date": "2026-11-15T10:45:00+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 0,
-   "sources_n": 1,
+   "score": 10,
+   "sources_n": 2,
    "title_it": "Boxe, D’Ortenzi vince e convince: è ancora lui il Campione d’Europa - RomaToday",
    "title_es": "Boxeo, D'Ortenzi vence y convence: sigue siendo el campeón de Europa - RomaToday"
   },
@@ -4039,6 +4026,19 @@
    "sources_n": 2,
    "title_it": "Viddal Riley festeggia con KSI dopo aver mantenuto la cintura europea contro Seydi Coupe per organizzare la corsa al titolo mondiale",
    "title_es": "Viddal Riley celebra con KSI después de retener el cinturón europeo contra Seydi Coupe para preparar la oportunidad por el título mundial"
+  },
+  {
+   "title": "Boxe: Luca D’Ortenzi batte Eros Seghetti e si conferma Campione d’Europa dei mediomassimi",
+   "link": "https://www.oasport.it/2026/11/boxe-luca-dortenzi-batte-eros-seghetti-e-si-conferma-campione-deuropa-dei-mediomassimi/",
+   "source": "OA Sport Boxe",
+   "lang": "it",
+   "date": "2026-11-14T22:50:53+00:00",
+   "status": "confirmed",
+   "boxers": [],
+   "score": 10,
+   "sources_n": 2,
+   "title_it": "Boxe: Luca D’Ortenzi batte Eros Seghetti e si conferma Campione d’Europa dei mediomassimi",
+   "title_es": "Boxeo: Luca D'Ortenzi vence a Eros Seghetti y se confirma como campeón europeo de peso semipesado"
   }
  ]
 }
