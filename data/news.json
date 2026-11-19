@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-19T12:20:53+00:00",
- "feeds_ok": 48,
- "feeds_failed": 5,
+ "updated": "2026-11-19T12:25:40+00:00",
+ "feeds_ok": 47,
+ "feeds_failed": 6,
  "news": [
   {
    "title": "Jasmine Di Felice sul ring di Montesilvano per il titolo intercontinentale Wba di pugilato femminile - Abruzzo Popolare",
@@ -124,7 +124,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 114,
+   "score": 113,
    "sources_n": 17,
    "title_it": "L'ex avversario corpulento di Tyson Fury si candida per affrontare Deontay Wilder nel sottoclou di Anthony Joshua",
    "title_es": "El corpulento exrival de Tyson Fury se apunta para enfrentarse a Deontay Wilder en la velada preliminar de Anthony Joshua"
@@ -362,7 +362,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 103,
+   "score": 102,
    "sources_n": 11,
    "title_it": "Stile GTA6: Anthony Joshua si prepara ad affrontare Tyson Fury nel ritiro di allenamento",
    "title_es": "Estilo GTA6: Anthony Joshua se prepara para enfrentarse a Tyson Fury en el campo de entrenamiento"
@@ -515,7 +515,7 @@
    "date": "2026-11-19T06:23:58+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 27,
+   "score": 26,
    "sources_n": 1,
    "title_it": "Un pugile dei pesi gallo cerca vendetta mangiando... carne di canguro e di coccodrillo. - Vietnam.vn",
    "title_es": "Un púgil de peso gallo busca venganza comiendo... carne de canguro y de cocodrilo. - Vietnam.vn"
@@ -601,7 +601,7 @@
    "date": "2026-11-19T04:25:05+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 89,
+   "score": 88,
    "sources_n": 4,
    "title_it": "Keith Thurman ha eliminato un campione imbattuto",
    "title_es": "Keith Thurman superó a un campeón invicto"
@@ -640,7 +640,7 @@
    "date": "2026-11-19T02:21:08+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 65,
+   "score": 64,
    "sources_n": 7,
    "title_it": "Jaron “Boots” Ennis vs Eimantas Stanionis | Partita per il titolo mondiale completo | Boxe da incontro",
    "title_es": "Jaron “Boots” Ennis contra Eimantas Stanionis | Lucha por el título mundial completo | Boxeo en la sala de partidos"
@@ -1448,19 +1448,6 @@
    "title_es": "Jorge Linares, excampeón mundial de boxeo, enfrenta un proceso de deportación tras ser detenido por el ICE en Texas - EL PAÍS"
   },
   {
-   "title": "Ultimi appuntamenti dell’anno per l’organizzazione Conti Cavini: primo match una finale europea - Il Giunco.net",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLUpYbDVPWWRhY2lSeXczak02eVEwSVJQbTE4cnlhR3ZNRzZxNERZZEdXYktiTUpaTi14NWxvcVpRQXl1Q200SkN3RnlOSm9kanZ2a1ZhT0M5cjZ4ZDlrUVE0eXFPdDlfZVo1UzloY1RIZmdTemlDcEl1NUJYakE1T2NaeExvNW0xT19vanYxaS1DdDQwYlphRUd2TGZSMzZEaUs3eVlxa3oxXzYyMnE5YW5FOW1DQWhNZXZaOWJtYnZUdjJ5MVhsRtIB0AFBVV95cUxPVktsTGRCRXczWVI1dDMyeVBxZUFIMEQ0cWRCUUFVLUNrcDY3ZmlZb1BaNFFZeUtyMWZSd3hVVGVwVVIzUVRCZUZTSW81THNaN1c3c0s2ZWJfWkFMQlVQOWtTelRjRU9VWXFKMWxKR24xZ05DOXlQYzFtdXlNQmxqeFZiTjZRZlp6bHJRZWJmWFYyazgxOFl5dFhVMGNRYndDV2hnc2RBMXpxTHNBdW5PT003ZTRDQzFLMUQycGlXVjdyU2pGOTRCZThpclJtNHVm?oc=5",
-   "source": "Google News: pugilato",
-   "lang": "it",
-   "date": "2026-11-18T15:25:00+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 19,
-   "sources_n": 1,
-   "title_it": "Ultimi appuntamenti dell’anno per l’organizzazione Conti Cavini: primo match una finale europea - Il Giunco.net",
-   "title_es": "Últimas citas del año para la organización Conti Cavini: primer partido, una final europea - Il Giunco.net"
-  },
-  {
    "title": "Fury vs Joshua undercard chaos could have brutal knock-on effect",
    "link": "https://sports.yahoo.com/articles/fury-vs-joshua-undercard-chaos-151228158.html",
    "source": "Yahoo Sports Boxing",
@@ -1477,19 +1464,6 @@
    "title_es": "El caos de la velada preliminar de Fury vs. Joshua podría tener un efecto dominó brutal"
   },
   {
-   "title": "L'ex campione Wbo dei cruiser il 36enne Chris Billam Smith ha deciso di lasciare il pugilato - BoxeRingWeb",
-   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQR081cGFaS3pLYkU3Y3p4b0F4REotVmtmV1RZRnRuMENkbm5Sa0hJRlFXX09TalhCS2EyRS0yVHhJRURIV1ZGREZXUnVEZXB2blk5NE0tMXpoRm1vdHVEWURoRE5pQWwxaGo3QTlGSVJkY0ZPcU0ySWFTTUJjS2dhTmFJSzJTZlQ5Z3NBMFZkZDhtRzEzY3JyU01mMDZWUDRkQjQ5SWprOFMwalhxMXpBaTg0Vk92UlQyZ3VuZWRsX1VBcHZ1c01QNmRORzMzMktVWmtLMVN4RFFyQWJURjJ2MFhkRWFOaFFEZDluQ2dwRlJSTEx5SEE?oc=5",
-   "source": "Google News: pugilato",
-   "lang": "it",
-   "date": "2026-11-18T15:08:04+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 29,
-   "sources_n": 1,
-   "title_it": "L'ex campione Wbo dei cruiser il 36enne Chris Billam Smith ha deciso di lasciare il pugilato - BoxeRingWeb",
-   "title_es": "El ex campeón crucero de la OMB Chris Billam Smith, de 36 años, decidió dejar el boxeo - BoxeRingWeb"
-  },
-  {
    "title": "Teremoana Teremoana Blasts Out Hemi Ahio Then Targets World Title",
    "link": "https://www.boxing247.com/boxing-news/teremoana-teremoana-blasts-out-hemi-ahio-then-targets-world-title/311404",
    "source": "East Side Boxing",
@@ -1501,19 +1475,6 @@
    "sources_n": 8,
    "title_it": "Teremona Teremona fa esplodere Hemi Ahio e poi punta al titolo mondiale",
    "title_es": "Teremona Teremona ataca a Hemi Ahio y luego apunta al título mundial"
-  },
-  {
-   "title": "Teremoana Teremoana Blasts Out Hemi Ahio Then Targets World Title - Boxing News 24/7",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPM3Uwd2w4YzZLY0xabTlxTmNMVnAyZXRYQ3p0Y2xQNkhheHhuWVlkYmlmZktyemlHc21oUGpiS2JMT0JTQ1FDWDhiTDlnS2dldjlWTmx0bnNVMDdiUDl3bFduNkVBbUQ5dTJzSnhxbEozLVZhRjVQT3dhN0hSY296MXBJOG4ydXVQbjRIMVdxV0FhRkhOS21PODVzdWhNRVloejZDb0ZBeW9adWNzVUtr?oc=5",
-   "source": "Google News: boxing",
-   "lang": "en",
-   "date": "2026-11-18T14:36:18+00:00",
-   "status": "rumor",
-   "boxers": [],
-   "score": 59,
-   "sources_n": 9,
-   "title_it": "Teremoana Teremoana fa esplodere Hemi Ahio e poi punta al titolo mondiale - Boxing News 24 ore su 24, 7 giorni su 7",
-   "title_es": "Teremoana Teremoana ataca a Hemi Ahio y luego apunta al título mundial - Boxing News 24/7"
   },
   {
    "title": "Boxe, bene Fabian Lafratta nel match di ritorno dopo un anno lontano dal ring - VCO Azzurra TV",
@@ -1536,10 +1497,23 @@
    "date": "2026-11-18T14:24:28+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 67,
+   "score": 66,
    "sources_n": 9,
    "title_it": "Teremoana Teremoana chiede il titolo mondiale dopo aver fermato Ahio - Boxing News 24",
    "title_es": "Teremoana Teremoana pide una oportunidad por el título mundial después de detener a Ahio - Boxing News 24"
+  },
+  {
+   "title": "Teremoana Teremoana Blasts Out Hemi Ahio Then Targets World Title - Boxing News 24/7",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPM3Uwd2w4YzZLY0xabTlxTmNMVnAyZXRYQ3p0Y2xQNkhheHhuWVlkYmlmZktyemlHc21oUGpiS2JMT0JTQ1FDWDhiTDlnS2dldjlWTmx0bnNVMDdiUDl3bFduNkVBbUQ5dTJzSnhxbEozLVZhRjVQT3dhN0hSY296MXBJOG4ydXVQbjRIMVdxV0FhRkhOS21PODVzdWhNRVloejZDb0ZBeW9adWNzVUtr?oc=5",
+   "source": "Google News: boxing",
+   "lang": "en",
+   "date": "2026-11-18T14:00:57+00:00",
+   "status": "rumor",
+   "boxers": [],
+   "score": 58,
+   "sources_n": 9,
+   "title_it": "Teremoana Teremoana fa esplodere Hemi Ahio e poi punta al titolo mondiale - Boxing News 24 ore su 24, 7 giorni su 7",
+   "title_es": "Teremoana Teremoana ataca a Hemi Ahio y luego apunta al título mundial - Boxing News 24/7"
   },
   {
    "title": "Teremoana Teremoana vs Hemi Ahio FIGHT HIGHLIGHTS!",
@@ -2057,7 +2031,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 111,
+   "score": 110,
    "sources_n": 17,
    "title_it": "‘Salva lo spettacolo’ – I pesi massimi britannici ammettono di voler combattere Deontay Wilder su Tyson Fury vs Anthony Joshua undercard",
    "title_es": "'Salva el espectáculo': el peso pesado británico admite que quiere pelear contra Deontay Wilder en la cartelera de Tyson Fury vs Anthony Joshua"
@@ -2384,7 +2358,7 @@
    "date": "2026-11-17T20:21:05+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 50,
+   "score": 49,
    "sources_n": 7,
    "title_it": "L'ex campione del mondo di boxe Jorge Linares arrestato dai funzionari dell'ICE in Texas - The Athletic - The New York Times",
    "title_es": "El ex campeón mundial de boxeo Jorge Linares detenido por funcionarios de ICE en Texas - The Athletic - The New York Times"
@@ -2397,7 +2371,7 @@
    "date": "2026-11-17T20:21:01+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 58,
+   "score": 57,
    "sources_n": 3,
    "title_it": "Adeleye batte Flores e conquista il titolo dei pesi massimi WBA International - World Boxing Association",
    "title_es": "Adeleye derrota a Flores y se proclama campeón internacional del peso pesado de la WBA - Asociación Mundial de Boxeo"
@@ -2591,7 +2565,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 93,
+   "score": 92,
    "sources_n": 11,
    "title_it": "Otto Wallin ha combattuto Tyson Fury e Anthony Joshua, ecco le sue chiavi per la vittoria di entrambi gli uomini",
    "title_es": "Otto Wallin luchó contra Tyson Fury y Anthony Joshua, aquí están las claves de la victoria para ambos hombres"
@@ -2607,7 +2581,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 73,
+   "score": 72,
    "sources_n": 12,
    "title_it": "Notizia: Jai Opetaia si ritira dall'incontro con Deontay Wilder nell'undercard di Fury-Joshua",
    "title_es": "Noticia: Jai Opetaia se retira del combate contra Deontay Wilder en la velada preliminar de Fury-Joshua"
@@ -2869,7 +2843,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 91,
+   "score": 90,
    "sources_n": 11,
    "title_it": "Derek Chisora ​​chiede la rivincita sulla carta Tyson Fury vs Anthony Joshua dopo l'avvertimento di Eddie Hearn",
    "title_es": "Derek Chisora ​​exige revancha en la tarjeta Tyson Fury vs Anthony Joshua después de la advertencia de Eddie Hearn"
@@ -2966,7 +2940,7 @@
    "date": "2026-11-17T10:23:37+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 25,
+   "score": 24,
    "sources_n": 3,
    "title_it": "Il pugile irlandese Lee Reeves muore a 31 anni, tre mesi dopo aver subito degli infortuni durante un incontro",
    "title_es": "El boxeador irlandés Lee Reeves fallece a los 31 años, tres meses después de sufrir lesiones en un combate"
@@ -3951,6 +3925,19 @@
    "title_es": "Rueda de prensa de Teremoana Teremoana contra Hemi Ahio | Matchroom Boxing"
   },
   {
+   "title": "National Intermediate Championships Opening Weekend Results",
+   "link": "https://www.irish-boxing.com/national-intermediate-championships-opening-weekend-results/",
+   "source": "Irish Boxing",
+   "lang": "en",
+   "date": "2026-11-15T18:53:12+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 0,
+   "sources_n": 1,
+   "title_it": "Risultati del fine settimana di apertura dei Campionati Nazionali Intermedi",
+   "title_es": "Resultados del fin de semana inaugural del Campeonato Nacional Intermedio"
+  },
+  {
    "title": "Convicted Con Man, 71, Eyes Oldest Boxer World Record",
    "link": "https://www.worldboxingnews.com/con-man-oldest-boxer-world-record/",
    "source": "World Boxing News",
@@ -4063,7 +4050,22 @@
    "status": "unverified",
    "boxers": [],
    "score": 0,
-   "sources_n": 1
+   "sources_n": 1,
+   "title_it": "Max Kellerman inventa un altro titolo per Jai Opetaia",
+   "title_es": "Max Kellerman inventa otro título para Jai ​​Opetaia"
+  },
+  {
+   "title": "Lee Selby left temporarily ‘blind in one eye’ after gruelling bare-knuckle boxing bout",
+   "link": "https://talksport.com/boxing/4708460/lee-selby-blind-one-eye-bare-knuckle-boxing/",
+   "source": "Talksport Boxing",
+   "lang": "en",
+   "date": "2026-11-15T14:57:25+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 0,
+   "sources_n": 1,
+   "title_it": "Lee Selby è rimasto temporaneamente \"cieco da un occhio\" dopo un estenuante incontro di boxe a mani nude",
+   "title_es": "Lee Selby quedó temporalmente “ciego de un ojo” después de una agotadora pelea de boxeo a puño limpio"
   }
  ]
 }
