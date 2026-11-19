@@ -1,8 +1,24 @@
 {
- "updated": "2026-11-19T12:01:58+00:00",
+ "updated": "2026-11-19T12:05:35+00:00",
  "feeds_ok": 48,
  "feeds_failed": 5,
  "news": [
+  {
+   "title": "Deontay Wilder reacts to Derek Chisora negotiating rematch to replace Opetaia on Fury vs Joshua card",
+   "link": "https://boxingnewsonline.net/news/deontay-wilder-reacts-to-chisora-opetaia/",
+   "source": "Boxing News (UK)",
+   "lang": "en",
+   "date": "2026-11-19T12:04:39+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Tyson Fury",
+    "Anthony Joshua"
+   ],
+   "score": 114,
+   "sources_n": 18,
+   "title_it": "Deontay Wilder reagisce alla notizia che Derek Chisora sta negoziando una rivincita per sostituire Opetaia nell'incontro Fury vs Joshua",
+   "title_es": "Deontay Wilder reacciona a las negociaciones de Derek Chisora para una revancha que sustituya a Opetaia en la velada Fury-Joshua"
+  },
   {
    "title": "Gervonta Davis March Comeback Faces Threat of Prison Time",
    "link": "https://www.worldboxingnews.com/gervonta-davis-march-comeback-trial/",
@@ -1002,7 +1018,7 @@
    "date": "2026-11-18T20:03:38+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 95,
+   "score": 94,
    "sources_n": 1,
    "title_it": "Saranno indette le offerte per la difesa del titolo WBO di Shakur Stevenson contro l'ex campione imbattuto",
    "title_es": "Se convocarán pujas por el bolso para la defensa del título de la OMB de Shakur Stevenson contra el excampeón invicto"
@@ -1695,7 +1711,7 @@
    "date": "2026-11-18T12:05:22+00:00",
    "status": "rumor",
    "boxers": [],
-   "score": 83,
+   "score": 82,
    "sources_n": 12,
    "title_it": "Il pugile dei pesi massimi numero uno nel ranking è in trattativa per affrontare Deontay Wilder dopo il ritiro di Opetaia: \"Nessuna schivata\"",
    "title_es": "El número uno del peso pesado, en conversaciones para enfrentarse a Deontay Wilder tras la retirada de Opetaia: «No voy a esquivar la pelea»"
@@ -1708,7 +1724,7 @@
    "date": "2026-11-18T12:05:12+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 46,
+   "score": 45,
    "sources_n": 2,
    "title_it": "\"Teremoana è un mostro\": svelata la cronologia del titolo mondiale dopo il 13° KO consecutivo della macchina da KO australiana - Fox Sports",
    "title_es": "«Teremoana es un monstruo»: se revela el calendario para el título mundial tras la 13.ª victoria consecutiva por KO de la máquina australiana - Fox Sports"
@@ -1721,7 +1737,7 @@
    "date": "2026-11-18T12:05:09+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 26,
+   "score": 25,
    "sources_n": 1,
    "title_it": "La serie di KO precoci di Teremoana non si ferma proprio! 💥",
    "title_es": "¡La racha de KO tempranos de Teremoana no se detiene! 💥"
@@ -2407,7 +2423,7 @@
    "date": "2026-11-17T20:03:50+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 65,
+   "score": 64,
    "sources_n": 12,
    "title_it": "Cinque potenziali avversari per Deontay Wilder dopo il ritiro di Jai Opetaia",
    "title_es": "Cinco posibles rivales para enfrentarse a Deontay Wilder tras la retirada de Jai Opetaia"
@@ -2769,7 +2785,7 @@
    "date": "2026-11-17T14:05:10+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 7,
+   "score": 6,
    "sources_n": 1,
    "title_it": "Lee Reeves, morto il pugile irlandese di 31 anni: era in coma da 3 mesi - la Repubblica",
    "title_es": "Murió Lee Reeves, el boxeador irlandés de 31 años: llevaba 3 meses en coma - la Repubblica"
@@ -2782,7 +2798,7 @@
    "date": "2026-11-17T14:01:31+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 15,
+   "score": 14,
    "sources_n": 1,
    "title_it": "Il pugile con un record di 0-32 ha un tatuaggio con la scritta \"HARDCORE\" e ha subito nove sconfitte per KO in meno di 60 secondi",
    "title_es": "Un boxeador con un récord de 0-32 y un tatuaje que pone «HARDCORE» ha perdido nueve combates por KO en menos de 60 segundos"
@@ -3279,19 +3295,6 @@
    "sources_n": 2,
    "title_it": "Lee Reeves muore all'età di 31 anni: il pugile tragico perde la lotta per la vita dopo tre mesi di coma in seguito alla brutale sconfitta per KO",
    "title_es": "Lee Reeves muere a los 31 años: el trágico boxeador pierde la pelea por su vida después de tres meses en coma luego de una brutal derrota por nocaut"
-  },
-  {
-   "title": "ICE detuvo al exboxeador venezolano Jorge Linares y lo retiene en un centro migratorio de Texas - El Carabobeño",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNc0RtVXFIc2tNZUdGTlpJNE9fVW5na21PekxoMTJMNmJ1b3o2SlVtaDRkT2djdlVvdHFYSm9PTWxhenI4Tk8wMFl3REFKLWFJTy0zOGdzbGhjeXZDVE5jaFJPeHRLTE9FWHUyRl9FYjVWd3I1Vm96V3dBQUU1RGhLbjFVUV9yQkc1YkYwdC1MNE1OTG9rN0VtRVlnTDBCMlUtSXp6eXZGTzhqQlNuMWJCQXhxbnRoT2NQNk1CSW8tYjNlWkU3?oc=5",
-   "source": "Google News: boxeo",
-   "lang": "es",
-   "date": "2026-11-17T01:35:09+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 30,
-   "sources_n": 7,
-   "title_it": "L'ICE ha arrestato l'ex pugile venezuelano Jorge Linares e lo trattiene in un centro per migranti in Texas - El Carabobeño",
-   "title_es": "ICE detuvo al exboxeador venezolano Jorge Linares y lo retiene en un centro migratorio de Texas - El Carabobeño"
   },
   {
    "title": "Former WBA world champion boxer Jorge Linares is arrested by ICE and held in Texas",
