@@ -1,8 +1,23 @@
 {
- "updated": "2026-11-19T22:46:32+00:00",
+ "updated": "2026-11-19T22:51:14+00:00",
  "feeds_ok": 47,
  "feeds_failed": 6,
  "news": [
+  {
+   "title": "Oscar De La Hoya sums up David Benavidez’s chances of beating Oleksandr Usyk at cruiserweight",
+   "link": "https://boxingnewsonline.net/news/de-la-hoya-on-benavidez-vs-usyk/",
+   "source": "Boxing News (UK)",
+   "lang": "en",
+   "date": "2026-11-19T22:46:24+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Oleksandr Usyk"
+   ],
+   "score": 122,
+   "sources_n": 6,
+   "title_it": "Oscar De La Hoya riassume le possibilità di David Benavidez di battere Oleksandr Usyk nella categoria dei pesi massimi leggeri",
+   "title_es": "Óscar de la Hoya resume las posibilidades de David Benavidez de vencer a Oleksandr Usyk en el peso crucero"
+  },
   {
    "title": "Boxing News: Price And Kotaskova Make Weight Ahead Of Historic Showdown In Cardiff » November 19, 2026 - FightNews",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdDNTVGV4Mm9nUmsyU3N6OUxvNXRXenB6VWxHcWxOMXZoRE5yb2JqYUpHVW8xNjlGdDhZTjJSX2VBbGFEU2JTNFBKUkRmUnlENHMxc3MyQXhlQTMtbGIzc1VUa2JORkRvcEdheU5zaXJuNHVBMVFndk9CSEg1MEJGX2VXbzgxM3VwcmZZeENjSlF4N2d4RzBaTklRUHV6Ym8?oc=5",
@@ -102,7 +117,7 @@
    "date": "2026-11-19T20:49:36+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 84,
+   "score": 83,
    "sources_n": 2,
    "title_it": "Terence Crawford insiste sul fatto che c'è solo un incontro che Canelo dovrebbe disputare: \"È una follia\"",
    "title_es": "Terence Crawford insiste en que solo hay un combate que Canelo debería disputar a continuación: «Es una locura»."
@@ -215,7 +230,7 @@
     "Tyson Fury"
    ],
    "score": 93,
-   "sources_n": 11,
+   "sources_n": 10,
    "title_it": "Come faceva Tyson Fury a muoversi in questo modo a 265 libbre? 😳🍿",
    "title_es": "¿Cómo se movía Tyson Fury así con 265 libras? 😳🍿"
   },
@@ -328,7 +343,7 @@
   },
   {
    "title": "One-two punch - Daily Tribune",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUER2WFl0dmFSaThNek5IbDcyS2N2bHdZSzliMUJ1aWszZ2dmRU44Y0JkQXFOVFJSSEFqbDFiQVB1OHlLQURvX2tPd0tvN0ZRZ0FFY3lHZ1h5T08wN2tKVjRfSHZJMmhMZkJmelBvTlQyVGlmbjB1NFRxUnZxMkJ5SEljN29famgtZVEyZzJaSDlGNVZ5WHVkalBEVHNUSUs3Tk5rX1BhYkU2el83NEJn?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZExVSlRKSWxUQTVvR05WdE4yRWVCOTFmYXpJejJfbFBQalFsbGhWQ0VkYWlSUmJlb3dOVzhlczNjWjNHcG9VazlIU3A1NDBPNzEtNS1fV01OWE9qQ3IteHg2VmJPbVhtZTNPNzVxRU9iSGpUaEtpQ0M4WWdJamM0Y1NTSmZJbHRRcElsQ3dRVlZIbXllZ1cyWThrWC1JYnFOUExKS3MyNEh1eVFyNTk0?oc=5",
    "source": "Google News: boxing",
    "lang": "en",
    "date": "2026-11-19T17:41:19+00:00",
@@ -336,8 +351,8 @@
    "boxers": [],
    "score": 27,
    "sources_n": 1,
-   "title_it": "Uno-due - Daily Tribune",
-   "title_es": "Golpe uno-dos - Daily Tribune"
+   "title_it": "Doppio colpo - Daily Tribune",
+   "title_es": "Doble golpe - Daily Tribune"
   },
   {
    "title": "Canelo Alvarez cleared to challenge Willy Hutchinson for WBC 175lbs title",
@@ -652,7 +667,7 @@
    "date": "2026-11-19T14:49:09+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 36,
+   "score": 35,
    "sources_n": 1,
    "title_it": "Round 12: Acapulco, un successo clamoroso della 64a convention annuale del WBC",
    "title_es": "Ronda 12: Acapulco, éxito rotundo de la 64 Convención Anual del WBC"
@@ -713,6 +728,19 @@
    "sources_n": 2,
    "title_it": "Completato il programma degli incontri di pugilato a mani nude dell'IBA per le finali della Coppa del Presidente a Istanbul",
    "title_es": "La IBA completa el programa definitivo de los combates a puño limpio para las finales de la Copa del Presidente en Estambul"
+  },
+  {
+   "title": "Edwards’ world title aim to join Welsh boxing greats - cedarnews.net",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbTdiVnpZNW9RMUdNWG50c1RBN3RYd2xEMXNyLXV5Mmt0SUxqRHVaRjZmSlQzS2lqZ1c3WDh0clFkMzVvVVRONGxpWEYyM3BWNGpubTg3TFhkOTZKdm1teEZIbVdGZ01uTUNhMG1wWjVYUGdjZTRFQkx2TmlOVGI1Z3RQZ3Jpa0tUMnc?oc=5",
+   "source": "Google News: boxing",
+   "lang": "en",
+   "date": "2026-11-19T14:11:29+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 35,
+   "sources_n": 1,
+   "title_it": "L'obiettivo di Edwards di conquistare il titolo mondiale per unirsi ai grandi del pugilato gallese - cedarnews.net",
+   "title_es": "El objetivo de Edwards de conseguir el título mundial para unirse a los grandes del boxeo galés - cedarnews.net"
   },
   {
    "title": "Edwards' world title aim to join Welsh boxing greats",
@@ -778,19 +806,6 @@
    "sources_n": 1,
    "title_it": "Sono sopravvissuto a una rara malattia del sangue e ora punto a diventare campione del mondo di boxe",
    "title_es": "Superé una enfermedad sanguínea poco común y ahora mi objetivo es convertirme en campeón mundial de boxeo"
-  },
-  {
-   "title": "Chi è Federica Monacelli, la presunta nuova compagna di Eros Ramazzotti è una pugile e ha 36 anni - Fanpage",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcGZqeWxUbEtENmlrNzM3ZkJZQTBxcm5IcDVud1pRV29MeUtTekIzTXdXUTFoaVFNV2ZaWDAtVEllbFJUdDdpVXVucE9oWDh1UVlwVG5SRDE2RU1wZnJDa0tvVkpZWmczc1Q2ZWJSX3h6d1FvVVVTLWhwLVc3bUJXNklSZFZWakNJck90VEd2RUFmVTJtUVBwc0RuaktmRjhnNENVZTdLYjZKUGtaelRRZkpzZ09FRDNDMGxPWVI4V2t5elJNcHBocEoxQjFYaUQwV0NmXzZKbm4?oc=5",
-   "source": "Google News: pugilato",
-   "lang": "it",
-   "date": "2026-11-19T12:40:14+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 24,
-   "sources_n": 1,
-   "title_it": "Chi è Federica Monacelli, la presunta nuova compagna di Eros Ramazzotti è una pugile e ha 36 anni - Fanpage",
-   "title_es": "Quién es Federica Monacelli, la supuesta nueva pareja de Eros Ramazzotti: es boxeadora y tiene 36 años - Fanpage"
   },
   {
    "title": "Jasmine Di Felice sul ring di Montesilvano per il titolo intercontinentale Wba di pugilato femminile - Abruzzo Popolare",
@@ -884,7 +899,7 @@
    "date": "2026-11-19T10:48:39+00:00",
    "status": "rumor",
    "boxers": [],
-   "score": 34,
+   "score": 33,
    "sources_n": 2,
    "title_it": "Price vuole entrare nella storia della boxe gallese",
    "title_es": "Price quiere hacer historia en el boxeo galés"
@@ -987,19 +1002,6 @@
    "title_es": "¿Quién ganará el combate Fury vs. Joshua? Los redactores de The Independent pronostican el resultado del supercombate británico"
   },
   {
-   "title": "​Montesilvano: il Titolo Intercontinentale WBA di Pugilato Femminile non a caso il 25 novembre - Rete8",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUFJuZ0J6SThwTFBqNDZVOU9UWE5kLS1kWkpvOVk0cjcxdXJsUVBMM2todlprWXctWlYySlJQYV8zOEFOczBiVDJLMl9EaF90VENHZUZyUWNUYVVNLXVSaFRmbW5ZdlQtSGppZFMtZzFTMU42OVBua3VhX0M0VHhyaG5FbzJRMTk1QWQ5cVo1OWc2OXBHVmo0cXM3Z0lCbGxSbWp2V051Q2xhZVZTbENRQXVUQ2RIUkd4R2FmM1BmQk5EeTNBRUdJYzVSa9IB0AFBVV95cUxPUXREdVl0blZuZ0hfbXF4ZDlJT2pDTlFKUVhtZUJpb1lqa3ZyTVlYVmxMYldPYmoyTW1PZHd3aUN6TXczSU9uYnAwRjFGYlYwc1pOTUU3d3pucllULWZ5M3BZMFNmT3dIaGNKUUYyc0g2ZVBDTC1jb0hoZUlmQWJjUHNPUk5HQl9yWGprX2pHTzVWMzhhaVlWMzEya3VHQ2ZmLXJOb0s4TW13dV92eEdCTGdSaE1Ia3lDeUQ5TldmMnA1cjl0VDZwcXBET0swcUhR?oc=5",
-   "source": "Google News: pugilato",
-   "lang": "it",
-   "date": "2026-11-19T10:00:14+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 33,
-   "sources_n": 1,
-   "title_it": "​Montesilvano: il Titolo Intercontinentale WBA di Pugilato Femminile non a caso il 25 novembre - Rete8",
-   "title_es": "​Montesilvano: el título intercontinental de boxeo femenino de la WBA no es casualidad el 25 de noviembre - Rete8"
-  },
-  {
    "title": "Derek Chisora confirms talks over Deontay Wilder rematch on Fury vs Joshua undercard",
    "link": "https://sports.yahoo.com/articles/derek-chisora-confirms-talks-over-094319790.html",
    "source": "Yahoo Sports Boxing",
@@ -1026,7 +1028,7 @@
     "Anthony Joshua"
    ],
    "score": 88,
-   "sources_n": 11,
+   "sources_n": 10,
    "title_it": "Quanti figli ha Anthony Joshua?",
    "title_es": "¿Cuántos hijos tiene Anthony Joshua?"
   },
@@ -1176,7 +1178,7 @@
     "Anthony Joshua"
    ],
    "score": 87,
-   "sources_n": 11,
+   "sources_n": 10,
    "title_it": "Anthony Joshua svela il suo intenso programma di allenamento, che prevede di bere 10 litri d'acqua al GIORNO e una dieta da 4.500 calorie",
    "title_es": "Anthony Joshua revela su intenso régimen de entrenamiento, que incluye beber 10 litros de agua al día y seguir una dieta de 4500 calorías"
   },
@@ -1345,7 +1347,7 @@
    "boxers": [
     "Canelo Alvarez"
    ],
-   "score": 86,
+   "score": 85,
    "sources_n": 4,
    "title_it": "Tim Bradley vuole che Canelo Alvarez combatta contro Carlos Adames a 168 libbre",
    "title_es": "Tim Bradley quiere que Canelo Álvarez pelee contra Carlos Adames en las 168 libras"
@@ -1414,6 +1416,19 @@
    "sources_n": 1,
    "title_it": "Baumgardner rinuncia ai titoli dei pesi leggeri e punta a diventare campionessa indiscussa dei superpiuma",
    "title_es": "Baumgardner renuncia a los títulos del peso ligero y aspira a ser campeona indiscutible del peso superligero"
+  },
+  {
+   "title": "Canoy challenges Collazo - Daily Tribune",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ETGtfMEg1WjB3c2R3SVpWM0FKcEd6RmUxS3NiOTM4ZWt6UW5sWDVwUmh3d0pRYWtGU3pUVkVHc3VJY0Y1NEZXQml6YUd4MU9nR29RWGFYcHhJMmhISmxuanBwVU5YSzdiTFE?oc=5",
+   "source": "Google News: boxing",
+   "lang": "en",
+   "date": "2026-11-19T01:21:58+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 39,
+   "sources_n": 3,
+   "title_it": "Canoy sfida Collazo - Daily Tribune",
+   "title_es": "Canoy desafía a Collazo - Daily Tribune"
   },
   {
    "title": "Jaron “Boots” Ennis vs Eimantas Stanionis | Full World Title Match | Matchroom Boxing",
@@ -1494,6 +1509,19 @@
    "title_es": "Alistair Overeem afirma que las negociaciones para el combate con Jake Paul se estancaron por la diferencia de peso: «No puedo culpar a Jake»."
   },
   {
+   "title": "Jorge Linares, Three-Time World Boxing Champion, Apprehended by ICE in Texas - CubaHeadlines",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9abE4tWGZxd1BDcGt0RXVoOEhPT0ZFb1JlcmZZUll0UzhwZ1htLVMtNklOZEVDam15UXdDdVpuN2k2bG5EM0o5QmVrMlhaS0l6U181cUEwRGY?oc=5",
+   "source": "Google News: boxing",
+   "lang": "en",
+   "date": "2026-11-18T23:02:34+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 48,
+   "sources_n": 10,
+   "title_it": "Jorge Linares, tre volte campione del mondo di pugilato, arrestato dall'ICE in Texas - CubaHeadlines",
+   "title_es": "Jorge Linares, tricampeón mundial de boxeo, detenido por el ICE en Texas - CubaHeadlines"
+  },
+  {
    "title": "For Oleksandr Usyk, the road back to cruiserweight is paved with cautionary tales",
    "link": "https://sports.yahoo.com/boxing/article/for-oleksandr-usyk-the-road-back-to-cruiserweight-is-paved-with-cautionary-tales-david-benavidez-223019870.html",
    "source": "Yahoo Sports Boxing",
@@ -1503,8 +1531,8 @@
    "boxers": [
     "Oleksandr Usyk"
    ],
-   "score": 72,
-   "sources_n": 1,
+   "score": 82,
+   "sources_n": 2,
    "title_it": "Per Oleksandr Usyk, la strada per tornare nella categoria dei pesi massimi leggeri è costellata di storie ammonitrici",
    "title_es": "Para Oleksandr Usyk, el camino de regreso al peso crucero está lleno de historias con moraleja."
   },
@@ -1519,7 +1547,7 @@
     "Anthony Joshua"
    ],
    "score": 82,
-   "sources_n": 11,
+   "sources_n": 10,
    "title_it": "Anthony Joshua si apre sull'inganno della morte in un incidente stradale che ha ucciso alcuni amici",
    "title_es": "Anthony Joshua habla sobre engañar a la muerte en un accidente automovilístico que mató a sus amigos"
   },
@@ -1534,7 +1562,7 @@
     "Anthony Joshua"
    ],
    "score": 82,
-   "sources_n": 11,
+   "sources_n": 10,
    "title_it": "Anthony Joshua conferma di essere diventato padre per la seconda volta affermando: \"Era mio dovere dare vita\"",
    "title_es": "Anthony Joshua confirma que ha sido padre por segunda vez y afirma: «Era mi deber traer una vida al mundo»."
   },
@@ -1604,7 +1632,7 @@
     "Anthony Joshua"
    ],
    "score": 82,
-   "sources_n": 11,
+   "sources_n": 10,
    "title_it": "Anthony Joshua rivela la madre del suo bambino segreto e dichiara il nome",
    "title_es": "Anthony Joshua revela la madre de su bebé secreto y hace una declaración sobre su nombre"
   },
@@ -1619,7 +1647,7 @@
     "Anthony Joshua"
    ],
    "score": 82,
-   "sources_n": 11,
+   "sources_n": 10,
    "title_it": "Anthony Joshua rivela di aver avuto una bambina e afferma che \"era mio dovere dare vita\" dopo che i suoi amici sono morti in un terribile incidente",
    "title_es": "Anthony Joshua revela que ha tenido una NIÑA y dice que «era mi deber traer una vida al mundo» después de que sus amigos murieran en un terrible accidente."
   },
@@ -1650,7 +1678,7 @@
     "Anthony Joshua"
    ],
    "score": 82,
-   "sources_n": 11,
+   "sources_n": 10,
    "title_it": "Anthony Joshua è entusiasta di essere un \"papà di una bambina\" e scherza sul fatto che \"si truccherà e berrà il tè nella casetta dei giochi\", ma i fidanzati devono stare attenti!",
    "title_es": "Anthony Joshua está encantado de ser «padre de una niña» y bromea diciendo que «se maquillará y tomará té en la casita de juegos», ¡pero que tengan cuidado los novios!"
   },
@@ -1665,7 +1693,7 @@
     "Anthony Joshua"
    ],
    "score": 82,
-   "sources_n": 11,
+   "sources_n": 10,
    "title_it": "Anthony Joshua parla dell'\"esperienza dolorosamente traumatica\" delle tragiche morti dei suoi amici e rivela perché rifiuta la terapia",
    "title_es": "Anthony Joshua habla sobre la «dolorosa y traumática experiencia» de las trágicas muertes de sus amigos y revela por qué se niega a recibir terapia"
   },
@@ -1680,7 +1708,7 @@
     "Anthony Joshua"
    ],
    "score": 82,
-   "sources_n": 11,
+   "sources_n": 10,
    "title_it": "Anthony Joshua parla dei suoi piani per il ritiro e ammette di \"non avere molti anni ancora da dedicare alla boxe\"",
    "title_es": "Anthony Joshua habla sobre sus planes de retirada y admite que «no le quedan muchos años en el boxeo»"
   },
@@ -1695,7 +1723,7 @@
     "Anthony Joshua"
    ],
    "score": 82,
-   "sources_n": 11,
+   "sources_n": 10,
    "title_it": "Anthony Joshua elogia la \"fenomenale\" mamma dei suoi figli, Nicole, per avergli donato \"due anime meravigliose\" dopo la nascita della figlia",
    "title_es": "Anthony Joshua elogia a la «fenomenal» madre de sus hijos, Nicole, por haberle dado «dos almas increíbles» tras el nacimiento de su hija"
   },
@@ -1788,8 +1816,8 @@
    "date": "2026-11-18T19:56:05+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 61,
-   "sources_n": 3,
+   "score": 71,
+   "sources_n": 4,
    "title_it": "Oscar De La Hoya rivela chi sta cercando Vergil Ortiz Jr dopo l'incontro con Keith Thurman",
    "title_es": "Óscar de la Hoya revela a quién persigue Vergil Ortiz Jr. tras el combate contra Keith Thurman"
   },
@@ -1805,22 +1833,6 @@
    "sources_n": 2,
    "title_it": "La tangente di 100.000 dollari a metà incontro che ha scosso il mondo della boxe dei pesi massimi",
    "title_es": "El soborno de 100 000 $ a mitad de combate que sacudió el boxeo de pesos pesados"
-  },
-  {
-   "title": "Former Anthony Joshua trainer Tony Sims predicts Tyson Fury fight: “You’ve got to favour him”",
-   "link": "https://boxingnewsonline.net/news/former-joshua-trainer-sims-on-fury-fight/",
-   "source": "Boxing News (UK)",
-   "lang": "en",
-   "date": "2026-11-18T19:01:50+00:00",
-   "status": "unverified",
-   "boxers": [
-    "Tyson Fury",
-    "Anthony Joshua"
-   ],
-   "score": 101,
-   "sources_n": 13,
-   "title_it": "L'ex allenatore di Anthony Joshua, Tony Sims, fa le sue previsioni sull'incontro con Tyson Fury: \"Bisogna puntare su di lui\"",
-   "title_es": "Tony Sims, exentrenador de Anthony Joshua, hace su pronóstico para el combate de Tyson Fury: «Hay que apostar por él»."
   },
   {
    "title": "México se posiciona como líder mundial con más de 5 mil boxeadores profesionales activos - Diario Presente",
@@ -2258,6 +2270,19 @@
    "title_es": "Velada preliminar de Tyson Fury vs. Anthony Joshua: Derek Chisora acepta una revancha con Deontay Wilder con poca antelación, pero hay un obstáculo"
   },
   {
+   "title": "Potential opponents for Teremoana Teremoana as Aussie star targets world title - news.bet365.com",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRU5xc0d4eFRocjE5dE1LUHZkbDRSYm95OERMdXFEbkNMMHZRbFNORkVfVnpmZ0U3cE1iWlgtT05NRDIyZWhmMk9JX0hsZ0dVbUsxLWFmUWZhdThNbGNheE8tQ0lYQmpYd3Eya0FQX2I1SnRUVVkxdEM1TVFuM1JPRnd1Q283eFVTczc1by1ya3pqSE1ES0djZWV5a29YYmZYU0dfQ2JvVmRURnB1QjM2WFZORzRIcXpCU2FCNzEyZEtDTGMweWF5dGVRZTU2M0FsM3c?oc=5",
+   "source": "Google News: boxing",
+   "lang": "en",
+   "date": "2026-11-18T13:09:08+00:00",
+   "status": "rumor",
+   "boxers": [],
+   "score": 23,
+   "sources_n": 1,
+   "title_it": "Potenziali avversari di Teremoana Teremoana mentre la stella australiana punta al titolo mondiale - news.bet365.com",
+   "title_es": "Posibles rivales de Teremoana Teremoana, la estrella australiana que aspira al título mundial - news.bet365.com"
+  },
+  {
    "title": "Bruno Bernasconi è campione svizzero élite nei 65 kg - Ticinonline",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNczhwdHNtRmhPMGtiMktCVnVwOU1uMk9fNGMwQWJicW5lYkVWRkdvSmwzVXdITGsyV1A0RjBSd2g2VUNEaXNNSlh5RE5MaDNJSjYwdHdLclR5eWFPd2ZoVC1HRzctWFpYd3Jyekd4Tmt0eUJNRkNHd2d0THA0MG81QWY3Wlp5WHAwcEVnWjRvdHVzV1Z0elljVw?oc=5",
    "source": "Google News: pugilato",
@@ -2291,7 +2316,7 @@
    "date": "2026-11-18T12:49:47+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 71,
+   "score": 70,
    "sources_n": 8,
    "title_it": "Lauren Price contro Michaela Kotaskova passano allo storico scontro per il titolo mondiale indiscusso - FightNews",
    "title_es": "Lauren Price vs Michaela Kotaskova ascendieron a un enfrentamiento histórico por el título mundial indiscutible – FightNews"
@@ -2337,6 +2362,19 @@
    "sources_n": 13,
    "title_it": "\"Lungi dalla verità\": Jai Opetaia rilascia una dichiarazione dopo il ritiro dall'incontro di sottofondo di Tyson Fury contro Anthony Joshua",
    "title_es": "«Lejos de la verdad»: Jai Opetaia emite un comunicado tras retirarse de la velada previa al combate Tyson Fury vs. Anthony Joshua"
+  },
+  {
+   "title": "‘Teremoana is a monster’: World title timeline revealed after Aussie KO machine’s 13th straight stoppage - Fox Sports",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNWplTUtmODgzZkxhV19ZOFMzTV9fWGtnY3VxV3ZhWVNhbUFMeUgyMjNnYV90Zm5aZHZrZmp1VURKRlpMWVh1SU5Id1otbVZ4SlNYeG5TM2xSYi14YjhPdFJudXpla3NidHVHMDJjLWlMT1dFdDlDb0VqZW5aNnM0QWZTZGJNS2FLRkdGcV9fX3BFQU5JalFDdVVwOTJadnl5S1ZKSXVvS1EzYnV6clpEcHplVE5PRTRMZXlwelNZbWNZUzVYTllwdlBGX2VMYWxhemp6dw?oc=5",
+   "source": "Google News: boxing",
+   "lang": "en",
+   "date": "2026-11-18T12:05:12+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 30,
+   "sources_n": 1,
+   "title_it": "\"Teremoana è un mostro\": svelata la cronologia del titolo mondiale dopo la 13ª vittoria consecutiva per KO della macchina da KO australiana - Fox Sports",
+   "title_es": "«Teremoana es un monstruo»: se revela el calendario para el título mundial tras la 13.ª victoria consecutiva por KO de la máquina australiana - Fox Sports"
   },
   {
    "title": "Teremoana extends knockout streak with second-round stoppage of Hemi Ahio",
@@ -2437,19 +2475,6 @@
    "sources_n": 2,
    "title_it": "KNOCKOUT CON UN SOLO PUGNO 😤Un KO brutale in Australia oggi grazie al 21enne Omar El-Abdallah 💥",
    "title_es": "DEJA FRÍO A SU RIVAL DE UN SOLO PUÑETAZO 😤Hoy, un brutal KO en Australia de la mano del joven Omar El-Abdallah, de 21 años 💥"
-  },
-  {
-   "title": "Vittorio Ferri, una vita sul ring. Il pugile reatino che sfidò i grandi sarà ricordato con un Memorial - Rietinvetrina",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaUk1N19VN1lVQmdncUdGRzFrLU1lUWU5OWNzU3VjLUtiNjFxMVdwc3hFWmQxb0NjQWxOaHl3WXlVaXQycWowNVFMOTRKQlBQUjJ4bGt1TWU0RE1oay1TMTZ4NEhOTXRUZThuU3ZhNTlqQmUtUm9zYlNWRzlIT1ZuZWZxZks1cmFWdnV6Q0NNVFBJNEhCMlZhQ3NkU244N204alpSd2hjX2RLdFZva1NiX0xKazFEZVAwb0xoRFlzb2pxYjFnTzZKZWtn?oc=5",
-   "source": "Google News: pugilato",
-   "lang": "it",
-   "date": "2026-11-18T10:10:37+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 11,
-   "sources_n": 1,
-   "title_it": "Vittorio Ferri, una vita sul ring. Il pugile reatino che sfidò i grandi sarà ricordato con un Memorial - Rietinvetrina",
-   "title_es": "Vittorio Ferri, una vida sobre el ring. El púgil de Rieti que desafió a los grandes será recordado con un memorial - Rietinvetrina"
   },
   {
    "title": "KO Of The Year Contender 🚨 Omar El-Abdallah Wipes Out Nicholas Benn!",
@@ -2569,7 +2594,7 @@
    "date": "2026-11-18T04:47:09+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 19,
+   "score": 18,
    "sources_n": 2,
    "title_it": "Blood & Canvas Bareknuckle Boxing Recensione: pugni duri, ma non basta - Italia Top Games",
    "title_es": "Reseña de Blood & Canvas Bareknuckle Boxing: puños duros, pero no basta - Italia Top Games"
@@ -2621,8 +2646,8 @@
    "date": "2026-11-18T03:02:41+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 18,
-   "sources_n": 2,
+   "score": 28,
+   "sources_n": 3,
    "title_it": "Oscar Collazo affronta Joey Canoy nell'incontro di supporto a Serrano-Falzon",
    "title_es": "Oscar Collazo se enfrenta a Joey Canoy en el combate previo a Serrano-Falzon"
   },
@@ -2634,7 +2659,7 @@
    "date": "2026-11-18T00:47:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 37,
+   "score": 36,
    "sources_n": 7,
    "title_it": "L'ICE arresta Jorge Linares, 'El Niño de Oro', ex pugile venezuelano: cosa sappiamo del caso? - Il Finanziere",
    "title_es": "ICE arresta a Jorge Linares, ‘El Niño de Oro’, exboxeador venezolano: ¿Qué es lo que sabemos del caso? - El Financiero"
@@ -2690,6 +2715,19 @@
    "sources_n": 1,
    "title_it": "L'ufficio immigrazione degli Stati Uniti conferma la detenzione del pugile Linares, che rischia l'espulsione",
    "title_es": "Inmigración de EE. UU. confirma la detención del boxeador Linares, que se enfrenta a la deportación"
+  },
+  {
+   "title": "'Must hate the third round': Aussie star's INSANE streak continues... as title fights loom - Fox Sports",
+   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOWGlNbkl2LXlvTmt6Z3dPZUNrWXk1RVpkYVlMUlgzM1MweGM2eFJHdDNDbS1NN0FsWTEzamRNSVpZam1DRkZISUdKVVc4ZDEzaVdieG8zTmFvNEgzeFNnajBObGJrM3JHWk5HaEpLNnR3UnFUdWpnMlROOWhyWGo0bmNCeFhNd1poUGl3QkREQnlRbjEzWnJIaVktZTJBV0ZHY3Zwd0ZrUnRtWjduSFpra0VDajlfaDJEbkszQ0lhcnZ0dEpWdlEzUUdfbHhSV2JVbnd6NHBDV0hkd3VZbVBoR1R6TGpLSkdnUE1BR3c1S1V4Y05lS3JfQkRVamJHdGFoY2dIdWUwSkZnZXlXYm5B?oc=5",
+   "source": "Google News: boxing",
+   "lang": "en",
+   "date": "2026-11-17T23:30:34+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 6,
+   "sources_n": 1,
+   "title_it": "\"Deve odiare il terzo round\": continua la FOLLIA della stella australiana... mentre si avvicinano gli incontri per il titolo - Fox Sports",
+   "title_es": "«Debe odiar el tercer asalto»: la LOCA racha de la estrella australiana continúa... mientras se acercan las peleas por el título - Fox Sports"
   },
   {
    "title": "Why was Jorge Linares detained by ICE? Former three-division boxing world champion held in Texas custody - The Times of India",
@@ -2912,7 +2950,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 89,
+   "score": 88,
    "sources_n": 15,
    "title_it": "Richard Riakporhe chiede un incontro con Deontay Wilder per salvare la \"pessima\" card di Tyson Fury contro Anthony Joshua",
    "title_es": "Richard Riakporhe pide un combate contra Deontay Wilder para salvar la «pésima» velada de Tyson Fury contra Anthony Joshua"
@@ -3287,8 +3325,8 @@
    "date": "2026-11-17T12:29:05-05:00",
    "status": "unverified",
    "boxers": [],
-   "score": 13,
-   "sources_n": 2,
+   "score": 23,
+   "sources_n": 3,
    "title_it": "Oscar Collazo affronterà Joey Canoy dopo aver evitato Ryusei Matsumoto",
    "title_es": "Óscar Collazo se enfrentará a Joey Canoy tras esquivar a Ryusei Matsumoto"
   },
@@ -3547,19 +3585,6 @@
    "sources_n": 3,
    "title_it": "Il pugile Lee Reeves muore all'età di 31 anni dopo un brutale ko a Dublino",
    "title_es": "El boxeador Lee Reeves muere a los 31 años tras un brutal nocaut en Dublín"
-  },
-  {
-   "title": "The best boxers to never win a world title... including Aussie great who fought 61-round epic - Fox Sports",
-   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPeW1kUHhJUFN3cXJDSHVVQ0VXZnNXNzNJOVJBV2x1ZnFWSVB2cXBhWVlybHZyZkZKU0hUNEN2RDRtMDlLMmQ5Zi13dExTdTdadWpMWUwxNlRyVW9PZjNmVWh1NmY3WURuOTY3UlVSZV9pLXVCazdqQkRkMUNSZ3laZUVjZGhxNldOZ0N5cVY4WDNJR2ZXbnRpMy1UTWVsVk8tdG1URXRDYkpYMUhMQVc0TERQVWI2SHAyR283amRnVjlEb2V2TUxfc3d2VUJfb3FENWJSbThFLXhWX2lDVTM2U1h2bS14NFZUbGxvQ2VaZWNtZk5IOUE?oc=5",
-   "source": "Google News: boxing",
-   "lang": "en",
-   "date": "2026-11-17T07:31:46+00:00",
-   "status": "confirmed",
-   "boxers": [],
-   "score": 18,
-   "sources_n": 1,
-   "title_it": "I migliori pugili che non hanno mai vinto un titolo mondiale... tra cui il grande australiano che ha combattuto un epico incontro di 61 round - Fox Sports",
-   "title_es": "Los mejores boxeadores que nunca ganaron un título mundial... incluido el gran australiano que disputó un épico combate de 61 asaltos - Fox Sports"
   },
   {
    "title": "Unbeaten Heavyweight Teremoana Teremoana | 12 Fights, 12 KOs | Matchroom Boxing",
@@ -3910,7 +3935,7 @@
     "Anthony Joshua"
    ],
    "score": 65,
-   "sources_n": 11,
+   "sources_n": 10,
    "title_it": "Johnny Fisher punta a combattere contro l'ultimo avversario di Anthony Joshua: rivelata la data prevista",
    "title_es": "Johnny Fisher tiene en el punto de mira un combate con el último rival de Anthony Joshua, cuya fecha prevista se ha revelado"
   },
@@ -4052,32 +4077,6 @@
    "sources_n": 1,
    "title_it": "Calendario NAZIONALE Pugilato Olimpico 2027 - FPI",
    "title_es": "Calendario NACIONAL de Boxeo Olímpico 2027 - FPI"
-  },
-  {
-   "title": "Notizie dalla Giunta - Regione Autonoma Friuli Venezia Giulia",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTHlZUXJyMUMxcnBCenlkRU1wa1JnUlg5QnlEREY5b3lpWXp1Y3FMTlZSVUU0LVZqcGVielBnTVlkWG8zazdqeUF1c1ozaU5uU0h5Z3JqdmFTVWRmLUVOZ3FXaHE3YVd0SklnbTFSOHJmQVRZOUo2MnU3c3lqVXlZTE4zeHp2TW5jWDNHdURvSFFvRTdwZW1rVU0yOUFhaFJjVnRkVXFWQWh1UDRlVFhmUmlxVFpMMzk5SHJUeg?oc=5",
-   "source": "Google News: pugilato",
-   "lang": "it",
-   "date": "2026-11-16T14:01:00+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 0,
-   "sources_n": 1,
-   "title_it": "Notizie dalla Giunta - Regione Autonoma Friuli Venezia Giulia",
-   "title_es": "Noticias de la Junta - Región Autónoma de Friuli-Venecia Julia"
-  },
-  {
-   "title": "Abdulaziz Alotaibi had him off balance at #ZuffaBoxing13 🥊👀",
-   "link": "https://www.youtube.com/watch?v=m5hL1-pjccA",
-   "source": "YouTube Zuffa Boxing",
-   "lang": "en",
-   "date": "2026-11-16T13:00:35+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 0,
-   "sources_n": 1,
-   "title_it": "Abdulaziz Alotaibi lo ha sbilanciato al #ZuffaBoxing13 🥊👀",
-   "title_es": "Abdulaziz Alotaibi le desestabilizó en el #ZuffaBoxing13 🥊👀"
   }
  ]
 }
