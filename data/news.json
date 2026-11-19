@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T07:50:41+00:00",
+ "updated": "2026-11-19T07:55:38+00:00",
  "feeds_ok": 48,
  "feeds_failed": 5,
  "news": [
@@ -204,7 +204,7 @@
    "date": "2026-11-19T01:51:51+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 45,
+   "score": 44,
    "sources_n": 1,
    "title_it": "I pesi massimi storici delle Isole Cook puntano al titolo mondiale dopo aver ottenuto il 13esimo KO consecutivo - RNZ",
    "title_es": "El peso pesado heredado de las Islas Cook aspira al título mundial después de conseguir su 13.º KO consecutivo - RNZ"
@@ -636,7 +636,7 @@
    "date": "2026-11-18T19:51:48+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 44,
+   "score": 43,
    "sources_n": 2,
    "title_it": "La tangente da 100.000 dollari a metà incontro che ha scosso la boxe dei pesi massimi",
    "title_es": "El soborno de 100.000 dólares a mitad de pelea que sacudió al boxeo de peso pesado"
@@ -1562,7 +1562,7 @@
    "date": "2026-11-18T09:52:10+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 37,
+   "score": 36,
    "sources_n": 2,
    "title_it": "Candidato al KO dell'anno 🚨 Omar El-Abdallah stende Nicholas Benn!",
    "title_es": "Candidato al KO del año 🚨 ¡Omar El-Abdallah arrasa con Nicholas Benn!"
@@ -1575,7 +1575,7 @@
    "date": "2026-11-18T09:52:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 19,
+   "score": 18,
    "sources_n": 1,
    "title_it": "Pugilato come disciplina di intelligenza: la serata Panathlon di Fano - Vivere Fano",
    "title_es": "El boxeo como disciplina de la inteligencia: la velada del Panathlon en Fano - Vivere Fano"
@@ -2218,7 +2218,7 @@
    "date": "2026-11-17T17:53:35+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 36,
+   "score": 35,
    "sources_n": 1,
    "title_it": "DAN RAFAEL RIVELA DETTAGLI SHOCK SUL MOTIVO PER CUI JAI OPETAIA SI È RITIRATO DALL'INCONTRO CON DEONTAY WILDER",
    "title_es": "DAN RAFAEL REVELA DETALLES SORPRENDENTES SOBRE POR QUÉ JAI OPETAIA SE RETIRÓ DEL COMBATE CONTRA DEONTAY WILDER"
@@ -3096,7 +3096,7 @@
    "date": "2026-11-16T23:55:28+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 22,
+   "score": 21,
    "sources_n": 3,
    "title_it": "Ortiz contro Thurman: il tipo di incontro di cui la boxe ha bisogno",
    "title_es": "Ortiz vs. Thurman: el tipo de combate que necesita el boxeo"
@@ -3691,19 +3691,6 @@
    "title_es": "Rueda de prensa de Teremoana Teremoana contra Hemi Ahio | Matchroom Boxing"
   },
   {
-   "title": "National Intermediate Championships Opening Weekend Results",
-   "link": "https://www.irish-boxing.com/national-intermediate-championships-opening-weekend-results/",
-   "source": "Irish Boxing",
-   "lang": "en",
-   "date": "2026-11-15T18:53:12+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 0,
-   "sources_n": 1,
-   "title_it": "Risultati del weekend di apertura dei Campionati Nazionali Intermedi",
-   "title_es": "Resultados del fin de semana inaugural de los Campeonatos Nacionales Intermedios"
-  },
-  {
    "title": "Convicted Con Man, 71, Eyes Oldest Boxer World Record",
    "link": "https://www.worldboxingnews.com/con-man-oldest-boxer-world-record/",
    "source": "World Boxing News",
@@ -4048,6 +4035,19 @@
    "sources_n": 1,
    "title_it": "Barrett ferma Gwynne per il titolo vacante dei pesi leggeri",
    "title_es": "Barrett detiene el título vacante del peso ligero de Gwynne"
+  },
+  {
+   "title": "Pre-Show and two preliminary matches: Riyadh Season Zuffa Boxing 13",
+   "link": "https://www.youtube.com/watch?v=7aOv6cXAH_M",
+   "source": "YouTube Zuffa Boxing",
+   "lang": "en",
+   "date": "2026-11-15T01:23:09+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 0,
+   "sources_n": 1,
+   "title_it": "Pre-show e due incontri preliminari: Riyadh Season Zuffa Boxing 13",
+   "title_es": "Previa y dos combates preliminares: Riyadh Season Zuffa Boxing 13"
   }
  ]
 }
