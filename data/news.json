@@ -1,8 +1,21 @@
 {
- "updated": "2026-11-19T20:55:35+00:00",
- "feeds_ok": 48,
- "feeds_failed": 5,
+ "updated": "2026-11-19T21:01:12+00:00",
+ "feeds_ok": 47,
+ "feeds_failed": 6,
  "news": [
+  {
+   "title": "'It's amazing that Scotland now has TWO world champions'... Meet the Kilmarnock kid who idolises Prince Naseem Hamed and is part of the Scottish boxing boom with Willy Hutchinson",
+   "link": "https://www.dailymail.com/sport/boxing/article-16306649/aaron-sarwar-willy-hutchinson-scottish-boxing-world-champion-onthank-kilmarnock-buatsi.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+   "source": "Daily Mail Boxing",
+   "lang": "en",
+   "date": "2026-11-19T20:54:13+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 74,
+   "sources_n": 2,
+   "title_it": "\"È incredibile che la Scozia abbia ora DUE campioni del mondo\"... Ecco il ragazzo di Kilmarnock che idolatra Prince Naseem Hamed e fa parte del boom della boxe scozzese con Willy Hutchinson",
+   "title_es": "«Es increíble que Escocia tenga ahora DOS campeones del mundo»... Conoce al chico de Kilmarnock que idolatra a Prince Naseem Hamed y forma parte del auge del boxeo escocés junto con Willy Hutchinson."
+  },
   {
    "title": "Terence Crawford insists there’s only one fight for Canelo to take next: “It’s crazy”",
    "link": "https://boxingnewsonline.net/news/crawford-on-canelo-next-fight/",
@@ -15,19 +28,6 @@
    "sources_n": 2,
    "title_it": "Terence Crawford insiste sul fatto che c'è solo un incontro che Canelo dovrebbe disputare: \"È una follia\"",
    "title_es": "Terence Crawford insiste en que solo hay un combate que Canelo debería disputar a continuación: «Es una locura»."
-  },
-  {
-   "title": "'It's amazing that Scotland now has TWO world champions'... Meet the Kilmarnock kid who idolises Prince Naseem Hamed and is part of the Scottish boxing boom with Willy Hutchinson",
-   "link": "https://www.dailymail.com/sport/boxing/article-16306649/aaron-sarwar-willy-hutchinson-scottish-boxing-world-champion-onthank-kilmarnock-buatsi.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-   "source": "Daily Mail Boxing",
-   "lang": "en",
-   "date": "2026-11-19T20:42:14+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 74,
-   "sources_n": 2,
-   "title_it": "\"È incredibile che la Scozia abbia ora DUE campioni del mondo\"... Ecco il ragazzo di Kilmarnock che idolatra Prince Naseem Hamed e fa parte del boom della boxe scozzese con Willy Hutchinson",
-   "title_es": "«Es increíble que Escocia tenga ahora DOS campeones del mundo»... Conoce al chico de Kilmarnock que idolatra a Prince Naseem Hamed y forma parte del auge del boxeo escocés junto con Willy Hutchinson."
   },
   {
    "title": "Michal Cieslak previews unified cruiserweight clash against David Benavidez",
@@ -136,7 +136,7 @@
    "boxers": [
     "Tyson Fury"
    ],
-   "score": 94,
+   "score": 93,
    "sources_n": 11,
    "title_it": "Come faceva Tyson Fury a muoversi in questo modo a 265 libbre? 😳🍿",
    "title_es": "¿Cómo se movía Tyson Fury así con 265 libras? 😳🍿"
@@ -230,23 +230,10 @@
    "date": "2026-11-19T17:44:24+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 38,
-   "sources_n": 2,
+   "score": 28,
+   "sources_n": 1,
    "title_it": "Boxe, sei italiani ai quarti degli Europei U23: azzurri a un passo dalla zona medaglie",
    "title_es": "Boxeo: seis italianos en cuartos de final en el Europeo sub-23; los «azzurri» a un paso de las medallas"
-  },
-  {
-   "title": "Boxe, sei italiani ai quarti degli Europei U23: azzurri a un passo dalla zona medaglie - OA Sport",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaTRZWHVsRFplY3NnN2lZN3FWZFkwem5HQ2lFUTA0NXdqZVpJYkYwOThEdVNjMGFWalRFWG9SZ3pGUXJzMUpibkxMRlFBTXZ4dWpCckRkXzJMbmNJcnotVENTbFNlVTZ0SUxMM1JhMm03UEI1RUFabUZrc0lFeEZTRUQtR3pGc0hhTG1aS29wbU9QaWlNZkd5VFEtQm9RTUhZM1Q0SkRxVl84aFAxdXdXVDRDaHkxcUnSAbwBQVVfeXFMTUszOTRkamFHSGVoX000QmE4VHJ6S0pmZVA3d0VhT1ktT096OTVEbk4yUmVzR2ZjZE5pTkJxLWR0VDVWa3E1alJwZmtCZ1JuSGdOMWRtMU4xZ1IyeUNOcFJkTnh5b3g2aXh3VDIyVFBaSkFiOFFuUVdMekZZZnp0VlZ4SGc3LU1fS091aUVzejM0aXRKUElSVmRfeXpsMXVJdjdpcHpWRHBMWU52U2MwSFVRWUNpTEZLT0JhWE8?oc=5",
-   "source": "Google News: boxe italiana",
-   "lang": "it",
-   "date": "2026-11-19T17:44:24+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 38,
-   "sources_n": 2,
-   "title_it": "Boxe, sei italiani ai quarti degli Europei U23: azzurri a un passo dalla zona medaglie - OA Sport",
-   "title_es": "Boxeo, seis italianos en cuartos de final del Campeonato de Europa sub-23: los italianos a un paso de la zona de medallas - OA Sport"
   },
   {
    "title": "One-two punch - Daily Tribune",
@@ -332,7 +319,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 68,
+   "score": 67,
    "sources_n": 13,
    "title_it": "Da'mazion Vanhouter RISPONDE a Eddie Hearn Commenti e rivela la previsione Fury vs Joshua BOLD",
    "title_es": "Da'mazion Vanhouter DEVUELVE EL GOLPE A Eddie Hearn comenta y revela la predicción BOLD de Fury vs Joshua"
@@ -345,7 +332,7 @@
    "date": "2026-11-19T16:57:28+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 28,
+   "score": 27,
    "sources_n": 1,
    "title_it": "Calendario fitto per la scuderia del maestro Mario Massai - Civonline",
    "title_es": "Apretada agenda para el equipo del maestro Mario Massai - Civonline"
@@ -384,8 +371,8 @@
    "date": "2026-11-19T16:31:47+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 47,
-   "sources_n": 3,
+   "score": 37,
+   "sources_n": 2,
    "title_it": "Il ritorno di Clemente Russo: Tatanka di nuovo sul ring a 44 anni - Corriere dello Sport",
    "title_es": "El regreso de Clemente Russo: Tatanka vuelve al ring a los 44 años - Corriere dello Sport"
   },
@@ -404,19 +391,6 @@
    "sources_n": 1,
    "title_it": "TYSON FURY PARLA CON SCHIETTEZZA DELL'ALLENAMENTO DI ANTHONY JOSHUA CON BEN DAVISON IN VISTA DEL LORO INCONTRO",
    "title_es": "TYSON FURY SE MUESTRA SINCERO SOBRE EL HECHO DE QUE BEN DAVISON ESTÉ ENTRENANDO A ANTHONY JOSHUA PARA SU COMBATE"
-  },
-  {
-   "title": "Clemente Russo, a 44 anni, torna sul ring a Milano - Blasting News",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSmRTOXBCcFZZeF9NdFR4OUdBNjc5TmstQndmcXNRVjM5YjRoZ0lhT0VtZzllS0ZoMnZ6ZmVNTUlONjdDRC0xSG1tVjhPMk9WY3hPWWdLbHd2OVk4N19XanN1OW9DaGZGbWx5OGdLcE1vZEdLN3FITE1tUGdDM2dNUjliVnhaOWhpejVseUxWU1JPLVNXNUVuRXFIbWVBMmpLcThpYWJpaVI?oc=5",
-   "source": "Google News: boxe italiana",
-   "lang": "it",
-   "date": "2026-11-19T16:20:33+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 47,
-   "sources_n": 3,
-   "title_it": "Clemente Russo, a 44 anni, torna sul ring a Milano - Blasting News",
-   "title_es": "Clemente Russo, a sus 44 años, regresa al ring en Milán - Noticias Ultimas"
   },
   {
    "title": "Amari Jones vs. DeAundre Pettus press conference quotes and fight prediction",
@@ -454,8 +428,8 @@
    "date": "2026-11-19T16:00:29+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 47,
-   "sources_n": 3,
+   "score": 37,
+   "sources_n": 2,
    "title_it": "Clemente Russo, il grande ritorno di Tatanka: sfida a Elmaghraby, la boxe italiana riabbraccia il volto simbolo",
    "title_es": "Clemente Russo, el gran regreso de Tatanka: desafío a Elmaghraby, el boxeo italiano vuelve a abrazar a su rostro emblemático"
   },
@@ -467,8 +441,8 @@
    "date": "2026-11-19T16:00:29+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 47,
-   "sources_n": 3,
+   "score": 37,
+   "sources_n": 2,
    "title_it": "Clemente Russo, il grande ritorno di Tatanka: sfida a Elmaghraby, la boxe italiana riabbraccia il volto simbolo - OA Sport",
    "title_es": "Clemente Russo, el gran regreso de Tatanka: desafío a Elmaghraby, el boxeo italiano vuelve a abrazar la cara simbólica - OA Sport"
   },
@@ -506,8 +480,8 @@
    "date": "2026-11-19T15:54:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 47,
-   "sources_n": 3,
+   "score": 37,
+   "sources_n": 2,
    "title_it": "Pugilato: torna Clemente Russo, a 44 anni di nuovo sul ring a Milano - ANSA",
    "title_es": "Boxeo: Clemente Russo regresa, a sus 44 años nuevamente al ring en Milán - ANSA"
   },
@@ -574,7 +548,7 @@
    "date": "2026-11-19T15:00:25+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 52,
+   "score": 51,
    "sources_n": 1,
    "title_it": "Callum Smith SICURAMENTE aveva il \"fuoco nella pancia\" nel suo ultimo combattimento 😤",
    "title_es": "Callum Smith DEFINITIVAMENTE tuvo el 'fuego en el estómago' en su última pelea 😤"
@@ -806,7 +780,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 110,
+   "score": 109,
    "sources_n": 13,
    "title_it": "SCEGLI IL TUO PERSONAGGIO 🎮Chi sostieni nello scontro tra Tyson Fury e Anthony Joshua a Cardiff❓",
    "title_es": "ELIGE TU PERSONAJE 🎮¿A quién vas a apoyar cuando Tyson Fury y Anthony Joshua se enfrenten en Cardiff? ❓"
@@ -1155,7 +1129,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 63,
+   "score": 62,
    "sources_n": 13,
    "title_it": "Amir Khan spiega perché ha cambiato il suo pronostico Fury vs Joshua: “Ha qualcosa da dimostrare”",
    "title_es": "Amir Khan explica por qué ha cambiado su predicción Fury vs Joshua: “Tiene algo que demostrar”"
@@ -1252,7 +1226,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 115,
+   "score": 114,
    "sources_n": 13,
    "title_it": "Anthony Joshua nomina il round esatto in cui eliminerà Tyson Fury",
    "title_es": "Anthony Joshua nombra el asalto exacto en el que noqueará a Tyson Fury"
@@ -1684,7 +1658,7 @@
    "date": "2026-11-18T21:00:45+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 58,
+   "score": 57,
    "sources_n": 4,
    "title_it": "L'atleta di Dallas Alycia Baumgardner rinuncia ai titoli mondiali dei superpiuma per perseguire un nuovo obiettivo - Dallas News",
    "title_es": "La púgil de Dallas Alycia Baumgardner renuncia a los títulos mundiales del peso superpluma para perseguir un nuevo objetivo - Dallas News"
@@ -1697,7 +1671,7 @@
    "date": "2026-11-18T21:00:36+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 48,
+   "score": 47,
    "sources_n": 6,
    "title_it": "Citazioni dalla conferenza stampa di Lauren Price contro Michaela Kotaskova e pronostico dell'incontro",
    "title_es": "Citas de la rueda de prensa y pronóstico del combate de Lauren Price contra Michaela Kotaskova"
@@ -1710,7 +1684,7 @@
    "date": "2026-11-18T20:56:00+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 91,
+   "score": 90,
    "sources_n": 3,
    "title_it": "Devin Haney riassume le possibilità di Canelo di battere Terence Crawford nella rivincita dopo la vittoria su Mbilli",
    "title_es": "Devin Haney resume las posibilidades de Canelo de vencer a Terence Crawford en la revancha tras la victoria sobre Mbilli"
@@ -1778,7 +1752,7 @@
    "date": "2026-11-18T19:00:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 17,
+   "score": 16,
    "sources_n": 1,
    "title_it": "Il Messico si posiziona come leader mondiale con oltre 5.000 pugili professionisti attivi - Diario Presente",
    "title_es": "México se posiciona como líder mundial con más de 5 mil boxeadores profesionales activos - Diario Presente"
@@ -1921,7 +1895,7 @@
    "date": "2026-11-18T17:00:08+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 99,
+   "score": 98,
    "sources_n": 4,
    "title_it": "David Benavidez combatte nella categoria dei pesi massimi leggeri: chi vince resta! 🍿",
    "title_es": "¡David Benavidez se enfrenta al ganador del peso crucero! 🍿"
@@ -2252,7 +2226,7 @@
    "date": "2026-11-18T13:00:24+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 22,
+   "score": 21,
    "sources_n": 1,
    "title_it": "Troppo da gestire. Ryan Awaji ha vinto per KO tecnico al 2° round a #ZuffaBoxing13 😤",
    "title_es": "Demasiado para él. Ryan Awaji se llevó el nocaut técnico en el segundo asalto en #ZuffaBoxing13 😤"
@@ -2391,7 +2365,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 53,
+   "score": 52,
    "sources_n": 9,
    "title_it": "Opetaia fuori dal combattimento con Wilder nell'evento Fury-Joshua",
    "title_es": "Opetaia no peleará contra Wilder en la velada Fury-Joshua"
@@ -2478,19 +2452,6 @@
    "title_es": "Cristóbal Lorente se jugará en Tokio su futuro mundial ante Mikito Nakano en una eliminatoria decisiva del WBC - AEBOX"
   },
   {
-   "title": "Dario Morello dopo la morte di Lee Reeves: \"La stampa italiana parla di boxe solo quando ci sono disgrazie\" - The Shield Of Sports",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQVptWWl6S1RUYnlxRUpjcHBqTlp6b2ZaazRGMURIWlJjdUhVbE0zZnNuXzQ3QTBsVzJwcDIxZmZINlU3UTJHbm5PZjdoRWRYaDJheXZyem1KQlNGYlVFc0FWTlZ5WWFuSzE2UGotMW1SUjU2NFJhaDVGTFBxaXBxOQ?oc=5",
-   "source": "Google News: boxe italiana",
-   "lang": "it",
-   "date": "2026-11-18T09:17:53+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 12,
-   "sources_n": 1,
-   "title_it": "Dario Morello dopo la morte di Lee Reeves: \"La stampa italiana parla di boxe solo quando ci sono disgrazie\" - The Shield Of Sports",
-   "title_es": "Dario Morello tras la muerte de Lee Reeves: \"La prensa italiana sólo habla de boxeo cuando hay desgracias\" - The Shield Of Sports"
-  },
-  {
    "title": "Tyson Fury vs Anthony Joshua fans warned about FIVE HOUR taxi queues with locals snubbing ‘mental’ ticket prices",
    "link": "https://www.thesun.co.uk/sport/41056346/fury-joshua-fans-fight-taxi-tickets-cardiff/",
    "source": "The Sun Boxing",
@@ -2501,7 +2462,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 97,
+   "score": 96,
    "sources_n": 13,
    "title_it": "I fan di Tyson Fury contro Anthony Joshua sono stati avvertiti di code di CINQUE ORE per i taxi, mentre la gente del posto snobba i prezzi \"folli\" dei biglietti",
    "title_es": "Se advierte a los aficionados de Tyson Fury vs. Anthony Joshua de que habrá colas de CINCO HORAS para coger un taxi, ya que los lugareños rechazan los «desorbitados» precios de las entradas."
@@ -2699,7 +2660,7 @@
    "date": "2026-11-17T23:00:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 47,
+   "score": 46,
    "sources_n": 8,
    "title_it": "Perché Jorge Linares è stato detenuto dall'ICE? L'ex campione del mondo di boxe in tre categorie è detenuto in Texas - The Times of India",
    "title_es": "¿Por qué detuvo el ICE a Jorge Linares? El excampeón mundial de boxeo en tres categorías está detenido en Texas - The Times of India"
@@ -3009,7 +2970,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 89,
+   "score": 88,
    "sources_n": 16,
    "title_it": "Jai Opetaia si ritira dall'incontro con Deontay Wilder nell'undercard di Tyson Fury contro Anthony Joshua",
    "title_es": "Jai Opetaia se retira del combate contra Deontay Wilder en la velada preliminar de Tyson Fury contra Anthony Joshua"
@@ -3261,7 +3222,7 @@
    "date": "2026-11-17T13:00:30+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 10,
+   "score": 9,
    "sources_n": 1,
    "title_it": "Jakhongir Zokirov ha ottenuto il KO tecnico al primo round a #ZuffaBoxing13🔥",
    "title_es": "Jakhongir Zokirov consiguió un nocaut técnico en el primer asalto en #ZuffaBoxing13🔥"
@@ -4054,19 +4015,6 @@
    "title_es": "El rapero británico aceptó pelear con Tommy Fury, pero nunca tuvo noticias suyas"
   },
   {
-   "title": "WORLD BOXING FINALS 2026 - 2 AZZURRI E 3 AZZURRI PER LE FINALI DI TASHKENT - FPI",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTU03V2o5OEt2YW1ZT280Ulh3aGVGMTlzSEU0X2QyMDlUMzNFUEdGUUVFMDlyU0owMERFMnBPcEdIM0U3cS1OUVdNSUZLOTlEUFhOZ1ZVb0FmSEpIX0ZjUzRJTV9PLVNEczNkSnFSY2NGaFZJRG80S2ZTQTNWMTAyV2xmRjdPX08yOFhkT21WYl9KYnU2ejE3OENDUUI4M2hVOWtKZnZwRWJEQXBnWVhYeXhR?oc=5",
-   "source": "Google News: pugilato",
-   "lang": "it",
-   "date": "2026-11-16T14:26:07+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 0,
-   "sources_n": 1,
-   "title_it": "WORLD BOXING FINALS 2026 - 2 AZZURRI E 3 AZZURRI PER LE FINALI DI TASHKENT - FPI",
-   "title_es": "FINALES DEL CAMPEONATO DEL MUNDO DE BOXEO 2026 - 2 AZZURRI Y 3 AZZURRI PARA LAS FINALES DE TASHKENT - FPI"
-  },
-  {
    "title": "Calendario NAZIONALE Pugilato Olimpico 2027 - FPI",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTmpIRGd0XzMtbmhlTEZ0NmFCdHV5elVpZlVOSGxabkdYLXBMcmlVNGdlU0lLOEtsVXVOamdhYjQ4VklEQU45Wlp6TzVCYWJHQ2RYNE5tX0VZdTFrOXpSNjY1b3J1OFhxYXRlZFo1X1RDNkdiUWtadTBNbXg4cmJvMGJ0eVNwaDZpRWJmelM4eWU0dFRo?oc=5",
    "source": "Google News: pugilato",
@@ -4078,6 +4026,58 @@
    "sources_n": 1,
    "title_it": "Calendario NAZIONALE Pugilato Olimpico 2027 - FPI",
    "title_es": "Calendario NACIONAL de Boxeo Olímpico 2027 - FPI"
+  },
+  {
+   "title": "Notizie dalla Giunta - Regione Autonoma Friuli Venezia Giulia",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTHlZUXJyMUMxcnBCenlkRU1wa1JnUlg5QnlEREY5b3lpWXp1Y3FMTlZSVUU0LVZqcGVielBnTVlkWG8zazdqeUF1c1ozaU5uU0h5Z3JqdmFTVWRmLUVOZ3FXaHE3YVd0SklnbTFSOHJmQVRZOUo2MnU3c3lqVXlZTE4zeHp2TW5jWDNHdURvSFFvRTdwZW1rVU0yOUFhaFJjVnRkVXFWQWh1UDRlVFhmUmlxVFpMMzk5SHJUeg?oc=5",
+   "source": "Google News: pugilato",
+   "lang": "it",
+   "date": "2026-11-16T14:01:00+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 0,
+   "sources_n": 1,
+   "title_it": "Notizie dalla Giunta - Regione Autonoma Friuli Venezia Giulia",
+   "title_es": "Noticias de la Junta - Región Autónoma de Friul-Venecia Julia"
+  },
+  {
+   "title": "Abdulaziz Alotaibi had him off balance at #ZuffaBoxing13 🥊👀",
+   "link": "https://www.youtube.com/watch?v=m5hL1-pjccA",
+   "source": "YouTube Zuffa Boxing",
+   "lang": "en",
+   "date": "2026-11-16T13:00:35+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 0,
+   "sources_n": 1,
+   "title_it": "Abdulaziz Alotaibi lo ha fatto perdere l'equilibrio a #ZuffaBoxing13 🥊👀",
+   "title_es": "Abdulaziz Alotaibi le hizo perder el equilibrio en #ZuffaBoxing13 🥊👀"
+  },
+  {
+   "title": "Deontay Wilder’s 1,000-Day WBC Return Hit by Drug Test Ruling",
+   "link": "https://www.worldboxingnews.com/deontay-wilder-wbc-ranking-drug-test/",
+   "source": "World Boxing News",
+   "lang": "en",
+   "date": "2026-11-16T12:37:28+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 65,
+   "sources_n": 12,
+   "title_it": "Il ritorno di Deontay Wilder dopo 1.000 giorni al WBC è stato compromesso dalla decisione sul test antidoping",
+   "title_es": "El regreso de Deontay Wilder al WBC tras 1000 días se ve afectado por una decisión sobre un control antidopaje"
+  },
+  {
+   "title": "EURO U23 BOXING CHAMPIONSHIPS POREC 2026 - MATCH DAY 1 | 16/11 - RISULTATI ITABOXING - FPI",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxON0kxZW5ULWZLdGoxdF93N2hNN3hqbDFNaEdxVlFhUGRKOFJWalp5V1ZwYkEzM1EySTJlNWozeVhRUkNuZkhFYTRtWUYtaFYtWHkwM1FURGczR0hfRjF5S3V1Z0tpUUhsaWxnTndUcmdVYmRsMFI5c3RMMFJVZFJrSzYxVDdJUzg4T2lYVVotX2tZQTBTS1FQRHlVd0RNaGZzbkFQWUtKbXp1ekpMZk5yVVdmZENrMzQzZEVr?oc=5",
+   "source": "Google News: pugilato",
+   "lang": "it",
+   "date": "2026-11-16T12:24:00+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 0,
+   "sources_n": 1,
+   "title_it": "EURO U23 BOXING CHAMPIONSHIPS POREC 2026 - MATCH DAY 1 | 16/11 - RISULTATI ITABOXING - FPI",
+   "title_es": "CAMPEONATO DE EUROPA DE BOXEO SUB-23 POREČ 2026 - JORNADA 1 | 16/11 - RESULTADOS ITABOXING - FPI"
   }
  ]
 }
