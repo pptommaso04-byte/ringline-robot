@@ -1,8 +1,21 @@
 {
- "updated": "2026-11-20T13:45:52+00:00",
+ "updated": "2026-11-20T13:50:46+00:00",
  "feeds_ok": 48,
  "feeds_failed": 5,
  "news": [
+  {
+   "title": "Ryan Garcia puts Mayweather fight on hold as he finalises talks with rival champion",
+   "link": "https://boxingnewsonline.net/news/ryan-garcia-next-opponent-named/",
+   "source": "Boxing News (UK)",
+   "lang": "en",
+   "date": "2026-11-20T13:48:56+00:00",
+   "status": "rumor",
+   "boxers": [],
+   "score": 64,
+   "sources_n": 2,
+   "title_it": "Ryan Garcia mette in pausa l'incontro con Mayweather mentre finalizza i colloqui con il campione rivale",
+   "title_es": "Ryan García suspende la pelea con Mayweather mientras finaliza las conversaciones con el campeón rival"
+  },
   {
    "title": "Curmel Moton showboating in sparring this week 🇺🇸⭐️",
    "link": "https://www.youtube.com/watch?v=YpF6YXYr2IQ",
@@ -127,7 +140,7 @@
    "date": "2026-11-20T11:46:18+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 39,
+   "score": 38,
    "sources_n": 1,
    "title_it": "L'errore del test sessuale \"ragazzo o ragazza\" costa i campionati mondiali per adolescenti",
    "title_es": "El error en la prueba de sexo de 'niño o niña' cuesta el campeonato mundial de adolescentes"
@@ -465,7 +478,7 @@
    "date": "2026-11-20T05:49:17+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 61,
+   "score": 60,
    "sources_n": 1,
    "title_it": "\"Il ragazzo non lo sa\": Mundine coinvolto nella faida Tszyu-Charlo durante la svolta per il titolo mondiale – Fox Sports",
    "title_es": "'El tipo no lo sabe': Mundine involucrado en la disputa entre Tszyu y Charlo en medio de un giro por el título mundial - Fox Sports"
@@ -556,7 +569,7 @@
    "date": "2026-11-20T03:46:52+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 80,
+   "score": 79,
    "sources_n": 4,
    "title_it": "Amari Jones, Gabriela Fundora e altri ingrassano per venerdì",
    "title_es": "Amari Jones, Gabriela Fundora y otras dan peso para el viernes"
@@ -660,7 +673,7 @@
    "date": "2026-11-20T01:49:09+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 57,
+   "score": 56,
    "sources_n": 1,
    "title_it": "Canelo accusato di \"spremere i fan\" dopo la vittoria di Mbilli",
    "title_es": "Acusan a Canelo de «exprimir a los aficionados» tras la victoria de Mbilli"
@@ -673,7 +686,7 @@
    "date": "2026-11-20T01:48:51+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 24,
+   "score": 23,
    "sources_n": 1,
    "title_it": "Pesi da Houston: Apex Empress Serie 1",
    "title_es": "Pesos de Houston: Apex Empress Serie 1"
@@ -725,7 +738,7 @@
    "date": "2026-11-19T23:50:42+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 53,
+   "score": 52,
    "sources_n": 10,
    "title_it": "Wilder si allena per un potenziale nuovo avversario dopo che Opetaia si è ritirata dalla lotta questa settimana 👊",
    "title_es": "Wilder entrena para un potencial nuevo oponente después de que Opetaia se retirara de su pelea esta semana 👊"
@@ -1060,7 +1073,7 @@
    "date": "2026-11-19T17:48:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 30,
+   "score": 29,
    "sources_n": 1,
    "title_it": "Pugilato donne, Di Felice sfida Bodziak per il titolo intercontinentale Wba - ANSA",
    "title_es": "Boxeo femenino, Di Felice desafía a Bodziak por el título intercontinental de la AMB - ANSA"
@@ -1652,7 +1665,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 101,
+   "score": 100,
    "sources_n": 16,
    "title_it": "Derek Chisora ​​conferma i colloqui sulla rivincita di Deontay Wilder su Fury vs Joshua undercard",
    "title_es": "Derek Chisora ​​confirma conversaciones sobre la revancha de Deontay Wilder en la cartelera de Fury vs Joshua"
@@ -4062,19 +4075,6 @@
    "sources_n": 2,
    "title_it": "Gallarate applaude la War Boxing Night, Lafratta trionfa a Gravellona Toce - La Prealpina",
    "title_es": "Gallarate aplaude la Noche del Boxeo de Guerra, Lafratta triunfa en Gravellona Toce - La Prealpina"
-  },
-  {
-   "title": "Lee Reeves dies aged 31: Tragic boxer loses fight for life after three months in coma following brutal knockout loss",
-   "link": "https://www.thesun.co.uk/sport/41044381/boxer-lee-reeves-dies-coma-hospital/",
-   "source": "The Sun Boxing",
-   "lang": "en",
-   "date": "2026-11-17T02:11:57+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 18,
-   "sources_n": 2,
-   "title_it": "Lee Reeves muore all'età di 31 anni: il tragico pugile perde la lotta per la vita dopo tre mesi di coma in seguito alla brutale sconfitta per KO",
-   "title_es": "Lee Reeves muere a los 31 años: el trágico boxeador pierde la pelea por su vida después de tres meses en coma luego de una brutal derrota por nocaut"
   }
  ]
 }
