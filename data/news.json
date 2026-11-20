@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-20T11:15:48+00:00",
- "feeds_ok": 47,
- "feeds_failed": 6,
+ "updated": "2026-11-20T11:20:55+00:00",
+ "feeds_ok": 46,
+ "feeds_failed": 7,
  "news": [
   {
    "title": "David Benavidez delivers honest reaction to Jai Opetaia pulling out of Deontay Wilder fight",
@@ -92,7 +92,7 @@
    "date": "2026-11-20T09:19:33+00:00",
    "status": "rumor",
    "boxers": [],
-   "score": 94,
+   "score": 93,
    "sources_n": 12,
    "title_it": "I 5 pesi massimi britannici che vogliono intervenire e combattere Deontay Wilder il mese prossimo",
    "title_es": "Los 5 pesos pesados ​​británicos que quieren intervenir y pelear contra Deontay Wilder el próximo mes"
@@ -105,7 +105,7 @@
    "date": "2026-11-20T09:18:38+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 29,
+   "score": 28,
    "sources_n": 1,
    "title_it": "Pugilato, trionfo elbano al Torneo Brasca: Michele Castagna si conferma campione a Firenze - Elbareport",
    "title_es": "Boxeo, Elba triunfa en el Torneo de Brasca: Michele Castagna se confirma campeón en Florencia - Elbareport"
@@ -173,8 +173,8 @@
    "date": "2026-11-20T07:33:19+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 48,
-   "sources_n": 3,
+   "score": 38,
+   "sources_n": 2,
    "title_it": "Pugilato, Clemente Russo e l’esordio da pro. A 44 anni - il Giornale",
    "title_es": "Boxeo, Clemente Russo y su debut profesional. A los 44 años - il Giornale"
   },
@@ -557,7 +557,7 @@
    "date": "2026-11-19T23:17:14+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 24,
+   "score": 23,
    "sources_n": 1,
    "title_it": "Il più grande spettacolo OC del Fight Club degli ultimi anni!",
    "title_es": "¡El mayor espectáculo de Fight Club OC en años!"
@@ -570,7 +570,7 @@
    "date": "2026-11-19T23:16:17+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 32,
+   "score": 31,
    "sources_n": 1,
    "title_it": "Il controverso Muhammad Ali Boxing Revival Act, sostenuto da TKO, passa all'unanimità al Senato degli Stati Uniti",
    "title_es": "La controvertida Ley de Revitalización del Boxeo Muhammad Ali, respaldada por TKO, es aprobada por unanimidad en el Senado de los EE. UU."
@@ -609,8 +609,8 @@
    "date": "2026-11-19T23:00:05+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 43,
-   "sources_n": 3,
+   "score": 33,
+   "sources_n": 2,
    "title_it": "Boxe, Clemente Russo torna sul ring sabato 21 novembre contro Mohamed Elmaghraby all’Allianz Cloud di Milano: debutto da professionista a 44 anni nel main event di TAF, orario e diretta tv su Italia 1 - sport2u.tv",
    "title_es": "Boxeo, Clemente Russo regresa al ring el sábado 21 de noviembre contra Mohamed Elmaghraby en el Allianz Cloud de Milán: debut profesional a los 44 años en el evento principal de TAF, horario y TV en vivo en Italia 1 - sport2u.tv"
   },
@@ -747,7 +747,7 @@
    "date": "2026-11-19T19:17:41+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 40,
+   "score": 39,
    "sources_n": 2,
    "title_it": "Messo KO da Mike Tyson in un incontro, ha ucciso 3 persone 3 mesi dopo",
    "title_es": "Noqueado por Mike Tyson en el primer asalto, asesinó a 3 personas 3 meses después"
@@ -856,23 +856,10 @@
    "date": "2026-11-19T17:44:24+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 31,
-   "sources_n": 2,
+   "score": 21,
+   "sources_n": 1,
    "title_it": "Boxe, sei italiani ai quarti degli Europei U23: azzurri a un passo dalla zona medaglie",
    "title_es": "Boxeo: seis italianos en cuartos de final en el Europeo sub-23; los «azzurri» a un paso de las medallas"
-  },
-  {
-   "title": "Boxe, sei italiani ai quarti degli Europei U23: azzurri a un passo dalla zona medaglie - OA Sport",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaTRZWHVsRFplY3NnN2lZN3FWZFkwem5HQ2lFUTA0NXdqZVpJYkYwOThEdVNjMGFWalRFWG9SZ3pGUXJzMUpibkxMRlFBTXZ4dWpCckRkXzJMbmNJcnotVENTbFNlVTZ0SUxMM1JhMm03UEI1RUFabUZrc0lFeEZTRUQtR3pGc0hhTG1aS29wbU9QaWlNZkd5VFEtQm9RTUhZM1Q0SkRxVl84aFAxdXdXVDRDaHkxcUnSAbwBQVVfeXFMTUszOTRkamFHSGVoX000QmE4VHJ6S0pmZVA3d0VhT1ktT096OTVEbk4yUmVzR2ZjZE5pTkJxLWR0VDVWa3E1alJwZmtCZ1JuSGdOMWRtMU4xZ1IyeUNOcFJkTnh5b3g2aXh3VDIyVFBaSkFiOFFuUVdMekZZZnp0VlZ4SGc3LU1fS091aUVzejM0aXRKUElSVmRfeXpsMXVJdjdpcHpWRHBMWU52U2MwSFVRWUNpTEZLT0JhWE8?oc=5",
-   "source": "Google News: boxe italiana",
-   "lang": "it",
-   "date": "2026-11-19T17:44:24+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 31,
-   "sources_n": 2,
-   "title_it": "Boxe, sei italiani ai quarti degli Europei U23: azzurri a un passo dalla zona medaglie - OA Sport",
-   "title_es": "Boxeo, seis italianos en cuartos de final del Campeonato de Europa sub-23: los italianos a un paso de la zona de medallas - OA Sport"
   },
   {
    "title": "Canelo Alvarez cleared to challenge Willy Hutchinson for WBC 175lbs title",
@@ -900,23 +887,10 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 106,
+   "score": 105,
    "sources_n": 13,
    "title_it": "Anthony Joshua si allena specificamente per \"mettere fuori gioco\" Tyson Fury",
    "title_es": "Anthony Joshua se entrena específicamente para «dejar fuera de juego» a Tyson Fury"
-  },
-  {
-   "title": "Clemente Russo, sul ring dopo 5 anni: sabato su Italia 1 il ritorno sul ring di Tatanka - Sportmediaset",
-   "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOQ3F2VE5POXNHRkxTQklsdGVDbTVFaGF2MUtWb25ib2JOOFdFcVdacHp0cldEbXhXMHNzZFhHZ2ZKSldMTUx1OG1TX3JKR1NodWc1TVJsNzZfNGJSMzdaQ0p5LVY3WWRXT1hjX1R5bDdwRjhrTzZaWFdfUFplbkZsYzIzcTJ6Wm9YQ2NxZVVwWlVVMEk2X3hIc2pERGFQbGV4ZjFZNWpLUXNWU19KSXRROUZ2d0gzY1htdXE1N3hJTlFZSFpqeGg5QS1RRlBHSmhqQ2JhV0ljX2VjXzZRZk83UjZqYlRHcWVhRjM2LV9uZFR0RWhDR21LMDUxSllZQWk3UDhEZ1YzeDhXa0xoWDc4U09jaVI?oc=5",
-   "source": "Google News: boxe italiana",
-   "lang": "it",
-   "date": "2026-11-19T17:17:00+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 41,
-   "sources_n": 3,
-   "title_it": "Clemente Russo, sul ring dopo 5 anni: sabato su Italia 1 il ritorno sul ring di Tatanka - Sportmediaset",
-   "title_es": "Clemente Russo, en el ring después de 5 años: el regreso de Tatanka al ring el sábado en Italia 1 - Sportmediaset"
   },
   {
    "title": "Da'mazion Vanhouter RESPONDS to Eddie Hearn Comments & Reveals Fury vs Joshua BOLD Prediction",
@@ -968,8 +942,8 @@
    "date": "2026-11-19T16:31:47+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 40,
-   "sources_n": 3,
+   "score": 30,
+   "sources_n": 2,
    "title_it": "Il ritorno di Clemente Russo: Tatanka di nuovo sul ring a 44 anni - Corriere dello Sport",
    "title_es": "El regreso de Clemente Russo: Tatanka vuelve al ring a los 44 años - Corriere dello Sport"
   },
@@ -988,19 +962,6 @@
    "sources_n": 1,
    "title_it": "TYSON FURY PARLA CON SCHIETTEZZA DELL'ALLENAMENTO DI ANTHONY JOSHUA CON BEN DAVISON IN VISTA DEL LORO INCONTRO",
    "title_es": "TYSON FURY SE MUESTRA SINCERO SOBRE EL HECHO DE QUE BEN DAVISON ESTÉ ENTRENANDO A ANTHONY JOSHUA PARA SU COMBATE"
-  },
-  {
-   "title": "Clemente Russo, a 44 anni, torna sul ring a Milano - Blasting News",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSmRTOXBCcFZZeF9NdFR4OUdBNjc5TmstQndmcXNRVjM5YjRoZ0lhT0VtZzllS0ZoMnZ6ZmVNTUlONjdDRC0xSG1tVjhPMk9WY3hPWWdLbHd2OVk4N19XanN1OW9DaGZGbWx5OGdLcE1vZEdLN3FITE1tUGdDM2dNUjliVnhaOWhpejVseUxWU1JPLVNXNUVuRXFIbWVBMmpLcThpYWJpaVI?oc=5",
-   "source": "Google News: boxe italiana",
-   "lang": "it",
-   "date": "2026-11-19T16:20:33+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 40,
-   "sources_n": 3,
-   "title_it": "Clemente Russo, a 44 anni, torna sul ring a Milano - Blasting News",
-   "title_es": "Clemente Russo, a sus 44 años, regresa al ring en Milán - Noticias Ultimas"
   },
   {
    "title": "Dillian Whyte ready to step in and fight Deontay Wilder on Anthony Joshua vs Tyson Fury undercard 🥊",
@@ -1054,8 +1015,8 @@
    "date": "2026-11-19T16:00:29+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 40,
-   "sources_n": 3,
+   "score": 30,
+   "sources_n": 2,
    "title_it": "Clemente Russo, il grande ritorno di Tatanka: sfida a Elmaghraby, la boxe italiana riabbraccia il volto simbolo",
    "title_es": "Clemente Russo, el gran regreso de Tatanka: desafío a Elmaghraby, el boxeo italiano vuelve a abrazar a su rostro emblemático"
   },
@@ -1067,8 +1028,8 @@
    "date": "2026-11-19T15:54:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 40,
-   "sources_n": 3,
+   "score": 30,
+   "sources_n": 2,
    "title_it": "Pugilato: torna Clemente Russo, a 44 anni di nuovo sul ring a Milano - ANSA",
    "title_es": "Boxeo: Clemente Russo regresa, a sus 44 años nuevamente al ring en Milán - ANSA"
   },
@@ -1443,7 +1404,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 102,
+   "score": 101,
    "sources_n": 13,
    "title_it": "Anthony Joshua diventa padre per la seconda volta: la star del pugilato accoglie la bambina in segreto con la madre di suo figlio, ma la incontrerà solo dopo il suo combattimento con Tyson Fury l'11 dicembre",
    "title_es": "Anthony Joshua se convierte en padre por segunda vez: la estrella del boxeo da la bienvenida a una niña en secreto con la madre de su hijo, pero no la conocerá hasta después de su pelea con Tyson Fury el 11 de diciembre"
@@ -1727,7 +1688,7 @@
    "date": "2026-11-19T01:16:42+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 53,
+   "score": 52,
    "sources_n": 5,
    "title_it": "Jaron “Boots” Ennis vs Eimantas Stanionis | Partita per il titolo mondiale completo | Boxe da incontro",
    "title_es": "Jaron “Boots” Ennis contra Eimantas Stanionis | Lucha por el título mundial completo | Boxeo en la sala de partidos"
@@ -2111,6 +2072,19 @@
    "title_es": "Polémico peso pesado estadounidense contactado para ser el oponente sustituto de Deontay Wilder"
   },
   {
+   "title": "Boxe, la Quero-Chiloiro protagonista in Sardegna: successi e crescita al torneo “Oltre il ring” - Giornale RossoBlu",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZC05NE52d2pRbU82NWVFLWdjWWk1SDlHM0RFQ0tPcWdNRVZrRjJyUXZURVJWc2l0dkVydThIQkN0SUVSTDljM2d5Sk52blZTbGNUS1pBbExNVVhqQk80dFh0dW9mcFg1QVBmcTI4c2txYlZNN0dKc0c1WGU4TlN6UGxROGx6Ny1zNk83V0cyeUdKaUhHNzVkZkR6dDNvUmlEcDlSV3NpTFk2aGVPWlBiMEhDSExHc2RidFVabw?oc=5",
+   "source": "Google News: boxe italiana",
+   "lang": "it",
+   "date": "2026-11-18T17:47:16+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 9,
+   "sources_n": 1,
+   "title_it": "Boxe, la Quero-Chiloiro protagonista in Sardegna: successi e crescita al torneo “Oltre il ring” - Giornale RossoBlu",
+   "title_es": "Boxeo, protagonista de Quero-Chiloiro en Cerdeña: éxitos y crecimiento en el torneo \"Más allá del ring\" - Giornale RossoBlu"
+  },
+  {
    "title": "Former world boxing champion is in ICE custody amid calls for his release - NBC News",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNLURQVHkyT3JYWldJVUlOUDBHSVR2RUdxcHprTzJWUUhWRFdTRl9wbTlNS3p1ZkhYQzJ2Ny05UjJjRnh5blpydnZ6UlJIdzZRcUNiMzhBdHZUbU5ISWNDTWp6ZkRKWXdvdTlKTDNfWlhkcTduaU51cDg2QVJKd0tZLUMyTE5aRUpJOGF4Q0hFeEFtcF9yMWlwdno0SmFNdk9QSlBPZg?oc=5",
    "source": "Google News: boxing",
@@ -2381,8 +2355,8 @@
    "date": "2026-11-18T14:30:30+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 27,
-   "sources_n": 3,
+   "score": 17,
+   "sources_n": 2,
    "title_it": "Clemente Russo - Il ritorno di Tatanka - Mediaset Infinity",
    "title_es": "Clemente Russo - El regreso de Tatanka - Mediaset Infinity"
   },
@@ -2699,19 +2673,6 @@
    "sources_n": 1,
    "title_it": "Cristóbal Lorente si giocherà il suo futuro mondiale a Tokyo contro Mikito Nakano in una decisiva eliminazione WBC - AEBOX",
    "title_es": "Cristóbal Lorente se jugará en Tokio su futuro mundial ante Mikito Nakano en una eliminatoria decisiva del WBC - AEBOX"
-  },
-  {
-   "title": "Dario Morello dopo la morte di Lee Reeves: \"La stampa italiana parla di boxe solo quando ci sono disgrazie\" - The Shield Of Sports",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQVptWWl6S1RUYnlxRUpjcHBqTlp6b2ZaazRGMURIWlJjdUhVbE0zZnNuXzQ3QTBsVzJwcDIxZmZINlU3UTJHbm5PZjdoRWRYaDJheXZyem1KQlNGYlVFc0FWTlZ5WWFuSzE2UGotMW1SUjU2NFJhaDVGTFBxaXBxOQ?oc=5",
-   "source": "Google News: boxe italiana",
-   "lang": "it",
-   "date": "2026-11-18T09:17:53+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 5,
-   "sources_n": 1,
-   "title_it": "Dario Morello dopo la morte di Lee Reeves: \"La stampa italiana parla di boxe solo quando ci sono disgrazie\" - The Shield Of Sports",
-   "title_es": "Dario Morello tras la muerte de Lee Reeves: \"La prensa italiana sólo habla de boxeo cuando hay desgracias\" - The Shield Of Sports"
   },
   {
    "title": "Tyson Fury vs Anthony Joshua fans warned about FIVE HOUR taxi queues with locals snubbing ‘mental’ ticket prices",
@@ -4074,6 +4035,47 @@
    "sources_n": 1,
    "title_it": "Rispetto a Floyd Mayweather nella boxe, Blinded in Bare Knuckle",
    "title_es": "Comparado con Floyd Mayweather en el boxeo, cegado en Bare Knuckle"
+  },
+  {
+   "title": "British rapper accepted fight with Tommy Fury, but never heard back",
+   "link": "https://talksport.com/boxing/4711014/british-rapper-fight-tommy-fury-bugzy-malone/",
+   "source": "Talksport Boxing",
+   "lang": "en",
+   "date": "2026-11-16T15:31:46+00:00",
+   "status": "unverified",
+   "boxers": [
+    "Tyson Fury"
+   ],
+   "score": 30,
+   "sources_n": 3,
+   "title_it": "Il rapper britannico ha accettato di litigare con Tommy Fury, ma non ha mai ricevuto risposta",
+   "title_es": "El rapero británico aceptó pelear con Tommy Fury, pero nunca recibió respuesta"
+  },
+  {
+   "title": "WORLD BOXING FINALS 2026 - 2 AZZURRI E 3 AZZURRI PER LE FINALI DI TASHKENT - FPI",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTU03V2o5OEt2YW1ZT280Ulh3aGVGMTlzSEU0X2QyMDlUMzNFUEdGUUVFMDlyU0owMERFMnBPcEdIM0U3cS1OUVdNSUZLOTlEUFhOZ1ZVb0FmSEpIX0ZjUzRJTV9PLVNEczNkSnFSY2NGaFZJRG80S2ZTQTNWMTAyV2xmRjdPX08yOFhkT21WYl9KYnU2ejE3OENDUUI4M2hVOWtKZnZwRWJEQXBnWVhYeXhR?oc=5",
+   "source": "Google News: pugilato",
+   "lang": "it",
+   "date": "2026-11-16T14:26:07+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 0,
+   "sources_n": 1,
+   "title_it": "WORLD BOXING FINALS 2026 - 2 AZZURRI E 3 AZZURRI PER LE FINALI DI TASHKENT - FPI",
+   "title_es": "FINAL MUNDIAL DE BOXEO 2026 - 2 AZURRI Y 3 AZURRI PARA LA FINAL DE TASHKENT - FPI"
+  },
+  {
+   "title": "Calendario NAZIONALE Pugilato Olimpico 2027 - FPI",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTmpIRGd0XzMtbmhlTEZ0NmFCdHV5elVpZlVOSGxabkdYLXBMcmlVNGdlU0lLOEtsVXVOamdhYjQ4VklEQU45Wlp6TzVCYWJHQ2RYNE5tX0VZdTFrOXpSNjY1b3J1OFhxYXRlZFo1X1RDNkdiUWtadTBNbXg4cmJvMGJ0eVNwaDZpRWJmelM4eWU0dFRo?oc=5",
+   "source": "Google News: pugilato",
+   "lang": "it",
+   "date": "2026-11-16T14:11:36+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 0,
+   "sources_n": 1,
+   "title_it": "Calendario NAZIONALE Pugilato Olimpico 2027 - FPI",
+   "title_es": "Calendario NACIONAL de Boxeo Olímpico 2027 - FPI"
   }
  ]
 }
