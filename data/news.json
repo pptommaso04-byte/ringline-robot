@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-20T15:37:16+00:00",
- "feeds_ok": 47,
- "feeds_failed": 6,
+ "updated": "2026-11-20T15:41:30+00:00",
+ "feeds_ok": 48,
+ "feeds_failed": 5,
  "news": [
   {
    "title": "William Crolla really came back from the brink last time out! Next up, an English title shot 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
@@ -286,7 +286,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 92,
-   "sources_n": 16,
+   "sources_n": 15,
    "title_it": "David Benavidez offre una reazione onesta al ritiro di Jai Opetaia dal combattimento con Deontay Wilder",
    "title_es": "David Benavidez ofrece una reacción honesta ante la retirada de Jai Opetaia de la pelea con Deontay Wilder"
   },
@@ -477,19 +477,6 @@
    "sources_n": 16,
    "title_it": "Deontay Wilder disposto a risolvere la vecchia rivalità dei pesi massimi sulla carta Fury vs Joshua: \"Sono stanco delle sue bugie\"",
    "title_es": "Deontay Wilder dispuesto a resolver vieja rivalidad de peso pesado en cartelera Fury vs Joshua: “Estoy cansado de sus mentiras”"
-  },
-  {
-   "title": "‘That fight will take place February 6’: Oscar De La Hoya says Ryan Garcia will unify titles with Teofimo Lopez next",
-   "link": "https://www.badlefthook.com/boxing-news/120500/oscar-de-la-hoya-says-ryan-garcia-will-unify-titles-with-teofimo-lopez-next-boxing-news-2026",
-   "source": "Bad Left Hook",
-   "lang": "en",
-   "date": "2026-11-20T08:20:59-05:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 111,
-   "sources_n": 3,
-   "title_it": "\"Quel combattimento si svolgerà il 6 febbraio\": Oscar De La Hoya afferma che Ryan Garcia unirà i titoli con Teofimo Lopez nel prossimo incontro",
-   "title_es": "«Ese combate tendrá lugar el 6 de febrero»: Oscar De La Hoya dice que Ryan García unificará títulos con Teófimo López a continuación"
   },
   {
    "title": "Il cinisellese Valerio Mantovani pronto a sfidare il campione d’Italia Francesco Magrì - NordMilano24",
@@ -824,19 +811,6 @@
    "title_es": "Doble golpe - Daily Tribune"
   },
   {
-   "title": "David Benavidez: The most feared fighter in all of boxing",
-   "link": "https://www.saddoboxing.com/112850-david-benavidez-the-most-feared-fighter-in-all-of-boxing.html",
-   "source": "Saddo Boxing",
-   "lang": "en",
-   "date": "2026-11-19T23:55:06+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 97,
-   "sources_n": 4,
-   "title_it": "David Benavidez: il combattente più temuto di tutta la boxe",
-   "title_es": "David Benavidez: El peleador más temido de todo el boxeo"
-  },
-  {
    "title": "Wilder trains for a potential new opponent after Opetaia backed out of their fight this week 👊",
    "link": "https://www.youtube.com/watch?v=tt4Xsr7XjJY",
    "source": "YouTube The Ring",
@@ -857,8 +831,8 @@
    "date": "2026-11-19T23:23:06+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 61,
-   "sources_n": 3,
+   "score": 51,
+   "sources_n": 2,
    "title_it": "Il campione del mondo dei pesi leggeri WBC Michal Cieslak: \"Sono un guerriero che non si arrenderà mai!\"",
    "title_es": "Campeón mundial de peso crucero del CMB, Michal Cieslak: \"¡Soy un guerrero que nunca retrocederá!\""
   },
@@ -909,8 +883,8 @@
    "date": "2026-11-19T23:08:51+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 59,
-   "sources_n": 3,
+   "score": 69,
+   "sources_n": 4,
    "title_it": "L'imbattuto Topeka dei pesi massimi John Cantrell sarà il protagonista dell'evento di boxe \"Night of Legends\" del 9 gennaio",
    "title_es": "El invicto peso pesado de Topeka, John Cantrell, encabeza el evento de boxeo 'Night of Legends' el 9 de enero"
   },
@@ -925,7 +899,7 @@
     "Oleksandr Usyk"
    ],
    "score": 114,
-   "sources_n": 7,
+   "sources_n": 5,
    "title_it": "Oscar De La Hoya riassume le possibilità di David Benavidez di battere Oleksandr Usyk nella categoria dei pesi massimi leggeri",
    "title_es": "Óscar de la Hoya resume las posibilidades de David Benavidez de vencer a Oleksandr Usyk en el peso crucero"
   },
@@ -967,6 +941,19 @@
    "sources_n": 8,
    "title_it": "Lauren Price e Michaela Kotaskova rientrano nel limite di peso - World Boxing Council",
    "title_es": "Lauren Price y Michaela Kotaskova dan el peso - Consejo Mundial de Boxeo"
+  },
+  {
+   "title": "David Benavidez: The most feared fighter in all of boxing",
+   "link": "https://www.youtube.com/watch?v=kT7j5man4nA",
+   "source": "YouTube PBC",
+   "lang": "en",
+   "date": "2026-11-19T22:00:49+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 86,
+   "sources_n": 3,
+   "title_it": "David Benavidez: il pugile più temuto di tutto il mondo della boxe",
+   "title_es": "David Benavidez: el púgil más temido de todo el boxeo"
   },
   {
    "title": "Interregionali campionati italiani Elite, i risultati del day 1: rivivi l’evento su Sportface TV",
@@ -1029,7 +1016,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 113,
-   "sources_n": 5,
+   "sources_n": 4,
    "title_it": "Michal Cieslak presenta l'incontro per l'unificazione dei titoli dei pesi massimi leggeri contro David Benavidez",
    "title_es": "Michal Cieslak avanza el combate de unificación del peso crucero contra David Benavidez"
   },
@@ -1166,23 +1153,10 @@
    "date": "2026-11-19T17:44:24+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 29,
-   "sources_n": 2,
+   "score": 19,
+   "sources_n": 1,
    "title_it": "Boxe, sei italiani ai quarti degli Europei U23: azzurri a un passo dalla zona medaglie",
    "title_es": "Boxeo: seis italianos en cuartos de final en el Europeo sub-23; los «azzurri» a un paso de las medallas"
-  },
-  {
-   "title": "Boxe, sei italiani ai quarti degli Europei U23: azzurri a un passo dalla zona medaglie - OA Sport",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaTRZWHVsRFplY3NnN2lZN3FWZFkwem5HQ2lFUTA0NXdqZVpJYkYwOThEdVNjMGFWalRFWG9SZ3pGUXJzMUpibkxMRlFBTXZ4dWpCckRkXzJMbmNJcnotVENTbFNlVTZ0SUxMM1JhMm03UEI1RUFabUZrc0lFeEZTRUQtR3pGc0hhTG1aS29wbU9QaWlNZkd5VFEtQm9RTUhZM1Q0SkRxVl84aFAxdXdXVDRDaHkxcUnSAbwBQVVfeXFMTUszOTRkamFHSGVoX000QmE4VHJ6S0pmZVA3d0VhT1ktT096OTVEbk4yUmVzR2ZjZE5pTkJxLWR0VDVWa3E1alJwZmtCZ1JuSGdOMWRtMU4xZ1IyeUNOcFJkTnh5b3g2aXh3VDIyVFBaSkFiOFFuUVdMekZZZnp0VlZ4SGc3LU1fS091aUVzejM0aXRKUElSVmRfeXpsMXVJdjdpcHpWRHBMWU52U2MwSFVRWUNpTEZLT0JhWE8?oc=5",
-   "source": "Google News: boxe italiana",
-   "lang": "it",
-   "date": "2026-11-19T17:44:24+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 29,
-   "sources_n": 2,
-   "title_it": "Boxe, sei italiani ai quarti degli Europei U23: azzurri a un passo dalla zona medaglie - OA Sport",
-   "title_es": "Boxeo: seis italianos en cuartos de final del Europeo sub-23; los «azzurri» a un paso de la zona de medallas - OA Sport"
   },
   {
    "title": "Canelo Alvarez cleared to challenge Willy Hutchinson for WBC 175lbs title",
@@ -1287,19 +1261,6 @@
    "title_es": "TYSON FURY SE MUESTRA SINCERO SOBRE EL HECHO DE QUE BEN DAVISON ESTÉ ENTRENANDO A ANTHONY JOSHUA PARA SU COMBATE"
   },
   {
-   "title": "Clemente Russo, a 44 anni, torna sul ring a Milano - Blasting News",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSmRTOXBCcFZZeF9NdFR4OUdBNjc5TmstQndmcXNRVjM5YjRoZ0lhT0VtZzllS0ZoMnZ6ZmVNTUlONjdDRC0xSG1tVjhPMk9WY3hPWWdLbHd2OVk4N19XanN1OW9DaGZGbWx5OGdLcE1vZEdLN3FITE1tUGdDM2dNUjliVnhaOWhpejVseUxWU1JPLVNXNUVuRXFIbWVBMmpLcThpYWJpaVI?oc=5",
-   "source": "Google News: boxe italiana",
-   "lang": "it",
-   "date": "2026-11-19T16:20:33+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 38,
-   "sources_n": 3,
-   "title_it": "Clemente Russo, a 44 anni, torna sul ring a Milano - Blasting News",
-   "title_es": "Clemente Russo, de 44 años, vuelve al ring en Milán - Blasting News"
-  },
-  {
    "title": "Dillian Whyte ready to step in and fight Deontay Wilder on Anthony Joshua vs Tyson Fury undercard 🥊",
    "link": "https://www.youtube.com/watch?v=5gcM8ZZV8K4",
    "source": "YouTube Sky Sports Boxing",
@@ -1377,7 +1338,7 @@
    "date": "2026-11-19T15:40:38+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 93,
+   "score": 92,
    "sources_n": 2,
    "title_it": "Shakur Stevenson deve prendere una decisione importante prima dell'asta per la borsa WBO del 30 novembre",
    "title_es": "Shakur Stevenson se enfrenta a una decisión clave antes de la subasta de la WBO del 30 de noviembre"
@@ -1449,19 +1410,6 @@
    "sources_n": 1,
    "title_it": "\"Una storia importante\": Eros Ramazzotti innamorato, la nuova compagna è la campionessa di pugilato Federica Monacelli - Il Fatto Quotidiano",
    "title_es": "«Una storia importante»: Eros Ramazzotti innamorato, la nuova compagna è la campionessa di pugilato Federica Monacelli - Il Fatto Quotidiano"
-  },
-  {
-   "title": "Edwards’ world title aim to join Welsh boxing greats - cedarnews.net",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbTdiVnpZNW9RMUdNWG50c1RBN3RYd2xEMXNyLXV5Mmt0SUxqRHVaRjZmSlQzS2lqZ1c3WDh0clFkMzVvVVRONGxpWEYyM3BWNGpubTg3TFhkOTZKdm1teEZIbVdGZ01uTUNhMG1wWjVYUGdjZTRFQkx2TmlOVGI1Z3RQZ3Jpa0tUMnc?oc=5",
-   "source": "Google News: boxing",
-   "lang": "en",
-   "date": "2026-11-19T14:11:29+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 27,
-   "sources_n": 1,
-   "title_it": "L'obiettivo di Edwards di conquistare il titolo mondiale per unirsi ai grandi del pugilato gallese - cedarnews.net",
-   "title_es": "El objetivo de Edwards de conseguir el título mundial para unirse a los grandes del boxeo galés - cedarnews.net"
   },
   {
    "title": "Edwards' world title aim to join Welsh boxing greats",
@@ -1686,7 +1634,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 45,
-   "sources_n": 6,
+   "sources_n": 7,
    "title_it": "L’ICE arresta Jorge Linares: l'ex campione di pugilato rischia l’espulsione - RaiNews",
    "title_es": "La Policía de Extranjería e Inmigración detiene a Jorge Linares: el excampeón de boxeo se enfrenta a la expulsión - RaiNews"
   },
@@ -1780,6 +1728,19 @@
    "title_es": "Anthony Joshua se convierte en padre por segunda vez: la estrella del boxeo da la bienvenida a una niña en secreto con la madre de su hijo, pero no la conocerá hasta después de su pelea con Tyson Fury el 11 de diciembre"
   },
   {
+   "title": "Boxe, il Trofeo Città di Taranto compie 25 anni: al via il crowdfunding per sostenere l’evento - Giornale RossoBlu",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSXp2bFlxTHZnM2hORGJILUNwX01Rem5fWlhDZXYtV2t1OVpiRkY2dno1OFcyekhYd0NhbjJkdW9CRms0ZElZWDk5WjlpTHJvWXNIamJKTGNCcVNfTDBJNDhoUGxDY2d4UVBvUy1fU0NUbmx1V3c5Tk9zbWQ2QVZxYzZyNnRuZjRKVndaV0RUWlViakFLcUxmQUxpemhwblplNmFjbXlmV00yeVZEN0FnUUV4NGZIQlNxd185Ng?oc=5",
+   "source": "Google News: boxe italiana",
+   "lang": "it",
+   "date": "2026-11-19T08:58:51+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 14,
+   "sources_n": 1,
+   "title_it": "Boxe, il Trofeo Città di Taranto compie 25 anni: al via il crowdfunding per sostenere l’evento - Giornale RossoBlu",
+   "title_es": "Boxeo: El Trofeo Ciudad de Taranto cumple 25 años; se pone en marcha una campaña de «crowdfunding» para apoyar el evento - Giornale RossoBlu"
+  },
+  {
    "title": "Alycia Baumgardner vacates 130lbs titles to move up to 135",
    "link": "https://www.boxingscene.com/articles/alycia-baumgardner-vacates-130lbs-titles-to-move-up-to-135",
    "source": "Boxing Scene",
@@ -1870,7 +1831,7 @@
    "date": "2026-11-19T07:36:43+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 34,
+   "score": 33,
    "sources_n": 3,
    "title_it": "Amari Jones si fa strada verso l'incontro per il titolo dei pesi medi",
    "title_es": "Amari Jones se abre camino hacia la pelea por el título del peso medio"
@@ -1986,19 +1947,6 @@
    "title_es": "Keith Thurman superó en el ring a un campeón invicto"
   },
   {
-   "title": "Cook Islands-heritage heavyweight eyes world title after claiming 13th straight KO - RNZ",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNb2pKTVdYSmFTQUFWbDVRclBzX3BVeVBWclFTWHpqbS1vNEluVHI1akp2eWtJU3Q0ZlNxQ2h4MW1Dbllqa29rTEJNNy1iSXp3cTdqQjhVb0lsWTdJWTlBamZPVEp2X2MxUEppb2NoRFA4R0p6ZndvVjRwdE9SYjFjSnBpaWxjdVNHYmZfcWsyY05FUFk4ZE8xdlVGejB4eGNIVGZ0dzhxdlZUN2FiYVUwenRvT05meHNwY3YwS05CQW95am8?oc=5",
-   "source": "Google News: boxing",
-   "lang": "en",
-   "date": "2026-11-19T01:51:51+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 29,
-   "sources_n": 1,
-   "title_it": "Il peso massimo di origine delle Isole Cook punta al titolo mondiale dopo aver ottenuto il 13° KO consecutivo - RNZ",
-   "title_es": "Un peso pesado de las Islas Cook, con raíces en el país, aspira al título mundial tras conseguir su 13.º nocaut consecutivo - RNZ"
-  },
-  {
    "title": "Baumgardner vacates 130-pound titles, aims for undisputed at 135 lbs",
    "link": "https://www.fightmag.com/baumgardner-vacates-130-pound-titles-aims-for-undisputed-at-135-lbs/",
    "source": "Fightmag",
@@ -2010,19 +1958,6 @@
    "sources_n": 1,
    "title_it": "Baumgardner rinuncia ai titoli dei pesi leggeri e punta a diventare campionessa indiscussa dei superpiuma",
    "title_es": "Baumgardner renuncia a los títulos del peso ligero y aspira a ser campeona indiscutible del peso superligero"
-  },
-  {
-   "title": "Canoy challenges Collazo - Daily Tribune",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ETGtfMEg1WjB3c2R3SVpWM0FKcEd6RmUxS3NiOTM4ZWt6UW5sWDVwUmh3d0pRYWtGU3pUVkVHc3VJY0Y1NEZXQml6YUd4MU9nR29RWGFYcHhJMmhISmxuanBwVU5YSzdiTFE?oc=5",
-   "source": "Google News: boxing",
-   "lang": "en",
-   "date": "2026-11-19T01:21:58+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 30,
-   "sources_n": 3,
-   "title_it": "Canoy sfida Collazo - Daily Tribune",
-   "title_es": "Canoy desafía a Collazo - Daily Tribune"
   },
   {
    "title": "Jaron “Boots” Ennis vs Eimantas Stanionis | Full World Title Match | Matchroom Boxing",
@@ -2046,7 +1981,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 50,
-   "sources_n": 6,
+   "sources_n": 7,
    "title_it": "Jorge Linares: l'ex campione del mondo di pugilato arrestato dall'ICE - Nine.com.au",
    "title_es": "Jorge Linares: El exboxeador campeón del mundo detenido por el ICE - Nine.com.au"
   },
@@ -2088,19 +2023,6 @@
    "sources_n": 1,
    "title_it": "Alistair Overeem afferma che le trattative per l'incontro con Jake Paul si sono bloccate a causa della differenza di peso: \"Non posso biasimare Jake\"",
    "title_es": "Alistair Overeem afirma que las negociaciones para el combate con Jake Paul se estancaron por la diferencia de peso: «No puedo culpar a Jake»."
-  },
-  {
-   "title": "Jorge Linares, Three-Time World Boxing Champion, Apprehended by ICE in Texas - CubaHeadlines",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9abE4tWGZxd1BDcGt0RXVoOEhPT0ZFb1JlcmZZUll0UzhwZ1htLVMtNklOZEVDam15UXdDdVpuN2k2bG5EM0o5QmVrMlhaS0l6U181cUEwRGY?oc=5",
-   "source": "Google News: boxing",
-   "lang": "en",
-   "date": "2026-11-18T23:02:34+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 39,
-   "sources_n": 9,
-   "title_it": "Jorge Linares, tre volte campione del mondo di pugilato, arrestato dall'ICE in Texas - CubaHeadlines",
-   "title_es": "Jorge Linares, tricampeón mundial de boxeo, detenido por el ICE en Texas - CubaHeadlines"
   },
   {
    "title": "For Oleksandr Usyk, the road back to cruiserweight is paved with cautionary tales",
@@ -2338,45 +2260,6 @@
    "title_es": "Citas de la rueda de prensa y pronóstico del combate de Lauren Price contra Michaela Kotaskova"
   },
   {
-   "title": "Women's boxing champions list - ESPN",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaDd2aWdhZDg1VE52ZTI2RVFiejdRNkFWVGwtdTRGeWE0d0dRbXlweE5ZN056MTlGRkF5S1Ezazd1ZDZsQ2V0YlZPdEFzeTNhem5iLU41ZXFwd1NmRVNPNVNCMWF2OHR2YkczMllCTHE1RVlaMHZwTWtLWl9yX1RQdA?oc=5",
-   "source": "Google News: boxing",
-   "lang": "en",
-   "date": "2026-11-18T20:54:00+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 8,
-   "sources_n": 1,
-   "title_it": "Elenco delle campionesse di pugilato - ESPN",
-   "title_es": "Lista de campeonas de boxeo femenino - ESPN"
-  },
-  {
-   "title": "Teremoana on track for World Title shot in 12 months? - Fox Sports",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdXFOc3pGR3VVWGJWUkZPcl8zUEw1a0pBcVBNaWdxUFJYbHlPaTJmYTgzSzZvdUNrWU1Ga3BMNkt5LVlzRVF3dkViVEhlN21xRE00N1E3ckhwbmJZUVM3RTBYeUxZZHVMVE1YOExuaTVVUnBCN2NaZ2Z4Yzc4TW1ESjBia3ZLdlh1eDFKVVRmUGJTeG9NbEItdk1GVUduNEYtTnU1eG1JWmVkMDFEY2tXZy04OGlSMHYtZFlyVVZBMHJONkE?oc=5",
-   "source": "Google News: boxing",
-   "lang": "en",
-   "date": "2026-11-18T20:53:00+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 38,
-   "sources_n": 3,
-   "title_it": "Teremoana sulla buona strada per giocarsi il titolo mondiale tra 12 mesi? - Fox Sports",
-   "title_es": "¿Teremoana camino de disputar el título mundial dentro de 12 meses? - Fox Sports"
-  },
-  {
-   "title": "Tim Tszyu chasing middleweight title dream against Lara - Fox Sports",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbWRsekJDdzZ5ZHB6X2RYMUJMT2RDMkcxcElta1FzcHJIbWRXSkRzSUE4Qzd5a1FhOUxIczJBdm82U3pEczN4MWNIQ1ZxSXd3OF9SVXI4MlFNVmVVS05Uc1hfSzl0elFGZnExaHhqZThfVnJUZWxnNk40TkVwVmxreW9yZm4tRGcwU1hYTkdxYWpwLWtFTGw5QVcwNnpKbERqZGVURjFDLUdaNXczMktFdXRnWHVsMnhCektoV1hhc3pVQXV2S1d3?oc=5",
-   "source": "Google News: boxing",
-   "lang": "en",
-   "date": "2026-11-18T20:53:00+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 43,
-   "sources_n": 2,
-   "title_it": "Tim Tszyu insegue il sogno del titolo dei pesi medi contro Lara - Fox Sports",
-   "title_es": "Tim Tszyu persigue su sueño de conseguir el título del peso medio contra Lara - Fox Sports"
-  },
-  {
    "title": "Oscar De La Hoya reveals who Vergil Ortiz Jr is chasing after Keith Thurman fight",
    "link": "https://bigfightweekend.com/2026/11/18/oscar-de-la-hoya-vergil-ortiz-jr-target/",
    "source": "Big Fight Weekend",
@@ -2385,7 +2268,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 63,
-   "sources_n": 6,
+   "sources_n": 5,
    "title_it": "Oscar De La Hoya rivela chi sta cercando Vergil Ortiz Jr dopo l'incontro con Keith Thurman",
    "title_es": "Óscar de la Hoya revela a quién persigue Vergil Ortiz Jr. tras el combate contra Keith Thurman"
   },
@@ -2424,7 +2307,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 37,
-   "sources_n": 6,
+   "sources_n": 7,
    "title_it": "L'ex campione mondiale di boxe Jorge Linares è stato detenuto dall'ICE in Texas - USA Today",
    "title_es": "El ex campeón mundial de boxeo Jorge Linares está bajo custodia del ICE en Texas - USA Today"
   },
@@ -2442,6 +2325,19 @@
    "title_es": "Polémico peso pesado estadounidense contactado para ser el oponente sustituto de Deontay Wilder"
   },
   {
+   "title": "Boxe, la Quero-Chiloiro protagonista in Sardegna: successi e crescita al torneo “Oltre il ring” - Giornale RossoBlu",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZC05NE52d2pRbU82NWVFLWdjWWk1SDlHM0RFQ0tPcWdNRVZrRjJyUXZURVJWc2l0dkVydThIQkN0SUVSTDljM2d5Sk52blZTbGNUS1pBbExNVVhqQk80dFh0dW9mcFg1QVBmcTI4c2txYlZNN0dKc0c1WGU4TlN6UGxROGx6Ny1zNk83V0cyeUdKaUhHNzVkZkR6dDNvUmlEcDlSV3NpTFk2aGVPWlBiMEhDSExHc2RidFVabw?oc=5",
+   "source": "Google News: boxe italiana",
+   "lang": "it",
+   "date": "2026-11-18T17:47:16+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 7,
+   "sources_n": 1,
+   "title_it": "Boxe, la Quero-Chiloiro protagonista in Sardegna: successi e crescita al torneo “Oltre il ring” - Giornale RossoBlu",
+   "title_es": "El boxeo, con Quero-Chiloiro como protagonista en Cerdeña: éxitos y crecimiento en el torneo «Oltre il ring» - Giornale RossoBlu"
+  },
+  {
    "title": "Former world boxing champion is in ICE custody amid calls for his release - NBC News",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNLURQVHkyT3JYWldJVUlOUDBHSVR2RUdxcHprTzJWUUhWRFdTRl9wbTlNS3p1ZkhYQzJ2Ny05UjJjRnh5blpydnZ6UlJIdzZRcUNiMzhBdHZUbU5ISWNDTWp6ZkRKWXdvdTlKTDNfWlhkcTduaU51cDg2QVJKd0tZLUMyTE5aRUpJOGF4Q0hFeEFtcF9yMWlwdno0SmFNdk9QSlBPZg?oc=5",
    "source": "Google News: boxing",
@@ -2449,7 +2345,7 @@
    "date": "2026-11-18T17:39:26+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 7,
+   "score": 6,
    "sources_n": 1,
    "title_it": "L'ex campione del mondo di pugilato è detenuto dall'ICE mentre si moltiplicano le richieste per la sua liberazione - NBC News",
    "title_es": "El ex campeón mundial de boxeo está bajo custodia del ICE mientras se piden su liberación - NBC News"
@@ -2553,7 +2449,7 @@
    "date": "2026-11-18T15:37:16+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 32,
+   "score": 31,
    "sources_n": 1,
    "title_it": "Il colosso da 270 libbre della BKFC, Gzim Selmani, aspetta l'occasione di \"picchiare\" il vecchio rivale della WWE in un super combattimento",
    "title_es": "El gigante de 270 libras de BKFC, Gzim Selmani, esperando la oportunidad de \"vencer\" al viejo rival de la WWE en una súper pelea"
@@ -2619,7 +2515,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 35,
-   "sources_n": 6,
+   "sources_n": 7,
    "title_it": "Jorge Linares, ex campione del mondo di pugilato, rischia l'espulsione dopo essere stato arrestato dall'ICE in Texas - EL PAÍS",
    "title_es": "Jorge Linares, excampeón mundial de boxeo, enfrenta un proceso de deportación tras ser detenido por el ICE en Texas - EL PAÍS"
   },
@@ -2679,19 +2575,6 @@
    "title_es": "Boxeo, bien Fabian Lafratta en el combate de vuelta tras un año de ausencia... - VCO Azzurra TV"
   },
   {
-   "title": "TAF, Elmaghraby vs Clemente Russo: data, orario, card completa e dove vedere il ritorno di Tatanka - bet365 - Scommesse sportive online",
-   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNSlpGbjI4STZYUUg2YTlCdFp2MmVuZG9uT1pQelBYcWc5RExhX0g3RVlVRWZzRmJhTWZSS2p5RFNLV2E0R3M0OEFFbmpwQU4wUlVmNG5jaXhzTC1pQkw4eGNSRkpQVlI4UnVoTmRHc0VyV3E3eTduUXB5M1BmekNfQTA2ZnBUUFpVR0kydnRzQUN2NS00Q3RZZmxOOFpFbVFmTEhYNV9RcTN3M20xZVExbnJkOUVFcEpraGpSUGgwZ3h0MXJXY3g3Q2s5ODVUVHcyRGJMN2JUakNqS0JQN0xwQWo1eWhMOHVoaHA2Nk1JRGxFUTk2YlRn?oc=5",
-   "source": "Google News: boxe italiana",
-   "lang": "it",
-   "date": "2026-11-18T14:31:58+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 25,
-   "sources_n": 3,
-   "title_it": "TAF, Elmaghraby vs Clemente Russo: data, orario, card completa e dove vedere il ritorno di Tatanka - bet365 - Scommesse sportive online",
-   "title_es": "TAF, Elmaghraby vs. Clemente Russo: datos, horario, cartelera completa y dónde ver el regreso de Tatanka - bet365 - Apuestas deportivas en línea"
-  },
-  {
    "title": "Teremoana Teremoana Calls For World Title Shot After Stopping Ahio - Boxing News 24",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSW9OTk9tYXZEMTBjTmlUbE9jeVMyTVhHelU1aklFU0RBbkNlOGw0b1A1SzFpelMta2gtcVhzSGV5QW1nY0x2dVZBM1hscnRKZ21WZ0J0RV9DRk9HUkxUYTJoeFpnOHVUeVkwQk9iT3JwSW1QektjdXJKSVRVNFFJREQtNzR5MWJzR0NGZGR6TEJyQUxWR2t4aVhEcGlMRGFadFNkeURqMA?oc=5",
    "source": "Google News: boxing",
@@ -2745,19 +2628,6 @@
    "sources_n": 16,
    "title_it": "Tyson Fury vs Anthony Joshua undercard: Derek Chisora ​​accetta di rivincita con breve preavviso di Deontay Wilder, ma c'è un ostacolo in atto",
    "title_es": "Cartelera secundaria de Tyson Fury vs Anthony Joshua: Derek Chisora ​​acepta la revancha con Deontay Wilder con poca antelación, pero hay un obstáculo"
-  },
-  {
-   "title": "Potential opponents for Teremoana Teremoana as Aussie star targets world title - news.bet365.com",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRU5xc0d4eFRocjE5dE1LUHZkbDRSYm95OERMdXFEbkNMMHZRbFNORkVfVnpmZ0U3cE1iWlgtT05NRDIyZWhmMk9JX0hsZ0dVbUsxLWFmUWZhdThNbGNheE8tQ0lYQmpYd3Eya0FQX2I1SnRUVVkxdEM1TVFuM1JPRnd1Q283eFVTczc1by1ya3pqSE1ES0djZWV5a29YYmZYU0dfQ2JvVmRURnB1QjM2WFZORzRIcXpCU2FCNzEyZEtDTGMweWF5dGVRZTU2M0FsM3c?oc=5",
-   "source": "Google News: boxing",
-   "lang": "en",
-   "date": "2026-11-18T13:09:08+00:00",
-   "status": "rumor",
-   "boxers": [],
-   "score": 14,
-   "sources_n": 1,
-   "title_it": "Potenziali avversari di Teremoana Teremoana mentre la stella australiana punta al titolo mondiale - news.bet365.com",
-   "title_es": "Posibles rivales de Teremoana Teremoana, la estrella australiana que aspira al título mundial - news.bet365.com"
   },
   {
    "title": "Too much to handle. Ryan Awaji earned the Round 2 TKO at #ZuffaBoxing13 😤",
@@ -2826,19 +2696,6 @@
    "sources_n": 14,
    "title_it": "‘Lontano dalla verità’ – Jai Opetaia rilascia una dichiarazione dopo essersi ritirato dalla undercard Tyson Fury vs Anthony Joshua",
    "title_es": "‘Lejos de la verdad’ – Jai Opetaia emite declaración después de retirarse de la cartelera de Tyson Fury vs Anthony Joshua"
-  },
-  {
-   "title": "‘Teremoana is a monster’: World title timeline revealed after Aussie KO machine’s 13th straight stoppage - Fox Sports",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNWplTUtmODgzZkxhV19ZOFMzTV9fWGtnY3VxV3ZhWVNhbUFMeUgyMjNnYV90Zm5aZHZrZmp1VURKRlpMWVh1SU5Id1otbVZ4SlNYeG5TM2xSYi14YjhPdFJudXpla3NidHVHMDJjLWlMT1dFdDlDb0VqZW5aNnM0QWZTZGJNS2FLRkdGcV9fX3BFQU5JalFDdVVwOTJadnl5S1ZKSXVvS1EzYnV6clpEcHplVE5PRTRMZXlwelNZbWNZUzVYTllwdlBGX2VMYWxhemp6dw?oc=5",
-   "source": "Google News: boxing",
-   "lang": "en",
-   "date": "2026-11-18T12:05:12+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 22,
-   "sources_n": 1,
-   "title_it": "\"Teremoana è un mostro\": svelata la cronologia del titolo mondiale dopo il 13° KO consecutivo della macchina da KO australiana - Fox Sports",
-   "title_es": "«Teremoana es un monstruo»: se revela el calendario para el título mundial tras la 13.ª victoria consecutiva por KO de la máquina australiana - Fox Sports"
   },
   {
    "title": "Teremoana extends knockout streak with second-round stoppage of Hemi Ahio",
@@ -2975,7 +2832,9 @@
    "status": "unverified",
    "boxers": [],
    "score": 3,
-   "sources_n": 1
+   "sources_n": 1,
+   "title_it": "Rivelato il motivo del ritiro a sorpresa della campionessa del mondo australiana - Nine.com.au",
+   "title_es": "Se revela el motivo de la sorprendente retirada del campeón del mundo australiano - Nine.com.au"
   },
   {
    "title": "Cristóbal Lorente se jugará en Tokio su futuro mundial ante Mikito Nakano en una eliminatoria decisiva del WBC - AEBOX",
@@ -2989,19 +2848,6 @@
    "sources_n": 1,
    "title_it": "Cristóbal Lorente si giocherà a Tokyo il suo futuro mondiale contro Mikito Nakano in un incontro di qualificazione decisivo per la WBC - AEBOX",
    "title_es": "Cristóbal Lorente se jugará en Tokio su futuro mundial ante Mikito Nakano en una eliminatoria decisiva del WBC - AEBOX"
-  },
-  {
-   "title": "Dario Morello dopo la morte di Lee Reeves: \"La stampa italiana parla di boxe solo quando ci sono disgrazie\" - The Shield Of Sports",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQVptWWl6S1RUYnlxRUpjcHBqTlp6b2ZaazRGMURIWlJjdUhVbE0zZnNuXzQ3QTBsVzJwcDIxZmZINlU3UTJHbm5PZjdoRWRYaDJheXZyem1KQlNGYlVFc0FWTlZ5WWFuSzE2UGotMW1SUjU2NFJhaDVGTFBxaXBxOQ?oc=5",
-   "source": "Google News: boxe italiana",
-   "lang": "it",
-   "date": "2026-11-18T09:17:53+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 2,
-   "sources_n": 1,
-   "title_it": "Dario Morello dopo la morte di Lee Reeves: \"La stampa italiana parla di boxe solo quando ci sono disgrazie\" - The Shield Of Sports",
-   "title_es": "Dario Morello tras la muerte de Lee Reeves: «La prensa italiana solo habla de boxeo cuando hay desgracias» - The Shield Of Sports"
   },
   {
    "title": "Tyson Fury vs Anthony Joshua fans warned about FIVE HOUR taxi queues with locals snubbing ‘mental’ ticket prices",
@@ -3034,17 +2880,6 @@
    "sources_n": 16,
    "title_it": "‘Salva lo spettacolo’ – I pesi massimi britannici ammettono di voler combattere Deontay Wilder su Tyson Fury vs Anthony Joshua undercard",
    "title_es": "'Salva el espectáculo': el peso pesado británico admite que quiere pelear contra Deontay Wilder en la cartelera de Tyson Fury vs Anthony Joshua"
-  },
-  {
-   "title": "Boxing champions list - ESPN Philippines",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5sX0ZnbnUxRUFsemc5a2FDamNNbEd6RzAwdzdrU0Nfdk9PaFQzRlN0M3hlTDF6MU84NE5EYVF3V1NHNHAwT09DY0hsLU5NRHhDU2FZZ1B2QkpxX1d3aE92eEY5bWhaNjZoOWctVW1MTGtyTTU4VWRj?oc=5",
-   "source": "Google News: boxing",
-   "lang": "en",
-   "date": "2026-11-18T08:00:00+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 2,
-   "sources_n": 1
   },
   {
    "title": "Boxe: quei bravi ragazzi (e gli altri) - Il Corriere Nazionale",
@@ -3106,8 +2941,8 @@
    "date": "2026-11-18T03:02:41+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 20,
-   "sources_n": 3,
+   "score": 10,
+   "sources_n": 2,
    "title_it": "Oscar Collazo affronta Joey Canoy nell'incontro di supporto a Serrano-Falzon",
    "title_es": "Oscar Collazo se enfrenta a Joey Canoy en el combate previo a Serrano-Falzon"
   },
@@ -3120,7 +2955,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 30,
-   "sources_n": 6,
+   "sources_n": 7,
    "title_it": "L'ICE arresta Jorge Linares, \"El Niño de Oro\", ex pugile venezuelano: cosa sappiamo del caso? - El Financiero",
    "title_es": "ICE arresta a Jorge Linares, ‘El Niño de Oro’, exboxeador venezolano: ¿Qué es lo que sabemos del caso? - El Financiero"
   },
@@ -3132,8 +2967,8 @@
    "date": "2026-11-18T00:30:31+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 75,
-   "sources_n": 4,
+   "score": 65,
+   "sources_n": 3,
    "title_it": "David Benavidez aveva previsto la sua vittoria su Zurdo prima ancora che l'incontro avesse luogo",
    "title_es": "David Benavidez vio su victoria sobre Zurdo antes de que se celebrara el combate"
   },
@@ -3159,7 +2994,9 @@
    "status": "unverified",
    "boxers": [],
    "score": 0,
-   "sources_n": 1
+   "sources_n": 1,
+   "title_it": "Ex campione del mondo di pugilato detenuto dall'ICE a El Paso - El Paso Times",
+   "title_es": "Antiguo campeón mundial de boxeo retenido en un centro de detención del ICE en El Paso - El Paso Times"
   },
   {
    "title": "US immigration confirm boxer Linares detention, facing deportation",
@@ -3175,17 +3012,6 @@
    "title_es": "Inmigración de EE. UU. confirma la detención del boxeador Linares, que se enfrenta a la deportación"
   },
   {
-   "title": "'Must hate the third round': Aussie star's INSANE streak continues... as title fights loom - Fox Sports",
-   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOWGlNbkl2LXlvTmt6Z3dPZUNrWXk1RVpkYVlMUlgzM1MweGM2eFJHdDNDbS1NN0FsWTEzamRNSVpZam1DRkZISUdKVVc4ZDEzaVdieG8zTmFvNEgzeFNnajBObGJrM3JHWk5HaEpLNnR3UnFUdWpnMlROOWhyWGo0bmNCeFhNd1poUGl3QkREQnlRbjEzWnJIaVktZTJBV0ZHY3Zwd0ZrUnRtWjduSFpra0VDajlfaDJEbkszQ0lhcnZ0dEpWdlEzUUdfbHhSV2JVbnd6NHBDV0hkd3VZbVBoR1R6TGpLSkdnUE1BR3c1S1V4Y05lS3JfQkRVamJHdGFoY2dIdWUwSkZnZXlXYm5B?oc=5",
-   "source": "Google News: boxing",
-   "lang": "en",
-   "date": "2026-11-17T23:30:34+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 0,
-   "sources_n": 1
-  },
-  {
    "title": "Why was Jorge Linares detained by ICE? Former three-division boxing world champion held in Texas custody - The Times of India",
    "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxOc3Q4WGpmQ25EVGlTVGpaWUNKazdFdXE5bk15UzNsZV9PMjBQYWZoMVh6dDF6UFNlTmkxV3hrM3JxaVJtY3pWUXVXcU1QdlkwTDl6bzZrTG5pSzhlYkVaUXlpSDJXZkRad1hzelZCU1VVUkYyalh5WnN5dmJIMnViSXRldl8wdmdGRE90ckNNZkVwME1aSVg5c1F1STVoYV9pUDk2QlMza1dvM2pPbGNBSS1tVFBOWEl3N241LUVoMGd1Q1RPSHBaTnJzWjFIMDktamRfb2lBdzk5ZDNfaEZiTkJyb085bE5XeGd0eEs5VVBjeFZjYUc2OWV3UVcxa08xNzlyaEJXc2VXZjZ3eThTenp1MTRMTmdEN1R6Ymx30gGjAkFVX3lxTE5OeHl6NFVYQ1luYzZiT2FoMXdHbGlHWHQ3UDRCb0NMOFRJOVpGMzAzOTZQOHZjMV9JV19lN1dnM1JFR0ZpcXo3ZTV2NWlCdFVzTE9DSS1NMzBjVTJGWEtINXloVE51d0NRVGRKckJDYXRDekxjQWtacEFUTEt3ZmRaaWlNSi02UXNEWTlPZHZMYnVpR2JuY3c3cm9XNm0zcU5mV2lDejVKYllrV3lkN3BhcnNrZzlVNk5PaDR4OXRmM2RmbWR0WTVVdi1mSS1sWjdaWnRNQlBOc0RUWE9HZkhrMGZ3U1pEWEVmWFJkakltNk5EdmVWSmtBTzVXR2toaE5GRkdRZUpzZGRBYnBtaG5hbXBDeVNtaGZibU1hbVVwa3FJRQ?oc=5",
    "source": "Google News: boxing",
@@ -3194,7 +3020,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 40,
-   "sources_n": 6,
+   "sources_n": 7,
    "title_it": "Perché Jorge Linares è stato detenuto dall'ICE? L'ex campione del mondo di boxe in tre categorie è detenuto in Texas - The Times of India",
    "title_es": "¿Por qué detuvo el ICE a Jorge Linares? El excampeón mundial de boxeo en tres categorías está detenido en Texas - The Times of India"
   },
@@ -3207,7 +3033,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 30,
-   "sources_n": 6,
+   "sources_n": 7,
    "title_it": "L'ex campione di boxe in tre categorie di peso Jorge Linares è stato arrestato dall'ICE in Texas",
    "title_es": "El ex campeón de boxeo en tres categorías Jorge Linares detenido por el ICE en Texas"
   },
@@ -3259,7 +3085,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 30,
-   "sources_n": 6,
+   "sources_n": 7,
    "title_it": "Arrestato l'ex campione del mondo di boxe Jorge Linares: cosa si sa della sua situazione? - Periódico Correo",
    "title_es": "Detienen al excampeón mundial de boxeo, Jorge Linares: ¿qué se sabe de su situación? - Periódico Correo"
   },
@@ -3287,7 +3113,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 30,
-   "sources_n": 6,
+   "sources_n": 7,
    "title_it": "Chi è Jorge Linares? L'ex campione del mondo di boxe arrestato dall'ICE in Texas - Luz Noticias",
    "title_es": "¿Quién es Jorge Linares? El excampeón mundial de boxeo arrestado por el ICE en Texas - Luz Noticias"
   },
@@ -3300,7 +3126,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 40,
-   "sources_n": 6,
+   "sources_n": 7,
    "title_it": "L'ex campione del mondo di pugilato Jorge Linares è stato fermato dagli agenti dell'ICE in Texas - The Athletic - The New York Times",
    "title_es": "El ex campeón mundial de boxeo Jorge Linares detenido por agentes del ICE en Texas - The Athletic - The New York Times"
   },
@@ -3325,8 +3151,8 @@
    "date": "2026-11-17T20:09:47-05:00",
    "status": "unverified",
    "boxers": [],
-   "score": 35,
-   "sources_n": 2,
+   "score": 25,
+   "sources_n": 1,
    "title_it": "\"È un incontro stupido\": Jermell Charlo critica l'incontro tra Erislandy Lara e Tim Tszyu e non vede l'ora di affrontare Brock Jarvis",
    "title_es": "«Es una pelea estúpida»: Jermell Charlo critica el combate entre Erislandy Lara y Tim Tszyu y espera enfrentarse a Brock Jarvis"
   },
@@ -3420,7 +3246,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 30,
-   "sources_n": 6,
+   "sources_n": 7,
    "title_it": "L'ex campione mondiale di boxe venezuelano Jorge Linares è stato arrestato dalle autorità per l'immigrazione degli Stati Uniti - Extra News Mundo",
    "title_es": "Ex campeón mundial de boxeo venezolano Jorge Linares, fue detenido por las autoridades migratorias de Estados Unidos - Extra News Mundo"
   },
@@ -3504,7 +3330,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 30,
-   "sources_n": 6,
+   "sources_n": 7,
    "title_it": "\"Me tiene el ICE\": Jorge Linares, ex campione mondiale di boxe venezuelano, è stato arrestato in Texas, Stati Uniti - NTN24",
    "title_es": "“Me tiene el ICE”: Jorge Linares, excampeón mundial de boxeo venezolano, fue detenido en Texas, Estados Unidos - NTN24"
   },
@@ -3743,7 +3569,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 40,
-   "sources_n": 6,
+   "sources_n": 7,
    "title_it": "L'ex campione del mondo in tre categorie Jorge Linares è stato arrestato dall'ICE",
    "title_es": "El ex campeón mundial de tres divisiones Jorge Linares detenido por el ICE"
   },
@@ -3755,8 +3581,8 @@
    "date": "2026-11-17T12:29:05-05:00",
    "status": "unverified",
    "boxers": [],
-   "score": 20,
-   "sources_n": 3,
+   "score": 10,
+   "sources_n": 2,
    "title_it": "Oscar Collazo affronterà Joey Canoy dopo aver evitato Ryusei Matsumoto",
    "title_es": "Óscar Collazo se enfrentará a Joey Canoy tras esquivar a Ryusei Matsumoto"
   },
@@ -3908,7 +3734,7 @@
    "status": "unverified",
    "boxers": [],
    "score": 40,
-   "sources_n": 6,
+   "sources_n": 7,
    "title_it": "Ex campione del mondo di boxe arrestato dall'ICE",
    "title_es": "Un expúgil campeón del mundo detenido por el ICE"
   },
@@ -3933,8 +3759,8 @@
    "date": "2026-11-17T09:31:33+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 30,
-   "sources_n": 3,
+   "score": 40,
+   "sources_n": 4,
    "title_it": "L'ex campione del mondo Linares è stato fermato dall'ICE in Texas",
    "title_es": "El excampeón del mundo Linares detenido por el ICE en Texas"
   },
@@ -4004,6 +3830,19 @@
    "title_es": "El boxeador Lee Reeves muere a los 31 años tras un brutal nocaut en Dublín"
   },
   {
+   "title": "The best boxers to never win a world title... including Aussie great who fought 61-round epic - Fox Sports",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPeW1kUHhJUFN3cXJDSHVVQ0VXZnNXNzNJOVJBV2x1ZnFWSVB2cXBhWVlybHZyZkZKU0hUNEN2RDRtMDlLMmQ5Zi13dExTdTdadWpMWUwxNlRyVW9PZjNmVWh1NmY3WURuOTY3UlVSZV9pLXVCazdqQkRkMUNSZ3laZUVjZGhxNldOZ0N5cVY4WDNJR2ZXbnRpMy1UTWVsVk8tdG1URXRDYkpYMUhMQVc0TERQVWI2SHAyR283amRnVjlEb2V2TUxfc3d2VUJfb3FENWJSbThFLXhWX2lDVTM2U1h2bS14NFZUbGxvQ2VaZWNtZk5IOUE?oc=5",
+   "source": "Google News: boxing",
+   "lang": "en",
+   "date": "2026-11-17T07:31:46+00:00",
+   "status": "confirmed",
+   "boxers": [],
+   "score": 18,
+   "sources_n": 1,
+   "title_it": "I migliori pugili che non hanno mai vinto un titolo mondiale... compreso il grande australiano che ha combattuto un epico incontro di 61 round - Fox Sports",
+   "title_es": "Los mejores boxeadores que nunca ganaron un título mundial... incluido el gran australiano que disputó un épico combate de 61 asaltos - Fox Sports"
+  },
+  {
    "title": "Unbeaten Heavyweight Teremoana Teremoana | 12 Fights, 12 KOs | Matchroom Boxing",
    "link": "https://www.youtube.com/watch?v=a3zjQ2JwAAc",
    "source": "YouTube Matchroom Boxing",
@@ -4067,6 +3906,175 @@
    "sources_n": 4,
    "title_it": "Teremoana Teremoana contro Hemi Ahio - Pesatura | Matchroom Boxing",
    "title_es": "Pesaje de Teremoana Teremoana contra Hemi Ahio | Matchroom Boxing"
+  },
+  {
+   "title": "El boxeador que inspiró Rocky",
+   "link": "https://www.mundodeportivo.com/boxeo/20261117/1004249545/chuck-wepner-muhammad-ali-boxeador-inspiro-rocky-pelicula-sylvester-stallone.html",
+   "source": "Mundo Deportivo Boxeo",
+   "lang": "es",
+   "date": "2026-11-17T05:45:00+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 0,
+   "sources_n": 1,
+   "title_it": "Il pugile che ha ispirato Rocky",
+   "title_es": "El boxeador que inspiró Rocky"
+  },
+  {
+   "title": "ICE detiene en Texas a Jorge Linares, excampeón mundial de boxeo venezolano - Medios OBSON",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVnhLTjZ2ZjJROGN0dzE5MW5nSEF2SExBd3FmcW9hRWZuUUw5QzZuc1ZvYXl2M1YyWDZ3OFdPR3JQQ2dXa3U0a0cyUUNneU9fNW9mNU9tSlV4LU90SG9yQnR3a2JyaWxyYkJVcGh4ajI5SVlSeC0zNkl1d1Z2XzBrUjdLSGpqSTU3VU9HcTVYZXdmT1laWHJrNmt3d3RPVDI3bGNpNmtwZDZSV1BVSWJR?oc=5",
+   "source": "Google News: boxeo",
+   "lang": "es",
+   "date": "2026-11-17T04:27:18+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 30,
+   "sources_n": 7,
+   "title_it": "L'ICE arresta in Texas Jorge Linares, ex campione del mondo di pugilato venezuelano - Medios OBSON",
+   "title_es": "ICE detiene en Texas a Jorge Linares, excampeón mundial de boxeo venezolano - Medios OBSON"
+  },
+  {
+   "title": "Campionati italiani Élite Assoluti di pugilato a Cuneo: sul ring oltre 100 concorrenti al palazzetto - La Stampa",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMjZiRUUyekVmVGdSU0pLREZHanlCSXBpeHQ5UVJhZDN3VVdXYmJMME1ONFl4d1pxSXh2U0Vpcmd2QUJxeDZ4MWFxNG1mbzNmV0xvcHBHMTU4UU1YUnN3TlpFRl9qTmd0QnBlTTVvZk41SV96NUpfbHgtSmMwZUczUm0tN1lTaXRmVHhGZGhESVRVQmk3RG1heU4tTUZMWG85Y0l6YmJLV3ZFbW5uMUdB?oc=5",
+   "source": "Google News: pugilato",
+   "lang": "it",
+   "date": "2026-11-17T04:00:00+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 0,
+   "sources_n": 1,
+   "title_it": "Campionati italiani Élite Assoluti di pugilato a Cuneo: sul ring oltre 100 concorrenti al palazzetto - La Stampa",
+   "title_es": "Campeonatos de Italia Élite Absolutos de Boxeo en Cúneo: más de 100 participantes en el ring del pabellón - La Stampa"
+  },
+  {
+   "title": "Dove vedere in tv Russo-Elmaghraby, pesi massimi: programma, orario, streaming - OA Sport",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZlBLN1RtN010Ui1MdDR0V25PVDdla3ptYmtvR3NsdmotZGVwQ0VLaGdoMDE5RVRUTDN1bjc3OUkwN0dEVVJ3bHliZlpiTVJsUGNvWHpnNmpCQXVlaVlsZGZHOXpCaHp0bXVnTGNKcXI4cHcwdkNpQVltVkdDVFI1dm1FQUQtcG9xbmp4WHJvR19QYWljVlZldVZycGdhZFlhMDd0eDYzdW9Dd9IBrwFBVV95cUxOa2tvbnllYWMyUlhWbV8wSmNhai1TUWxmcEtfTzdaNXM3enh2cF9QbUE3RlpPRS00S1drRUc0eldjNFRlLU83Q0ZsMThwTU5JemxBaHJfQUVWMWgtVGkxWENoaWtRNG1XTHp4R3M3aXRGSW1tTHhVM1ppLTJWM2NacTVJdTB4UkJWb0lfNWt3a3o2c3FEM2l2Ti1QdTFsZTh4cTFKZm1zY090bDVxR1FR?oc=5",
+   "source": "Google News: pugilato",
+   "lang": "it",
+   "date": "2026-11-17T03:45:14+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 0,
+   "sources_n": 1,
+   "title_it": "Dove vedere in tv Russo-Elmaghraby, pesi massimi: programma, orario, streaming - OA Sport",
+   "title_es": "Dónde ver en televisión Russo-Elmaghraby, pesos pesados: programa, horario, «streaming» - OA Sport"
+  },
+  {
+   "title": "Gallarate applaude la War Boxing Night, Lafratta trionfa a Gravellona Toce - La Prealpina",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWlpVOTdZMk5vWkRlbXpSRFhmODhGQ2JFa2NOYko2LTYwcmJKSHFUV214dnR5X2ExU0dRZGNXVXZxMGp6cUtOaVJDb0ZoeUFVX3Fqck9SSkNncl9oU1RvM1hSZGp1dnA3aDN2LWpzWm90VnZpcE1jbnRrajJQNDBhdm55dnkwOWxxTXNOUkxBc1BTX2tCN0FyRVBhcHdyTTlOZFN2dG4wWnU2MUZfdlRKZzJ4NzIzNGpYNUJrN2Z3?oc=5",
+   "source": "Google News: pugilato",
+   "lang": "it",
+   "date": "2026-11-17T03:30:00+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 10,
+   "sources_n": 2,
+   "title_it": "Gallarate applaude la War Boxing Night, Lafratta trionfa a Gravellona Toce - La Prealpina",
+   "title_es": "Gallarate aplaude la War Boxing Night; Lafratta triunfa en Gravellona Toce - La Prealpina"
+  },
+  {
+   "title": "Lee Reeves dies aged 31: Tragic boxer loses fight for life after three months in coma following brutal knockout loss",
+   "link": "https://www.thesun.co.uk/sport/41044381/boxer-lee-reeves-dies-coma-hospital/",
+   "source": "The Sun Boxing",
+   "lang": "en",
+   "date": "2026-11-17T02:11:57+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 18,
+   "sources_n": 2,
+   "title_it": "Lee Reeves muore a 31 anni: il tragico pugile perde la battaglia per la vita dopo tre mesi di coma a seguito di una brutale sconfitta per KO",
+   "title_es": "Lee Reeves fallece a los 31 años: el trágico boxeador pierde la batalla por su vida tras tres meses en coma después de una brutal derrota por «knockout»"
+  },
+  {
+   "title": "Former WBA world champion boxer Jorge Linares is arrested by ICE and held in Texas",
+   "link": "https://www.thesun.co.uk/sport/41044285/ex-champ-jorge-linares-arrested-ice-texas/",
+   "source": "The Sun Boxing",
+   "lang": "en",
+   "date": "2026-11-17T00:59:51+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 50,
+   "sources_n": 7,
+   "title_it": "L'ex campione del mondo WBA di pugilato Jorge Linares è stato arrestato dall'ICE e detenuto in Texas",
+   "title_es": "El exboxeador campeón mundial de la WBA Jorge Linares es detenido por el ICE y permanece recluido en Texas"
+  },
+  {
+   "title": "Former Venezuelan world champion boxer Linares detained by US immigration",
+   "link": "https://sports.yahoo.com/articles/former-venezuelan-world-champion-boxer-004132884.html",
+   "source": "Yahoo Sports Boxing",
+   "lang": "en",
+   "date": "2026-11-17T00:41:32+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 40,
+   "sources_n": 5,
+   "title_it": "Linares, ex campione del mondo venezuelano di boxe, detenuto dall'immigrazione statunitense",
+   "title_es": "El exboxeador venezolano campeón del mundo Linares detenido por inmigración estadounidense"
+  },
+  {
+   "title": "Former Venezuelan world champion boxer Linares detained by US immigration - Yahoo Sports",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSXhBcm5ORWJfYU43YWVLZThacnhHMDBaM3BZQ3gxRVpMYnpvekQ0OE82ZHN6R2h1NXhWUzE3SGVNTDJQQWdRQjdkbExSRFpJVlJscGJ0S1Q4S0x2Y20wTDVJMkRnM2JjZmJLTkg3cnlWTm15VHQyRTF6OG5xN3ljN2ltc042ZFh0dFFwLW15WXU?oc=5",
+   "source": "Google News: boxing",
+   "lang": "en",
+   "date": "2026-11-17T00:41:32+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 40,
+   "sources_n": 5,
+   "title_it": "L'ex campione del mondo venezuelano di boxe Linares è stato fermato dall'Immigrazione statunitense - Yahoo Sports",
+   "title_es": "El expúgil venezolano campeón del mundo Linares, detenido por Inmigración de EE. UU. - Yahoo Sports"
+  },
+  {
+   "title": "Irish boxer Lee Reeves dies at 31 due to fight-related injuries",
+   "link": "https://sports.yahoo.com/boxing/article/irish-boxer-lee-reeves-dies-at-31-due-to-fight-related-injuries-032658795.html",
+   "source": "Yahoo Sports Boxing",
+   "lang": "en",
+   "date": "2026-11-16T23:50:02+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 20,
+   "sources_n": 3,
+   "title_it": "Il pugile irlandese Lee Reeves muore a 31 anni a causa di lesioni riportate durante un incontro",
+   "title_es": "El boxeador irlandés Lee Reeves fallece a los 31 años a causa de lesiones relacionadas con un combate"
+  },
+  {
+   "title": "El boxeador venezolano Jorge Linares permanece bajo custodia del ICE en un centro de detención de Texas - El Diario Venezuela",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9xeUJkYXY4T3VNTVFLbjZlcUxmYmNqOHphUlBpajZ3cHI4aDhqWlVMUjlmOEl3S0xfWjBWS3duV01nTHdqbTVtRElSS3BKOWhaYk9yRzZubUUyNllRak9j?oc=5",
+   "source": "Google News: boxeo",
+   "lang": "es",
+   "date": "2026-11-16T23:45:07+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 30,
+   "sources_n": 7,
+   "title_it": "Il pugile venezuelano Jorge Linares rimane sotto la custodia dell'ICE in un centro di detenzione in Texas - El Diario Venezuela",
+   "title_es": "El boxeador venezolano Jorge Linares permanece bajo custodia del ICE en un centro de detención de Texas - El Diario Venezuela"
+  },
+  {
+   "title": "Fase Finali Campionati Italiani Elite 2026 - A Cuneo presentazione degli Assoluti M/F 2026 - FPI",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPM3RBczVCU1ZZRU9SN3UzTGVGTkVVUzFZaUdxYWhfUzhjdEUxdmZQTmkzcnlDcWdvcllWTlFJMmVtdDBNdzU5Q1Myc1U0N3RtR3p5RFgwQkpORlVPVUQ1MjJ6VDhLaDJnV3FIVEU2VEhuWmljbndXLTh2dlU2bkdHSXBYMVpFSVY4a2QtT2UteE95c2diQ0xHZENyZFlQYndVa0thRmpnZjFVb1gweFdWNWx6N1lhWnYxTGtqSld3d3hlT3podEozY3l0dC1rYlVR?oc=5",
+   "source": "Google News: pugilato",
+   "lang": "it",
+   "date": "2026-11-16T20:41:06+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 0,
+   "sources_n": 1,
+   "title_it": "Fase Finali Campionati Italiani Elite 2026 - A Cuneo presentazione degli Assoluti M/F 2026 - FPI",
+   "title_es": "Fase final de los Campeonatos de Italia Élite 2026 - Presentación en Cúneo de los Campeonatos Absolutos M/F 2026 - FPI"
+  },
+  {
+   "title": "Chris Eubank Jr in talks to fight Kell Brook in first bout since Conor Benn loss - with 'Special K' to come out of retirement",
+   "link": "https://www.dailymail.com/sport/boxing/article-16297543/Chris-Eubank-Jr-fight-Kell-Brook.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+   "source": "Daily Mail Boxing",
+   "lang": "en",
+   "date": "2026-11-16T20:33:12+00:00",
+   "status": "rumor",
+   "boxers": [],
+   "score": 45,
+   "sources_n": 1,
+   "title_it": "Chris Eubank Jr in trattative per affrontare Kell Brook nel primo incontro dopo la sconfitta contro Conor Benn, con \"Special K\" che torna dall'esilio sportivo",
+   "title_es": "Chris Eubank Jr. está negociando un combate contra Kell Brook, que sería su primer combate desde su derrota ante Conor Benn, y «Special K» volvería a subirse al ring tras su retirada."
   }
  ]
 }
