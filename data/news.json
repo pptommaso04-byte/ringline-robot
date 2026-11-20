@@ -1,8 +1,25 @@
 {
- "updated": "2026-11-20T07:21:24+00:00",
+ "updated": "2026-11-20T07:25:46+00:00",
  "feeds_ok": 47,
  "feeds_failed": 6,
  "news": [
+  {
+   "title": "Anthony Joshua says Usyk has given him one key instruction on how to beat Tyson Fury",
+   "link": "https://boxingnewsonline.net/news/joshua-on-usyk-instruction-to-beat-fury/",
+   "source": "Boxing News (UK)",
+   "lang": "en",
+   "date": "2026-11-20T07:24:20+00:00",
+   "status": "confirmed",
+   "boxers": [
+    "Tyson Fury",
+    "Anthony Joshua",
+    "Oleksandr Usyk"
+   ],
+   "score": 122,
+   "sources_n": 13,
+   "title_it": "Anthony Joshua afferma che Usyk gli ha dato un'indicazione fondamentale su come battere Tyson Fury",
+   "title_es": "Anthony Joshua dice que Usyk le ha dado una instrucción clave sobre cómo vencer a Tyson Fury"
+  },
   {
    "title": "F1 Academy champion Palmowski claims dominant Las Vegas pole",
    "link": "https://www.skysports.com/f1/live-blog/12040/13518208/f1-academy-2026-reports-calendar-news-results-standings-and-highlights-for-races-this-season",
@@ -245,8 +262,8 @@
    "date": "2026-11-20T01:49:09+00:00",
    "status": "confirmed",
    "boxers": [],
-   "score": 70,
-   "sources_n": 2,
+   "score": 60,
+   "sources_n": 1,
    "title_it": "Canelo accusato di \"spremere i fan\" dopo la vittoria di Mbilli",
    "title_es": "Acusan a Canelo de «exprimir a los aficionados» tras la victoria de Mbilli"
   },
@@ -323,7 +340,7 @@
    "date": "2026-11-19T23:23:06+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 66,
+   "score": 65,
    "sources_n": 3,
    "title_it": "Il campione del mondo dei pesi leggeri WBC Michal Cieslak: \"Sono un guerriero che non si arrenderà mai!\"",
    "title_es": "Campeón mundial de peso crucero del CMB, Michal Cieslak: \"¡Soy un guerrero que nunca retrocederá!\""
@@ -433,6 +450,19 @@
    "sources_n": 2,
    "title_it": "Interregionali campionati italiani Elite, i risultati del day 1: rivivi l’evento su Sportface TV",
    "title_es": "Campeonatos interregionales italianos Élite: resultados del día 1. Revive el evento en Sportface TV"
+  },
+  {
+   "title": "Pugilato: Clemente Russo torna sul ring a 44 anni. Sabato il grande rientro a Milano per \"The Art of Fighting - TAF 14\" - FRV News Magazine",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNeXFTZkpBWDRoXzdVejhqamlQSUtFblZfN0VndTNpZ1otU1BvN2ozeHpUVHhrTTJHRnpFcmRwYnVjUEo2dlBWUTRGWHI2SHFiblJZbVAxNHpFSDVmT3lwYXozc3RCRlQ2YkJNekZDQTBEc3R4ZHJhS1NOclJxRTBKb0R1LUQ0VGd2WU1VaEtaNURmeXBFVTlzMERyRUtaUUp5UjhFUU1DSHJQOTVHWENDOG9kWG1RMWlRRnpjZ0tzUDdpaHNYU1pJejVmbFAwaEhNb1NsUHJnREx1YVV4aXc?oc=5",
+   "source": "Google News: pugilato",
+   "lang": "it",
+   "date": "2026-11-19T21:09:48+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 44,
+   "sources_n": 3,
+   "title_it": "Pugilato: Clemente Russo torna sul ring a 44 anni. Sabato il grande rientro a Milano per \"The Art of Fighting - TAF 14\" - FRV News Magazine",
+   "title_es": "Boxeo: Clemente Russo vuelve al ring a los 44 años. El sábado, el gran regreso a Milán para «The Art of Fighting - TAF 14» - FRV News Magazine"
   },
   {
    "title": "'It's amazing that Scotland now has TWO world champions'... Meet the Kilmarnock kid who idolises Prince Naseem Hamed and is part of the Scottish boxing boom with Willy Hutchinson",
@@ -568,7 +598,7 @@
     "Tyson Fury"
    ],
    "score": 88,
-   "sources_n": 10,
+   "sources_n": 11,
    "title_it": "Come faceva Tyson Fury a muoversi in questo modo a 265 libbre? 😳🍿",
    "title_es": "¿Cómo se movía Tyson Fury así con 265 libras? 😳🍿"
   },
@@ -689,7 +719,7 @@
    "boxers": [
     "Canelo Alvarez"
    ],
-   "score": 118,
+   "score": 117,
    "sources_n": 4,
    "title_it": "Canelo Alvarez autorizzato a sfidare Willy Hutchinson per il titolo WBC dei pesi massimi leggeri",
    "title_es": "Canelo Álvarez recibe luz verde para disputar el título del peso semipesado (79,4 kg) del CMB contra Willy Hutchinson"
@@ -924,7 +954,7 @@
    "date": "2026-11-19T15:23:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 22,
+   "score": 21,
    "sources_n": 1,
    "title_it": "Pugilato: il ritorno di Tatanka - La Stampa",
    "title_es": "Pugilato: il ritorno di Tatanka - La Stampa"
@@ -1079,6 +1109,19 @@
    "sources_n": 1,
    "title_it": "Sono sopravvissuto a una rara malattia del sangue e ora punto a diventare campione del mondo di boxe",
    "title_es": "Superé una enfermedad sanguínea poco común y ahora mi objetivo es convertirme en campeón del mundo de boxeo."
+  },
+  {
+   "title": "Chi è Federica Monacelli, la presunta nuova compagna di Eros Ramazzotti è una pugile e ha 36 anni - Fanpage",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcGZqeWxUbEtENmlrNzM3ZkJZQTBxcm5IcDVud1pRV29MeUtTekIzTXdXUTFoaVFNV2ZaWDAtVEllbFJUdDdpVXVucE9oWDh1UVlwVG5SRDE2RU1wZnJDa0tvVkpZWmczc1Q2ZWJSX3h6d1FvVVVTLWhwLVc3bUJXNklSZFZWakNJck90VEd2RUFmVTJtUVBwc0RuaktmRjhnNENVZTdLYjZKUGtaelRRZkpzZ09FRDNDMGxPWVI4V2t5elJNcHBocEoxQjFYaUQwV0NmXzZKbm4?oc=5",
+   "source": "Google News: pugilato",
+   "lang": "it",
+   "date": "2026-11-19T12:40:14+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 20,
+   "sources_n": 1,
+   "title_it": "Chi è Federica Monacelli, la presunta nuova compagna di Eros Ramazzotti è una pugile e ha 36 anni - Fanpage",
+   "title_es": "Quién es Federica Monacelli, la supuesta nueva pareja de Eros Ramazzotti: es boxeadora y tiene 36 años - Fanpage"
   },
   {
    "title": "Jasmine Di Felice sul ring di Montesilvano per il titolo intercontinentale Wba di pugilato femminile - Abruzzo Popolare",
@@ -1301,7 +1344,7 @@
     "Anthony Joshua"
    ],
    "score": 84,
-   "sources_n": 10,
+   "sources_n": 11,
    "title_it": "Quanti figli ha Anthony Joshua?",
    "title_es": "¿Cuántos hijos tiene Anthony Joshua?"
   },
@@ -1425,7 +1468,7 @@
     "Anthony Joshua"
    ],
    "score": 83,
-   "sources_n": 10,
+   "sources_n": 11,
    "title_it": "Anthony Joshua mette fine al regime di allenamento intenso dal bere 10 litri di acqua al GIORNO alla dieta da 4.500 calorie",
    "title_es": "Anthony Joshua revela su régimen de entrenamiento intenso, desde beber 10 litros de agua al DÍA hasta una dieta de 4.500 calorías"
   },
@@ -1479,7 +1522,7 @@
    "date": "2026-11-19T07:21:14+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 18,
+   "score": 17,
    "sources_n": 1,
    "title_it": "Pugilato. Boxe Empoli in festa al Torneo Brasca con Caggiano e Nani - La Nazione",
    "title_es": "Pugilato. Boxe Empoli de fiesta en el Torneo Brasca con Caggiano y Nani - La Nazione"
@@ -1644,7 +1687,7 @@
    "date": "2026-11-19T01:21:58+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 35,
+   "score": 34,
    "sources_n": 3,
    "title_it": "Canoy sfida Collazo - Daily Tribune",
    "title_es": "Canoy desafía a Collazo - Daily Tribune"
@@ -1766,7 +1809,7 @@
     "Anthony Joshua"
    ],
    "score": 78,
-   "sources_n": 10,
+   "sources_n": 11,
    "title_it": "Anthony Joshua si apre sull'inganno della morte in un incidente stradale che ha ucciso alcuni amici",
    "title_es": "Anthony Joshua habla sobre engañar a la muerte en un accidente automovilístico que mató a sus amigos"
   },
@@ -1781,7 +1824,7 @@
     "Anthony Joshua"
    ],
    "score": 78,
-   "sources_n": 10,
+   "sources_n": 11,
    "title_it": "Anthony Joshua conferma di essere diventato papà per la seconda volta e afferma: \"Era mio dovere mettere al mondo una nuova vita\"",
    "title_es": "Anthony Joshua confirma que ha sido padre por segunda vez y afirma: «Era mi deber traer una vida al mundo»."
   },
@@ -1838,7 +1881,7 @@
     "Anthony Joshua"
    ],
    "score": 78,
-   "sources_n": 10,
+   "sources_n": 11,
    "title_it": "Anthony Joshua rivela la madre del suo bambino segreto e dichiara il nome",
    "title_es": "Anthony Joshua revela la madre de su bebé secreto y hace una declaración sobre su nombre"
   },
@@ -1853,7 +1896,7 @@
     "Anthony Joshua"
    ],
    "score": 78,
-   "sources_n": 10,
+   "sources_n": 11,
    "title_it": "Anthony Joshua rivela di aver avuto una bambina e dice che \"era mio dovere riportare la vita\" dopo che i suoi amici sono morti in un incidente horror",
    "title_es": "Anthony Joshua revela que tuvo una niña y dice que \"era mi deber darle vida\" después de que sus amigos murieran en un terrible accidente"
   },
@@ -1884,7 +1927,7 @@
     "Anthony Joshua"
    ],
    "score": 78,
-   "sources_n": 10,
+   "sources_n": 11,
    "title_it": "Anthony Joshua è entusiasta di essere \"papà ragazza\" e anticipa che \"si truccherà e berrà il tè nel teatro\" - ma fidanzati state attenti!",
    "title_es": "Anthony Joshua está encantado de ser \"papá niña\" y se burla de que \"se maquillará y tomará té en la casa de juegos\", ¡pero, novios, tengan cuidado!"
   },
@@ -1899,7 +1942,7 @@
     "Anthony Joshua"
    ],
    "score": 78,
-   "sources_n": 10,
+   "sources_n": 11,
    "title_it": "Anthony Joshua si apre sull'\"esperienza dolorosamente traumatica\" della tragica morte dei suoi amici e rivela perché rifiuta la terapia",
    "title_es": "Anthony Joshua habla sobre la 'experiencia dolorosamente traumática' de la trágica muerte de sus amigos y revela por qué rechaza la terapia"
   },
@@ -1914,7 +1957,7 @@
     "Anthony Joshua"
    ],
    "score": 78,
-   "sources_n": 10,
+   "sources_n": 11,
    "title_it": "Anthony Joshua si apre sui piani per la pensione ammettendo che \"non gli restano molti anni nella boxe\"",
    "title_es": "Anthony Joshua habla sobre sus planes de retiro y admite que \"no le quedan muchos años en el boxeo\""
   },
@@ -1929,7 +1972,7 @@
     "Anthony Joshua"
    ],
    "score": 78,
-   "sources_n": 10,
+   "sources_n": 11,
    "title_it": "Anthony Joshua elogia la \"fenomenale\" mamma Nicole per avergli dato \"due anime straordinarie\" dopo aver dato il benvenuto alla figlia",
    "title_es": "Anthony Joshua elogia a la 'fenomenal' mamá Nicole por darle 'dos ​​almas increíbles' después de darle la bienvenida a su hija"
   },
@@ -1974,19 +2017,6 @@
    "sources_n": 5,
    "title_it": "Citazioni dalla conferenza stampa di Lauren Price contro Michaela Kotaskova e pronostico dell'incontro",
    "title_es": "Citas de la rueda de prensa y pronóstico del combate de Lauren Price contra Michaela Kotaskova"
-  },
-  {
-   "title": "Devin Haney sums up Canelo’s chances of beating Terence Crawford in rematch after Mbilli win",
-   "link": "https://boxingnewsonline.net/news/devin-haney-on-canelo-crawford-rematch/",
-   "source": "Boxing News (UK)",
-   "lang": "en",
-   "date": "2026-11-18T20:56:00+00:00",
-   "status": "confirmed",
-   "boxers": [],
-   "score": 95,
-   "sources_n": 4,
-   "title_it": "Devin Haney riassume le possibilità di Canelo di battere Terence Crawford nella rivincita dopo la vittoria su Mbilli",
-   "title_es": "Devin Haney resume las posibilidades de Canelo de vencer a Terence Crawford en la revancha tras la victoria sobre Mbilli"
   },
   {
    "title": "Oscar De La Hoya reveals who Vergil Ortiz Jr is chasing after Keith Thurman fight",
@@ -2087,7 +2117,7 @@
    "date": "2026-11-18T17:22:35+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 11,
+   "score": 10,
    "sources_n": 1,
    "title_it": "Tre mesi in coma dopo un match: morto il pugile Lee Reeves - Ticinonline",
    "title_es": "Tres meses en coma tras un combate: fallece el boxeador Lee Reeves - Ticinonline"
@@ -2295,7 +2325,7 @@
    "date": "2026-11-18T15:25:33+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 40,
+   "score": 39,
    "sources_n": 7,
    "title_it": "Jorge Linares, ex campione del mondo di boxe, rischia l'espulsione dopo essere stato arrestato dall'ICE in Texas - EL PAÍS",
    "title_es": "Jorge Linares, excampeón mundial de boxeo, enfrenta un proceso de deportación tras ser detenido por el ICE en Texas - EL PAÍS"
@@ -2567,7 +2597,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 48,
+   "score": 47,
    "sources_n": 13,
    "title_it": "Il sottoclou di Fury vs Joshua su Netflix va di male in peggio",
    "title_es": "La velada preliminar de Fury vs. Joshua de Netflix va de mal en peor"
@@ -3998,7 +4028,7 @@
     "Anthony Joshua"
    ],
    "score": 65,
-   "sources_n": 10,
+   "sources_n": 11,
    "title_it": "Johnny Fisher punta a un incontro con l'ultimo avversario di Anthony Joshua: rivelata la data prevista",
    "title_es": "Johnny Fisher tiene en el punto de mira un combate con el último rival de Anthony Joshua, cuya fecha prevista ya se ha revelado"
   },
@@ -4043,34 +4073,6 @@
    "sources_n": 1,
    "title_it": "Rispetto a Floyd Mayweather nel pugilato, Blinded nel pugilato a mani nude",
    "title_es": "Comparado con Floyd Mayweather en el boxeo, cegado en el boxeo a puño limpio"
-  },
-  {
-   "title": "British rapper accepted fight with Tommy Fury, but never heard back",
-   "link": "https://talksport.com/boxing/4711014/british-rapper-fight-tommy-fury-bugzy-malone/",
-   "source": "Talksport Boxing",
-   "lang": "en",
-   "date": "2026-11-16T15:31:46+00:00",
-   "status": "unverified",
-   "boxers": [
-    "Tyson Fury"
-   ],
-   "score": 30,
-   "sources_n": 3,
-   "title_it": "Il rapper britannico ha accettato di combattere contro Tommy Fury, ma non ha mai ricevuto una risposta",
-   "title_es": "El rapero británico aceptó pelear con Tommy Fury, pero nunca recibió respuesta."
-  },
-  {
-   "title": "Qual è la carriera di Clemente Russo? Biografia, successi, medaglie olimpiche e ritorno sul ring - Spettegolando",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZjhESDFxam14eDRZV01jQnhfSmZJSERvd2J5S1JqV2xWZzZtUmJHU1dCUFNfV2NLWmdSbGYxMWNmZU9GZWtMV3V6dTVrd05yUGNpN0c1UXh4Yk9qelZBSXdjbmh2RFlCOXpoUDBVN0dVVVBzRDA5eVU2NHgzSTdTbk9pcU1tWWJrMC1BMGpEZENVcXdXWmswNW1NRUVSUVZxR3k2QndCOXp1UFp3TmN4QURwTjYyU1pjdWRaM2NmX05XV2hpNWc?oc=5",
-   "source": "Google News: boxe italiana",
-   "lang": "it",
-   "date": "2026-11-16T15:00:04+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 20,
-   "sources_n": 3,
-   "title_it": "Qual è la carriera di Clemente Russo? Biografia, successi, medaglie olimpiche e ritorno sul ring - Spettegolando",
-   "title_es": "¿Cuál es la trayectoria de Clemente Russo? Biografía, éxitos, medallas olímpicas y regreso al ring - Spettegolando"
   }
  ]
 }
