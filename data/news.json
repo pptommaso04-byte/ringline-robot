@@ -1,8 +1,21 @@
 {
- "updated": "2026-11-20T16:06:41+00:00",
- "feeds_ok": 48,
- "feeds_failed": 5,
+ "updated": "2026-11-20T16:10:57+00:00",
+ "feeds_ok": 47,
+ "feeds_failed": 6,
  "news": [
+  {
+   "title": "Huge crowd gathers for funeral of Irish boxer Lee Reeves after he passed away following knockout in the ring and three-month coma",
+   "link": "https://www.dailymail.com/sport/boxing/article-16309471/funeral-Irish-boxer-Lee-Reeves-passed-knockout-coma.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+   "source": "Daily Mail Boxing",
+   "lang": "en",
+   "date": "2026-11-20T16:06:47+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 67,
+   "sources_n": 4,
+   "title_it": "Una folla enorme si riunisce per il funerale del pugile irlandese Lee Reeves, deceduto dopo un knockout sul ring e tre mesi di coma",
+   "title_es": "Una gran multitud se reúne para el funeral del boxeador irlandés Lee Reeves tras su fallecimiento después de un «nocaut» en el ring y tres meses en coma."
+  },
   {
    "title": "Devin Haney sums up Ryan Garcia’s punching power from first fight as he targets rematch",
    "link": "https://boxingnewsonline.net/news/devin-haney-on-ryan-garcia-power/",
@@ -15,19 +28,6 @@
    "sources_n": 2,
    "title_it": "Devin Haney riassume la potenza di pugno di Ryan Garcia dal primo incontro mentre punta alla rivincita",
    "title_es": "Devin Haney resume la potencia de los golpes de Ryan García en su primer combate mientras se prepara para la revancha"
-  },
-  {
-   "title": "Huge crowd gathers for funeral of Irish boxer Lee Reeves after he passed away following knockout in the ring and three-month coma",
-   "link": "https://www.dailymail.com/sport/boxing/article-16309471/funeral-Irish-boxer-Lee-Reeves-passed-knockout-coma.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-   "source": "Daily Mail Boxing",
-   "lang": "en",
-   "date": "2026-11-20T16:00:54+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 67,
-   "sources_n": 4,
-   "title_it": "Una folla enorme si riunisce per il funerale del pugile irlandese Lee Reeves, deceduto dopo un knockout sul ring e tre mesi di coma",
-   "title_es": "Una gran multitud se reúne para el funeral del boxeador irlandés Lee Reeves tras su fallecimiento después de un «nocaut» en el ring y tres meses en coma."
   },
   {
    "title": "DRAMATIC Boxing Comebacks 😱",
@@ -844,8 +844,8 @@
    "date": "2026-11-20T01:58:42+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 22,
-   "sources_n": 1,
+   "score": 32,
+   "sources_n": 2,
    "title_it": "Avila Perspective, Chap 403: La boxe della California meridionale è al centro della scena con un intenso fine settimana di combattimenti",
    "title_es": "Avila Perspective, Capítulo 403: El boxeo del sur de California ocupa un lugar central con un fin de semana ocupado de peleas"
   },
@@ -974,8 +974,8 @@
    "date": "2026-11-19T23:08:51+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 49,
-   "sources_n": 2,
+   "score": 59,
+   "sources_n": 3,
    "title_it": "L'imbattuto Topeka dei pesi massimi John Cantrell sarà il protagonista dell'evento di boxe \"Night of Legends\" del 9 gennaio",
    "title_es": "El invicto peso pesado de Topeka, John Cantrell, encabeza el evento de boxeo 'Night of Legends' el 9 de enero"
   },
@@ -1218,7 +1218,7 @@
    "date": "2026-11-19T18:07:30+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 82,
+   "score": 81,
    "sources_n": 12,
    "title_it": "Lotte per il titolo indiscusso, un Deontay Wilder tutti contro tutti e altro ancora: 5 trame di boxe da guardare questo fine settimana",
    "title_es": "Peleas por el título indiscutible, un todos contra todos con Deontay Wilder y más: 5 historias de boxeo para ver este fin de semana"
@@ -1401,7 +1401,7 @@
    "date": "2026-11-19T16:10:33+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 38,
+   "score": 37,
    "sources_n": 3,
    "title_it": "Citazioni dalla conferenza stampa e pronostico dell'incontro tra Amari Jones e DeAundre Pettus",
    "title_es": "Citas de la rueda de prensa y pronóstico del combate de Amari Jones contra DeAundre Pettus"
@@ -1750,7 +1750,7 @@
    "date": "2026-11-19T10:09:43+00:00",
    "status": "rumor",
    "boxers": [],
-   "score": 63,
+   "score": 62,
    "sources_n": 5,
    "title_it": "Lauren Price indica due grandi nomi con cui vorrebbe combattere se diventasse campionessa indiscussa",
    "title_es": "Lauren Price nombra a dos grandes nombres contra los que quiere pelear si se convierte en campeona indiscutible"
@@ -1763,7 +1763,7 @@
    "date": "2026-11-19T10:08:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 45,
+   "score": 44,
    "sources_n": 6,
    "title_it": "L’ICE arresta Jorge Linares: l'ex campione di pugilato rischia l’espulsione - RaiNews",
    "title_es": "La Policía de Extranjería e Inmigración detiene a Jorge Linares: el excampeón de boxeo se enfrenta a la expulsión - RaiNews"
@@ -1779,7 +1779,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 81,
+   "score": 80,
    "sources_n": 14,
    "title_it": "Chi vincerà l'incontro Fury-Joshua? I giornalisti dell'Independent pronosticano l'esito del super-incontro britannico",
    "title_es": "¿Quién ganará el combate Fury vs. Joshua? Los redactores de The Independent pronostican el resultado del supercombate británico"
@@ -2213,19 +2213,6 @@
    "title_es": "Anthony Joshua confirma que se ha convertido en padre por segunda vez y dice: \"Era mi deber darle vida\""
   },
   {
-   "title": "Boxing News: Alycia Baumgardner Vacating Super Featherweight World Titles » November 19, 2026 - FightNews",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaGFhRWZDS0JzN1FhVDZReE5QMlBRb0NWVC1PaktUM0lhYmFIbFRDWUF0NDdNUkNFSDkybHZRbFpVX1BlVWEzZ1VXR3p6OXZTY09Bc1hPZVFWNklQLXlSVEwxaHhSdng2cExEVC1nWnphMEFaVXExbThWR1FROHNyRWFzSS1kYVE2TGZPWXg2QjlHcG8?oc=5",
-   "source": "Google News: boxing",
-   "lang": "en",
-   "date": "2026-11-18T21:57:53+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 48,
-   "sources_n": 6,
-   "title_it": "Notizie di boxe: Alycia Baumgardner rinuncia ai titoli mondiali dei pesi superpiuma » 19 novembre 2026 - FightNews",
-   "title_es": "Noticias de boxeo: Alycia Baumgardner renuncia a los títulos mundiales del peso superpluma » 19 de noviembre de 2026 - FightNews"
-  },
-  {
    "title": "Alycia Baumgardner announces move to vacate 130-lb world titles",
    "link": "https://bigfightweekend.com/2026/11/18/alycia-baumgardner-to-vacate-titles/",
    "source": "Big Fight Weekend",
@@ -2462,8 +2449,8 @@
    "date": "2026-11-18T19:51:48+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 27,
-   "sources_n": 2,
+   "score": 37,
+   "sources_n": 3,
    "title_it": "La mazzetta da 100.000 dollari a metà incontro che ha sconvolto la boxe dei pesi massimi",
    "title_es": "El soborno de 100 000 $ a mitad de combate que sacudió el boxeo de pesos pesados"
   },
@@ -2579,7 +2566,7 @@
    "date": "2026-11-18T16:10:50+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 34,
+   "score": 33,
    "sources_n": 1,
    "title_it": "Price ora lotta per diventare il primo campione del mondo indiscusso del Galles",
    "title_es": "Price ahora lucha por ser el primer campeón mundial indiscutible de Gales"
@@ -4075,6 +4062,19 @@
    "sources_n": 3,
    "title_it": "Il pugile Lee Reeves muore all'età di 31 anni dopo un brutale ko a Dublino",
    "title_es": "El boxeador Lee Reeves muere a los 31 años tras un brutal nocaut en Dublín"
+  },
+  {
+   "title": "Unbeaten Heavyweight Teremoana Teremoana | 12 Fights, 12 KOs | Matchroom Boxing",
+   "link": "https://www.youtube.com/watch?v=a3zjQ2JwAAc",
+   "source": "YouTube Matchroom Boxing",
+   "lang": "en",
+   "date": "2026-11-17T07:30:09+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 48,
+   "sources_n": 5,
+   "title_it": "Teremona dei pesi massimi imbattuto Teremona | 12 combattimenti, 12 KO | Boxe da incontro",
+   "title_es": "Peso pesado invicto Teremona Teremona | 12 peleas, 12 nocauts | Boxeo en la sala de partidos"
   }
  ]
 }
