@@ -1,21 +1,8 @@
 {
- "updated": "2026-11-20T12:05:44+00:00",
- "feeds_ok": 48,
- "feeds_failed": 5,
+ "updated": "2026-11-20T12:10:56+00:00",
+ "feeds_ok": 47,
+ "feeds_failed": 6,
  "news": [
-  {
-   "title": "Clemente Russo domani torna sul ring, la sindaca Iodice: \"Forza Tatanka, siamo tutti con te\" - www.ecaserta.com",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNm85aU9IeWJ0NEZLSUl4aGhaZkNlUVdlNlpTV1haY1hUS2NpbTF2ZkE0OWhoZm5NTDI1WFlVY1JwRXE4d053bmhwOWxjUjdjNFZwaFIzb05vTTNueVc5ZlBqMGhQazRZb2l6UzIyRHFjMEkyejl4V0YxSVFkVjNtb0hDbDhwM3pVcnVJdHd2aExydDRzWnBxd295UzU4NTkwNUxfZnZuSWsxZE5nc2RoMC1Jd1dQZHFwV05DUTBUUThNNVpkdGVfVDdR?oc=5",
-   "source": "Google News: pugilato",
-   "lang": "it",
-   "date": "2026-11-20T11:55:00+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 49,
-   "sources_n": 3,
-   "title_it": "Clemente Russo domani torna sul ring, la sindaca Iodice: \"Forza Tatanka, siamo tutti con te\" - www.ecaserta.com",
-   "title_es": "Clemente Russo vuelve mañana al ruedo, el intendente Iosa dice: \"Vamos Tatanka, estamos todos contigo\" - www.ecaserta.com"
-  },
   {
    "title": "‘Boy or Girl’ Sex-Test Blunder Costs Teen World Championships",
    "link": "https://www.worldboxingnews.com/boy-or-girl-sex-test-blunder-boxer/",
@@ -944,7 +931,7 @@
    "date": "2026-11-19T18:07:30+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 84,
+   "score": 83,
    "sources_n": 12,
    "title_it": "Lotte per il titolo indiscusso, un Deontay Wilder tutti contro tutti e altro ancora: 5 trame di boxe da guardare questo fine settimana",
    "title_es": "Peleas por el título indiscutible, un todos contra todos con Deontay Wilder y más: 5 historias de boxeo para ver este fin de semana"
@@ -1143,7 +1130,7 @@
    "date": "2026-11-19T16:10:33+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 40,
+   "score": 39,
    "sources_n": 3,
    "title_it": "Citazioni dalla conferenza stampa e pronostico dell'incontro tra Amari Jones e DeAundre Pettus",
    "title_es": "Citas de la rueda de prensa y pronóstico del combate de Amari Jones contra DeAundre Pettus"
@@ -1523,7 +1510,7 @@
    "date": "2026-11-19T10:09:43+00:00",
    "status": "rumor",
    "boxers": [],
-   "score": 65,
+   "score": 64,
    "sources_n": 5,
    "title_it": "Lauren Price nomina due grandi nomi contro cui vuole combattere se diventa indiscussa",
    "title_es": "Lauren Price nombra dos grandes nombres con los que quiere pelear si se vuelve indiscutible"
@@ -1536,7 +1523,7 @@
    "date": "2026-11-19T10:08:00+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 47,
+   "score": 46,
    "sources_n": 7,
    "title_it": "L’ICE arresta Jorge Linares: l'ex campione di pugilato rischia l’espulsione - RaiNews",
    "title_es": "ICE arresta a Jorge Linares: el ex campeón de boxeo corre el riesgo de ser expulsado - RaiNews"
@@ -1552,7 +1539,7 @@
     "Tyson Fury",
     "Anthony Joshua"
    ],
-   "score": 83,
+   "score": 82,
    "sources_n": 13,
    "title_it": "Chi vincerà l'incontro Fury-Joshua? I giornalisti dell'Independent pronosticano l'esito del super-incontro britannico",
    "title_es": "¿Quién ganará el combate Fury vs. Joshua? Los redactores de The Independent pronostican el resultado del supercombate británico"
@@ -1751,6 +1738,19 @@
    "sources_n": 3,
    "title_it": "Amari Jones si fa strada verso l'incontro per il titolo dei pesi medi",
    "title_es": "Amari Jones se abre camino hacia la pelea por el título del peso medio"
+  },
+  {
+   "title": "Pugilato. Boxe Empoli in festa al Torneo Brasca con Caggiano e Nani - La Nazione",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOamNEVDN4NWVha05WUkV4UEdJVHRJQmdRcGxCUTAtbzlYTlV4eDdqRGZMUDFnRGhEVzViU1pKY2NXSXlhclNfRE5HaDlKYmVBWW5iRk5yZ0N0MTA0enlpTTVFS3RuZEtLYWJ1OS1nX0lHV0NDa2pUTFlHZm5XSE9aRXhB?oc=5",
+   "source": "Google News: pugilato",
+   "lang": "it",
+   "date": "2026-11-19T07:21:14+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 15,
+   "sources_n": 1,
+   "title_it": "Pugilato. Boxe Empoli in festa al Torneo Brasca con Caggiano e Nani - La Nazione",
+   "title_es": "Boxeo. Boxeo Empoli celebra en el Torneo Brasca con Caggiano y Nani - La Nazione"
   },
   {
    "title": "'Power Slap world title would change my life'",
@@ -2378,7 +2378,7 @@
    "date": "2026-11-18T16:10:50+00:00",
    "status": "unverified",
    "boxers": [],
-   "score": 36,
+   "score": 35,
    "sources_n": 1,
    "title_it": "Price ora lotta per diventare il primo campione del mondo indiscusso del Galles",
    "title_es": "Price ahora lucha por ser el primer campeón mundial indiscutible de Gales"
@@ -2816,19 +2816,6 @@
    "sources_n": 2,
    "title_it": "KNOCKOUT CON UN SOLO PUGNO 😤Un KO brutale in Australia oggi grazie al 21enne Omar El-Abdallah 💥",
    "title_es": "DEJA FRÍO A SU RIVAL DE UN SOLO PUÑETAZO 😤Hoy, un brutal KO en Australia de la mano del joven Omar El-Abdallah, de 21 años 💥"
-  },
-  {
-   "title": "Vittorio Ferri, una vita sul ring. Il pugile reatino che sfidò i grandi sarà ricordato con un Memorial - Rietinvetrina",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaUk1N19VN1lVQmdncUdGRzFrLU1lUWU5OWNzU3VjLUtiNjFxMVdwc3hFWmQxb0NjQWxOaHl3WXlVaXQycWowNVFMOTRKQlBQUjJ4bGt1TWU0RE1oay1TMTZ4NEhOTXRUZThuU3ZhNTlqQmUtUm9zYlNWRzlIT1ZuZWZxZks1cmFWdnV6Q0NNVFBJNEhCMlZhQ3NkU244N204alpSd2hjX2RLdFZva1NiX0xKazFEZVAwb0xoRFlzb2pxYjFnTzZKZWtn?oc=5",
-   "source": "Google News: pugilato",
-   "lang": "it",
-   "date": "2026-11-18T10:10:37+00:00",
-   "status": "unverified",
-   "boxers": [],
-   "score": 5,
-   "sources_n": 1,
-   "title_it": "Vittorio Ferri, una vita sul ring. Il pugile reatino che sfidò i grandi sarà ricordato con un Memorial - Rietinvetrina",
-   "title_es": "Vittorio Ferri, una vida en el ring. El boxeador de Rieti que desafió a los grandes será recordado con un Memorial - Rietinvetrina"
   },
   {
    "title": "KO Of The Year Contender 🚨 Omar El-Abdallah Wipes Out Nicholas Benn!",
@@ -4069,6 +4056,19 @@
    "sources_n": 7,
    "title_it": "Il pugile venezuelano Jorge Linares rimane in custodia dell'ICE in un centro di detenzione del Texas - El Diario Venezuela",
    "title_es": "El boxeador venezolano Jorge Linares permanece bajo custodia del ICE en un centro de detención de Texas - El Diario Venezuela"
+  },
+  {
+   "title": "Fase Finali Campionati Italiani Elite 2026 - A Cuneo presentazione degli Assoluti M/F 2026 - FPI",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPM3RBczVCU1ZZRU9SN3UzTGVGTkVVUzFZaUdxYWhfUzhjdEUxdmZQTmkzcnlDcWdvcllWTlFJMmVtdDBNdzU5Q1Myc1U0N3RtR3p5RFgwQkpORlVPVUQ1MjJ6VDhLaDJnV3FIVEU2VEhuWmljbndXLTh2dlU2bkdHSXBYMVpFSVY4a2QtT2UteE95c2diQ0xHZENyZFlQYndVa0thRmpnZjFVb1gweFdWNWx6N1lhWnYxTGtqSld3d3hlT3podEozY3l0dC1rYlVR?oc=5",
+   "source": "Google News: pugilato",
+   "lang": "it",
+   "date": "2026-11-16T20:41:06+00:00",
+   "status": "unverified",
+   "boxers": [],
+   "score": 0,
+   "sources_n": 1,
+   "title_it": "Fase Finali Campionati Italiani Elite 2026 - A Cuneo presentazione degli Assoluti M/F 2026 - FPI",
+   "title_es": "Fase final del Campeonato Italiano Élite 2026 - Presentación de los monos M/F 2026 en Cuneo - FPI"
   }
  ]
 }
